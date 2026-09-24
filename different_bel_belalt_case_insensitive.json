@@ -109,7 +109,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbAncestorGuardian",
-    "custom": "",
+    "custom": "Супраціўленні заступніка продкаў",
     "en": "Ancestor Guardian Resistances",
     "ru": "Защита стража предков",
     "bel": "Супраціўленні вартаўніка продкаў",
@@ -361,7 +361,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbDAAzura",
-    "custom": "",
+    "custom": "Праклёны пакутнікаў Азуры",
     "en": "Azura's Afflicted Brethren Curses",
     "ru": "Проклятие зараженного последователя Азуры",
     "bel": "Праклён заражанага паслядоўніка Азуры",
@@ -433,7 +433,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbDremora4KynmarcherResist",
-    "custom": "",
+    "custom": "Супраціўленне магіі Кінмаршэра",
     "en": "Kynmarcher Resist Magic",
     "ru": "Сопротивление кинмаршера магии",
     "bel": "Супраціў кінмаршэра магіі",
@@ -442,7 +442,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbDremora5MarkynazResist",
-    "custom": "",
+    "custom": "Супраціўленне магіі Маркіназа",
     "en": "Markynaz Resist Magic",
     "ru": "Сопротивление маркиназа магии",
     "bel": "Супраціў маркіназа магіі",
@@ -451,7 +451,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbDremora6ValkynazResist",
-    "custom": "",
+    "custom": "Супраціўленне магіі Валкіназа",
     "en": "Valkynaz Resist Magic",
     "ru": "Сопротивление валкиназа магии",
     "bel": "Супраціў валкіназа магіі",
@@ -460,7 +460,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbGhostNPC",
-    "custom": "",
+    "custom": "Прывідныя сілы",
     "en": "Ghostly powers",
     "ru": "Силы призраков",
     "bel": "Сілы прывідаў",
@@ -469,7 +469,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbGoblinShamanSpellAbsorb",
-    "custom": "",
+    "custom": "Паглынанне заклінанняў",
     "en": "Spell Absorption",
     "ru": "Поглощение заклинаний",
     "bel": "Паглынанне заклінанняў",
@@ -478,7 +478,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbGoblinWarlordResist",
-    "custom": "",
+    "custom": "Супраціўленне магіі",
     "en": "Magic Resistance",
     "ru": "Сопротивление магии",
     "bel": "Супраціў магіі",
@@ -487,7 +487,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbHackdirtMonster",
-    "custom": "",
+    "custom": "Здольнасць монстра Хакдзірта",
     "en": "Hackdirt Monster Ability",
     "ru": "Хакдирт",
     "bel": "Хакдзірт",
@@ -496,7 +496,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbHelviusCeciaTraining",
-    "custom": "",
+    "custom": "Навык трэніроўкі Гельвіуса Сесіі",
     "en": "Helvius Cecia Training Ability",
     "ru": "Способность Хелвиуса Сисии",
     "bel": "Здольнасць Хелвіуса Сісія",
@@ -505,7 +505,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbImmuneToWaterDamage",
-    "custom": "",
+    "custom": "Імунітэт да пашкоджання вадой",
     "en": "Immune to Water Damage",
     "ru": "Иммунитет к утоплению",
     "bel": "Імунітэт да ўтаплення",
@@ -514,7 +514,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbImpWaterWalk",
-    "custom": "",
+    "custom": "Хаджэнне беса па вадзе",
     "en": "Imp Water Walk",
     "ru": "Хождение беса по воде",
     "bel": "Хаджэнне беса па вадзе",
@@ -523,7 +523,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbLandDreugh",
-    "custom": "",
+    "custom": "Даспехі наземнага дрэуга",
     "en": "Land Dreugh armor",
     "ru": "Дреугские доспехи",
     "bel": "Дрэугскія даспехі",
@@ -541,7 +541,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbOgreResistances",
-    "custom": "",
+    "custom": "Супраціўленні огра",
     "en": "Ogre Resistances",
     "ru": "Защита огра",
     "bel": "Абарона огра",
@@ -550,7 +550,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbPilgrimsGrace",
-    "custom": "",
+    "custom": "Ласка пілігрыма",
     "en": "Pilgrim's Grace",
     "ru": "Благодать пилигрима",
     "bel": "Мілата пілігрыма",
@@ -559,7 +559,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbRaceArgonianResistDisease",
-    "custom": "",
+    "custom": "Супраціў аргоніан хваробам",
     "en": "Argonian Disease Resistance",
     "ru": "Сопротивление аргониан болезням",
     "bel": "Супраціў аргоніан хваробам",
@@ -568,7 +568,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbRaceArgonianResistPoison",
-    "custom": "",
+    "custom": "Імунітэт аргоніан да яду",
     "en": "Argonian Poison Immunity",
     "ru": "Иммунитет аргониан к яду",
     "bel": "Імунітэт аргоніан да яду",
@@ -577,7 +577,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbRaceArgonianWaterBreathing",
-    "custom": "",
+    "custom": "Воднае дыханне аргоніан",
     "en": "Argonian Water Breathing",
     "ru": "Водное дыхание аргониан",
     "bel": "Воднае дыханне аргоніан",
@@ -586,7 +586,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbRaceBretonFortifyMagic",
-    "custom": "",
+    "custom": "Павышаная магія брэтонцаў",
     "en": "Breton Enhanced Magicka",
     "ru": "Повышенная магия бретонцев",
     "bel": "Павышаная магія брэтонцаў",
@@ -595,7 +595,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbRaceBretonResistMagic",
-    "custom": "",
+    "custom": "Супраціў брэтонцаў магіі",
     "en": "Breton Magic Resistance",
     "ru": "Сопротивление бретонцев магии",
     "bel": "Супраціў брэтонцаў магіі",
@@ -604,7 +604,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbRaceDarkElfResistFire",
-    "custom": "",
+    "custom": "Супраціў цёмных эльфаў агню",
     "en": "Dark Elf Fire Resistance",
     "ru": "Сопротивление темных эльфов огню",
     "bel": "Супраціў цёмных эльфаў агню",
@@ -613,7 +613,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbRaceHighElfFortifyMagic",
-    "custom": "",
+    "custom": "Павышаная магія высокіх эльфаў",
     "en": "High Elf Enhanced Magicka",
     "ru": "Повышенная магия высоких эльфов",
     "bel": "Павышаная магія высокіх эльфаў",
@@ -622,7 +622,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbRaceHighElfResistDisease",
-    "custom": "",
+    "custom": "Супраціў высокіх эльфаў хваробам",
     "en": "High Elf Disease Resistance",
     "ru": "Сопротивление высоких эльфов болезням",
     "bel": "Супраціў высокіх эльфаў хваробам",
@@ -631,7 +631,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbRaceHighElfWeaknessElemental",
-    "custom": "",
+    "custom": "Уразлівасць высокіх эльфаў да стыхій",
     "en": "High Elf Elemental Weakness",
     "ru": "Уязвимость высоких эльфов к стихиям",
     "bel": "Уразлівасць высокіх эльфаў да стыхій",
@@ -640,7 +640,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbRaceHighElfWeaknessFire",
-    "custom": "",
+    "custom": "Уразлівасць высокіх эльфаў да агню",
     "en": "High Elf Weakness to Fire",
     "ru": "Уязвимость высоких эльфов к огню",
     "bel": "Уразлівасць высокіх эльфаў да агню",
@@ -649,7 +649,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbRaceHighElfWeaknessFrost",
-    "custom": "",
+    "custom": "Уразлівасць высокіх эльфаў да холаду",
     "en": "High Elf Weakness to Frost",
     "ru": "Уязвимость высоких эльфов к холоду",
     "bel": "Уразлівасць высокіх эльфаў да холаду",
@@ -658,7 +658,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbRaceHighElfWeaknessMagic",
-    "custom": "",
+    "custom": "Уразлівасць высокіх эльфаў да магіі",
     "en": "High Elf Weakness to Magic",
     "ru": "Уязвимость высоких эльфов к магии",
     "bel": "Уразлівасць высокіх эльфаў да магіі",
@@ -667,7 +667,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbRaceHighElfWeaknessShock",
-    "custom": "",
+    "custom": "Уразлівасць высокіх эльфаў да электрычнасці",
     "en": "High Elf Weakness to Shock",
     "ru": "Уязвимость высоких эльфов к электричеству",
     "bel": "Уразлівасць высокіх эльфаў да электрычнасці",
@@ -685,7 +685,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbRaceNordResistShock",
-    "custom": "",
+    "custom": "Супраціў нордаў электрычнасці",
     "en": "Nord Shock Resistance",
     "ru": "Сопротивление нордов эл-ву",
     "bel": "Супраціў нордаў эл-ву",
@@ -694,7 +694,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbRaceOrcResisMagic",
-    "custom": "",
+    "custom": "Супраціў оркаў магіі",
     "en": "Orc Magic Resistance",
     "ru": "Сопротивление орков магии",
     "bel": "Супраціў оркаў магіі",
@@ -703,7 +703,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbRaceRedguardResistDisease",
-    "custom": "",
+    "custom": "Супраціў рэдгардаў хваробам",
     "en": "Redguard Disease Resistance",
     "ru": "Сопротивление редгардов болезням",
     "bel": "Супраціў рэдгардаў хваробам",
@@ -712,7 +712,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbRaceRedguardResistPoison",
-    "custom": "",
+    "custom": "Супраціў рэдгардаў ядам",
     "en": "Redguard Poison Resistance",
     "ru": "Сопротивление редгардов ядам",
     "bel": "Супраціў рэдгардаў ядам",
@@ -721,7 +721,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbRaceWoodElfResistDisease",
-    "custom": "",
+    "custom": "Супраціў лясных эльфаў хваробам",
     "en": "Wood Elf Disease Resistance",
     "ru": "Сопротивление лесных эльфов болезням",
     "bel": "Супраціў лясных эльфаў хваробам",
@@ -730,7 +730,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbSpiderDaedra",
-    "custom": "",
+    "custom": "Уразлівасць да холаду",
     "en": "Frost Weakness",
     "ru": "Уязвимость к холоду",
     "bel": "Уразлівасць да холаду",
@@ -739,7 +739,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbSprigganResistances",
-    "custom": "",
+    "custom": "Уразлівасць да агню",
     "en": "Weakness to Fire",
     "ru": "Уязвимость к огню",
     "bel": "Уразлівасць да агню",
@@ -748,7 +748,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbTroll",
-    "custom": "",
+    "custom": "Здольнасці троляў",
     "en": "Troll Abilities",
     "ru": "Способности троллей",
     "bel": "Здольнасці троляў",
@@ -757,7 +757,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbTrollEasy",
-    "custom": "",
+    "custom": "Здольнасці троляў",
     "en": "Troll Abilities",
     "ru": "Способности троллей",
     "bel": "Здольнасці троляў",
@@ -766,7 +766,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbTrollHard",
-    "custom": "",
+    "custom": "Здольнасці троляў",
     "en": "Troll Abilities",
     "ru": "Способности троллей",
     "bel": "Здольнасці троляў",
@@ -775,7 +775,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbUndeadBoneResist",
-    "custom": "",
+    "custom": "Супраціўляльнасць костак нежыці",
     "en": "Undead Bone Resistances",
     "ru": "Защита костей нежити",
     "bel": "Абарона костак нежыці",
@@ -784,7 +784,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbUndeadEtherealResist",
-    "custom": "",
+    "custom": "Эфірная супраціўляльнасць нежыці",
     "en": "Undead Ethereal Resistances",
     "ru": "Защита бесплотной нежити",
     "bel": "Абарона бяздзетнай нежыці",
@@ -793,7 +793,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbUndeadFleshResist",
-    "custom": "",
+    "custom": "Супраціўляльнасць плоці нежыці",
     "en": "Undead Flesh Resistances",
     "ru": "Защита плоти нежити",
     "bel": "Абарона плоці нежыці",
@@ -802,7 +802,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbUnicornResistances",
-    "custom": "",
+    "custom": "Супраціўляльнасць аднарога",
     "en": "Unicorn Resistances",
     "ru": "Защитные силы единорога",
     "bel": "Абарончыя сілы аднарога",
@@ -811,7 +811,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbWeaknessFire",
-    "custom": "",
+    "custom": "Уразлівасць да агню",
     "en": "Weakness to Fire",
     "ru": "Уязвимость к огню",
     "bel": "Уразлівасць да агню",
@@ -820,7 +820,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbWeaknessNormalWeapons",
-    "custom": "",
+    "custom": "Уразлівасць да звычайнай зброі 30",
     "en": "Weakness to Normal Weapons 30",
     "ru": "Уязвимость к обычному оружию 30",
     "bel": "Уразлівасць да звычайнай зброі 30",
@@ -829,7 +829,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbWeaknessShock",
-    "custom": "",
+    "custom": "Уразлівасць да агню",
     "en": "Weakness to Fire",
     "ru": "Уязвимость к огню",
     "bel": "Уразлівасць да агню",
@@ -838,7 +838,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbWillOWispResistances",
-    "custom": "",
+    "custom": "Супраціўленні блукаючага агеньчыка",
     "en": "Will O Wisp Resistances",
     "ru": "Защита блуждающего огонька",
     "bel": "Абарона блукаючага агеньчыка",
@@ -847,7 +847,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbXivilaiAbsorbSpell",
-    "custom": "",
+    "custom": "Паглынанне заклінанняў",
     "en": "Absorb spells",
     "ru": "Поглощение заклинаний",
     "bel": "Паглынанне заклінанняў",
@@ -856,7 +856,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbXivilaiAbsorbSpellLesser",
-    "custom": "",
+    "custom": "Паглынанне заклінанняў",
     "en": "Absorb spells",
     "ru": "Поглощение заклинаний",
     "bel": "Паглынанне заклінанняў",
@@ -865,7 +865,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AbZombieDread",
-    "custom": "",
+    "custom": "Здольнасці жахлівага зомбі",
     "en": "Dread Zombie Abilities",
     "ru": "Способности ужасного зомби",
     "bel": "Здольнасці жахлівага зомбі",
@@ -874,7 +874,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Abhuki",
-    "custom": "",
+    "custom": "Абукі",
     "en": "Abhuki",
     "ru": "Абуки",
     "bel": "Абукі",
@@ -883,7 +883,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AcceptYield",
-    "custom": "",
+    "custom": "Прыняць капітуляцыю",
     "en": "AcceptYield",
     "ru": "ПринятьКапитуляцию",
     "bel": "ПрыняцьКапітуляцыю",
@@ -892,7 +892,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Accuse",
-    "custom": "",
+    "custom": "Абвінаваціць",
     "en": "Accuse",
     "ru": "Обвинение",
     "bel": "Абвінавачанне",
@@ -901,7 +901,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Adanrel",
-    "custom": "",
+    "custom": "Аданрэл",
     "en": "Adanrel",
     "ru": "Аданрел",
     "bel": "Аданрэл",
@@ -910,7 +910,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AdmireFail",
-    "custom": "",
+    "custom": "Памылка захаплення",
     "en": "AdmireFail",
     "ru": "Провал восхищения",
     "bel": "Правал захаплення",
@@ -919,7 +919,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AdmireNeutral",
-    "custom": "",
+    "custom": "Нейтральнае захапленне",
     "en": "AdmireNeutral",
     "ru": "ВосхищатьсяNeutral",
     "bel": "ЗахапляццаNeutral",
@@ -928,7 +928,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AdmireSuccess",
-    "custom": "",
+    "custom": "Паспяховае захапленне",
     "en": "AdmireSuccess",
     "ru": "ЛюбуйтесьУспехом",
     "bel": "ЛюбуйцесяПоспехам",
@@ -937,7 +937,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AdrianDecanius",
-    "custom": "",
+    "custom": "Адрыян Дэканіус",
     "en": "Adrian Decanius",
     "ru": "Адриан Деканиус",
     "bel": "Адрыян Дэканіус",
@@ -1180,7 +1180,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AkatoshFireApproach",
-    "custom": "",
+    "custom": "Набліжэнне агню Акатоша",
     "en": "AkatoshFireApproach",
     "ru": "Приближение Огня AkatoshFire",
     "bel": "Набліжэнне Агню AkatoshFire",
@@ -1207,7 +1207,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AlbertJemaneTopic",
-    "custom": "",
+    "custom": "Альберт Джэмейн",
     "en": "Albert Jemane",
     "ru": "Альберт Джемейн",
     "bel": "Альберт Джэмейн",
@@ -1216,7 +1216,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AldosOthran",
-    "custom": "",
+    "custom": "Алдос Отран",
     "en": "Aldos Othran",
     "ru": "Алдос Отран",
     "bel": "Алдос Отран",
@@ -1225,7 +1225,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AldosOthranKey",
-    "custom": "",
+    "custom": "Ключ Алдоса Отрана",
     "en": "Aldos Othran's Key",
     "ru": "Ключ Алдоса Отрана",
     "bel": "Ключ Алдоса Отрана",
@@ -1234,7 +1234,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AldosOthranTopic",
-    "custom": "",
+    "custom": "Алдос Отран",
     "en": "Aldos Othran",
     "ru": "Алдос Отран",
     "bel": "Алдос Отран",
@@ -1243,7 +1243,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Alembic",
-    "custom": "",
+    "custom": "Перагонны куб пачаткоўца",
     "en": "Novice Alembic",
     "ru": "Перегонный куб новичка",
     "bel": "Перагонны куб пачаткоўца",
@@ -1252,7 +1252,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AlembicApprentice",
-    "custom": "",
+    "custom": "Перагонны куб вучня",
     "en": "Apprentice Alembic",
     "ru": "Перегонный куб ученика",
     "bel": "Перагонны куб вучня",
@@ -1261,7 +1261,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AlembicExpert",
-    "custom": "",
+    "custom": "Перагонны куб эксперта",
     "en": "Expert Alembic",
     "ru": "Перегонный куб эксперта",
     "bel": "Перагонны куб эксперта",
@@ -1270,7 +1270,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AlembicJourneyMan",
-    "custom": "",
+    "custom": "Перагонны куб спецыяліста",
     "en": "Journeyman Alembic",
     "ru": "Перегонный куб специалиста",
     "bel": "Перагонны куб спецыяліста",
@@ -1279,7 +1279,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AlembicMaster",
-    "custom": "",
+    "custom": "Перагонны куб майстра",
     "en": "Master Alembic",
     "ru": "Перегонный куб мастера",
     "bel": "Перагонны куб майстра",
@@ -1288,7 +1288,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AleronLoche",
-    "custom": "",
+    "custom": "Алерон Лок",
     "en": "Aleron Loche",
     "ru": "Алерон Лок",
     "bel": "Алерон Лок",
@@ -1297,7 +1297,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AleronLocheTopic",
-    "custom": "",
+    "custom": "Алерон Лок",
     "en": "Aleron Loche",
     "ru": "Алерон Лок",
     "bel": "Алерон Лок",
@@ -1306,7 +1306,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AlessiaJewelBoxKey",
-    "custom": "",
+    "custom": "Ключ ад шкатулкі для каштоўнасцей",
     "en": "Jewelry Box Key",
     "ru": "Ключ от шкатулки для драг.",
     "bel": "Ключ ад шкатулкі для каштоўнасцей.",
@@ -1315,7 +1315,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AlessiaOttus",
-    "custom": "",
+    "custom": "Алесія Оттус",
     "en": "Alessia Ottus",
     "ru": "Алессия Оттус",
     "bel": "Алесія Оттус",
@@ -1504,7 +1504,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AltarJulianos",
-    "custom": "",
+    "custom": "Благаславенне Джуліяноса",
     "en": "Blessings of Julianos",
     "ru": "Благословение Джулианоса",
     "bel": "Благаславенне Джуліяноса",
@@ -1540,7 +1540,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AltarStendarr",
-    "custom": "",
+    "custom": "Благаславенне Стэндара",
     "en": "Blessings of Stendarr",
     "ru": "Благословение Стендарра",
     "bel": "Благаславенне Стэндара",
@@ -1549,7 +1549,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AltarTiberSeptim",
-    "custom": "",
+    "custom": "Благаславенне Таласа",
     "en": "Blessings of Talos",
     "ru": "Благословение Талоса",
     "bel": "Благаславенне Таласа",
@@ -1558,7 +1558,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AltarZenithar",
-    "custom": "",
+    "custom": "Благаславенне Зенітара",
     "en": "Blessings of Zenithar",
     "ru": "Благословение Зенитара",
     "bel": "Благаславенне Зенітара",
@@ -1657,7 +1657,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AmuletNod",
-    "custom": "",
+    "custom": "Кіўнуць у знак згоды.",
     "en": "Nod in agreement.",
     "ru": "Кивнуть в знак согласия.",
     "bel": "Кіўнуць у знак згоды.",
@@ -1684,7 +1684,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AncotarsReverseInvisibility",
-    "custom": "",
+    "custom": "Зваротная нябачнасць Анкотара",
     "en": "Ancotar's Reverse Invisibility",
     "ru": "Обратная невидимость Анкотара",
     "bel": "Зваротная нябачнасць Анкотара",
@@ -1783,7 +1783,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnswerNegative",
-    "custom": "",
+    "custom": "Адмоўны адказ",
     "en": "AnswerNegative",
     "ru": "ОтрицательныйОтвет",
     "bel": "АдмоўныАдказ",
@@ -1792,7 +1792,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnswerPositive",
-    "custom": "",
+    "custom": "Станоўчы адказ",
     "en": "AnswerPositive",
     "ru": "ПоложительныйОтвет",
     "bel": "СтаноўчыАдказ",
@@ -1801,7 +1801,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnswerStatus",
-    "custom": "",
+    "custom": "Статус адказу",
     "en": "AnswerStatus",
     "ru": "Статус ответа",
     "bel": "Статус адказу",
@@ -1837,7 +1837,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Anutwyll",
-    "custom": "",
+    "custom": "Анітвіль",
     "en": "Anutwyll",
     "ru": "Анитвилль",
     "bel": "Анітвіль",
@@ -1846,7 +1846,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Anutwyll02",
-    "custom": "",
+    "custom": "Унутраныя залы Анітвіля",
     "en": "Anutwyll Inner Chambers",
     "ru": "Анитвилль - Внутренние залы",
     "bel": "Анітвіль - Унутраныя залы",
@@ -1999,7 +1999,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilChapelKey",
-    "custom": "",
+    "custom": "Ключ ад капліцы Анвіла",
     "en": "Anvil Chapel Key",
     "ru": "Ключ от часовни Анвила",
     "bel": "Ключ ад капліцы Анвіла",
@@ -2008,7 +2008,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilChapelUndercroft",
-    "custom": "",
+    "custom": "Крыпта капліцы",
     "en": "Chapel Undercroft",
     "ru": "Крипта часовни",
     "bel": "Крыпта капліцы",
@@ -2017,7 +2017,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilCoastline",
-    "custom": "",
+    "custom": "Мора Абесеан",
     "en": "Abecean Sea",
     "ru": "Абесинское море",
     "bel": "Абесінскае мора",
@@ -2026,7 +2026,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilDockGate",
-    "custom": "",
+    "custom": "Брама дока Анвіла",
     "en": "Anvil Dock Gate",
     "ru": "Ворота дока «Наковальня»",
     "bel": "Брама дока «Накавальня»",
@@ -2035,7 +2035,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilDungeonKey",
-    "custom": "",
+    "custom": "Ключ ад цямніцы Анвіла",
     "en": "Anvil Dungeon Key",
     "ru": "Ключ от темницы Анвила",
     "bel": "Ключ ад цямніцы Анвіла",
@@ -2044,7 +2044,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilFaction",
-    "custom": "",
+    "custom": "Жыхар Анвіла",
     "en": "Anvil Citizen",
     "ru": "Гражданин Anvil",
     "bel": "Жыхар Anvil",
@@ -2062,7 +2062,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilFightersGuildCompanyOffices",
-    "custom": "",
+    "custom": "Службовыя памяшканні Гільдыі байцоў",
     "en": "Fighters Guild Company Offices",
     "ru": "Служебные помещения Гильдии бойцов",
     "bel": "Службовыя памяшканні Гільдыі байцоў",
@@ -2071,7 +2071,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilGuards",
-    "custom": "",
+    "custom": "Фракцыя стражнікаў Анвіла",
     "en": "Anvil guard faction",
     "ru": "Стража наковальни — фракция.",
     "bel": "Варта Накавальні - фракцыя.",
@@ -2080,7 +2080,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilHarborFaction",
-    "custom": "",
+    "custom": "Прыстанцыйны склад Анвіла",
     "en": "Anvil Harborside warehouse",
     "ru": "Склад «Пристань Наковальни»",
     "bel": "Склад «Прыстань Накавальні»",
@@ -2089,7 +2089,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilHarborsideWarehouse",
-    "custom": "",
+    "custom": "Таварны склад \"У гавані\"",
     "en": "Harborside Warehouse",
     "ru": "Товарный склад \"У гавани\"",
     "bel": "Таварны склад \"У гавані\"",
@@ -2098,7 +2098,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilHeinrichOakenHallsHouse",
-    "custom": "",
+    "custom": "Дом Генрыха Дубовага-Кіля",
     "en": "Heinrich Oaken-Hull's House",
     "ru": "Дом Хейнриха Дубовая Кожа",
     "bel": "Дом Хейнрыха Дубовая Скура",
@@ -2107,7 +2107,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilHeinrichOakenHallsHouseSecondFloor",
-    "custom": "",
+    "custom": "Прыватныя пакоі Дубовага-Кіля",
     "en": "Oaken-Hull's Private Rooms",
     "ru": "Личные покои Хейнриха",
     "bel": "Асабістыя пакоі Хейнрыха",
@@ -2116,7 +2116,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilHorseWhisperer",
-    "custom": "",
+    "custom": "Стайня заклінальніка коней",
     "en": "Horse Whisperer Stables",
     "ru": "Конюшня \"Спокойные лошади\"",
     "bel": "Стайня \"Спакойныя коні\"",
@@ -2125,7 +2125,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilJesanSextiusHouse",
-    "custom": "",
+    "custom": "Дом Джэсана Секстыуса",
     "en": "Jesan Sextius' House",
     "ru": "Дом Джесана Секстиуса",
     "bel": "Дом Джэсана Секстыуса",
@@ -2134,7 +2134,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilLellesQualityMerchandise",
-    "custom": "",
+    "custom": "\"Якасныя тавары Лелеса\"",
     "en": "Lelles' Quality Merchandise",
     "ru": "\"Качественные товары Леллеса\"",
     "bel": "\"Якасныя тавары Лелеса\"",
@@ -2143,7 +2143,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilLighthouseBasement",
-    "custom": "",
+    "custom": "Падвал маяка Анвіла",
     "en": "Anvil Lighthouse Cellar",
     "ru": "Маяк Анвила - Подвал",
     "bel": "Маяк Анвіла - Падвал",
@@ -2152,7 +2152,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilLighthouseCellarKey",
-    "custom": "",
+    "custom": "Ключ ад падвала маяка",
     "en": "Lighthouse Cellar Key",
     "ru": "Ключ от подвала маяка",
     "bel": "Ключ ад падвала маяка",
@@ -2161,7 +2161,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilLighthouseUpperRoom",
-    "custom": "",
+    "custom": "Вежа маяка Анвіла",
     "en": "Anvil Lighthouse Tower",
     "ru": "Маяк Анвила - Башня",
     "bel": "Маяк Анвіла - Вежа",
@@ -2170,7 +2170,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilMGPetImp",
-    "custom": "",
+    "custom": "Іскрысты",
     "en": "Sparky",
     "ru": "Спарки",
     "bel": "Спаркі",
@@ -2179,7 +2179,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilMagesGuildLivingQuarters",
-    "custom": "",
+    "custom": "Жылыя памяшканні Гільдыі магаў",
     "en": "Mages Guild Living Quarters",
     "ru": "Жилые помещения Гильдии магов",
     "bel": "Жылыя памяшканні Гільдыі магаў",
@@ -2188,7 +2188,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilMain",
-    "custom": "",
+    "custom": "Галоўная брама Анвіла",
     "en": "Anvil Main Gate",
     "ru": "Главные врата Anvil",
     "bel": "Галоўныя вароты Anvil",
@@ -2197,7 +2197,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilMainGate",
-    "custom": "",
+    "custom": "Галоўная брама Анвіла",
     "en": "Anvil Main Gate",
     "ru": "Главные врата Anvil",
     "bel": "Галоўныя вароты Anvil",
@@ -2206,7 +2206,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilMorvaynsPeacemakers",
-    "custom": "",
+    "custom": "\"Міратворцы Морвейна\"",
     "en": "Morvayn's Peacemakers",
     "ru": "\"Миротворцы Морвейна\"",
     "bel": "\"Міратворцы Морвейна\"",
@@ -2215,7 +2215,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilNQDResponses",
-    "custom": "",
+    "custom": "AnvilNQDResponses",
     "en": "AnvilNQDResponses",
     "ru": "Ответы AnvilNQD.",
     "bel": "Адказы AnvilNQD.",
@@ -2224,7 +2224,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilNewheimThePortlysHouse",
-    "custom": "",
+    "custom": "Дом Ньюхейма Тоўстага",
     "en": "Newheim the Portly's House",
     "ru": "Дом Ньюхейма Тучного",
     "bel": "Дом Ньюхейма Тлустага",
@@ -2233,7 +2233,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilQuillWeavesHouse",
-    "custom": "",
+    "custom": "Дом Ткачыхі Пяра",
     "en": "Quill-Weave's House",
     "ru": "Дом Куилл-Вив",
     "bel": "Дом Куіл-Вів",
@@ -2242,7 +2242,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilSirens",
-    "custom": "",
+    "custom": "Сірэны Анвіла",
     "en": "The Anvil Sirens",
     "ru": "Наковальни Сирены",
     "bel": "Накавальні Сірэны",
@@ -2251,7 +2251,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilTheCountsArms",
-    "custom": "",
+    "custom": "\"Графскі герб\"",
     "en": "The Count's Arms",
     "ru": "\"Графский герб\"",
     "bel": "\"Графскі герб\"",
@@ -2260,7 +2260,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilTheCountsArmsPrivateRooms",
-    "custom": "",
+    "custom": "Нумары \"Графскага герба\"",
     "en": "The Counts Arms Private Rooms",
     "ru": "Номера \"Графского герба\"",
     "bel": "Нумары \"Графскага герба\"",
@@ -2269,7 +2269,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilTheFlowingBowl",
-    "custom": "",
+    "custom": "Плывучая чаша",
     "en": "The Flowing Bowl",
     "ru": "\"Полный кубок\"",
     "bel": "\"Поўны кубак\"",
@@ -2278,7 +2278,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilTheFocsle",
-    "custom": "",
+    "custom": "\"Бак\"",
     "en": "The Fo'c's'le",
     "ru": "\"Кубрик\"",
     "bel": "\"Кубрык\"",
@@ -2287,7 +2287,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilTheFocslePrivateRooms",
-    "custom": "",
+    "custom": "Прыватныя пакоі \"Бака\"",
     "en": "The Fo'c's'le Private Rooms",
     "ru": "\"Кубрик\" - Номера",
     "bel": "\"Кубрык\" - Нумары",
@@ -2296,7 +2296,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilTheSeaTubClarabella",
-    "custom": "",
+    "custom": "Марская ванна Кларабела",
     "en": "The Sea Tub Clarabella",
     "ru": "Морская посудина \"Кларабелла\"",
     "bel": "Марское судна \"Кларабела\"",
@@ -2305,7 +2305,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilTheSeaTubClarabellaLowerDeck",
-    "custom": "",
+    "custom": "Ніжняя палуба «Кларабелы»",
     "en": "Clarabella Lower Deck",
     "ru": "\"Кларабелла\" - Нижняя палуба",
     "bel": "\"Кларабела\" - Ніжняя палуба",
@@ -2314,7 +2314,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilTheSeaTubClarabellaMidDeck",
-    "custom": "",
+    "custom": "Сярэдняя палуба «Кларабелы»",
     "en": "Clarabella Mid Deck",
     "ru": "\"Кларабелла\" - Средняя палуба",
     "bel": "\"Кларабела\" - Сярэдняя палуба",
@@ -2323,7 +2323,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilTheSerpentsWake",
-    "custom": "",
+    "custom": "\"След Змея\"",
     "en": "The Serpent's Wake",
     "ru": "\"След Змея\"",
     "bel": "\"След Змея\"",
@@ -2332,7 +2332,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilTheSerpentsWakeLowerDeck",
-    "custom": "",
+    "custom": "Грузавы трюм «Следа Змея»",
     "en": "Serpents Wake Cargo Hold",
     "ru": "\"След Змея\" - Грузовой трюм",
     "bel": "\"След Змея\" - Грузавы трюм",
@@ -2341,7 +2341,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilTheSerpentsWakeMidDeck",
-    "custom": "",
+    "custom": "Сярэдняя палуба «Следа Змея»",
     "en": "Serpents Wake Mid Deck",
     "ru": "\"След Змея\" - Средняя палуба",
     "bel": "\"След Змея\" - Сярэдняя палуба",
@@ -2350,7 +2350,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilTopicCaenlorn01",
-    "custom": "",
+    "custom": "Раскажыце мне пра трэнераў.",
     "en": "Tell me about trainers.",
     "ru": "Расскажи мне о тренерах.",
     "bel": "Раскажы мне пра трэнераў.",
@@ -2359,7 +2359,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilTopicDumania02",
-    "custom": "",
+    "custom": "Ты стары, і выглядаеш старым.",
     "en": "You're old, and you look old.",
     "ru": "Ты стар, и выглядишь старым.",
     "bel": "Ты стары, і выглядаеш старым.",
@@ -2368,7 +2368,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilTopicMaenlorn01",
-    "custom": "",
+    "custom": "Раскажыце мне пра графа.",
     "en": "Tell me about the Count.",
     "ru": "Расскажи мне о Графе.",
     "bel": "Раскажы мне пра Графа.",
@@ -2377,7 +2377,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilTopicMaenlorn02",
-    "custom": "",
+    "custom": "Раскажыце мне пра людзей.",
     "en": "Tell me about the people.",
     "ru": "Расскажи мне о людях.",
     "bel": "Раскажы мне пра людзей.",
@@ -2386,7 +2386,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilTopicWilbur01",
-    "custom": "",
+    "custom": "Якія ёсць магчымасці?",
     "en": "Any opportunities?",
     "ru": "Есть варианты?",
     "bel": "Ёсць варыянты?",
@@ -2395,7 +2395,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilTopicWilbur02",
-    "custom": "",
+    "custom": "Будынкі тут выглядаюць інакш. Чаму?",
     "en": "Buildings here look different. Why?",
     "ru": "Здешние здания выглядят иначе. Почему?",
     "bel": "Тутэйшыя будынкі выглядаюць інакш. Чаму?",
@@ -2404,7 +2404,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilTopicWilbur03",
-    "custom": "",
+    "custom": "Ці ёсць папярэджанні?",
     "en": "Any warnings?",
     "ru": "Какие-нибудь предупреждения?",
     "bel": "Якія-небудзь папярэджанні?",
@@ -2413,7 +2413,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilTownGuardBarracks",
-    "custom": "",
+    "custom": "Казармы гарадской варты",
     "en": "City Watch Barracks",
     "ru": "Казармы городской стражи",
     "bel": "Казармы гарадской варты",
@@ -2422,7 +2422,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AnvilUlfgarFogEyesHouse",
-    "custom": "",
+    "custom": "Дом Ульфгара Туманнага Вока",
     "en": "Ulfgar Fog-Eye's House",
     "ru": "Дом Ульфгара Туманный Взор",
     "bel": "Дом Ульфгара Туманны Погляд",
@@ -2431,7 +2431,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ApostleRobe",
-    "custom": "",
+    "custom": "Роба апостала",
     "en": "Robe of the Apostle",
     "ru": "Роба апостола",
     "bel": "Роба апостала",
@@ -2440,7 +2440,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Applewatch",
-    "custom": "",
+    "custom": "Эпплуотч",
     "en": "Applewatch",
     "ru": "Эпплвотч",
     "bel": "Эпплуотч",
@@ -2449,7 +2449,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ApplewatchInterior",
-    "custom": "",
+    "custom": "Ферма Эпплуотча",
     "en": "Applewatch Farmhouse",
     "ru": "Эпплвотч - Ферма",
     "bel": "Эпплуотч - Ферма",
@@ -2458,7 +2458,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ApplewatchRegion",
-    "custom": "",
+    "custom": "Эпплуотч",
     "en": "Applewatch",
     "ru": "Эпплвотч",
     "bel": "Эпплуотч",
@@ -2467,7 +2467,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AranoFamily",
-    "custom": "",
+    "custom": "Сям'я Арана",
     "en": "Arano Family",
     "ru": "Семейство Arano",
     "bel": "Сямейства Arano",
@@ -2476,7 +2476,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArcaneULecture1",
-    "custom": "",
+    "custom": "ArcaneULecture1",
     "en": "ArcaneULecture1",
     "ru": "ТайныArcaneULecture1",
     "bel": "ТайныArcaneULecture1",
@@ -2485,7 +2485,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArcaneULecture2",
-    "custom": "",
+    "custom": "ArcaneULecture2",
     "en": "ArcaneULecture2",
     "ru": "ТайныULecture2",
     "bel": "ТайныULecture2",
@@ -2494,7 +2494,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArcaneULecture3",
-    "custom": "",
+    "custom": "ArcaneULecture3",
     "en": "ArcaneULecture3",
     "ru": "ТайныULecture3",
     "bel": "ТайныULecture3",
@@ -2503,7 +2503,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArcaneULecture4",
-    "custom": "",
+    "custom": "ArcaneULecture4",
     "en": "ArcaneULecture4",
     "ru": "ТайныULecture4",
     "bel": "ТайныULecture4",
@@ -2512,7 +2512,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArcaneULecture5",
-    "custom": "",
+    "custom": "ArcaneULecture5",
     "en": "ArcaneULecture5",
     "ru": "ТайнаяArcaneULecture5",
     "bel": "ТайнаяArcaneULecture5",
@@ -2521,7 +2521,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArcaneUniversity",
-    "custom": "",
+    "custom": "Універсітэт чараўніцтва",
     "en": "Arcane University",
     "ru": "Университет волшебства",
     "bel": "Універсітэт чараўніцтва",
@@ -2530,7 +2530,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArcaneUniversityTopic",
-    "custom": "",
+    "custom": "Універсітэт чараўніцтва",
     "en": "Arcane University",
     "ru": "Университет волшебства",
     "bel": "Універсітэт чараўніцтва",
@@ -2539,7 +2539,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArchMageHood",
-    "custom": "",
+    "custom": "Капюшон арцымага",
     "en": "Arch-Mage's Hood",
     "ru": "Капюшон архимага",
     "bel": "Капюшон архімага",
@@ -2548,7 +2548,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArchMageRobe",
-    "custom": "",
+    "custom": "Роба арцымага",
     "en": "Arch-Mage's Robe",
     "ru": "Роба архимага",
     "bel": "Роба архімага",
@@ -2557,7 +2557,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArchMageTopic",
-    "custom": "",
+    "custom": "Арцымаг",
     "en": "Arch-Mage",
     "ru": "Архимаг",
     "bel": "Архімаг",
@@ -2566,7 +2566,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Archer",
-    "custom": "",
+    "custom": "Лучнік",
     "en": "Archer",
     "ru": "Лучник",
     "bel": "Стралок",
@@ -2575,7 +2575,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArchersParadoxKey",
-    "custom": "",
+    "custom": "Ключ ад \"Парадоксу лучніка\"",
     "en": "Archer's Paradox Key",
     "ru": "Ключ от \"Парадокса лучника\"",
     "bel": "Ключ ад \"Парадоксу лучніка\"",
@@ -2584,7 +2584,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArchitectureOrreryConsole",
-    "custom": "",
+    "custom": "Кансоль Імперскага планетарыя",
     "en": "Imperial Orrery Console",
     "ru": "Пульт управления Имперской обсерваторией",
     "bel": "Пульт кіравання Імперскай абсерваторыяй",
@@ -2593,7 +2593,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArchitectureOrreryConsoleButton",
-    "custom": "",
+    "custom": "Кнопка кансолі планетарыя",
     "en": "Orrery Console Button",
     "ru": "Кнопка пульта Обсерватории",
     "bel": "Кнопка пульта Абсерваторыі",
@@ -2602,7 +2602,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArchitectureOrreryDoor",
-    "custom": "",
+    "custom": "Дзвемерскія металічныя дзверы",
     "en": "Dwarven Metal Door",
     "ru": "Двемерская металлическая дверь",
     "bel": "Дзвемерскія металічныя дзверы",
@@ -2611,7 +2611,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Areldil",
-    "custom": "",
+    "custom": "Арэлділ",
     "en": "Areldil",
     "ru": "Арелдил",
     "bel": "Арэлдил",
@@ -2620,7 +2620,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AreldilKey",
-    "custom": "",
+    "custom": "Ключ ад дома Арэлділа",
     "en": "Aredil's House Key",
     "ru": "Ключ от дома Арелдила",
     "bel": "Ключ ад дома Арэлдила",
@@ -2629,7 +2629,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaAggression",
-    "custom": "",
+    "custom": "Скрыпт кантролю агрэсіі на Арэне",
     "en": "Arena Aggression Control Script",
     "ru": "Скрипт контроля агрессии на Арене",
     "bel": "Скрыпт кантролю агрэсіі на Арэне",
@@ -2638,7 +2638,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaAgronakChalNo",
-    "custom": "",
+    "custom": "Не, я не хачу выклікаць цябе.",
     "en": "No, I don't want to challenge you.",
     "ru": "Нет, я не хочу вызывать тебя.",
     "bel": "Не, я не хачу выклікаць цябе.",
@@ -2647,7 +2647,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaAgronakChalYes",
-    "custom": "",
+    "custom": "Так, я хачу выклікаць цябе.",
     "en": "Yes, I wish to challenge you.",
     "ru": "Да, я хочу вызвать тебя.",
     "bel": "Так, я хачу выклікаць цябе.",
@@ -2656,7 +2656,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaAgronakChoice1",
-    "custom": "",
+    "custom": "Прабач, зараз я не магу дапамагчы табе.",
     "en": "Sorry, I can't help you right now...",
     "ru": "Извини, сейчас я не могу помочь тебе.",
     "bel": "Прабач, зараз я не магу дапамагчы табе.",
@@ -2665,7 +2665,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaAgronakChoice2",
-    "custom": "",
+    "custom": "Раскажы, раптам я змагу дапамагчы.",
     "en": "I may be able to help. Tell me more.",
     "ru": "Расскажи, вдруг я смогу помочь.",
     "bel": "Раскажы, раптам я змагу дапамагчы.",
@@ -2674,7 +2674,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaAgronakChoice3",
-    "custom": "",
+    "custom": "Давай бліжэй да справы, гро-Малог!",
     "en": "Cut to the chase already, gro-Malog!",
     "ru": "Давай ближе к делу, гро-Малог!",
     "bel": "Давай бліжэй да справы, гро-Малог!",
@@ -2683,7 +2683,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaAgronakChoice4",
-    "custom": "",
+    "custom": "Калі ласка, працягвай.",
     "en": "Please go on.",
     "ru": "Пожалуйста,  продолжай.",
     "bel": "Калі ласка, працягвай.",
@@ -2692,7 +2692,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaAnnouncer",
-    "custom": "",
+    "custom": "Прамова дыктара арэны",
     "en": "Arena Announcer Speech",
     "ru": "Объявления арены",
     "bel": "Аб'явы арэны",
@@ -2701,7 +2701,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaBasin1",
-    "custom": "",
+    "custom": "Басейн аднаўлення",
     "en": "Basin of Renewal",
     "ru": "Бассейн обновления",
     "bel": "Басейн абнаўлення",
@@ -2710,7 +2710,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaBasinSpell",
-    "custom": "",
+    "custom": "ArenaBasinRenewel",
     "en": "ArenaBasinRenewel",
     "ru": "Обновление ArenaBasin",
     "bel": "Абнаўленне ArenaBasin",
@@ -2719,7 +2719,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaBetChoice1A",
-    "custom": "",
+    "custom": "Так, я хачу зрабіць стаўку на матч.",
     "en": "Yes, I want to bet on a match.",
     "ru": "Да, я хочу сделать ставку.",
     "bel": "Так, я хачу зрабіць стаўку.",
@@ -2728,7 +2728,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaBetChoice1B",
-    "custom": "",
+    "custom": "Не, зараз я не хачу рабіць стаўку.",
     "en": "No, I don't want to bet right now.",
     "ru": "Нет, сейчас я не хочу делать ставку.",
     "bel": "Не, зараз я не хачу рабіць стаўку.",
@@ -2737,7 +2737,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaBetChoice2A",
-    "custom": "",
+    "custom": "Я пастаўлю на Сінюю каманду.",
     "en": "I'll bet on the Blue Team.",
     "ru": "Я поставлю на Синюю команду.",
     "bel": "Я пастаўлю на Сінюю каманду.",
@@ -2746,7 +2746,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaBetChoice2B",
-    "custom": "",
+    "custom": "Я пастаўлю на Жоўтую каманду.",
     "en": "I'll bet on the Yellow Team.",
     "ru": "Я поставлю на Желтую команду.",
     "bel": "Я пастаўлю на Жоўтую каманду.",
@@ -2755,7 +2755,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaBetChoice2C",
-    "custom": "",
+    "custom": "Я не хачу рабіць стаўкі на матч проста зараз.",
     "en": "I don't want to bet on a match right now.",
     "ru": "Я пока не буду делать ставку.",
     "bel": "Я пакуль не буду рабіць стаўку.",
@@ -2764,7 +2764,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaBetChoice3A",
-    "custom": "",
+    "custom": "Я пастаўлю 25 залатых.",
     "en": "I'll bet 25 gold.",
     "ru": "Я поставлю 25 золотых.",
     "bel": "Я пастаўлю 25 залатых.",
@@ -2773,7 +2773,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaBetChoice3B",
-    "custom": "",
+    "custom": "Я пастаўлю 50 залатых.",
     "en": "I'll bet 50 gold.",
     "ru": "Я поставлю 50 золотых.",
     "bel": "Я пастаўлю 50 залатых.",
@@ -2782,7 +2782,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaBetChoice3C",
-    "custom": "",
+    "custom": "Я пастаўлю 100 залатых.",
     "en": "I'll bet 100 gold.",
     "ru": "Я поставлю 100 золотых.",
     "bel": "Я пастаўлю 100 залатых.",
@@ -2791,7 +2791,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaBettingTopic",
-    "custom": "",
+    "custom": "Стаўкі на матч",
     "en": "Betting on a Match",
     "ru": "Ставки на исход боя",
     "bel": "Стаўкі на зыход бою",
@@ -2800,7 +2800,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaBoar",
-    "custom": "",
+    "custom": "Свіная адбіўная",
     "en": "Porkchop",
     "ru": "Отбивная",
     "bel": "Адбіўная",
@@ -2809,7 +2809,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaChainmailHelmet",
-    "custom": "",
+    "custom": "Кольчужны шлем",
     "en": "Chainmail Helmet",
     "ru": "Кольчужный шлем",
     "bel": "Кольчужны шлем",
@@ -2818,7 +2818,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaChampName1",
-    "custom": "",
+    "custom": "Заклінальнік",
     "en": "The Spellslinger",
     "ru": "Сила Магии",
     "bel": "Сіла Магіі",
@@ -2827,7 +2827,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaChampName11",
-    "custom": "",
+    "custom": "Навальніца Тамрыэля",
     "en": "The Tamriel Terror",
     "ru": "Гроза Тамриэля",
     "bel": "Навальніца Тамрыэля",
@@ -2836,7 +2836,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaChampName12",
-    "custom": "",
+    "custom": "Драконава сэрца",
     "en": "Dragonheart",
     "ru": "Драконье Сердце",
     "bel": "Драконава Сэрца",
@@ -2845,7 +2845,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaChampName2",
-    "custom": "",
+    "custom": "Мяснік",
     "en": "The Butcher",
     "ru": "Кровопийца",
     "bel": "Крывапіўца",
@@ -2854,7 +2854,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaChampName3",
-    "custom": "",
+    "custom": "Ценякрок",
     "en": "Shadowstep",
     "ru": "Дыхание Тени",
     "bel": "Дыханне Цені",
@@ -2863,7 +2863,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaChampName5",
-    "custom": "",
+    "custom": "Драбільшчык чэрапаў",
     "en": "Skullcrusher",
     "ru": "Кувалда",
     "bel": "Кувалда",
@@ -2872,7 +2872,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaChampName6",
-    "custom": "",
+    "custom": "Боскі мсцівец",
     "en": "The Divine Avenger",
     "ru": "Месть Богов",
     "bel": "Помста Багоў",
@@ -2881,7 +2881,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaChampName7",
-    "custom": "",
+    "custom": "Пасланец смерці",
     "en": "The Messenger of Death",
     "ru": "Лицо Смерти",
     "bel": "Твар Смерці",
@@ -2890,7 +2890,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaChampName8",
-    "custom": "",
+    "custom": "Барвовае лязо",
     "en": "The Crimson Blade",
     "ru": "Багровое Лезвие",
     "bel": "Барвовае Лязо",
@@ -2899,7 +2899,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaChampName9",
-    "custom": "",
+    "custom": "Чалавек вайны",
     "en": "Man o' War",
     "ru": "Солдат",
     "bel": "Салдат",
@@ -2908,7 +2908,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaChampName9f",
-    "custom": "",
+    "custom": "Лэдзі Удача",
     "en": "Lady Luck",
     "ru": "Леди Удача",
     "bel": "Лэдзі Удача",
@@ -2917,7 +2917,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaChestHopefuls",
-    "custom": "",
+    "custom": "Куфар Бранвен і Салііт",
     "en": "Branwen and Saliith's Chest",
     "ru": "Сундук Бранвен и Салита",
     "bel": "Куфар Бранвен і Саліта",
@@ -2926,7 +2926,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaChoice1A",
-    "custom": "",
+    "custom": "Я хачу стаць байцом Арэны.",
     "en": "I want to be a combatant.",
     "ru": "Я хочу стать бойцом Арены.",
     "bel": "Я хачу стаць байцом Арэны.",
@@ -2935,7 +2935,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaChoice1B",
-    "custom": "",
+    "custom": "Я ўжо сыходжу.",
     "en": "I'll be going now.",
     "ru": "Я уже ухожу.",
     "bel": "Я ўжо сыходжу.",
@@ -2944,7 +2944,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaChoice2A",
-    "custom": "",
+    "custom": "Я вазьму цяжкія даспехі доблесці.",
     "en": "I'll take the Heavy Raiment.",
     "ru": "Я предпочитаю тяжелые доспехи.",
     "bel": "Я аддаю перавагу цяжкія даспехі.",
@@ -2953,7 +2953,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaChoice2B",
-    "custom": "",
+    "custom": "Я вазьму лёгкія даспехі доблесці.",
     "en": "I'll take the Light Raiment.",
     "ru": "Я предпочитаю легкие доспехи.",
     "bel": "Я аддаю перавагу лёгкія даспехі.",
@@ -2962,7 +2962,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaChoice3A",
-    "custom": "",
+    "custom": "Выклік Чэмпіёну.",
     "en": "Challenge the Champion.",
     "ru": "Бросьте вызов Чемпиону.",
     "bel": "Кіньце выклік Чэмпіёну.",
@@ -2971,7 +2971,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaChoice3B",
-    "custom": "",
+    "custom": "Не варта кідаць выклік Чэмпіёну.",
     "en": "Do not challenge the Champion.",
     "ru": "Не стоит бросать вызов Чемпиону.",
     "bel": "Не варта кідаць выклік Чэмпіёну.",
@@ -2980,7 +2980,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaCombatantHeavy",
-    "custom": "",
+    "custom": "Баец Арэны - Цяжкая браня",
     "en": "Arena Combatant -- Heavy Armor",
     "ru": "Боец арены - Тяжелые доспехи",
     "bel": "Баец арэны - Цяжкія даспехі",
@@ -2989,7 +2989,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaCombatantLight",
-    "custom": "",
+    "custom": "Баец Арэны - Лёгкая браня",
     "en": "Arena Combatant -- Light Armor",
     "ru": "Боец арены - Легкие доспехи",
     "bel": "Баец арэны - Лёгкія даспехі",
@@ -2998,7 +2998,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaCombatantMagic",
-    "custom": "",
+    "custom": "Баец Арэны - Магія",
     "en": "Arena Combatant -- Magic",
     "ru": "Боец арены - Магия",
     "bel": "Баец арэны - Магія",
@@ -3007,7 +3007,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaCombatantRandom",
-    "custom": "",
+    "custom": "Баец Арэны - Выпадковы выбар",
     "en": "Arena Combatant -- Random",
     "ru": "Боец арены - Случайный выбор",
     "bel": "Баец арэны - Выпадковы выбар",
@@ -3016,7 +3016,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaCombatantShieldCaster",
-    "custom": "",
+    "custom": "Баец Арэны - баявы маг",
     "en": "Arena Combtant -- Battlemage",
     "ru": "Боец арены - боевой маг",
     "bel": "Баец арэны - баявы маг",
@@ -3025,7 +3025,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaCombatantTopic",
-    "custom": "",
+    "custom": "Стаць байцом Арэны",
     "en": "Becoming an Arena Combatant",
     "ru": "Стать бойцом Арены",
     "bel": "Стаць байцом Арэны",
@@ -3034,7 +3034,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaCombatants_LEVEL0_F",
-    "custom": "",
+    "custom": "Байцовы сабака",
     "en": "Pit Dog",
     "ru": "Бойцовый пес",
     "bel": "Байцовы сабака",
@@ -3043,7 +3043,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaCombatants_LEVEL0_M",
-    "custom": "",
+    "custom": "Байцовы сабака",
     "en": "Pit Dog",
     "ru": "Бойцовый пес",
     "bel": "Байцовы сабака",
@@ -3052,7 +3052,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaCombatants_LEVEL2_F",
-    "custom": "",
+    "custom": "Крывапускальнік",
     "en": "Bloodletter",
     "ru": "Кровопускатель",
     "bel": "Крывапускальнік",
@@ -3061,7 +3061,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaCombatants_LEVEL2_M",
-    "custom": "",
+    "custom": "Крывапускальнік",
     "en": "Bloodletter",
     "ru": "Кровопускатель",
     "bel": "Крывапускальнік",
@@ -3070,7 +3070,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaCombatants_LEVEL3_F",
-    "custom": "",
+    "custom": "Мірмідонец",
     "en": "Myrmidon",
     "ru": "Мирмидонец",
     "bel": "Мірмідонец",
@@ -3079,7 +3079,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaCombatants_LEVEL3_M",
-    "custom": "",
+    "custom": "Мірмідонец",
     "en": "Myrmidon",
     "ru": "Мирмидонец",
     "bel": "Мірмідонец",
@@ -3088,7 +3088,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaDaedricBow",
-    "custom": "",
+    "custom": "Дэйдрычны лук",
     "en": "Daedric Bow",
     "ru": "Дэйдрический лук",
     "bel": "Дэйдрычны лук",
@@ -3097,7 +3097,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaDaedricHelmet",
-    "custom": "",
+    "custom": "Дэйдрычны шлем",
     "en": "Daedric Helmet",
     "ru": "Дэйдрический шлем",
     "bel": "Дэйдрычны шлем",
@@ -3106,7 +3106,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaDaedricLongsword",
-    "custom": "",
+    "custom": "Дэйдрычны доўгі меч",
     "en": "Daedric Longsword",
     "ru": "Дэйдрический длинный меч",
     "bel": "Дэйдрычны доўгі меч",
@@ -3115,7 +3115,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaDaedricShield",
-    "custom": "",
+    "custom": "Дэйдрычны шчыт",
     "en": "Daedric Shield",
     "ru": "Дэйдрический щит",
     "bel": "Дэйдрычны шчыт",
@@ -3124,7 +3124,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaDisqualification",
-    "custom": "",
+    "custom": "Скрыпт кантролю дыскваліфікацыі на Арэне",
     "en": "Arena Disqualification Control Script",
     "ru": "Скрипт контроля дисквалификации на Арене",
     "bel": "Скрыпт кантролю дыскваліфікацыі на Арэне",
@@ -3133,7 +3133,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaDwarvenBow",
-    "custom": "",
+    "custom": "Дзвемерскі лук",
     "en": "Dwarven Bow",
     "ru": "Двемерский лук",
     "bel": "Дзвемерскі лук",
@@ -3142,7 +3142,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaDwarvenClaymore",
-    "custom": "",
+    "custom": "Дзвемерская клеймора",
     "en": "Dwarven Claymore",
     "ru": "Двемерская клеймора",
     "bel": "Дзвемерская клеймора",
@@ -3151,7 +3151,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaDwarvenHelmet",
-    "custom": "",
+    "custom": "Дзвемерскі шлем",
     "en": "Dwarven Helmet",
     "ru": "Двемерский шлем",
     "bel": "Дзвемерскі шлем",
@@ -3160,7 +3160,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaDwarvenLongSword",
-    "custom": "",
+    "custom": "Дзвемерскі доўгі меч",
     "en": "Dwarven Longsword",
     "ru": "Двемерский длинный меч",
     "bel": "Дзвемерскі доўгі меч",
@@ -3169,7 +3169,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaDwarvenShield",
-    "custom": "",
+    "custom": "Дзвемерскі шчыт",
     "en": "Dwarven Shield",
     "ru": "Двемерский щит",
     "bel": "Дзвемерскі шчыт",
@@ -3178,7 +3178,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaEbonyBow",
-    "custom": "",
+    "custom": "Эбанітавы лук",
     "en": "Ebony Bow",
     "ru": "Эбонитовый лук",
     "bel": "Эбанітавы лук",
@@ -3187,7 +3187,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaEbonyHelmet",
-    "custom": "",
+    "custom": "Эбанітавы шлем",
     "en": "Ebony Helmet",
     "ru": "Эбонитовый шлем",
     "bel": "Эбанітавы шлем",
@@ -3196,7 +3196,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaEbonyLongsword",
-    "custom": "",
+    "custom": "Эбанітавы доўгі меч",
     "en": "Ebony Longsword",
     "ru": "Эбонитовый длинный меч",
     "bel": "Эбанітавы доўгі меч",
@@ -3205,7 +3205,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaEbonyMace",
-    "custom": "",
+    "custom": "Эбанітавая булава",
     "en": "Ebony Mace",
     "ru": "Эбонитовая булава",
     "bel": "Эбанітавая булава",
@@ -3214,7 +3214,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaEbonyShield",
-    "custom": "",
+    "custom": "Эбанітавы шчыт",
     "en": "Ebony Shield",
     "ru": "Эбонитовый щит",
     "bel": "Эбанітавы шчыт",
@@ -3223,7 +3223,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaEbonyWarAxe",
-    "custom": "",
+    "custom": "Эбанітавая сякера",
     "en": "Ebony War Axe",
     "ru": "Эбонитовый топор",
     "bel": "Эбанітавы тапор",
@@ -3232,7 +3232,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaFan1",
-    "custom": "",
+    "custom": "Адданы фанат",
     "en": "Adoring Fan",
     "ru": "Восторженный поклонник",
     "bel": "Усхваляваны прыхільнік",
@@ -3241,7 +3241,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaFanChoice1A",
-    "custom": "",
+    "custom": "Змывайся, малец. Мне не патрэбны фанат.",
     "en": "Beat it, kid. I don't need a fan.",
     "ru": "Забудь, малыш. Мне не нужен почитатель.",
     "bel": "Забудзь, малы. Мне не патрэбны прыхільнік.",
@@ -3250,7 +3250,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaFanChoice1B",
-    "custom": "",
+    "custom": "Ідзі за сваім паважаным Вялікім чэмпіёнам!",
     "en": "Follow your esteemed Grand Champion!",
     "ru": "Следуй за своим Великим чемпионом!",
     "bel": "Ідзі за сваім Вялікім чэмпіёнам!",
@@ -3259,7 +3259,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaFanChoiceHold",
-    "custom": "",
+    "custom": "Чакай тут. Так, менавіта тут.",
     "en": "Wait here. Yes, right here.",
     "ru": "Жди здесь. Да, именно здесь.",
     "bel": "Чакай тут. Так, менавіта тут.",
@@ -3268,7 +3268,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaFanFaction",
-    "custom": "",
+    "custom": "ArenaFanFaction",
     "en": "ArenaFanFaction",
     "ru": "Фракция фанатов арены",
     "bel": "Фракцыя фанатаў арэны",
@@ -3277,7 +3277,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaGlassWarHammer",
-    "custom": "",
+    "custom": "Шкляны баявы молат",
     "en": "Glass Warhammer",
     "ru": "Стеклянный боевой молот",
     "bel": "Шкляны баявы молат",
@@ -3286,7 +3286,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaGrayPrinceTrain",
-    "custom": "",
+    "custom": "Трэніроўка Шэрага Прынца",
     "en": "Gray Prince's Training",
     "ru": "Урок Серого Принца",
     "bel": "Урок Шэрага Прынца",
@@ -3295,7 +3295,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaHopeful2",
-    "custom": "",
+    "custom": "Салііт",
     "en": "Saliith",
     "ru": "Салит",
     "bel": "Саліт",
@@ -3304,7 +3304,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaHopefulKey",
-    "custom": "",
+    "custom": "Ключ Бранвен і Салііт",
     "en": "Branwen and Saliith's Key",
     "ru": "Ключ Бранвен и Салита",
     "bel": "Ключ Бранвен і Саліта",
@@ -3313,7 +3313,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaICBloodworksDwellers",
-    "custom": "",
+    "custom": "Жыхары крывавых работ Арэны",
     "en": "Arena Bloodworks Dwellers",
     "ru": "Обитатели <font color=red>Arena Bloodworks</font>",
     "bel": "Жыхары <font color=red>Arena Bloodworks</font>",
@@ -3322,7 +3322,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaICGrandChampion",
-    "custom": "",
+    "custom": "Скрыпт кіравання матчам Вялікага чэмпіёна Арэны",
     "en": "Arena Grand Champion Match Control Script",
     "ru": "Скрипт управления матчем Великого чемпиона арены",
     "bel": "Скрыпт кіравання матчам Вялікага чэмпіёна арэны",
@@ -3331,7 +3331,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaICMonsters",
-    "custom": "",
+    "custom": "Фракцыя монстраў Арэны Імперскага горада",
     "en": "Imperial City Arena Monster Faction",
     "ru": "Монстры фракции арены ИМПЕРСКОГО города.",
     "bel": "Монстры фракцыі арэны ІМПЕРСКАГА горада.",
@@ -3340,7 +3340,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaICRaiment1",
-    "custom": "",
+    "custom": "Дай мне цяжкія даспехі доблесці.",
     "en": "Give me the Heavy Raiment of Valor.",
     "ru": "Дай мне тяжелые Доспехи мужества.",
     "bel": "Дай мне цяжкія Даспехі мужнасці.",
@@ -3349,7 +3349,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaICRaiment2",
-    "custom": "",
+    "custom": "Дай мне лёгкія даспехі доблесці.",
     "en": "Give me the Light Raiment of Valor.",
     "ru": "Дай мне легкие Доспехи мужества.",
     "bel": "Дай мне лёгкія Даспехі мужнасці.",
@@ -3358,7 +3358,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaIronWarAxe",
-    "custom": "",
+    "custom": "Жалезная сякера",
     "en": "Iron War Axe",
     "ru": "Железный топор",
     "bel": "Жалезны тапор",
@@ -3367,7 +3367,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaLockbox",
-    "custom": "",
+    "custom": "Сейф Арэны",
     "en": "Arena Lockbox",
     "ru": "Сейф Арены",
     "bel": "Сейф Арэны",
@@ -3376,7 +3376,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaMouth",
-    "custom": "",
+    "custom": "Глашатай Арэны",
     "en": "Arena Mouth",
     "ru": "Глашатай Арены",
     "bel": "Галошатай Арэны",
@@ -3385,7 +3385,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaOrcishHelmet",
-    "custom": "",
+    "custom": "Аркоўскі шлем",
     "en": "Orcish Helmet",
     "ru": "Орочий шлем",
     "bel": "Арчыны шлем",
@@ -3394,7 +3394,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaOrcishShield",
-    "custom": "",
+    "custom": "Аркоўскі шчыт",
     "en": "Orcish Shield",
     "ru": "Орочий щит",
     "bel": "Арчыны шчыт",
@@ -3403,7 +3403,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaPlayer",
-    "custom": "",
+    "custom": "Гулец Арэны",
     "en": "Arena Player",
     "ru": "Игрок {Arena}",
     "bel": "Гулец {Arena}",
@@ -3412,7 +3412,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaPlayer_LEVEL0_F",
-    "custom": "",
+    "custom": "У фракцыі",
     "en": "In Faction",
     "ru": "В Faction.",
     "bel": "У Faction.",
@@ -3421,7 +3421,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaRaimentCabinet",
-    "custom": "",
+    "custom": "Шафа з адзеннем",
     "en": "Raiment Cabinet",
     "ru": "Одежный шкаф",
     "bel": "Адзенны шафа",
@@ -3430,7 +3430,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaRaimentHeavy",
-    "custom": "",
+    "custom": "Цяжкія даспехі Арэны",
     "en": "Arena Heavy Raiment",
     "ru": "Тяжелые доспехи Арены",
     "bel": "Цяжкія даспехі Арэны",
@@ -3439,7 +3439,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaRaimentHeavyChampion",
-    "custom": "",
+    "custom": "Цяжкія даспехі доблесці",
     "en": "Heavy Raiment of Valor",
     "ru": "Тяжелые Доспехи мужества",
     "bel": "Цяжкія Даспехі мужнасці",
@@ -3448,7 +3448,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaRaimentHeavyChampionGP",
-    "custom": "",
+    "custom": "Даспехі Агранака",
     "en": "Agronak's Raiment",
     "ru": "Доспехи Агронака",
     "bel": "Даспехі Агранака",
@@ -3457,7 +3457,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaRaimentHeavyYellow",
-    "custom": "",
+    "custom": "Цяжкія даспехі Арэны",
     "en": "Arena Heavy Raiment",
     "ru": "Тяжелые доспехи Арены",
     "bel": "Цяжкія даспехі Арэны",
@@ -3466,7 +3466,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaRaimentLight",
-    "custom": "",
+    "custom": "Лёгкія даспехі Арэны",
     "en": "Arena Light Raiment",
     "ru": "Легкие доспехи Арены",
     "bel": "Лёгкія даспехі Арэны",
@@ -3475,7 +3475,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaRaimentLightChampion",
-    "custom": "",
+    "custom": "Лёгкія даспехі доблесці",
     "en": "Light Raiment of Valor",
     "ru": "Легкие Доспехи мужества",
     "bel": "Лёгкія Даспехі мужнасці",
@@ -3484,7 +3484,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaRaimentLightYellow",
-    "custom": "",
+    "custom": "Лёгкія даспехі Арэны",
     "en": "Arena Light Raiment",
     "ru": "Легкие доспехи Арены",
     "bel": "Лёгкія даспехі Арэны",
@@ -3493,7 +3493,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaRank0A",
-    "custom": "",
+    "custom": "Байцовы сабака Жоўтай каманды",
     "en": "Yellow Team Pit Dog",
     "ru": "Бойцовый пес Желтой команды",
     "bel": "Байцовы сабака Жоўтай каманды",
@@ -3502,7 +3502,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaRank0B",
-    "custom": "",
+    "custom": "Байцовы сабака Жоўтай каманды",
     "en": "Yellow Team Pit Dog",
     "ru": "Бойцовый пес Желтой команды",
     "bel": "Байцовы сабака Жоўтай каманды",
@@ -3511,7 +3511,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaRank0C",
-    "custom": "",
+    "custom": "Байцовы сабака Жоўтай каманды",
     "en": "Yellow Team Pit Dog",
     "ru": "Бойцовый пес Желтой команды",
     "bel": "Байцовы сабака Жоўтай каманды",
@@ -3520,7 +3520,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaRank3A",
-    "custom": "",
+    "custom": "Мірмідонец Жоўтай каманды",
     "en": "Yellow Team Myrmidon",
     "ru": "Мирмидонец Желтой команды",
     "bel": "Мірмідонец Жоўтай каманды",
@@ -3529,7 +3529,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaRank3B",
-    "custom": "",
+    "custom": "Мірмідонец Жоўтай каманды",
     "en": "Yellow Team Myrmidon",
     "ru": "Мирмидонец Желтой команды",
     "bel": "Мірмідонец Жоўтай каманды",
@@ -3538,7 +3538,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaRank3C",
-    "custom": "",
+    "custom": "Мірмідонец Жоўтай каманды",
     "en": "Yellow Team Myrmidon",
     "ru": "Мирмидонец Желтой команды",
     "bel": "Мірмідонец Жоўтай каманды",
@@ -3547,7 +3547,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaRank6E",
-    "custom": "",
+    "custom": "Байцовы сабака Жоўтай каманды",
     "en": "Yellow Team Pit Dog",
     "ru": "Бойцовый пес Желтой команды",
     "bel": "Байцовы сабака Жоўтай каманды",
@@ -3556,7 +3556,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaRedRoomGate",
-    "custom": "",
+    "custom": "Брама Чырвонага пакоя",
     "en": "Red Room Gate",
     "ru": "Дверь Красной комнаты",
     "bel": "Дзверы Чырвонага пакою",
@@ -3565,7 +3565,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaRedRoomGateIC",
-    "custom": "",
+    "custom": "Брама Чырвонага пакоя",
     "en": "Red Room Gate",
     "ru": "Дверь Красной комнаты",
     "bel": "Дзверы Чырвонага пакою",
@@ -3574,7 +3574,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaSilverBattleAxe",
-    "custom": "",
+    "custom": "Срэбная сякера",
     "en": "Silver BattleAxe",
     "ru": "Серебряная секира",
     "bel": "Срэбная сякера",
@@ -3583,7 +3583,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaSpecDoorInside",
-    "custom": "",
+    "custom": "Уваход на Арэну",
     "en": "Arena Entrance",
     "ru": "Вход на Арену",
     "bel": "Уваход на Арэну",
@@ -3592,7 +3592,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaSpecDoorInsideRight",
-    "custom": "",
+    "custom": "Уваход на Арэну",
     "en": "Arena Entrance",
     "ru": "Вход на Арену",
     "bel": "Уваход на Арэну",
@@ -3601,7 +3601,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaSpectatorCombatant",
-    "custom": "",
+    "custom": "Скрыпт кіравання байцамі Арэны",
     "en": "Arena Combatants Control Script",
     "ru": "Скрипт управления бойцами Арены",
     "bel": "Скрыпт кіравання байцамі Арэны",
@@ -3610,7 +3610,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaSpectatorCombatants",
-    "custom": "",
+    "custom": "Байцы - гледачы Арэны",
     "en": "Arena Spectator Combatants",
     "ru": "Бойцы - зрители Арены",
     "bel": "Байцы - гледачы Арэны",
@@ -3619,7 +3619,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaSteelShieldGrayAegis",
-    "custom": "",
+    "custom": "Шэрая эгіда",
     "en": "The Gray Aegis",
     "ru": "Серая эгида",
     "bel": "Шэрая эгіда",
@@ -3628,7 +3628,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArenaYellowTeam",
-    "custom": "",
+    "custom": "Жоўтая каманда Арэны",
     "en": "Arena Yellow Team",
     "ru": "Арена: Жёлтая Команда",
     "bel": "Арэна: Жоўтая Каманда",
@@ -3637,7 +3637,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArentusFalvius",
-    "custom": "",
+    "custom": "Арэнтус Флавіус",
     "en": "Arentus Falvius",
     "ru": "Арентус Фалвиус",
     "bel": "Арэнт Фалвіус",
@@ -3646,7 +3646,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArgonianDrofahrTopic",
-    "custom": "",
+    "custom": "Аргоніанін Дро'фар",
     "en": "Argonian Dro'fahr",
     "ru": "Аргонианский Dro'fahr",
     "bel": "Аргоніанскі Dro'fahr",
@@ -3655,7 +3655,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArgonianFins",
-    "custom": "",
+    "custom": "Плавнікі",
     "en": "Fins",
     "ru": "Плавники",
     "bel": "Плыўнікі",
@@ -3664,7 +3664,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArgonianJeweledFins",
-    "custom": "",
+    "custom": "Інкруставаныя плаўнікі",
     "en": "Jeweled Fins",
     "ru": "Плавники с кольцами",
     "bel": "Плыўнікі з кольцамі",
@@ -3673,7 +3673,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArgonianRidge",
-    "custom": "",
+    "custom": "Спінны хрыбет",
     "en": "Dorsal Ridge",
     "ru": "Гребень",
     "bel": "Грэбень",
@@ -3682,7 +3682,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArgonianSpines",
-    "custom": "",
+    "custom": "Іголкі",
     "en": "Spines",
     "ru": "Иглы",
     "bel": "Іголкі",
@@ -3691,7 +3691,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArielaDoran",
-    "custom": "",
+    "custom": "Арыэла Доран",
     "en": "Ariela Doran",
     "ru": "Ариэла Доран",
     "bel": "Арыэла Доран",
@@ -3700,7 +3700,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArielleJurard",
-    "custom": "",
+    "custom": "Арыель Журард",
     "en": "Arielle Jurard",
     "ru": "Эриэль Джурард",
     "bel": "Эрыэль Джурард",
@@ -3709,7 +3709,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArkvedsTower02",
-    "custom": "",
+    "custom": "Бездань Аркведа",
     "en": "Arkved's Void",
     "ru": "Бездна Аркведа",
     "bel": "Бездань Аркведа",
@@ -3718,7 +3718,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArkvedsTower03",
-    "custom": "",
+    "custom": "Страчаныя палаты Аркведа",
     "en": "Arkved's Lost Halls",
     "ru": "Арквед - Потерянные чертоги",
     "bel": "Арквед - Страчаныя палаты",
@@ -3727,7 +3727,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArkvedsTower04",
-    "custom": "",
+    "custom": "Палата змен Аркведа",
     "en": "Arkved's Hall of Changes",
     "ru": "Арквед - Чертог изменений",
     "bel": "Арквед - Палата змен",
@@ -3736,7 +3736,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArkvedsTower05",
-    "custom": "",
+    "custom": "Прытулак Аркведа",
     "en": "Arkved's Retreat",
     "ru": "Отступление Аркведа",
     "bel": "Адступленне Аркведа",
@@ -3745,7 +3745,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArkvedsTower06",
-    "custom": "",
+    "custom": "Палацы разлукі Аркведа",
     "en": "Arkved's Rending Halls",
     "ru": "Чертоги разлуки Аркведа",
     "bel": "Палаты разлукі Аркведа",
@@ -3754,7 +3754,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArkvedsTower07",
-    "custom": "",
+    "custom": "Пакоі смерці Аркведа",
     "en": "Arkved's Death Quarters",
     "ru": "Арквед - Чертоги смерти",
     "bel": "Арквед - Палаты смерці",
@@ -3763,7 +3763,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Arquen",
-    "custom": "",
+    "custom": "Аркуэн",
     "en": "Arquen",
     "ru": "Аркуэн",
     "bel": "Аркуэн",
@@ -3772,7 +3772,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArrianaValga",
-    "custom": "",
+    "custom": "Графіня Арыяна Валга",
     "en": "Countess Arriana Valga",
     "ru": "Графиня Арриана Валга",
     "bel": "Графіня Аррыяна Валга",
@@ -3781,7 +3781,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArrianaValgaKey",
-    "custom": "",
+    "custom": "Ключ Арыяны Валгі",
     "en": "Arriana Valga's Key",
     "ru": "Ключ Аррианы Валги",
     "bel": "Ключ Аррыяны Валгі",
@@ -3790,7 +3790,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArrianaValgaPQKey",
-    "custom": "",
+    "custom": "Ключ ад пакояў Арыяны Валгі",
     "en": "Arriana Valga's Quarters Key",
     "ru": "Ключ от покоев Аррианы Валги",
     "bel": "Ключ ад пакояў Аррыяны Валгі",
@@ -3799,7 +3799,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Arrow4Dwarven",
-    "custom": "",
+    "custom": "Дзвемерская страла",
     "en": "Dwarven Arrow",
     "ru": "Двемерская стрела",
     "bel": "Двэмерская страла",
@@ -3808,7 +3808,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Arrow7Ebony",
-    "custom": "",
+    "custom": "Эбанітавая страла",
     "en": "Ebony Arrow",
     "ru": "Эбонитовая стрела",
     "bel": "Эбанітавая страла",
@@ -3817,7 +3817,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Arrow8Daedric",
-    "custom": "",
+    "custom": "Дэйдрычная страла",
     "en": "Daedric Arrow",
     "ru": "Дэйдрическая стрела",
     "bel": "Дэйдрычная страла",
@@ -3826,7 +3826,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArrowrootPlant",
-    "custom": "",
+    "custom": "Расліна маранты",
     "en": "Arrowroot Plant",
     "ru": "Маранта",
     "bel": "Маранта",
@@ -3835,7 +3835,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArrowshaftCavern",
-    "custom": "",
+    "custom": "Пячора Дрэўка стралы",
     "en": "Arrowshaft Cavern",
     "ru": "Пещера Древко Стрелы",
     "bel": "Пячора Дрэўка Стралы",
@@ -3844,7 +3844,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArrowshaftCavern02",
-    "custom": "",
+    "custom": "Ніжняя пячора Дрэўка стралы",
     "en": "Lower Arrowshaft Cavern",
     "ru": "Древко Стрелы - Нижние пещеры",
     "bel": "Дрэўка Стралы - Ніжнія пячоры",
@@ -3853,7 +3853,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ArrowshaftCavern03",
-    "custom": "",
+    "custom": "Падзямелле пячоры Дрэўка стралы",
     "en": "Arrowshaft Cavern Subtarrane",
     "ru": "Пещера Древко Стрелы - Подземелья",
     "bel": "Пячора Дрэўка Стралы - Падзямеллі",
@@ -3862,7 +3862,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Aryarie",
-    "custom": "",
+    "custom": "Аруары",
     "en": "Aryarie",
     "ru": "Аруари",
     "bel": "Аруары",
@@ -3871,7 +3871,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AssassChangeSubject",
-    "custom": "",
+    "custom": "Змяніць тэму.",
     "en": "Change the subject.",
     "ru": "Сменим тему.",
     "bel": "Зменім тэму.",
@@ -3880,7 +3880,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AssassNod",
-    "custom": "",
+    "custom": "Кіўнуць у знак згоды.",
     "en": "Nod in agreement.",
     "ru": "Кивнуть в знак согласия.",
     "bel": "Кіўнуць у знак згоды.",
@@ -3889,7 +3889,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AssassTellStory",
-    "custom": "",
+    "custom": "Раскажыце сваю гісторыю.",
     "en": "Tell your story.",
     "ru": "Расскажи свою историю.",
     "bel": "Раскажы сваю гісторыю.",
@@ -3907,7 +3907,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Assault",
-    "custom": "",
+    "custom": "Напад",
     "en": "Assault",
     "ru": "Штурм",
     "bel": "Штурм",
@@ -3916,7 +3916,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Astante",
-    "custom": "",
+    "custom": "Астанта",
     "en": "Astante",
     "ru": "Астанта",
     "bel": "Астанта",
@@ -3925,7 +3925,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Atahba",
-    "custom": "",
+    "custom": "Атахба",
     "en": "Atahba",
     "ru": "Атаба",
     "bel": "Атаба",
@@ -3934,7 +3934,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Atatar02",
-    "custom": "",
+    "custom": "Ататар Хэйлія Дагон",
     "en": "Atatar Haelia Dagon",
     "ru": "Ататар Хэйлия Дагон",
     "bel": "Ататар Хэйлія Дагон",
@@ -3943,7 +3943,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Atatar03",
-    "custom": "",
+    "custom": "Ататар Хэйлія Анга",
     "en": "Atatar Haelia Anga",
     "ru": "Ататар Хэйлия Анга",
     "bel": "Ататар Хэйлія Анга",
@@ -3952,7 +3952,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AthramFamily",
-    "custom": "",
+    "custom": "Сям'я Атрам",
     "en": "Athram Family",
     "ru": "Семья Athram",
     "bel": "Сям'я Athram",
@@ -3961,7 +3961,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AthramKey",
-    "custom": "",
+    "custom": "Ключ ад дома Атрама",
     "en": "Athram House Key",
     "ru": "Ключ от дома Атрама",
     "bel": "Ключ ад дома Атрама",
@@ -3970,7 +3970,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AtiusFamily",
-    "custom": "",
+    "custom": "Сям'я Атыус",
     "en": "Atius Family",
     "ru": "Семейство Atius",
     "bel": "Сямейства Atius",
