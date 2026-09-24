@@ -885,6 +885,23 @@ PS5-актывацыя, подкуп (Persuasion)
   Спецыяліст, Expert -> Эксперт, Master -> Майстар (усталявана раней
   у Кроку 4a, пацверджана тут).
 
+## Дадаткова (Крок 5, порцыя 5, апошняя) - завяршэнне ST_Descriptions.json:
+увесь блок Skill*_LEVELn і класы персанажа
+
+- Пацвердзілася здагадка з порцыі 4: практычна ўвесь блок апісанняў
+  навыкаў па ўзроўнях (Skill{Armorer,Athletics,Blade,Block,Blunt,
+  Conjuration,Destruction,HandToHand,HeavyArmor,Illusion,LightArmor,
+  Marksman,Mercantile,Mysticism,Restoration,Security,Sneak,
+  Speechcraft}_LEVEL0-3, ~90 запісаў) перакладзены цалкам нанова з
+  `en` -- чарнавікі апісвалі старую гульнявую механіку.
+- Заўважана: у `en` нумарацыя ўзроўню часам не адпавядае назве рангу
+  (напр. `SkillArmorer_LEVEL0` тэкстава апісаны як "Journeyman", а
+  `LEVEL1` -- як "Apprentice"). Пераклад зроблены дакладна паводле
+  тэксту `en` (не паводле нумара LEVEL), каб захаваць зыходны сэнс.
+- Дадаткова перакладзены астатнія класы персанажа (Sorcerer,
+  Spellsword, Thief, Warrior, Witchhunter) і раса WoodElf -> Басмер.
+- **Крок 5 цалкам завершаны: ST_Descriptions.json 500/500 запоўнена.**
+
 ## Расы (Races)
 
 | en | bel | крыніца |
