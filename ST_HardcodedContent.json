@@ -2057,7 +2057,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sDownloadsNotAvail",
-    "custom": "",
+    "custom": "Новага кантэнту няма.",
     "en": "No New Content Available",
     "ru": "Нового контента нет.",
     "bel": "Новага кантэнту няма.",
@@ -2065,7 +2065,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sDropEquippedItemWarning",
-    "custom": "",
+    "custom": "Вы не можаце выкінуць экіпіраваны прадмет, пакуль не завершыце бягучае дзеянне.",
     "en": "You cannot drop an equiped item until you complete your current action.",
     "ru": "Вы не можете выбросить экипированный предмет, пока не завершите текущее действие.",
     "bel": "Вы не можаце выкінуць экіпіраваны прадмет, пакуль не завершыце бягучае дзеянне.",
@@ -2073,7 +2073,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sDropQuestItemWarning",
-    "custom": "",
+    "custom": "Вы не можаце выдаліць Квэставыя Прадметы з вашага Інвентара.",
     "en": "You cannot remove Quest Items from your Inventory.",
     "ru": "Вы не можете удалить Квестовые Предметы из вашего Инвентаря.",
     "bel": "Вы не можаце выдаліць Квэставыя Прадметы з вашага Інвентара.",
@@ -2081,7 +2081,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sDuplicateName",
-    "custom": "",
+    "custom": "Заклінанне з такой назвай ужо існуе.",
     "en": "A spell with this name already exists.",
     "ru": "Заклинание с таким названием уже существует.",
     "bel": "Заклінанне з такой назвай ужо існуе.",
@@ -2089,7 +2089,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sDurationText",
-    "custom": "",
+    "custom": "Працягласць",
     "en": "Duration",
     "ru": "Длительность",
     "bel": "Працягласць",
@@ -2097,7 +2097,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEffectAlreadyAdded",
-    "custom": "",
+    "custom": "Эфект ужо дададзены. Замест гэтага змяніце эфект.",
     "en": "Effect has already been added.  Edit the effect instead.",
     "ru": "Эффект уже добавлен. Вместо этого измените эффект.",
     "bel": "Эфект ужо дададзены. Замест гэтага змяніце эфект.",
@@ -2105,7 +2105,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEnchantedItem",
-    "custom": "",
+    "custom": "Зачараваны прадмет",
     "en": "enchanted item",
     "ru": "Зачарованный предмет",
     "bel": "Зачараваны прадмет",
@@ -2113,7 +2113,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEnchantmentSuccess",
-    "custom": "",
+    "custom": "Віншуем! Вы стварылі новы зачараваны прадмет.",
     "en": "Congratulations!  You have created a new enchanted item.",
     "ru": "Поздравляем! Вы создали новый зачарованный предмет.",
     "bel": "Віншуем! Вы стварылі новы зачараваны прадмет.",
@@ -2121,7 +2121,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEnduranceDescription",
-    "custom": "",
+    "custom": "Патрэбна апісанне гульнявога свету.",
     "en": "Need a gamesetting description.",
     "ru": "Нужно описание игрового мира.",
     "bel": "Патрэбна апісанне гульнявога свету.",
@@ -2129,7 +2129,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEnterName",
-    "custom": "",
+    "custom": "Увядзіце імя персанажа",
     "en": "Enter character name",
     "ru": "Введите имя персонажа",
     "bel": "Увядзіце імя персанажа",
@@ -2137,7 +2137,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEntryInstructions1",
-    "custom": "",
+    "custom": "Увядзіце імя для [чагосьці].",
     "en": "Enter a name for the",
     "ru": "Введите имя для [чего-либо].",
     "bel": "Увядзіце імя для [чагосьці].",
@@ -2145,7 +2145,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEntryInstructions2",
-    "custom": "",
+    "custom": "вы спрабуеце стварыць.",
     "en": "you are trying to create.",
     "ru": "вы пытаетесь создать.",
     "bel": "вы спрабуеце стварыць.",
@@ -2153,7 +2153,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEquipItemOnPlayer",
-    "custom": "",
+    "custom": "Было надзета на гульца.",
     "en": "was equipped on the player",
     "ru": "Было надето на игрока.",
     "bel": "Было надзета на гульца.",
@@ -2161,7 +2161,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEssentialCharacterDown",
-    "custom": "",
+    "custom": "Без прытомнасці.",
     "en": "is unconscious.",
     "ru": "Без сознания.",
     "bel": "Без прытомнасці.",
@@ -2169,7 +2169,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sExitGameAffirm",
-    "custom": "",
+    "custom": "Выйсці з гульні",
     "en": "Exit Game",
     "ru": "Выйти из игры",
     "bel": "Выйсці з гульні",
@@ -2177,7 +2177,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sExitGameQuestion",
-    "custom": "",
+    "custom": "Выйсці з гульні?",
     "en": "Exit the game?",
     "ru": "Выйти из игры?",
     "bel": "Выйсці з гульні?",
@@ -2185,7 +2185,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEyebrows",
-    "custom": "",
+    "custom": "Бровы",
     "en": "Eyebrows",
     "ru": "Брови",
     "bel": "Бровы",
@@ -2193,7 +2193,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEyebrowsdark",
-    "custom": "",
+    "custom": "Бровы Цёмныя/Светлыя",
     "en": "Eyebrows Dark/Light",
     "ru": "Брови Тёмные/Светлые",
     "bel": "Бровы Цёмныя/Светлыя",
@@ -2201,7 +2201,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEyebrowslow",
-    "custom": "",
+    "custom": "Бровы Апушчаны/Падняты",
     "en": "Eyebrows Low/High",
     "ru": "Брови Опущены/Подняты",
     "bel": "Бровы Апушчаны/Падняты",
@@ -2209,7 +2209,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEyebrowslower",
-    "custom": "",
+    "custom": "Бровы Ніжнія Светлыя/Цёмныя",
     "en": "Eyebrows Lower Light/Dark",
     "ru": "Брови Ниже Светлые/Темные",
     "bel": "Бровы Ніжнія Светлыя/Цёмныя",
@@ -2217,7 +2217,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEyebrowsouter",
-    "custom": "",
+    "custom": "Бровы Знешнія Светлыя/Цёмныя",
     "en": "Eyebrows Outer Light/Dark",
     "ru": "Брови Внешние Светлые/Тёмные",
     "bel": "Бровы Знешнія Светлыя/Цёмныя",
@@ -2225,7 +2225,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEyebrowsthick",
-    "custom": "",
+    "custom": "Бровы Густыя/Тонкія",
     "en": "Eyebrows Thick/Thin",
     "ru": "Брови Густые/Тонкие",
     "bel": "Бровы Густыя/Тонкія",
@@ -2233,7 +2233,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEyebrowsuppert",
-    "custom": "",
+    "custom": "Бровы Верхнія Цёмныя/Светлыя",
     "en": "Eyebrows Upper Dark/Light",
     "ru": "Брови Верхние Тёмные/Светлые",
     "bel": "Бровы Верхнія Цёмныя/Светлыя",
@@ -2241,7 +2241,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEyebrowsvery",
-    "custom": "",
+    "custom": "Бровы Вельмі Тонкія/Густыя",
     "en": "Eyebrows Very Thin/Thick",
     "ru": "Брови Очень Тонкие/Густые",
     "bel": "Бровы Вельмі Тонкія/Густыя",
@@ -2249,7 +2249,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEyelidslight",
-    "custom": "",
+    "custom": "Павекі Светлыя/Цёмныя",
     "en": "Eyelids Light/Dark",
     "ru": "Веки Светлые/Тёмные",
     "bel": "Павекі Светлыя/Цёмныя",
@@ -2257,7 +2257,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEyelidspale",
-    "custom": "",
+    "custom": "Павекі Бледныя/Чырвоныя",
     "en": "Eyelids Pale/Red",
     "ru": "Веки Бледные/Красные",
     "bel": "Павекі Бледныя/Чырвоныя",
@@ -2265,7 +2265,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEyeliner",
-    "custom": "",
+    "custom": "Падводка для вачэй светлая/цёмная",
     "en": "Eyeliner Light/Dark",
     "ru": "Подводка для глаз светлая/темная",
     "bel": "Падводка для вачэй светлая/цёмная",
@@ -2273,7 +2273,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEyes",
-    "custom": "",
+    "custom": "Вочы",
     "en": "Eyes",
     "ru": "Глаза",
     "bel": "Вочы",
@@ -2281,7 +2281,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEyesTex",
-    "custom": "",
+    "custom": "Цёмныя акуляры",
     "en": "Eye Shades",
     "ru": "Тёмные очки",
     "bel": "Цёмныя акуляры",
@@ -2289,7 +2289,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEyesdark",
-    "custom": "",
+    "custom": "Вочы Цёмна-карыя/Светла-блакітныя",
     "en": "Eyes Dark Brown/Light Blue",
     "ru": "Глаза Тёмно-карие/Светло-голубые",
     "bel": "Вочы Цёмна-карыя/Светла-блакітныя",
@@ -2297,7 +2297,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEyesdown",
-    "custom": "",
+    "custom": "Уніз/Уверх погляд",
     "en": "Eyes Down/Up",
     "ru": "Вниз/Вверх взгляд",
     "bel": "Уніз/Уверх погляд",
@@ -2305,7 +2305,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEyeshadow",
-    "custom": "",
+    "custom": "Цені для вачэй: Светлыя/Цёмныя",
     "en": "Eyeshadow Light/Dark",
     "ru": "Тени для век: Светлые/Темные",
     "bel": "Цені для вачэй: Светлыя/Цёмныя",
@@ -2313,7 +2313,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEyesocketsbruised",
-    "custom": "",
+    "custom": "Вачніцы Пабітыя/Яркія",
     "en": "Eye Sockets Bruised/Bright",
     "ru": "Глазницы Побитые/Яркие",
     "bel": "Вачніцы Пабітыя/Яркія",
@@ -2321,7 +2321,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEyesocketsdark",
-    "custom": "",
+    "custom": "Вачніцы Цёмныя/Светлыя",
     "en": "Eye Sockets Dark/Light",
     "ru": "Глазницы Тёмные/Светлые",
     "bel": "Вачніцы Цёмныя/Светлыя",
@@ -2329,7 +2329,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEyessmall",
-    "custom": "",
+    "custom": "Вочы Маленькія/Вялікія",
     "en": "Eyes Small/Large",
     "ru": "Глаза Маленькие/Большие",
     "bel": "Вочы Маленькія/Вялікія",
@@ -2337,7 +2337,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEyestilt",
-    "custom": "",
+    "custom": "Погляд касавурыцца ўнутр/вонкі",
     "en": "Eyes Tilt Inward/Outward",
     "ru": "Взгляд косит внутрь/наружу",
     "bel": "Погляд касавурыцца ўнутр/вонкі",
@@ -2345,7 +2345,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEyestogether",
-    "custom": "",
+    "custom": "Разам/Нарозь",
     "en": "Eyes Together/Apart",
     "ru": "Вместе/Врозь",
     "bel": "Разам/Нарозь",
@@ -2353,7 +2353,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sEyeswhites",
-    "custom": "",
+    "custom": "Бялкі Вачэй Цьмянеюць/Святлеюць",
     "en": "Eyes Whites Dim/Bright",
     "ru": "Белки Глаз Тускнеют/Светлеют",
     "bel": "Бялкі Вачэй Цьмянеюць/Святлеюць",
@@ -2361,7 +2361,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sFace",
-    "custom": "",
+    "custom": "Твар",
     "en": "Face",
     "ru": "Лицо",
     "bel": "Твар",
@@ -2369,7 +2369,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sFacebrow",
-    "custom": "",
+    "custom": "Суадносіны ілба/броў/носа/падбародка на твары",
     "en": "Face Brow/Nose/Chin Ratio",
     "ru": "Соотношение лба/бровей/носа/подбородка на лице",
     "bel": "Суадносіны ілба/броў/носа/падбародка на твары",
@@ -2377,7 +2377,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sFaceforehead",
-    "custom": "",
+    "custom": "Суадносіны Твару (Лоб/Пераноссе/Нос)",
     "en": "Face Forehead/Sellion/Nose Ratio",
     "ru": "Соотношение Лица (Лоб/Переносье/Нос)",
     "bel": "Суадносіны Твару (Лоб/Пераноссе/Нос)",
@@ -2385,7 +2385,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sFaceheavy",
-    "custom": "",
+    "custom": "У твар моцным/слабым ударам",
     "en": "Face Heavy/Light",
     "ru": "В лицо сильным/слабым ударом",
     "bel": "У твар моцным/слабым ударам",
@@ -2393,7 +2393,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sFaceround",
-    "custom": "",
+    "custom": "Круглы/змораны твар",
     "en": "Face Round/Gaunt",
     "ru": "Круглое/измождённое лицо",
     "bel": "Круглы/змораны твар",
@@ -2401,7 +2401,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sFacethin",
-    "custom": "",
+    "custom": "Твар Вузкі/Шырокі",
     "en": "Face Thin/Wide",
     "ru": "Лицо Узкое/Широкое",
     "bel": "Твар Вузкі/Шырокі",
@@ -2409,7 +2409,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sFastTravelHorseatGate",
-    "custom": "",
+    "custom": "Ваш конь стаіць у стайні за гарадскімі варотамі.",
     "en": "Your horse is stabled outside the city gate.",
     "ru": "Ваша лошадь стоит в конюшне за городскими воротами.",
     "bel": "Ваш конь стаіць у стайні за гарадскімі варотамі.",
@@ -2417,7 +2417,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sFastTravelNoTravelHealthDamage",
-    "custom": "",
+    "custom": "Нельга здзейсніць хуткае перамяшчэнне, пакуль атрымліваеш урон здароўю.",
     "en": "You can't fast travel while taking health damage.",
     "ru": "Нельзя совершить быстрое перемещение, пока получаешь урон здоровью.",
     "bel": "Нельга здзейсніць хуткае перамяшчэнне, пакуль атрымліваеш урон здароўю.",
@@ -2425,7 +2425,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sFavoredAttributes",
-    "custom": "",
+    "custom": "Вы атрымаеце +10 да кожнай з вашых пераважных характарыстык.",
     "en": "You will gain +10 to each of your favored attributes.",
     "ru": "Вы получите +10 к каждой из ваших предпочитаемых характеристик.",
     "bel": "Вы атрымаеце +10 да кожнай з вашых пераважных характарыстык.",
@@ -2433,7 +2433,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sFemale",
-    "custom": "",
+    "custom": "Жаночы",
     "en": "Type 1",
     "ru": "Женский",
     "bel": "Жаночы",
@@ -2441,7 +2441,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sFileNotFound",
-    "custom": "",
+    "custom": "Файла не існуе.",
     "en": "File does not exist",
     "ru": "Файла не существует.",
     "bel": "Файла не існуе.",
@@ -2449,7 +2449,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sFilter",
-    "custom": "",
+    "custom": "Фільтр",
     "en": "Filter",
     "ru": "Фильтр",
     "bel": "Фільтр",
@@ -2457,7 +2457,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sFindingContentMessage",
-    "custom": "",
+    "custom": "Пошук кантэнту. Калі ласка, пачакайце.",
     "en": "Looking for content. Please wait.",
     "ru": "Поиск контента. Пожалуйста, подождите.",
     "bel": "Пошук кантэнту. Калі ласка, пачакайце.",
@@ -2465,7 +2465,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sFor",
-    "custom": "",
+    "custom": "для",
     "en": "for",
     "ru": "для",
     "bel": "для",
@@ -2473,7 +2473,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sForehead",
-    "custom": "",
+    "custom": "Лоб",
     "en": "Forehead",
     "ru": "Лоб",
     "bel": "Лоб",
@@ -2481,7 +2481,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sForeheadsmall",
-    "custom": "",
+    "custom": "Лоб Маленькі/Вялікі",
     "en": "Forehead Small/Large",
     "ru": "Лоб Маленький/Большой",
     "bel": "Лоб Маленькі/Вялікі",
@@ -2489,7 +2489,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sForeheadtall",
-    "custom": "",
+    "custom": "Высокі/Нізкі лоб",
     "en": "Forehead Tall/Short",
     "ru": "Высокий/Низкий лоб",
     "bel": "Высокі/Нізкі лоб",
@@ -2497,7 +2497,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sForeheadtilt",
-    "custom": "",
+    "custom": "Наклон лба наперад/назад.",
     "en": "Forehead Tilt Forward/Back",
     "ru": "Наклон лба вперёд/назад.",
     "bel": "Наклон лба наперад/назад.",
@@ -2505,7 +2505,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sGender",
-    "custom": "",
+    "custom": "Пол",
     "en": "Body Type",
     "ru": "Пол",
     "bel": "Пол",
@@ -2513,7 +2513,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sGeneralFace",
-    "custom": "",
+    "custom": "Генеральны(Твар)",
     "en": "General(Face)",
     "ru": "Генерал(Лицо)",
     "bel": "Генеральны(Твар)",
@@ -2521,7 +2521,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sGeneralSkin",
-    "custom": "",
+    "custom": "Звычайны(Знешні выгляд)",
     "en": "General(Skin)",
     "ru": "Обычный(Внешний вид)",
     "bel": "Звычайны(Знешні выгляд)",
@@ -2529,7 +2529,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sGetAllConfiscatedItems",
-    "custom": "",
+    "custom": "Вы атрымліваеце ўсе прадметы, якія былі канфіскаваны Стражамі.",
     "en": "You get all the items that were confiscated by the Guards.",
     "ru": "Вы получаете все предметы, которые были конфискованы Стражей.",
     "bel": "Вы атрымліваеце ўсе прадметы, якія былі канфіскаваны Стражамі.",
@@ -2537,7 +2537,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sGiveAway",
-    "custom": "",
+    "custom": "Аддаць",
     "en": "Give away",
     "ru": "Отдать",
     "bel": "Аддаць",
@@ -2545,7 +2545,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sGold",
-    "custom": "",
+    "custom": "Золата",
     "en": "gold",
     "ru": "Золото",
     "bel": "Золата",
@@ -2553,7 +2553,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sGotAwayWithStealing",
-    "custom": "",
+    "custom": "Сышло з рук крадзеж",
     "en": "got away with stealing",
     "ru": "Сошло с рук воровство",
     "bel": "Сышло з рук крадзеж",
@@ -2561,7 +2561,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sGoverningAttribute",
-    "custom": "",
+    "custom": "Асноўны атрыбут:",
     "en": "Governing Attribute:",
     "ru": "Основной атрибут:",
     "bel": "Асноўны атрыбут:",
@@ -2569,7 +2569,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sGreen",
-    "custom": "",
+    "custom": "Зялёны",
     "en": "Green",
     "ru": "Зелёный",
     "bel": "Зялёны",
@@ -2577,7 +2577,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sHair",
-    "custom": "",
+    "custom": "Валасы",
     "en": "Hair",
     "ru": "Волосы",
     "bel": "Валасы",
@@ -2585,7 +2585,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sHairColor0",
-    "custom": "",
+    "custom": "sHairColor0",
     "en": "sHairColor0",
     "ru": "sHairColor1",
     "bel": "sHairColor1",
@@ -2593,7 +2593,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sHairColor1",
-    "custom": "",
+    "custom": "sHairColor1",
     "en": "sHairColor1",
     "ru": "sHairColor2",
     "bel": "sHairColor2",
@@ -2601,7 +2601,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sHairColor10",
-    "custom": "",
+    "custom": "sHairColor10",
     "en": "sHairColor10",
     "ru": "sHairColor11",
     "bel": "sHairColor11",
@@ -2609,7 +2609,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sHairColor11",
-    "custom": "",
+    "custom": "sHairColor11",
     "en": "sHairColor11",
     "ru": "sHairColor12",
     "bel": "sHairColor12",
@@ -2617,7 +2617,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sHairColor12",
-    "custom": "",
+    "custom": "sHairColor12",
     "en": "sHairColor12",
     "ru": "sHairColor13",
     "bel": "sHairColor13",
@@ -2625,7 +2625,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sHairColor13",
-    "custom": "",
+    "custom": "sHairColor13",
     "en": "sHairColor13",
     "ru": "sHairColor14",
     "bel": "sHairColor14",
@@ -2633,7 +2633,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sHairColor14",
-    "custom": "",
+    "custom": "sHairColor14",
     "en": "sHairColor14",
     "ru": "sHairColor15",
     "bel": "sHairColor15",
@@ -2641,7 +2641,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sHairColor15",
-    "custom": "",
+    "custom": "sHairColor15",
     "en": "sHairColor15",
     "ru": "sHairColor16",
     "bel": "sHairColor16",
@@ -2649,7 +2649,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sHairColor2",
-    "custom": "",
+    "custom": "sHairColor2",
     "en": "sHairColor2",
     "ru": "sHairColor3",
     "bel": "sHairColor3",
@@ -2657,7 +2657,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sHairColor3",
-    "custom": "",
+    "custom": "sHairColor3",
     "en": "sHairColor3",
     "ru": "sHairColor4",
     "bel": "sHairColor4",
@@ -2665,7 +2665,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sHairColor4",
-    "custom": "",
+    "custom": "sHairColor4",
     "en": "sHairColor4",
     "ru": "sHairColor5",
     "bel": "sHairColor5",
@@ -2673,7 +2673,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sHairColor5",
-    "custom": "",
+    "custom": "sHairColor5",
     "en": "sHairColor5",
     "ru": "sHairColor6",
     "bel": "sHairColor6",
@@ -2681,7 +2681,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sHairColor6",
-    "custom": "",
+    "custom": "sHairColor6",
     "en": "sHairColor6",
     "ru": "sHairColor7",
     "bel": "sHairColor7",
@@ -2689,7 +2689,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sHairColor7",
-    "custom": "",
+    "custom": "sHairColor7",
     "en": "sHairColor7",
     "ru": "sHairColor8",
     "bel": "sHairColor8",
@@ -2697,7 +2697,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sHairColor8",
-    "custom": "",
+    "custom": "sHairColor8",
     "en": "sHairColor8",
     "ru": "sHairColor9",
     "bel": "sHairColor9",
@@ -2705,7 +2705,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sHairColor9",
-    "custom": "",
+    "custom": "sHairColor9",
     "en": "sHairColor9",
     "ru": "sHairColor10",
     "bel": "sHairColor10",
@@ -2713,7 +2713,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sHeavyArmorNoJump",
-    "custom": "",
+    "custom": "Ваша цяжкая браня не дазваляе вам скакаць.",
     "en": "Your heavy armor prevents you from jumping.",
     "ru": "Тяжёлая броня не позволяет тебе прыгать.",
     "bel": "Цяжкая броня не дазваляе табе скакаць.",
@@ -2721,7 +2721,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sHeavyArmorSink",
-    "custom": "",
+    "custom": "Ваша цяжкая браня прымушае вас тануць.",
     "en": "Your heavy armor is causing you to sink.",
     "ru": "Твоя тяжёлая броня тянет тебя на дно.",
     "bel": "Твая цяжкая броня цягне цябе на дно.",
@@ -2729,7 +2729,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sHigh",
-    "custom": "",
+    "custom": "Высока",
     "en": "High",
     "ru": "Высоко",
     "bel": "Высока",
@@ -2737,7 +2737,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sImpossibleLock",
-    "custom": "",
+    "custom": "Гэты замок не паддаецца адмычцы. Каб яго адкрыць, патрэбен ключ.",
     "en": "This lock cannot be picked. It requires a key to open.",
     "ru": "Этот замок не поддаётся отмычке. Чтобы его открыть, нужен ключ.",
     "bel": "Гэты замок не паддаецца адмычцы. Каб яго адкрыць, патрэбен ключ.",
@@ -2745,7 +2745,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sIngredientFail",
-    "custom": "",
+    "custom": " Інгрэдыент не аказаў эфекту.",
     "en": " Ingredient had no effect.",
     "ru": "Ингредиент не оказал эффекта.",
     "bel": "Інгрэдыент не аказаў эфекту.",
@@ -2753,7 +2753,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sIntellegenceDescription",
-    "custom": "",
+    "custom": "Патрэбна апісанне гульнявога сусвету.",
     "en": "Need a gamesetting description.",
     "ru": "Нужно описание игровой вселенной.",
     "bel": "Патрэбна апісанне гульнявога сусвету.",
@@ -2761,7 +2761,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sInvalidPickpocket",
-    "custom": "",
+    "custom": "Нельга падкладваць прадметы чалавеку, пакуль вы займаецеся кішэнным крадзяжом.",
     "en": "You cannot place items in a person while pickpocketing.",
     "ru": "Нельзя подкладывать предметы человеку, пока вы занимаетесь карманной кражей.",
     "bel": "Нельга падкладваць прадметы чалавеку, пакуль вы займаецеся кішэнным крадзяжом.",
@@ -2769,7 +2769,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sJaw",
-    "custom": "",
+    "custom": "Сківіца",
     "en": "Jaw",
     "ru": "Челюсть",
     "bel": "Сківіца",
@@ -2777,7 +2777,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sJawNeck",
-    "custom": "",
+    "custom": "Наклон сківіцы-шыі Высокі/Нізкі",
     "en": "Jaw-Neck Slope High/Low",
     "ru": "Наклон челюсти-шеи Высокий/Низкий",
     "bel": "Наклон сківіцы-шыі Высокі/Нізкі",
@@ -2785,7 +2785,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sJawline",
-    "custom": "",
+    "custom": "Лінія сківіцы Увагнутая/Выпуклая",
     "en": "Jawline Concave/Convex",
     "ru": "Линия челюсти Вогнутая/Выпуклая",
     "bel": "Лінія сківіцы Увагнутая/Выпуклая",
@@ -2793,7 +2793,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sJawretracted",
-    "custom": "",
+    "custom": "Сківіца ўцягнута/высунута",
     "en": "Jaw Retracted/Jutting",
     "ru": "Челюсть втянута/выдвинута",
     "bel": "Сківіца ўцягнута/высунута",
@@ -2801,7 +2801,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sJawwide",
-    "custom": "",
+    "custom": "Шырокая/Вузкая сківіца",
     "en": "Jaw Wide/Thin",
     "ru": "Широкая/Узкая челюсть",
     "bel": "Шырокая/Вузкая сківіца",
@@ -2809,7 +2809,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sJournalTitleActive",
-    "custom": "",
+    "custom": "Актыўнае заданне",
     "en": "Active Quest",
     "ru": "Активное задание",
     "bel": "Актыўнае заданне",
@@ -2817,7 +2817,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sJournalTitleCompleted",
-    "custom": "",
+    "custom": "Выкананыя Квэсты",
     "en": "Completed Quests",
     "ru": "Выполненные Квесты",
     "bel": "Выкананыя Квэсты",
@@ -2825,7 +2825,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sJournalTitleCompletedDetails",
-    "custom": "",
+    "custom": "Дэталі завершанага квэста",
     "en": "Completed Quest Detail",
     "ru": "Детали завершённого квеста",
     "bel": "Дэталі завершанага квэста",
@@ -2833,7 +2833,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sJournalTitleCurrent",
-    "custom": "",
+    "custom": "Бягучыя заданні",
     "en": "Current Quests",
     "ru": "Текущие задания",
     "bel": "Бягучыя заданні",
@@ -2841,7 +2841,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sKeyLocked",
-    "custom": "",
+    "custom": "Гэтую клавішу нельга пераназначыць.",
     "en": "That key cannot be remapped",
     "ru": "Эту клавишу нельзя переназначить.",
     "bel": "Гэтую клавішу нельга пераназначыць.",
@@ -2849,7 +2849,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sKnownEffects",
-    "custom": "",
+    "custom": "Вядомыя эфекты",
     "en": "Known Effects",
     "ru": "Известные эффекты",
     "bel": "Вядомыя эфекты",
