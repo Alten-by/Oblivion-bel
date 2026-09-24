@@ -7241,7 +7241,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_FXAA",
-    "custom": "",
+    "custom": "FXAA",
     "en": "FXAA",
     "ru": "FXAA",
     "bel": "FXAA",
@@ -7249,7 +7249,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Far",
-    "custom": "",
+    "custom": "Далёка",
     "en": "Far",
     "ru": "Далеко",
     "bel": "Далёка",
@@ -7257,7 +7257,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_French",
-    "custom": "",
+    "custom": "Англійская",
     "en": "Français",
     "ru": "Английский",
     "bel": "Англійская",
@@ -7265,7 +7265,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Fullscreen",
-    "custom": "",
+    "custom": "На ўвесь экран",
     "en": "Fullscreen",
     "ru": "Во весь экран",
     "bel": "На ўвесь экран",
@@ -7273,7 +7273,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_German",
-    "custom": "",
+    "custom": "Нямецкая",
     "en": "Deutsch",
     "ru": "Немецкий",
     "bel": "Нямецкая",
@@ -7281,7 +7281,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_GraphicOptionLowest",
-    "custom": "",
+    "custom": "Самы нізкі",
     "en": "Lowest",
     "ru": "Самый низкий",
     "bel": "Самы нізкі",
@@ -7289,7 +7289,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_HalfScreen",
-    "custom": "",
+    "custom": "Палова экрана",
     "en": "Half Screen",
     "ru": "Половина экрана",
     "bel": "Палова экрана",
@@ -7297,7 +7297,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Hard",
-    "custom": "",
+    "custom": "Эксперт",
     "en": "Expert",
     "ru": "Эксперт",
     "bel": "Эксперт",
@@ -7305,7 +7305,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Headphones",
-    "custom": "",
+    "custom": "Навушнікі",
     "en": "Headphones",
     "ru": "Наушники",
     "bel": "Навушнікі",
@@ -7313,7 +7313,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_High",
-    "custom": "",
+    "custom": "Высока",
     "en": "High",
     "ru": "Высоко",
     "bel": "Высока",
@@ -7321,7 +7321,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Hold",
-    "custom": "",
+    "custom": "Трымаць",
     "en": "Hold",
     "ru": "Держать",
     "bel": "Трымаць",
@@ -7329,7 +7329,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Italian",
-    "custom": "",
+    "custom": "Італьянская",
     "en": "Italiano",
     "ru": "Итальянский",
     "bel": "Італьянская",
@@ -7337,7 +7337,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Japanese",
-    "custom": "",
+    "custom": "Японская",
     "en": "日本語",
     "ru": "Японский",
     "bel": "Японская",
@@ -7345,7 +7345,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Korean",
-    "custom": "",
+    "custom": "Карэйская",
     "en": "Korean",
     "ru": "Корейский",
     "bel": "Карэйская",
@@ -7353,7 +7353,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Large",
-    "custom": "",
+    "custom": "Вялікі",
     "en": "Large",
     "ru": "Большой",
     "bel": "Вялікі",
@@ -7361,7 +7361,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_LatinAmericanSpanish",
-    "custom": "",
+    "custom": "Лацінаамерыканская іспанская",
     "en": "Latin American Spanish",
     "ru": "Latin American Spanish",
     "bel": "Latin American Spanish",
@@ -7369,7 +7369,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_LetterCase",
-    "custom": "",
+    "custom": "Рэгістр літар",
     "en": "Letter case",
     "ru": "Регистр букв",
     "bel": "Рэгістр літар",
@@ -7377,7 +7377,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Low",
-    "custom": "",
+    "custom": "Нізкі",
     "en": "Low",
     "ru": "Низкий",
     "bel": "Нізкі",
@@ -7385,7 +7385,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_LowFrequency",
-    "custom": "",
+    "custom": "Нізкая частата",
     "en": "Low Frequency",
     "ru": "Низкая частота",
     "bel": "Нізкая частата",
@@ -7393,7 +7393,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_MatchingRefreshRate",
-    "custom": "",
+    "custom": "Адпаведнасць частаты абнаўлення",
     "en": "Matching Refresh Rate",
     "ru": "Соответствие частоты обновления",
     "bel": "Адпаведнасць частаты абнаўлення",
@@ -7401,7 +7401,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Medium",
-    "custom": "",
+    "custom": "Сярэдні",
     "en": "Medium",
     "ru": "Средний",
     "bel": "Сярэдні",
@@ -7409,7 +7409,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Minimal",
-    "custom": "",
+    "custom": "Мінімальны",
     "en": "Minimal",
     "ru": "Минимальный",
     "bel": "Мінімальны",
@@ -7417,7 +7417,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Mono",
-    "custom": "",
+    "custom": "Мона",
     "en": "Mono",
     "ru": "Моно",
     "bel": "Мона",
@@ -7425,7 +7425,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_NativeAA",
-    "custom": "",
+    "custom": "Натыўнае AA",
     "en": "Native AA",
     "ru": "Нативное AA",
     "bel": "Натыўнае AA",
@@ -7433,7 +7433,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_NightMode",
-    "custom": "",
+    "custom": "Начны Рэжым",
     "en": "Night Mode",
     "ru": "Ночной Режим",
     "bel": "Начны Рэжым",
@@ -7441,7 +7441,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Off",
-    "custom": "",
+    "custom": "Выкл.",
     "en": "Off",
     "ru": "Выкл.",
     "bel": "Выкл.",
@@ -7449,7 +7449,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_On",
-    "custom": "",
+    "custom": "Укл.",
     "en": "On",
     "ru": "Вкл.",
     "bel": "Укл.",
@@ -7457,7 +7457,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_One-ThirdScreen",
-    "custom": "",
+    "custom": "Адна Трэць Экрана",
     "en": "One-Third Screen",
     "ru": "Одна Треть Экрана",
     "bel": "Адна Трэць Экрана",
@@ -7465,7 +7465,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_OpenCharacter",
-    "custom": "",
+    "custom": "Адкрыць Персанажа",
     "en": "Open Character",
     "ru": "Открыть Персонажа",
     "bel": "Адкрыць Персанажа",
@@ -7473,7 +7473,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_OpenHelp",
-    "custom": "",
+    "custom": "Адкрыць даведку",
     "en": "Open Help",
     "ru": "Открыть справку",
     "bel": "Адкрыць даведку",
@@ -7481,7 +7481,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_OpenMagic",
-    "custom": "",
+    "custom": "Адкрыць магію",
     "en": "Open Magic",
     "ru": "Открыть магию",
     "bel": "Адкрыць магію",
@@ -7489,7 +7489,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_OpenQuest",
-    "custom": "",
+    "custom": "Адкрыць заданне",
     "en": "Open Quest",
     "ru": "Открыть Quest",
     "bel": "Адкрыць Quest",
@@ -7497,7 +7497,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_OpenSystem",
-    "custom": "",
+    "custom": "Адкрытая сістэма",
     "en": "Open System",
     "ru": "Открытая система",
     "bel": "Адкрытая сістэма",
@@ -7505,7 +7505,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Performance",
-    "custom": "",
+    "custom": "Прадукцыйнасць",
     "en": "Performance",
     "ru": "Производительность",
     "bel": "Прадукцыйнасць",
@@ -7513,7 +7513,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Polish",
-    "custom": "",
+    "custom": "Польская",
     "en": "Polski",
     "ru": "Польский",
     "bel": "Польская",
@@ -7521,7 +7521,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Portuguese",
-    "custom": "",
+    "custom": "Бразільская Партугальская",
     "en": "Português Brasileiro",
     "ru": "Бразильский Португальский",
     "bel": "Бразільская Партугальская",
@@ -7529,7 +7529,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_PressButton",
-    "custom": "",
+    "custom": "Націсніце любую кнопку.",
     "en": "Press Any Button",
     "ru": "Нажмите любую кнопку.",
     "bel": "Націсніце любую кнопку.",
@@ -7537,7 +7537,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_PressKey",
-    "custom": "",
+    "custom": "Націсніце любую клавішу",
     "en": "Press Any Key",
     "ru": "Нажмите любую клавишу",
     "bel": "Націсніце любую клавішу",
@@ -7545,7 +7545,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Protanopia",
-    "custom": "",
+    "custom": "Пратанапія",
     "en": "Protanopia",
     "ru": "Протанопия",
     "bel": "Пратанапія",
@@ -7553,7 +7553,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Quality",
-    "custom": "",
+    "custom": "Якасць",
     "en": "Quality",
     "ru": "Качество",
     "bel": "Якасць",
@@ -7561,7 +7561,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_QuarterScreen",
-    "custom": "",
+    "custom": "Чвэрць Экрана",
     "en": "Quarter Screen",
     "ru": "Четверть Экрана",
     "bel": "Чвэрць Экрана",
@@ -7569,7 +7569,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Red",
-    "custom": "",
+    "custom": "Чырвоны",
     "en": "Red",
     "ru": "Красный",
     "bel": "Чырвоны",
@@ -7577,7 +7577,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Reset",
-    "custom": "",
+    "custom": "Скінуць",
     "en": "Reset",
     "ru": "Сбросить",
     "bel": "Скінуць",
@@ -7585,7 +7585,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_SimplifiedChinese",
-    "custom": "",
+    "custom": "Спрошчаная кітайская",
     "en": "简体中文",
     "ru": "Упрощенный китайский",
     "bel": "Спрошчаная кітайская",
@@ -7593,7 +7593,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Small",
-    "custom": "",
+    "custom": "Маленькі",
     "en": "Small",
     "ru": "Маленький",
     "bel": "Маленькі",
@@ -7601,7 +7601,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Spanish",
-    "custom": "",
+    "custom": "Іспанская",
     "en": "Español",
     "ru": "Испанский",
     "bel": "Іспанская",
@@ -7609,7 +7609,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_SteamDeckGraphicPreset",
-    "custom": "",
+    "custom": "Steam Deck",
     "en": "Steam Deck",
     "ru": "Steam Deck",
     "bel": "Steam Deck",
@@ -7617,7 +7617,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Stereo",
-    "custom": "",
+    "custom": "Стэраэа",
     "en": "Stereo",
     "ru": "Стерео",
     "bel": "Стэраэа",
@@ -7625,7 +7625,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Surround5.1",
-    "custom": "",
+    "custom": "Аб'ёмны гук 5.1",
     "en": "Surround 5.1",
     "ru": "Объёмный звук 5.1",
     "bel": "Аб'ёмны гук 5.1",
@@ -7633,7 +7633,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_TAA",
-    "custom": "",
+    "custom": "TAA",
     "en": "TAA",
     "ru": "TAA",
     "bel": "TAA",
@@ -7641,7 +7641,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_TSR",
-    "custom": "",
+    "custom": "TSR",
     "en": "TSR",
     "ru": "TSR",
     "bel": "TSR",
@@ -7649,7 +7649,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_TVSpeakers",
-    "custom": "",
+    "custom": "Дынамікі тэлевізара",
     "en": "TV Speakers",
     "ru": "Динамики телевизора",
     "bel": "Дынамікі тэлевізара",
@@ -7657,7 +7657,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_TitleCase",
-    "custom": "",
+    "custom": "Загаловак Кожным Словам",
     "en": "Title case",
     "ru": "Заголовок Каждым Словом",
     "bel": "Загаловак Кожным Словам",
@@ -7665,7 +7665,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Toggle",
-    "custom": "",
+    "custom": "Пераключыць",
     "en": "Toggle",
     "ru": "Переключить",
     "bel": "Пераключыць",
@@ -7673,7 +7673,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_TraditionalChinese",
-    "custom": "",
+    "custom": "Традыцыйная кітайская",
     "en": "Traditional Chinese",
     "ru": "Традиционный китайский",
     "bel": "Традыцыйная кітайская",
@@ -7681,7 +7681,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Tritanopia",
-    "custom": "",
+    "custom": "Трытанапія",
     "en": "Tritanopia",
     "ru": "Тританопия",
     "bel": "Трытанапія",
@@ -7689,7 +7689,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Ultra",
-    "custom": "",
+    "custom": "Ультра",
     "en": "Ultra",
     "ru": "Ультра",
     "bel": "Ультра",
@@ -7697,7 +7697,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_UltraPerformance",
-    "custom": "",
+    "custom": "Ультрапрадукцыйнасць",
     "en": "Ultra Performance",
     "ru": "Ультрапроизводительность",
     "bel": "Ультрапрадукцыйнасць",
@@ -7705,7 +7705,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_UltraQuality",
-    "custom": "",
+    "custom": "Ультра якасць",
     "en": "Ultra Quality",
     "ru": "Ультра качество",
     "bel": "Ультра якасць",
@@ -7713,7 +7713,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_UltraQualityPlus",
-    "custom": "",
+    "custom": "Ультра Якасць+",
     "en": "Ultra Quality+",
     "ru": "Ультра Качество+",
     "bel": "Ультра Якасць+",
@@ -7721,7 +7721,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Uncapped",
-    "custom": "",
+    "custom": "Без абмежаванняў",
     "en": "Uncapped",
     "ru": "Без ограничений",
     "bel": "Без абмежаванняў",
@@ -7729,7 +7729,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_VeryEasy",
-    "custom": "",
+    "custom": "Пачатковец",
     "en": "Novice",
     "ru": "Новичок",
     "bel": "Пачатковец",
@@ -7737,7 +7737,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_VeryHard",
-    "custom": "",
+    "custom": "Майстар",
     "en": "Master",
     "ru": "Мастер",
     "bel": "Майстар",
@@ -7745,7 +7745,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_VeryHigh",
-    "custom": "",
+    "custom": "Вельмі высокае",
     "en": "Very High",
     "ru": "Очень высокое",
     "bel": "Вельмі высокае",
@@ -7753,7 +7753,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_White",
-    "custom": "",
+    "custom": "Белы",
     "en": "White",
     "ru": "Белый",
     "bel": "Белы",
@@ -7761,7 +7761,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Windowed",
-    "custom": "",
+    "custom": "У акне",
     "en": "Windowed",
     "ru": "В окне",
     "bel": "У акне",
@@ -7769,7 +7769,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_XeSS",
-    "custom": "",
+    "custom": "XeSS",
     "en": "XeSS",
     "ru": "XeSS",
     "bel": "XeSS",
@@ -7777,7 +7777,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_XeSSAA",
-    "custom": "",
+    "custom": "XeSS AA",
     "en": "XeSS AA",
     "ru": "XeSS AA",
     "bel": "XeSS AA",
@@ -7785,7 +7785,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Yellow",
-    "custom": "",
+    "custom": "Жоўты",
     "en": "Yellow",
     "ru": "Жёлтый",
     "bel": "Жоўты",
@@ -7793,7 +7793,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingSubCategory_Accessibility",
-    "custom": "",
+    "custom": "Даступнасць",
     "en": "Accessibility",
     "ru": "Доступность",
     "bel": "Даступнасць",
@@ -7801,7 +7801,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingSubCategory_Actions",
-    "custom": "",
+    "custom": "Дзеянні",
     "en": "Actions",
     "ru": "Действия",
     "bel": "Дзеянні",
@@ -7809,7 +7809,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingSubCategory_Advanced",
-    "custom": "",
+    "custom": "Прасунуты",
     "en": "Advanced",
     "ru": "Продвинутый",
     "bel": "Прасунуты",
@@ -7817,7 +7817,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingSubCategory_General",
-    "custom": "",
+    "custom": "Агульны",
     "en": "General",
     "ru": "Генерал",
     "bel": "Агульны",
@@ -7825,7 +7825,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingSubCategory_HUD",
-    "custom": "",
+    "custom": "Інтэрфейс",
     "en": "HUD",
     "ru": "Интерфейс",
     "bel": "Інтэрфейс",
@@ -7833,7 +7833,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingSubCategory_Menu",
-    "custom": "",
+    "custom": "Сістэма",
     "en": "System",
     "ru": "Система",
     "bel": "Сістэма",
@@ -7841,7 +7841,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingSubCategory_Movement",
-    "custom": "",
+    "custom": "Рух",
     "en": "Movement",
     "ru": "Движение",
     "bel": "Рух",
@@ -7849,7 +7849,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingSubCategory_Quality",
-    "custom": "",
+    "custom": "Якасць",
     "en": "Quality",
     "ru": "Качество",
     "bel": "Якасць",
@@ -7857,7 +7857,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingSubCategory_Subtitles",
-    "custom": "",
+    "custom": "Субтытры",
     "en": "Subtitles",
     "ru": "Субтитры",
     "bel": "Субтытры",
@@ -7865,7 +7865,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_AimAssist",
-    "custom": "",
+    "custom": "Дапамога ў прыцэльванні.",
     "en": "Aim Assist",
     "ru": "Помощь в прицеливании.",
     "bel": "Дапамога ў прыцэльванні.",
@@ -7873,7 +7873,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_AmbienceVolume",
-    "custom": "",
+    "custom": "Гучнасць асяроддзя",
     "en": "Ambience Volume",
     "ru": "Громкость окружения",
     "bel": "Гучнасць асяроддзя",
@@ -7881,7 +7881,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_AntiAliasing",
-    "custom": "",
+    "custom": "Згладжванне",
     "en": "Anti-Aliasing",
     "ru": "Сглаживание",
     "bel": "Згладжванне",
@@ -7889,7 +7889,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_AttackPowerAttackHold",
-    "custom": "",
+    "custom": "Атака / Сілавая Атака (Утрыманне)",
     "en": "Attack / Power Attack (Hold)",
     "ru": "Атака / Силовая Атака (Удержание)",
     "bel": "Атака / Сілавая Атака (Утрыманне)",
@@ -7897,7 +7897,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_AudioMode",
-    "custom": "",
+    "custom": "Рэжым аўдыё",
     "en": "Audio Mode",
     "ru": "Режим Аудио",
     "bel": "Рэжым аўдыё",
@@ -7905,7 +7905,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_AudioOutput",
-    "custom": "",
+    "custom": "Вывад аўдыё",
     "en": "Audio Output",
     "ru": "Вывод аудио",
     "bel": "Вывад аўдыё",
@@ -7913,7 +7913,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_AutoMove",
-    "custom": "",
+    "custom": "Аўтабег",
     "en": "Auto Move",
     "ru": "Автобег",
     "bel": "Аўтабег",
@@ -7921,7 +7921,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_AutosaveDuringLoadingScreens",
-    "custom": "",
+    "custom": "Аўтазахаванне падчас экранаў загрузкі.",
     "en": "Autosave During Loading Screens",
     "ru": "Автосохранение во время экранов загрузки.",
     "bel": "Аўтазахаванне падчас экранаў загрузкі.",
@@ -7929,7 +7929,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_AutosaveOnFastTravel",
-    "custom": "",
+    "custom": "Аўтазахаванне Пры Хуткім Перамяшчэнні",
     "en": "Autosave On Fast Travel",
     "ru": "Автосохранение при быстром перемещении [Autosave On Fast Travel].",
     "bel": "Аўтазахаванне пры хуткім перамяшчэнні [Autosave On Fast Travel].",
@@ -7937,7 +7937,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_AutosaveOnRest",
-    "custom": "",
+    "custom": "Аўтазахаванне пры адпачынку: Укл.",
     "en": "Autosave On Rest",
     "ru": "Автосохранение при отдыхе: Вкл.",
     "bel": "Аўтазахаванне пры адпачынку: Укл.",
@@ -7945,7 +7945,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_AutosaveOnWait",
-    "custom": "",
+    "custom": "Аўтазахаванне Укл. Пачакайце.",
     "en": "Autosave On Wait",
     "ru": "Автосохранение ВКЛ. Подождите.",
     "bel": "Аўтазахаванне Укл. Пачакайце.",
@@ -7953,7 +7953,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_AutosetQuality",
-    "custom": "",
+    "custom": "Аўтавызначэнне",
     "en": "Auto-Detection",
     "ru": "Автоопределение",
     "bel": "Аўтавызначэнне",
@@ -7961,7 +7961,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_Block",
-    "custom": "",
+    "custom": "Блок",
     "en": "Block",
     "ru": "Блок",
     "bel": "Блок",
@@ -7969,7 +7969,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_BloodFXVisibility",
-    "custom": "",
+    "custom": "Бачнасць пырскаў крыві",
     "en": "Blood Splatter Visibility",
     "ru": "Видимость брызг крови",
     "bel": "Бачнасць пырскаў крыві",
@@ -7977,7 +7977,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_BloodVignetteVisibility",
-    "custom": "",
+    "custom": "Бачнасць віньеткі пры нізкім узроўні здароўя",
     "en": "Low Health Vignette Visibility",
     "ru": "Видимость виньетки при низком уровне здоровья",
     "bel": "Бачнасць віньеткі пры нізкім узроўні здароўя",
@@ -7985,7 +7985,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_BrightnessIntensity",
-    "custom": "",
+    "custom": "Інтэнсіўнасць яркасці",
     "en": "Brightness Intensity",
     "ru": "Интенсивность яркости",
     "bel": "Інтэнсіўнасць яркасці",
@@ -7993,7 +7993,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_CameraAimFocusSensitivityMultiplierController",
-    "custom": "",
+    "custom": "Адносная адчувальнасць зуму",
     "en": "Relative Zoom Sensitivity",
     "ru": "Относительная чувствительность зума",
     "bel": "Адносная адчувальнасць зуму",
@@ -8001,7 +8001,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_CameraAimFocusSensitivityMultiplierPC",
-    "custom": "",
+    "custom": "Адносная адчувальнасць зуму",
     "en": "Relative Zoom Sensitivity",
     "ru": "Относительная чувствительность зума",
     "bel": "Адносная адчувальнасць зуму",
@@ -8009,7 +8009,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_CameraAimSensitivityMultiplierController",
-    "custom": "",
+    "custom": "Адносная адчувальнасць прыцэльвання",
     "en": "Relative Aim Sensitivity",
     "ru": "Относительная чувствительность прицеливания",
     "bel": "Адносная адчувальнасць прыцэльвання",
@@ -8017,7 +8017,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_CameraAimSensitivityMultiplierPC",
-    "custom": "",
+    "custom": "Адносная адчувальнасць прыцэльвання",
     "en": "Relative Aim Sensitivity",
     "ru": "Относительная чувствительность прицеливания",
     "bel": "Адносная адчувальнасць прыцэльвання",
@@ -8025,7 +8025,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_CameraMotion",
-    "custom": "",
+    "custom": "Рух камеры",
     "en": "Camera Motion",
     "ru": "Движение камеры",
     "bel": "Рух камеры",
@@ -8033,7 +8033,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_CameraSensitivityHorizontalController",
-    "custom": "",
+    "custom": "Адчувальнасць па гарызанталі",
     "en": "Horizontal Sensitivity",
     "ru": "Чувствительность по горизонтали",
     "bel": "Адчувальнасць па гарызанталі",
