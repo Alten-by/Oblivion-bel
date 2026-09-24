@@ -8841,7 +8841,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_SoundEffectsVolume",
-    "custom": "",
+    "custom": "Гучнасць гукавых эфектаў",
     "en": "Sound Effects Volume",
     "ru": "Громкость звуковых эффектов",
     "bel": "Гучнасць гукавых эфектаў",
@@ -8849,7 +8849,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_SprintRunHorseriding",
-    "custom": "",
+    "custom": "Рывок / Галоп",
     "en": "Sprint / Gallop",
     "ru": "Рывок / Галоп",
     "bel": "Рывок / Галоп",
@@ -8857,7 +8857,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_SubtitleBackgroundColor",
-    "custom": "",
+    "custom": "Колер фону субтытраў",
     "en": "Subtitle Background Color",
     "ru": "Цвет фона субтитров",
     "bel": "Колер фону субтытраў",
@@ -8865,7 +8865,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_SubtitleBackgroundOpacity",
-    "custom": "",
+    "custom": "Празрыстасць фону субтытраў",
     "en": "Subtitle Background Opacity",
     "ru": "Прозрачность фона субтитров",
     "bel": "Празрыстасць фону субтытраў",
@@ -8873,7 +8873,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_SubtitleTextCase",
-    "custom": "",
+    "custom": "Рэгістр тэксту субтытраў",
     "en": "Subtitle Text Case",
     "ru": "Регистр текста субтитров",
     "bel": "Рэгістр тэксту субтытраў",
@@ -8881,7 +8881,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_SubtitleTextColor",
-    "custom": "",
+    "custom": "Колер тэксту субтытраў",
     "en": "Subtitle Text Color",
     "ru": "Цвет текста субтитров",
     "bel": "Колер тэксту субтытраў",
@@ -8889,7 +8889,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_SubtitleTextOutline",
-    "custom": "",
+    "custom": "Абводка тэксту субтытраў",
     "en": "Subtitle Text Outline",
     "ru": "Обводка текста субтитров",
     "bel": "Абводка тэксту субтытраў",
@@ -8897,7 +8897,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_SubtitleTextSize",
-    "custom": "",
+    "custom": "Памер тэксту субтытраў",
     "en": "Subtitle Text Size",
     "ru": "Размер текста субтитров",
     "bel": "Памер тэксту субтытраў",
@@ -8905,7 +8905,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_SubtitleVisibility",
-    "custom": "",
+    "custom": "Бачнасць субтытраў",
     "en": "Subtitle Visibility",
     "ru": "Видимость субтитров",
     "bel": "Бачнасць субтытраў",
@@ -8913,7 +8913,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_TextLanguage",
-    "custom": "",
+    "custom": "Мова тэксту",
     "en": "Text Language",
     "ru": "Язык текста",
     "bel": "Мова тэксту",
@@ -8921,7 +8921,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_TextSize",
-    "custom": "",
+    "custom": "Памер тэксту",
     "en": "Text Size",
     "ru": "Размер текста",
     "bel": "Памер тэксту",
@@ -8929,7 +8929,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_TextureQuality",
-    "custom": "",
+    "custom": "Якасць тэкстур",
     "en": "Texture Quality",
     "ru": "Качество текстур",
     "bel": "Якасць тэкстур",
@@ -8937,7 +8937,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_ToggleAdaptiveTriggers",
-    "custom": "",
+    "custom": "Уключыць/выключыць адаптыўныя трыгеры",
     "en": "Toggle Adaptive Triggers",
     "ru": "Включить/выключить адаптивные триггеры",
     "bel": "Уключыць/выключыць адаптыўныя трыгеры",
@@ -8945,7 +8945,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_ToggleVibrations",
-    "custom": "",
+    "custom": "Уключыць/выключыць вібрацыю",
     "en": "Toggle Vibration",
     "ru": "Включить/выключить вибрацию",
     "bel": "Уключыць/выключыць вібрацыю",
@@ -8953,7 +8953,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_ToggleVibrationsPS5",
-    "custom": "",
+    "custom": "Уключыць/выключыць вібрацыю",
     "en": "Toggle Vibration",
     "ru": "Включить/выключить вибрацию",
     "bel": "Уключыць/выключыць вібрацыю",
@@ -8961,7 +8961,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_ToggleWheelActivationInput",
-    "custom": "",
+    "custom": "Змяніць кіраванне колікам мышы",
     "en": "Toggle Wheel Activation Input",
     "ru": "Изменить управление колесиком мыши",
     "bel": "Змяніць кіраванне колікам мышы",
@@ -8969,7 +8969,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_TutorialMode",
-    "custom": "",
+    "custom": "Рэжым навучання",
     "en": "Tutorial Mode",
     "ru": "Режим обучения",
     "bel": "Рэжым навучання",
@@ -8977,7 +8977,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_UIBrightness",
-    "custom": "",
+    "custom": "HDR Яркасць інтэрфейсу",
     "en": "HDR UI Brightness",
     "ru": "Яркость HDR UI",
     "bel": "Яркасць HDR UI",
@@ -8985,7 +8985,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_UltrawideConstrainRatio",
-    "custom": "",
+    "custom": "Абмежаванне ультрашырокага фармату",
     "en": "Ultrawide Constrain Ratio",
     "ru": "Ограничение ультраширокого формата",
     "bel": "Абмежаванне ультрашырокага фармату",
@@ -8993,7 +8993,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_UpscalingTechnique",
-    "custom": "",
+    "custom": "Метад павышэння разрознення",
     "en": "Upscaling Technique",
     "ru": "Метод повышения разрешения",
     "bel": "Метад павышэння разрознення",
@@ -9001,7 +9001,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_V-Sync",
-    "custom": "",
+    "custom": "V-Sync",
     "en": "V-Sync",
     "ru": "V-Sync",
     "bel": "V-Sync",
@@ -9009,7 +9009,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_VanityMode",
-    "custom": "",
+    "custom": "Рэжым для прыгажосці",
     "en": "Vanity Mode",
     "ru": "Режим для красоты",
     "bel": "Рэжым для прыгажосці",
@@ -9017,7 +9017,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_VibrationStrength",
-    "custom": "",
+    "custom": "Сіла вібрацыі",
     "en": "Vibration Strength",
     "ru": "Сила вибрации",
     "bel": "Сіла вібрацыі",
@@ -9025,7 +9025,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_VibrationStrengthPS5",
-    "custom": "",
+    "custom": "Сіла вібрацыі",
     "en": "Vibration Strength",
     "ru": "Сила вибрации",
     "bel": "Сіла вібрацыі",
@@ -9033,7 +9033,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_ViewDistanceQuality",
-    "custom": "",
+    "custom": "Якасць далёкасці агляду",
     "en": "View Distance Quality",
     "ru": "Качество дальности обзора",
     "bel": "Якасць далёкасці агляду",
@@ -9041,7 +9041,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_VitalsVisibility",
-    "custom": "",
+    "custom": "Бачнасць жыццёвых паказчыкаў",
     "en": "Vitals Visibility",
     "ru": "Видимость жизненных показателей",
     "bel": "Бачнасць жыццёвых паказчыкаў",
@@ -9049,7 +9049,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_Wait",
-    "custom": "",
+    "custom": "Пачакайце",
     "en": "Wait",
     "ru": "Подожди",
     "bel": "Пачакайце",
@@ -9057,7 +9057,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_Walk",
-    "custom": "",
+    "custom": "Ісці",
     "en": "Walk",
     "ru": "Идти",
     "bel": "Ісці",
@@ -9065,7 +9065,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_WindowMode",
-    "custom": "",
+    "custom": "Аконны рэжым",
     "en": "Window Mode",
     "ru": "Оконный режим",
     "bel": "Аконны рэжым",
@@ -9073,7 +9073,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_XeSSMode",
-    "custom": "",
+    "custom": "XeSS - Рэжым",
     "en": "XeSS - Mode",
     "ru": "XeSS - Режим",
     "bel": "XeSS - Рэжым",
@@ -9081,7 +9081,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_SigilStone_Footer_NameItem",
-    "custom": "",
+    "custom": "Назва прадмета",
     "en": "Name Item",
     "ru": "Название предмета",
     "bel": "Назва прадмета",
@@ -9089,7 +9089,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_SleepWait_BodyText_CountText",
-    "custom": "",
+    "custom": "{Value} {Value}|plural(one=Гадзіна,other=Гадзін)",
     "en": "{Value} {Value}|plural(one=Hour,other=Hours)",
     "ru": "{Value} {Value}|plural(one=Час,other=Часов)",
     "bel": "{Value} {Value}|plural(one=Гадзіна,other=Гадзін)",
@@ -9097,7 +9097,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Spellmaking_Footer_AddEffect",
-    "custom": "",
+    "custom": "Дадаць эфект",
     "en": "Add Effect",
     "ru": "Добавить эффект",
     "bel": "Дадаць эфект",
@@ -9105,7 +9105,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Spellmaking_Footer_ModifyEffect",
-    "custom": "",
+    "custom": "Змяніць эфект",
     "en": "Modify Effect",
     "ru": "Изменить эффект",
     "bel": "Змяніць эфект",
@@ -9113,7 +9113,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Spellmaking_Footer_NameSpell",
-    "custom": "",
+    "custom": "Назваць заклён",
     "en": "Name Spell",
     "ru": "Назвать заклинание",
     "bel": "Назваць заклён",
@@ -9121,7 +9121,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Spellmaking_Footer_RemoveEffect",
-    "custom": "",
+    "custom": "Выдаліць эфект",
     "en": "Remove Effect",
     "ru": "Удалить эффект",
     "bel": "Выдаліць эфект",
@@ -9129,7 +9129,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Spellmaking_Footer_SaveChanges",
-    "custom": "",
+    "custom": "Захаваць змены",
     "en": "Save Changes",
     "ru": "Сохранить изменения",
     "bel": "Захаваць змены",
@@ -9137,7 +9137,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_System_BodyText_MandatoryUpdate",
-    "custom": "",
+    "custom": "Для працягу патрабуецца абавязковае абнаўленне. Упэўніцеся, што вы падключаны да інтэрнэту, і перазапусціце гульню, каб працягнуць гуляць.",
     "en": "A mandatory update is required to proceed. Please make sure you are connected to the internet and restart the game in order to continue playing.",
     "ru": "Для продолжения требуется обязательное обновление. Убедитесь, что вы подключены к интернету, и перезапустите игру, чтобы продолжить играть.",
     "bel": "Для працягу патрабуецца абавязковае абнаўленне. Упэўніцеся, што вы падключаны да інтэрнэту, і перазапусціце гульню, каб працягнуць гуляць.",
@@ -9145,7 +9145,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Trading_BodyText_BuyAt",
-    "custom": "",
+    "custom": "Купля прадметаў за {Buy}% ад кошту",
     "en": "Buying Items at {Buy}% of value",
     "ru": "Покупка предметов за {Buy}% от стоимости",
     "bel": "Купля прадметаў за {Buy}% ад кошту",
@@ -9153,7 +9153,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Trading_BodyText_SellAt",
-    "custom": "",
+    "custom": "Продаж прадметаў за {Sell}% ад кошту",
     "en": "Selling Items at {Sell}% of value",
     "ru": "Продажа предметов за {Sell}% от стоимости.",
     "bel": "Продаж прадметаў за {Sell}% ад кошту.",
@@ -9161,7 +9161,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Training_Button_Train",
-    "custom": "",
+    "custom": "Трэніроўка",
     "en": "Train",
     "ru": "Тренировка",
     "bel": "Трэніроўка",
@@ -9169,7 +9169,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_1",
-    "custom": "",
+    "custom": "Збег з Імперскай каналізацыі, пачатак асноўнай сюжэтнай лініі.",
     "en": "Escaped the Imperial Sewers, Main Quest Beginning",
     "ru": "Сбежал из Имперской канализации, начало основной сюжетной линии.",
     "bel": "Збег з Імперскай каналізацыі, пачатак асноўнай сюжэтнай лініі.",
@@ -9177,7 +9177,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_10",
-    "custom": "",
+    "custom": "Дасягнуў рангу Забойцы ў Цёмным Брацтве.",
     "en": "Reached Assassin rank in the Dark Brotherhood",
     "ru": "Достиг ранга Убийцы в Тёмном Братстве.",
     "bel": "Дасягнуў рангу Забойцы ў Цёмным Брацтве.",
@@ -9185,7 +9185,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_11",
-    "custom": "",
+    "custom": "Дасягнуў звання Маўчуна ў Цёмным Брацтве.",
     "en": "Reached Silencer rank in the Dark Brotherhood",
     "ru": "Достиг звания Молчуна в Тёмном Братстве.",
     "bel": "Дасягнуў звання Маўчуна ў Цёмным Брацтве.",
@@ -9193,7 +9193,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_12",
-    "custom": "",
+    "custom": "Дасягнуў звання Галашатая ў Цёмным Брацтве.",
     "en": "Reached Speaker rank in the Dark Brotherhood",
     "ru": "Достиг звания Глашатая в Тёмном Братстве.",
     "bel": "Дасягнуў звання Галашатая ў Цёмным Брацтве.",
@@ -9201,7 +9201,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_13",
-    "custom": "",
+    "custom": "Завяршыў лінейку заданняў Цёмнага Брацтва.",
     "en": "Completed the Dark Brotherhood Questline",
     "ru": "Завершил линейку заданий Тёмного Братства.",
     "bel": "Завяршыў лінейку заданняў Цёмнага Брацтва.",
@@ -9209,7 +9209,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_14",
-    "custom": "",
+    "custom": "Уступіў на Арэну ў Імперскім горадзе.",
     "en": "Joined the Arena in the Imperial City",
     "ru": "Вступил на Арену в Имперском городе.",
     "bel": "Уступіў на Арэну ў Імперскім горадзе.",
@@ -9217,7 +9217,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_15",
-    "custom": "",
+    "custom": "Дасягнуў рангу «Забіяка» на Арэне.",
     "en": "Reached Brawler rank in the Arena",
     "ru": "Достиг ранга «Забияка» на Арене.",
     "bel": "Дасягнуў рангу «Забіяка» на Арэне.",
@@ -9225,7 +9225,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_16",
-    "custom": "",
+    "custom": "Дасягнуты ранг Кровапускальніка на Арэне.",
     "en": "Reached Bloodletter rank in the Arena",
     "ru": "Достигнут ранг Кровопускателя на Арене.",
     "bel": "Дасягнуты ранг Кровапускальніка на Арэне.",
@@ -9233,7 +9233,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_17",
-    "custom": "",
+    "custom": "Дасягнуты ранг Мірмідона на Арэне.",
     "en": "Reached Myrmidon rank in the Arena",
     "ru": "Достигнут ранг Мирмидона на Арене.",
     "bel": "Дасягнуты ранг Мірмідона на Арэне.",
@@ -9241,7 +9241,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_18",
-    "custom": "",
+    "custom": "Дасягнуты ранг Воіна на Арэне.",
     "en": "Reached Warrior rank in the Arena",
     "ru": "Достигнут ранг Воина на Арене.",
     "bel": "Дасягнуты ранг Воіна на Арэне.",
@@ -9249,7 +9249,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_19",
-    "custom": "",
+    "custom": "Дасягнуты ранг Гладыятара на Арэне.",
     "en": "Reached Gladiator rank in the Arena",
     "ru": "Достигнут ранг Гладиатора на Арене.",
     "bel": "Дасягнуты ранг Гладыятара на Арэне.",
@@ -9257,7 +9257,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_2",
-    "custom": "",
+    "custom": "Зачыніў браму Аблівіёна, Галоўны квэст",
     "en": "Closed an Oblivion Gate, Main Quest",
     "ru": "Закрыл врата Обливиона, Главный квест",
     "bel": "Зачыніў браму Аблівіёна, Галоўны квэст",
@@ -9265,7 +9265,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_20",
-    "custom": "",
+    "custom": "Дасягнуты ранг Героя на Арэне.",
     "en": "Reached Hero rank in the Arena",
     "ru": "Достигнут ранг Героя на Арене.",
     "bel": "Дасягнуты ранг Героя на Арэне.",
@@ -9273,7 +9273,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_21",
-    "custom": "",
+    "custom": "Дасягнуў рангу Чэмпіёна на Арэне.",
     "en": "Reached Champion rank in the Arena",
     "ru": "Достиг ранга Чемпиона на Арене.",
     "bel": "Дасягнуў рангу Чэмпіёна на Арэне.",
@@ -9281,7 +9281,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_22",
-    "custom": "",
+    "custom": "Завяршыў ланцужок заданняў на Арэне.",
     "en": "Completed the Arena Questline",
     "ru": "Завершил цепочку заданий на Арене.",
     "bel": "Завяршыў ланцужок заданняў на Арэне.",
@@ -9289,7 +9289,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_23",
-    "custom": "",
+    "custom": "Уступіў у Гільдыю Зладзеяў",
     "en": "Joined the Thieves Guild",
     "ru": "Вступил в Гильдию Воров",
     "bel": "Уступіў у Гільдыю Зладзеяў",
@@ -9297,7 +9297,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_24",
-    "custom": "",
+    "custom": "Дасягнуў звання Кішэннага Зладзея ў Гільдыі Зладзеяў",
     "en": "Reached Footpad rank in the Thieves Guild",
     "ru": "Достиг ранга Footpad в Гильдии Воров.",
     "bel": "Дасягнуў рангу Footpad у Гільдыі Зладзеяў.",
@@ -9305,7 +9305,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_25",
-    "custom": "",
+    "custom": "Дасягнуў звання Бандыта ў Гільдыі Зладзеяў",
     "en": "Reached Bandit rank in the Thieves Guild",
     "ru": "Достиг ранга Bandit в Thieves Guild.",
     "bel": "Дасягнуў рангу Bandit у Thieves Guild.",
@@ -9313,7 +9313,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_26",
-    "custom": "",
+    "custom": "Дасягнуў рангу Браднягі ў Гільдыі Зладзеяў",
     "en": "Reached Prowler rank in the Thieves Guild",
     "ru": "Достиг ранга Бродяги в Гильдии Воров",
     "bel": "Дасягнуў рангу Браднягі ў Гільдыі Зладзеяў",
@@ -9321,7 +9321,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_27",
-    "custom": "",
+    "custom": "Дасягнулі рангу \"Узломшчык\" у Гільдыі Зладзеяў.",
     "en": "Reached Cat Burglar rank in the Thieves Guild",
     "ru": "Достигли ранга \"Взломщик\" в Гильдии Воров.",
     "bel": "Дасягнулі рангу \"Узломшчык\" у Гільдыі Зладзеяў.",
@@ -9329,7 +9329,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_28",
-    "custom": "",
+    "custom": "Дасягнуў звання Ценяногі ў Гільдыі злодзеяў",
     "en": "Reached Shadowfoot rank in the Thieves Guild",
     "ru": "Достигнут ранг Shadowfoot в Гильдии Воров.",
     "bel": "Дасягнуты ранг Shadowfoot у Гільдыі Зладзеяў.",
@@ -9337,7 +9337,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_29",
-    "custom": "",
+    "custom": "Дасягнуты ранг Майстра-зладзея ў Гільдыі Зладзеяў.",
     "en": "Reached Master Thief rank in the Thieves Guild",
     "ru": "Достигнут ранг Мастера-вора в Гильдии Воров.",
     "bel": "Дасягнуты ранг Майстра-зладзея ў Гільдыі Зладзеяў.",
@@ -9345,7 +9345,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_3",
-    "custom": "",
+    "custom": "Знайшоў Свяцілішча Дагона, Галоўнае Заданне.",
     "en": "Located the Shrine of Dagon, Main Quest",
     "ru": "Нашёл Святилище Дагона, Главное Задание.",
     "bel": "Знайшоў Свяцілішча Дагона, Галоўнае Заданне.",
@@ -9353,7 +9353,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_30",
-    "custom": "",
+    "custom": "Завяршыў лінейку заданняў Гільдыі зладзеяў.",
     "en": "Completed the Thieves Guild Questline",
     "ru": "Завершил линейку заданий Гильдии воров.",
     "bel": "Завяршыў лінейку заданняў Гільдыі зладзеяў.",
@@ -9361,7 +9361,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_31",
-    "custom": "",
+    "custom": "Уступіў у Гільдыю Магаў",
     "en": "Joined the Mages Guild",
     "ru": "Вступил в Гильдию Магов",
     "bel": "Уступіў у Гільдыю Магаў",
@@ -9369,7 +9369,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_32",
-    "custom": "",
+    "custom": "Дасягнуў рангу Падмайстра ў Гільдыі Магаў.",
     "en": "Reached Apprentice rank in the Mages Guild",
     "ru": "Достиг ранга Подмастерья в Гильдии Магов.",
     "bel": "Дасягнуў рангу Падмайстра ў Гільдыі Магаў.",
@@ -9377,7 +9377,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_33",
-    "custom": "",
+    "custom": "Дасягнуў ранга Падмайстра ў Гільдыі Магаў.",
     "en": "Reached Journeyman rank in the Mages Guild",
     "ru": "Достиг ранга Подмастерья в Гильдии Магов.",
     "bel": "Дасягнуў ранга Падмайстра ў Гільдыі Магаў.",
@@ -9385,7 +9385,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_34",
-    "custom": "",
+    "custom": "Дасягнуў звання Выклікальніка ў Гільдыі Магаў",
     "en": "Reached Evoker rank in the Mages Guild",
     "ru": "Достиг ранга Evoker в Гильдии Магов.",
     "bel": "Дасягнуў рангу Evoker у Гільдыі Магаў.",
@@ -9393,7 +9393,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_35",
-    "custom": "",
+    "custom": "Дасягнуў звання Чарадзея ў Гільдыі Магаў",
     "en": "Reached Conjurer rank in the Mages Guild",
     "ru": "Достиг ранга Conjurer в Гильдии Магов.",
     "bel": "Дасягнуў рангу Conjurer у Гільдыі Магаў.",
@@ -9401,7 +9401,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_36",
-    "custom": "",
+    "custom": "Дасягнуў рангу Мага ў Гільдыі Магаў.",
     "en": "Reached Magician rank in the Mages Guild",
     "ru": "Достиг ранга Мага в Гильдии Магов.",
     "bel": "Дасягнуў рангу Мага ў Гільдыі Магаў.",
@@ -9409,7 +9409,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_37",
-    "custom": "",
+    "custom": "Дасягнуў рангу Чарнакніжніка ў Гільдыі Магаў.",
     "en": "Reached Warlock rank in the Mages Guild",
     "ru": "Достиг ранга Чернокнижника в Гильдии Магов.",
     "bel": "Дасягнуў рангу Чарнакніжніка ў Гільдыі Магаў.",
@@ -9417,7 +9417,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_38",
-    "custom": "",
+    "custom": "Дасягнуў рангу Чараўніка ў Гільдыі Магаў.",
     "en": "Reached Wizard rank in the Mages Guild",
     "ru": "Достиг ранга Волшебника в Гильдии Магов.",
     "bel": "Дасягнуў рангу Чараўніка ў Гільдыі Магаў.",
@@ -9425,7 +9425,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_39",
-    "custom": "",
+    "custom": "Дасягнуў рангу Майстар-Чараўнік у Гільдыі Магаў.",
     "en": "Reached Master-Wizard rank in the Mages Guild",
     "ru": "Достиг ранга Мастер-Волшебник в Гильдии Магов.",
     "bel": "Дасягнуў рангу Майстар-Чараўнік у Гільдыі Магаў.",
@@ -9433,7 +9433,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_4",
-    "custom": "",
+    "custom": "Артэфакт Даэдра дастаўлены, Асноўнае заданне",
     "en": "Delivered Daedric Artifact, Main Quest",
     "ru": "Артефакт Даэдра доставлен, Основное задание",
     "bel": "Артэфакт Даэдра дастаўлены, Асноўнае заданне",
@@ -9441,7 +9441,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_40",
-    "custom": "",
+    "custom": "Завяршыў(ла) лінейку заданняў Гільдыі Магаў.",
     "en": "Completed the Mages Guild Questline",
     "ru": "Завершил(а) линейку заданий Гильдии Магов.",
     "bel": "Завяршыў(ла) лінейку заданняў Гільдыі Магаў.",
@@ -9449,7 +9449,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_41",
-    "custom": "",
+    "custom": "Уступіў у Гільдыю Байцоў.",
     "en": "Joined the Fighters Guild",
     "ru": "Вступил в Гильдию Бойцов.",
     "bel": "Уступіў у Гільдыю Байцоў.",
@@ -9457,7 +9457,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_42",
-    "custom": "",
+    "custom": "Дасягнуў рангу Падмайстра ў Гільдыі Байцоў.",
     "en": "Reached Apprentice rank in the Fighters Guild",
     "ru": "Достиг ранга Подмастерья в Гильдии Бойцов.",
     "bel": "Дасягнуў рангу Падмайстра ў Гільдыі Байцоў.",
@@ -9465,7 +9465,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_43",
-    "custom": "",
+    "custom": "Дасягнуў звання падмайстра ў Гільдыі Байцоў.",
     "en": "Reached Journeyman rank in the Fighters Guild",
     "ru": "Достиг звания подмастерья в Гильдии Бойцов.",
     "bel": "Дасягнуў звання падмайстра ў Гільдыі Байцоў.",
@@ -9473,7 +9473,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_44",
-    "custom": "",
+    "custom": "Дасягнуў звання Мечніка ў Гільдыі байцоў",
     "en": "Reached Swordsman rank in the Fighters Guild",
     "ru": "Достиг звания Swordsman в Fighters Guild.",
     "bel": "Дасягнуў звання Swordsman у Fighters Guild.",
@@ -9481,7 +9481,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_45",
-    "custom": "",
+    "custom": "Дасягнуў рангу Абаронцы ў Гільдыі Байцоў.",
     "en": "Reached Protector rank in the Fighters Guild",
     "ru": "Достиг ранга Защитника в Гильдии Бойцов.",
     "bel": "Дасягнуў рангу Абаронцы ў Гільдыі Байцоў.",
@@ -9489,7 +9489,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_46",
-    "custom": "",
+    "custom": "Дасягнуты ранг Абаронцы ў Гільдыі Байцоў.",
     "en": "Reached Defender rank in the Fighters Guild",
     "ru": "Достигнут ранг Защитника в Гильдии Бойцов.",
     "bel": "Дасягнуты ранг Абаронцы ў Гільдыі Байцоў.",
@@ -9497,7 +9497,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_47",
-    "custom": "",
+    "custom": "Дасягнуў звання Вартавога ў Гільдыі байцоў",
     "en": "Reached Warder rank in the Fighters Guild",
     "ru": "Достиг ранга Warder в Гильдии Бойцов.",
     "bel": "Дасягнуў рангу Warder у Гільдыі Байцоў.",
@@ -9505,7 +9505,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_48",
-    "custom": "",
+    "custom": "Дасягнуты ранг Вартавога ў Гільдыі Байцоў.",
     "en": "Reached Guardian rank in the Fighters Guild",
     "ru": "Достигнут ранг Стража в Гильдии Бойцов.",
     "bel": "Дасягнуты ранг Вартавога ў Гільдыі Байцоў.",
@@ -9513,7 +9513,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_49",
-    "custom": "",
+    "custom": "Дасягнуў звання Чэмпіёна ў Гільдыі Байцоў.",
     "en": "Reached Champion rank in the Fighters Guild",
     "ru": "Достиг звания Чемпиона в Гильдии Бойцов.",
     "bel": "Дасягнуў звання Чэмпіёна ў Гільдыі Байцоў.",
@@ -9521,7 +9521,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_5",
-    "custom": "",
+    "custom": "Знішчаны Вялікія вароты, асноўны квэст",
     "en": "Destroyed the Great Gate, Main Quest",
     "ru": "Уничтожил Великие Врата, Main Quest",
     "bel": "Знішчыў Вялікія Брамы, Main Quest",
@@ -9529,7 +9529,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_50",
-    "custom": "",
+    "custom": "Завяршыў(ла) лінейку заданняў Гільдыі Байцоў.",
     "en": "Completed the Fighters Guild Questline",
     "ru": "Завершил(а) линейку заданий Гильдии Бойцов.",
     "bel": "Завяршыў(ла) лінейку заданняў Гільдыі Байцоў.",
@@ -9537,7 +9537,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_51",
-    "custom": "",
+    "custom": "Увайшоў у Дрыготкія Астравы.",
     "en": "Entered the Shivering Isles",
     "ru": "Вошёл в Дрожащие Острова.",
     "bel": "Увайшоў у Дрыготкія Астравы.",
@@ -9545,7 +9545,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_52",
-    "custom": "",
+    "custom": "Дасягнуў звання Аспіранта пры Двары вар'яцтва",
     "en": "Reached Aspirant Rank in the Court of Madness",
     "ru": "Достигнут ранг Aspirant в Court of Madness.",
     "bel": "Дасягнуты ранг Aspirant у Court of Madness.",
@@ -9553,7 +9553,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_53",
-    "custom": "",
+    "custom": "Дасягнуты ранг Грамадзяніна ў Палаце Вар'яцтва.",
     "en": "Reached Citizen Rank in the Court of Madness",
     "ru": "Достигнут ранг Гражданина в Палате Безумия.",
     "bel": "Дасягнуты ранг Грамадзяніна ў Палаце Вар'яцтва.",
@@ -9561,7 +9561,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_54",
-    "custom": "",
+    "custom": "Дасягнуў звання Вар'ята пры Двары вар'яцтва",
     "en": "Reached Madman Rank in the Court of Madness",
     "ru": "Достиг ранга Madman в Court of Madness.",
     "bel": "Дасягнуты ранг Madman у Court of Madness.",
@@ -9569,7 +9569,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_55",
-    "custom": "",
+    "custom": "Дасягнуў звання Паважанага Вар'ята ў Двары Вар'яцтва",
     "en": "Reached Honored Madman Rank in the Court of Madness",
     "ru": "Достигнут ранг \"Почётный безумец\" в Court of Madness.",
     "bel": "Дасягнуты ранг \"Ганаровы вар'ят\" у Court of Madness.",
@@ -9577,7 +9577,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_56",
-    "custom": "",
+    "custom": "Дасягнуў звання Герцага Дэменцыі ў Двары Вар'яцтва",
     "en": "Reached Duke of Dementia Rank in the Court of Madness",
     "ru": "Достиг ранга Герцога Деменции в Court of Madness.",
     "bel": "Дасягнуты ранг Герцага Дэменцыі ў Court of Madness.",
@@ -9585,7 +9585,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_57",
-    "custom": "",
+    "custom": "Дасягнуты ранг Герцага Маніі пры Двары Вар'яцтва",
     "en": "Reached Duke of Mania Rank in the Court of Madness",
     "ru": "Достиг ранга Герцога Мании при Дворе Безумия",
     "bel": "Дасягнуты ранг Герцага Маніі пры Двары Вар'яцтва",
@@ -9593,7 +9593,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_58",
-    "custom": "",
+    "custom": "Дасягнуў звання Рэгента пры Двары вар'яцтва",
     "en": "Reached Regent Rank in the Court of Madness",
     "ru": "Достигнут ранг Регента в Court of Madness.",
     "bel": "Дасягнуты ранг Рэгента ў Court of Madness.",
@@ -9601,7 +9601,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_59",
-    "custom": "",
+    "custom": "Дасягнуў звання Абаронцы Царства ў Двары Вар'яцтва",
     "en": "Reached Defender of the Realm Rank in the Court of Madness",
     "ru": "Достигнут ранг Защитника Королевства в Court of Madness.",
     "bel": "Дасягнуты ранг Абаронцы Каралеўства ў Court of Madness.",
@@ -9609,7 +9609,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_6",
-    "custom": "",
+    "custom": "Выканана асноўная лінейка заданняў",
     "en": "Completed the Main Questline",
     "ru": "Пройден основной сюжет [Main Questline]",
     "bel": "Пройдзены асноўны сюжэт [Main Questline]",
@@ -9617,7 +9617,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_60",
-    "custom": "",
+    "custom": "Спыніў Шэры Марш",
     "en": "Stopped the Greymarch",
     "ru": "Остановил Серый Марш",
     "bel": "Спыніў Шэры Марш",
@@ -9625,7 +9625,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_7",
-    "custom": "",
+    "custom": "Уступіў у Цёмнае Брацтва.",
     "en": "Joined the Dark Brotherhood",
     "ru": "Вступил в Тёмное Братство.",
     "bel": "Уступіў у Цёмнае Брацтва.",
@@ -9633,7 +9633,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_8",
-    "custom": "",
+    "custom": "Дасягнуў звання Забойцы ў Цёмным братэрстве",
     "en": "Reached Slayer rank in the Dark Brotherhood",
     "ru": "Достиг звания Slayer в Тёмном Братстве.",
     "bel": "Дасягнуў звання Slayer у Цёмным Брацтве.",
