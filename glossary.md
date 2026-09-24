@@ -360,6 +360,16 @@ Nocturnal -> **Накцюрнал** (НЕ перакладаць як "Начн�
   (напр. "СЕДэрвеніна" замест "SEDervenin") -- заўсёды браўся чысты
   лацінскі варыянт з bel_alt.
 
+## Дадаткова (порцыя 34) - Shivering Isles (зачараваная зброя "Soul", Heretic/Zealot)
+
+- Вялікая серыя зачараванай зброі "of Soul Storms/Scorching/Blizzards/
+  Voltage/Chill/Sparks/Embers/Fire" -- усе пераклады ўзятыя без зменаў,
+  чарнавік `bel` якасны.
+- Заўважана: некаторыя bel_alt для "Jastira" (SEJastiraDementiaKey,
+  SEJastiraNanusDementia/Mania) утрымліваюць зусім не звязаны тэкст
+  (пашкоджаны/зрушаны чарнавік) -- у такіх выпадках карысталіся `bel`,
+  bel_alt ігнаравалі.
+
 ## Расы (Races)
 
 | en | bel | крыніца |
