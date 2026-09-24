@@ -801,7 +801,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_RedguardStrength_02",
-    "custom": "",
+    "custom": "Могуць значна павысіць сябе",
     "en": "Can boost themselves greatly",
     "ru": "Могут сильно себя усилить.",
     "bel": "Могуць моцна сябе ўзмацніць.",
@@ -809,7 +809,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_RedguardStrength_03",
-    "custom": "",
+    "custom": "Прыродная ўстойлівасць да хвароб і ядаў",
     "en": "Natural resistance to disease and poison",
     "ru": "Природная сопротивляемость болезням и ядам",
     "bel": "Прыродная ўстойлівасць да хвароб і ядаў",
@@ -817,7 +817,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_Redguard_SentinelStrength_01",
-    "custom": "",
+    "custom": "Палепшаная асоба",
     "en": "Improved Personality",
     "ru": "Улучшенная личность",
     "bel": "Палепшаная асоба",
@@ -825,7 +825,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_WoodElfStrength_01",
-    "custom": "",
+    "custom": "Спрытны і хуткі",
     "en": "Nimble and quick",
     "ru": "Ловок и быстр.",
     "bel": "Спрытны і хуткі.",
@@ -833,7 +833,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_WoodElfStrength_02",
-    "custom": "",
+    "custom": "Устойлівы да хвароб",
     "en": "Resistant to diseases",
     "ru": "Устойчив к болезням",
     "bel": "Устойлівы да хвароб",
@@ -841,7 +841,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_WoodElfStrength_04",
-    "custom": "",
+    "custom": "Могуць кіраваць простымі істотамі",
     "en": "Can command simple creatures",
     "ru": "Может командовать простыми существами.",
     "bel": "Можа камандаваць простымі істотамі.",
@@ -849,7 +849,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreation_Footer_StatsPanelClose",
-    "custom": "",
+    "custom": "Закрыць статыстыку",
     "en": "Close stats",
     "ru": "Закрыть статистику",
     "bel": "Закрыць статыстыку",
@@ -857,7 +857,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreation_Footer_StatsPanelOpen",
-    "custom": "",
+    "custom": "Адкрыць статыстыку",
     "en": "Open stats",
     "ru": "Открыть статистику",
     "bel": "Адкрыць статыстыку",
@@ -865,7 +865,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreation_ItemName_StatsPanel_ResDisease",
-    "custom": "",
+    "custom": "Хвароба",
     "en": "Disease",
     "ru": "Болезнь",
     "bel": "Хвароба",
@@ -873,7 +873,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreation_ItemName_StatsPanel_ResFire",
-    "custom": "",
+    "custom": "Агонь",
     "en": "Fire",
     "ru": "Огонь",
     "bel": "Агонь",
@@ -881,7 +881,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreation_ItemName_StatsPanel_ResFrost",
-    "custom": "",
+    "custom": "Мароз",
     "en": "Frost",
     "ru": "Мороз",
     "bel": "Мароз",
@@ -889,7 +889,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreation_ItemName_StatsPanel_ResMagic",
-    "custom": "",
+    "custom": "Магія",
     "en": "Magic",
     "ru": "Магия",
     "bel": "Магія",
@@ -897,7 +897,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreation_ItemName_StatsPanel_ResPoison",
-    "custom": "",
+    "custom": "Яд",
     "en": "Poison",
     "ru": "Яд",
     "bel": "Яд",
@@ -905,7 +905,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreation_ItemName_StatsPanel_ResShock",
-    "custom": "",
+    "custom": "Шок",
     "en": "Shock",
     "ru": "Электричество",
     "bel": "Электрычнасць",
@@ -913,7 +913,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreation_SliderInfo_Melanin",
-    "custom": "",
+    "custom": "Меланін",
     "en": "Melanin",
     "ru": "Меланин",
     "bel": "Меланін",
@@ -921,7 +921,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreation_Title_StatsPanel_ResTitle",
-    "custom": "",
+    "custom": "Супраціўленні",
     "en": "Resistances",
     "ru": "Сопротивления",
     "bel": "Супраціўленні",
@@ -929,7 +929,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreation_Tooltip_MagickaBonus",
-    "custom": "",
+    "custom": "Магічны бонус",
     "en": "Magicka Bonus",
     "ru": "Магический бонус",
     "bel": "Магічны бонус",
@@ -937,7 +937,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreation_Tooltip_StatsTitle",
-    "custom": "",
+    "custom": "Статы",
     "en": "Stats",
     "ru": "Статы",
     "bel": "Статы",
@@ -945,7 +945,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_AcrobaticsApprentice",
-    "custom": "",
+    "custom": "Вы можаце <RT_BlueMed>ухіліцца</>, націснуўшы <IA id=\"IA_Game_Combat_Block\"/> + <IA id=\"IA_Game_Movement_Jump\"/> <RT_BlueMed>падчас руху</>.",
     "en": "You can <RT_BlueMed>Dodge</> by pressing <IA id=\"IA_Game_Combat_Block\"/> + <IA id=\"IA_Game_Movement_Jump\"/> <RT_BlueMed>while moving</>.",
     "ru": "Вы можете <RT_BlueMed>уклониться</>, нажав <IA id=\"IA_Game_Combat_Block\"/> + <IA id=\"IA_Game_Movement_Jump\"/> <RT_BlueMed>во время движения</>.",
     "bel": "Вы можаце <RT_BlueMed>ухіліцца</>, націснуўшы <IA id=\"IA_Game_Combat_Block\"/> + <IA id=\"IA_Game_Movement_Jump\"/> <RT_BlueMed>падчас руху</>.",
@@ -953,7 +953,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_AcrobaticsExpert",
-    "custom": "",
+    "custom": "Вы можаце <RT_BlueMed>скакаць па паверхні вады</>.",
     "en": "You can <RT_BlueMed>jump over the surface of water</>.",
     "ru": "Вы можете <RT_BlueMed>прыгать по поверхности воды</>.",
     "bel": "Вы можаце <RT_BlueMed>скакаць па паверхні вады</>.",
@@ -961,7 +961,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_AcrobaticsJourneyman",
-    "custom": "",
+    "custom": "Скачкі расходуюць <RT_BlueMed>менш вынослівасці</>.",
     "en": "Jumping consumes <RT_BlueMed>less Fatigue</>.",
     "ru": "Прыжки расходуют <RT_BlueMed>меньше выносливости</>.",
     "bel": "Скачкі расходуюць <RT_BlueMed>менш вынослівасці</>.",
@@ -969,7 +969,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_AcrobaticsMaster",
-    "custom": "",
+    "custom": "Вы атрымліваеце <RT_BlueMed>значна менш урону</>, калі падаеце з вялікай вышыні. Скачкі спажываюць <RT_BlueMed>значна менш стомленасці</>.",
     "en": "You take <RT_BlueMed>much less damage</> when falling long distances. Jumping consumes <RT_BlueMed>a lot less Fatigue</>.",
     "ru": "Вы получаете <RT_BlueMed>значительно меньше урона</>, когда падаете с большой высоты. Прыжки потребляют <RT_BlueMed>намного меньше усталости</>.",
     "bel": "Вы атрымліваеце <RT_BlueMed>значна менш урону</>, калі падаеце з вялікай вышыні. Скачкі спажываюць <RT_BlueMed>значна менш стомленасці</>.",
@@ -977,7 +977,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_AcrobaticsNovice",
-    "custom": "",
+    "custom": "У вас няма асаблівых бонусаў.",
     "en": "You have no particular perk.",
     "ru": "У тебя нет особого перка.",
     "bel": "У цябе няма асаблівага перка.",
@@ -985,7 +985,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_AlchemyApprentice",
-    "custom": "",
+    "custom": "Вы распазнаеце <RT_BlueMed>першыя дзве ўласцівасці</> інгрэдыентаў і маеце <RT_BlueMed>шанс стварыць дадатковае зелле</>.",
     "en": "You recognize the <RT_BlueMed>first two properties</> of ingredients, and have a <RT_BlueMed>chance to craft an additional potion</>.",
     "ru": "Вы распознаёте <RT_BlueMed>первые два свойства</> ингредиентов и имеете <RT_BlueMed>шанс создать дополнительное зелье</>.",
     "bel": "Вы распазнаеце <RT_BlueMed>першыя дзве ўласцівасці</> інгрэдыентаў і маеце <RT_BlueMed>шанс стварыць дадатковае зелле</>.",
@@ -993,7 +993,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_AlchemyExpert",
-    "custom": "",
+    "custom": "Вы распазнаеце <RT_BlueMed>усе чатыры ўласцівасці</> інгрэдыентаў і <RT_BlueMed>заўсёды</> ствараеце <RT_BlueMed>дадатковае зелле</>.",
     "en": "You recognize <RT_BlueMed>all four properties</> of ingredients, and <RT_BlueMed>always</> craft <RT_BlueMed>an additional potion</>.",
     "ru": "Вы распознаёте <RT_BlueMed>все четыре свойства</> ингредиентов и <RT_BlueMed>всегда</> создаёте <RT_BlueMed>дополнительное зелье</>.",
     "bel": "Вы распазнаеце <RT_BlueMed>усе чатыры ўласцівасці</> інгрэдыентаў і <RT_BlueMed>заўсёды</> ствараеце <RT_BlueMed>дадатковае зелле</>.",
@@ -1001,7 +1001,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_AlchemyJourneyman",
-    "custom": "",
+    "custom": "Вы распазнаеце <RT_BlueMed>першыя тры ўласцівасці</> інгрэдыентаў і можаце спраўляцца з <RT_BlueMed>вялікай колькасцю адначасовых эфектаў зелляў</>.",
     "en": "You recognize the <RT_BlueMed>first three properties</> of ingredients, and can handle <RT_BlueMed>more simultaneous potion effects</>.",
     "ru": "Вы распознаёте <RT_BlueMed>первые три свойства</> ингредиентов и можете справляться с <RT_BlueMed>большим количеством одновременных эффектов зелий</>.",
     "bel": "Вы распазнаеце <RT_BlueMed>першыя тры ўласцівасці</> інгрэдыентаў і можаце спраўляцца з <RT_BlueMed>вялікай колькасцю адначасовых эфектаў зелляў</>.",
@@ -1009,7 +1009,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_AlchemyMaster",
-    "custom": "",
+    "custom": "Вы можаце ствараць зелле з <RT_BlueMed>адзінага інгрэдыенту</>, і зможаце спраўляцца з <RT_BlueMed>яшчэ большай колькасцю адначасовых эфектаў зелляў</>.",
     "en": "You can make potions from a <RT_BlueMed>single ingredient</>, and can handle <RT_BlueMed>even more simultaneous potion effects</>.",
     "ru": "Вы можете создавать зелья из <RT_BlueMed>единственного ингредиента</>, и сможете справляться с <RT_BlueMed>ещё большим количеством одновременных эффектов зелий</>.",
     "bel": "Вы можаце ствараць зелле з <RT_BlueMed>адзінага інгрэдыенту</>, і зможаце спраўляцца з <RT_BlueMed>яшчэ большай колькасцю адначасовых эфектаў зелляў</>.",
@@ -1017,7 +1017,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_AlchemyNovice",
-    "custom": "",
+    "custom": "Вы распазнаеце толькі <RT_BlueMed>першую ўласцівасць</> інгрэдыентаў.",
     "en": "You recognize only the <RT_BlueMed>first property</> of ingredients.",
     "ru": "Вы распознаёте только <RT_BlueMed>первое свойство</> ингредиентов.",
     "bel": "Вы распазнаеце толькі <RT_BlueMed>першую ўласцівасць</> інгрэдыентаў.",
@@ -1025,7 +1025,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_AlterationApprentice",
-    "custom": "",
+    "custom": "Вы можаце ўжываць загаворы школы Змены <RT_BlueMed>узроўню Вучня</>.",
     "en": "You can cast <RT_BlueMed>Apprentice level</> Alteration spells.",
     "ru": "Вы можете применять заклинания школы Изменения <RT_BlueMed>уровня Ученика</>.",
     "bel": "Вы можаце ўжываць загаворы школы Змены <RT_BlueMed>узроўню Вучня</>.",
@@ -1033,7 +1033,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_AlterationExpert",
-    "custom": "",
+    "custom": "Вы можаце прамаўляць <RT_BlueMed>экспертныя</> загаворы школы Змены.",
     "en": "You can cast <RT_BlueMed>Expert level</> Alteration spells.",
     "ru": "Вы можете произносить <RT_BlueMed>экспертные</> заклинания школы Изменения.",
     "bel": "Вы можаце прамаўляць <RT_BlueMed>экспертныя</> загаворы школы Змены.",
@@ -1041,7 +1041,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_AlterationJourneyman",
-    "custom": "",
+    "custom": "Вы можаце накладваць загаворы школы Змены <RT_BlueMed>узроўню Падмайстра</>.",
     "en": "You can cast <RT_BlueMed>Journeyman level</> Alteration spells.",
     "ru": "Вы можете накладывать заклинания школы Изменения <RT_BlueMed>уровня Подмастерье</>.",
     "bel": "Вы можаце накладваць загаворы школы Змены <RT_BlueMed>узроўню Падмайстра</>.",
@@ -1049,7 +1049,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_AlterationMaster",
-    "custom": "",
+    "custom": "Вы можаце прамаўляць <RT_BlueMed>усе загаворы змены</>.",
     "en": "You can cast <RT_BlueMed>all Alteration spells</>.",
     "ru": "Вы можете произносить <RT_BlueMed>все заклинания изменения</>.",
     "bel": "Вы можаце прамаўляць <RT_BlueMed>усе загаворы змены</>.",
@@ -1057,7 +1057,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_AlterationNovice",
-    "custom": "",
+    "custom": "Вы можаце накладваць толькі <RT_BlueMed>загаворы змены ўзроўню пачаткоўца</>.",
     "en": "You can only cast <RT_BlueMed>Novice level</> Alteration spells.",
     "ru": "Вы можете накладывать только <RT_BlueMed>заклинания изменения уровня новичка</>.",
     "bel": "Вы можаце накладваць толькі <RT_BlueMed>загаворы змены ўзроўню пачаткоўца</>.",
@@ -1065,7 +1065,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_ArmorerApprentice",
-    "custom": "",
+    "custom": "Цяпер вы <RT_BlueMed>можаце рамантаваць магічныя прадметы</>.",
     "en": "You <RT_BlueMed>can now repair magic items</>.",
     "ru": "Теперь вы <RT_BlueMed>можете ремонтировать магические предметы</>.",
     "bel": "Цяпер вы <RT_BlueMed>можаце рамантаваць магічныя прадметы</>.",
@@ -1073,7 +1073,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_ArmorerExpert",
-    "custom": "",
+    "custom": "Вы можаце рамантаваць прадметы <RT_BlueMed>звыш іх максімальнай трываласці</>. Палепшаная зброя наносіць <RT_BlueMed>больш урону</>, палепшаная броня <RT_BlueMed>лепш абараняе</>.",
     "en": "You can repair items <RT_BlueMed>beyond their maximum durability</>. Improved weapons deal <RT_BlueMed>more damage</>, improved armors <RT_BlueMed>protects more</>.",
     "ru": "Вы можете ремонтировать предметы <RT_BlueMed>сверх их максимальной прочности</>. Улучшенное оружие наносит <RT_BlueMed>больше урона</>, улучшенная броня <RT_BlueMed>лучше защищает</>.",
     "bel": "Вы можаце рамантаваць прадметы <RT_BlueMed>звыш іх максімальнай трываласці</>. Палепшаная зброя наносіць <RT_BlueMed>больш урону</>, палепшаная броня <RT_BlueMed>лепш абараняе</>.",
@@ -1081,7 +1081,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_ArmorerJourneyman",
-    "custom": "",
+    "custom": "Вашы рамонтныя молаты <RT_BlueMed>служаць удвая даўжэй</>.",
     "en": "Your Repair Hammers <RT_BlueMed>last twice as long</>.",
     "ru": "Ваши ремонтные молоты <RT_BlueMed>служат вдвое дольше</>.",
     "bel": "Вашы рамонтныя молаты <RT_BlueMed>служаць удвая даўжэй</>.",
@@ -1089,7 +1089,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_ArmorerMaster",
-    "custom": "",
+    "custom": "Вашы рамонтныя молаты <RT_BlueMed>ніколі не ламаюцца</>. Адзін молат на ўсё жыццё.",
     "en": "Your Repair Hammers <RT_BlueMed>never break</>. One hammer lasts a lifetime.",
     "ru": "Ваши ремонтные молоты <RT_BlueMed>никогда не ломаются</>. Один молот на всю жизнь.",
     "bel": "Вашы рамонтныя молаты <RT_BlueMed>ніколі не ламаюцца</>. Адзін молат на ўсё жыццё.",
@@ -1097,7 +1097,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_ArmorerNovice",
-    "custom": "",
+    "custom": "Вы <RT_BlueMed>не можаце рамантаваць магічныя прадметы</>.",
     "en": "You <RT_BlueMed>cannot repair magic items</>.",
     "ru": "Вы <RT_BlueMed>не можете ремонтировать магические предметы</>.",
     "bel": "Вы <RT_BlueMed>не можаце рамантаваць магічныя прадметы</>.",
@@ -1105,7 +1105,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_AthleticsApprentice",
-    "custom": "",
+    "custom": "Ваша стомленасць аднаўляецца <RT_BlueMed>са звычайнай хуткасцю</> падчас бегу.",
     "en": "Your Fatigue regenerates <RT_BlueMed>at a normal rate</> when running.",
     "ru": "Ваша усталость восстанавливается <RT_BlueMed>с обычной скоростью</> во время бега.",
     "bel": "Ваша стомленасць аднаўляецца <RT_BlueMed>са звычайнай хуткасцю</> падчас бегу.",
@@ -1113,7 +1113,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_AthleticsExpert",
-    "custom": "",
+    "custom": "Бег расходуе <RT_BlueMed>значна менш</> стомленасці.",
     "en": "Sprinting consumes <RT_BlueMed>a lot less</> Fatigue.",
     "ru": "Бег расходует <RT_BlueMed>гораздо меньше</> усталости.",
     "bel": "Бег расходуе <RT_BlueMed>значна менш</> стомленасці.",
@@ -1121,7 +1121,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_AthleticsJourneyman",
-    "custom": "",
+    "custom": "Бег расходуе <RT_BlueMed>крыху менш</> стомленасці.",
     "en": "Sprinting consumes <RT_BlueMed>slightly less</> Fatigue.",
     "ru": "Бег расходует <RT_BlueMed>чуть меньше</> усталости.",
     "bel": "Бег расходуе <RT_BlueMed>крыху менш</> стомленасці.",
@@ -1129,7 +1129,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_AthleticsMaster",
-    "custom": "",
+    "custom": "Бег <RT_BlueMed>больш не расходуе стомленасць</>.",
     "en": "Sprinting <RT_BlueMed>no longer consumes Fatigue</>.",
     "ru": "Бег <RT_BlueMed>больше не расходует усталость</>.",
     "bel": "Бег <RT_BlueMed>больш не расходуе стомленасць</>.",
@@ -1137,7 +1137,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_AthleticsNovice",
-    "custom": "",
+    "custom": "Ваша Стомленасць аднаўляецца <RT_BlueMed>павольней</>, калі вы бежыце.",
     "en": "Your Fatigue regenerates <RT_BlueMed>more slowly</> when running.",
     "ru": "Ваша Усталость восстанавливается <RT_BlueMed>медленнее</>, когда вы бежите.",
     "bel": "Ваша Стомленасць аднаўляецца <RT_BlueMed>павольней</>, калі вы бежыце.",
@@ -1145,7 +1145,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_BladeApprentice",
-    "custom": "",
+    "custom": "Вашы <RT_BlueMed>Сілавыя Атакі</> наносяць <RT_BlueMed>больш урону</>, а клінковая зброя <RT_BlueMed>больш трывалая</>.",
     "en": "Your <RT_BlueMed>Power Attacks</> deal <RT_BlueMed>more damage</>, and Blade weapons are <RT_BlueMed>more durable</>.",
     "ru": "Ваши <RT_BlueMed>Силовые Атаки</> наносят <RT_BlueMed>больше урона</>, а клинковое оружие <RT_BlueMed>более прочное</>.",
     "bel": "Вашы <RT_BlueMed>Сілавыя Атакі</> наносяць <RT_BlueMed>больш урону</>, а клінковая зброя <RT_BlueMed>больш трывалая</>.",
@@ -1153,7 +1153,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_BladeExpert",
-    "custom": "",
+    "custom": "Вашы <RT_BlueMed>звычайныя атакі</> з <RT_BlueMed>невялікім шанцам</> могуць прымусіць вашых праціўнікаў <RT_BlueMed>сыходзіць крывёй</>, наносячы ўрон з цягам часу.",
     "en": "Your <RT_BlueMed>Regular Attacks</> have a <RT_BlueMed>slight chance</> to make your opponents <RT_BlueMed>bleed</>, dealing damage over time.",
     "ru": "Ваши <RT_BlueMed>обычные атаки</> с <RT_BlueMed>небольшим шансом</> могут заставить ваших противников <RT_BlueMed>кровоточить</>, нанося урон с течением времени.",
     "bel": "Вашы <RT_BlueMed>звычайныя атакі</> з <RT_BlueMed>невялікім шанцам</> могуць прымусіць вашых праціўнікаў <RT_BlueMed>сыходзіць крывёй</>, наносячы ўрон з цягам часу.",
@@ -1161,7 +1161,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_BladeJourneyman",
-    "custom": "",
+    "custom": "Вашы <RT_BlueMed>Сілавыя атакі</> накладваюць <RT_BlueMed>Уразлівасць да звычайнай зброі</> на праціўніка.",
     "en": "Your <RT_BlueMed>Power Attacks</> apply <RT_BlueMed>Weakness to Normal Weapon</> to your opponent.",
     "ru": "Ваши <RT_BlueMed>Силовые атаки</> накладывают <RT_BlueMed>Уязвимость к обычному оружию</> на противника.",
     "bel": "Вашы <RT_BlueMed>Сілавыя атакі</> накладваюць <RT_BlueMed>Уразлівасць да звычайнай зброі</> на праціўніка.",
@@ -1169,7 +1169,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_BladeMaster",
-    "custom": "",
+    "custom": "<RT_BlueMed>Уразлівасць да звычайнай зброі</>, якая накладваецца вашымі <RT_BlueMed>магутнымі атакамі</>, цяпер яшчэ <RT_BlueMed>мацнейшая</>.",
     "en": "The <RT_BlueMed>Weakness to Normal Weapon</> applied by your <RT_BlueMed>Power Attacks</> is even <RT_BlueMed>stronger</>.",
     "ru": "<RT_BlueMed>Уязвимость к обычному оружию</>, накладываемая вашими <RT_BlueMed>мощными атаками</>, теперь ещё <RT_BlueMed>сильнее</>.",
     "bel": "<RT_BlueMed>Уразлівасць да звычайнай зброі</>, якая накладваецца вашымі <RT_BlueMed>магутнымі атакамі</>, цяпер яшчэ <RT_BlueMed>мацнейшая</>.",
@@ -1177,7 +1177,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_BladeNovice",
-    "custom": "",
+    "custom": "У вас няма асаблівых бонусаў.",
     "en": "You have no particular perk.",
     "ru": "У тебя нет особого перка.",
     "bel": "У цябе няма асаблівага перка.",
@@ -1185,7 +1185,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_BlockApprentice",
-    "custom": "",
+    "custom": "Ваш шчыт ці зброя <RT_BlueMed>больш не губляе трываласць</>, калі вы блакуеце атаку.",
     "en": "Your shield or weapon <RT_BlueMed>no longer loses durability</> when you block an attack.",
     "ru": "Ваш щит или оружие <RT_BlueMed>больше не теряет прочность</>, когда вы блокируете атаку.",
     "bel": "Ваш шчыт ці зброя <RT_BlueMed>больш не губляе трываласць</>, калі вы блакуеце атаку.",
@@ -1193,7 +1193,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_BlockExpert",
-    "custom": "",
+    "custom": "Блакіраванне атакі расходуе <RT_BlueMed>яшчэ менш стомленасці</>. Вы можаце выканаць <RT_BlueMed>Удар шчытом</>, націснуўшы <IA id=\"IA_Game_Combat_Attack\"/>, блакіруючы шчытом.",
     "en": "Blocking an attack consumes <RT_BlueMed>even less Fatigue</>. You can perform a <RT_BlueMed>Shield Bash</> by pressing <IA id=\"IA_Game_Combat_Attack\"/> while blocking with a shield.",
     "ru": "Блокирование атаки расходует <RT_BlueMed>ещё меньше усталости</>. Вы можете выполнить <RT_BlueMed>Удар щитом</>, нажав <IA id=\"IA_Game_Combat_Attack\"/>, блокируя щитом.",
     "bel": "Блакіраванне атакі расходуе <RT_BlueMed>яшчэ менш стомленасці</>. Вы можаце выканаць <RT_BlueMed>Удар шчытом</>, націснуўшы <IA id=\"IA_Game_Combat_Attack\"/>, блакіруючы шчытом.",
@@ -1201,7 +1201,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_BlockJourneyman",
-    "custom": "",
+    "custom": "Блакіраванне атакі расходуе <RT_BlueMed>крыху менш вынослівасці</>.",
     "en": "Blocking an attack consumes <RT_BlueMed>slightly less Fatigue</>.",
     "ru": "Блокирование атаки расходует <RT_BlueMed>чуть меньше выносливости</>.",
     "bel": "Блакіраванне атакі расходуе <RT_BlueMed>крыху менш вынослівасці</>.",
@@ -1209,7 +1209,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_BlockMaster",
-    "custom": "",
+    "custom": "Блакіраванне атакі амаль <RT_BlueMed>не расходуе стомленасць</>. Ваш Таран Шчытом наносіць <RT_BlueMed>значна больш урону</>.",
     "en": "Blocking an attack consumes <RT_BlueMed>almost no Fatigue</>. Your Shield Bash deals <RT_BlueMed>much more damage</>.",
     "ru": "Блокирование атаки почти <RT_BlueMed>не расходует усталость</>. Ваш Таран Щитом наносит <RT_BlueMed>гораздо больше урона</>.",
     "bel": "Блакіраванне атакі амаль <RT_BlueMed>не расходуе стомленасць</>. Ваш Таран Шчытом наносіць <RT_BlueMed>значна больш урону</>.",
@@ -1217,7 +1217,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_BlockNovice",
-    "custom": "",
+    "custom": "Ваш шчыт ці зброя <RT_BlueMed>губляе трываласць</> пры блакіраванні атакі.",
     "en": "Your shield or weapon <RT_BlueMed>loses durability</> when you block an attack.",
     "ru": "Ваш щит или оружие <RT_BlueMed>теряет прочность</> при блокировании атаки.",
     "bel": "Ваш шчыт ці зброя <RT_BlueMed>губляе трываласць</> пры блакіраванні атакі.",
@@ -1225,7 +1225,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_BluntApprentice",
-    "custom": "",
+    "custom": "Вашы <RT_BlueMed>Сілавыя Атакі</> наносяць <RT_BlueMed>больш урону</>, а Драбняючая зброя <RT_BlueMed>больш трывалая</>.",
     "en": "Your <RT_BlueMed>Power Attacks</> deal <RT_BlueMed>more damage</>, and Blunt weapons are <RT_BlueMed>more durable</>.",
     "ru": "Ваши <RT_BlueMed>Силовые Атаки</> наносят <RT_BlueMed>больше урона</>, а Дробящее оружие <RT_BlueMed>более прочное</>.",
     "bel": "Вашы <RT_BlueMed>Сілавыя Атакі</> наносяць <RT_BlueMed>больш урону</>, а Драбняючая зброя <RT_BlueMed>больш трывалая</>.",
@@ -1233,7 +1233,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_BluntExpert",
-    "custom": "",
+    "custom": "Вашы <RT_BlueMed>Звычайныя Атакі</> маюць <RT_BlueMed>невялікі шанец накласці бяссілле</> на праціўнікаў.",
     "en": "Your <RT_BlueMed>Regular Attacks</> have a <RT_BlueMed>slight chance to silence</> your opponents.",
     "ru": "Ваши <RT_BlueMed>Обычные Атаки</> имеют <RT_BlueMed>небольшой шанс наложить безмолвие</> на противников.",
     "bel": "Вашы <RT_BlueMed>Звычайныя Атакі</> маюць <RT_BlueMed>невялікі шанец накласці бяссілле</> на праціўнікаў.",
@@ -1241,7 +1241,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_BluntJourneyman",
-    "custom": "",
+    "custom": "Вашы <RT_BlueMed>Сілавыя Атакі</> часова даюць вам <RT_BlueMed>Шчыт</>.",
     "en": "Your <RT_BlueMed>Power Attacks</> temporarily grant you <RT_BlueMed>Shield</>.",
     "ru": "Ваши <RT_BlueMed>Силовые Атаки</> временно дают вам <RT_BlueMed>Щит</>.",
     "bel": "Вашы <RT_BlueMed>Сілавыя Атакі</> часова даюць вам <RT_BlueMed>Шчыт</>.",
@@ -1249,7 +1249,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_BluntMaster",
-    "custom": "",
+    "custom": "<RT_BlueMed>Шчыт</>, які прадастаўляецца вашымі <RT_BlueMed>Магутнымі Атакамі</>, стаў яшчэ мацнейшым.",
     "en": "The <RT_BlueMed>Shield</> granted by your <RT_BlueMed>Power Attacks</> is even stronger.",
     "ru": "<RT_BlueMed>Щит</>, предоставляемый вашими <RT_BlueMed>Мощными Атаками</>, стал ещё крепче.",
     "bel": "<RT_BlueMed>Шчыт</>, які прадастаўляецца вашымі <RT_BlueMed>Магутнымі Атакамі</>, стаў яшчэ мацнейшым.",
@@ -1257,7 +1257,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_BluntNovice",
-    "custom": "",
+    "custom": "У вас няма асаблівых бонусаў.",
     "en": "You have no particular perk.",
     "ru": "У тебя нет каких-то особых перков.",
     "bel": "У цябе няма нейкіх асаблівых перкаў.",
@@ -1265,7 +1265,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_ConjurationApprentice",
-    "custom": "",
+    "custom": "Вы можаце выкарыстоўваць загаворы школы Чарадзейства <RT_BlueMed>узроўню Вучань</>.",
     "en": "You can cast <RT_BlueMed>Apprentice level</> Conjuration spells.",
     "ru": "Вы можете накладывать заклинания Школы Колдовства <RT_BlueMed>Уровня Ученика</>.",
     "bel": "Вы можаце накладваць загаворы Школы Вядзьмарства <RT_BlueMed>Узроўню Вучня</>.",
@@ -1273,7 +1273,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_ConjurationExpert",
-    "custom": "",
+    "custom": "Вы можаце выкарыстоўваць загаворы школы Чарадзейства <RT_BlueMed>узроўню Эксперт</>.",
     "en": "You can cast <RT_BlueMed>Expert level</> Conjuration spells.",
     "ru": "Вы можете использовать <RT_BlueMed>экспертные</> заклинания Школы Колдовства.",
     "bel": "Вы можаце выкарыстоўваць <RT_BlueMed>экспертныя</> загаворы Школы Вядзьмарства.",
@@ -1281,7 +1281,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_ConjurationJourneyman",
-    "custom": "",
+    "custom": "Вы можаце выкарыстоўваць загаворы школы Чарадзейства <RT_BlueMed>узроўню Падмайстар</>.",
     "en": "You can cast <RT_BlueMed>Journeyman level</> Conjuration spells.",
     "ru": "Вы можете накладывать заклинания <RT_BlueMed>уровня подмастерья</> школы Колдовства.",
     "bel": "Вы можаце накладваць загаворы <RT_BlueMed>ўзроўню падмайстра</> школы Вядзьмарства.",
@@ -1289,7 +1289,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_ConjurationMaster",
-    "custom": "",
+    "custom": "Вы можаце выкарыстоўваць <RT_BlueMed>усе загаворы Чарадзейства</>.",
     "en": "You can cast <RT_BlueMed>all Conjuration spells</>.",
     "ru": "Вы можете использовать <RT_BlueMed>все заклинания Призыва</>.",
     "bel": "Вы можаце выкарыстоўваць <RT_BlueMed>усе загаворы Прызыву</>.",
@@ -1297,7 +1297,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_ConjurationNovice",
-    "custom": "",
+    "custom": "Вы можаце выкарыстоўваць толькі загаворы Чарадзейства <RT_BlueMed>узроўню Пачатковец</>.",
     "en": "You can only cast <RT_BlueMed>Novice level</> Conjuration spells.",
     "ru": "Вы можете использовать только заклинания <RT_BlueMed>уровня новичка</> школы Колдовства.",
     "bel": "Вы можаце выкарыстоўваць толькі загаворы <RT_BlueMed>узроўню пачаткоўца</> школы Вядзьмарства.",
@@ -1305,7 +1305,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_DestructionApprentice",
-    "custom": "",
+    "custom": "Вы можаце ўжываць загаворы школы Разбурэння <RT_BlueMed>узроўню Падмайстра</>.",
     "en": "You can cast <RT_BlueMed>Apprentice level</> Destruction spells.",
     "ru": "Вы можете применять заклинания школы Разрушения <RT_BlueMed>уровня Подмастерья</>.",
     "bel": "Вы можаце ўжываць загаворы школы Разбурэння <RT_BlueMed>узроўню Падмайстра</>.",
@@ -1313,7 +1313,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_DestructionExpert",
-    "custom": "",
+    "custom": "Вы можаце выкарыстоўваць загаворы школы Разбурэння <RT_BlueMed>узроўню Эксперт</>.",
     "en": "You can cast <RT_BlueMed>Expert level</> Destruction spells.",
     "ru": "Вы можете применять <RT_BlueMed>спеллы разрушения</> уровня эксперта.",
     "bel": "Вы можаце ўжываць <RT_BlueMed>спелы разбурэння</> ўзроўню эксперта.",
@@ -1321,7 +1321,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_DestructionJourneyman",
-    "custom": "",
+    "custom": "Вы можаце ўжываць загаворы разбурэння <RT_BlueMed>ўзроўню падмайстра</>.",
     "en": "You can cast <RT_BlueMed>Journeyman level</> Destruction spells.",
     "ru": "Вы можете применять заклинания разрушения <RT_BlueMed>уровня подмастерья</>.",
     "bel": "Вы можаце ўжываць загаворы разбурэння <RT_BlueMed>ўзроўню падмайстра</>.",
@@ -1329,7 +1329,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_DestructionMaster",
-    "custom": "",
+    "custom": "Вы можаце прамаўляць <RT_BlueMed>усе загаворы Разбурэння</>.",
     "en": "You can cast <RT_BlueMed>all Destruction spells</>.",
     "ru": "Вы можете произносить <RT_BlueMed>все заклинания Разрушения</>.",
     "bel": "Вы можаце прамаўляць <RT_BlueMed>усе загаворы Разбурэння</>.",
@@ -1337,7 +1337,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_DestructionNovice",
-    "custom": "",
+    "custom": "Вы можаце ўжываць толькі <RT_BlueMed>загаворы разбурэння ўзроўню пачаткоўца</>.",
     "en": "You can only cast <RT_BlueMed>Novice level</> Destruction spells.",
     "ru": "Вы можете применять только <RT_BlueMed>заклинания разрушения уровня новичка</>.",
     "bel": "Вы можаце ўжываць толькі <RT_BlueMed>загаворы разбурэння ўзроўню пачаткоўца</>.",
@@ -1345,7 +1345,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_HandToHandApprentice",
-    "custom": "",
+    "custom": "Вашы <RT_BlueMed>магутныя атакі</> наносяць <RT_BlueMed>больш шкоды</>, і вы <RT_BlueMed>адштурхоўваеце</> узброеных апанентаў пры блакаванні.",
     "en": "Your <RT_BlueMed>Power Attacks</> deal <RT_BlueMed>more damage</> and you <RT_BlueMed>recoil</> armed opponents when blocking.",
     "ru": "Твои <RT_BlueMed>Силовые Атаки</> наносят <RT_BlueMed>больше урона</>, и ты <RT_BlueMed>отбрасываешь</> вооружённых противников при блокировании.",
     "bel": "Твае <RT_BlueMed>Сілавыя Атакі</> наносяць <RT_BlueMed>больш урону</>, і ты <RT_BlueMed>адкідваеш</> узброеных праціўнікаў пры блакіраванні.",
@@ -1353,7 +1353,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_HandToHandExpert",
-    "custom": "",
+    "custom": "Вашы <RT_BlueMed>атакі</> наносяць <RT_BlueMed>больш урону стомленасці</>.",
     "en": "Your <RT_BlueMed>attacks</> deal <RT_BlueMed>more Fatigue damage</>.",
     "ru": "Ваши <RT_BlueMed>атаки</> наносят <RT_BlueMed>больше урона усталости</>.",
     "bel": "Вашы <RT_BlueMed>атакі</> наносяць <RT_BlueMed>больш урону стомленасці</>.",
@@ -1361,7 +1361,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_HandToHandJourneyman",
-    "custom": "",
+    "custom": "Вашы <RT_BlueMed>Сілавыя Атакі</> маюць <RT_BlueMed>шанс абяззброіць</> вашых праціўнікаў. Вашы атакі могуць дзівіць істот, <RT_BlueMed>неспрымальных да фізічнага ўрону</>.",
     "en": "Your <RT_BlueMed>Power Attacks</> have a <RT_BlueMed>chance to disarm</> your opponents. Your attacks can hit creatures <RT_BlueMed>immune to physical damage</>.",
     "ru": "Ваши <RT_BlueMed>Силовые Атаки</> имеют <RT_BlueMed>шанс обезоружить</> ваших противников. Ваши атаки могут поражать существ, <RT_BlueMed>невосприимчивых к физическому урону</>.",
     "bel": "Вашы <RT_BlueMed>Сілавыя Атакі</> маюць <RT_BlueMed>шанс абяззброіць</> вашых праціўнікаў. Вашы атакі могуць дзівіць істот, <RT_BlueMed>неспрымальных да фізічнага ўрону</>.",
@@ -1369,7 +1369,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_HandToHandMaster",
-    "custom": "",
+    "custom": "Вашы <RT_BlueMed>атакі</> наносяць <RT_BlueMed>яшчэ больш шкоды стомленасці</>.",
     "en": "Your <RT_BlueMed>attacks</> deal <RT_BlueMed>even more Fatigue damage</>.",
     "ru": "Твои <RT_BlueMed>атаки</> наносят <RT_BlueMed>ещё больше урона усталости</>.",
     "bel": "Твае <RT_BlueMed>атакі</> наносяць <RT_BlueMed>яшчэ больш урону стомленасці</>.",
@@ -1377,7 +1377,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_HandToHandNovice",
-    "custom": "",
+    "custom": "Вашы <RT_BlueMed>атакі</> дадаткова наносяць <RT_BlueMed>урон стомленасці</>. Вы <RT_BlueMed>не адхіляецеся ад узброеных праціўнікаў</>, калі блакіруеце іх атакі.",
     "en": "Your <RT_BlueMed>attacks</> additionally deal <RT_BlueMed>Fatigue damage</>. You <RT_BlueMed>do not recoil armed opponents</> when blocking their attacks.",
     "ru": "Ваши <RT_BlueMed>атаки</> дополнительно наносят <RT_BlueMed>урон усталости</>. Вы <RT_BlueMed>не отшатываетесь от вооружённых противников</>, когда блокируете их атаки.",
     "bel": "Вашы <RT_BlueMed>атакі</> дадаткова наносяць <RT_BlueMed>урон стомленасці</>. Вы <RT_BlueMed>не адхіляецеся ад узброеных праціўнікаў</>, калі блакіруеце іх атакі.",
@@ -1385,7 +1385,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_HeavyArmorApprentice",
-    "custom": "",
+    "custom": "Цяжкая броня, якую вы носіце, <RT_BlueMed>зношваецца са звычайнай хуткасцю</>.",
     "en": "Heavy Armor you wear <RT_BlueMed>degrades at a normal rate</>.",
     "ru": "Тяжёлая броня, которую вы носите, <RT_BlueMed>изнашивается с обычной скоростью</>.",
     "bel": "Цяжкая броня, якую вы носіце, <RT_BlueMed>зношваецца са звычайнай хуткасцю</>.",
@@ -1393,7 +1393,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_HeavyArmorExpert",
-    "custom": "",
+    "custom": "Цяжкая броня, якую вы носіце, <RT_BlueMed>больш не абцяжарвае вас так моцна</>.",
     "en": "Heavy Armor you wear <RT_BlueMed>no longer encumbers you as much</>.",
     "ru": "Тяжёлая броня, которую вы носите, <RT_BlueMed>больше не тяготит вас так сильно</>.",
     "bel": "Цяжкая броня, якую вы носіце, <RT_BlueMed>больш не абцяжарвае вас так моцна</>.",
@@ -1401,7 +1401,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_HeavyArmorJourneyman",
-    "custom": "",
+    "custom": "Цяжкая броня, якую вы носіце, <RT_BlueMed>зношваецца значна павольней</>.",
     "en": "Heavy Armor you wear <RT_BlueMed>degrades much more slowly</>.",
     "ru": "Тяжёлая броня, которую вы носите, <RT_BlueMed>износится гораздо медленнее</>.",
     "bel": "Цяжкая броня, якую вы носіце, <RT_BlueMed>зношваецца значна павольней</>.",
@@ -1409,7 +1409,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_HeavyArmorMaster",
-    "custom": "",
+    "custom": "Цяжкая броня, якую вы носіце, <RT_BlueMed>больш зусім вас не абцяжарвае</>.",
     "en": "Heavy Armor you wear <RT_BlueMed>no longer encumbers you at all</>.",
     "ru": "Тяжёлая броня, которую вы носите, <RT_BlueMed>больше совсем вас не обременяет</>.",
     "bel": "Цяжкая броня, якую вы носіце, <RT_BlueMed>больш зусім вас не абцяжарвае</>.",
@@ -1417,7 +1417,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_HeavyArmorNovice",
-    "custom": "",
+    "custom": "Цяжкая броня на табе <RT_BlueMed>значна хутчэй зношваецца</>.",
     "en": "Heavy Armor you wear <RT_BlueMed>degrades much faster</>.",
     "ru": "Тяжёлая броня на тебе <RT_BlueMed>гораздо быстрее изнашивается</>.",
     "bel": "Цяжкая броня на табе <RT_BlueMed>значна хутчэй зношваецца</>.",
@@ -1425,7 +1425,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_IllusionApprentice",
-    "custom": "",
+    "custom": "Вы можаце выкарыстоўваць чары ілюзіі <RT_BlueMed>узроўню вучня</>.",
     "en": "You can cast <RT_BlueMed>Apprentice level</> Illusion spells.",
     "ru": "Вы можете применять заклинания иллюзии <RT_BlueMed>уровня ученика</>.",
     "bel": "Вы можаце выкарыстоўваць чары ілюзіі <RT_BlueMed>узроўню вучня</>.",
@@ -1433,7 +1433,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_IllusionExpert",
-    "custom": "",
+    "custom": "Вы можаце выкарыстоўваць <RT_BlueMed>Ілюзіі экспертнага ўзроўню</>.",
     "en": "You can cast <RT_BlueMed>Expert level</> Illusion spells.",
     "ru": "Вы можете использовать <RT_BlueMed>Иллюзии экспертного уровня</>.",
     "bel": "Вы можаце выкарыстоўваць <RT_BlueMed>Ілюзіі экспертнага ўзроўню</>.",
@@ -1441,7 +1441,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_IllusionJourneyman",
-    "custom": "",
+    "custom": "Вы можаце выкарыстоўваць <RT_BlueMed>ілюзіі ўзроўню падмайстра</>.",
     "en": "You can cast <RT_BlueMed>Journeyman level</> Illusion spells.",
     "ru": "Вы можете использовать <RT_BlueMed>иллюзии уровня подмастерья</>.",
     "bel": "Вы можаце выкарыстоўваць <RT_BlueMed>ілюзіі ўзроўню падмайстра</>.",
@@ -1449,7 +1449,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_IllusionMaster",
-    "custom": "",
+    "custom": "Вы можаце выкарыстоўваць <RT_BlueMed>усе ілюзорныя чары</>.",
     "en": "You can cast <RT_BlueMed>all Illusion spells</>.",
     "ru": "Вы можете применять <RT_BlueMed>все иллюзорные заклинания</>.",
     "bel": "Вы можаце выкарыстоўваць <RT_BlueMed>усе ілюзорныя чары</>.",
@@ -1457,7 +1457,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_IllusionNovice",
-    "custom": "",
+    "custom": "Вы можаце выкарыстоўваць толькі <RT_BlueMed>чары ілюзіі ўзроўню пачаткоўца</>.",
     "en": "You can only cast <RT_BlueMed>Novice level</> Illusion spells.",
     "ru": "Вы можете использовать только <RT_BlueMed>заклинания иллюзии уровня новичка</>.",
     "bel": "Вы можаце выкарыстоўваць толькі <RT_BlueMed>чары ілюзіі ўзроўню пачаткоўца</>.",
@@ -1465,7 +1465,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_LightArmorApprentice",
-    "custom": "",
+    "custom": "Лёгкая броня, якую вы носіце, <RT_BlueMed>зношваецца са звычайнай хуткасцю</>.",
     "en": "Light Armor you wear <RT_BlueMed>degrades at a normal rate</>.",
     "ru": "Легкая броня, которую вы носите, <RT_BlueMed>изнашивается с обычной скоростью</>.",
     "bel": "Лёгкая броня, якую вы носіце, <RT_BlueMed>зношваецца са звычайнай хуткасцю</>.",
@@ -1473,7 +1473,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_LightArmorExpert",
-    "custom": "",
+    "custom": "Лёгкая броня, якую вы носіце, <RT_BlueMed>больш зусім вас не абцяжарвае</>.",
     "en": "Light Armor you wear <RT_BlueMed>no longer encumbers you at all</>.",
     "ru": "Легкая броня, которую вы носите, <RT_BlueMed>больше совсем вас не обременяет</>.",
     "bel": "Лёгкая броня, якую вы носіце, <RT_BlueMed>больш зусім вас не абцяжарвае</>.",
@@ -1481,7 +1481,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_LightArmorJourneyman",
-    "custom": "",
+    "custom": "Лёгкая броня, якую вы носіце, <RT_BlueMed>зношваецца значна павольней</>.",
     "en": "Light Armor you wear <RT_BlueMed>degrades much more slowly</>.",
     "ru": "Легкая броня, которую вы носите, <RT_BlueMed>изнашивается гораздо медленнее</>.",
     "bel": "Лёгкая броня, якую вы носіце, <RT_BlueMed>зношваецца значна павольней</>.",
@@ -1489,7 +1489,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_LightArmorMaster",
-    "custom": "",
+    "custom": "Калі вы носіце <RT_BlueMed>выключна лёгкую броню</>, ваша абарона <RT_BlueMed>значна павышаецца</>.",
     "en": "When wearing <RT_BlueMed>exclusively Light Armor</>, your protection is <RT_BlueMed>greatly increased</>.",
     "ru": "Когда вы носите <RT_BlueMed>исключительно лёгкую броню</>, ваша защита <RT_BlueMed>значительно повышается</>.",
     "bel": "Калі вы носіце <RT_BlueMed>выключна лёгкую броню</>, ваша абарона <RT_BlueMed>значна павышаецца</>.",
@@ -1497,7 +1497,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_LightArmorNovice",
-    "custom": "",
+    "custom": "Лёгкая броня, якую вы носіце, <RT_BlueMed>значна хутчэй зношваецца</>.",
     "en": "Light Armor you wear <RT_BlueMed>degrades much faster</>.",
     "ru": "Легкая броня, которую вы носите, <RT_BlueMed>гораздо быстрее изнашивается</>.",
     "bel": "Лёгкая броня, якую вы носіце, <RT_BlueMed>значна хутчэй зношваецца</>.",
@@ -1505,7 +1505,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_MarksmanApprentice",
-    "custom": "",
+    "custom": "Вы <RT_BlueMed>больш не расходуеце стомленасць</>, нацягваючы лук.",
     "en": "You <RT_BlueMed>no longer consume Fatigue</> while drawing a bow.",
     "ru": "Вы <RT_BlueMed>больше не расходуете Усталость</>, натягивая лук.",
     "bel": "Вы <RT_BlueMed>больш не расходуеце стомленасць</>, нацягваючы лук.",
@@ -1513,7 +1513,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_MarksmanExpert",
-    "custom": "",
+    "custom": "Вашы стрэлы маюць <RT_BlueMed>невялікі шанец паралізаваць</> цэль пры пападанні.",
     "en": "Your arrows have a <RT_BlueMed>slight chance to paralyze</> the target on hit.",
     "ru": "У ваших стрел есть <RT_BlueMed>небольшой шанс парализовать</> цель при попадании.",
     "bel": "Вашы стрэлы маюць <RT_BlueMed>невялікі шанец паралізаваць</> цэль пры пападанні.",
@@ -1521,7 +1521,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_MarksmanJourneyman",
-    "custom": "",
+    "custom": "Вы можаце <RT_BlueMed>засяродзіць</> свой погляд падчас прыцэльвання, утрымліваючы <IA id=\"IA_Game_Combat_Block\"/>.",
     "en": "You can <RT_BlueMed>focus</> your vision while aiming by holding down <IA id=\"IA_Game_Combat_Block\"/>.",
     "ru": "Вы можете <RT_BlueMed>сосредоточить</> свой взгляд во время прицеливания, удерживая <IA id=\"IA_Game_Combat_Block\"/>.",
     "bel": "Вы можаце <RT_BlueMed>засяродзіць</> свой погляд падчас прыцэльвання, утрымліваючы <IA id=\"IA_Game_Combat_Block\"/>.",
@@ -1529,7 +1529,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_MarksmanMaster",
-    "custom": "",
+    "custom": "Вашы стрэлы маюць <RT_BlueMed>высокі шанец паралізаваць</> цэль пры пападанні.",
     "en": "Your arrows have a <RT_BlueMed>great chance to paralyze</> the target on hit.",
     "ru": "Ваши стрелы имеют <RT_BlueMed>высокий шанс парализовать</> цель при попадании.",
     "bel": "Вашы стрэлы маюць <RT_BlueMed>высокі шанец паралізаваць</> цэль пры пападанні.",
@@ -1537,7 +1537,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_MarksmanNovice",
-    "custom": "",
+    "custom": "Вы <RT_BlueMed>траціце стомленасць</> пры нацягванні лука.",
     "en": "You <RT_BlueMed>consume Fatigue</> while drawing a bow.",
     "ru": "Ты <RT_BlueMed>расходуешь Выносливость</>, когда натягиваешь лук.",
     "bel": "Ты <RT_BlueMed>расходуеш цягавітасць</>, калі нацягваеш лук.",
@@ -1545,7 +1545,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_MercantileApprentice",
-    "custom": "",
+    "custom": "Кошт прадметаў, якія вы прадаеце, <RT_BlueMed>больш не зніжаецца</>, калі прадмет у <RT_BlueMed>дрэнным стане</>. Гандляры таксама могуць прапаноўваць <RT_BlueMed>тавары паўлепш</>.",
     "en": "The value of items you sell is <RT_BlueMed>no longer reduced</> if the item is in <RT_BlueMed>poor condition</>. Merchants may also offer <RT_BlueMed>better items</>.",
     "ru": "Стоимость предметов, которые вы продаёте, <RT_BlueMed>больше не снижается</>, если предмет в <RT_BlueMed>плохом состоянии</>. Торговцы также могут предлагать <RT_BlueMed>товары получше</>.",
     "bel": "Кошт прадметаў, якія вы прадаеце, <RT_BlueMed>больш не зніжаецца</>, калі прадмет у <RT_BlueMed>дрэнным стане</>. Гандляры таксама могуць прапаноўваць <RT_BlueMed>тавары паўлепш</>.",
@@ -1553,7 +1553,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_MercantileExpert",
-    "custom": "",
+    "custom": "Ва ўсіх гандляроў <RT_BlueMed>больш золата ў наяўнасці</>. Вы можаце <RT_BlueMed>інвеставаць</> у краму, каб <RT_BlueMed>назаўжды павялічыць</> <RT_BlueMed>даступнае золата</> гэтага гандляра.",
     "en": "All merchants have <RT_BlueMed>more gold available</>. You can <RT_BlueMed>invest</> in a shop to <RT_BlueMed>permanently increase</> that merchant's <RT_BlueMed>available gold</>.",
     "ru": "У всех торговцев <RT_BlueMed>больше золота в наличии</>. Вы можете <RT_BlueMed>инвестировать</> в магазин, чтобы <RT_BlueMed>навсегда увеличить</> <RT_BlueMed>доступное золото</> этого торговца.",
     "bel": "Ва ўсіх гандляроў <RT_BlueMed>больш золата ў наяўнасці</>. Вы можаце <RT_BlueMed>інвеставаць</> у краму, каб <RT_BlueMed>назаўжды павялічыць</> <RT_BlueMed>даступнае золата</> гэтага гандляра.",
@@ -1561,7 +1561,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_MercantileJourneyman",
-    "custom": "",
+    "custom": "Вы можаце купляць і прадаваць <RT_BlueMed>любы прадмет любому гандляру</>. У гандляроў таксама могуць быць <RT_BlueMed>тавары яшчэ паўлепш</>.",
     "en": "You can buy and sell <RT_BlueMed>any item to any vendor</>. Merchants may also offer <RT_BlueMed>even better items</>.",
     "ru": "Вы можете покупать и продавать <RT_BlueMed>любой предмет любому торговцу</>. У торговцев также могут быть <RT_BlueMed>товары ещё получше</>.",
     "bel": "Вы можаце купляць і прадаваць <RT_BlueMed>любы прадмет любому гандляру</>. У гандляроў таксама могуць быць <RT_BlueMed>тавары яшчэ паўлепш</>.",
@@ -1569,7 +1569,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_MercantileMaster",
-    "custom": "",
+    "custom": "Вы заўсёды купляеце і прадаеце прадметы па <RT_BlueMed>найлепшай магчымай цане</>. Гандляры прапануюць <RT_BlueMed>лепшыя прадметы</>, якія ў іх ёсць.",
     "en": "You always buy and sell items at <RT_BlueMed>the best price possible</>. Merchants offer the <RT_BlueMed>best items</> they have.",
     "ru": "Ты всегда покупаешь и продаёшь предметы по <RT_BlueMed>максимально выгодной цене</>. Торговцы предлагают <RT_BlueMed>лучшие товары</>, которые у них есть.",
     "bel": "Ты заўсёды купляеш і прадаеш прадметы па <RT_BlueMed>магчыма найлепшай цане</>. Гандляры прапануюць <RT_BlueMed>лепшыя тавары</>, якія ў іх ёсць.",
@@ -1577,7 +1577,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_MercantileNovice",
-    "custom": "",
+    "custom": "Кошт прадметаў, якія вы прадаеце, <RT_BlueMed>зніжаецца</>, калі прадмет у <RT_BlueMed>дрэнным стане</>.",
     "en": "The value of items you sell is <RT_BlueMed>reduced</> if the item is in <RT_BlueMed>poor condition</>.",
     "ru": "Стоимость предметов, которые вы продаёте, <RT_BlueMed>снижается</>, если предмет в <RT_BlueMed>плохом состоянии</>.",
     "bel": "Кошт прадметаў, якія вы прадаеце, <RT_BlueMed>зніжаецца</>, калі прадмет у <RT_BlueMed>дрэнным стане</>.",
@@ -1585,7 +1585,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_MysticismApprentice",
-    "custom": "",
+    "custom": "Вы можаце ствараць <RT_BlueMed>містычныя чары</> ўзроўню падмайстра.",
     "en": "You can cast <RT_BlueMed>Apprentice level</> Mysticism spells.",
     "ru": "Вы можете творить <RT_BlueMed>мистические заклинания</> уровня подмастерья.",
     "bel": "Вы можаце ствараць <RT_BlueMed>містычныя чары</> ўзроўню падмайстра.",
@@ -1593,7 +1593,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterSkillPerks_Description_MysticismExpert",
-    "custom": "",
+    "custom": "Вы можаце выкарыстоўваць <RT_BlueMed>экспертныя</> містычныя чары.",
     "en": "You can cast <RT_BlueMed>Expert level</> Mysticism spells.",
     "ru": "Вы можете применять <RT_BlueMed>экспертные</> мистические заклинания.",
     "bel": "Вы можаце выкарыстоўваць <RT_BlueMed>экспертныя</> містычныя чары.",
