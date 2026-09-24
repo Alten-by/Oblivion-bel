@@ -9641,7 +9641,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Description_9",
-    "custom": "",
+    "custom": "Дасягнуў звання Ліквідатара ў Цёмным Брацтве",
     "en": "Reached Eliminator rank in the Dark Brotherhood",
     "ru": "Достиг ранга Eliminator в Тёмном Братстве.",
     "bel": "Дасягнуў рангу Eliminator у Цёмным Брацтве.",
@@ -9649,7 +9649,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_1",
-    "custom": "",
+    "custom": "Збег з Імперскай каналізацыі.",
     "en": "Escaped the Imperial Sewers",
     "ru": "Сбежал из Имперской канализации.",
     "bel": "Збег з Імперскай каналізацыі.",
@@ -9657,7 +9657,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_10",
-    "custom": "",
+    "custom": "Забойца, Цёмнае Брацтва",
     "en": "Assassin, Dark Brotherhood",
     "ru": "Убийца, Тёмное Братство",
     "bel": "Забойца, Цёмнае Брацтва",
@@ -9665,7 +9665,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_11",
-    "custom": "",
+    "custom": "Бязмоўны, Цёмнае Брацтва",
     "en": "Silencer, Dark Brotherhood",
     "ru": "Безмолвный, Тёмное Братство",
     "bel": "Бязмоўны, Цёмнае Брацтва",
@@ -9673,7 +9673,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_12",
-    "custom": "",
+    "custom": "Прамоўца, Цёмнае Брацтва",
     "en": "Speaker, Dark Brotherhood",
     "ru": "Говорящий, Тёмное Братство",
     "bel": "Прамоўца, Цёмнае Брацтва",
@@ -9681,7 +9681,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_13",
-    "custom": "",
+    "custom": "Слухач, Цёмнае Брацтва",
     "en": "Listener, Dark Brotherhood",
     "ru": "Слушатель, Тёмное Братство",
     "bel": "Слухач, Цёмнае Брацтва",
@@ -9689,7 +9689,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_14",
-    "custom": "",
+    "custom": "Баявы пес, Арэна",
     "en": "Pit Dog, Arena",
     "ru": "Боевой пёс, Арена",
     "bel": "Баявы пес, Арэна",
@@ -9697,7 +9697,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_15",
-    "custom": "",
+    "custom": "Мардабой, Арэна",
     "en": "Brawler, Arena",
     "ru": "Мордобой, Арена",
     "bel": "Мардабой, Арэна",
@@ -9705,7 +9705,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_16",
-    "custom": "",
+    "custom": "Крывапускальнік, Арэна",
     "en": "Bloodletter, Arena",
     "ru": "Кровопускатель, Арена",
     "bel": "Крывапускальнік, Арэна",
@@ -9713,7 +9713,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_17",
-    "custom": "",
+    "custom": "Мірмідонец, Арэна",
     "en": "Myrmidon, Arena",
     "ru": "Мирмидонец, Арена",
     "bel": "Мірмідонец, Арэна",
@@ -9721,7 +9721,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_18",
-    "custom": "",
+    "custom": "Воін, Арэна",
     "en": "Warrior, Arena",
     "ru": "Воин, Арена",
     "bel": "Воін, Арэна",
@@ -9729,7 +9729,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_19",
-    "custom": "",
+    "custom": "Гладыятар, Арэна",
     "en": "Gladiator, Arena",
     "ru": "Гладиатор, Арена",
     "bel": "Гладыятар, Арэна",
@@ -9737,7 +9737,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_2",
-    "custom": "",
+    "custom": "Зачыніў(ла) Брамы Аблівіёна.",
     "en": "Closed an Oblivion Gate",
     "ru": "Закрыл(а) Врата Обливиона.",
     "bel": "Зачыніў(ла) Брамы Аблівіёна.",
@@ -9745,7 +9745,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_20",
-    "custom": "",
+    "custom": "Герой, Арэна",
     "en": "Hero, Arena",
     "ru": "Герой, Арена",
     "bel": "Герой, Арэна",
@@ -9753,7 +9753,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_21",
-    "custom": "",
+    "custom": "Чэмпіён, Арэна",
     "en": "Champion, Arena",
     "ru": "Чемпион, Арена",
     "bel": "Чэмпіён, Арэна",
@@ -9761,7 +9761,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_22",
-    "custom": "",
+    "custom": "Вялікі Чэмпіён, Арэна",
     "en": "Grand Champion, Arena",
     "ru": "Великий Чемпион, Арена",
     "bel": "Вялікі Чэмпіён, Арэна",
@@ -9769,7 +9769,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_23",
-    "custom": "",
+    "custom": "Кішэнны злодзей, Гільдыя Зладзеяў",
     "en": "Pickpocket, Thieves Guild",
     "ru": "Карманник, Гильдия Воров",
     "bel": "Кішэнны злодзей, Гільдыя Зладзеяў",
@@ -9777,7 +9777,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_24",
-    "custom": "",
+    "custom": "Зладзюга, Гільдыя Зладзеяў",
     "en": "Footpad, Thieves Guild",
     "ru": "Ворюга, Гильдия Воров",
     "bel": "Зладзюга, Гільдыя Зладзеяў",
@@ -9785,7 +9785,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_25",
-    "custom": "",
+    "custom": "Бандыт, Гільдыя Зладзеяў",
     "en": "Bandit, Thieves Guild",
     "ru": "Бандит, Гильдия Воров",
     "bel": "Бандыт, Гільдыя Зладзеяў",
@@ -9793,7 +9793,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_26",
-    "custom": "",
+    "custom": "Бадзяга, Гільдыя Зладзеяў",
     "en": "Prowler, Thieves Guild",
     "ru": "Бродяга, Гильдия Воров",
     "bel": "Бадзяга, Гільдыя Зладзеяў",
@@ -9801,7 +9801,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_27",
-    "custom": "",
+    "custom": "Котка-Зладзейка, Гільдыя Зладзеяў",
     "en": "Cat Burglar, Thieves Guild",
     "ru": "Кошка-Воровка, Гильдия Воров",
     "bel": "Котка-Зладзейка, Гільдыя Зладзеяў",
@@ -9809,7 +9809,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_28",
-    "custom": "",
+    "custom": "Ценеступ, Гільдыя Зладзеяў",
     "en": "Shadowfoot, Thieves Guild",
     "ru": "Тенеступ, Гильдия Воров",
     "bel": "Ценеступ, Гільдыя Зладзеяў",
@@ -9817,7 +9817,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_29",
-    "custom": "",
+    "custom": "Галоўны Зладзей, Гільдыя Зладзеяў",
     "en": "Master Thief, Thieves Guild",
     "ru": "Главный Вор, Гильдия Воров",
     "bel": "Галоўны Зладзей, Гільдыя Зладзеяў",
@@ -9825,7 +9825,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_3",
-    "custom": "",
+    "custom": "Знайшоў Свяцілішча Дагона.",
     "en": "Located the Shrine of Dagon",
     "ru": "Нашёл Святилище Дагона.",
     "bel": "Знайшоў Свяцілішча Дагона.",
@@ -9833,7 +9833,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_30",
-    "custom": "",
+    "custom": "Кіраўнік гільдыі, Гільдыя Зладзеяў",
     "en": "Guildmaster, Thieves Guild",
     "ru": "Глава гильдии, Гильдия воров",
     "bel": "Кіраўнік гільдыі, Гільдыя Зладзеяў",
@@ -9841,7 +9841,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_31",
-    "custom": "",
+    "custom": "Памочнік Гільдыі Магаў",
     "en": "Associate, Mages Guild",
     "ru": "Помощник Гильдии Магов",
     "bel": "Памочнік Гільдыі Магаў",
@@ -9849,7 +9849,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_32",
-    "custom": "",
+    "custom": "Вучань, Гільдыя Магаў",
     "en": "Apprentice, Mages Guild",
     "ru": "Ученик, Гильдия Магов",
     "bel": "Вучань, Гільдыя Магаў",
@@ -9857,7 +9857,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_33",
-    "custom": "",
+    "custom": "Падмайстар, Гільдыя Магаў",
     "en": "Journeyman, Mages Guild",
     "ru": "Подмастерье, Гильдия Магов",
     "bel": "Падмайстар, Гільдыя Магаў",
@@ -9865,7 +9865,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_34",
-    "custom": "",
+    "custom": "Заклінальнік, Гільдыя Магаў",
     "en": "Evoker, Mages Guild",
     "ru": "Заклинатель, Гильдия Магов",
     "bel": "Заклінальнік, Гільдыя Магаў",
@@ -9873,7 +9873,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_35",
-    "custom": "",
+    "custom": "Чарадзей, Гільдыя Магаў",
     "en": "Conjurer, Mages Guild",
     "ru": "Заклинатель, Гильдия Магов",
     "bel": "Чарадзей, Гільдыя Магаў",
@@ -9881,7 +9881,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_36",
-    "custom": "",
+    "custom": "Маг, Гільдыя Магаў",
     "en": "Magician, Mages Guild",
     "ru": "Маг, Гильдия Магов",
     "bel": "Маг, Гільдыя Магаў",
@@ -9889,7 +9889,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_37",
-    "custom": "",
+    "custom": "Чарнакніжнік, Гільдыя Магаў",
     "en": "Warlock, Mages Guild",
     "ru": "Чернокнижник, Гильдия Магов",
     "bel": "Чарнакніжнік, Гільдыя Магаў",
@@ -9897,7 +9897,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_38",
-    "custom": "",
+    "custom": "Чараўнік, Гільдыя Магаў",
     "en": "Wizard, Mages Guild",
     "ru": "Волшебник, Гильдия Магов",
     "bel": "Чараўнік, Гільдыя Магаў",
@@ -9905,7 +9905,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_39",
-    "custom": "",
+    "custom": "Майстар-Чараўнік, Гільдыя Магаў",
     "en": "Master-Wizard, Mages Guild",
     "ru": "Мастер-Волшебник, Гильдия Магов",
     "bel": "Майстар-Чараўнік, Гільдыя Магаў",
@@ -9913,7 +9913,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_4",
-    "custom": "",
+    "custom": "Дастаўлены Даэдрычны Артэфакт.",
     "en": "Delivered Daedric Artifact",
     "ru": "Доставлен Даэдрический Артефакт.",
     "bel": "Дастаўлены Даэдрычны Артэфакт.",
@@ -9921,7 +9921,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_40",
-    "custom": "",
+    "custom": "Архімаг, Гільдыя Магаў",
     "en": "Arch-Mage, Mages Guild",
     "ru": "Архимаг, Гильдия Магов",
     "bel": "Архімаг, Гільдыя Магаў",
@@ -9929,7 +9929,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_41",
-    "custom": "",
+    "custom": "Паплечнік Гільдыі Байцоў",
     "en": "Associate, Fighters Guild",
     "ru": "Соратник Гильдии Бойцов",
     "bel": "Паплечнік Гільдыі Байцоў",
@@ -9937,7 +9937,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_42",
-    "custom": "",
+    "custom": "Падмайстар, Гільдыя Байцоў",
     "en": "Apprentice, Fighters Guild",
     "ru": "Подмастерье, Гильдия Бойцов",
     "bel": "Падмайстар, Гільдыя Байцоў",
@@ -9945,7 +9945,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_43",
-    "custom": "",
+    "custom": "Падмайстар, Гільдыя байцоў.",
     "en": "Journeyman, Fighters Guild",
     "ru": "Подмастерье, Гильдия бойцов.",
     "bel": "Падмайстар, Гільдыя байцоў.",
@@ -9953,7 +9953,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_44",
-    "custom": "",
+    "custom": "Мечнік, Гільдыя Байцоў",
     "en": "Swordsman, Fighters Guild",
     "ru": "Мечник, Гильдия Бойцов",
     "bel": "Мечнік, Гільдыя Байцоў",
@@ -9961,7 +9961,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_45",
-    "custom": "",
+    "custom": "Абаронца, Гільдыя Байцоў",
     "en": "Protector, Fighters Guild",
     "ru": "Защитник, Гильдия Бойцов",
     "bel": "Абаронца, Гільдыя Байцоў",
@@ -9969,7 +9969,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_46",
-    "custom": "",
+    "custom": "Абаронца, Гільдыя Байцоў",
     "en": "Defender, Fighters Guild",
     "ru": "Защитник, Гильдия Бойцов",
     "bel": "Абаронца, Гільдыя Байцоў",
@@ -9977,7 +9977,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_47",
-    "custom": "",
+    "custom": "Стражнік, Гільдыя Байцоў",
     "en": "Warder, Fighters Guild",
     "ru": "Стражник, Гильдия Бойцов",
     "bel": "Стражнік, Гільдыя Байцоў",
@@ -9985,7 +9985,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_48",
-    "custom": "",
+    "custom": "Страж, Гільдыя байцоў",
     "en": "Guardian, Fighters Guild",
     "ru": "Страж, Гильдия бойцов",
     "bel": "Страж, Гільдыя байцоў",
@@ -9993,7 +9993,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_49",
-    "custom": "",
+    "custom": "Чэмпіён, Гільдыя Байцоў",
     "en": "Champion, Fighters Guild",
     "ru": "Чемпион, Гильдия Бойцов",
     "bel": "Чэмпіён, Гільдыя Байцоў",
@@ -10001,7 +10001,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_5",
-    "custom": "",
+    "custom": "Разбурыў Вялікія Брамы",
     "en": "Destroyed the Great Gate",
     "ru": "Разрушил Великие Врата",
     "bel": "Разбурыў Вялікія Брамы",
@@ -10009,7 +10009,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_50",
-    "custom": "",
+    "custom": "Майстар, Гільдыя Байцоў",
     "en": "Master, Fighters Guild",
     "ru": "Мастер, Гильдия Бойцов",
     "bel": "Майстар, Гільдыя Байцоў",
@@ -10017,7 +10017,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_51",
-    "custom": "",
+    "custom": "Турыст, Дрыготкія Астравы",
     "en": "Tourist, Shivering Isles",
     "ru": "Турист, Дрожащие Острова",
     "bel": "Турыст, Дрыготкія Астравы",
@@ -10025,7 +10025,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_52",
-    "custom": "",
+    "custom": "Паслушнік, Дрыготкія Астравы",
     "en": "Aspirant, Shivering Isles",
     "ru": "Послушник, Дрожащие Острова",
     "bel": "Паслушнік, Дрыготкія Астравы",
@@ -10033,7 +10033,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_53",
-    "custom": "",
+    "custom": "Жыхар, Дрыготкія Астравы",
     "en": "Citizen, Shivering Isles",
     "ru": "Житель, Дрожащие Острова",
     "bel": "Жыхар, Дрыготкія Астравы",
@@ -10041,7 +10041,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_54",
-    "custom": "",
+    "custom": "Вар'ят, Дрыготкія Астравы",
     "en": "Madman, Shivering Isles",
     "ru": "Безумец, Дрожащие Острова",
     "bel": "Вар'ят, Дрыготкія Астравы",
@@ -10049,7 +10049,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_55",
-    "custom": "",
+    "custom": "Паважаны Вар'ят, Дрыготкія Астравы",
     "en": "Honored Madman, Shivering Isles",
     "ru": "Почтенный Безумец, Дрожащие Острова",
     "bel": "Паважаны Вар'ят, Дрыготкія Астравы",
@@ -10057,7 +10057,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_56",
-    "custom": "",
+    "custom": "Герцаг Дэменцыі, Дрыготкія Астравы",
     "en": "Duke Dementia, Shivering Isles",
     "ru": "Герцог Деменции, Дрожащие Острова",
     "bel": "Герцаг Дэменцыі, Дрыготкія Астравы",
@@ -10065,7 +10065,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_57",
-    "custom": "",
+    "custom": "Герцагская манія, Дрыготкія Астравы",
     "en": "Duke Mania, Shivering Isles",
     "ru": "Герцогская мания, Дрожащие Острова",
     "bel": "Герцагская манія, Дрыготкія Астравы",
@@ -10073,7 +10073,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_58",
-    "custom": "",
+    "custom": "Рэгент, Дрыготкія Астравы",
     "en": "Regent, Shivering Isles",
     "ru": "Регент, Дрожащие Острова",
     "bel": "Рэгент, Дрыготкія Астравы",
@@ -10081,7 +10081,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_59",
-    "custom": "",
+    "custom": "Абаронца, Дрыготкія Астравы",
     "en": "Defender, Shivering Isles",
     "ru": "Защитник, Дрожащие Острова",
     "bel": "Абаронца, Дрыготкія Астравы",
@@ -10089,7 +10089,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_6",
-    "custom": "",
+    "custom": "Чэмпіён Сірадыіла",
     "en": "Champion of Cyrodiil",
     "ru": "Чемпион Сиродиила",
     "bel": "Чэмпіён Сірадыіла",
@@ -10097,7 +10097,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_60",
-    "custom": "",
+    "custom": "Вар'яцкі бог, Дрыготкія астравы",
     "en": "Madgod, Shivering Isles",
     "ru": "Безумный бог, Дрожащие острова",
     "bel": "Вар'яцкі бог, Дрыготкія астравы",
@@ -10105,7 +10105,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_7",
-    "custom": "",
+    "custom": "Забойца, Цёмнае Брацтва",
     "en": "Murderer, Dark Brotherhood",
     "ru": "Убийца, Тёмное Братство",
     "bel": "Забойца, Цёмнае Брацтва",
@@ -10113,7 +10113,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_8",
-    "custom": "",
+    "custom": "Знішчальнік, Цёмнае Брацтва",
     "en": "Slayer, Dark Brotherhood",
     "ru": "Истребитель, Тёмное Братство",
     "bel": "Знішчальнік, Цёмнае Брацтва",
@@ -10121,7 +10121,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_Achievements_Info_Name_9",
-    "custom": "",
+    "custom": "Вынішчальнік, Цёмнае Брацтва",
     "en": "Eliminator, Dark Brotherhood",
     "ru": "Уничтожитель, Тёмное Братство",
     "bel": "Вынішчальнік, Цёмнае Брацтва",
@@ -10129,7 +10129,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_RichPresence_Info_Step_1",
-    "custom": "",
+    "custom": "Навучанне",
     "en": "Tutorial",
     "ru": "Обучение",
     "bel": "Навучанне",
@@ -10137,7 +10137,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_RichPresence_Info_Step_10",
-    "custom": "",
+    "custom": "Брама Брумы",
     "en": "Bruma Gate",
     "ru": "Врата Брумы",
     "bel": "Брама Брумы",
@@ -10145,7 +10145,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_RichPresence_Info_Step_11",
-    "custom": "",
+    "custom": "Кроў Боскіх",
     "en": "Blood of the Divines",
     "ru": "Кровь Божественных",
     "bel": "Кроў Боскіх",
@@ -10153,7 +10153,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_RichPresence_Info_Step_12",
-    "custom": "",
+    "custom": "Міскарканд",
     "en": "Miscarcand",
     "ru": "Мискарканд",
     "bel": "Міскарканд",
@@ -10161,7 +10161,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_RichPresence_Info_Step_13",
-    "custom": "",
+    "custom": "Абарона Брумы",
     "en": "Defense of Bruma",
     "ru": "Оборона Брумы",
     "bel": "Абарона Брумы",
@@ -10169,7 +10169,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_RichPresence_Info_Step_14",
-    "custom": "",
+    "custom": "Вялікія Брамы",
     "en": "Great Gate",
     "ru": "Великие Врата",
     "bel": "Вялікія Брамы",
@@ -10177,7 +10177,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_RichPresence_Info_Step_15",
-    "custom": "",
+    "custom": "Рай",
     "en": "Paradise",
     "ru": "Рай",
     "bel": "Рай",
@@ -10185,7 +10185,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_RichPresence_Info_Step_16",
-    "custom": "",
+    "custom": "Запаліце Драконавы агні.",
     "en": "Light the Dragonfires",
     "ru": "Зажгите Драконьи огни.",
     "bel": "Запаліце Драконавы агні.",
@@ -10193,7 +10193,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_RichPresence_Info_Step_17",
-    "custom": "",
+    "custom": "Імперскі Драконавы Даспех",
     "en": "Imperial Dragon Armor",
     "ru": "Имперский Драконий Доспех",
     "bel": "Імперскі Драконавы Даспех",
@@ -10201,7 +10201,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_RichPresence_Info_Step_2",
-    "custom": "",
+    "custom": "Дастаўце Амулет.",
     "en": "Deliver the Amulet",
     "ru": "Доставь Амулет.",
     "bel": "Дастаўце Амулет.",
@@ -10209,7 +10209,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_RichPresence_Info_Step_3",
-    "custom": "",
+    "custom": "Знайсці Спадчынніка",
     "en": "Find the Heir",
     "ru": "Найти Наследника",
     "bel": "Знайсці Спадчынніка",
@@ -10217,7 +10217,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_RichPresence_Info_Step_4",
-    "custom": "",
+    "custom": "Прарыў аблогі Кватча",
     "en": "Breaking the Siege of Kvatch",
     "ru": "Прорыв осады Кватча",
     "bel": "Прарыў аблогі Кватча",
@@ -10225,7 +10225,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_RichPresence_Info_Step_5",
-    "custom": "",
+    "custom": "Вейнонскі Прыёрат",
     "en": "Weynon Priory",
     "ru": "Вейнонский Приорат",
     "bel": "Вейнонскі Прыёрат",
@@ -10233,7 +10233,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_RichPresence_Info_Step_6",
-    "custom": "",
+    "custom": "Шлях Рассвета",
     "en": "The Path of Dawn",
     "ru": "Путь Рассвета",
     "bel": "Шлях Рассвета",
@@ -10241,7 +10241,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_RichPresence_Info_Step_7",
-    "custom": "",
+    "custom": "Свяцілішча Дагона",
     "en": "Dagon Shrine",
     "ru": "Святилище Дагона",
     "bel": "Свяцілішча Дагона",
@@ -10249,7 +10249,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_RichPresence_Info_Step_8",
-    "custom": "",
+    "custom": "Шпіёны",
     "en": "Spies",
     "ru": "Шпионы",
     "bel": "Шпіёны",
@@ -10257,7 +10257,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_RichPresence_Info_Step_9",
-    "custom": "",
+    "custom": "Кроў Даэдры",
     "en": "Blood of the Deadra",
     "ru": "Кровь Даэдра",
     "bel": "Кроў Даэдры",
@@ -10265,7 +10265,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Xbox_RichPresence_Info_Step_MainMenu",
-    "custom": "",
+    "custom": "Галоўнае меню",
     "en": "Main Menu",
     "ru": "Главное меню",
     "bel": "Галоўнае меню",
