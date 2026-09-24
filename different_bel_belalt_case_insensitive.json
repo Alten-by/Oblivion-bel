@@ -10135,7 +10135,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CGEmperor17",
-    "custom": "",
+    "custom": "Ці баіцеся вы смерці?",
     "en": "Aren't you afraid to die?",
     "ru": "Страшитесь ли вы смерти?",
     "bel": "Ці баіцеся вы смерці?",
@@ -10144,7 +10144,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CGEmperor19",
-    "custom": "",
+    "custom": "Ваш Амулет? Тады гэта «Бывай»?",
     "en": "Your Amulet? Then this is 'Goodbye'?",
     "ru": "Ваш Амулет? Это слова прощания?",
     "bel": "Ваш Амулет? Гэта словы развітання?",
@@ -10153,7 +10153,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CGEmperor21",
-    "custom": "",
+    "custom": "Дык, гэта яно?",
     "en": "So, this is it?",
     "ru": "То есть, это конец?",
     "bel": "То бок, гэта канец?",
@@ -10162,7 +10162,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CGEmperor22",
-    "custom": "",
+    "custom": "З усім сэрцам... бывайце...",
     "en": "With all my heart... farewell...",
     "ru": "Тяжко на сердце... прощайте...",
     "bel": "Цяжка на сэрцы... бывайце...",
@@ -10171,7 +10171,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CGEmperor23",
-    "custom": "",
+    "custom": "Я не забуду вас...",
     "en": "I won't forget you...",
     "ru": "Я не забуду вас...",
     "bel": "Я не забуду вас...",
@@ -10180,7 +10180,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CGEmperor24",
-    "custom": "",
+    "custom": "Я сам тут спраўлюся...",
     "en": "I'll take it from here...",
     "ru": "Я отправляюсь в путь...",
     "bel": "Я адпраўляюся ў шлях...",
@@ -10189,7 +10189,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CGEmperorBirthsign",
-    "custom": "",
+    "custom": "Знак нараджэння Імператара",
     "en": "CGEmperorBirthsign",
     "ru": "Знак рождения CGEmperor",
     "bel": "Знак нараджэння CGEmperor",
@@ -10198,7 +10198,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CGGoblinBerserkerPATROL01",
-    "custom": "",
+    "custom": "Гоблін-берсерк",
     "en": "Goblin Berserker",
     "ru": "Гоблин-берсерк",
     "bel": "Гоблін-берсерк",
@@ -10207,7 +10207,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CGGoblinBerserkerWANDER",
-    "custom": "",
+    "custom": "Гоблін-берсерк",
     "en": "Goblin Berserker",
     "ru": "Гоблин-берсерк",
     "bel": "Гоблін-берсерк",
@@ -10216,7 +10216,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CGGoblinFaction",
-    "custom": "",
+    "custom": "Гобліны CG",
     "en": "CG goblins",
     "ru": "CG гоблины",
     "bel": "CG гобліны",
@@ -10225,7 +10225,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CGGoblinRopeRock01",
-    "custom": "",
+    "custom": "Пацягнуць за вяроўку",
     "en": "Pull Rope",
     "ru": "Потянуть за веревку",
     "bel": "Пацягнуць за вяроўку",
@@ -10234,7 +10234,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CGGoblinShamanNOWANDER",
-    "custom": "",
+    "custom": "Гоблін-вядзьмарка",
     "en": "Goblin Witch",
     "ru": "Гоблин-колдун",
     "bel": "Гоблін-чарадзей",
@@ -10243,7 +10243,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CGGoblinTrapRun",
-    "custom": "",
+    "custom": "Гоблін-застрэльшчык",
     "en": "Goblin Skirmisher",
     "ru": "Гоблин-пехотинец",
     "bel": "Гоблін-пяхотнік",
@@ -10252,7 +10252,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CGIronGauntlets",
-    "custom": "",
+    "custom": "Іржавыя жалезныя пальчаткі",
     "en": "Rusty Iron Gauntlets",
     "ru": "Ржавые железные перчатки",
     "bel": "Іржавыя жалезныя пальчаткі",
@@ -10261,7 +10261,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CGIronGreaves",
-    "custom": "",
+    "custom": "Іржавыя жалезныя понажы",
     "en": "Rusty Iron Greaves",
     "ru": "Ржавые железные поножи",
     "bel": "Іржавыя жалезныя нагавіцы",
@@ -10270,7 +10270,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CGLeatherGauntletsBandit",
-    "custom": "",
+    "custom": "Грубыя скураныя пальчаткі",
     "en": "Rough Leather Gauntlets",
     "ru": "Грубые кожаные перчатки",
     "bel": "Грубыя скураныя пальчаткі",
@@ -10279,7 +10279,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CGLeatherGreavesBandit",
-    "custom": "",
+    "custom": "Скураныя понажы",
     "en": "Leather Greaves",
     "ru": "Кожаные поножи",
     "bel": "Скураныя нагавіцы",
@@ -10378,7 +10378,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CGRatPassive",
-    "custom": "",
+    "custom": "Каналізацыйны пацук",
     "en": "Sewer Rat",
     "ru": "Канализационная крыса",
     "bel": "Каналізацыйны пацук",
@@ -10387,7 +10387,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CGRicketyFenceGate01",
-    "custom": "",
+    "custom": "Брама тыну",
     "en": "Stick Fence Gate",
     "ru": "Расшатанная дверь изгороди",
     "bel": "Развалены плот",
@@ -10405,7 +10405,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CGSteelShortsword",
-    "custom": "",
+    "custom": "Сталёвы кароткі меч",
     "en": "Steel Shortsword",
     "ru": "Стальной короткий меч",
     "bel": "Стальны кароткі меч",
@@ -10414,7 +10414,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CGTrigTripwire01",
-    "custom": "",
+    "custom": "Расцяжка",
     "en": "Tripwire",
     "ru": "Растяжка",
     "bel": "Растяжка",
@@ -10423,7 +10423,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CGsewerDoor01",
-    "custom": "",
+    "custom": "Дзверы каналізацыі",
     "en": "Sewer Door",
     "ru": "Дверь канализации",
     "bel": "Дзверы каналізацыі",
@@ -10432,7 +10432,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_COCR",
-    "custom": "",
+    "custom": "Падначаленне істоты",
     "en": "Command Creature",
     "ru": "Приказ существу",
     "bel": "Загад істоце",
@@ -10441,7 +10441,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_COERCEDISLIKE",
-    "custom": "",
+    "custom": "Непрыязнасць да прымусу",
     "en": "COERCE_DISLIKE",
     "ru": "Вынудить невзлюбить",
     "bel": "Вымусіць не любіць",
@@ -10450,7 +10450,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_COERCEHATE",
-    "custom": "",
+    "custom": "Нянавісць да прымусу",
     "en": "COERCE_HATE",
     "ru": "Вызвать_НЕНАВИСТЬ",
     "bel": "Выклікаць_НЕНАВІСЦЬ",
@@ -10459,7 +10459,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_COERCELIKE",
-    "custom": "",
+    "custom": "Сімпатыя да прымусу",
     "en": "COERCE_LIKE",
     "ru": "Принуждать_КАК",
     "bel": "Прымушаць_ЯК",
@@ -10468,7 +10468,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_COERCELOVE",
-    "custom": "",
+    "custom": "Каханне да прымусу",
     "en": "COERCE_LOVE",
     "ru": "Вынудить любить",
     "bel": "Вымусіць любіць",
@@ -10477,7 +10477,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_COHU",
-    "custom": "",
+    "custom": "Падначаленне гуманоіда",
     "en": "Command Humanoid",
     "ru": "Приказ гуманоиду",
     "bel": "Загад гуманоіду",
@@ -10486,7 +10486,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CRTHangingSwordRenote",
-    "custom": "",
+    "custom": "Акавірская катана Рэнотэ",
     "en": "Renote's Akaviri Katana",
     "ru": "Акавирская катана Рено",
     "bel": "Акавірская катана Рэно",
@@ -10495,7 +10495,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CRopeRock01",
-    "custom": "",
+    "custom": "Пацягнуць за вяроўку",
     "en": "Pull Rope",
     "ru": "Потянуть за веревку",
     "bel": "Пацягнуць за вяроўку",
@@ -10504,7 +10504,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CTrapLogs01",
-    "custom": "",
+    "custom": "Штурхаць бярвенне",
     "en": "Push Logs",
     "ru": "Бревна",
     "bel": "Бярвенні",
@@ -10513,7 +10513,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CTrigTripwire01",
-    "custom": "",
+    "custom": "Расцяжка",
     "en": "Tripwire",
     "ru": "Растяжка",
     "bel": "Раздзяжка",
@@ -10522,7 +10522,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CUDI",
-    "custom": "",
+    "custom": "Вылячэнне хваробы",
     "en": "Cure Disease",
     "ru": "Исцеление болезней",
     "bel": "Вылячэнне хвароб",
@@ -10531,7 +10531,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CUPA",
-    "custom": "",
+    "custom": "Вылячэнне паралічу",
     "en": "Cure Paralysis",
     "ru": "Исцеление от паралича",
     "bel": "Вылячэнне ад паралічу",
@@ -10540,7 +10540,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CUPO",
-    "custom": "",
+    "custom": "Вылячэнне атруты",
     "en": "Cure Poison",
     "ru": "Противоядие",
     "bel": "Проціяддзе",
@@ -10549,7 +10549,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CadlewChapel",
-    "custom": "",
+    "custom": "Капліца Кадлью",
     "en": "Cadlew Chapel",
     "ru": "Часовня Кадлью",
     "bel": "Капліца Кадлью",
@@ -10558,7 +10558,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CaeliaDraconis",
-    "custom": "",
+    "custom": "Кейлія Драконіс",
     "en": "Caelia Draconis",
     "ru": "Кейлия Драконис",
     "bel": "Кейлія Драконіс",
@@ -10567,7 +10567,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Caenlin",
-    "custom": "",
+    "custom": "Кэнлін",
     "en": "Caenlin",
     "ru": "Кэнлин",
     "bel": "Кэнлін",
@@ -10576,7 +10576,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Caenlorn",
-    "custom": "",
+    "custom": "Кэнлорн",
     "en": "Caenlorn",
     "ru": "Кэнлорн",
     "bel": "Кэнлорн",
@@ -10585,7 +10585,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CairnBolete01",
-    "custom": "",
+    "custom": "Баравік Кэрна",
     "en": "Cairn Bolete",
     "ru": "Каменный гриб",
     "bel": "Каменны грыб",
@@ -10594,7 +10594,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CairnBolete02",
-    "custom": "",
+    "custom": "Баравік Кэрна",
     "en": "Cairn Bolete",
     "ru": "Каменный гриб",
     "bel": "Каменны грыб",
@@ -10603,7 +10603,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CairnBolete03",
-    "custom": "",
+    "custom": "Баравік Кэрна",
     "en": "Cairn Bolete",
     "ru": "Каменный гриб",
     "bel": "Каменны грыб",
@@ -10612,7 +10612,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CairnBolete04",
-    "custom": "",
+    "custom": "Баравік Кэрна",
     "en": "Cairn Bolete",
     "ru": "Каменный гриб",
     "bel": "Каменны грыб",
@@ -10621,7 +10621,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CairnBoleteCap",
-    "custom": "",
+    "custom": "Капялюшык баравіка Кэрна",
     "en": "Cairn Bolete Cap",
     "ru": "Шляпка каменного гриба",
     "bel": "Капялюшык каменнага грыба",
@@ -10630,7 +10630,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CairnBoleteCluster01",
-    "custom": "",
+    "custom": "Баравік Кэрна",
     "en": "Cairn Bolete",
     "ru": "Каменный гриб",
     "bel": "Каменны грыб",
@@ -10639,7 +10639,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CairnBoleteCluster02",
-    "custom": "",
+    "custom": "Баравік Кэрна",
     "en": "Cairn Bolete",
     "ru": "Каменный гриб",
     "bel": "Каменны грыб",
@@ -10648,7 +10648,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CalcinatorJourneyman",
-    "custom": "",
+    "custom": "Кальцынатар спецыяліста",
     "en": "Journeyman Calcinator",
     "ru": "Кальцинатор специалиста",
     "bel": "Кальцынатар спецыяліста",
@@ -10657,7 +10657,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CalcinatorMaster",
-    "custom": "",
+    "custom": "Кальцынатар майстра",
     "en": "Master Calcinator",
     "ru": "Кальцинатор мастера",
     "bel": "Кальцынатар майстра",
@@ -10666,7 +10666,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Calindil",
-    "custom": "",
+    "custom": "Каліндзіл",
     "en": "Calindil",
     "ru": "Калиндил",
     "bel": "Каліндыл",
@@ -10675,7 +10675,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Callipers01",
-    "custom": "",
+    "custom": "Кронцыркуль",
     "en": "Calipers",
     "ru": "Кронциркуль",
     "bel": "Кронцыркуль",
@@ -10684,7 +10684,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CampAles",
-    "custom": "",
+    "custom": "Лагер Эйлс",
     "en": "Camp Ales",
     "ru": "Лагерь Алес",
     "bel": "Лагер Алес",
@@ -10693,7 +10693,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CampTalltrees",
-    "custom": "",
+    "custom": "Лагер Высокіх дрэў",
     "en": "Camp Talltrees",
     "ru": "Лагерь Talltrees",
     "bel": "Лагер Talltrees",
@@ -10702,7 +10702,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CandiceCorgine",
-    "custom": "",
+    "custom": "Кэндзіс Корджын",
     "en": "Candice Corgine",
     "ru": "Кандис Коржин",
     "bel": "Кандзіс Коржын",
@@ -10711,7 +10711,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Cann",
-    "custom": "",
+    "custom": "Кан",
     "en": "Cann",
     "ru": "Пушка",
     "bel": "Гармата",
@@ -10720,7 +10720,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CannibalConsumption",
-    "custom": "",
+    "custom": "Канібальскае спажыванне",
     "en": "Cannibal Consumption",
     "ru": "Каннибальское потребление",
     "bel": "Канібальскае спажыванне",
@@ -10729,7 +10729,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CapstoneCave",
-    "custom": "",
+    "custom": "Пячора Замкавага каменя",
     "en": "Capstone Cave",
     "ru": "Пещера Замковый Камень",
     "bel": "Пячора Замкавы Камень",
@@ -10738,7 +10738,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CapstoneCave02",
-    "custom": "",
+    "custom": "Вялікая пячора Замкавага каменя",
     "en": "Capstone Great Cavern",
     "ru": "Замковый Камень - Большая каверна",
     "bel": "Замкавы Камень - Вялікая каверна",
@@ -10747,7 +10747,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CaptainBaszonePatneim",
-    "custom": "",
+    "custom": "Капітан Базоне Патнэім",
     "en": "Captain Baszone Patneim",
     "ru": "Капитан Басзон Патнейм",
     "bel": "Капітан Басзон Патнейм",
@@ -10756,7 +10756,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CaptainPatneimKey",
-    "custom": "",
+    "custom": "Ключ капітана Патнэіма",
     "en": "Captain Patneim's Key",
     "ru": "Ключ капитана Патнейма",
     "bel": "Ключ капітана Патнейма",
@@ -10765,7 +10765,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CarmaloTruiand",
-    "custom": "",
+    "custom": "Кармало Труіанд",
     "en": "Carmalo Truiand",
     "ru": "Кармало Труианд",
     "bel": "Кармало Труіанд",
@@ -10774,7 +10774,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CarmenLitte",
-    "custom": "",
+    "custom": "Кармэн Літэ",
     "en": "Carmen Litte",
     "ru": "Кармен Литт",
     "bel": "Кармен Літт",
@@ -10783,7 +10783,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Caroline",
-    "custom": "",
+    "custom": "Караліна",
     "en": "Caroline",
     "ru": "Каролин",
     "bel": "Каралін",
@@ -10792,7 +10792,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CarrotPlant",
-    "custom": "",
+    "custom": "Расліна морквы",
     "en": "Carrot Plant",
     "ru": "Морковь",
     "bel": "Морква",
@@ -10801,7 +10801,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CastleAnvil",
-    "custom": "",
+    "custom": "Замак Анвіл",
     "en": "Castle Anvil",
     "ru": "Замок Anvil",
     "bel": "Замак Anvil",
@@ -10810,7 +10810,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CastleCheydinhal",
-    "custom": "",
+    "custom": "Замак Чэйдзінхол",
     "en": "Castle Cheydinhal",
     "ru": "Замок Чейдинхол",
     "bel": "Замак Чэйдынхол",
@@ -10837,7 +10837,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CastleResidents",
-    "custom": "",
+    "custom": "Жыхары замка",
     "en": "Castle Residents",
     "ru": "Обитатели замка",
     "bel": "Насельнікі замка",
@@ -10846,7 +10846,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CastleSecretLever01",
-    "custom": "",
+    "custom": "Рухомая калона",
     "en": "Movable Pillar",
     "ru": "Передвижная колонна",
     "bel": "Перасоўная калона",
@@ -10855,7 +10855,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CastleSecretLever02",
-    "custom": "",
+    "custom": "Рухомая калона",
     "en": "Movable Pillar",
     "ru": "Передвижная колонна",
     "bel": "Перасоўная калона",
@@ -10864,7 +10864,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CastleSecretLever03",
-    "custom": "",
+    "custom": "Рухомая калона",
     "en": "Movable Pillar",
     "ru": "Передвижная колонна",
     "bel": "Перасоўная калона",
@@ -10873,7 +10873,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CastleSecretLever04",
-    "custom": "",
+    "custom": "Рухомая калона",
     "en": "Movable Pillar",
     "ru": "Передвижная колонна",
     "bel": "Перасоўная калона",
@@ -10882,7 +10882,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CastleVaraldo",
-    "custom": "",
+    "custom": "Унутраныя памяшканні замка Варалдо",
     "en": "Castle Varaldo Interior",
     "ru": "Замок Варалдо - Внутренние помещения",
     "bel": "Замак Варалдо - Унутраныя памяшканні",
@@ -10891,7 +10891,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CatFace",
-    "custom": "",
+    "custom": "Каціная морда",
     "en": "Cat-Face",
     "ru": "Кошачья Морда",
     "bel": "Каціная Морда",
@@ -10900,7 +10900,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CathedralAltar02Arkay",
-    "custom": "",
+    "custom": "Алтар Аркея",
     "en": "Altar of Arkay",
     "ru": "Алтарь Аркея",
     "bel": "Алтар Аркея",
@@ -10909,7 +10909,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CaulaAllectus",
-    "custom": "",
+    "custom": "Каўла Алектус",
     "en": "Caula Allectus",
     "ru": "Каула Аллектус",
     "bel": "Каўла Алектус",
@@ -10918,7 +10918,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Celedaen",
-    "custom": "",
+    "custom": "Селядэн",
     "en": "Celedaen",
     "ru": "Селедэн",
     "bel": "Селядэн",
@@ -10927,7 +10927,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Ceyatatar03",
-    "custom": "",
+    "custom": "Сеятатар Горыхейм",
     "en": "Ceyatatar Gorihame",
     "ru": "Сейататар Горихейм",
     "bel": "Сеятатар Горыхейм",
@@ -10936,7 +10936,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChainmailBoots",
-    "custom": "",
+    "custom": "Кольчужныя боты",
     "en": "Chainmail Boots",
     "ru": "Кольчужные сапоги",
     "bel": "Кольчужныя боты",
@@ -10945,7 +10945,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChainmailCuirass",
-    "custom": "",
+    "custom": "Кольчужная кіраса",
     "en": "Chainmail Cuirass",
     "ru": "Кольчужная кираса",
     "bel": "Кольчужная кіраса",
@@ -10954,7 +10954,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChainmailGauntlets",
-    "custom": "",
+    "custom": "Кольчужныя пальчаткі",
     "en": "Chainmail Gauntlets",
     "ru": "Кольчужные перчатки",
     "bel": "Кольчужныя пальчаткі",
@@ -10963,7 +10963,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChainmailGreaves",
-    "custom": "",
+    "custom": "Кольчужныя понажы",
     "en": "Chainmail Greaves",
     "ru": "Кольчужные поножи",
     "bel": "Кольчужныя нагавіцы",
@@ -10972,7 +10972,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChainmailHelmet",
-    "custom": "",
+    "custom": "Кольчужны шлем",
     "en": "Chainmail Helmet",
     "ru": "Кольчужный шлем",
     "bel": "Кольчужны шлем",
@@ -10981,7 +10981,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChallengeArgonian",
-    "custom": "",
+    "custom": "Выклік аргоніяніна",
     "en": "ChallengeArgonian",
     "ru": "ВызватьArgonian на поединок",
     "bel": "ВыклікArgonian на паядынак",
@@ -10990,7 +10990,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChallengeBreton",
-    "custom": "",
+    "custom": "Выклік брэтона",
     "en": "ChallengeBreton",
     "ru": "ИспытаниеBreton",
     "bel": "ВыпрабаваннеBreton",
@@ -10999,7 +10999,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChallengeDarkElf",
-    "custom": "",
+    "custom": "Выклік цёмнага эльфа",
     "en": "ChallengeDarkElf",
     "ru": "ИспытаниеТёмногоЭльфа",
     "bel": "ВыпрабаваннеЦёмнагаЭльфа",
@@ -11008,7 +11008,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChallengeHighElf",
-    "custom": "",
+    "custom": "Выклік высокага эльфа",
     "en": "ChallengeHighElf",
     "ru": "ИспытаниеВысшегоЭльфа",
     "bel": "ВыпрабаваннеВышэйшагаЭльфа",
@@ -11017,7 +11017,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChallengeImperial",
-    "custom": "",
+    "custom": "Выклік імперца",
     "en": "ChallengeImperial",
     "ru": "ИспытаниеИмперии",
     "bel": "ВыпрабаваннеІмперыі",
@@ -11026,7 +11026,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChallengeKhajiit",
-    "custom": "",
+    "custom": "Выклік каджыта",
     "en": "ChallengeKhajiit",
     "ru": "ВызовKhajiit",
     "bel": "ВыклікKhajiit",
@@ -11035,7 +11035,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChallengeNord",
-    "custom": "",
+    "custom": "Выклік норда",
     "en": "ChallengeNord",
     "ru": "ChallengeNord<cf>испытаниеNord",
     "bel": "ChallengeNord<cf>выпрабаваннеNord",
@@ -11044,7 +11044,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChallengeOrc",
-    "custom": "",
+    "custom": "Выклік орка",
     "en": "ChallengeOrc",
     "ru": "ИспытаниеOrc",
     "bel": "ВыпрабаваннеOrc",
@@ -11053,7 +11053,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChallengeRedguard",
-    "custom": "",
+    "custom": "Выклік рэдгарда",
     "en": "ChallengeRedguard",
     "ru": "ИспытаниеRedguard",
     "bel": "ВыпрабаваннеRedguard",
@@ -11062,7 +11062,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChallengeWoodElf",
-    "custom": "",
+    "custom": "Выклік ляснога эльфа",
     "en": "ChallengeWoodElf",
     "ru": "ВызовЛесногоЭльфа",
     "bel": "ВыклікЛясногаЭльфа",
@@ -11071,7 +11071,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChanaMona",
-    "custom": "",
+    "custom": "Чана Мона",
     "en": "Chana Mona",
     "ru": "Чейна Мона",
     "bel": "Чэйна Мона",
@@ -11080,7 +11080,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CharGenBaurus",
-    "custom": "",
+    "custom": "Стварэнне персанажа: Баўрус",
     "en": "CharGenBaurus",
     "ru": "СозданиеПерсонажаБауруса",
     "bel": "СтварэннеПерсанажаБаўруса",
@@ -11089,7 +11089,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CharGenBlades",
-    "custom": "",
+    "custom": "Стварэнне персанажа: Клінкі",
     "en": "CharGenBlades",
     "ru": "ВыборКлинков",
     "bel": "ВыбарКлінкоў",
@@ -11098,7 +11098,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CharGenEmperor",
-    "custom": "",
+    "custom": "Стварэнне персанажа: Імператар",
     "en": "CharGenEmperor",
     "ru": "CharGenEmperor",
     "bel": "CharGenEmperor",
@@ -11107,7 +11107,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CharGenGlenroy",
-    "custom": "",
+    "custom": "Стварэнне персанажа: Гленрой",
     "en": "CharGenGlenroy",
     "ru": "CharGenGlenroy",
     "bel": "CharGenGlenroy",
@@ -11116,7 +11116,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CharGenGlenroyWarn",
-    "custom": "",
+    "custom": "Сцеражыся, Гленрой",
     "en": "CharGenRenoWarn",
     "ru": "Предупреждение CharGenReno",
     "bel": "Папярэджанне CharGenReno",
@@ -11125,7 +11125,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CharGenMain",
-    "custom": "",
+    "custom": "Стварэнне персанажа: галоўнае",
     "en": "CharGenMain",
     "ru": "CharGenMain",
     "bel": "CharGenMain",
@@ -11134,7 +11134,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CharGenOLD",
-    "custom": "",
+    "custom": "Стварэнне персанажа",
     "en": "CharGen",
     "ru": "Создание персонажа",
     "bel": "Стварэнне персанажа",
@@ -11143,7 +11143,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CharGenPrebenHurry",
-    "custom": "",
+    "custom": "Спяшайся, Прэбен",
     "en": "CharGenPrebenHurry",
     "ru": "Поторапливайся с CharGenPreben.",
     "bel": "Спяшайся з CharGenPreben.",
@@ -11152,7 +11152,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CharGenRenote",
-    "custom": "",
+    "custom": "Стварэнне персанажа: Рэнотэ",
     "en": "CharGenRenote",
     "ru": "Удалённый CharGen",
     "bel": "Аддалены CharGen",
@@ -11161,7 +11161,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CharGenTaunt",
-    "custom": "",
+    "custom": "Здзек пры стварэнні персанажа",
     "en": "CharGenTaunt",
     "ru": "Позерство в CharGen",
     "bel": "Пазёрства ў CharGen",
@@ -11170,7 +11170,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CharGenTaunt2",
-    "custom": "",
+    "custom": "Здзек пры стварэнні персанажа 2",
     "en": "CharGenTaunt2",
     "ru": "Дразнилка при создании персонажа 2",
     "bel": "Дразнілка пры стварэнні персанажа 2",
@@ -11179,7 +11179,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CharGenVoice",
-    "custom": "",
+    "custom": "Голас пры стварэнні персанажа",
     "en": "CharGenVoice",
     "ru": "ВыборГолоса",
     "bel": "ВыбарГоласу",
@@ -11188,7 +11188,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CharcoalCaveKey1Chest",
-    "custom": "",
+    "custom": "Грубы куфар",
     "en": "Rough Chest",
     "ru": "Грубый сундук",
     "bel": "Грубы куфар",
@@ -11197,7 +11197,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChestArcaneUIngredientsUNIQUE",
-    "custom": "",
+    "custom": "Зачараваны куфар",
     "en": "Enchanted Chest",
     "ru": "Волшебный сундук",
     "bel": "Чароўны куфар",
@@ -11215,7 +11215,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChestClarabellaCaptain",
-    "custom": "",
+    "custom": "Куфар капітана Патнэіма",
     "en": "Captain Patneim's Chest",
     "ru": "Сундук капитана Патнейма",
     "bel": "Куфар капітана Патнейма",
@@ -11494,7 +11494,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChestJewelryMiddle01",
-    "custom": "",
+    "custom": "Скрынка для ўпрыгожванняў",
     "en": "Jewelry Box",
     "ru": "Шкатулка для драгоценностей",
     "bel": "Скрыначка для каштоўнасцей",
@@ -11503,7 +11503,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChestJewelryNoble01",
-    "custom": "",
+    "custom": "Скрынка для ўпрыгожванняў",
     "en": "Jewelry Box",
     "ru": "Шкатулка для драгоценностей",
     "bel": "Скрыначка для каштоўнасцей",
@@ -11512,7 +11512,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChestJewelryUndercroft",
-    "custom": "",
+    "custom": "Скрыня ахвяраванняў",
     "en": "Offering Box",
     "ru": "Шкатулка для даров",
     "bel": "Скрыначка для дароў",
@@ -11521,7 +11521,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChestJewelryUpper01",
-    "custom": "",
+    "custom": "Скрынка для ўпрыгожванняў",
     "en": "Jewelry Box",
     "ru": "Шкатулка для драгоценностей",
     "bel": "Скрыначка для каштоўнасцей",
@@ -11548,7 +11548,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChestSkoomaLower01",
-    "custom": "",
+    "custom": "Драўляная скрыня",
     "en": "Wooden Chest",
     "ru": "Деревянный сундук",
     "bel": "Драўляны куфар",
@@ -12043,7 +12043,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChestnutHandy",
-    "custom": "",
+    "custom": "Стайня «Руды конь»",
     "en": "Chestnut Handy Stables",
     "ru": "Конюшни \"Каштановая Работяга\"",
     "bel": "Стайні \"Каштанавая Працаўніца\"",
@@ -12052,7 +12052,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChestnutHandyStables",
-    "custom": "",
+    "custom": "Стайня «Руды конь»",
     "en": "Chestnut Handy Stables",
     "ru": "Каштановые Умелые Конюшни",
     "bel": "Каштанавыя Умелыя Стайні",
@@ -12061,7 +12061,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChestnutHandy_LEVEL0_F",
-    "custom": "",
+    "custom": "Канюх",
     "en": "Stanble Hand",
     "ru": "Твердая рука.",
     "bel": "Цвёрдая рука.",
@@ -12070,7 +12070,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalAbandonedHouseBasement",
-    "custom": "",
+    "custom": "Закінуты падвал",
     "en": "Abandoned Basement",
     "ru": "Заброшенный подвал",
     "bel": "Закінуты склеп",
@@ -12079,7 +12079,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalAldosOthransHouse",
-    "custom": "",
+    "custom": "Дом Алдоса Отрана",
     "en": "Aldos Othran's House",
     "ru": "Дом Алдоса Отрана",
     "bel": "Дом Алдоса Отрана",
@@ -12088,7 +12088,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalBeggars",
-    "custom": "",
+    "custom": "Сяляне і прыгонныя Чэйдзінхола",
     "en": "Cheydinhal Peasants and Serfs",
     "ru": "Крестьяне и крепостные Чейдинхола",
     "bel": "Сяляне і прыгонныя Чэйдынхола",
@@ -12097,7 +12097,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalBlackWatersideStables",
-    "custom": "",
+    "custom": "Чорная прыбярэжная стайня",
     "en": "Black Waterside Stables",
     "ru": "Конюшня \"Прибрежные вороные\"",
     "bel": "Стайня \"Прыбярэжныя крумкачы\"",
@@ -12106,7 +12106,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalBorbasGoodsandStores",
-    "custom": "",
+    "custom": "\"Тавары і крамы Борбы\"",
     "en": "Borba's Goods and Stores",
     "ru": "\"Товары Борбы\"",
     "bel": "\"Тавары Борбы\"",
@@ -12115,7 +12115,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalBorbasGoodsandStoresBasement",
-    "custom": "",
+    "custom": "Падвал \"Тавараў і крам Борбы\"",
     "en": "Borba's Goods and Stores Basement",
     "ru": "\"Товары Борбы\" - Подвал",
     "bel": "\"Тавары Борбы\" - Склеп",
@@ -12124,7 +12124,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalBridgeInn",
-    "custom": "",
+    "custom": "Карчма \"Чэйдзінхольскі мост\"",
     "en": "Cheydinhal Bridge Inn",
     "ru": "Таверна \"Чейдинхольский мост\"",
     "bel": "Карчма \"Чэйдынхольскі мост\"",
@@ -12133,7 +12133,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalBridgeInnBasement",
-    "custom": "",
+    "custom": "Падвал карчмы \"Чэйдзінхольскі мост\"",
     "en": "Cheydinhal Bridge Inn Basement",
     "ru": "Таверна \"Чейдинхольский мост\" - Подвал",
     "bel": "Карчма \"Чэйдынхольскі мост\" - Склеп",
@@ -12142,7 +12142,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalBridgeInnFaction",
-    "custom": "",
+    "custom": "Прыдарожная гасцініца \"Мост Брумы-Чэйдзінхола\"",
     "en": "Bruma Cheydinhal Bridge Inn",
     "ru": "Придорожная гостиница \"Мост Брумы-Чейдинхола\"",
     "bel": "Прыдарожная гасцініца \"Мост Брумы-Чэйдынхола\"",
@@ -12151,7 +12151,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalBridgeInnKey",
-    "custom": "",
+    "custom": "Ключ ад \"Чэйдзінхольскага моста\"",
     "en": "Cheydinhal Bridge Inn Key",
     "ru": "Ключ от \"Чейдинхольского моста\"",
     "bel": "Ключ ад \"Чэйдынхольскага моста\"",
@@ -12160,7 +12160,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalCastle",
-    "custom": "",
+    "custom": "Замак Чэйдынхал",
     "en": "Cheydinhal Castle",
     "ru": "Замок Чейдинхол",
     "bel": "Замак Чэйдынхол",
@@ -12169,7 +12169,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalCastleCountyHall",
-    "custom": "",
+    "custom": "Зала графства ў замку Чэйдзінхол",
     "en": "Cheydinhal Castle County Hall",
     "ru": "Замок Чейдинхол - Большой зал",
     "bel": "Замак Чэйдынхол - Вялікая зала",
@@ -12187,7 +12187,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalCastleExteriorKey",
-    "custom": "",
+    "custom": "Замак Чэйдынхал",
     "en": "Cheydinhal Castle",
     "ru": "Ключ от замка Чейдинхол",
     "bel": "Ключ ад замка Чэйдынхол",
@@ -12196,7 +12196,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalCastleGreatHall",
-    "custom": "",
+    "custom": "Вялікая зала замка Чэйдзінхол",
     "en": "Cheydinhal Castle Great Hall",
     "ru": "Замок Чейдинхол - Большой зал",
     "bel": "Замак Чэйдынхол - Вялікая зала",
@@ -12205,7 +12205,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalCastleGuardBarracks",
-    "custom": "",
+    "custom": "Казарма варты замка Чэйдзінхол",
     "en": "Cheydinhal Castle Guard Barracks",
     "ru": "Замок Чейдинхол - Казармы стражи",
     "bel": "Замак Чэйдынхол - Казармы варты",
@@ -12214,7 +12214,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalCastleInteriorKey",
-    "custom": "",
+    "custom": "Унутраныя памяшканні замка Чэйдзінхол",
     "en": "Cheydinhal Castle Interior",
     "ru": "Внутр. помещения замка Чейдинхол",
     "bel": "Унутр. памяшканні замка Чэйдынхол",
@@ -12223,7 +12223,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalCastleLordsQuarters",
-    "custom": "",
+    "custom": "Асабістыя пакоі графа Чэйдзінхола",
     "en": "Cheydinhal Lords' Private Quarters",
     "ru": "Личные покои графа Чейдинхола",
     "bel": "Асабістыя пакоі графа Чэйдынхола",
@@ -12232,7 +12232,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalCastlePrivateQuarters",
-    "custom": "",
+    "custom": "Прыватныя пакоі ў замку Чэйдзінхол",
     "en": "Cheydinhal Castle Private Quarters",
     "ru": "Замок Чейдинхол - Личные покои",
     "bel": "Замак Чэйдынхол - Асабістыя пакоі",
@@ -12241,7 +12241,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalChapelHall",
-    "custom": "",
+    "custom": "Хол капліцы",
     "en": "Chapel Hall",
     "ru": "Холл часовни",
     "bel": "Хол капліцы",
@@ -12250,7 +12250,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalChapelKey",
-    "custom": "",
+    "custom": "Ключ ад капліцы Чэйдзінхола",
     "en": "Cheydinhal Chapel Key",
     "ru": "Ключ от часовни Чейдинхола",
     "bel": "Ключ ад капліцы Чэйдынхола",
@@ -12259,7 +12259,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalChapelUndercroft",
-    "custom": "",
+    "custom": "Крыпта капліцы",
     "en": "Chapel Undercroft",
     "ru": "Крипта часовни",
     "bel": "Крыпта капліцы",
@@ -12268,7 +12268,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalChapelUndercroftKey",
-    "custom": "",
+    "custom": "Ключ ад крыпты капліцы Аркея",
     "en": "Arkay Chapel Undercroft Key",
     "ru": "Ключ от крипты часовни Аркея",
     "bel": "Ключ ад крыпты капліцы Аркея",
@@ -12277,7 +12277,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalCityDoor01",
-    "custom": "",
+    "custom": "Дзверы ў Чэйдзінхол",
     "en": "Cheydinhal City Door",
     "ru": "Дверь в Чейдинхол",
     "bel": "Дзверы ў Чэйдынхол",
@@ -12286,7 +12286,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalCorruptGuardsFactionMS10",
-    "custom": "",
+    "custom": "Стражнікі Чэйдзінхола",
     "en": "Cheydinhal Guards",
     "ru": "Стража Чейдинхола",
     "bel": "Варта Чэйдынхола",
@@ -12295,7 +12295,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalDoor01A",
-    "custom": "",
+    "custom": "Забітыя дошкамі дзверы",
     "en": "Boarded Up Door",
     "ru": "Заколоченная дверь",
     "bel": "Забітыя дошкамі дзверы",
@@ -12304,7 +12304,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalDungeonKey",
-    "custom": "",
+    "custom": "Ключ ад цямніцы Чэйдзінхола",
     "en": "Cheydinhal Dungeon Key",
     "ru": "Ключ от темницы Чейдинхола",
     "bel": "Ключ ад цямніцы Чэйдынхола",
@@ -12313,7 +12313,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalEastGate",
-    "custom": "",
+    "custom": "Чэйдзінхол - Усходняя брама",
     "en": "Cheydinhal - East Gate",
     "ru": "Чейдинхол — Восточные врата",
     "bel": "Чэйдынхол — Усходнія вароты",
@@ -12322,7 +12322,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalFaction",
-    "custom": "",
+    "custom": "Жыхары Чэйдзінхола",
     "en": "Cheydinhal Citizens",
     "ru": "Жители Чейдинхола",
     "bel": "Жыхары Чэйдынхола",
@@ -12331,7 +12331,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalFightersGuild",
-    "custom": "",
+    "custom": "Гільдыя байцоў Чэйдзінхола",
     "en": "Cheydinhal Fighter's Guild",
     "ru": "Гильдия бойцов Чейдинхола",
     "bel": "Гільдыя байцоў Чэйдынхола",
@@ -12340,7 +12340,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalFightersGuildBasement",
-    "custom": "",
+    "custom": "Падвал гільдыі байцоў Чэйдзінхола",
     "en": "Cheydinhal Fighters Guild Basement",
     "ru": "Гильдия бойцов Чейдинхола - Подвал",
     "bel": "Гільдыя байцоў Чэйдынхола - Склеп",
@@ -12349,7 +12349,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalGharzHouse",
-    "custom": "",
+    "custom": "Дом Базура гро-Гарза",
     "en": "Bazur Gro-Gharz's House",
     "ru": "Дом Базур гро-Гарза",
     "bel": "Дом Базур гро-Гарза",
@@ -12538,7 +12538,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalGuardFaction",
-    "custom": "",
+    "custom": "Стражнікі Чэйдзінхола",
     "en": "Cheydinhal Guards",
     "ru": "Стража Чейдинхола",
     "bel": "Варта Чэйдынхола",
@@ -12547,7 +12547,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalGuardJailorDay",
-    "custom": "",
+    "custom": "Турэмшчык Чэйдзінхола",
     "en": "Cheydinhal Jailor",
     "ru": "Тюремщик Чейдинхола",
     "bel": "Турэмшчык Чэйдынхола",
@@ -12556,7 +12556,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalGuardJailorNight",
-    "custom": "",
+    "custom": "Турэмшчык Чэйдзінхола",
     "en": "Cheydinhal Jailor",
     "ru": "Тюремщик Чейдинхола",
     "bel": "Турэмшчык Чэйдынхола",
@@ -12565,7 +12565,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalKnightsBasement",
-    "custom": "",
+    "custom": "Падвал Рыцараў Шыпа",
     "en": "Knights of the Thorn Basement",
     "ru": "Рыцари Колючки - Подвал",
     "bel": "Рыцары Калючкі - Склеп",
@@ -12574,7 +12574,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalKnightsoftheThorn",
-    "custom": "",
+    "custom": "Штаб-кватэра Рыцараў Шыпа",
     "en": "Knights of the Thorn Headquarters",
     "ru": "Штаб-квартира рыцарей Колючки",
     "bel": "Штаб-кватэра рыцараў Калючкі",
@@ -12583,7 +12583,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalLlevanaNedarensBasement",
-    "custom": "",
+    "custom": "Падвал дома Ллеваны Недарэн",
     "en": "Llevana Nedarens House Basement",
     "ru": "Дом Ллеваны Недарен - Подвал",
     "bel": "Дом Ллеваны Недарэн - Склеп",
@@ -12592,7 +12592,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalMachNasBooks",
-    "custom": "",
+    "custom": "\"Кнігі Мах-На\"",
     "en": "Mach-Na's Books",
     "ru": "\"Книги Мак-На\"",
     "bel": "\"Кнігі Мак-На\"",
@@ -12601,7 +12601,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalMagesGuild",
-    "custom": "",
+    "custom": "Гільдыя магаў Чэйдзінхола",
     "en": "Cheydinhal Mages Guild",
     "ru": "Гильдия магов Чейдинхола",
     "bel": "Гільдыя магаў Чэйдынхола",
@@ -12610,7 +12610,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalMagesGuildBasement",
-    "custom": "",
+    "custom": "Падвал Гільдыі магаў",
     "en": "Mages Guild Basement",
     "ru": "Гильдия магов - Подвал",
     "bel": "Гільдыя магаў - Склеп",
@@ -12619,7 +12619,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalNQDQuestionResponses",
-    "custom": "",
+    "custom": "Адказы на пытанні NQD Чэйдзінхола",
     "en": "CheydinhalNQDQuestionResponses",
     "ru": "Ответы на вопросы CheydinhalNQD.",
     "bel": "Адказы на пытанні CheydinhalNQD.",
@@ -12628,7 +12628,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalNQDResponses",
-    "custom": "",
+    "custom": "Адказы NQD Чэйдзінхола",
     "en": "CheydinhalNQDResponses",
     "ru": "Ответы CheydinhalNQD.",
     "bel": "Адказы CheydinhalNQD.",
@@ -12637,7 +12637,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalNewlandsLodge",
-    "custom": "",
+    "custom": "Заезны двор \"Новыя землі\"",
     "en": "Newlands Lodge",
     "ru": "Постоялый двор \"Новые земли\"",
     "bel": "Заезны двор \"Новыя землі\"",
@@ -12646,7 +12646,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalOhtimbarsHouse",
-    "custom": "",
+    "custom": "Дом Оцімбара",
     "en": "Ohtimbar's House",
     "ru": "Дом Отимбара",
     "bel": "Дом Отымбара",
@@ -12655,7 +12655,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalOrumHouse",
-    "custom": "",
+    "custom": "Дом Магрума гра-Орума",
     "en": "Magrum gra-Orum's House",
     "ru": "Дом Магуба гро-Орума",
     "bel": "Дом Магуба гро-Орума",
@@ -12664,7 +12664,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalOrumHouseBasement",
-    "custom": "",
+    "custom": "Падвал Магрума гра-Орума",
     "en": "Magrum gra-Orum's Basement",
     "ru": "Дом Магуба гро-Орума - Подвал",
     "bel": "Дом Магуба гро-Орума - Склеп",
@@ -12673,7 +12673,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalRiverview",
-    "custom": "",
+    "custom": "Рачны від",
     "en": "Riverview",
     "ru": "Риверсайд",
     "bel": "Рыверсайд",
@@ -12682,7 +12682,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalRiverviewBasement",
-    "custom": "",
+    "custom": "Падвал Рачнога віду",
     "en": "Riverview Basement",
     "ru": "Риверсайд - Подвал",
     "bel": "Рыверсайд - Склеп",
@@ -12691,7 +12691,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalRythesBasement",
-    "custom": "",
+    "custom": "Падвал Рытэ Літандаса",
     "en": "Rythe Lythandas's Basement",
     "ru": "Подвал Райта Литандаса",
     "bel": "Склеп Райта Літандаса",
@@ -12700,7 +12700,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalRythesHouse",
-    "custom": "",
+    "custom": "Дом Рытэ Літандаса",
     "en": "Rythe Lythandas's House",
     "ru": "Дом Райта Литандаса",
     "bel": "Дом Райта Літандаса",
@@ -12709,7 +12709,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalSanctuary",
-    "custom": "",
+    "custom": "Прытулак Цёмнага Братэрства",
     "en": "Dark Brotherhood Sanctuary",
     "ru": "Убежище Темного Братства",
     "bel": "Прытулак Цёмнага Брацтва",
@@ -12718,7 +12718,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalSanctuaryQuarters",
-    "custom": "",
+    "custom": "Жылыя памяшканні Цёмнага Братэрства",
     "en": "Dark Brotherhood Living Quarters",
     "ru": "Темное Братство - Жилые помещения",
     "bel": "Цёмнае Брацтва - Жылыя памяшканні",
@@ -12727,7 +12727,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalSanctuaryTrainingRoom",
-    "custom": "",
+    "custom": "Трэніровачны пакой Цёмнага Братэрства",
     "en": "Dark Brotherhood Training Room",
     "ru": "Темное Братство - Тренировочный зал",
     "bel": "Цёмнае Брацтва - Трэніровачная зала",
@@ -12745,7 +12745,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalStableDUPLICATE000",
-    "custom": "",
+    "custom": "Стайня Чэйдзінхола",
     "en": "Cheydinhal Stable",
     "ru": "Конюшня Чейдинхола",
     "bel": "Стайня Чэйдынхола",
@@ -12754,7 +12754,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalStables",
-    "custom": "",
+    "custom": "Стайні Чэйдзінхола",
     "en": "Cheydinhal Stables",
     "ru": "Конюшни Чейдинхола",
     "bel": "Стайні Чэйдынхола",
@@ -12763,7 +12763,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalTheMarchRider",
-    "custom": "",
+    "custom": "\"Вершнік сакавіка\"",
     "en": "The March Rider",
     "ru": "\"Все для победы\"",
     "bel": "\"Усё для перамогі\"",
@@ -12772,7 +12772,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalTopic",
-    "custom": "",
+    "custom": "Чэйдынхал",
     "en": "Cheydinhal",
     "ru": "Чейдинхол",
     "bel": "Чэйдынхол",
@@ -12781,7 +12781,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalTopicBorba01",
-    "custom": "",
+    "custom": "Што тут да чаго?",
     "en": "Lay of the land?",
     "ru": "Что тут к чему?",
     "bel": "Што тут да чаго?",
@@ -12790,7 +12790,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalTopicBorba02",
-    "custom": "",
+    "custom": "Верагодныя кандыдаты?",
     "en": "Likely prospects?",
     "ru": "Вероятные кандидаты?",
     "bel": "Верагодныя кандыдаты?",
@@ -12799,7 +12799,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalTopicBorba04",
-    "custom": "",
+    "custom": "Даэдрычныя святыні",
     "en": "Daedric shrines",
     "ru": "Даэдрические святилища",
     "bel": "Даэдрычныя святыні",
@@ -12808,7 +12808,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalTopicDervera01",
-    "custom": "",
+    "custom": "Раскажыце мне пра Чэйдзінхол.",
     "en": "Tell me about Cheydinhal.",
     "ru": "Расскажи мне о Cheydinhal'е.",
     "bel": "Раскажы мне пра Чэйдынхал.",
@@ -12817,7 +12817,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalTopicDervera02",
-    "custom": "",
+    "custom": "Раскажыце мне пра трэнераў.",
     "en": "Tell me about trainers.",
     "ru": "Расскажи мне о тренерах.",
     "bel": "Раскажы мне пра трэнераў.",
@@ -12826,7 +12826,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalTopicDervera03",
-    "custom": "",
+    "custom": "Раскажыце мне пра магчымасці.",
     "en": "Tell me about opportunities.",
     "ru": "Расскажи мне о возможностях.",
     "bel": "Раскажы мне пра магчымасці.",
@@ -12835,7 +12835,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalTopicMach01",
-    "custom": "",
+    "custom": "Культура Чэйдзінхола?",
     "en": "Cheydinhal's culture?",
     "ru": "Культура Чейдинхола?",
     "bel": "Культура Чэйдынхола?",
@@ -12844,7 +12844,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalTopicMach02",
-    "custom": "",
+    "custom": "Персанажы Чэйдзінхола?",
     "en": "Cheydinhal's characters?",
     "ru": "Персонажи Cheydinhal'а?",
     "bel": "Персанажы Чэйдынхола?",
@@ -12853,7 +12853,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalTopicMach03",
-    "custom": "",
+    "custom": "Таямніцы Чэйдзінхола?",
     "en": "Cheydinhal's mysteries?",
     "ru": "Тайны Чейдинхола?",
     "bel": "Тайны Чэйдынхола?",
@@ -12862,7 +12862,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalTopicMariana02",
-    "custom": "",
+    "custom": "Мясцовыя знакамітасці?",
     "en": "Local notables?",
     "ru": "Местные шишки?",
     "bel": "Мясцовыя шышкі?",
@@ -12871,7 +12871,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalTopicMariana03",
-    "custom": "",
+    "custom": "Мясцовыя таямніцы?",
     "en": "Local mysteries?",
     "ru": "Местные тайны?",
     "bel": "Мясцовыя тайны?",
@@ -12880,7 +12880,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalWestGate",
-    "custom": "",
+    "custom": "Чэйдзінхол - Заходняя брама",
     "en": "Cheydinhal - West Gate",
     "ru": "Чейдинхол — Западные врата",
     "bel": "Чэйдынхол — Заходнія вароты",
@@ -12889,7 +12889,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalWillowBank",
-    "custom": "",
+    "custom": "Вярбовы бераг",
     "en": "Willow Bank",
     "ru": "Ивовый берег",
     "bel": "Вербавы бераг",
@@ -12898,7 +12898,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalWillowBankBasement",
-    "custom": "",
+    "custom": "Падвал «Вярбовага берага»",
     "en": "Willow Bank Basement",
     "ru": "Ивовый берег - Подвал",
     "bel": "Вербавы бераг - Склеп",
@@ -12907,7 +12907,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CheydinhalWorld",
-    "custom": "",
+    "custom": "Чэйдынхал",
     "en": "Cheydinhal",
     "ru": "Чейдинхол",
     "bel": "Чэйдынхол",
@@ -12979,7 +12979,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolBeggars",
-    "custom": "",
+    "custom": "Жабракі Корала",
     "en": "Жабракі Корала",
     "ru": "Хоррольские нищие",
     "bel": "Чоррольскія жабракі",
@@ -13024,7 +13024,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolCastleFaction",
-    "custom": "",
+    "custom": "Фракцыя замка Корал",
     "en": "ChorrolCastleFaction",
     "ru": "Фракция Замка Чоррол",
     "bel": "Фракцыя Замка Чоррол",
@@ -13033,7 +13033,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolCastleGreatHall",
-    "custom": "",
+    "custom": "Вялікая зала замка Корал",
     "en": "Castle Chorrol Great Hall",
     "ru": "Замок Коррол - Большой зал",
     "bel": "Замак Коррол - Вялікая зала",
@@ -13042,7 +13042,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolCastlePQKey",
-    "custom": "",
+    "custom": "Прыватная зона замка Корал",
     "en": "Chorrol Castle Private Area",
     "ru": "Внутр. помещения замка Коррол",
     "bel": "Унутр. памяшканні замка Коррол",
@@ -13051,7 +13051,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolCastlePrivateQuarters",
-    "custom": "",
+    "custom": "Прыватныя пакоі замка Корал",
     "en": "Castle Chorrol Private Quarters",
     "ru": "Замок Коррола - Личные покои",
     "bel": "Замак Коррола - Асабістыя пакоі",
@@ -13060,7 +13060,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolCastlePrivateQuarters02",
-    "custom": "",
+    "custom": "Прыватныя пакоі замка Корал",
     "en": "Castle Chorrol Private Quarters",
     "ru": "Замок Коррол - Личные покои",
     "bel": "Замак Коррол - Асабістыя пакоі",
@@ -13069,7 +13069,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolCastleTowerBL",
-    "custom": "",
+    "custom": "Заходняя вежа замка Корал",
     "en": "Castle Chorrol West Tower",
     "ru": "Замок Коррол - Западная башня",
     "bel": "Замак Коррол - Заходняя вежа",
@@ -13078,7 +13078,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolCastleTowerBL2",
-    "custom": "",
+    "custom": "Вежа аркі замка Корал",
     "en": "Castle Chorrol Arch Tower",
     "ru": "Замок Коррол - Главная башня",
     "bel": "Замак Коррол - Галоўная вежа",
@@ -13087,7 +13087,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolCastleTowerBR",
-    "custom": "",
+    "custom": "Паўночная вежа замка Корал",
     "en": "Castle Chorrol North Tower",
     "ru": "Замок Коррол - Северная башня",
     "bel": "Замак Коррол - Паўночная вежа",
@@ -13096,7 +13096,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolCastleTowerFL",
-    "custom": "",
+    "custom": "Паўднёвая вежа замка Корал",
     "en": "Castle Chorrol South Tower",
     "ru": "Замок Коррол - Южная башня",
     "bel": "Замак Коррол - Паўднёвая вежа",
@@ -13105,7 +13105,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolCastleTowerFR",
-    "custom": "",
+    "custom": "Усходняя вежа замка Корал",
     "en": "Castle Chorrol East Tower",
     "ru": "Замок Коррол - Восточная башня",
     "bel": "Замак Коррол - Усходняя вежа",
@@ -13114,7 +13114,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolCastleTowerR1",
-    "custom": "",
+    "custom": "Паўночны від на сцяну замка Корал",
     "en": "Castle Chorrol Wall Tower North View",
     "ru": "Замок Коррол - наблюдательная башня (север)",
     "bel": "Замак Коррол - наглядальная вежа (поўнач)",
@@ -13123,7 +13123,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolCastleTowerR2",
-    "custom": "",
+    "custom": "Усходні від на сцяну замка Корал",
     "en": "Castle Chorrol Wall Tower East View",
     "ru": "Замок Коррол - Наблюдательная башня (восток)",
     "bel": "Замак Коррол - Наглядальная вежа (усход)",
@@ -13132,7 +13132,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolCastleWallTowerNE",
-    "custom": "",
+    "custom": "Паўночна-ўсходняя наглядальная вежа",
     "en": "Northeast Wall Tower",
     "ru": "Северо-восточная наблюдательная башня",
     "bel": "Паўночна-ўсходняя наглядальная вежа",
@@ -13141,7 +13141,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolCastleWallTowerNW",
-    "custom": "",
+    "custom": "Паўночна-заходняя наглядальная вежа",
     "en": "Northwest Wall Tower",
     "ru": "Северо-западная наблюдательная башня",
     "bel": "Паўночна-заходняя наглядальная вежа",
@@ -13150,7 +13150,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolCastleWallTowerSE",
-    "custom": "",
+    "custom": "Паўднёва-ўсходняя наглядальная вежа",
     "en": "Southeast Wall Tower",
     "ru": "Юго-восточная наблюдательная башня",
     "bel": "Паўднёва-ўсходняя наглядальная вежа",
@@ -13159,7 +13159,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolCastleWallTowerSW",
-    "custom": "",
+    "custom": "Паўднёва-заходняя наглядальная вежа",
     "en": "Southwest Wall Tower",
     "ru": "ЮЗ наблюдательная башня",
     "bel": "Паўднёва-заходняя наглядальная вежа",
@@ -13177,7 +13177,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolChapelHall",
-    "custom": "",
+    "custom": "Хол капліцы",
     "en": "Chapel Hall",
     "ru": "Холл часовни",
     "bel": "Хол капліцы",
@@ -13186,7 +13186,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolChapelUndercroft",
-    "custom": "",
+    "custom": "Крыпта капліцы",
     "en": "Chapel Undercroft",
     "ru": "Крипта часовни",
     "bel": "Крыпта капліцы",
@@ -13195,7 +13195,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolDungeonKey",
-    "custom": "",
+    "custom": "Ключ ад падзямелля Корала",
     "en": "Chorrol Dungeon Key",
     "ru": "Ключ от темницы Коррола",
     "bel": "Ключ ад падзямелля Корола",
@@ -13204,7 +13204,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolEugalBelettesBasement",
-    "custom": "",
+    "custom": "Падвал Эгала Белета",
     "en": "Eugal Belette's Basement",
     "ru": "Подвал Эугала Белетта",
     "bel": "Падвал Эўгала Белета",
@@ -13213,7 +13213,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolEugalBelettesHouse",
-    "custom": "",
+    "custom": "Дом Эгала Белета",
     "en": "Eugal Belette's House",
     "ru": "Дом Эугала Белетта",
     "bel": "Дом Эўгала Белета",
@@ -13222,7 +13222,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolExt",
-    "custom": "",
+    "custom": "Экстэр'еры Корала",
     "en": "Chorrol Exteriors",
     "ru": "Окрестности Chorrol",
     "bel": "Наваколлі Chorrol",
@@ -13231,7 +13231,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolFaction",
-    "custom": "",
+    "custom": "Жыхар Корала",
     "en": "Chorrol Citizen",
     "ru": "Житель Chorrol",
     "bel": "Жыхар Chorrol",
@@ -13240,7 +13240,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolFightersGuild",
-    "custom": "",
+    "custom": "Гільдыя байцоў",
     "en": "Fighters Guild",
     "ru": "Гильдия бойцов Коррола",
     "bel": "Гільдыя байцоў Корола",
@@ -13249,7 +13249,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolFightersGuildBasement",
-    "custom": "",
+    "custom": "Падвал Гільдыі байцоў Корала",
     "en": "Chorrol Fighters Guild Basement",
     "ru": "Гильдия бойцов Коррола - Подвал",
     "bel": "Гільдыя байцоў Корола - Падвал",
@@ -13258,7 +13258,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolFightersGuildTower",
-    "custom": "",
+    "custom": "Вежа Гільдыі байцоў Корала",
     "en": "Chorrol Fighters Guild Tower",
     "ru": "Гильдия бойцов Коррола - Башня",
     "bel": "Гільдыя байцоў Корола - Вежа",
@@ -13267,7 +13267,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolFireAndSteel",
-    "custom": "",
+    "custom": "\"Агонь і сталь\"",
     "en": "Fire and Steel",
     "ru": "\"Огонь и сталь\"",
     "bel": "\"Агонь і сталь\"",
@@ -13276,7 +13276,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolGateBRandBL",
-    "custom": "",
+    "custom": "Вежа брамы замка Корал",
     "en": "Chorrol Castle Gate Tower",
     "ru": "Замок Коррол - Привратная башня",
     "bel": "Замак Корол - Прыбрамная вежа",
@@ -13312,7 +13312,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolGuardJailorDay",
-    "custom": "",
+    "custom": "Турэмшчык Корала",
     "en": "Chorrol Jailor",
     "ru": "Тюремщик Коррола",
     "bel": "Турэмшчык Корола",
@@ -13321,7 +13321,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolGuardJailorNight",
-    "custom": "",
+    "custom": "Турэмшчык Корала",
     "en": "Chorrol Jailor",
     "ru": "Тюремщик Коррола",
     "bel": "Турэмшчык Корола",
@@ -13483,7 +13483,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolHonditarsHouse",
-    "custom": "",
+    "custom": "Дом Хондзітара",
     "en": "Honditar's House",
     "ru": "Дом Хондитара",
     "bel": "Дом Хондытара",
@@ -13492,7 +13492,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolHouseForSale2floor",
-    "custom": "",
+    "custom": "Спальні Арбарвотч",
     "en": "Arborwatch Bedrooms",
     "ru": "Арборвотч - Спальни",
     "bel": "Арбарвотч - Спальні",
@@ -13501,7 +13501,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolHouseForSale3floor",
-    "custom": "",
+    "custom": "Пакой гаспадара Арбарвотч",
     "en": "Arborwatch Suite",
     "ru": "Арборвотч - Комната хозяина",
     "bel": "Арбарвотч - Пакой гаспадара",
@@ -13510,7 +13510,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolJailKey",
-    "custom": "",
+    "custom": "Ключ ад турмы Корала",
     "en": "Chorrol Jail Key",
     "ru": "Ключ от тюрьмы Коррола",
     "bel": "Ключ ад турмы Корола",
@@ -13519,7 +13519,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolJirolinDoransBasement",
-    "custom": "",
+    "custom": "Падвал Джыроліна Дорана",
     "en": "Jirolin Doran's Basement",
     "ru": "Подвал Джиролина Дорана",
     "bel": "Падвал Джыроліна Дарана",
@@ -13528,7 +13528,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolJirolinDoransHouse",
-    "custom": "",
+    "custom": "Дом Джыроліна Дорана",
     "en": "Jirolin Doran's House",
     "ru": "Дом Джиролина Дорана",
     "bel": "Дом Джыроліна Дарана",
@@ -13537,7 +13537,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolMagesGuild",
-    "custom": "",
+    "custom": "Гільдыя магаў Корала",
     "en": "Chorrol Mages Guild",
     "ru": "Гильдия магов Коррола",
     "bel": "Гільдыя магаў Корола",
@@ -13546,7 +13546,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolMagesGuildBasement",
-    "custom": "",
+    "custom": "Падвал Гільдыі магаў",
     "en": "Mages Guild Basement",
     "ru": "Гильдия магов - Подвал",
     "bel": "Гільдыя магаў - Падвал",
@@ -13555,7 +13555,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolMagesGuildLibrary",
-    "custom": "",
+    "custom": "Бібліятэка Гільдыі магаў",
     "en": "Mages Guild Library",
     "ru": "Гильдия магов - Библиотека",
     "bel": "Гільдыя магаў - Бібліятэка",
@@ -13564,7 +13564,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolMagesGuildLivingQuarters",
-    "custom": "",
+    "custom": "Жылыя памяшканні Гільдыі магаў",
     "en": "Mages Guild Living Quarters",
     "ru": "Гильдия магов - Жилые помещения",
     "bel": "Гільдыя магаў - Жылыя памяшканні",
@@ -13573,7 +13573,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolMalintusAncrusHouse",
-    "custom": "",
+    "custom": "Дом Малінтуса Анкруса",
     "en": "Malintus Ancrus' House",
     "ru": "Дом Малинтуса Анкруса",
     "bel": "Дом Малінтуса Анкруса",
@@ -13582,7 +13582,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolMarkTest",
-    "custom": "",
+    "custom": "Метка Тэст",
     "en": "MarkTest",
     "ru": "МеткаТест",
     "bel": "МеткаТэст",
@@ -13591,7 +13591,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolModrynOreynsHouse",
-    "custom": "",
+    "custom": "Дом Модрына Арэйна",
     "en": "Modryn Oreyn's House",
     "ru": "Дом Модрина Орейна",
     "bel": "Дом Модрына Арэйна",
@@ -13600,7 +13600,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolNQDQuestionResponses",
-    "custom": "",
+    "custom": "Адказы на пытанні NQD Корала",
     "en": "ChorrolNQDQuestionResponses",
     "ru": "Реплики вопросов в ChorrolNQD.",
     "bel": "Рэплікі пытанняў у ChorrolNQD.",
@@ -13609,7 +13609,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolNQDResponses",
-    "custom": "",
+    "custom": "Адказы NQD Корала",
     "en": "ChorrolNQDResponses",
     "ru": "Ответы ЧорролаNQD",
     "bel": "Адказы ЧоролаNQD",
@@ -13618,7 +13618,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolNorthCountryStables",
-    "custom": "",
+    "custom": "Паўночныя стайні",
     "en": "North Country Stables",
     "ru": "Конюшня \"Северная страна\"",
     "bel": "Стайня \"Паўночная краіна\"",
@@ -13636,7 +13636,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolNorthernGoodsAndTrade",
-    "custom": "",
+    "custom": "\"Паўночныя тавары і гандаль\"",
     "en": "Northern Goods and Trade",
     "ru": "\"Северные товары\"",
     "bel": "\"Паўночныя тавары\"",
@@ -13645,7 +13645,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolRenoitsBooks",
-    "custom": "",
+    "custom": "\"Кнігі Рэноіта\"",
     "en": "Renoit's Books",
     "ru": "\"Книги Ренуа\"",
     "bel": "\"Кнігі Рэнуа\"",
@@ -13654,7 +13654,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolRimalusBruiantsBasement",
-    "custom": "",
+    "custom": "Падвал Рымалуса Бруіанта",
     "en": "Rimalus Bruiant's Basement",
     "ru": "Подвал Рималуса Бруйанта",
     "bel": "Падвал Рымалуса Бруянта",
@@ -13663,7 +13663,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolRimalusBruiantsHouse",
-    "custom": "",
+    "custom": "Дом Рымалуса Бруіанта",
     "en": "Rimalus Bruiant's House",
     "ru": "Дом Рималуса Бруйанта",
     "bel": "Дом Рымалуса Бруянта",
@@ -13681,7 +13681,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolStable",
-    "custom": "",
+    "custom": "Стайні Корала",
     "en": "Chorrol Stables",
     "ru": "Конюшни Chorrol",
     "bel": "Стайні Chorrol",
@@ -13690,7 +13690,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolStables",
-    "custom": "",
+    "custom": "Стайні Корала",
     "en": "Chorrol Stables",
     "ru": "Конюшни Chorrol",
     "bel": "Стайні Chorrol",
@@ -13699,7 +13699,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolTheGreyMare",
-    "custom": "",
+    "custom": "\"Шэрая кабыла\"",
     "en": "The Grey Mare",
     "ru": "\"Серая кобыла\"",
     "bel": "\"Шэрая кабыла\"",
@@ -13708,7 +13708,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolTheOakandCrosierCelllar",
-    "custom": "",
+    "custom": "Падвал \"Дуба і кія\"",
     "en": "The Oak and Crosier Cellar",
     "ru": "\"Дуб и патерица\" - Погреб",
     "bel": "\"Дуб і кій\" - Паграбок",
@@ -13717,7 +13717,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolTheOakandCrosierTavern",
-    "custom": "",
+    "custom": "\"Дуб і кій\"",
     "en": "The Oak and Crosier",
     "ru": "\"Дуб и патерица\"",
     "bel": "\"Дуб і кій\"",
@@ -13726,7 +13726,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolTopic",
-    "custom": "",
+    "custom": "Корал",
     "en": "Chorrol",
     "ru": "Коррол",
     "bel": "Корол",
@@ -13735,7 +13735,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolUndercroftKey",
-    "custom": "",
+    "custom": "Ключ ад крыпты капліцы Корала",
     "en": "Chorrol Chapel Undercroft Key",
     "ru": "Ключ от крипты часовни Коррола",
     "bel": "Ключ ад склепа капліцы Корола",
@@ -13744,7 +13744,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolValusOdiilsHouse",
-    "custom": "",
+    "custom": "Дом Валуса Одзііла",
     "en": "Valus Odiil's House",
     "ru": "Дом Валуса Одила",
     "bel": "Дом Валуса Адыла",
@@ -13753,7 +13753,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolVilenaDontonsHouse",
-    "custom": "",
+    "custom": "Дом Вілены Дантон",
     "en": "Vilena Donton's House",
     "ru": "Дом Вилены Донтон",
     "bel": "Дом Вілены Донтан",
@@ -13762,7 +13762,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolVilenaDontonsQuarters",
-    "custom": "",
+    "custom": "Трэці паверх дома Вілены Дантон",
     "en": "Vilena Donton's House Third Floor",
     "ru": "Дом Вилены Донтон - Третий этаж",
     "bel": "Дом Вілены Донтан - Трэці паверх",
@@ -13771,7 +13771,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolVilenaDontonsUpstairs",
-    "custom": "",
+    "custom": "Другі паверх дома Вілены Дантон",
     "en": "Vilena Donton's House Second Floor",
     "ru": "Дом Вилены Донтон - Второй этаж",
     "bel": "Дом Вілены Донтан - Другі паверх",
@@ -13780,7 +13780,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ChorrolWorld",
-    "custom": "",
+    "custom": "Корал",
     "en": "Chorrol",
     "ru": "Коррол",
     "bel": "Корол",
@@ -13789,7 +13789,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Ciindil",
-    "custom": "",
+    "custom": "Сіндзіл",
     "en": "Ciindil",
     "ru": "Синдил",
     "bel": "Сіндзіл",
@@ -13798,7 +13798,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Cingaer",
-    "custom": "",
+    "custom": "Сінгаер",
     "en": "Cingaer",
     "ru": "Сингэр",
     "bel": "Сінгэр",
@@ -13807,7 +13807,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CinnabarPolyporeCap01",
-    "custom": "",
+    "custom": "Кінабаравы паліпор, жоўтая шапка",
     "en": "Cinnabar Polypore Yellow Cap",
     "ru": "Шляпка желтого пикнопоруса",
     "bel": "Шапка жоўтага пікнапоруса",
@@ -13816,7 +13816,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CinnabarPolyporeCap02",
-    "custom": "",
+    "custom": "Кінабаравы паліпор, чырвоная шапка",
     "en": "Cinnabar Polypore Red Cap",
     "ru": "Шляпка красного пикнопоруса",
     "bel": "Шапка чырвонага пікнапоруса",
@@ -13825,7 +13825,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Cirroc",
-    "custom": "",
+    "custom": "Сірок",
     "en": "Cirroc",
     "ru": "Сиррок",
     "bel": "Сіррок",
@@ -13834,7 +13834,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CitadelDomeDoor",
-    "custom": "",
+    "custom": "Страчаная цытадэль",
     "en": "The Lost Citadel",
     "ru": "Забытая цитадель",
     "bel": "Забытая цытадэль",
@@ -13843,7 +13843,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CitadelHallDoor01Anim",
-    "custom": "",
+    "custom": "Дзверы ў залу цытадэлі",
     "en": "Citadel Hall Door",
     "ru": "Дверь в зал цитадели",
     "bel": "Дзверы ў залу цытадэлі",
@@ -13852,7 +13852,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CitySignsCheydinhal",
-    "custom": "",
+    "custom": "Чэйдынхал",
     "en": "Cheydinhal",
     "ru": "Чейдинхол",
     "bel": "Чэйдынхол",
@@ -13861,7 +13861,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CitySignsChorrol",
-    "custom": "",
+    "custom": "Корал",
     "en": "Chorrol",
     "ru": "Коррол",
     "bel": "Корол",
@@ -13870,7 +13870,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CitySignsLeyawiin",
-    "custom": "",
+    "custom": "Лейавін",
     "en": "Leyawiin",
     "ru": "Лейавин",
     "bel": "Лейавін",
@@ -13879,7 +13879,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CitySwimmer",
-    "custom": "",
+    "custom": "Гарадскі плывун",
     "en": "City-Swimmer",
     "ru": "Городская Пловчиха",
     "bel": "Гарадская Плывуння",
@@ -13888,7 +13888,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CitySwimmerKey",
-    "custom": "",
+    "custom": "Ключ Гарадскога плывуна",
     "en": "City-Swimmer's Key",
     "ru": "Ключ Городской Пловчихи",
     "bel": "Ключ Гарадской Плывунні",
@@ -13897,7 +13897,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Clams01",
-    "custom": "",
+    "custom": "Ракушкі",
     "en": "Clams",
     "ru": "Ракушка",
     "bel": "Ракушка",
@@ -13906,7 +13906,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Clams02",
-    "custom": "",
+    "custom": "Ракушкі",
     "en": "Clams",
     "ru": "Ракушка",
     "bel": "Ракушка",
@@ -13915,7 +13915,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Clams03",
-    "custom": "",
+    "custom": "Ракушкі",
     "en": "Clams",
     "ru": "Ракушка",
     "bel": "Ракушка",
@@ -13924,7 +13924,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ClannfearClaws",
-    "custom": "",
+    "custom": "Кіпцюры кланфіра",
     "en": "Clannfear Claws",
     "ru": "Когти кланфира",
     "bel": "Кіпці кланфіра",
@@ -13933,7 +13933,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ClarabellaKey",
-    "custom": "",
+    "custom": "Ключ ад Марской ванны Кларабелы",
     "en": "Sea Tub Clarabella Key",
     "ru": "Ключ от Кларабеллы",
     "bel": "Ключ ад Кларабелы",
@@ -13942,7 +13942,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ClarabellaNote",
-    "custom": "",
+    "custom": "Запіска ад першага памочніка Філча",
     "en": "Note from First Mate Filch",
     "ru": "Записка от первого помощн. Филча",
     "bel": "Запіска ад першага памочніка Філча",
@@ -13951,7 +13951,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ClarabellaPirates",
-    "custom": "",
+    "custom": "Піраты Марской ванны Кларабела",
     "en": "Pirates of the Sea Tub Clarabella",
     "ru": "Морские пираты корыта Clarabella",
     "bel": "Марскія піраты карыта Clarabella",
@@ -13960,7 +13960,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ClaudeMaricFaction",
-    "custom": "",
+    "custom": "Асабістая фракцыя Клода Марыка",
     "en": "Claude Maric's personal faction",
     "ru": "Личная фракция Клода Марика.",
     "bel": "Асабістая фракцыя Клода Марыка.",
@@ -13969,7 +13969,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ClaudeMaricThugFaction",
-    "custom": "",
+    "custom": "Галаварэзы Клода Марыка",
     "en": "Claude Maric's Thugs",
     "ru": "Головорезы Клода Maric'а",
     "bel": "Галаварэзы Клода Maric'а",
@@ -13978,7 +13978,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ClaudettePerrick",
-    "custom": "",
+    "custom": "Клаўдэта Перык",
     "en": "Claudette Perrick",
     "ru": "Клаудетта Перрик",
     "bel": "Клаўдэта Перык",
@@ -13987,7 +13987,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ClaudisArcadiaFaction",
-    "custom": "",
+    "custom": "Фракцыя Клаўдзія Аркадзіі",
     "en": "Claudius Arcadia's Faction",
     "ru": "Фракция Claudius Arcadia",
     "bel": "Фракцыя Claudius Arcadia",
@@ -13996,7 +13996,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ClaudisArcadiaKey",
-    "custom": "",
+    "custom": "Ключ ад дома Клаўдзія Аркадзіі",
     "en": "Claudius Arcadia's House Key",
     "ru": "Ключ от дома Клаудиуса Аркадиа",
     "bel": "Ключ ад дома Клаўдыюса Аркадыя",
@@ -14005,7 +14005,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ClaudiusArcadia",
-    "custom": "",
+    "custom": "Клаўдзій Аркадзія",
     "en": "Claudius Arcadia",
     "ru": "Клаудиус Аркадиа",
     "bel": "Клаўдыюс Аркадыя",
@@ -14014,7 +14014,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ClavicusVilesShrine",
-    "custom": "",
+    "custom": "Святыня Клавікуса Подлага",
     "en": "Clavicus Vile's Shrine",
     "ru": "Святилище Клавикуса Вайла",
     "bel": "Свяцілішча Клавікуса Вайла",
@@ -14023,7 +14023,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ClosetDoor01",
-    "custom": "",
+    "custom": "Дзверы каморкі",
     "en": "Closet Door",
     "ru": "Закрытая дверь",
     "bel": "Зачыненыя дзверы",
@@ -14032,7 +14032,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CloudRulerTemple",
-    "custom": "",
+    "custom": "Храм Хмарнага Валадара",
     "en": "Cloud Ruler Temple",
     "ru": "Храм Повелителя Облаков",
     "bel": "Храм Уладара Воблакаў",
@@ -14041,7 +14041,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CloudRulerTempleArmory",
-    "custom": "",
+    "custom": "Збройня храма",
     "en": "Temple Armory",
     "ru": "Арсенал Храма",
     "bel": "Арсенал Храма",
@@ -14050,7 +14050,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CloudRulerTempleEastWing",
-    "custom": "",
+    "custom": "Усходняе крыло Храма Хмарнага Валадара",
     "en": "Cloud Ruler Temple East Wing",
     "ru": "Храм Повелителя Облаков - Восточное крыло",
     "bel": "Храм Уладара Воблакаў - Усходняе крыло",
@@ -14059,7 +14059,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CloudRulerTempleGreatHall",
-    "custom": "",
+    "custom": "Вялікая зала Храма Хмарнага Валадара",
     "en": "Cloud Ruler Temple Great Hall",
     "ru": "Храм Повелителя Облаков - Большой зал",
     "bel": "Храм Уладара Воблакаў - Вялікая зала",
@@ -14068,7 +14068,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CloudRulerTempleRegion",
-    "custom": "",
+    "custom": "Храм Хмарнага Валадара",
     "en": "Cloud Ruler Temple",
     "ru": "Храм Повелителя Облаков",
     "bel": "Храм Уладара Воблакаў",
@@ -14077,7 +14077,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CloudRulerTempleTopic",
-    "custom": "",
+    "custom": "Храм Хмарнага Валадара",
     "en": "Cloud Ruler Temple",
     "ru": "Храм Повелителя Облаков",
     "bel": "Храм Уладара Воблакаў",
@@ -14086,7 +14086,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CloudRulerTempleWestWing",
-    "custom": "",
+    "custom": "Заходняе крыло Храма Хмарнага Валадара",
     "en": "Cloud Ruler Temple West Wing",
     "ru": "Храм Повелителя Облаков - Западное крыло",
     "bel": "Храм Уладара Воблакаў - Заходняе крыло",
@@ -14095,7 +14095,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CloudTop",
-    "custom": "",
+    "custom": "Хмарная вяршыня",
     "en": "Cloud Top",
     "ru": "Облачная Вершина",
     "bel": "Воблачная Вяршыня",
@@ -14104,7 +14104,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CloudTopCorpse",
-    "custom": "",
+    "custom": "Абугленыя парэшткі",
     "en": "Charred Remains",
     "ru": "Обгоревшие останки",
     "bel": "Абгарэлыя парэшткі",
@@ -14113,7 +14113,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_CloudedFunnelCap",
-    "custom": "",
+    "custom": "Дымчатая гаварушка",
     "en": "Clouded Funnel Cap",
     "ru": "Дымчатая говорушка",
     "bel": "Дымчатая гаварушка",
@@ -14122,7 +14122,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ClutterAnvilShop01",
-    "custom": "",
+    "custom": "Улётка",
     "en": "Handbill",
     "ru": "Объявление",
     "bel": "Аб'ява",
@@ -14131,7 +14131,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ClutterAnvilShop02",
-    "custom": "",
+    "custom": "Улётка",
     "en": "Handbill",
     "ru": "Объявление",
     "bel": "Аб'ява",
@@ -14140,7 +14140,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ClutterAnvilShop03",
-    "custom": "",
+    "custom": "Улётка",
     "en": "Handbill",
     "ru": "Объявление",
     "bel": "Аб'ява",
@@ -14149,7 +14149,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ClutterAnvilShop04",
-    "custom": "",
+    "custom": "Улётка",
     "en": "Handbill",
     "ru": "Объявление",
     "bel": "Аб'ява",
@@ -14158,7 +14158,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ClutterAnvilShop05",
-    "custom": "",
+    "custom": "Улётка",
     "en": "Handbill",
     "ru": "Объявление",
     "bel": "Аб'ява",
@@ -14167,7 +14167,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ClutterAnvilShop06",
-    "custom": "",
+    "custom": "Улётка",
     "en": "Handbill",
     "ru": "Объявление",
     "bel": "Аб'ява",
@@ -14176,7 +14176,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ClutterBravilShop01",
-    "custom": "",
+    "custom": "Улётка",
     "en": "Handbill",
     "ru": "Объявление",
     "bel": "Аб'ява",
@@ -14185,7 +14185,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ClutterBravilShop02",
-    "custom": "",
+    "custom": "Улётка",
     "en": "Handbill",
     "ru": "Объявление",
     "bel": "Аб'ява",
@@ -14194,7 +14194,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ClutterBravilShop03",
-    "custom": "",
+    "custom": "Улётка",
     "en": "Handbill",
     "ru": "Объявление",
     "bel": "Аб'ява",
@@ -14203,7 +14203,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ClutterBravilShop04",
-    "custom": "",
+    "custom": "Улётка",
     "en": "Handbill",
     "ru": "Объявление",
     "bel": "Аб'ява",
@@ -14212,7 +14212,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ClutterBravilShop05",
-    "custom": "",
+    "custom": "Улётка",
     "en": "Handbill",
     "ru": "Объявление",
     "bel": "Аб'ява",
@@ -14221,7 +14221,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ClutterBravilShop06",
-    "custom": "",
+    "custom": "Улётка",
     "en": "Handbill",
     "ru": "Объявление",
     "bel": "Аб'ява",
@@ -14230,7 +14230,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ClutterBrumaShop01",
-    "custom": "",
+    "custom": "Улётка",
     "en": "Handbill",
     "ru": "Объявление",
     "bel": "Аб'ява",
