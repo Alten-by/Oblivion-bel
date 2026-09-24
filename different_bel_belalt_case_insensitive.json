@@ -60112,7 +60112,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG07MarauderMageMale2",
-    "custom": "",
+    "custom": "Марадзёр-баявы маг",
     "en": "Marauder Battlemage",
     "ru": "Мародер - боевой маг",
     "bel": "Марадзёр - баявы маг",
@@ -60121,7 +60121,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG07MaraudersKey",
-    "custom": "",
+    "custom": "Ключ ад форта Блакітнай Крыві",
     "en": "Fort Blueblood Key",
     "ru": "Ключ от форта Голубой Крови",
     "bel": "Ключ ад форта Блакітнай Крыві",
@@ -60130,7 +60130,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08Choice3C",
-    "custom": "",
+    "custom": "Шок",
     "en": "Shock",
     "ru": "Электрический удар",
     "bel": "Электрычны ўдар",
@@ -60139,7 +60139,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08Choice4C",
-    "custom": "",
+    "custom": "Маўчанне",
     "en": "Silence",
     "ru": "Безмолвие",
     "bel": "Маўчанне",
@@ -60148,7 +60148,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08Choice5A",
-    "custom": "",
+    "custom": "Пастка душ",
     "en": "Soul Trap",
     "ru": "Ловушка душ",
     "bel": "Пастка душ",
@@ -60157,7 +60157,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08ChoiceFinalYes",
-    "custom": "",
+    "custom": "Гэта тое, што мне патрэбна.",
     "en": "That's what I want.",
     "ru": "Это то, что мне нужно.",
     "bel": "Гэта тое, што мне патрэбна.",
@@ -60166,7 +60166,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08ChoiceStartOver",
-    "custom": "",
+    "custom": "Давай пачнем спачатку.",
     "en": "Let's start over.",
     "ru": "Давай начнем сначала.",
     "bel": "Давай пачнем спачатку.",
@@ -60184,7 +60184,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffCharm01",
-    "custom": "",
+    "custom": "Магічны посаг зачаравання",
     "en": "Mage's Staff of Charm",
     "ru": "Магический посох очарования",
     "bel": "Магічны посаг зачаравання",
@@ -60193,7 +60193,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffCharm05",
-    "custom": "",
+    "custom": "Магічны посаг зачаравання",
     "en": "Mage's Staff of Charm",
     "ru": "Магический посох очарования",
     "bel": "Магічны посаг зачаравання",
@@ -60202,7 +60202,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffCharm10",
-    "custom": "",
+    "custom": "Магічны посаг зачаравання",
     "en": "Mage's Staff of Charm",
     "ru": "Магический посох очарования",
     "bel": "Магічны посаг зачаравання",
@@ -60211,7 +60211,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffCharm15",
-    "custom": "",
+    "custom": "Магічны посаг зачаравання",
     "en": "Mage's Staff of Charm",
     "ru": "Магический посох очарования",
     "bel": "Магічны посаг зачаравання",
@@ -60220,7 +60220,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffDispel01",
-    "custom": "",
+    "custom": "Маг. посаг рассеяння",
     "en": "Mage's Staff of Dispel",
     "ru": "Маг. посох рассеивания",
     "bel": "Маг. посаг рассеяння",
@@ -60229,7 +60229,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffDispel05",
-    "custom": "",
+    "custom": "Маг. посаг рассеяння",
     "en": "Mage's Staff of Dispel",
     "ru": "Маг. посох рассеивания",
     "bel": "Маг. посаг рассеяння",
@@ -60238,7 +60238,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffDispel10",
-    "custom": "",
+    "custom": "Маг. посаг рассеяння",
     "en": "Mage's Staff of Dispel",
     "ru": "Маг. посох рассеивания",
     "bel": "Маг. посаг рассеяння",
@@ -60247,7 +60247,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffDispel15",
-    "custom": "",
+    "custom": "Маг. посаг рассеяння",
     "en": "Mage's Staff of Dispel",
     "ru": "Маг. посох рассеивания",
     "bel": "Маг. посаг рассеяння",
@@ -60256,7 +60256,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffFire01",
-    "custom": "",
+    "custom": "Магічны посаг агню",
     "en": "Mage's Staff of Fire",
     "ru": "Магический посох огня",
     "bel": "Магічны посаг агню",
@@ -60265,7 +60265,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffFire05",
-    "custom": "",
+    "custom": "Магічны посаг агню",
     "en": "Mage's Staff of Fire",
     "ru": "Магический посох огня",
     "bel": "Магічны посаг агню",
@@ -60274,7 +60274,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffFire10",
-    "custom": "",
+    "custom": "Магічны посаг агню",
     "en": "Mage's Staff of Fire",
     "ru": "Магический посох огня",
     "bel": "Магічны посаг агню",
@@ -60283,7 +60283,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffFire15",
-    "custom": "",
+    "custom": "Магічны посаг агню",
     "en": "Mage's Staff of Fire",
     "ru": "Магический посох огня",
     "bel": "Магічны посаг агню",
@@ -60292,7 +60292,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffFrost01",
-    "custom": "",
+    "custom": "Магічны посаг марозу",
     "en": "Mage's Staff of Frost",
     "ru": "Магический посох мороза",
     "bel": "Магічны посаг марозу",
@@ -60301,7 +60301,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffFrost05",
-    "custom": "",
+    "custom": "Магічны посаг марозу",
     "en": "Mage's Staff of Frost",
     "ru": "Магический посох мороза",
     "bel": "Магічны посаг марозу",
@@ -60310,7 +60310,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffFrost10",
-    "custom": "",
+    "custom": "Магічны посаг марозу",
     "en": "Mage's Staff of Frost",
     "ru": "Магический посох мороза",
     "bel": "Магічны посаг марозу",
@@ -60319,7 +60319,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffFrost15",
-    "custom": "",
+    "custom": "Магічны посаг марозу",
     "en": "Mage's Staff of Frost",
     "ru": "Магический посох мороза",
     "bel": "Магічны посаг марозу",
@@ -60328,7 +60328,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffPara01",
-    "custom": "",
+    "custom": "Магічны посаг паралічу",
     "en": "Mage's Staff of Paralysis",
     "ru": "Магический посох паралича",
     "bel": "Магічны посаг паралічу",
@@ -60337,7 +60337,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffPara05",
-    "custom": "",
+    "custom": "Магічны посаг паралічу",
     "en": "Mage's Staff of Paralysis",
     "ru": "Магический посох паралича",
     "bel": "Магічны посаг паралічу",
@@ -60346,7 +60346,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffPara10",
-    "custom": "",
+    "custom": "Магічны посаг паралічу",
     "en": "Mage's Staff of Paralysis",
     "ru": "Магический посох паралича",
     "bel": "Магічны посаг паралічу",
@@ -60355,7 +60355,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffPara15",
-    "custom": "",
+    "custom": "Магічны посаг паралічу",
     "en": "Mage's Staff of Paralysis",
     "ru": "Магический посох паралича",
     "bel": "Магічны посаг паралічу",
@@ -60364,7 +60364,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffST01",
-    "custom": "",
+    "custom": "Магічны посаг пасткі душ",
     "en": "Mage's Staff of Soul Trap",
     "ru": "Магический посох ловушки душ",
     "bel": "Магічны посаг пасткі душ",
@@ -60373,7 +60373,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffST05",
-    "custom": "",
+    "custom": "Магічны посаг пасткі душ",
     "en": "Mage's Staff of Soul Trap",
     "ru": "Магический посох ловушки душ",
     "bel": "Магічны посаг пасткі душ",
@@ -60382,7 +60382,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffST10",
-    "custom": "",
+    "custom": "Магічны посаг пасткі душ",
     "en": "Mage's Staff of Soul Trap",
     "ru": "Магический посох ловушки душ",
     "bel": "Магічны посаг пасткі душ",
@@ -60391,7 +60391,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffST15",
-    "custom": "",
+    "custom": "Магічны посаг пасткі душ",
     "en": "Mage's Staff of Soul Trap",
     "ru": "Магический посох ловушки душ",
     "bel": "Магічны посаг пасткі душ",
@@ -60400,7 +60400,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffShock01",
-    "custom": "",
+    "custom": "Маг. посаг электрычнасці",
     "en": "Mage's Staff of Shock",
     "ru": "Маг. посох электричества",
     "bel": "Маг. посаг электрычнасці",
@@ -60409,7 +60409,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffShock05",
-    "custom": "",
+    "custom": "Маг. посаг электрычнасці",
     "en": "Mage's Staff of Shock",
     "ru": "Маг. посох электричества",
     "bel": "Маг. посаг электрычнасці",
@@ -60418,7 +60418,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffShock10",
-    "custom": "",
+    "custom": "Маг. посаг электрычнасці",
     "en": "Mage's Staff of Shock",
     "ru": "Маг. посох электричества",
     "bel": "Маг. посаг электрычнасці",
@@ -60427,7 +60427,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffShock15",
-    "custom": "",
+    "custom": "Маг. посаг электрычнасці",
     "en": "Mage's Staff of Shock",
     "ru": "Маг. посох электричества",
     "bel": "Маг. посаг электрычнасці",
@@ -60436,7 +60436,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffSilence01",
-    "custom": "",
+    "custom": "Магічны посаг маўчання",
     "en": "Mage's Staff of Silence",
     "ru": "Магический посох безмолвия",
     "bel": "Магічны посаг маўчання",
@@ -60445,7 +60445,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffSilence05",
-    "custom": "",
+    "custom": "Магічны посаг маўчання",
     "en": "Mage's Staff of Silence",
     "ru": "Магический посох безмолвия",
     "bel": "Магічны посаг маўчання",
@@ -60454,7 +60454,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffSilence10",
-    "custom": "",
+    "custom": "Магічны посаг маўчання",
     "en": "Mage's Staff of Silence",
     "ru": "Магический посох безмолвия",
     "bel": "Магічны посаг маўчання",
@@ -60463,7 +60463,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffSilence15",
-    "custom": "",
+    "custom": "Магічны посаг маўчання",
     "en": "Mage's Staff of Silence",
     "ru": "Магический посох безмолвия",
     "bel": "Магічны посаг маўчання",
@@ -60472,7 +60472,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffTele01",
-    "custom": "",
+    "custom": "Магічны посаг тэлекінеза",
     "en": "Mage's Staff of Telekinesis",
     "ru": "Магический посох телекинеза",
     "bel": "Магічны посаг тэлекінеза",
@@ -60481,7 +60481,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffTele05",
-    "custom": "",
+    "custom": "Магічны посаг тэлекінеза",
     "en": "Mage's Staff of Telekinesis",
     "ru": "Магический посох телекинеза",
     "bel": "Магічны посаг тэлекінеза",
@@ -60490,7 +60490,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffTele10",
-    "custom": "",
+    "custom": "Магічны посаг тэлекінеза",
     "en": "Mage's Staff of Telekinesis",
     "ru": "Магический посох телекинеза",
     "bel": "Магічны посаг тэлекінеза",
@@ -60499,7 +60499,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08RewardStaffTele15",
-    "custom": "",
+    "custom": "Магічны посаг тэлекінеза",
     "en": "Mage's Staff of Telekinesis",
     "ru": "Магический посох телекинеза",
     "bel": "Магічны посаг тэлекінеза",
@@ -60508,7 +60508,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08Staff",
-    "custom": "",
+    "custom": "Незавершаны посаг",
     "en": "Unfinished Staff",
     "ru": "Незаконченный посох",
     "bel": "Незавершаны посаг",
@@ -60517,7 +60517,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG08WellspringChest",
-    "custom": "",
+    "custom": "Каменная скрыня",
     "en": "Stone Chest",
     "ru": "Каменный сундук",
     "bel": "Каменная скрыня",
@@ -60526,7 +60526,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG09BattleCry",
-    "custom": "",
+    "custom": "Баявы кліч MG09",
     "en": "MG09BattleCry",
     "ru": "Боевой клич MG09",
     "bel": "Баявы кліч MG09",
@@ -60535,7 +60535,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG09Choice1A",
-    "custom": "",
+    "custom": "Што адбываецца? Хто ты?",
     "en": "What? Who are you?",
     "ru": "Что происходит? Кто ты?",
     "bel": "Што адбываецца? Хто ты?",
@@ -60544,7 +60544,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG09Choice1B",
-    "custom": "",
+    "custom": "Як выйшла, што Меркатар напаў?",
     "en": "Why was Mercator a threat?",
     "ru": "Как вышло, что Меркатор напал?",
     "bel": "Як выйшла, што Меркатар напаў?",
@@ -60553,7 +60553,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG09Choice2A",
-    "custom": "",
+    "custom": "Мяне паслалі сюды толькі за кнігай.",
     "en": "I was only here for a book.",
     "ru": "Меня послали сюда только за книгой.",
     "bel": "Мяне паслалі сюды толькі за кнігай.",
@@ -60562,7 +60562,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG09Choice3A",
-    "custom": "",
+    "custom": "Прабач. Мне гэта не было вядома.",
     "en": "I'm sorry. I didn't know.",
     "ru": "Извини. Мне это не было известно.",
     "bel": "Прабач. Мне гэта не было вядома.",
@@ -60571,7 +60571,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG09Choice3B",
-    "custom": "",
+    "custom": "Гэта не мая віна!",
     "en": "It's not my fault!",
     "ru": "Это не моя вина!",
     "bel": "Гэта не мая віна!",
@@ -60580,7 +60580,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG09Choice4A",
-    "custom": "",
+    "custom": "Чаму ты не сказаў мне праўду?",
     "en": "Why didn't you tell me the truth?",
     "ru": "Почему ты не сказал мне правду?",
     "bel": "Чаму ты не сказаў мне праўду?",
@@ -60589,7 +60589,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG09Choice4B",
-    "custom": "",
+    "custom": "Чаму ў Скінград паслалі мяне?",
     "en": "Why was I sent to Skingrad?",
     "ru": "Почему в Скинград послали меня?",
     "bel": "Чаму ў Скінград паслалі мяне?",
@@ -60598,7 +60598,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG09Choice4C",
-    "custom": "",
+    "custom": "Разумею.",
     "en": "I see.",
     "ru": "Понимаю.",
     "bel": "Разумею.",
@@ -60607,7 +60607,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG09Choice5A",
-    "custom": "",
+    "custom": "Вы абараняеце вампіра?",
     "en": "You protect a vampire?",
     "ru": "Вы защищаете вампира?",
     "bel": "Вы абараняеце вампіра?",
@@ -60616,7 +60616,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG09Choice5B",
-    "custom": "",
+    "custom": "Чаму Гасілдор дапамагае вам?",
     "en": "Why does Hassildor aid you?",
     "ru": "Почему Гассилдор помогает вам?",
     "bel": "Чаму Гасілдор дапамагае вам?",
@@ -60625,7 +60625,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG09Choice5C",
-    "custom": "",
+    "custom": "Значыць, вы больш не давяраеце яму.",
     "en": "So you no longer trust him.",
     "ru": "Значит, вы больше не доверяете ему.",
     "bel": "Значыць, вы больш не давяраеце яму.",
@@ -60634,7 +60634,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG09ChoiceGoOn",
-    "custom": "",
+    "custom": "Працягвай.",
     "en": "Go on.",
     "ru": "Прошу, продолжай.",
     "bel": "Прашу, працягвайце.",
@@ -60643,7 +60643,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG09MercatorConv",
-    "custom": "",
+    "custom": "Пераўтварэнне MG09MercatorConv",
     "en": "MG09MercatorConv",
     "ru": "Преобразование MG09MercatorConv",
     "bel": "Пераўтварэнне MG09MercatorConv",
@@ -60652,7 +60652,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG09Motives",
-    "custom": "",
+    "custom": "Схаваныя матывы",
     "en": "Ulterior Motives",
     "ru": "Скрытые мотивы",
     "bel": "Схаваныя матывы",
@@ -60661,7 +60661,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG10AyleidReference",
-    "custom": "",
+    "custom": "Айлейдскі тэкст",
     "en": "Ayleid Reference Text",
     "ru": "Айлейдский текст",
     "bel": "Айлейдскі тэкст",
@@ -60670,7 +60670,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG10Choice1A",
-    "custom": "",
+    "custom": "Так, вядома.",
     "en": "I'm ready.",
     "ru": "Берусь.",
     "bel": "Бяруся.",
@@ -60679,7 +60679,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG10Choice1B",
-    "custom": "",
+    "custom": "Мне патрэбна больш часу.",
     "en": "I need more time.",
     "ru": "Мне нужно больше времени.",
     "bel": "Мне патрэбна больш часу.",
@@ -60688,7 +60688,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG10ChoiceNM",
-    "custom": "",
+    "custom": "Забудзь",
     "en": "Nevermind",
     "ru": "Забудь",
     "bel": "Забудзьце.",
@@ -60697,7 +60697,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG10ClueTablet01",
-    "custom": "",
+    "custom": "Прачытаць таблічку",
     "en": "Read Tablet",
     "ru": "Прочесть табличку",
     "bel": "Прачытаць таблічку",
@@ -60706,7 +60706,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG10ClueTablet02",
-    "custom": "",
+    "custom": "Прачытаць таблічку",
     "en": "Read Tablet",
     "ru": "Прочесть табличку",
     "bel": "Прачытаць таблічку",
@@ -60715,7 +60715,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG10ClueTablet03",
-    "custom": "",
+    "custom": "Прачытаць таблічку",
     "en": "Read Tablet",
     "ru": "Прочесть табличку",
     "bel": "Прачытаць таблічку",
@@ -60724,7 +60724,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG10ClueTablet04",
-    "custom": "",
+    "custom": "Прачытаць таблічку",
     "en": "Read Tablet",
     "ru": "Прочесть табличку",
     "bel": "Прачытаць таблічку",
@@ -60733,7 +60733,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG10EndStairSwitch01",
-    "custom": "",
+    "custom": "Пераключальнік",
     "en": "Activate Switch",
     "ru": "Переключатель",
     "bel": "Пераключальнік",
@@ -60742,7 +60742,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG10ExitDoorTEMP",
-    "custom": "",
+    "custom": "Пераключальнік",
     "en": "Activate Switch",
     "ru": "Переключатель",
     "bel": "Пераключальнік",
@@ -60751,7 +60751,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG10FortMagickaScroll",
-    "custom": "",
+    "custom": "Павелічэнне магіі",
     "en": "Elevate Magicka",
     "ru": "Увеличение магии",
     "bel": "Павелічэнне магіі",
@@ -60760,7 +60760,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG10MagesCrate03",
-    "custom": "",
+    "custom": "Пакамечаны яшчык",
     "en": "A Battered Crate",
     "ru": "Ветхий ящик",
     "bel": "Абвадрапаная скрыня",
@@ -60769,7 +60769,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG10Vahtacen",
-    "custom": "",
+    "custom": "Сакрэт Ватакена",
     "en": "Vahtacen's Secret",
     "ru": "Секрет Ватакена",
     "bel": "Сакрэт Ватакена",
@@ -60778,7 +60778,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG11Choice1A",
-    "custom": "",
+    "custom": "Магу прыступіць. У чым праблема?",
     "en": "I'm ready. What is it?",
     "ru": "Могу приступить. Какова проблема?",
     "bel": "Магу прыступіць. У чым праблема?",
@@ -60787,7 +60787,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG11Choice1B",
-    "custom": "",
+    "custom": "Крыху пазней, калі можна.",
     "en": "Not just yet.",
     "ru": "Немного погодя, если можно.",
     "bel": "Крыху пазней, калі можна.",
@@ -60796,7 +60796,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG11ChoiceBlackSoulGems",
-    "custom": "",
+    "custom": "Раскажы мне пра чорныя камяні душ.",
     "en": "Tell me about Black Soul Gems.",
     "ru": "Расскажи мне о черных камнях душ.",
     "bel": "Раскажы мне пра чорныя камяні душ.",
@@ -60805,7 +60805,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG11ChoiceExplain",
-    "custom": "",
+    "custom": "Што вы маеце на ўвазе?",
     "en": "What do you mean?",
     "ru": "Что ты имеешь в виду?",
     "bel": "Што ты маеш на ўвазе?",
@@ -60814,7 +60814,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG11ChoiceHeretohelp",
-    "custom": "",
+    "custom": "Мне хацелася б дапамагчы.",
     "en": "I'm here to help.",
     "ru": "Мне хотелось бы помочь.",
     "bel": "Мне хацелася б дапамагчы.",
@@ -60823,7 +60823,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG11ChoiceSent",
-    "custom": "",
+    "custom": "Мяне паслалі наведаць цябе.",
     "en": "I was sent to see you.",
     "ru": "Меня послали повидать тебя.",
     "bel": "Мяне паслалі наведаць цябе.",
@@ -60832,7 +60832,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG11ChoiceWhatNext",
-    "custom": "",
+    "custom": "Што мне трэба рабіць?",
     "en": "What do I need to do?",
     "ru": "Что мне нужно делать?",
     "bel": "Што мне трэба рабіць?",
@@ -60841,7 +60841,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG11ChoiceWhyBusy",
-    "custom": "",
+    "custom": "Чаму ты так занятая?",
     "en": "Why are you so busy?",
     "ru": "Почему ты так занята?",
     "bel": "Чаму ты так занятая?",
@@ -60850,7 +60850,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG11Note",
-    "custom": "",
+    "custom": "Наспех надрапаная запіска",
     "en": "Hastily Scrawled Note",
     "ru": "Наскоро нацарапанная записка",
     "bel": "Наспех надрапаная запіска",
@@ -60859,7 +60859,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG11SoulGemNote",
-    "custom": "",
+    "custom": "Запіска ад рукі",
     "en": "Handwritten Note",
     "ru": "Записка от руки",
     "bel": "Запіска ад рукі",
@@ -60868,7 +60868,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG12Amulet1",
-    "custom": "",
+    "custom": "Амулет - паглынальнік заклёнаў",
     "en": "Spelldrinker Amulet",
     "ru": "Амулет - поглотитель заклинаний",
     "bel": "Амулет - паглынальнік заклёнаў",
@@ -60877,7 +60877,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG12Amulet10",
-    "custom": "",
+    "custom": "Амулет - паглынальнік заклёнаў",
     "en": "Spelldrinker Amulet",
     "ru": "Амулет - поглотитель заклинаний",
     "bel": "Амулет - паглынальнік заклёнаў",
@@ -60886,7 +60886,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG12Amulet15",
-    "custom": "",
+    "custom": "Амулет - паглынальнік заклёнаў",
     "en": "Spelldrinker Amulet",
     "ru": "Амулет - поглотитель заклинаний",
     "bel": "Амулет - паглынальнік заклёнаў",
@@ -60895,7 +60895,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG12Amulet20",
-    "custom": "",
+    "custom": "Амулет - паглынальнік заклёнаў",
     "en": "Spelldrinker Amulet",
     "ru": "Амулет - поглотитель заклинаний",
     "bel": "Амулет - паглынальнік заклёнаў",
@@ -60904,7 +60904,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG12Amulet25",
-    "custom": "",
+    "custom": "Амулет - паглынальнік заклёнаў",
     "en": "Spelldrinker Amulet",
     "ru": "Амулет - поглотитель заклинаний",
     "bel": "Амулет - паглынальнік заклёнаў",
@@ -60913,7 +60913,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG12Amulet30",
-    "custom": "",
+    "custom": "Амулет - паглынальнік заклёнаў",
     "en": "Spelldrinker Amulet",
     "ru": "Амулет - поглотитель заклинаний",
     "bel": "Амулет - паглынальнік заклёнаў",
@@ -60922,7 +60922,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG12Amulet5",
-    "custom": "",
+    "custom": "Амулет - паглынальнік заклёнаў",
     "en": "Spelldrinker Amulet",
     "ru": "Амулет - поглотитель заклинаний",
     "bel": "Амулет - паглынальнік заклёнаў",
@@ -60931,7 +60931,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG12Choice1B",
-    "custom": "",
+    "custom": "Не, яшчэ не.",
     "en": "No, not yet.",
     "ru": "Нет, пока еще нет.",
     "bel": "Не, пакуль яшчэ не.",
@@ -60940,7 +60940,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG12Conv",
-    "custom": "",
+    "custom": "Перахаднік MG12",
     "en": "MG12Conv",
     "ru": "Переходник MG12",
     "bel": "Перахаднік MG12",
@@ -60949,7 +60949,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG12FithragaerSent",
-    "custom": "",
+    "custom": "Мяне паслалі сюды.",
     "en": "I was sent here.",
     "ru": "Меня послали сюда.",
     "bel": "Мяне паслалі сюды.",
@@ -60958,7 +60958,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG12Gate",
-    "custom": "",
+    "custom": "Вызваленне ці пакаранне?",
     "en": "Liberation or Apprehension?",
     "ru": "Освобождение или казнь?",
     "bel": "Вызваленне ці пакаранне?",
@@ -60967,7 +60967,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG12MucianusZombie",
-    "custom": "",
+    "custom": "Муцыян Аліяс",
     "en": "Mucianus Allias",
     "ru": "Муциан Аллиас",
     "bel": "Муцыян Аліяс",
@@ -60976,7 +60976,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG12TravenSomeone",
-    "custom": "",
+    "custom": "Ці ёсць хтосьці ўнутры культу?",
     "en": "You have someone on the inside?",
     "ru": "Есть кто-то внутри культа?",
     "bel": "Ці ёсць хтосьці ўнутры культу?",
@@ -60985,7 +60985,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG12TravenVeryWell",
-    "custom": "",
+    "custom": "Добра.",
     "en": "Very well.",
     "ru": "Хорошо.",
     "bel": "Добра.",
@@ -60994,7 +60994,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG12TravenWhat",
-    "custom": "",
+    "custom": "Што мне трэба зрабіць?",
     "en": "What am I supposed to do?",
     "ru": "Что мне нужно сделать?",
     "bel": "Што мне трэба зрабіць?",
@@ -61003,7 +61003,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG12TravenWhere",
-    "custom": "",
+    "custom": "Куды мне варта адправіцца?",
     "en": "Where do I need to go?",
     "ru": "Куда мне следует отправиться?",
     "bel": "Куды мне варта адправіцца?",
@@ -61012,7 +61012,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG12TravenWhoInformant",
-    "custom": "",
+    "custom": "Хто гэты інфарматар?",
     "en": "Who is the Informant?",
     "ru": "Кто этот осведомитель?",
     "bel": "Хто гэты інфарматар?",
@@ -61021,7 +61021,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG12ZombieFaction",
-    "custom": "",
+    "custom": "Фракцыя зомбі Муцыяна",
     "en": "Mucianus Zombie Faction",
     "ru": "Фракция зомби Муциана",
     "bel": "Фракцыя зомбі Муцыяна",
@@ -61030,7 +61030,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13CavernChoiceWhy",
-    "custom": "",
+    "custom": "Што вампіры робяць там?",
     "en": "Why are vampires there?",
     "ru": "Что вампиры делают там?",
     "bel": "Што вампіры робяць там?",
@@ -61039,7 +61039,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13Choice1A",
-    "custom": "",
+    "custom": "Так, вядома.",
     "en": "I'm ready.",
     "ru": "Да, могу.",
     "bel": "Так, магу.",
@@ -61048,7 +61048,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13Choice1B",
-    "custom": "",
+    "custom": "Яшчэ не.",
     "en": "Not yet.",
     "ru": "Нет еще.",
     "bel": "Не яшчэ.",
@@ -61057,7 +61057,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13Choice2A",
-    "custom": "",
+    "custom": "Так, у пячоры Крывавая Кара",
     "en": "Yes, Bloodcrust Cavern",
     "ru": "Да, в пещере Кровавая Корка.",
     "bel": "Так, у пячоры Крывавая Кара.",
@@ -61066,7 +61066,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13Choice3A",
-    "custom": "",
+    "custom": "Так, вось попел вампіраў.",
     "en": "Yes, here's some Vampire Dust.",
     "ru": "Да, вот прах вампиров.",
     "bel": "Так, вось попел вампіраў.",
@@ -61075,7 +61075,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13ChoiceWhatproblem",
-    "custom": "",
+    "custom": "Што за праблема?",
     "en": "What's the problem?",
     "ru": "Что за проблема?",
     "bel": "Што за праблема?",
@@ -61084,7 +61084,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13ChoiceWhynot",
-    "custom": "",
+    "custom": "Чаму б не расказаць мне зараз?",
     "en": "Why can't you just tell me now?",
     "ru": "Почему бы не рассказать мне сейчас?",
     "bel": "Чаму б не расказаць мне зараз?",
@@ -61093,7 +61093,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13EridorInfo",
-    "custom": "",
+    "custom": "У мяне ёсць інфармацыя для цябе.",
     "en": "I have information for you.",
     "ru": "У меня есть информация для тебя.",
     "bel": "У мяне ёсць інфармацыя для цябе.",
@@ -61102,7 +61102,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13EridorTownNo",
-    "custom": "",
+    "custom": "Я не жыву тут.",
     "en": "I don't live here.",
     "ru": "Я не живу здесь.",
     "bel": "Я не жыву тут.",
@@ -61111,7 +61111,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13EridorTownYes",
-    "custom": "",
+    "custom": "[Хлусня] Так, гэта так.",
     "en": "[Lie] Yes, that's right.",
     "ru": "[Солгать] Да, это так.",
     "bel": "[Зманіць] Так, гэта так.",
@@ -61120,7 +61120,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13EridorWhere",
-    "custom": "",
+    "custom": "Дзе вы вядзеце пошукі?",
     "en": "Where are you looking?",
     "ru": "Где вы ведете поиски?",
     "bel": "Дзе вы вядзеце пошукі?",
@@ -61129,7 +61129,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13EridorWhy",
-    "custom": "",
+    "custom": "Навошта вы тут?",
     "en": "Why are you here?",
     "ru": "Зачем вы здесь?",
     "bel": "Навошта вы тут?",
@@ -61138,7 +61138,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13HunterChoiceWho",
-    "custom": "",
+    "custom": "Хто гэтыя паляўнічыя?",
     "en": "Who are the hunters?",
     "ru": "Кто эти охотники?",
     "bel": "Хто гэтыя паляўнічыя?",
@@ -61147,7 +61147,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13Information",
-    "custom": "",
+    "custom": "Інфармацыя за паслугу",
     "en": "Information at a Price",
     "ru": "Информация за услугу",
     "bel": "Інфармацыя за паслугу",
@@ -61156,7 +61156,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13Nevermind",
-    "custom": "",
+    "custom": "Забудзь.",
     "en": "Nevermind.",
     "ru": "Не бери в голову.",
     "bel": "Не зважай.",
@@ -61165,7 +61165,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13Vampire01Warrior",
-    "custom": "",
+    "custom": "Вампір Крывавай Кары",
     "en": "Bloodcrust Vampire",
     "ru": "Вампир Кровавой Корки",
     "bel": "Вампір Крывавай Кары",
@@ -61174,7 +61174,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13Vampire02Spellsword",
-    "custom": "",
+    "custom": "Вампір Крывавай Кары",
     "en": "Bloodcrust Vampire",
     "ru": "Вампир Кровавой Корки",
     "bel": "Вампір Крывавай Кары",
@@ -61183,7 +61183,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13Vampire03Mage",
-    "custom": "",
+    "custom": "Вампір Крывавай Кары",
     "en": "Bloodcrust Vampire",
     "ru": "Вампир Кровавой Корки",
     "bel": "Вампір Крывавай Кары",
@@ -61192,7 +61192,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13Vampire04Warrior",
-    "custom": "",
+    "custom": "Вампір Крывавай Кары",
     "en": "Bloodcrust Vampire",
     "ru": "Вампир Кровавой Корки",
     "bel": "Вампір Крывавай Кары",
@@ -61201,7 +61201,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13Vampire05Battlemage",
-    "custom": "",
+    "custom": "Вампір Крывавай Кары",
     "en": "Bloodcrust Vampire",
     "ru": "Вампир Кровавой Корки",
     "bel": "Вампір Крывавай Кары",
@@ -61210,7 +61210,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13Vampire06Assassin",
-    "custom": "",
+    "custom": "Вампір Крывавай Кары",
     "en": "Bloodcrust Vampire",
     "ru": "Вампир Кровавой Корки",
     "bel": "Вампір Крывавай Кары",
@@ -61219,7 +61219,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13Vampire07Rogue",
-    "custom": "",
+    "custom": "Вампір Крывавай Кары",
     "en": "Bloodcrust Vampire",
     "ru": "Вампир Кровавой Корки",
     "bel": "Вампір Крывавай Кары",
@@ -61228,7 +61228,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13Vampire08Sorcerer",
-    "custom": "",
+    "custom": "Вампір Крывавай Кары",
     "en": "Bloodcrust Vampire",
     "ru": "Вампир Кровавой Корки",
     "bel": "Вампір Крывавай Кары",
@@ -61237,7 +61237,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13Vampire09Spellsword",
-    "custom": "",
+    "custom": "Вампір Крывавай Кары",
     "en": "Bloodcrust Vampire",
     "ru": "Вампир Кровавой Корки",
     "bel": "Вампір Крывавай Кары",
@@ -61246,7 +61246,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13Vampire10Mage",
-    "custom": "",
+    "custom": "Вампір Крывавай Кары",
     "en": "Bloodcrust Vampire",
     "ru": "Вампир Кровавой Корки",
     "bel": "Вампір Крывавай Кары",
@@ -61255,7 +61255,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13VampireDust",
-    "custom": "",
+    "custom": "Попел вампіра",
     "en": "Vampire Dust",
     "ru": "Прах вампира",
     "bel": "Попел вампіра",
@@ -61264,7 +61264,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG13hunterChoiceHow",
-    "custom": "",
+    "custom": "Як трэба разабрацца з імі?",
     "en": "How should I deal with them?",
     "ru": "Как следует разобраться с ними?",
     "bel": "Як трэба разабрацца з імі?",
@@ -61273,7 +61273,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG14CamillaTaunts",
-    "custom": "",
+    "custom": "Дразнілкі MG14Camilla",
     "en": "MG14CamillaTaunts",
     "ru": "Дразнилки MG14Camilla",
     "bel": "Дразнілкі MG14Camilla",
@@ -61282,7 +61282,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG14Choice1A",
-    "custom": "",
+    "custom": "Я магу адправіцца неадкладна.",
     "en": "I can go now.",
     "ru": "Я могу отправиться немедленно.",
     "bel": "Я магу адправіцца неадкладна.",
@@ -61291,7 +61291,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG14Choice1B",
-    "custom": "",
+    "custom": "Не зараз, мне патрэбны час.",
     "en": "I need more time.",
     "ru": "Не сейчас, мне нужно время.",
     "bel": "Не зараз, мне патрэбны час.",
@@ -61300,7 +61300,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG14JskarInvis",
-    "custom": "",
+    "custom": "Нябачнасць Дж'Скара",
     "en": "Jskar's Invisibility",
     "ru": "Невидимость Дж'Скара",
     "bel": "Нябачнасць Дж'Скара",
@@ -61309,7 +61309,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG14Plot",
-    "custom": "",
+    "custom": "Змова раскрыта",
     "en": "A Plot Revealed",
     "ru": "Заговор раскрыт",
     "bel": "Змова раскрыта",
@@ -61318,7 +61318,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG15BloodwormHelm01",
-    "custom": "",
+    "custom": "Выцягванне сутнасці",
     "en": "Essence Drain",
     "ru": "Вытягивание сущности",
     "bel": "Выцягванне сутнасці",
@@ -61327,7 +61327,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG15BloodwormHelm05",
-    "custom": "",
+    "custom": "Выцягванне сутнасці",
     "en": "Essence Drain",
     "ru": "Вытягивание сущности",
     "bel": "Выцягванне сутнасці",
@@ -61336,7 +61336,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG15BloodwormHelm10",
-    "custom": "",
+    "custom": "Выцягванне сутнасці",
     "en": "Essence Drain",
     "ru": "Вытягивание сущности",
     "bel": "Выцягванне сутнасці",
@@ -61345,7 +61345,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG15BloodwormHelm15",
-    "custom": "",
+    "custom": "Выцягванне сутнасці",
     "en": "Essence Drain",
     "ru": "Вытягивание сущности",
     "bel": "Выцягванне сутнасці",
@@ -61354,7 +61354,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG15BloodwormHelm20",
-    "custom": "",
+    "custom": "Выцягванне сутнасці",
     "en": "Essence Drain",
     "ru": "Вытягивание сущности",
     "bel": "Выцягванне сутнасці",
@@ -61363,7 +61363,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG15BloodwormHelm25",
-    "custom": "",
+    "custom": "Выцягванне сутнасці",
     "en": "Essence Drain",
     "ru": "Вытягивание сущности",
     "bel": "Выцягванне сутнасці",
@@ -61372,7 +61372,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG15Helm",
-    "custom": "",
+    "custom": "Шлем Чарвяка",
     "en": "The Bloodworm Helm",
     "ru": "Шлем Червя",
     "bel": "Шлем Чарвяка",
@@ -61381,7 +61381,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG16FortOntusMageFaction",
-    "custom": "",
+    "custom": "Фракцыя Магаў Форта Онтус",
     "en": "Fort Ontus Mage Faction",
     "ru": "Фракция магов Форта Ontus",
     "bel": "Фракцыя магаў Форта Ontus",
@@ -61390,7 +61390,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG17ChoiceNM",
-    "custom": "",
+    "custom": "Забудзь.",
     "en": "Nevermind.",
     "ru": "Потом.",
     "bel": "Пасля.",
@@ -61399,7 +61399,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG17ChoicePositionA",
-    "custom": "",
+    "custom": "Захоўвай дыстанцыю.",
     "en": "Keep your distance.",
     "ru": "Сохраняй дистанцию.",
     "bel": "Захоўвай дыстанцыю.",
@@ -61408,7 +61408,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG17ChoicePositionB",
-    "custom": "",
+    "custom": "Высоўвайся наперад.",
     "en": "Up close.",
     "ru": "Выдвигайся вперед.",
     "bel": "Высоўвайся наперад.",
@@ -61417,7 +61417,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG17GoOn",
-    "custom": "",
+    "custom": "Працягвай.",
     "en": "Go on.",
     "ru": "Продолжай, пожалуйста.",
     "bel": "Працягвай, калі ласка.",
@@ -61426,7 +61426,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG17MiscBlackSoulGem",
-    "custom": "",
+    "custom": "Каласальны чорны камень душ",
     "en": "Colossal Black Soul Gem",
     "ru": "Колоссальный черный камень душ",
     "bel": "Каласальны чорны камень душ",
@@ -61435,7 +61435,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG17MiscBlackSoulGemFilled",
-    "custom": "",
+    "custom": "Запоўн. калас. чорны камень душ",
     "en": "Filled Colossal Black Soul Gem",
     "ru": "Заполн. колос. черный камень душ",
     "bel": "Запоўн. калас. чорны камень душ",
@@ -61444,7 +61444,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG17ThalfinWhatNow",
-    "custom": "",
+    "custom": "І што мы будзем рабіць зараз?",
     "en": "So, what do we do now?",
     "ru": "И что мы будем делать теперь?",
     "bel": "І што мы будзем рабіць зараз?",
@@ -61453,7 +61453,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG17TravenDestroy",
-    "custom": "",
+    "custom": "Чаму б не знішчыць гэты камень?",
     "en": "Why not destroy the gem?",
     "ru": "Почему бы не уничтожить этот камень?",
     "bel": "Чаму б не знішчыць гэты камень?",
@@ -61462,7 +61462,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG17TravenHowLearn",
-    "custom": "",
+    "custom": "Як удалося даведацца пра гэта?",
     "en": "How did you learn this?",
     "ru": "Как удалось узнать об этом?",
     "bel": "Як удалося даведацца пра гэта?",
@@ -61471,7 +61471,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG18Choice1A",
-    "custom": "",
+    "custom": "Так, вядома.",
     "en": "I'm ready.",
     "ru": "Да, берусь.",
     "bel": "Так, бяруся.",
@@ -61480,7 +61480,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG18Choice1B",
-    "custom": "",
+    "custom": "Яшчэ не.",
     "en": "Not yet.",
     "ru": "Мне нужно подготовиться.",
     "bel": "Мне трэба падрыхтавацца.",
@@ -61489,7 +61489,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG18Choice2A",
-    "custom": "",
+    "custom": "Я ні за што не буду дапамагаць табе!",
     "en": "I'll never help you!",
     "ru": "Я ни за что не буду помогать тебе!",
     "bel": "Я ні за што не буду дапамагаць табе!",
@@ -61498,7 +61498,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG18Choice2B",
-    "custom": "",
+    "custom": "Пашкадуй мяне, і я буду служыць табе.",
     "en": "I'll serve you if you spare me.",
     "ru": "Пощади меня, и я буду служить тебе.",
     "bel": "Пашкадуй мяне, і я буду служыць табе.",
@@ -61507,7 +61507,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG18KingofWorms",
-    "custom": "",
+    "custom": "Сутычка з Каралём",
     "en": "Confront the King",
     "ru": "Схватка с  Королем",
     "bel": "Сутычка з Каралевай",
@@ -61516,7 +61516,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG18MannimarcoEnthrall",
-    "custom": "",
+    "custom": "Паняволенне",
     "en": "Enthrall",
     "ru": "Порабощение",
     "bel": "Паняволенне",
@@ -61525,7 +61525,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG18MannimarcoImmobilize",
-    "custom": "",
+    "custom": "Скаванне",
     "en": "Immobilization",
     "ru": "Сковывание",
     "bel": "Скаванне",
@@ -61534,7 +61534,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG18TravenImmolate",
-    "custom": "",
+    "custom": "Ахвярапрынашэнне",
     "en": "Immolation",
     "ru": "Жертвоприношение",
     "bel": "Ахвярапрынашэнне",
@@ -61543,7 +61543,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG19Alchemy",
-    "custom": "",
+    "custom": "Алхімічныя інгрэдыенты",
     "en": "Alchemy Acquisitions",
     "ru": "Алхимические ингредиенты",
     "bel": "Алхімічныя інгрэдыенты",
@@ -61552,7 +61552,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG19Foodstuffs",
-    "custom": "",
+    "custom": "Запасы ежы",
     "en": "Foodstuffs",
     "ru": "Продукты питания",
     "bel": "Прадукты харчавання",
@@ -61561,7 +61561,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG19Nevermind",
-    "custom": "",
+    "custom": "Забудзь.",
     "en": "Nevermind.",
     "ru": "Неважно.",
     "bel": "Усё роўна.",
@@ -61570,7 +61570,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG19No",
-    "custom": "",
+    "custom": "Не, не думаю.",
     "en": "No, I don't think so.",
     "ru": "Нет, не думаю.",
     "bel": "Не, не думаю.",
@@ -61579,7 +61579,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG19Oblivion",
-    "custom": "",
+    "custom": "Матэрыялы з Аблівіёна",
     "en": "Materials from Oblivion",
     "ru": "Материалы из Oblivion",
     "bel": "Матэрыялы з Oblivion",
@@ -61588,7 +61588,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG19Yes",
-    "custom": "",
+    "custom": "Так, я ўпэўнены на ўсе сто.",
     "en": "Yes, I'm certain.",
     "ru": "Да, я уверен на все сто.",
     "bel": "Так, я ўпэўнены на ўсе сто.",
@@ -61597,7 +61597,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MGAnchoriteAltarSpell",
-    "custom": "",
+    "custom": "Заклён анахарэта",
     "en": "Anchorite Spell",
     "ru": "Заклинание анахорета",
     "bel": "Заклён анахарэта",
@@ -61606,7 +61606,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MGArchmagesKey",
-    "custom": "",
+    "custom": "Ключ архімага",
     "en": "Arch-Mage's Key",
     "ru": "Ключ архимага",
     "bel": "Ключ архімага",
@@ -61615,7 +61615,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MGConversation",
-    "custom": "",
+    "custom": "Размовы па заданнях Гільдыі Магаў",
     "en": "Mages Guild Quest Conversations",
     "ru": "Разговоры по заданиям Гильдии Магов",
     "bel": "Размовы па заданнях Гільдыі Магаў",
@@ -61624,7 +61624,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MGExpelAccept",
-    "custom": "",
+    "custom": "Так, я зраблю гэта.",
     "en": "Yes, I'll do it.",
     "ru": "Да, я сделаю это.",
     "bel": "Так, я зраблю гэта.",
@@ -61633,7 +61633,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MGExpelDecline",
-    "custom": "",
+    "custom": "Ні за што.",
     "en": "Not a chance.",
     "ru": "Ни за что.",
     "bel": "Ні за што.",
@@ -61642,7 +61642,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MGExpelNo",
-    "custom": "",
+    "custom": "У мяне няма іх.",
     "en": "I don't have them.",
     "ru": "У меня нет их.",
     "bel": "У мяне няма іх.",
@@ -61651,7 +61651,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MGExpulsion01",
-    "custom": "",
+    "custom": "Выгнанне з Гільдыі магаў",
     "en": "Mages Guild Suspension",
     "ru": "Изгнание из Гильдии магов",
     "bel": "Выгнанне з Гільдыі магаў",
@@ -61660,7 +61660,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MGExpulsion02",
-    "custom": "",
+    "custom": "Паўторнае выгнанне з Гільдыі магаў",
     "en": "Mages Guild Second Suspension",
     "ru": "Повторное изгнание из Гильдии магов",
     "bel": "Паўторнае выгнанне з Гільдыі магаў",
@@ -61669,7 +61669,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MGMageScholar",
-    "custom": "",
+    "custom": "Маг-вучоны",
     "en": "Mage Scholar",
     "ru": "Маг-ученый",
     "bel": "Маг-вучоны",
@@ -61678,7 +61678,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MGMageScholar2",
-    "custom": "",
+    "custom": "Маг-вучоны",
     "en": "Mage Scholar",
     "ru": "Маг-ученый",
     "bel": "Маг-вучоны",
@@ -61687,7 +61687,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MGMageScholar3",
-    "custom": "",
+    "custom": "Маг-вучоны",
     "en": "Mage Scholar",
     "ru": "Маг-ученый",
     "bel": "Маг-вучоны",
@@ -61696,7 +61696,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MGMageScholar4",
-    "custom": "",
+    "custom": "Маг-вучоны",
     "en": "Mage Scholar",
     "ru": "Маг-ученый",
     "bel": "Маг-вучоны",
@@ -61705,7 +61705,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MGMageScholar5",
-    "custom": "",
+    "custom": "Маг-вучоны",
     "en": "Mage Scholar",
     "ru": "Маг-ученый",
     "bel": "Маг-вучоны",
@@ -61714,7 +61714,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MGMageScholar6",
-    "custom": "",
+    "custom": "Маг-вучоны",
     "en": "Mage Scholar",
     "ru": "Маг-ученый",
     "bel": "Маг-вучоны",
@@ -61723,7 +61723,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MGNecroAnchorites",
-    "custom": "",
+    "custom": "Некраманты-анахарэты",
     "en": "Necromancer Anchorites",
     "ru": "Некроманты-анахореты",
     "bel": "Некраманты-анахарэты",
@@ -61732,7 +61732,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MGRobeApprentice1",
-    "custom": "",
+    "custom": "Роба вучня",
     "en": "Robe of the Apprentice",
     "ru": "Роба ученика",
     "bel": "Роба вучня",
@@ -61741,7 +61741,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MGRobeApprentice10",
-    "custom": "",
+    "custom": "Роба вучня",
     "en": "Robe of the Apprentice",
     "ru": "Роба ученика",
     "bel": "Роба вучня",
@@ -61750,7 +61750,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MGRobeApprentice5",
-    "custom": "",
+    "custom": "Роба вучня",
     "en": "Robe of the Apprentice",
     "ru": "Роба ученика",
     "bel": "Роба вучня",
@@ -61759,7 +61759,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MGRobeConjurer01",
-    "custom": "",
+    "custom": "Роба чараўніка",
     "en": "Robe of the Conjurer",
     "ru": "Роба колдуна",
     "bel": "Роба чараўніка",
@@ -61768,7 +61768,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MGRobeConjurer05",
-    "custom": "",
+    "custom": "Роба чараўніка",
     "en": "Robe of the Conjurer",
     "ru": "Роба колдуна",
     "bel": "Роба чараўніка",
@@ -61777,7 +61777,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MGRobeConjurer10",
-    "custom": "",
+    "custom": "Роба чараўніка",
     "en": "Robe of the Conjurer",
     "ru": "Роба колдуна",
     "bel": "Роба чараўніка",
@@ -61786,7 +61786,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MGRobeConjurer15",
-    "custom": "",
+    "custom": "Роба чараўніка",
     "en": "Robe of the Conjurer",
     "ru": "Роба колдуна",
     "bel": "Роба чараўніка",
@@ -61795,7 +61795,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MGRobeConjurer20",
-    "custom": "",
+    "custom": "Роба чараўніка",
     "en": "Robe of the Conjurer",
     "ru": "Роба колдуна",
     "bel": "Роба чараўніка",
@@ -61804,7 +61804,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MGRobeConjurer25",
-    "custom": "",
+    "custom": "Роба чараўніка",
     "en": "Robe of the Conjurer",
     "ru": "Роба колдуна",
     "bel": "Роба чараўніка",
@@ -61813,7 +61813,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ00",
-    "custom": "",
+    "custom": "Асноўнае заданне: агульнае",
     "en": "Main Quest general",
     "ru": "Основное задание: общее",
     "bel": "Асноўнае заданне: агульнае",
@@ -61822,7 +61822,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ00BladesResponse",
-    "custom": "",
+    "custom": "Адказ MQ00Blades",
     "en": "MQ00BladesResponse",
     "ru": "Ответ MQ00Blades.",
     "bel": "Адказ MQ00Blades.",
@@ -61831,7 +61831,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ00BrumaResponse",
-    "custom": "",
+    "custom": "Адказ у MQ00Bruma",
     "en": "MQ00BrumaResponse",
     "ru": "Ответ в MQ00Bruma.",
     "bel": "Адказ у MQ00Bruma.",
@@ -61840,7 +61840,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ00EmperorResponse",
-    "custom": "",
+    "custom": "Адказ Імператара MQ00",
     "en": "MQ00EmperorResponse",
     "ru": "Ответ Императора MQ00",
     "bel": "Адказ Імператара MQ00",
@@ -61849,7 +61849,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ00KvatchResponse",
-    "custom": "",
+    "custom": "Адказ на MQ00Kvatch",
     "en": "MQ00KvatchResponse",
     "ru": "Ответ на MQ00Kvatch.",
     "bel": "Адказ на MQ00Kvatch.",
@@ -61858,7 +61858,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ00MagesGuildResponse",
-    "custom": "",
+    "custom": "Рэакцыя Гільдыі Магаў (MQ00MagesGuildResponse)",
     "en": "MQ00MagesGuildResponse",
     "ru": "Реакция Гильдии Магов (MQ00MagesGuildResponse)",
     "bel": "Рэакцыя Гільдыі Магаў (MQ00MagesGuildResponse)",
@@ -61867,7 +61867,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ00MythicDawnResponse",
-    "custom": "",
+    "custom": "Адказ MQ00MythicDawn",
     "en": "MQ00MythicDawnResponse",
     "ru": "Ответ MQ00MythicDawn",
     "bel": "Адказ MQ00MythicDawn",
@@ -61876,7 +61876,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ00NineDivinesResponse",
-    "custom": "",
+    "custom": "Адказ MQ00NineDivines",
     "en": "MQ00NineDivinesResponse",
     "ru": "Ответ MQ00NineDivines",
     "bel": "Адказ MQ00NineDivines",
@@ -61885,7 +61885,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ01TellWords",
-    "custom": "",
+    "custom": "Перадаць апошнія словы імператара.",
     "en": "Tell emperor's last words.",
     "ru": "Передать последние слова императора.",
     "bel": "Перадаць апошнія словы імператара.",
@@ -61894,7 +61894,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ02CrumpledPinerLetter01",
-    "custom": "",
+    "custom": "Змяты кавалак паперы",
     "en": "Crumpled Piece of Paper",
     "ru": "Мятый клочок бумаги",
     "bel": "Змяты клачок паперы",
@@ -61903,7 +61903,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ02CrumpledPinerLetter02",
-    "custom": "",
+    "custom": "Змяты кавалак паперы",
     "en": "Crumpled Piece of Paper",
     "ru": "Мятый клочок бумаги",
     "bel": "Змяты клачок паперы",
@@ -61912,7 +61912,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ02CrumpledPinerLetter03",
-    "custom": "",
+    "custom": "Змяты кавалак паперы",
     "en": "Crumpled Piece of Paper",
     "ru": "Мятый клочок бумаги",
     "bel": "Змяты клачок паперы",
@@ -61921,7 +61921,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ02FinishedPinerLetter",
-    "custom": "",
+    "custom": "Ліст маці",
     "en": "Letter to Mother",
     "ru": "Письмо матери",
     "bel": "Ліст маці",
@@ -61930,7 +61930,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ02JauffreA1",
-    "custom": "",
+    "custom": "У мяне з сабой Амулет Каралёў. Вось ён.",
     "en": "I brought you the Amulet of Kings.",
     "ru": "У меня с собой Амулет Королей. Вот он.",
     "bel": "У мяне з сабой Амулет Каралёў. Вось ён.",
@@ -61939,7 +61939,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ02JauffreA2",
-    "custom": "",
+    "custom": "Імператар прасіў мяне знайсці цябе.",
     "en": "The Emperor sent me to find you.",
     "ru": "Император просил меня найти тебя.",
     "bel": "Імператар прасіў мяне знайсці цябе.",
@@ -61948,7 +61948,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ02JauffreB2",
-    "custom": "",
+    "custom": "Ён памёр літаральна ў мяне на руках.",
     "en": "I was there when he died.",
     "ru": "Он умер буквально у меня на руках.",
     "bel": "Ён памёр літаральна ў мяне на руках.",
@@ -61957,7 +61957,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ02JauffreC1",
-    "custom": "",
+    "custom": "Сказаць пра апошнія словы імператара.",
     "en": "Tell the emperor's last words.",
     "ru": "Сказать о последних словах императора.",
     "bel": "Сказаць пра апошнія словы імператара.",
@@ -61966,7 +61966,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ02JauffreD1",
-    "custom": "",
+    "custom": "Хто такі Прынц Разбурэння?",
     "en": "Who is the Prince of Destruction?",
     "ru": "Кто такой Принц Разрушения?",
     "bel": "Хто такі Прынц Разбурэння?",
@@ -61975,7 +61975,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ02JauffreD2",
-    "custom": "",
+    "custom": "\"Зачыні браму Аблівіёна\"...?",
     "en": "\"Close shut the jaws of Oblivion\"...?",
     "ru": "\"Затвори врата Обливиона\"...?",
     "bel": "\"Зачыні браму Аблівіёна\"...?",
@@ -61984,7 +61984,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ02JauffreD3",
-    "custom": "",
+    "custom": "Імператар прасіў мяне знайсці яго сына.",
     "en": "The Emperor asked me to find his son.",
     "ru": "Император просил меня найти его сына.",
     "bel": "Імператар прасіў мяне знайсці яго сына.",
@@ -61993,7 +61993,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ02JauffreD4",
-    "custom": "",
+    "custom": "Як тады Аблівіён можа пагражаць нам?",
     "en": "How can Oblivion threaten us, then?",
     "ru": "Как тогда Обливион может угрожать нам?",
     "bel": "Як тады Аблівіён можа пагражаць нам?",
@@ -62002,7 +62002,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ02JauffreE1",
-    "custom": "",
+    "custom": "Дзе мне шукаць сына Урыэля?",
     "en": "Where can I find Uriel's son?",
     "ru": "Где мне искать сына Уриэля?",
     "bel": "Дзе мне шукаць сына Урыэля?",
@@ -62011,7 +62011,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ02PrivateBusiness",
-    "custom": "",
+    "custom": "У мяне асабістая справа.",
     "en": "My business is private.",
     "ru": "У меня личное дело.",
     "bel": "У мяне асабістая справа.",
@@ -62020,7 +62020,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ03",
-    "custom": "",
+    "custom": "Пошук спадчынніка",
     "en": "Find the Heir",
     "ru": "Поиск наследника",
     "bel": "Пошук спадчынніка",
@@ -62029,7 +62029,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ03ComeWithMe",
-    "custom": "",
+    "custom": "Пойдзем са мной у прыярат Вейнон.",
     "en": "Come with me to Weynon Priory.",
     "ru": "Пойдем со мной в приорат Вейнон.",
     "bel": "Пойдзем са мной у прыярат Вейнон.",
@@ -62038,7 +62038,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ03MartinA1",
-    "custom": "",
+    "custom": "Пойдзем са мной. Табе пагражае небяспека.",
     "en": "Come with me. You're in danger.",
     "ru": "Пойдем со мной. Тебе грозит опасность.",
     "bel": "Пойдзем са мной. Табе пагражае небяспека.",
@@ -62047,7 +62047,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ03MartinA2",
-    "custom": "",
+    "custom": "Імператар загадаў мне знайсці цябе.",
     "en": "The Emperor told me to find you.",
     "ru": "Император велел мне найти тебя.",
     "bel": "Імператар загадаў мне знайсці цябе.",
@@ -62056,7 +62056,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ03MartinA3",
-    "custom": "",
+    "custom": "Ты Марцін, правільна? Святар?",
     "en": "You're Martin, right? The priest?",
     "ru": "Ты Мартин, правильно? Священник?",
     "bel": "Ты Марцін, правільна? Святар?",
@@ -62065,7 +62065,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ03MartinB1",
-    "custom": "",
+    "custom": "Так, план ёсць. І мы яго частка.",
     "en": "There is a plan. We're part of it.",
     "ru": "Да, план есть. И мы его часть.",
     "bel": "Так, план ёсць. І мы яго частка.",
@@ -62074,7 +62074,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ03MartinB2",
-    "custom": "",
+    "custom": "Багі ці не, нам патрэбна твая дапамога.",
     "en": "Gods or not, we need your help.",
     "ru": "Боги или нет, нам нужна твоя помощь.",
     "bel": "Багі ці не, нам патрэбна твая дапамога.",
@@ -62083,7 +62083,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ03MartinB3",
-    "custom": "",
+    "custom": "Ты сын Урыэля Септыма.",
     "en": "You are Uriel Septim's son.",
     "ru": "Ты сын Уриэля Септима.",
     "bel": "Ты сын Урыэля Септыма.",
@@ -62092,7 +62092,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ03MartinC1",
-    "custom": "",
+    "custom": "Гэтыя дэйдра прыйшлі сюды па цябе.",
     "en": "The daedra came here for you.",
     "ru": "Эти дэйдра пришли сюда за тобой.",
     "bel": "Гэтыя дэйдра прыйшлі сюды па цябе.",
@@ -62101,7 +62101,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ03MartinC3",
-    "custom": "",
+    "custom": "Навошта мне хлусіць табе?",
     "en": "Why would I lie to you?",
     "ru": "Зачем мне лгать тебе?",
     "bel": "Навошта мне хлусіць табе?",
@@ -62110,7 +62110,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ03MartinD1",
-    "custom": "",
+    "custom": "Табе проста трэба мне давяраць.",
     "en": "You'll just have to trust me.",
     "ru": "Ты должен просто поверить мне.",
     "bel": "Ты павінен проста паверыць мне.",
@@ -62119,7 +62119,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ04",
-    "custom": "",
+    "custom": "Прыёрат Вейнон",
     "en": "Weynon Priory",
     "ru": "Приорат Вейнон",
     "bel": "Прыёрат Вейнон",
@@ -62128,7 +62128,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ04CheckOnAmulet",
-    "custom": "",
+    "custom": "Я пайду праверу, ці на месцы Амулет.",
     "en": "I'll go check on the Amulet.",
     "ru": "Я пойду проверю, на месте ли Амулет.",
     "bel": "Я пайду праверу, ці на месцы Амулет.",
@@ -62137,7 +62137,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ04Conv",
-    "custom": "",
+    "custom": "Размова MQ04",
     "en": "MQ04Conv",
     "ru": "Разговор MQ04",
     "bel": "Размова MQ04",
@@ -62146,7 +62146,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ04FoundMartin",
-    "custom": "",
+    "custom": "Марцін знойдзены. З ім усё ў парадку.",
     "en": "I found Martin. He is safe.",
     "ru": "Мартин найден. С ним все в порядке.",
     "bel": "Марцін знойдзены. З ім усё ў парадку.",
@@ -62155,7 +62155,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ04MartinEmperor",
-    "custom": "",
+    "custom": "І ты станеш імператарам.",
     "en": "And you will be the Emperor.",
     "ru": "И ты станешь императором.",
     "bel": "І ты станеш імператарам.",
@@ -62164,7 +62164,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ04MythicDawnAgent01",
-    "custom": "",
+    "custom": "Кіраўнік «Міфічнага Світанку»",
     "en": "Mythic Dawn Leader",
     "ru": "Предводитель Мифического Рассвета",
     "bel": "Правадыр Міфічнага світання",
@@ -62218,7 +62218,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ04PinerA1",
-    "custom": "",
+    "custom": "Я не ведаю, дзе Джофры.",
     "en": "I don't know where Jauffre is.",
     "ru": "Я не знаю, где Джоффри.",
     "bel": "Я не ведаю, дзе Джофры.",
@@ -62227,7 +62227,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ04PinerA2",
-    "custom": "",
+    "custom": "Эранор сказаў, ён у капліцы.",
     "en": "Eronor said he was in the Chapel.",
     "ru": "Эронор сказал, он в часовне.",
     "bel": "Эранор сказаў, ён у капліцы.",
@@ -62236,7 +62236,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ04SlowDown",
-    "custom": "",
+    "custom": "Пачакай. Раскажы мне, што адбылося.",
     "en": "Hold on. Tell me what happened.",
     "ru": "Подожди. Расскажи мне, что произошло.",
     "bel": "Пачакай. Раскажы мне, што адбылося.",
@@ -62245,7 +62245,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ04WeynonAttack",
-    "custom": "",
+    "custom": "Хто напаў на прыёрат Вейнон?",
     "en": "Who's attacking Weynon Priory?",
     "ru": "Кто напал на приорат Вейнон?",
     "bel": "Хто напаў на прыёрат Вейнон?",
@@ -62254,7 +62254,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ04WheresJauffre",
-    "custom": "",
+    "custom": "Дзе Джофры? З ім усё ў парадку?",
     "en": "Where's Jauffre? Is he safe?",
     "ru": "Где Джоффри? С ним все в порядке?",
     "bel": "Дзе Джофры? З ім усё ў парадку?",
@@ -62263,7 +62263,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05",
-    "custom": "",
+    "custom": "Шлях світання",
     "en": "The Path of Dawn",
     "ru": "Путь Рассвета",
     "bel": "Шлях світання",
@@ -62272,7 +62272,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05BaurusA",
-    "custom": "",
+    "custom": "Вораг захапіў Амулет.",
     "en": "The enemy has the Amulet.",
     "ru": "Враг захватил Амулет.",
     "bel": "Вораг захапіў Амулет.",
@@ -62281,7 +62281,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05BaurusB",
-    "custom": "",
+    "custom": "Знойдзены спадчыннік Урыэля.",
     "en": "I found Uriel's heir.",
     "ru": "Найден наследник Уриэля.",
     "bel": "Знойдзены спадчыннік Урыэля.",
@@ -62290,7 +62290,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05BaurusC",
-    "custom": "",
+    "custom": "Добра, кажы, што трэба рабіць.",
     "en": "I'm ready when you are.",
     "ru": "Хорошо, говори, что нужно делать.",
     "bel": "Добра, кажы, што трэба рабіць.",
@@ -62299,7 +62299,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05BaurusNextMove",
-    "custom": "",
+    "custom": "Што мы будзем рабіць далей?",
     "en": "What's our next move?",
     "ru": "Что мы будем делать дальше?",
     "bel": "Што мы будзем рабіць далей?",
@@ -62308,7 +62308,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05BaurusSewerA",
-    "custom": "",
+    "custom": "Як ты будзеш гатовы, так і я.",
     "en": "I'm ready when you are.",
     "ru": "Как ты будешь готов, так и я.",
     "bel": "Як ты будзеш гатовы, так і я.",
@@ -62317,7 +62317,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05BaurusSewerB3",
-    "custom": "",
+    "custom": "Не хвалюйся, я не падвяду.",
     "en": "Don't worry, I never fail.",
     "ru": "Не волнуйся, я не подведу.",
     "bel": "Не хвалюйся, я не падвяду.",
@@ -62326,7 +62326,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05CommentariesV1",
-    "custom": "",
+    "custom": "Міф. Світанак. Каментары 1",
     "en": "Mythic Dawn Commentaries 1",
     "ru": "Миф. Рассвет. Комментарии 1",
     "bel": "Міф. Світанак. Каментары 1",
@@ -62335,7 +62335,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05CommentariesV2",
-    "custom": "",
+    "custom": "Міф. Світанак. Каментары 2",
     "en": "Mythic Dawn Commentaries 2",
     "ru": "Миф. Рассвет. Комментарии 2",
     "bel": "Міф. Світанак. Каментары 2",
@@ -62344,7 +62344,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05CommentariesV3",
-    "custom": "",
+    "custom": "Міф. Світанак. Каментары 3",
     "en": "Mythic Dawn Commentaries 3",
     "ru": "Миф. Рассвет. Комментарии 3",
     "bel": "Міф. Світанак. Каментары 3",
@@ -62353,7 +62353,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05CommentariesV4",
-    "custom": "",
+    "custom": "Міф. Світанак. Каментары 4",
     "en": "Mythic Dawn Commentaries 4",
     "ru": "Миф. Рассвет. Комментарии 4",
     "bel": "Міф. Світанак. Каментары 4",
@@ -62362,7 +62362,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05FoundMythicDawn",
-    "custom": "",
+    "custom": "Сустрэча Міфічнага Світання",
     "en": "Mythic Dawn meeting",
     "ru": "Встреча Мифического Рассвета",
     "bel": "Сустрэча Міфічнага Світання",
@@ -62371,7 +62371,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05GwinasA1",
-    "custom": "",
+    "custom": "Я хачу купіць у цябе гэтую кнігу.",
     "en": "I want to buy it from you.",
     "ru": "Я хочу купить у тебя эту книгу.",
     "bel": "Я хачу купіць у цябе гэтую кнігу.",
@@ -62380,7 +62380,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05GwinasA2",
-    "custom": "",
+    "custom": "Проста аддай мне гэтую кнігу, і я пайду.",
     "en": "Just give me the book and I'll leave.",
     "ru": "Просто отдай мне эту книгу, и я уйду.",
     "bel": "Проста аддай мне гэтую кнігу, і я пайду.",
@@ -62389,7 +62389,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05GwinasA3",
-    "custom": "",
+    "custom": "Раскажы пра культ Міфічнага Світання.",
     "en": "Tell me about the Mythic Dawn cult.",
     "ru": "Расскажи о культе Мифического Рассвета.",
     "bel": "Раскажы пра культ Міфічнага Світання.",
@@ -62398,7 +62398,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05GwinasA4",
-    "custom": "",
+    "custom": "Не. Мне патрэбны твой экзэмпляр.",
     "en": "No. I need your copy.",
     "ru": "Нет. Мне нужен твой экземпляр.",
     "bel": "Не. Мне патрэбны твой экзэмпляр.",
@@ -62407,7 +62407,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05GwinasA5",
-    "custom": "",
+    "custom": "Не. Ты не паклічаш варту.",
     "en": "No. You won't call the guards.",
     "ru": "Нет. Ты не позовешь стражу.",
     "bel": "Не. Ты не паклічаш варту.",
@@ -62416,7 +62416,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05GwinasA6",
-    "custom": "",
+    "custom": "Фінтыяс прадаў трэці том мне.",
     "en": "Phintias sold me Volume 3.",
     "ru": "Финтиас продал третий том мне.",
     "bel": "Фінтыяс прадаў трэці том мне.",
@@ -62425,7 +62425,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05GwinasA7",
-    "custom": "",
+    "custom": "Крадзеж трэцяга тома - маіх рук справа.",
     "en": "I stole Volume 3 from Phintias.",
     "ru": "Кража третьего тома - моих рук дело.",
     "bel": "Крадзеж трэцяга тома - маіх рук справа.",
@@ -62434,7 +62434,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05GwinasA8",
-    "custom": "",
+    "custom": "Я шукаю чацвёрты том.",
     "en": "I'm looking for Volume 4.",
     "ru": "Я ищу четвертый том.",
     "bel": "Я шукаю чацвёрты том.",
@@ -62443,7 +62443,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05GwinasB1",
-    "custom": "",
+    "custom": "Не прыкідвайся дурнікам.",
     "en": "Don't play stupid.",
     "ru": "Не прикидывайся дурачком.",
     "bel": "Не прыкідвайся дурнікам.",
@@ -62452,7 +62452,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05GwinasB2",
-    "custom": "",
+    "custom": "Ты ўвязваешся ў небяспечную справу.",
     "en": "You're in way over your head.",
     "ru": "Ты ввязываешься в опасное дело.",
     "bel": "Ты ўвязваешся ў небяспечную справу.",
@@ -62461,7 +62461,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05GwinasB3",
-    "custom": "",
+    "custom": "Сябры... у Міфічным Світананні?",
     "en": "Friends ... in the Mythic Dawn?",
     "ru": "Друзья... в Мифическом Рассвете?",
     "bel": "Сябры... у Міфічным Світананні?",
@@ -62470,7 +62470,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05GwinasB4",
-    "custom": "",
+    "custom": "Яны забілі імператара, ты, ідыёт!",
     "en": "They killed the Emperor, you fool!",
     "ru": "Они убили императора, ты, идиот!",
     "bel": "Яны забілі імператара, ты, ідыёт!",
@@ -62479,7 +62479,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05GwinasB5",
-    "custom": "",
+    "custom": "Міфічны Світанак небяспечны.",
     "en": "The Mythic Dawn is dangerous.",
     "ru": "Мифический Рассвет опасен.",
     "bel": "Міфічны Світанак небяспечны.",
@@ -62488,7 +62488,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05GwinasC3",
-    "custom": "",
+    "custom": "Табе лепш расказаць мне ўсё.",
     "en": "You'd better tell me what you know.",
     "ru": "Тебе лучше рассказать мне все.",
     "bel": "Табе лепш расказаць мне ўсё.",
@@ -62497,7 +62497,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05GwinasNote",
-    "custom": "",
+    "custom": "Запіска для Гвінаса",
     "en": "Note to Gwinas",
     "ru": "Записка для Гвинаса",
     "bel": "Запіска для Гвінаса",
@@ -62506,7 +62506,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05GwinasPhintiasB",
-    "custom": "",
+    "custom": "MQ05GwinasPhintiasB",
     "en": "MQ05GwinasPhintiasB",
     "ru": "MQ05GwinasPhintiasB",
     "bel": "MQ05GwinasPhintiasB",
@@ -62533,7 +62533,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05PhintiasA",
-    "custom": "",
+    "custom": "Мне патрэбны тамы 3 і 4.",
     "en": "I need volumes 3 and 4.",
     "ru": "Мне нужны тома 3 и 4.",
     "bel": "Мне патрэбны тамы 3 і 4.",
@@ -62542,7 +62542,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05PhintiasBuyYes",
-    "custom": "",
+    "custom": "[Купіць трэці том за 100 залатых]",
     "en": "[Buy Volume 3 for 100 gold]",
     "ru": "[Купить третий том за 100 золотых]",
     "bel": "[Купіць трэці том за 100 залатых]",
@@ -62551,7 +62551,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05PlanB",
-    "custom": "",
+    "custom": "Добра. Я прыкрыю цябе.",
     "en": "Alright. I'll cover you.",
     "ru": "Хорошо. Я прикрою тебя.",
     "bel": "Добра. Я прыкрыю цябе.",
@@ -62560,7 +62560,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05PlanC",
-    "custom": "",
+    "custom": "Не зараз.",
     "en": "I'm not ready yet.",
     "ru": "Мне нужно время на подготовку.",
     "bel": "Мне патрэбны час на падрыхтоўку.",
@@ -62569,7 +62569,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05RavenSpeech",
-    "custom": "",
+    "custom": "Прамова MQ05Raven",
     "en": "MQ05RavenSpeech",
     "ru": "Речь MQ05Raven",
     "bel": "Прамова MQ05Raven",
@@ -62578,7 +62578,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05SecretDoor01",
-    "custom": "",
+    "custom": "Каменная сцяна",
     "en": "Rock Wall",
     "ru": "Каменная стена",
     "bel": "Каменны мур",
@@ -62587,7 +62587,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05ShrinePassword",
-    "custom": "",
+    "custom": "Сустракай новы дзень.",
     "en": "Greet the new day.",
     "ru": "Поприветствуем новый день.",
     "bel": "Прывітаем новы дзень.",
@@ -62596,7 +62596,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05SunkenSewersKey",
-    "custom": "",
+    "custom": "Ключ ад затопленай каналізацыі",
     "en": "Sunken Sewers Key",
     "ru": "Ключ от Затопленной канализации",
     "bel": "Ключ ад затопленай каналізацыі",
@@ -62605,7 +62605,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05TarMeenaA",
-    "custom": "",
+    "custom": "Мне трапілася адна з іх кніг.",
     "en": "I found one of their books.",
     "ru": "Мне попалась одна из их книг.",
     "bel": "Мне трапілася адна з іх кніг.",
@@ -62614,7 +62614,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05TarMeenaC",
-    "custom": "",
+    "custom": "Дзе мне шукаць гэтыя кнігі?",
     "en": "Where can I find these books?",
     "ru": "Где мне искать эти книги?",
     "bel": "Дзе мне шукаць гэтыя кнігі?",
@@ -62623,7 +62623,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05TarMeenaNoBooks",
-    "custom": "",
+    "custom": "Не, у мяне няма гэтых кніг.",
     "en": "No, I don't have the books.",
     "ru": "Нет, у меня нет этих книг.",
     "bel": "Не, у мяне няма гэтых кніг.",
@@ -62632,7 +62632,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05TarMeenaYesBooks",
-    "custom": "",
+    "custom": "Так, яны ў мяне з сабой.",
     "en": "Yes, I have them right here.",
     "ru": "Да, они у меня с собой.",
     "bel": "Так, яны ў мяне з сабой.",
@@ -62641,7 +62641,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05VolumeFour",
-    "custom": "",
+    "custom": "\"Каментарыі\", том 4",
     "en": "Commentaries, Volume Four",
     "ru": "\"Комментарии\", том 4",
     "bel": "\"Каментарыі\", том 4",
@@ -62650,7 +62650,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05VolumeThree",
-    "custom": "",
+    "custom": "\"Каментарыі\", том 3",
     "en": "Commentaries, Volume Three",
     "ru": "\"Комментарии\", том 3",
     "bel": "\"Каментарыі\", том 3",
@@ -62659,7 +62659,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ05WhatBaurusLearned",
-    "custom": "",
+    "custom": "Што ты даведаўся?",
     "en": "What have you learned?",
     "ru": "Что ты узнал?",
     "bel": "Што ты даведаўся?",
@@ -62668,7 +62668,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ06AntechamberKey",
-    "custom": "",
+    "custom": "Ключ ад свяцілішча Дагона",
     "en": "Shrine of Dagon Key",
     "ru": "Ключ от святилища Дагона",
     "bel": "Ключ ад свяцілішча Дагона",
@@ -62677,7 +62677,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ06FakeMysteriumXarxes",
-    "custom": "",
+    "custom": "Містэрыум Заркса",
     "en": "Mysterium Xarxes",
     "ru": "Мистериум Заркса",
     "bel": "Містэрыум Заркса",
@@ -62686,7 +62686,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ06GivePossessions",
-    "custom": "",
+    "custom": "[Аддаць яму ўсё, што ў вас ёсць]",
     "en": "[Give him all your possessions]",
     "ru": "[Отдать ему все, что у вас есть]",
     "bel": "[Аддаць яму ўсё, што ў вас ёсць]",
@@ -62695,7 +62695,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ06JauffreB",
-    "custom": "",
+    "custom": "Магчыма. У мяне ёсць Містэрыум Заркса.",
     "en": "Maybe. I have the Mysterium Xarxes.",
     "ru": "Да. У меня есть Мистериум Заркса.",
     "bel": "Так. У мяне ёсць Містэрыум Заркса.",
@@ -62704,7 +62704,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ06MankarSpeech",
-    "custom": "",
+    "custom": "Гаворка MQ06Mankar",
     "en": "MQ06MankarSpeech",
     "ru": "Речь MQ06Mankar",
     "bel": "Гаворка MQ06Mankar",
@@ -62713,7 +62713,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ06MartinA",
-    "custom": "",
+    "custom": "Не. Але ў мяне ёсць Містэрыум Заркса.",
     "en": "No. But I have the Mysterium Xarxes.",
     "ru": "Нет. Но у меня есть Мистериум Заркса.",
     "bel": "Не. Але ў мяне ёсць Містэрыум Заркса.",
@@ -62722,7 +62722,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ06MartinB",
-    "custom": "",
+    "custom": "Можа Заркс прывесці нас да Каморана?",
     "en": "Can the Xarxes lead us to Camoran?",
     "ru": "Может Заркс привести нас к Каморану?",
     "bel": "Можа Заркс прывесці нас да Каморана?",
@@ -62731,7 +62731,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ06MysteriumXarxes",
-    "custom": "",
+    "custom": "Містэрыум Заркса",
     "en": "Mysterium Xarxes",
     "ru": "Мистериум Заркса",
     "bel": "Містэрыум Заркса",
@@ -62830,7 +62830,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ06MythicDawnAlarm",
-    "custom": "",
+    "custom": "Будзільнік MQ06MythicDawn",
     "en": "MQ06MythicDawnAlarm",
     "ru": "Будильник MQ06MythicDawn",
     "bel": "Будзільнік MQ06MythicDawn",
@@ -62902,7 +62902,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ06MythicDawnCrate03",
-    "custom": "",
+    "custom": "Пакамечаны яшчык",
     "en": "A Battered Crate",
     "ru": "Ветхий ящик",
     "bel": "Пашарпаная скрыня",
@@ -62947,7 +62947,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ06MythicDawnShrineFaction",
-    "custom": "",
+    "custom": "Выкарыстоўваецца для ўмоў дыялогу MQ06",
     "en": "Used for MQ06 dialogue conditions",
     "ru": "Используется для условий диалога MQ06.",
     "bel": "Выкарыстоўваецца для ўмоў дыялогу MQ06.",
@@ -62974,7 +62974,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ06MythicDawnStoreroomGuard",
-    "custom": "",
+    "custom": "Стражнік склада Міфічнага світанку",
     "en": "Mythic Dawn Storeroom Guard",
     "ru": "Стражник склада Мифического Рассвета",
     "bel": "Стражнік склада Міфічнага світанку",
@@ -62983,7 +62983,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ06NoGive",
-    "custom": "",
+    "custom": "Не, не думаю.",
     "en": "No, I don't think so.",
     "ru": "Нет, это меня не устраивает.",
     "bel": "Не, гэта мяне не задавальняе.",
@@ -62992,7 +62992,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ06NoGiveFinal",
-    "custom": "",
+    "custom": "Я не збіраюся ўступаць у ордэн.",
     "en": "I'm not here to join the Order.",
     "ru": "Я не собираюсь вступать в орден.",
     "bel": "Я не збіраюся ўступаць у ордэн.",
@@ -63001,7 +63001,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ06RumaNo",
-    "custom": "",
+    "custom": "Не, я не буду забіваць для вас.",
     "en": "No, I will not kill for you.",
     "ru": "Нет, я не буду убивать для вас.",
     "bel": "Не, я не буду забіваць для вас.",
@@ -63010,7 +63010,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ06ShrineTalkInvasion",
-    "custom": "",
+    "custom": "Нашэсце ў MQ06Shrine",
     "en": "MQ06ShrineTalkInvasion",
     "ru": "Нашествие у MQ06Shrine",
     "bel": "Нашэсце ў MQ06Shrine",
@@ -63019,7 +63019,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ06ShrineTalkPatience",
-    "custom": "",
+    "custom": "Размова ля свяцілішча MQ06",
     "en": "MQ06ShrineTalk2",
     "ru": "Разговор у святилища MQ06",
     "bel": "Размова ля свяцілішча MQ06",
@@ -63028,7 +63028,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ06ShrineTalkStart",
-    "custom": "",
+    "custom": "Размова ў храме MQ06",
     "en": "MQ06ShrineTalk1",
     "ru": "Разговор в храме MQ06",
     "bel": "Размова ў храме MQ06",
@@ -63037,7 +63037,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ06ShrineTalkStoreroom",
-    "custom": "",
+    "custom": "Свяцілішча MQ06: Размова, Кладоўка",
     "en": "MQ06ShrineTalkStoreroom",
     "ru": "Святилище MQ06: Разговор, Кладовая",
     "bel": "Свяцілішча MQ06: Размова, Кладоўка",
@@ -63046,7 +63046,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ07BasementKey",
-    "custom": "",
+    "custom": "Ключ ад склепа",
     "en": "Basement Key",
     "ru": "Ключ от подвала",
     "bel": "Ключ ад склепа",
@@ -63064,7 +63064,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ07BeggarPay",
-    "custom": "",
+    "custom": "5 залатых асвяжаць тваю памяць?",
     "en": "Would 5 gold jog your memory?",
     "ru": "5 золотых освежат твою память?",
     "bel": "5 залатых асвяжаць тваю памяць?",
@@ -63073,7 +63073,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ07BurdA",
-    "custom": "",
+    "custom": "У Джэрл спыніўся госць.",
     "en": "Jearl has a vistor.",
     "ru": "У Джерл остановился гость.",
     "bel": "У Джэрл спыніўся госць.",
@@ -63082,7 +63082,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ07BurdB",
-    "custom": "",
+    "custom": "Джэрл працавала на Міфічны світанак.",
     "en": "Jearl was a Mythic Dawn agent.",
     "ru": "Джерл работала на Мифический Рассвет.",
     "bel": "Джэрл працавала на Міфічны світанак.",
@@ -63091,7 +63091,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MQ07BurdC",
-    "custom": "",
+    "custom": "Пакуль нічога высветліць не ўдалося.",
     "en": "Nothing of interest to report.",
     "ru": "Пока ничего выяснить не удалось.",
     "bel": "Пакуль нічога высветліць не ўдалося.",
