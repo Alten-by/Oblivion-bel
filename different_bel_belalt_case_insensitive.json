@@ -96301,7 +96301,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE35EarilInitialHello",
-    "custom": "",
+    "custom": "На агляд?",
     "en": "On display?",
     "ru": "На обозрение?",
     "bel": "На агляд?",
@@ -96310,7 +96310,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE35EarilInitialHello02",
-    "custom": "",
+    "custom": "Гм... Не, дзякуй...",
     "en": "Uhm... no thank you...",
     "ru": "Хм... Нет, спасибо...",
     "bel": "Гм... Не, дзякуй...",
@@ -96319,7 +96319,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE35FlawlessPearlsTopic",
-    "custom": "",
+    "custom": "Бездакорны жэмчуг",
     "en": "Flawless Pearls",
     "ru": "Безупречный жемчуг",
     "bel": "Бездакорны жэмчуг",
@@ -96328,7 +96328,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE35Hate",
-    "custom": "",
+    "custom": "Чаму ты яго так ненавідзіш?",
     "en": "Why do you hate him so much?",
     "ru": "Почему ты его так ненавидишь?",
     "bel": "Чаму ты яго так ненавідзіш?",
@@ -96337,7 +96337,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE35Heart",
-    "custom": "",
+    "custom": "Вось доказ. (Даць сэрца)",
     "en": "I have proof. (Give heart)",
     "ru": "Вот доказательство. (Дать сердце)",
     "bel": "Вось доказ. (Даць сэрца)",
@@ -96346,7 +96346,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE35HereYouGo",
-    "custom": "",
+    "custom": "Калі ласка. (Даць жэмчуг)",
     "en": "Here you are. (Give Pearls)",
     "ru": "Пожалуйста. (Дать жемчуг)",
     "bel": "Калі ласка. (Даць жэмчуг)",
@@ -96355,7 +96355,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE35RumorResponses",
-    "custom": "",
+    "custom": "SE35РэакцыіНаПлёткі",
     "en": "SE35RumorResponses",
     "ru": "Слухи в SE35.",
     "bel": "Плёткі ў SE35.",
@@ -96364,7 +96364,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE36",
-    "custom": "",
+    "custom": "Канчатковы супакой",
     "en": "Final Resting",
     "ru": "Окончательный покой",
     "bel": "Канчатковы супакой",
@@ -96373,7 +96373,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE36Choice2HelpNo",
-    "custom": "",
+    "custom": "Мне няма цікавасці табе дапамагаць.",
     "en": "I'm not interested in helping you.",
     "ru": "Мне нет интереса тебе помогать.",
     "bel": "Мне няма цікавасці табе дапамагаць.",
@@ -96382,7 +96382,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE36Choice3WhatTask",
-    "custom": "",
+    "custom": "Што трэба зрабіць?",
     "en": "What's the task?",
     "ru": "Что нужно сделать?",
     "bel": "Што трэба зрабіць?",
@@ -96391,7 +96391,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE36Choice4BadDay",
-    "custom": "",
+    "custom": "Мне шкада, што ў цябе дзень няўдалы.",
     "en": "I'm sorry you're having a bad day.",
     "ru": "Мне жаль, что у тебя день неудачный.",
     "bel": "Мне шкада, што ў цябе дзень няўдалы.",
@@ -96400,7 +96400,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE36Choice4SoWhat",
-    "custom": "",
+    "custom": "Ну і? Што мне да гэтага?",
     "en": "So what? What's this to me?",
     "ru": "Ну и? Что мне за дело?",
     "bel": "Ну і? Што мне да гэтага?",
@@ -96409,7 +96409,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE36Choice5KillSelf",
-    "custom": "",
+    "custom": "Чаму ты не хочаш скончыць з сабой?",
     "en": "Why don't you just kill yourself?",
     "ru": "Почему ты не хочешь покончить с собой?",
     "bel": "Чаму ты не хочаш скончыць з сабой?",
@@ -96418,7 +96418,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE36Choice6HowDie",
-    "custom": "",
+    "custom": "Як бы ты хацеў памерці?",
     "en": "How do you want to die?",
     "ru": "Как бы ты хотел умереть?",
     "bel": "Як бы ты хацеў памерці?",
@@ -96427,7 +96427,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE36Choice7NowWhat",
-    "custom": "",
+    "custom": "Павінна выглядаць выпадковасцю. Але як?",
     "en": "It should look accidental. How?",
     "ru": "Должно выглядеть случайностью. Но как?",
     "bel": "Павінна выглядаць выпадковасцю. Але як?",
@@ -96436,7 +96436,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE36Choice8Reward",
-    "custom": "",
+    "custom": "І што наконт узнагароды?",
     "en": "And about this reward?",
     "ru": "И что насчет награды?",
     "bel": "І што наконт узнагароды?",
@@ -96445,7 +96445,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE36ChoiceLedge1Push",
-    "custom": "",
+    "custom": "Сёння табе шанцуе. [Штурхнуць]",
     "en": "Today is your lucky day. [Push]",
     "ru": "Сегодня тебе везет. [Толкнуть]",
     "bel": "Сёння табе шанцуе. [Штурхнуць]",
@@ -96454,7 +96454,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE36ChoiceLedge2Nevermind",
-    "custom": "",
+    "custom": "Шчасліва. [Пайсці]",
     "en": "Good luck with all that. [Leave]",
     "ru": "Счастливо. [Уйти]",
     "bel": "Шчасліва. [Пайсці]",
@@ -96463,7 +96463,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE36GuardResponse",
-    "custom": "",
+    "custom": "SE36АдказСтражы",
     "en": "SE36GuardResponse",
     "ru": "Реакция SE36Guard",
     "bel": "Рэакцыя SE36Guard",
@@ -96472,7 +96472,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE36HeyYou",
-    "custom": "",
+    "custom": "Гэй, ты",
     "en": "SE36HeyYou",
     "ru": "Эй, ты.",
     "bel": "Гэй, ты.",
@@ -96481,7 +96481,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE36Note",
-    "custom": "",
+    "custom": "Завяшчанне Хіруса Клутумнуса",
     "en": "Hirrus Clutumnus's Will",
     "ru": "Завещание Хирруса Клутумнуса",
     "bel": "Завяшчанне Хіруса Клутумнуса",
@@ -96490,7 +96490,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE36OnDeath",
-    "custom": "",
+    "custom": "SE36ПрыСмерці",
     "en": "SE36OnDeath",
     "ru": "SE36OnDeath",
     "bel": "SE36OnDeath",
@@ -96499,7 +96499,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE36RewardBox",
-    "custom": "",
+    "custom": "Скрынка для ўпрыгожванняў",
     "en": "Jewelry Box",
     "ru": "Шкатулка для драгоценностей",
     "bel": "Шкатулка для каштоўнасцяў",
@@ -96508,7 +96508,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE37",
-    "custom": "",
+    "custom": "Класіфікатар",
     "en": "Taxonomy of Obsession",
     "ru": "Классификатор",
     "bel": "Класіфікатар",
@@ -96517,7 +96517,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE37AllDone",
-    "custom": "",
+    "custom": "Гэта апошняе з твайго спісу.",
     "en": "That's the last item on your list.",
     "ru": "Это последнее из твоего списка.",
     "bel": "Гэта апошняе з твайго спісу.",
@@ -96526,7 +96526,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE37ApprenticeSpell",
-    "custom": "",
+    "custom": "500 манет за Прыказ вучня",
     "en": "500 gold for the Apprentice Command",
     "ru": "500 монет за Приказ ученика",
     "bel": "500 манет за Прыказ вучня",
@@ -96535,7 +96535,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE37Beast",
-    "custom": "",
+    "custom": "Звярынец Мірылі",
     "en": "Mirili's Bestiary",
     "ru": "Зверинец Мирили",
     "bel": "Звярынец Мірылі",
@@ -96544,7 +96544,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE37CommandCreature2Apprentice",
-    "custom": "",
+    "custom": "Вучнёўскі прыказ Мірылі",
     "en": "Mirili's Apprentice Command",
     "ru": "Ученический приказ Мирили",
     "bel": "Вучнёўскі прыказ Мірылі",
@@ -96553,7 +96553,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE37CommandCreature3Journeyman",
-    "custom": "",
+    "custom": "Спецыяльны прыказ Мірылі",
     "en": "Mirili's Journeyman Command",
     "ru": "Специальный приказ Мирили",
     "bel": "Спецыяльны прыказ Мірылі",
@@ -96562,7 +96562,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE37CommandCreature4Expert",
-    "custom": "",
+    "custom": "Экспертны прыказ Мірылі",
     "en": "Mirili's Expert Command",
     "ru": "Экспертный приказ Мирили",
     "bel": "Экспертны прыказ Мірылі",
@@ -96571,7 +96571,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE37EndConversation",
-    "custom": "",
+    "custom": "SE37КанецРазмовы",
     "en": "SE37EndConversation",
     "ru": "Завершить SE37EndConversation",
     "bel": "Завяршыць SE37EndConversation",
@@ -96580,7 +96580,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE37Errand",
-    "custom": "",
+    "custom": "Даследаванні Мірылі",
     "en": "Mirili's Research",
     "ru": "Исследования Мирили",
     "bel": "Даследаванні Мірылі",
@@ -96589,7 +96589,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE37ExpertSpell",
-    "custom": "",
+    "custom": "2000 манет за Прыказ эксперта",
     "en": "2000 gold for the Expert Command",
     "ru": "2000 монет за Приказ эксперта",
     "bel": "2000 манет за Прыказ эксперта",
@@ -96598,7 +96598,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE37JourneymanSpell",
-    "custom": "",
+    "custom": "1000 манет за Прыказ спецыяліста",
     "en": "1000 gold for the Journeyman Command",
     "ru": "1000 монет за Приказ специалиста",
     "bel": "1000 манет за Прыказ спецыяліста",
@@ -96607,7 +96607,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE37No",
-    "custom": "",
+    "custom": "Не, мне нічога не трапілася.",
     "en": "No, I haven't found any.",
     "ru": "Нет, мне ничего не попалось.",
     "bel": "Не, мне нічога не трапілася.",
@@ -96616,7 +96616,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE37Response",
-    "custom": "",
+    "custom": "SE37Адказ",
     "en": "SE37Response",
     "ru": "Ответ SE37Response",
     "bel": "Адкажы SE37Response",
@@ -96625,7 +96625,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE37Yes",
-    "custom": "",
+    "custom": "У мяне ёсць цікавыя ўзоры.",
     "en": "I have some interesting specimens.",
     "ru": "У меня есть интересные образчики.",
     "bel": "У мяне ёсць цікавыя ўзоры.",
@@ -96634,7 +96634,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38",
-    "custom": "",
+    "custom": "Кунсткамера",
     "en": "The Museum of Oddities",
     "ru": "Кунсткамера",
     "bel": "Кунсткамера",
@@ -96643,7 +96643,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38DSwampTentacleDeformed",
-    "custom": "",
+    "custom": "Дэфармаваны балотны вусік",
     "en": "Deformed Swamp Tentacle",
     "ru": "Деформированный болотный усик",
     "bel": "Дэфармаваны балотны вусік",
@@ -96661,7 +96661,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38Item1",
-    "custom": "",
+    "custom": "Сляпы вачэй вартавога",
     "en": "Blind Watcher's Eye",
     "ru": "Слепой глаз дозорного",
     "bel": "Сляпы вачэй вартавога",
@@ -96670,7 +96670,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38Item12",
-    "custom": "",
+    "custom": "Маўклівы крыкун",
     "en": "Mute Screaming Maw",
     "ru": "Безмолвная кричалка",
     "bel": "Маўклівы крыкун",
@@ -96679,7 +96679,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38Item2",
-    "custom": "",
+    "custom": "Дэфармаваны балотны вусік",
     "en": "Deformed Swamp Tentacle",
     "ru": "Деформированный болотный усик",
     "bel": "Дэфармаваны балотны вусік",
@@ -96688,7 +96688,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38Item3",
-    "custom": "",
+    "custom": "Янтар, які нагадвае Шэагората",
     "en": "Sheogorath- Shaped Amber",
     "ru": "Янтарь, напоминающий Шеогората",
     "bel": "Янтар, які нагадвае Шэагората",
@@ -96697,7 +96697,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38Item7",
-    "custom": "",
+    "custom": "Памідор душ",
     "en": "Soul Tomato",
     "ru": "Помидор душ",
     "bel": "Памідор душ",
@@ -96706,7 +96706,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38Item8",
-    "custom": "",
+    "custom": "Міска для змешвання",
     "en": "Mixing Bowl",
     "ru": "Миска для смешивания",
     "bel": "Міска для змешвання",
@@ -96715,7 +96715,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38Item9",
-    "custom": "",
+    "custom": "Ключ з сабачага ікла",
     "en": "Hound's Tooth Key",
     "ru": "Ключ из собачьего клыка",
     "bel": "Ключ з сабачага ікла",
@@ -96724,7 +96724,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38ItemB",
-    "custom": "",
+    "custom": "Рука Вартавога брамы",
     "en": "Gatekeeper's Arm",
     "ru": "Рука Стража врат",
     "bel": "Рука Вартавога брамы",
@@ -96733,7 +96733,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38MuseumItem1",
-    "custom": "",
+    "custom": "Сляпы вачэй вартавога",
     "en": "Blind Watcher's Eye",
     "ru": "Слепой глаз дозорного",
     "bel": "Сляпы вачэй вартавога",
@@ -96742,7 +96742,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38MuseumItem12",
-    "custom": "",
+    "custom": "Маўклівы крыкун",
     "en": "Mute Screaming Maw",
     "ru": "Безмолвная кричалка",
     "bel": "Маўклівы крыкун",
@@ -96751,7 +96751,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38MuseumItem2",
-    "custom": "",
+    "custom": "Дэфармаваны балотны вусік",
     "en": "Deformed Swamp Tentacle",
     "ru": "Деформированный болотный усик",
     "bel": "Дэфармаваны балотны вусік",
@@ -96760,7 +96760,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38MuseumItem3",
-    "custom": "",
+    "custom": "Янтар, які нагадвае Шэагората",
     "en": "Sheogorath- Shaped Amber",
     "ru": "Янтарь, напоминающий Шеогората",
     "bel": "Янтар, які нагадвае Шэагората",
@@ -96769,7 +96769,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38MuseumItem7",
-    "custom": "",
+    "custom": "Памідор душ",
     "en": "Soul Tomato",
     "ru": "Помидор душ",
     "bel": "Памідор душ",
@@ -96778,7 +96778,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38MuseumItem8",
-    "custom": "",
+    "custom": "Міска для змешвання",
     "en": "Mixing Bowl",
     "ru": "Миска для смешивания",
     "bel": "Міска для змешвання",
@@ -96787,7 +96787,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38MuseumItem9",
-    "custom": "",
+    "custom": "Ключ з сабачага ікла",
     "en": "Hound's Tooth Key",
     "ru": "Ключ из собачьего клыка",
     "bel": "Ключ з сабачага ікла",
@@ -96796,7 +96796,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38MuseumItemB",
-    "custom": "",
+    "custom": "Рука Вартавога брамы",
     "en": "Gatekeeper's Arm",
     "ru": "Рука Стража врат",
     "bel": "Рука Вартавога брамы",
@@ -96805,7 +96805,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38MuseumItemC",
-    "custom": "",
+    "custom": "Пярсцёнак абязводжвання",
     "en": "Ring of Desiccation",
     "ru": "Кольцо обезвоживания",
     "bel": "Пярсцёнак абязводжвання",
@@ -96814,7 +96814,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38Oddity1",
-    "custom": "",
+    "custom": "[Прапанаваць сляпы вачэй вартавога]",
     "en": "[Offer Blind Watcher's Eye]",
     "ru": "[Предложить слепой глаз дозорного]",
     "bel": "[Прапанаваць сляпы вачэй вартавога]",
@@ -96823,7 +96823,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38Oddity12",
-    "custom": "",
+    "custom": "[Прапанаваць маўклівага крыкуна]",
     "en": "[Offer Mute Screaming Maw]",
     "ru": "[Предложить безмолвную кричалку]",
     "bel": "[Прапанаваць маўклівага крыкуна]",
@@ -96832,7 +96832,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38Oddity2",
-    "custom": "",
+    "custom": "[Даць дэфармаваны балотны вусік]",
     "en": "[Offer Deformed Swamp Tentacle]",
     "ru": "[Дать деформированный болотный усик]",
     "bel": "[Даць дэфармаваны балотны вусік]",
@@ -96841,7 +96841,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38Oddity3",
-    "custom": "",
+    "custom": "[Прапанаваць янтар у форме Шэагората]",
     "en": "[Offer Sheogorath-shaped Amber]",
     "ru": "[Предложить янтарь в форме Шеогората]",
     "bel": "[Прапанаваць янтар у форме Шэагората]",
@@ -96850,7 +96850,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38Oddity4",
-    "custom": "",
+    "custom": "[Прапанаваць таз Пелагіуса]",
     "en": "[Offer Pelvis of Pelagius]",
     "ru": "[Предложить таз Пелагиуса]",
     "bel": "[Прапанаваць таз Пелагіуса]",
@@ -96859,7 +96859,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38Oddity6",
-    "custom": "",
+    "custom": "[Прапанаваць двухгаловы септым]",
     "en": "[Offer Two-Headed Septim]",
     "ru": "[Предложить двухголовый септим]",
     "bel": "[Прапанаваць двухгаловы септым]",
@@ -96868,7 +96868,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38Oddity7",
-    "custom": "",
+    "custom": "[Прапанаваць \"памідор душ\"]",
     "en": "[Offer Soul Tomato]",
     "ru": "[Предложить \"помидор душ\"]",
     "bel": "[Прапанаваць \"памідор душ\"]",
@@ -96877,7 +96877,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38Oddity9",
-    "custom": "",
+    "custom": "[Прапанаваць ключ з сабачага ікла]",
     "en": "[Offer Hound's Tooth Key]",
     "ru": "[Предложить ключ из собачьего клыка]",
     "bel": "[Прапанаваць ключ з сабачага ікла]",
@@ -96886,7 +96886,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38OddityB",
-    "custom": "",
+    "custom": "[Прапанаваць руку Вартавога]",
     "en": "[Offer Gatekeeper's Arm]",
     "ru": "[Предложить руку Стража]",
     "bel": "[Прапанаваць руку Вартавога]",
@@ -96895,7 +96895,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38OddityC",
-    "custom": "",
+    "custom": "[Прапанаваць Пярсцёнак абязводжвання]",
     "en": "[Offer Ring of Desiccation]",
     "ru": "[Предложить Кольцо обезвоживания]",
     "bel": "[Прапанаваць Пярсцёнак абязводжвання]",
@@ -96913,7 +96913,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38Poddim01",
-    "custom": "",
+    "custom": "Маўклівы крыкун",
     "en": "Mute Screaming Maw",
     "ru": "Безмолвная кричалка",
     "bel": "Маўклівы крыкун",
@@ -96922,7 +96922,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38Poddim02",
-    "custom": "",
+    "custom": "Маўклівы крыкун",
     "en": "Mute Screaming Maw",
     "ru": "Безмолвная кричалка",
     "bel": "Маўклівы крыкун",
@@ -96931,7 +96931,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38Podwet01",
-    "custom": "",
+    "custom": "Вока вартавога",
     "en": "Watcher's Eye",
     "ru": "Глаз дозорного",
     "bel": "Вока вартавога",
@@ -96940,7 +96940,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38Podwet02",
-    "custom": "",
+    "custom": "Вока вартавога",
     "en": "Watcher's Eye",
     "ru": "Глаз дозорного",
     "bel": "Вока вартавога",
@@ -96949,7 +96949,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38TalkItem1",
-    "custom": "",
+    "custom": "SE38РазмоваПраПрадмет1",
     "en": "SE38TalkItem1",
     "ru": "Предмет беседы SE38TalkItem1",
     "bel": "Прадмет размовы SE38TalkItem1",
@@ -96958,7 +96958,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38TalkItem10",
-    "custom": "",
+    "custom": "SE38РазмоваПраПрадмет10",
     "en": "SE38TalkItem10",
     "ru": "Предмет разговора SE38TalkItem10",
     "bel": "Прадмет размовы SE38TalkItem10",
@@ -96967,7 +96967,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38TalkItem11",
-    "custom": "",
+    "custom": "SE38РазмоваПраПрадмет11",
     "en": "SE38TalkItem11",
     "ru": "Предмет разговора SE38TalkItem11",
     "bel": "Прадмет размовы SE38TalkItem11",
@@ -96976,7 +96976,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38TalkItem12",
-    "custom": "",
+    "custom": "SE38РазмоваПраПрадмет12",
     "en": "SE38TalkItem12",
     "ru": "Предмет разговора SE38TalkItem12",
     "bel": "Прадмет размовы SE38TalkItem12",
@@ -96985,7 +96985,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38TalkItem2",
-    "custom": "",
+    "custom": "SE38РазмоваПраПрадмет2",
     "en": "SE38TalkItem2",
     "ru": "Предмет для разговора SE38TalkItem2",
     "bel": "Прадмет для размовы SE38TalkItem2",
@@ -96994,7 +96994,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38TalkItem3",
-    "custom": "",
+    "custom": "SE38РазмоваПраПрадмет3",
     "en": "SE38TalkItem3",
     "ru": "Предмет разговора SE38TalkItem3",
     "bel": "Прадмет размовы SE38TalkItem3",
@@ -97003,7 +97003,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38TalkItem4",
-    "custom": "",
+    "custom": "SE38РазмоваПраПрадмет4",
     "en": "SE38TalkItem4",
     "ru": "РазговорSE38Item4",
     "bel": "Размова SE38Item4",
@@ -97012,7 +97012,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38TalkItem5",
-    "custom": "",
+    "custom": "SE38РазмоваПраПрадмет5",
     "en": "SE38TalkItem5",
     "ru": "Набор SE38TalkItem5",
     "bel": "Набор SE38TalkItem5",
@@ -97021,7 +97021,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38TalkItem6",
-    "custom": "",
+    "custom": "SE38РазмоваПраПрадмет6",
     "en": "SE38TalkItem6",
     "ru": "Разговор о SE38TalkItem6",
     "bel": "Размова пра SE38TalkItem6",
@@ -97030,7 +97030,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38TalkItem7",
-    "custom": "",
+    "custom": "SE38РазмоваПраПрадмет7",
     "en": "SE38TalkItem7",
     "ru": "РазговорSE38Item7",
     "bel": "Размова SE38Item7",
@@ -97039,7 +97039,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38TalkItem8",
-    "custom": "",
+    "custom": "SE38РазмоваПраПрадмет8",
     "en": "SE38TalkItem8",
     "ru": "Рация SE38",
     "bel": "Рацыя SE38",
@@ -97048,7 +97048,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38TalkItem9",
-    "custom": "",
+    "custom": "SE38РазмоваПраПрадмет9",
     "en": "SE38TalkItem9",
     "ru": "Предмет для разговора SE38TalkItem9",
     "bel": "Прадмет для размовы SE38TalkItem9",
@@ -97057,7 +97057,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38TalkItemA",
-    "custom": "",
+    "custom": "SE38РазмоваПраПрадметA",
     "en": "SE38TalkItemA",
     "ru": "Разговор про предмет SE38TalkItemA",
     "bel": "Размова пра прадмет SE38TalkItemA",
@@ -97066,7 +97066,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38TalkItemB",
-    "custom": "",
+    "custom": "SE38РазмоваПраПрадметB",
     "en": "SE38TalkItemB",
     "ru": "Предмет разговора SE38.",
     "bel": "Прадмет размовы SE38.",
@@ -97075,7 +97075,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38TalkItemC",
-    "custom": "",
+    "custom": "SE38РазмоваПраПрадметC",
     "en": "SE38TalkItemC",
     "ru": "Предмет для SE38TalkItemC",
     "bel": "Прадмет для SE38TalkItemC",
@@ -97084,7 +97084,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE38TalkItemDone",
-    "custom": "",
+    "custom": "SE38РазмоваСкончана",
     "en": "SE38TalkItemDone",
     "ru": "Разговор SE38TalkItemDone завершен.",
     "bel": "Размова SE38TalkItemDone завершана.",
@@ -97093,7 +97093,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE39",
-    "custom": "",
+    "custom": "Усё на месцах",
     "en": "Everything In Its Place",
     "ru": "Все на местах",
     "bel": "Усё на месцах",
@@ -97102,7 +97102,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE39Cindanwe",
-    "custom": "",
+    "custom": "Сінданві",
     "en": "Cindanwe",
     "ru": "Синданви",
     "bel": "Сінданві",
@@ -97111,7 +97111,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE39CindanweChoice",
-    "custom": "",
+    "custom": "Як я магу пазбавіцца ад Сінданві?",
     "en": "How should I get rid of Cindanwe?",
     "ru": "Как могу я избавиться от Синданви?",
     "bel": "Як я магу пазбавіцца ад Сінданві?",
@@ -97120,7 +97120,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE39CindanweDistractedSay",
-    "custom": "",
+    "custom": "Рассеяна",
     "en": "SE39CindanweDistractedSay",
     "ru": "Рассеянно",
     "bel": "Рассеяна",
@@ -97129,7 +97129,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE39CindanweNotebook",
-    "custom": "",
+    "custom": "Нататнік Сінданві",
     "en": "Cindanwe's Notebook",
     "ru": "Записная книжка Синданви",
     "bel": "Нататнік Сінданві",
@@ -97138,7 +97138,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE39CindanweTopic",
-    "custom": "",
+    "custom": "Сінданві",
     "en": "Cindanwe",
     "ru": "Синданви",
     "bel": "Сінданві",
@@ -97147,7 +97147,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE39Cup01",
-    "custom": "",
+    "custom": "Карычневы кубак",
     "en": "Tan Cup",
     "ru": "Коричневая чашка",
     "bel": "Карычневая чашка",
@@ -97156,7 +97156,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE39Cup02",
-    "custom": "",
+    "custom": "Карычневы кубак",
     "en": "Tan Cup",
     "ru": "Коричневая чашка",
     "bel": "Карычневая чашка",
@@ -97192,7 +97192,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE39HouseMess",
-    "custom": "",
+    "custom": "У хаце беспарадак",
     "en": "House in Disarray",
     "ru": "В доме беспорядок",
     "bel": "У хаце беспарадак",
@@ -97201,7 +97201,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE39MissionChoice1a",
-    "custom": "",
+    "custom": "Так, мне ўдалося да яе ўварвацца.",
     "en": "Yes, I've wrecked her place.",
     "ru": "Да, мне удалось к ней вломиться.",
     "bel": "Так, мне ўдалося да яе ўварвацца.",
@@ -97210,7 +97210,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE39MissionChoice1b",
-    "custom": "",
+    "custom": "Сінданві мёртвая.",
     "en": "Cindanwe is dead.",
     "ru": "Синданви мертва.",
     "bel": "Сінданві мёртвая.",
@@ -97219,7 +97219,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE39MissionChoice2",
-    "custom": "",
+    "custom": "Што наконт гэтага нататніка?",
     "en": "What about this notebook?",
     "ru": "Что насчет этой записной книжки?",
     "bel": "Што наконт гэтага нататніка?",
@@ -97228,7 +97228,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE39NotebookChoice",
-    "custom": "",
+    "custom": "Ці магу я зірнуць на дзённік?",
     "en": "Can I look through it?",
     "ru": "Могу я взглянуть на дневник?",
     "bel": "Ці магу я зірнуць на дзённік?",
@@ -97237,7 +97237,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE39Pitcher01",
-    "custom": "",
+    "custom": "Карычневы збан",
     "en": "Tan Pitcher",
     "ru": "Коричневый кувшин",
     "bel": "Карычневы збан",
@@ -97246,7 +97246,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE39Pitcher02",
-    "custom": "",
+    "custom": "Карычневы збан",
     "en": "Tan Pitcher",
     "ru": "Коричневый кувшин",
     "bel": "Карычневы збан",
@@ -97264,7 +97264,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE39PodPitYes",
-    "custom": "",
+    "custom": "Вось, вазьмі пяць струкоў.",
     "en": "Here, take these five Pod Pits.",
     "ru": "Вот, возьми пять стручков.",
     "bel": "Вось, вазьмі пяць струкоў.",
@@ -97273,7 +97273,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE39RanarrJo",
-    "custom": "",
+    "custom": "Рэйнар-Джо",
     "en": "Ranarr-Jo",
     "ru": "Рейнар-Джо",
     "bel": "Рэйнар-Джо",
@@ -97282,7 +97282,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE39Ring1",
-    "custom": "",
+    "custom": "Пярсцёнак абароны розуму",
     "en": "Ring of Mind Shielding",
     "ru": "Кольцо защиты разума",
     "bel": "Пярсцёнак абароны розуму",
@@ -97291,7 +97291,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE39Ring2",
-    "custom": "",
+    "custom": "Пярсцёнак абароны розуму",
     "en": "Ring of Mind Shielding",
     "ru": "Кольцо защиты разума",
     "bel": "Пярсцёнак абароны розуму",
@@ -97300,7 +97300,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE39Ring3",
-    "custom": "",
+    "custom": "Пярсцёнак абароны розуму",
     "en": "Ring of Mind Shielding",
     "ru": "Кольцо защиты разума",
     "bel": "Пярсцёнак абароны розуму",
@@ -97309,7 +97309,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE39Ring4",
-    "custom": "",
+    "custom": "Пярсцёнак абароны розуму",
     "en": "Ring of Mind Shielding",
     "ru": "Кольцо защиты разума",
     "bel": "Пярсцёнак абароны розуму",
@@ -97318,7 +97318,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE39SpoonChoice1",
-    "custom": "",
+    "custom": "Яна згубіла гэта, я вяртаю.",
     "en": "She dropped it, I'm returning it.",
     "ru": "Она обронила это, я возвращаю.",
     "bel": "Яна згубіла гэта, я вяртаю.",
@@ -97327,7 +97327,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE39SpoonChoice2",
-    "custom": "",
+    "custom": "Яна дала мне для цябе лыжку.",
     "en": "She gave me the spoon to give to you.",
     "ru": "Она дала мне для тебя ложку.",
     "bel": "Яна дала мне для цябе лыжку.",
@@ -97336,7 +97336,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE39StealthPotion",
-    "custom": "",
+    "custom": "Зелле Рэйнара-Джо",
     "en": "Ranarr-Jo's Potion",
     "ru": "Зелье Рейнара-Джо",
     "bel": "Зелле Рэйнара-Джо",
@@ -97345,7 +97345,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE39Trust",
-    "custom": "",
+    "custom": "Давер Рэйнара-Джо",
     "en": "Ranarr-Jo's Trust",
     "ru": "Доверие Рейнара-Джо",
     "bel": "Давер Рэйнара-Джо",
@@ -97354,7 +97354,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE40",
-    "custom": "",
+    "custom": "Прачнуцца пад завалам",
     "en": "Falling Awake",
     "ru": "Проснуться под завалом",
     "bel": "Прачнуцца пад завалам",
@@ -97363,7 +97363,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE40Bedroll",
-    "custom": "",
+    "custom": "Паходны ложак",
     "en": "Bedroll",
     "ru": "Спальник",
     "bel": "Спальны мех",
@@ -97372,7 +97372,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE40GreetingChoice1",
-    "custom": "",
+    "custom": "Сцены ненадзейныя?",
     "en": "The walls aren't safe?",
     "ru": "Стены ненадежные?",
     "bel": "Сцены ненадзейныя?",
@@ -97381,7 +97381,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE40GreetingChoice2",
-    "custom": "",
+    "custom": "Чаму ты не спіш на вуліцы?",
     "en": "Why don't you just sleep outside?",
     "ru": "Почему ты не спишь на улице?",
     "bel": "Чаму ты не спіш на вуліцы?",
@@ -97390,7 +97390,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE40Scroll",
-    "custom": "",
+    "custom": "Выбух сілы",
     "en": "Burst of Might",
     "ru": "Взрыв силы",
     "bel": "Выбух сілы",
@@ -97399,7 +97399,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE40SleepOutside",
-    "custom": "",
+    "custom": "Сон на вуліцы",
     "en": "Sleep Outside",
     "ru": "Сон на улице",
     "bel": "Сон на вуліцы",
@@ -97408,7 +97408,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE40SleepOutsideChoice1a",
-    "custom": "",
+    "custom": "Памяняйцеся ложкамі з Унгорам.",
     "en": "Switch sleeping places with Uungor.",
     "ru": "Поменяйтесь постелями с Унгором.",
     "bel": "Памяняйцеся ложкамі з Унгорам.",
@@ -97417,7 +97417,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE40SleepOutsideChoice1b",
-    "custom": "",
+    "custom": "Спі на ляжанцы Унгора. Ён мёртвы.",
     "en": "Sleep in Uungor's bedroll. He's dead.",
     "ru": "Спи на лежаке Унгора. Он мертв.",
     "bel": "Спі на ляжанцы Унгора. Ён мёртвы.",
@@ -97426,7 +97426,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE40SleepOutsideChoice2",
-    "custom": "",
+    "custom": "А як наконт узнагароды?",
     "en": "And about my reward?",
     "ru": "А как насчет награды?",
     "bel": "А як наконт узнагароды?",
@@ -97435,7 +97435,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE40SleepOutsideChoiceNoSweetroll",
-    "custom": "",
+    "custom": "У мяне няма для цябе рулета.",
     "en": "I don't have a sweetroll for you.",
     "ru": "У меня нет для тебя рулета.",
     "bel": "У мяне няма для цябе рулета.",
@@ -97444,7 +97444,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE40SleepOutsideChoiceSweetroll",
-    "custom": "",
+    "custom": "Вось, вазьмі рулет.",
     "en": "Here, take this sweetroll.",
     "ru": "Вот, возьми рулет.",
     "bel": "Вось, вазьмі рулет.",
@@ -97453,7 +97453,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE40SleepOutsideChoiceU1",
-    "custom": "",
+    "custom": "Ці хацелася б табе спаць у ложку?",
     "en": "How would you like to sleep in a bed?",
     "ru": "Хотелось бы тебе спать в кровати?",
     "bel": "Ці хацелася б табе спаць у ложку?",
@@ -97462,7 +97462,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE40SleepOutsideChoiceU2",
-    "custom": "",
+    "custom": "Памяняйцеся спальнымі месцамі",
     "en": "Switch Beds",
     "ru": "Поменяйтесь спальными местами.",
     "bel": "Памяняйцеся спальнымі месцамі.",
@@ -97471,7 +97471,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE41",
-    "custom": "",
+    "custom": "Вадкае рашэнне",
     "en": "A Liquid Solution",
     "ru": "Жидкое решение",
     "bel": "Вадкае рашэнне",
@@ -97480,7 +97480,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE41Aquanostrum",
-    "custom": "",
+    "custom": "Акванострум",
     "en": "Aquanostrum",
     "ru": "Акванострум",
     "bel": "Акванострум",
@@ -97489,7 +97489,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE41AquanostrumEmpty",
-    "custom": "",
+    "custom": "Пустая фляга Берніс",
     "en": "Bernice's Empty Flask",
     "ru": "Пустая фляга Бернис",
     "bel": "Пустая фляга Берніс",
@@ -97498,7 +97498,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE41AquanostrumFull",
-    "custom": "",
+    "custom": "Фляга акваноструму",
     "en": "Aquanostrum Flask",
     "ru": "Фляга акванострума",
     "bel": "Фляга акваноструму",
@@ -97507,7 +97507,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE41Catch",
-    "custom": "",
+    "custom": "Заразіцца? А ў чым справа?",
     "en": "Catch? What's the matter?",
     "ru": "Заразиться? А в чем дело?",
     "bel": "Заразіцца? А ў чым справа?",
@@ -97516,7 +97516,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE41CircletofVerdure01",
-    "custom": "",
+    "custom": "Пярсцёнак свежасці",
     "en": "Circlet of Verdure",
     "ru": "Кольцо свежести",
     "bel": "Пярсцёнак свежасці",
@@ -97525,7 +97525,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE41CircletofVerdure05",
-    "custom": "",
+    "custom": "Пярсцёнак свежасці",
     "en": "Circlet of Verdure",
     "ru": "Кольцо свежести",
     "bel": "Пярсцёнак свежасці",
@@ -97534,7 +97534,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE41CircletofVerdure10",
-    "custom": "",
+    "custom": "Пярсцёнак свежасці",
     "en": "Circlet of Verdure",
     "ru": "Кольцо свежести",
     "bel": "Пярсцёнак свежасці",
@@ -97543,7 +97543,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE41CircletofVerdure15",
-    "custom": "",
+    "custom": "Пярсцёнак свежасці",
     "en": "Circlet of Verdure",
     "ru": "Кольцо свежести",
     "bel": "Пярсцёнак свежасці",
@@ -97552,7 +97552,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE41CircletofVerdure20",
-    "custom": "",
+    "custom": "Пярсцёнак свежасці",
     "en": "Circlet of Verdure",
     "ru": "Кольцо свежести",
     "bel": "Пярсцёнак свежасці",
@@ -97561,7 +97561,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE41CircletofVerdure25",
-    "custom": "",
+    "custom": "Пярсцёнак свежасці",
     "en": "Circlet of Verdure",
     "ru": "Кольцо свежести",
     "bel": "Пярсцёнак свежасці",
@@ -97570,7 +97570,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE41Cure",
-    "custom": "",
+    "custom": "Лекарства",
     "en": "Cure",
     "ru": "Лекарство",
     "bel": "Лекарства",
@@ -97579,7 +97579,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE41PostHere",
-    "custom": "",
+    "custom": "Калі ласка.",
     "en": "Here you are.",
     "ru": "Пожалуйста.",
     "bel": "Калі ласка.",
@@ -97588,7 +97588,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE41PostYes",
-    "custom": "",
+    "custom": "Безумоўна.",
     "en": "Certainly.",
     "ru": "Конечно.",
     "bel": "Вядома.",
@@ -97597,7 +97597,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE42",
-    "custom": "",
+    "custom": "Працы няма канца",
     "en": "Work is Never Done",
     "ru": "Работе нет конца",
     "bel": "Працы няма канца",
@@ -97606,7 +97606,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE42AgreeLie",
-    "custom": "",
+    "custom": "Ох...не, яшчэ не.",
     "en": "Uh...no, not yet.",
     "ru": "Ох...нет, нет еще.",
     "bel": "Ох...не, яшчэ не.",
@@ -97615,7 +97615,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE42Calipers",
-    "custom": "",
+    "custom": "Кранцыркулі і абцугі",
     "en": "Calipers and tongs",
     "ru": "Кронциркули и клещи",
     "bel": "Кранцыркулі і абцугі",
@@ -97624,7 +97624,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE42Confused",
-    "custom": "",
+    "custom": "Пра што ты кажаш?",
     "en": "What are you talking about?",
     "ru": "О чем ты говоришь?",
     "bel": "Пра што ты кажаш?",
@@ -97633,7 +97633,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE42Skyboat",
-    "custom": "",
+    "custom": "Небавы карабель",
     "en": "Skyboat",
     "ru": "Небесный корабль",
     "bel": "Небавы карабель",
@@ -97642,7 +97642,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE42YesSell",
-    "custom": "",
+    "custom": "Так, вось яны.",
     "en": "Yes, right here.",
     "ru": "Да, вот они.",
     "bel": "Так, вось яны.",
@@ -97651,7 +97651,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE43",
-    "custom": "",
+    "custom": "Кашмар Ушнара",
     "en": "Ushnar's Terror",
     "ru": "Кошмар Ушнара",
     "bel": "Кашмар Ушнара",
@@ -97660,7 +97660,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE43Bhisha",
-    "custom": "",
+    "custom": "Біша Каджыт",
     "en": "Bhisha the Khajiit",
     "ru": "Биша Каджит",
     "bel": "Біша Каджыт",
@@ -97678,7 +97678,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE43DogFood",
-    "custom": "",
+    "custom": "Сабачая ежа",
     "en": "Dog Food",
     "ru": "Собачья еда",
     "bel": "Сабачая ежа",
@@ -97687,7 +97687,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE43GoAway",
-    "custom": "",
+    "custom": "Пакінь Крусібл. Ты палохаеш Ушнара.",
     "en": "Leave Crucible. You scare Ushnar.",
     "ru": "Покинь Крусибл. Ты пугаешь Ушнара.",
     "bel": "Пакінь Крусібл. Ты палохаеш Ушнара.",
@@ -97696,7 +97696,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE43Ignore",
-    "custom": "",
+    "custom": "Ох...так.",
     "en": "Uh...yeah.",
     "ru": "Ох...да.",
     "bel": "Ох...так.",
@@ -97705,7 +97705,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE43KillBhisha",
-    "custom": "",
+    "custom": "Я магу гэта для цябе зрабіць.",
     "en": "I could do that for you.",
     "ru": "Я могу это для тебя сделать.",
     "bel": "Я магу гэта для цябе зрабіць.",
@@ -97714,7 +97714,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE43Meat",
-    "custom": "",
+    "custom": "Вазьмі гэтую ежу. Гэта мой падарунак.",
     "en": "Have some food. It's a gift from me.",
     "ru": "Возьми эту еду. Это мой подарок.",
     "bel": "Вазьмі гэтую ежу. Гэта мой падарунак.",
@@ -97723,7 +97723,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE43NoKillBhisha",
-    "custom": "",
+    "custom": "У яго ёсць права тут знаходзіцца.",
     "en": "He has every right to be there.",
     "ru": "У него есть право тут находиться.",
     "bel": "У яго ёсць права тут знаходзіцца.",
@@ -97732,7 +97732,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE43PayOff",
-    "custom": "",
+    "custom": "Вось 100 манет на пераезд з Крусібла.",
     "en": "Here's 100 gold to leave Crucible.",
     "ru": "Вот 100 монет на переезд из Крусибла.",
     "bel": "Вось 100 манет на пераезд з Крусібла.",
@@ -97741,7 +97741,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE43SkeletalHound",
-    "custom": "",
+    "custom": "Абязшкураная ганчая Ушнара",
     "en": "Ushnar's Skinned Hound",
     "ru": "Обесшкуренная гончая Ушнара",
     "bel": "Абязшкураная ганчая Ушнара",
@@ -97750,7 +97750,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE43Ushnar",
-    "custom": "",
+    "custom": "Ушнар гро-Шадбаргоб",
     "en": "Ushnar gro-Shadborgob",
     "ru": "Ушнар гро-Шадборгоб",
     "bel": "Ушнар гро-Шадбаргоб",
@@ -97759,7 +97759,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE44",
-    "custom": "",
+    "custom": "Надыходзячы шторм",
     "en": "The Coming Storm",
     "ru": "Грядущий шторм",
     "bel": "Надыходзячы шторм",
@@ -97768,7 +97768,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE44AllItems",
-    "custom": "",
+    "custom": "Думаю, гэта ўсё.",
     "en": "I believe that's everything.",
     "ru": "Думаю, это все.",
     "bel": "Думаю, гэта ўсё.",
@@ -97777,7 +97777,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE44AmuletInfo",
-    "custom": "",
+    "custom": "Навошта ты хочаш надзець гэта?",
     "en": "Why would you want to wear that?",
     "ru": "Зачем ты хочешь надеть это?",
     "bel": "Навошта ты хочаш надзець гэта?",
@@ -97786,7 +97786,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE44CalmSpell",
-    "custom": "",
+    "custom": "Супакойвальныя штаны",
     "en": "Calming Pants",
     "ru": "Успокаивающие штаны",
     "bel": "Супакойвальныя штаны",
@@ -97795,7 +97795,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE44CalmingPants01",
-    "custom": "",
+    "custom": "Супакойвальныя штаны",
     "en": "Calming Pants",
     "ru": "Успокаивающие штаны",
     "bel": "Супакойвальныя штаны",
@@ -97804,7 +97804,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE44Choice1",
-    "custom": "",
+    "custom": "Гатовая?",
     "en": "Ready?",
     "ru": "Готова?",
     "bel": "Гатовая?",
@@ -97813,7 +97813,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE44Choice2",
-    "custom": "",
+    "custom": "Гэта параноя.",
     "en": "You're paranoid.",
     "ru": "Это паранойя.",
     "bel": "Гэта параноя.",
@@ -97822,7 +97822,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE44ComingStorm",
-    "custom": "",
+    "custom": "Набліжаецца бура",
     "en": "Coming Storm",
     "ru": "Надвигающаяся буря",
     "bel": "Набліжаецца бура",
@@ -97831,7 +97831,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE44FimmionChoice1",
-    "custom": "",
+    "custom": "Вось рулет для цябе.",
     "en": "I've got a sweetroll for you.",
     "ru": "Вот рулет для тебя.",
     "bel": "Вось рулет для цябе.",
@@ -97840,7 +97840,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE44FimmionChoice2",
-    "custom": "",
+    "custom": "Я не дам табе рулет.",
     "en": "I'm not giving you a sweetroll.",
     "ru": "Я не дам тебе рулета.",
     "bel": "Я не дам табе рулет.",
@@ -97849,7 +97849,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE44FimmionChoice3",
-    "custom": "",
+    "custom": "У мяне няма рулета.",
     "en": "I don't have a sweetroll.",
     "ru": "У меня нет рулета.",
     "bel": "У мяне няма рулета.",
@@ -97858,7 +97858,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE44Frenzy",
-    "custom": "",
+    "custom": "Параноя Аджазды",
     "en": "Ahjazda's Paranoia",
     "ru": "Паранойя Аджазды",
     "bel": "Параноя Аджазды",
@@ -97867,7 +97867,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE44NothingMore",
-    "custom": "",
+    "custom": "Нічога больш няма пакуль.",
     "en": "I've got nothing else now.",
     "ru": "Ничего больше нет пока.",
     "bel": "Нічога больш няма пакуль.",
@@ -97876,7 +97876,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE44PantsFimmion",
-    "custom": "",
+    "custom": "Супакойвальныя штаны",
     "en": "Calming Pants",
     "ru": "Успокаивающие штаны",
     "bel": "Супакойвальныя штаны",
@@ -97885,7 +97885,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE44PantsInfo",
-    "custom": "",
+    "custom": "Навошта табе гэтыя штаны?",
     "en": "What do you need these Pants for?",
     "ru": "Зачем тебе эти штаны?",
     "bel": "Навошта табе гэтыя штаны?",
@@ -97894,7 +97894,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE44PantsTopic",
-    "custom": "",
+    "custom": "Вось твае штаны.",
     "en": "I brought you the Pants.",
     "ru": "Вот твои штаны.",
     "bel": "Вось твае штаны.",
@@ -97903,7 +97903,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE44RingInfo",
-    "custom": "",
+    "custom": "Але... навошта? Гэта бескарысна!",
     "en": "But... why? It's useless!",
     "ru": "Но... зачем? Это бесполезно!",
     "bel": "Але... навошта? Гэта бескарысна!",
@@ -97912,7 +97912,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE44Supplies",
-    "custom": "",
+    "custom": "Запасы",
     "en": "Supplies",
     "ru": "Запасы",
     "bel": "Запасы",
@@ -97921,7 +97921,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE44WaterRing",
-    "custom": "",
+    "custom": "Пярсцёнак абязводжвання",
     "en": "Ring of Desiccation",
     "ru": "Кольцо обезвоживания",
     "bel": "Пярсцёнак абязводжвання",
@@ -97930,7 +97930,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE44XNothingYet",
-    "custom": "",
+    "custom": "Для цябе пакуль нічога няма.",
     "en": "Nothing for you yet.",
     "ru": "Для тебя пока ничего нет.",
     "bel": "Для цябе пакуль нічога няма.",
@@ -97939,7 +97939,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE45",
-    "custom": "",
+    "custom": "Відэлец Шкатулкі",
     "en": "The Fork of Horripilation",
     "ru": "Вилка Щекотки",
     "bel": "Відэлец Шкатулкі",
@@ -97948,7 +97948,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE45Choice2",
-    "custom": "",
+    "custom": "Дзе мне яе шукаць?",
     "en": "Where should I look?",
     "ru": "Где мне ее искать?",
     "bel": "Дзе мне яе шукаць?",
@@ -97957,7 +97957,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE45EndChoice1",
-    "custom": "",
+    "custom": "Раскажы мне пра сакрэт клінка.",
     "en": "Tell me a Blade secret.",
     "ru": "Расскажи мне о секрете клинка.",
     "bel": "Раскажы мне пра сакрэт клінка.",
@@ -97966,7 +97966,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE45EndChoice2",
-    "custom": "",
+    "custom": "Раскажы мне пра сакрэт шпіянажу.",
     "en": "Tell me a Sneak secret.",
     "ru": "Расскажи мне о секрете шпионажа.",
     "bel": "Раскажы мне пра сакрэт шпіянажу.",
@@ -97975,7 +97975,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE45EndChoice3",
-    "custom": "",
+    "custom": "Раскажы мне пра сакрэт алхіміі.",
     "en": "Tell me an Alchemy secret.",
     "ru": "Расскажи мне о секрете алхимии.",
     "bel": "Раскажы мне пра сакрэт алхіміі.",
@@ -97984,7 +97984,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE45ForkCharm",
-    "custom": "",
+    "custom": "Талісман Вялікагаловага",
     "en": "Big Head's Charm",
     "ru": "Талисман Большеголового",
     "bel": "Талісман Вялікагаловага",
@@ -97993,7 +97993,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE45ForkDrain",
-    "custom": "",
+    "custom": "Рана ад Відэльца",
     "en": "Fork's Wound",
     "ru": "Рана от Вилки",
     "bel": "Рана ад Відэльца",
@@ -98002,7 +98002,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE45ForkHorripilation",
-    "custom": "",
+    "custom": "Відэлец Шкатулкі",
     "en": "Fork of Horripilation",
     "ru": "Вилка Щекотки",
     "bel": "Відэлец Шкатулкі",
@@ -98011,7 +98011,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE45HaveFork",
-    "custom": "",
+    "custom": "Вось твой Відэлец.",
     "en": "Here is your Fork.",
     "ru": "Вот твоя Вилка.",
     "bel": "Вось твой Відэлец.",
@@ -98020,7 +98020,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE45HereticBoss",
-    "custom": "",
+    "custom": "Ератык-крыжак",
     "en": "Heretic Crusader",
     "ru": "Еретик-крестоносец",
     "bel": "Ератык-крыжак",
@@ -98029,7 +98029,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE45HereticLackey",
-    "custom": "",
+    "custom": "Ератык-паслугач",
     "en": "Heretic Lackey",
     "ru": "Еретик-прислужник",
     "bel": "Ератык-паслугач",
@@ -98038,7 +98038,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE45NoFork",
-    "custom": "",
+    "custom": "У мяне яе няма.",
     "en": "I do not have it.",
     "ru": "У меня ее нет.",
     "bel": "У мяне яе няма.",
@@ -98047,7 +98047,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE45NotYet",
-    "custom": "",
+    "custom": "Яшчэ не.",
     "en": "Not yet.",
     "ru": "Нет еще.",
     "bel": "Не яшчэ.",
@@ -98056,7 +98056,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE45ZealotBoss",
-    "custom": "",
+    "custom": "Зелот-крыжак",
     "en": "Zealot Crusader",
     "ru": "Зелот-крестоносец",
     "bel": "Зелот-крыжак",
@@ -98065,7 +98065,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE45ZealotLackey",
-    "custom": "",
+    "custom": "Зелот-памагаты",
     "en": "Zealot Minion",
     "ru": "Зелот-подручный",
     "bel": "Зелот-памагаты",
@@ -98074,7 +98074,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE46",
-    "custom": "",
+    "custom": "Вялікае раздзяленне",
     "en": "The Great Divide",
     "ru": "Великое разделение",
     "bel": "Вялікае раздзяленне",
@@ -98083,7 +98083,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE46Choice4",
-    "custom": "",
+    "custom": "Мне трэба падумаць аб гэтым.",
     "en": "Let me think about it.",
     "ru": "Дай мне подумать об этом.",
     "bel": "Дай мне падумаць пра гэта.",
@@ -98092,7 +98092,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE46DoublesTopic",
-    "custom": "",
+    "custom": "Двайнікі",
     "en": "Doubles",
     "ru": "Двойники",
     "bel": "Двайнікі",
@@ -98110,7 +98110,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbBirthsignHeretic",
-    "custom": "",
+    "custom": "Знак ератыка",
     "en": "Heretic Birthsign",
     "ru": "Знак еретика",
     "bel": "Знак ератыка",
@@ -98119,7 +98119,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbBirthsignZealot",
-    "custom": "",
+    "custom": "Знак зелота",
     "en": "Zealot Birthsign",
     "ru": "Знак зелота",
     "bel": "Знак зелота",
@@ -98128,7 +98128,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbDarkSeducer",
-    "custom": "",
+    "custom": "Паглынанне заклінанняў",
     "en": "Spell Absorption",
     "ru": "Поглощение заклинаний",
     "bel": "Паглынанне загавораў",
@@ -98137,7 +98137,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbFleshAtronach1Resist",
-    "custom": "",
+    "custom": "Абарона атронаха з плоці",
     "en": "Flesh Atronach Resistances",
     "ru": "Защита атронаха из плоти",
     "bel": "Абарона атронаха з плоці",
@@ -98146,7 +98146,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbFleshAtronach3Resist",
-    "custom": "",
+    "custom": "Абарона атронаха з плоці",
     "en": "Flesh Atronach Resistances",
     "ru": "Защита атронаха из плоти",
     "bel": "Абарона атронаха з плоці",
@@ -98155,7 +98155,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbFleshAtronach5Resist",
-    "custom": "",
+    "custom": "Абарона атронаха з плоці",
     "en": "Flesh Atronach Resistances",
     "ru": "Защита атронаха из плоти",
     "bel": "Абарона атронаха з плоці",
@@ -98290,7 +98290,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbGKMagicResistance6",
-    "custom": "",
+    "custom": "Супраціўленне магіі",
     "en": "Magic Resistance",
     "ru": "Сопротивление магии",
     "bel": "Супраціўленне магіі",
@@ -98389,7 +98389,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbGnarlFortHealth3",
-    "custom": "",
+    "custom": "Здароўе гнарла",
     "en": "Gnarl Health",
     "ru": "Здоровье гнарла",
     "bel": "Здароўе гнарла",
@@ -98398,7 +98398,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbGnarlFortHealth4",
-    "custom": "",
+    "custom": "Здароўе гнарла",
     "en": "Gnarl Health",
     "ru": "Здоровье гнарла",
     "bel": "Здароўе гнарла",
@@ -98407,7 +98407,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbGnarlFortHealth5",
-    "custom": "",
+    "custom": "Здароўе гнарла",
     "en": "Gnarl Health",
     "ru": "Здоровье гнарла",
     "bel": "Здароўе гнарла",
@@ -98416,7 +98416,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbGnarlGrowShock",
-    "custom": "",
+    "custom": "Электрычнасць росту",
     "en": "Growth Shock",
     "ru": "Электричество роста",
     "bel": "Электрычнасць росту",
@@ -98425,7 +98425,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbGoldenSaint",
-    "custom": "",
+    "custom": "Адлюстраванне загавораў",
     "en": "Spell reflection",
     "ru": "Отражение заклинаний",
     "bel": "Адлюстраванне загавораў",
@@ -98434,7 +98434,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbGrummite1",
-    "custom": "",
+    "custom": "Лячэнне вадой",
     "en": "Water Healing",
     "ru": "Водное лечение",
     "bel": "Воднае лячэнне",
@@ -98443,7 +98443,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbGrummite2",
-    "custom": "",
+    "custom": "Лячэнне вадой",
     "en": "Water Healing",
     "ru": "Водное лечение",
     "bel": "Воднае лячэнне",
@@ -98452,7 +98452,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbGrummite3",
-    "custom": "",
+    "custom": "Лячэнне вадой",
     "en": "Water Healing",
     "ru": "Водное лечение",
     "bel": "Воднае лячэнне",
@@ -98461,7 +98461,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbGrummite4",
-    "custom": "",
+    "custom": "Лячэнне вадой",
     "en": "Water Healing",
     "ru": "Водное лечение",
     "bel": "Воднае лячэнне",
@@ -98470,7 +98470,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbGrummite5",
-    "custom": "",
+    "custom": "Лячэнне вадой",
     "en": "Water Healing",
     "ru": "Водное лечение",
     "bel": "Воднае лячэнне",
@@ -98479,7 +98479,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbGrummiteRegenRain",
-    "custom": "",
+    "custom": "Рэгенерацыя пад дзеяннем дажджу",
     "en": "Rain regneration",
     "ru": "Регенерация под действием дождя",
     "bel": "Рэгенерацыя пад дзеяннем дажджу",
@@ -98488,7 +98488,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbGrummiteResist",
-    "custom": "",
+    "custom": "Супраціўленні",
     "en": "Resistances",
     "ru": "Сопротивления",
     "bel": "Супраціўленні",
@@ -98497,7 +98497,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbGrummiteShaman",
-    "custom": "",
+    "custom": "Здольнасці граміта-шамана",
     "en": "Grummite Shaman Abilities",
     "ru": "Способности граммита-шамана",
     "bel": "Здольнасці граміта-шамана",
@@ -98506,7 +98506,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbKnightHeart",
-    "custom": "",
+    "custom": "Уплыў Джыгалага",
     "en": "Jyggalag's Ascendancy",
     "ru": "Влияние Джиггалага",
     "bel": "Уплыў Джыгалага",
@@ -98515,7 +98515,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbKnightHeartHeal",
-    "custom": "",
+    "custom": "Дар Парадку",
     "en": "The Boon of Order",
     "ru": "Дар Порядка",
     "bel": "Дар Парадку",
@@ -98524,7 +98524,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbOrderKnight1BoundArmorWeapon",
-    "custom": "",
+    "custom": "Прызваныя даспехі рыцара Парадку 1",
     "en": "Knight of Order Bound Armor 1",
     "ru": "Призванные доспехи рыцаря Порядка 1",
     "bel": "Прызваныя даспехі рыцара Парадку 1",
@@ -98533,7 +98533,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbOrderKnight2",
-    "custom": "",
+    "custom": "Здольнасць Парадку",
     "en": "Order Ability",
     "ru": "Способность Порядка",
     "bel": "Здольнасць Парадку",
@@ -98542,7 +98542,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbOrderKnight2BoundArmorWeapon",
-    "custom": "",
+    "custom": "Прызваныя даспехі рыцара Парадку 2",
     "en": "Knight of Order Bound Armor 2",
     "ru": "Призванные доспехи рыцаря Порядка 2",
     "bel": "Прызваныя даспехі рыцара Парадку 2",
@@ -98551,7 +98551,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbOrderKnight3",
-    "custom": "",
+    "custom": "Здольнасць Парадку",
     "en": "Order Ability",
     "ru": "Способность Порядка",
     "bel": "Здольнасць Парадку",
@@ -98560,7 +98560,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbOrderKnight3BoundArmorWeapon",
-    "custom": "",
+    "custom": "Прызваныя даспехі рыцара Парадку 3",
     "en": "Knight of Order Bound Armor 3",
     "ru": "Призванные доспехи рыцаря Порядка 3",
     "bel": "Прызваныя даспехі рыцара Парадку 3",
@@ -98569,7 +98569,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbOrderKnight4",
-    "custom": "",
+    "custom": "Здольнасць Парадку",
     "en": "Order Ability",
     "ru": "Способность Порядка",
     "bel": "Здольнасць Парадку",
@@ -98578,7 +98578,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbOrderKnight4BoundArmorWeapon",
-    "custom": "",
+    "custom": "Прызваныя даспехі рыцара Парадку 4",
     "en": "Knight of Order Bound Armor 4",
     "ru": "Призванные доспехи рыцаря Порядка 4",
     "bel": "Прызваныя даспехі рыцара Парадку 4",
@@ -98587,7 +98587,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbOrderKnight5",
-    "custom": "",
+    "custom": "Здольнасць Парадку",
     "en": "Order Ability",
     "ru": "Способность Порядка",
     "bel": "Здольнасць Парадку",
@@ -98596,7 +98596,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbOrderKnight5BoundArmorWeapon",
-    "custom": "",
+    "custom": "Прызваныя даспехі рыцара Парадку 5",
     "en": "Knight of Order Bound Armor 5",
     "ru": "Призванные доспехи рыцаря Порядка 5",
     "bel": "Прызваныя даспехі рыцара Парадку 5",
@@ -98605,7 +98605,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbOrderKnight6BoundArmorWeapon",
-    "custom": "",
+    "custom": "Прызваныя даспехі рыцара Парадку 6",
     "en": "Knight of Order Bound Armor 6",
     "ru": "Призванные доспехи рыцаря Порядка 6",
     "bel": "Прызваныя даспехі рыцара Парадку 6",
@@ -98614,7 +98614,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbOrderKnightBase",
-    "custom": "",
+    "custom": "Здольнасць рыцара Парадку",
     "en": "Knight of Order Ability",
     "ru": "Способность рыцаря Порядка",
     "bel": "Здольнасць рыцара Парадку",
@@ -98623,7 +98623,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbShambles",
-    "custom": "",
+    "custom": "Смяротны ўдар",
     "en": "Death Blast",
     "ru": "Смертельный удар",
     "bel": "Смяротны ўдар",
@@ -98632,7 +98632,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbShambles2",
-    "custom": "",
+    "custom": "Смяротны ўдар",
     "en": "Death Blast",
     "ru": "Смертельный удар",
     "bel": "Смяротны ўдар",
@@ -98641,7 +98641,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbShambles3",
-    "custom": "",
+    "custom": "Смяротны ўдар",
     "en": "Death Blast",
     "ru": "Смертельный удар",
     "bel": "Смяротны ўдар",
@@ -98650,7 +98650,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAbSkinnedHoundResist",
-    "custom": "",
+    "custom": "Абарона абяскрыўджанага ганчака",
     "en": "Skinned Hound Resistances",
     "ru": "Защита обесшкуренной гончей",
     "bel": "Абарона абяскрыўджанага ганчака",
@@ -98659,7 +98659,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAhjazda",
-    "custom": "",
+    "custom": "Аджазда",
     "en": "Ahjazda",
     "ru": "Аджазда",
     "bel": "Аджазда",
@@ -98668,7 +98668,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAhjazdaKey",
-    "custom": "",
+    "custom": "Ключ Аджазды",
     "en": "Ahjazda's Key",
     "ru": "Ключ Аджазды",
     "bel": "Ключ Аджазды",
@@ -98677,7 +98677,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAichanEnviousGrummiteFaction",
-    "custom": "",
+    "custom": "Фракцыя зайздроснага Груміта Айчана",
     "en": "Aichan Envious Grummite Faction",
     "ru": "Завистливая фракция Aichan Envious Grummite Faction",
     "bel": "Зайздросная фракцыя Aichan Envious Grummite Faction",
@@ -98686,7 +98686,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAichanGrummitePraiser01",
-    "custom": "",
+    "custom": "Пражэрлівы граміт",
     "en": "Envious Grummite",
     "ru": "Прожорливый граммит",
     "bel": "Пражэрлівы граміт",
@@ -98695,7 +98695,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAichanGrummitePraiser02",
-    "custom": "",
+    "custom": "Пражэрлівы граміт",
     "en": "Envious Grummite",
     "ru": "Прожорливый граммит",
     "bel": "Пражэрлівы граміт",
@@ -98704,7 +98704,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAltarofDespairTopic",
-    "custom": "",
+    "custom": "Алтар Адчаю",
     "en": "Altar of Despair",
     "ru": "Алтарь Отчаяния",
     "bel": "Алтар Адчаю",
@@ -98713,7 +98713,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAltarofRaptureTopic",
-    "custom": "",
+    "custom": "Алтар Наслады",
     "en": "Altar of Rapture",
     "ru": "Алтарь Наслаждения",
     "bel": "Алтар Наслады",
@@ -98722,7 +98722,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberBoots1",
-    "custom": "",
+    "custom": "Неякасныя бурштынавыя боты",
     "en": "Impure Amber Boots",
     "ru": "Некачеств. янтарные сапоги",
     "bel": "Неякасныя бурштынавыя боты",
@@ -98731,7 +98731,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberBoots5",
-    "custom": "",
+    "custom": "Цудоўныя бурштынавыя боты",
     "en": "Grand Amber Boots",
     "ru": "Великолепные янтарные сапоги",
     "bel": "Цудоўныя бурштынавыя боты",
@@ -98740,7 +98740,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberBoots6",
-    "custom": "",
+    "custom": "Дасканалыя бурштынавыя боты",
     "en": "Perfect Amber Boots",
     "ru": "Совершенные янтарные сапоги",
     "bel": "Дасканалыя бурштынавыя боты",
@@ -98749,7 +98749,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberBow4",
-    "custom": "",
+    "custom": "Цудоўны бурштынавы лук",
     "en": "Grand Amber Bow",
     "ru": "Великолепный янтарный лук",
     "bel": "Цудоўны бурштынавы лук",
@@ -98758,7 +98758,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberBow5",
-    "custom": "",
+    "custom": "Дасканалы бурштынавы лук",
     "en": "Perfect Amber Bow",
     "ru": "Совершенный янтарный лук",
     "bel": "Дасканалы бурштынавы лук",
@@ -98767,7 +98767,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberBowA",
-    "custom": "",
+    "custom": "Неякасны бурштынавы лук",
     "en": "Impure Amber Bow",
     "ru": "Некачеств. янтарный лук",
     "bel": "Неякасны бурштынавы лук",
@@ -98776,7 +98776,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberBowB",
-    "custom": "",
+    "custom": "Непаліраваны бурштынавы лук",
     "en": "Unpolished Amber Bow",
     "ru": "Неполированный янтарный лук",
     "bel": "Непаліраваны бурштынавы лук",
@@ -98785,7 +98785,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberColumn01",
-    "custom": "",
+    "custom": "Полая бурштынавая галіна",
     "en": "Hollowed Amber Limb",
     "ru": "Полая янтарная ветвь",
     "bel": "Полая бурштынавая галіна",
@@ -98794,7 +98794,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberColumn02",
-    "custom": "",
+    "custom": "Полая бурштынавая галіна",
     "en": "Hollowed Amber Limb",
     "ru": "Полая янтарная ветвь",
     "bel": "Полая бурштынавая галіна",
@@ -98803,7 +98803,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberCuirass1",
-    "custom": "",
+    "custom": "Неякасная бурштынавая кіраса",
     "en": "Impure Amber Cuirass",
     "ru": "Некачеств. янтарная кираса",
     "bel": "Неякасная бурштынавая кіраса",
@@ -98812,7 +98812,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberCuirass4",
-    "custom": "",
+    "custom": "Добрая бурштынавая кіраса",
     "en": "Fine Amber Cuirass",
     "ru": "Хорошая янтарная кираса",
     "bel": "Добрая бурштынавая кіраса",
@@ -98821,7 +98821,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberCuirass5",
-    "custom": "",
+    "custom": "Цудоўная бурштынавая кіраса",
     "en": "Grand Amber Cuirass",
     "ru": "Великолепная янтарная кираса",
     "bel": "Цудоўная бурштынавая кіраса",
@@ -98830,7 +98830,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberCuirass6",
-    "custom": "",
+    "custom": "Дасканалая бурштынавая кіраса",
     "en": "Perfect Amber Cuirass",
     "ru": "Совершенная янтарная кираса",
     "bel": "Дасканалая бурштынавая кіраса",
@@ -98839,7 +98839,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberGauntlets1",
-    "custom": "",
+    "custom": "Неякасныя бурштынавыя пальчаткі",
     "en": "Impure Amber Gauntlets",
     "ru": "Некачеств. янтарные перчатки",
     "bel": "Неякасныя бурштынавыя пальчаткі",
@@ -98848,7 +98848,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberGauntlets2",
-    "custom": "",
+    "custom": "Малыя бурштынавыя пальчаткі",
     "en": "Lesser Amber Gauntlets",
     "ru": "Малые янтарные перчатки",
     "bel": "Малыя бурштынавыя пальчаткі",
@@ -98857,7 +98857,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberGauntlets3",
-    "custom": "",
+    "custom": "Бурштынавыя пальчаткі",
     "en": "Amber Gauntlets",
     "ru": "Янтарные перчатки",
     "bel": "Бурштынавыя пальчаткі",
@@ -98866,7 +98866,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberGauntlets4",
-    "custom": "",
+    "custom": "Добрыя бурштынавыя пальчаткі",
     "en": "Fine Amber Gauntlets",
     "ru": "Хорошие янтарные перчатки",
     "bel": "Добрыя бурштынавыя пальчаткі",
@@ -98875,7 +98875,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberGauntlets5",
-    "custom": "",
+    "custom": "Цудоўныя бурштынавыя пальчаткі",
     "en": "Grand Amber Gauntlets",
     "ru": "Великолепные янтарные перчатки",
     "bel": "Цудоўныя бурштынавыя пальчаткі",
@@ -98884,7 +98884,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberGauntlets6",
-    "custom": "",
+    "custom": "Дасканалыя бурштынавыя пальчаткі",
     "en": "Perfect Amber Gauntlets",
     "ru": "Совершенные янтарные перчатки",
     "bel": "Дасканалыя бурштынавыя пальчаткі",
@@ -98893,7 +98893,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberGreaves1",
-    "custom": "",
+    "custom": "Неякасныя бурштынавыя нагавіцы",
     "en": "Impure Amber Greaves",
     "ru": "Некачеств. янтарные поножи",
     "bel": "Неякасныя бурштынавыя нагавіцы",
@@ -98902,7 +98902,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberGreaves2",
-    "custom": "",
+    "custom": "Малыя бурштынавыя нагавіцы",
     "en": "Lesser Amber Greaves",
     "ru": "Малые янтарные поножи",
     "bel": "Малыя бурштынавыя нагавіцы",
@@ -98911,7 +98911,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberGreaves3",
-    "custom": "",
+    "custom": "Бурштынавыя нагавіцы",
     "en": "Amber Greaves",
     "ru": "Янтарные поножи",
     "bel": "Бурштынавыя нагавіцы",
@@ -98920,7 +98920,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberGreaves4",
-    "custom": "",
+    "custom": "Добрыя бурштынавыя нагавіцы",
     "en": "Fine Amber Greaves",
     "ru": "Хорошие янтарные поножи",
     "bel": "Добрыя бурштынавыя нагавіцы",
@@ -98929,7 +98929,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberGreaves5",
-    "custom": "",
+    "custom": "Цудоўныя бурштынавыя нагавіцы",
     "en": "Grand Amber Greaves",
     "ru": "Великолепные янтарные поножи",
     "bel": "Цудоўныя бурштынавыя нагавіцы",
@@ -98938,7 +98938,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberGreaves6",
-    "custom": "",
+    "custom": "Дасканалыя бурштынавыя нагавіцы",
     "en": "Perfect Amber Greaves",
     "ru": "Совершенные янтарные поножи",
     "bel": "Дасканалыя бурштынавыя нагавіцы",
@@ -98947,7 +98947,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberHammer4",
-    "custom": "",
+    "custom": "Цудоўны бурштынавы молат",
     "en": "Grand Amber Hammer",
     "ru": "Великолепный янтарный молот",
     "bel": "Цудоўны бурштынавы молат",
@@ -98956,7 +98956,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberHammer5",
-    "custom": "",
+    "custom": "Дасканалы бурштынавы молат",
     "en": "Perfect Amber Hammer",
     "ru": "Совершенный янтарный молот",
     "bel": "Дасканалы бурштынавы молат",
@@ -98965,7 +98965,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberHammerA",
-    "custom": "",
+    "custom": "Неякасны бурштынавы молат",
     "en": "Impure Amber Hammer",
     "ru": "Некачеств. янтарный молот",
     "bel": "Неякасны бурштынавы молат",
@@ -98974,7 +98974,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberHammerB",
-    "custom": "",
+    "custom": "Непаліраваны бурштынавы молат",
     "en": "Unpolished Amber Hammer",
     "ru": "Неполированный янтарный молот",
     "bel": "Непаліраваны бурштынавы молат",
@@ -98983,7 +98983,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberHelmet1",
-    "custom": "",
+    "custom": "Неякасны бурштынавы шлем",
     "en": "Impure Amber Helmet",
     "ru": "Некачеств. янтарный шлем",
     "bel": "Неякасны бурштынавы шлем",
@@ -98992,7 +98992,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberHelmet5",
-    "custom": "",
+    "custom": "Цудоўны бурштынавы шлем",
     "en": "Grand Amber Helmet",
     "ru": "Великолепный янтарный шлем",
     "bel": "Цудоўны бурштынавы шлем",
@@ -99001,7 +99001,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberHelmet6",
-    "custom": "",
+    "custom": "Дасканалы бурштынавы шлем",
     "en": "Perfect Amber Helmet",
     "ru": "Совершенный янтарный шлем",
     "bel": "Дасканалы бурштынавы шлем",
@@ -99010,7 +99010,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMace4",
-    "custom": "",
+    "custom": "Цудоўная бурштынавая булава",
     "en": "Grand Amber Mace",
     "ru": "Великолепная янтарная булава",
     "bel": "Цудоўная бурштынавая булава",
@@ -99019,7 +99019,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMace5",
-    "custom": "",
+    "custom": "Дасканалая бурштынавая булава",
     "en": "Perfect Amber Mace",
     "ru": "Совершенная янтарная булава",
     "bel": "Дасканалая бурштынавая булава",
@@ -99028,7 +99028,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMaceA",
-    "custom": "",
+    "custom": "Неякасная бурштынавая булава",
     "en": "Impure Amber Mace",
     "ru": "Некачеств. янтарная булава",
     "bel": "Неякасная бурштынавая булава",
@@ -99037,7 +99037,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMaceB",
-    "custom": "",
+    "custom": "Непаліраваная бурштынавая булава",
     "en": "Unpolished Amber Mace",
     "ru": "Неполированная янтарная булава",
     "bel": "Непаліраваная бурштынавая булава",
@@ -99046,7 +99046,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicBoots1",
-    "custom": "",
+    "custom": "Неякасныя бурштынавыя боты",
     "en": "Impure Amber Boots",
     "ru": "Некачеств. янтарные сапоги",
     "bel": "Неякасныя бурштынавыя боты",
@@ -99055,7 +99055,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicBoots5",
-    "custom": "",
+    "custom": "Цудоўныя бурштынавыя боты",
     "en": "Grand Amber Boots",
     "ru": "Великолепные янтарные сапоги",
     "bel": "Цудоўныя бурштынавыя боты",
@@ -99064,7 +99064,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicBoots6",
-    "custom": "",
+    "custom": "Дасканалыя бурштынавыя боты",
     "en": "Perfect Amber Boots",
     "ru": "Совершенные янтарные сапоги",
     "bel": "Дасканалыя бурштынавыя боты",
@@ -99073,7 +99073,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicBow4",
-    "custom": "",
+    "custom": "Цудоўны бурштынавы лук",
     "en": "Grand Amber Bow",
     "ru": "Великолепный янтарный лук",
     "bel": "Цудоўны бурштынавы лук",
@@ -99082,7 +99082,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicBow5",
-    "custom": "",
+    "custom": "Дасканалы бурштынавы лук",
     "en": "Perfect Amber Bow",
     "ru": "Совершенный янтарный лук",
     "bel": "Дасканалы бурштынавы лук",
@@ -99091,7 +99091,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicBowA",
-    "custom": "",
+    "custom": "Неякасны бурштынавы лук",
     "en": "Impure Amber Bow",
     "ru": "Некачеств. янтарный лук",
     "bel": "Неякасны бурштынавы лук",
@@ -99100,7 +99100,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicBowB",
-    "custom": "",
+    "custom": "Непаліраваны бурштынавы лук",
     "en": "Unpolished Amber Bow",
     "ru": "Неполированный янтарный лук",
     "bel": "Непаліраваны бурштынавы лук",
@@ -99109,7 +99109,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicCuirass1",
-    "custom": "",
+    "custom": "Неякасная бурштынавая кіраса",
     "en": "Impure Amber Cuirass",
     "ru": "Некачеств. янтарная кираса",
     "bel": "Неякасная бурштынавая кіраса",
@@ -99118,7 +99118,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicCuirass4",
-    "custom": "",
+    "custom": "Добрая бурштынавая кіраса",
     "en": "Fine Amber Cuirass",
     "ru": "Хорошая янтарная кираса",
     "bel": "Добрая бурштынавая кіраса",
@@ -99127,7 +99127,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicCuirass5",
-    "custom": "",
+    "custom": "Цудоўная бурштынавая кіраса",
     "en": "Grand Amber Cuirass",
     "ru": "Великолепная янтарная кираса",
     "bel": "Цудоўная бурштынавая кіраса",
@@ -99136,7 +99136,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicCuirass6",
-    "custom": "",
+    "custom": "Дасканалая бурштынавая кіраса",
     "en": "Perfect Amber Cuirass",
     "ru": "Совершенная янтарная кираса",
     "bel": "Дасканалая бурштынавая кіраса",
@@ -99145,7 +99145,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicGauntlets1",
-    "custom": "",
+    "custom": "Неякасныя бурштынавыя пальчаткі",
     "en": "Impure Amber Gauntlets",
     "ru": "Некачеств. янтарные перчатки",
     "bel": "Неякасныя бурштынавыя пальчаткі",
@@ -99154,7 +99154,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicGauntlets2",
-    "custom": "",
+    "custom": "Малыя бурштынавыя пальчаткі",
     "en": "Lesser Amber Gauntlets",
     "ru": "Малые янтарные перчатки",
     "bel": "Малыя бурштынавыя пальчаткі",
@@ -99163,7 +99163,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicGauntlets3",
-    "custom": "",
+    "custom": "Бурштынавыя пальчаткі",
     "en": "Amber Gauntlets",
     "ru": "Янтарные перчатки",
     "bel": "Бурштынавыя пальчаткі",
@@ -99172,7 +99172,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicGauntlets4",
-    "custom": "",
+    "custom": "Добрыя бурштынавыя пальчаткі",
     "en": "Fine Amber Gauntlets",
     "ru": "Хорошие янтарные перчатки",
     "bel": "Добрыя бурштынавыя пальчаткі",
@@ -99181,7 +99181,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicGauntlets5",
-    "custom": "",
+    "custom": "Цудоўныя бурштынавыя пальчаткі",
     "en": "Grand Amber Gauntlets",
     "ru": "Великолепные янтарные перчатки",
     "bel": "Цудоўныя бурштынавыя пальчаткі",
@@ -99190,7 +99190,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicGauntlets6",
-    "custom": "",
+    "custom": "Дасканалыя бурштынавыя пальчаткі",
     "en": "Perfect Amber Gauntlets",
     "ru": "Совершенные янтарные перчатки",
     "bel": "Дасканалыя бурштынавыя пальчаткі",
@@ -99199,7 +99199,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicGreaves1",
-    "custom": "",
+    "custom": "Неякасныя бурштынавыя нагавіцы",
     "en": "Impure Amber Greaves",
     "ru": "Некачеств. янтарные поножи",
     "bel": "Неякасныя бурштынавыя нагавіцы",
@@ -99208,7 +99208,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicGreaves2",
-    "custom": "",
+    "custom": "Малыя бурштынавыя нагавіцы",
     "en": "Lesser Amber Greaves",
     "ru": "Малые янтарные поножи",
     "bel": "Малыя бурштынавыя нагавіцы",
@@ -99217,7 +99217,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicGreaves3",
-    "custom": "",
+    "custom": "Бурштынавыя нагавіцы",
     "en": "Amber Greaves",
     "ru": "Янтарные поножи",
     "bel": "Бурштынавыя нагавіцы",
@@ -99226,7 +99226,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicGreaves4",
-    "custom": "",
+    "custom": "Добрыя бурштынавыя нагавіцы",
     "en": "Fine Amber Greaves",
     "ru": "Хорошие янтарные поножи",
     "bel": "Добрыя бурштынавыя нагавіцы",
@@ -99235,7 +99235,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicGreaves5",
-    "custom": "",
+    "custom": "Цудоўныя бурштынавыя нагавіцы",
     "en": "Grand Amber Greaves",
     "ru": "Великолепные янтарные поножи",
     "bel": "Цудоўныя бурштынавыя нагавіцы",
@@ -99244,7 +99244,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicGreaves6",
-    "custom": "",
+    "custom": "Дасканалыя бурштынавыя нагавіцы",
     "en": "Perfect Amber Greaves",
     "ru": "Совершенные янтарные поножи",
     "bel": "Дасканалыя бурштынавыя нагавіцы",
@@ -99253,7 +99253,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicHammer4",
-    "custom": "",
+    "custom": "Цудоўны бурштынавы молат",
     "en": "Grand Amber Hammer",
     "ru": "Великолепный янтарный молот",
     "bel": "Цудоўны бурштынавы молат",
@@ -99262,7 +99262,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicHammer5",
-    "custom": "",
+    "custom": "Дасканалы бурштынавы молат",
     "en": "Perfect Amber Hammer",
     "ru": "Совершенный янтарный молот",
     "bel": "Дасканалы бурштынавы молат",
@@ -99271,7 +99271,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicHammerA",
-    "custom": "",
+    "custom": "Неякасны бурштынавы молат",
     "en": "Impure Amber Hammer",
     "ru": "Некачеств. янтарный молот",
     "bel": "Неякасны бурштынавы молат",
@@ -99280,7 +99280,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEAmberMagicHammerB",
-    "custom": "",
+    "custom": "Непаліраваны бурштынавы молат",
     "en": "Unpolished Amber Hammer",
     "ru": "Неполированный янтарный молот",
     "bel": "Непаліраваны бурштынавы молат",
