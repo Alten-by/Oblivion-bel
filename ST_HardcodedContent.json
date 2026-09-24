@@ -3713,7 +3713,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscPeopleFedOn",
-    "custom": "",
+    "custom": "Шыі пакусаныя",
     "en": "Necks Bitten",
     "ru": "Шеи покусаны",
     "bel": "Шыі пакусаныя",
@@ -3721,7 +3721,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscPlayerDeadLoadOption",
-    "custom": "",
+    "custom": "Перазагрузка",
     "en": "Reload",
     "ru": "Перезарядка",
     "bel": "Перазагрузка",
@@ -3729,7 +3729,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscPlayerDeadMenuOption",
-    "custom": "",
+    "custom": "Галоўнае меню",
     "en": "Main Menu",
     "ru": "Главное меню",
     "bel": "Галоўнае меню",
@@ -3737,7 +3737,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscPlayerDeadMessage",
-    "custom": "",
+    "custom": "Перазагрузіць бягучую захаваную гульню?",
     "en": "Reload the current save game?",
     "ru": "Перезагрузить текущую сохранённую игру?",
     "bel": "Перазагрузіць бягучую захаваную гульню?",
@@ -3745,7 +3745,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscPotionsMade",
-    "custom": "",
+    "custom": "Зелле зварана",
     "en": "Potions Made",
     "ru": "Зелья сварены",
     "bel": "Зелле зварана",
@@ -3753,7 +3753,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscQuestsCompleted",
-    "custom": "",
+    "custom": "Выканана заданняў",
     "en": "Quests Completed",
     "ru": "Выполнено заданий",
     "bel": "Выканана заданняў",
@@ -3761,7 +3761,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscSEBounty",
-    "custom": "",
+    "custom": "Узнагарода за Шыверынгавыя Астравы",
     "en": "Shivering Isles Bounty",
     "ru": "Награда за Шиверинговые Острова",
     "bel": "Узнагарода за Шыверынгавыя Астравы",
@@ -3777,7 +3777,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscSoulsTrapped",
-    "custom": "",
+    "custom": "Заточаныя душы",
     "en": "Souls Trapped",
     "ru": "Заточенные души",
     "bel": "Заточаныя душы",
@@ -3785,7 +3785,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscStoresInvestedIn",
-    "custom": "",
+    "custom": "Інвеставана ў крамы",
     "en": "Stores Invested In",
     "ru": "Инвестировано в магазины",
     "bel": "Інвеставана ў крамы",
@@ -3793,7 +3793,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscTimesCured",
-    "custom": "",
+    "custom": "Раз вылечана",
     "en": "Times Cured",
     "ru": "Исцелений: [Times Cured]",
     "bel": "Вылячэння: [Times Cured]",
@@ -3801,7 +3801,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscTrainingSessions",
-    "custom": "",
+    "custom": "Трэніроўкі",
     "en": "Training Sessions",
     "ru": "Тренировки",
     "bel": "Трэніроўкі",
@@ -3809,7 +3809,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscUnknownEffect",
-    "custom": "",
+    "custom": "Невядомы эфект",
     "en": "Unknown Effect",
     "ru": "Неизвестный эффект",
     "bel": "Невядомы эфект",
@@ -3817,7 +3817,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscUses",
-    "custom": "",
+    "custom": "Выкарыстоўвае",
     "en": "Uses",
     "ru": "Использует",
     "bel": "Выкарыстоўвае",
@@ -3825,7 +3825,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMissingName",
-    "custom": "",
+    "custom": "<Невядома>",
     "en": "<Missing Name>",
     "ru": "<Неизвестно>",
     "bel": "<Невядома>",
@@ -3833,7 +3833,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMissingSpellName",
-    "custom": "",
+    "custom": "Спярша вы павінны ўвесці дапушчальнае імя для гэтага заклінання.",
     "en": "You must first enter a valid name for this spell.",
     "ru": "Сперва вы должны ввести допустимое имя для этого заклинания.",
     "bel": "Спярша вы павінны ўвесці дапушчальнае імя для гэтага заклінання.",
@@ -3841,7 +3841,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMouth",
-    "custom": "",
+    "custom": "Рот",
     "en": "Mouth",
     "ru": "Рот",
     "bel": "Рот",
@@ -3849,7 +3849,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMouthChin",
-    "custom": "",
+    "custom": "Адлегласць паміж ротам і падбароддзем: кароткае/доўгае",
     "en": "Mouth-Chin Distance Short/Long",
     "ru": "Расстояние между ртом и подбородком: короткое/длинное",
     "bel": "Адлегласць паміж ротам і падбароддзем: кароткае/доўгае",
@@ -3857,7 +3857,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMouthLips",
-    "custom": "",
+    "custom": "Рот(Вусны)",
     "en": "Mouth(Lips)",
     "ru": "Рот(Губы)",
     "bel": "Рот(Вусны)",
@@ -3865,7 +3865,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMouthdrawn",
-    "custom": "",
+    "custom": "Падціснутыя вусны",
     "en": "Mouth Drawn/Pursed",
     "ru": "Поджатые губы",
     "bel": "Падціснутыя вусны",
@@ -3873,7 +3873,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMouthhappy",
-    "custom": "",
+    "custom": "Рот Вясёлы/Сумны",
     "en": "Mouth Happy/Sad",
     "ru": "Рот Весёлый/Грустный",
     "bel": "Рот Вясёлы/Сумны",
@@ -3881,7 +3881,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMouthhigh",
-    "custom": "",
+    "custom": "Высока/Нізка ад Рота",
     "en": "Mouth High/Low",
     "ru": "Высоко/Низко от Рта",
     "bel": "Высока/Нізка ад Рота",
@@ -3889,7 +3889,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMouthlipsdeflated",
-    "custom": "",
+    "custom": "Вусны Рот Здзіманыя/Надзіманыя",
     "en": "Mouth Lips Deflated/Inflated",
     "ru": "Губы Рот Сдутые/Надутые",
     "bel": "Вусны Рот Здзіманыя/Надзіманыя",
@@ -3897,7 +3897,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMouthlipslarge",
-    "custom": "",
+    "custom": "Рот Вусны Вялікія/Маленькія",
     "en": "Mouth Lips Large/Small",
     "ru": "Рот Губы Большие/Маленькие",
     "bel": "Рот Вусны Вялікія/Маленькія",
@@ -3905,7 +3905,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMouthlipspuckered",
-    "custom": "",
+    "custom": "Рот: вусны падціснутыя/уцягнутыя",
     "en": "Mouth Lips Puckered/Retracted",
     "ru": "Рот: губы поджаты/втянуты",
     "bel": "Рот: вусны падціснутыя/уцягнутыя",
@@ -3913,7 +3913,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMouthprotruding",
-    "custom": "",
+    "custom": "Выпячаны/уцягнуты рот",
     "en": "Mouth Protruding/Retracted",
     "ru": "Выпяченный/втянутый рот",
     "bel": "Выпячаны/уцягнуты рот",
@@ -3921,7 +3921,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMouthtilt",
-    "custom": "",
+    "custom": "Нахіл Рота Уверх/Уніз",
     "en": "Mouth Tilt Up/Down",
     "ru": "Наклон Рта Вверх/Вниз",
     "bel": "Нахіл Рота Уверх/Уніз",
@@ -3929,7 +3929,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMouthunderbite",
-    "custom": "",
+    "custom": "Няправільны прыкус",
     "en": "Mouth Underbite/Overbite",
     "ru": "Неправильный прикус",
     "bel": "Няправільны прыкус",
@@ -3937,7 +3937,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMove",
-    "custom": "",
+    "custom": "Рух",
     "en": "Move",
     "ru": "Движение",
     "bel": "Рух",
@@ -3945,7 +3945,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMoveMarker",
-    "custom": "",
+    "custom": "Перасунуць",
     "en": "Move It",
     "ru": "Передвинуть",
     "bel": "Перасунуць",
@@ -3953,7 +3953,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMoveMarkerQuestion",
-    "custom": "",
+    "custom": "Вы хочаце перасунуць свой маркер або прыбраць яго?",
     "en": "Do you want to move your marker or remove it?",
     "ru": "Вы хотите переместить свой маркер или убрать его?",
     "bel": "Вы хочаце перасунуць свой маркер або прыбраць яго?",
@@ -3961,7 +3961,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMustRestart",
-    "custom": "",
+    "custom": "Каб змены ўступілі ў сілу, вы павінны выйсці і перазапусціць Аблівіён.",
     "en": "You must exit and restart Oblivion for changes in this setting to take effect.",
     "ru": "Чтобы изменения вступили в силу, вы должны выйти и перезапустить Обливион.",
     "bel": "Каб змены ўступілі ў сілу, вы павінны выйсці і перазапусціць Аблівіён.",
@@ -3969,7 +3969,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNamePotion",
-    "custom": "",
+    "custom": "Назваць зелле",
     "en": "Name Potion",
     "ru": "Назвать зелье",
     "bel": "Назваць зелле",
@@ -3977,7 +3977,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNares",
-    "custom": "",
+    "custom": "Ноздры Маленькія/Вялікія",
     "en": "Nares Small/Large",
     "ru": "Ноздри Маленькие/Большие",
     "bel": "Ноздры Маленькія/Вялікія",
@@ -3985,7 +3985,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNasolabiallines",
-    "custom": "",
+    "custom": "Насагубныя Зморшчыны Светлыя/Цёмныя",
     "en": "Naso Labial Lines Light/Dark",
     "ru": "Носогубные Складки Светлые/Тёмные",
     "bel": "Насагубныя Зморшчыны Светлыя/Цёмныя",
@@ -4009,7 +4009,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoCharge",
-    "custom": "",
+    "custom": "У зачараванага прадмета недастаткова зараду.",
     "en": "The enchanted item does not have enough charge.",
     "ru": "У зачарованного предмета недостаточно заряда.",
     "bel": "У зачараванага прадмета недастаткова зараду.",
@@ -4017,7 +4017,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoDevice",
-    "custom": "",
+    "custom": "Актыўныя прылады не выяўлены.",
     "en": "No active devices were detected",
     "ru": "Активные устройства не обнаружены.",
     "bel": "Актыўныя прылады не выяўлены.",
@@ -4025,7 +4025,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoDeviceSelected",
-    "custom": "",
+    "custom": "Вы не выбралі прыладу захоўвання дадзеных. Вам трэба выбраць яе, перш чым вы зможаце захаваць гульню. Да таго часу аўтазахаванне адключана.",
     "en": "You have not selected a storage device. You will need to select one before you can save. Until then, Autosave is disabled.",
     "ru": "Вы не выбрали устройство хранения данных. Вам потребуется выбрать его, прежде чем вы сможете сохранить игру. До тех пор автосохранение отключено.",
     "bel": "Вы не выбралі прыладу захоўвання дадзеных. Вам трэба выбраць яе, перш чым вы зможаце захаваць гульню. Да таго часу аўтазахаванне адключана.",
@@ -4033,7 +4033,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoEatQuestItem",
-    "custom": "",
+    "custom": "Вы не можаце есці прадметы заданняў.",
     "en": "You can not eat quest items.",
     "ru": "Вы не можете есть предметы заданий.",
     "bel": "Вы не можаце есці прадметы заданняў.",
@@ -4041,7 +4041,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoFX",
-    "custom": "",
+    "custom": "Каб стварыць зачараванне, трэба дадаць як мінімум адзін эфект.",
     "en": "You need to add at least one effect in order to create an enchantment.",
     "ru": "Чтобы создать зачарование, нужно добавить как минимум один эффект.",
     "bel": "Каб стварыць зачараванне, трэба дадаць як мінімум адзін эфект.",
@@ -4049,7 +4049,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoFastTravelAlarm",
-    "custom": "",
+    "custom": "Вы не можаце здзейсніць хуткае перамяшчэнне, калі вас пераследуюць вартаўнікі.",
     "en": "You cannot fast travel while guards are pursuing you.",
     "ru": "Вы не можете совершить быстрое перемещение, когда вас преследуют стражники.",
     "bel": "Вы не можаце здзейсніць хуткае перамяшчэнне, калі вас пераследуюць вартаўнікі.",
@@ -4057,7 +4057,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoFastTravelCell",
-    "custom": "",
+    "custom": "Вы не можаце здзейсніць хуткае перамяшчэнне з гэтай лакацыі.",
     "en": "You cannot fast travel from this location.",
     "ru": "Вы не можете совершить быстрое перемещение из этой локации.",
     "bel": "Вы не можаце здзейсніць хуткае перамяшчэнне з гэтай лакацыі.",
@@ -4065,7 +4065,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoFastTravelCombat",
-    "custom": "",
+    "custom": "Падчас бою нельга здзяйсняць хуткае перамяшчэнне!",
     "en": "You cannot fast travel during combat!",
     "ru": "Во время боя нельзя совершить быстрое перемещение!",
     "bel": "Падчас бою нельга здзяйсняць хуткае перамяшчэнне!",
@@ -4073,7 +4073,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoFastTravelScriptBlock",
-    "custom": "",
+    "custom": "Хуткае перамяшчэнне з гэтай лакацыі ў дадзены момант недаступна.",
     "en": "Fast travel is currently unavaliable from this location.",
     "ru": "Быстрое перемещение из этой локации в данный момент недоступно.",
     "bel": "Хуткае перамяшчэнне з гэтай лакацыі ў дадзены момант недаступна.",
@@ -4081,7 +4081,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoHammer",
-    "custom": "",
+    "custom": "У вас скончыліся молаты.",
     "en": "You have run out of hammers.",
     "ru": "У вас закончились молотки.",
     "bel": "У вас скончыліся молаты.",
@@ -4089,7 +4089,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoItem",
-    "custom": "",
+    "custom": "Спачатку вы павінны выбраць прадмет для зачаравання.",
     "en": "You must first select an item to enchant.",
     "ru": "Сначала вы должны выбрать предмет для зачарования.",
     "bel": "Спачатку вы павінны выбраць прадмет для зачаравання.",
@@ -4097,7 +4097,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoItemsToRecharge",
-    "custom": "",
+    "custom": "У вас няма прадметаў, якія трэба перазарадзіць.",
     "en": "You have no items that need to be recharged.",
     "ru": "У вас нет предметов, которые нужно перезарядить.",
     "bel": "У вас няма прадметаў, якія трэба перазарадзіць.",
@@ -4105,7 +4105,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoJumpWarning",
-    "custom": "",
+    "custom": "Нельга выкідваць прадметы ў паветры.",
     "en": "You can not drop objects while in the air.",
     "ru": "Нельзя выбрасывать предметы в воздухе.",
     "bel": "Нельга выкідваць прадметы ў паветры.",
@@ -4113,7 +4113,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoLockPick",
-    "custom": "",
+    "custom": "Дзверы зачыненыя, і ў вас няма адмычкі",
     "en": "Door is locked and you don't have a lockpick",
     "ru": "Дверь заперта, и у тебя нет отмычки.",
     "bel": "Дзверы зачыненыя, і ў цябе няма адмычкі.",
@@ -4121,7 +4121,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoLockPickIfCrimeAlert",
-    "custom": "",
+    "custom": "Вы не можаце ўзламаць замок, калі вас пераследуюць ахоўнікі.",
     "en": "You can't pick a lock while being pursued by guards.",
     "ru": "Нельзя взламывать замок, когда тебя преследуют стражники.",
     "bel": "Нельга ўзломваць замок, калі цябе пераследуюць вартаўнікі.",
@@ -4129,7 +4129,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoLockPickKey",
-    "custom": "",
+    "custom": "Дзверы зачыненыя, у вас няма ключа або адмычкі.",
     "en": "Door is locked you don't have the key or a lockpick.",
     "ru": "Дверь заперта, у вас нет ключа или отмычки.",
     "bel": "Дзверы зачыненыя, у вас няма ключа або адмычкі.",
@@ -4137,7 +4137,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoMoreFollowers",
-    "custom": "",
+    "custom": "У вас занадта шмат паслядоўнікаў.",
     "en": "You have too many followers.",
     "ru": "У тебя слишком много подписчиков.",
     "bel": "У цябе занадта шмат падпісчыкаў.",
@@ -4145,7 +4145,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoMortor",
-    "custom": "",
+    "custom": "Вам патрэбны песцік і ступка, каб рабіць зелля.",
     "en": "You need a mortor and pestal to make potions.",
     "ru": "Тебе нужна ступка и пестик, чтобы делать зелья.",
     "bel": "Табе патрэбна ступка і песцік, каб рабіць зелля.",
@@ -4153,7 +4153,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoName",
-    "custom": "",
+    "custom": "Спярша трэба ўвесці дапушчальнае імя для гэтага чаравання.",
     "en": "You must first enter a valid name for this enchantment.",
     "ru": "Сперва нужно ввести допустимое имя для этого чарования.",
     "bel": "Спярша трэба ўвесці дапушчальнае імя для гэтага чаравання.",
@@ -4161,7 +4161,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoNameCharacter",
-    "custom": "",
+    "custom": "Спачатку неабходна ўвесці карэктнае імя.",
     "en": "You must first enter a valid name.",
     "ru": "Сначала необходимо ввести корректное имя.",
     "bel": "Спачатку неабходна ўвесці карэктнае імя.",
@@ -4169,7 +4169,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoPickPocketAgain",
-    "custom": "",
+    "custom": " ужо злавіў вас.",
     "en": " has already caught you.",
     "ru": "Уже поймал тебя.",
     "bel": "Ужо злавіў цябе.",
@@ -4177,7 +4177,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoProfileSelected",
-    "custom": "",
+    "custom": "Вы не ўвайшлі ў профіль геймера. Вам трэба будзе ўвайсці ў профіль геймера, а затым выбраць прыладу захоўвання дадзеных, перш чым вы зможаце захаваць. Да таго часу аўтазахаванне адключана.",
     "en": "You have not signed in to a Gamer Profile. You will need to sign in to a Gamer Profile and then select a storage device before you can save. Until then, Autosave is disabled.",
     "ru": "Вы не вошли ни в один профиль игрока. Вам необходимо войти в профиль игрока, а затем выбрать устройство хранения, прежде чем вы сможете сохранить игру. До тех пор функция Autosave отключена.",
     "bel": "Вы не ўвайшлі ні ў адзін профіль гульца. Вам неабходна ўвайсці ў профіль гульца, а затым выбраць прыладу захоўвання, перш чым вы зможаце захаваць гульню. Да таго часу функцыя Autosave адключана.",
@@ -4185,7 +4185,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoRace",
-    "custom": "",
+    "custom": "БЕЗ РАСЫ",
     "en": "NO RACE",
     "ru": "БЕЗ РАСЫ",
     "bel": "БЕЗ РАСЫ",
@@ -4193,7 +4193,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoRepairMagic",
-    "custom": "",
+    "custom": "Толькі Падмайстар Браняніка або вышэй можа чыніць магічныя прадметы.",
     "en": "Only an Apprentice Armorer or higher may repair magic items.",
     "ru": "Только Подмастерье Бронника или выше может чинить магические предметы.",
     "bel": "Толькі Падмайстар Браняніка або вышэй можа чыніць магічныя прадметы.",
@@ -4201,7 +4201,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoRestart",
-    "custom": "",
+    "custom": "Не, працягвай гуляць.",
     "en": "No, keep playing.",
     "ru": "Нет, продолжай играть.",
     "bel": "Не, працягвай гуляць.",
@@ -4209,7 +4209,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoSitOnOwnedFurniture",
-    "custom": "",
+    "custom": "Нельга садзіцца на чужую мэблю.",
     "en": "You cannot sit on owned furniture.",
     "ru": "Нельзя садиться на чужую мебель.",
     "bel": "Нельга садзіцца на чужую мэблю.",
@@ -4217,7 +4217,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoSleepCombat",
-    "custom": "",
+    "custom": "Падчас бою нельга спаць.",
     "en": "You cannot sleep while in combat.",
     "ru": "Во время боя нельзя спать.",
     "bel": "Падчас бою нельга спаць.",
@@ -4225,7 +4225,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoSleepHostilActorsNear",
-    "custom": "",
+    "custom": "Нельга спаць, калі ворагі паблізу.",
     "en": "You cannot sleep when enemies are near by.",
     "ru": "Нельзя спать, когда враги поблизости.",
     "bel": "Нельга спаць, калі ворагі паблізу.",
@@ -4233,7 +4233,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoSleepInOwnedBed",
-    "custom": "",
+    "custom": "Вы не можаце ўзаемадзейнічаць з набытай мэбляй.",
     "en": "You cannot interact with owned furniture.",
     "ru": "Вы не можете взаимодействовать с приобретенной мебелью.",
     "bel": "Вы не можаце ўзаемадзейнічаць з набытай мэбляй.",
@@ -4241,7 +4241,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoSleepTrespass",
-    "custom": "",
+    "custom": "Падчас незаконнага пранікнення спаць нельга.",
     "en": "You cannot sleep while trespassing.",
     "ru": "Во время незаконного проникновения спать нельзя.",
     "bel": "Падчас незаконнага пранікнення спаць нельга.",
@@ -4249,7 +4249,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoSoul",
-    "custom": "",
+    "custom": "Вам трэба выбраць Камень Душ, напоўнены душой, каб зачараваць прадмет.",
     "en": "You need to select a Soul Gem filled with a soul in order to enchant an object.",
     "ru": "Вам нужно выбрать Камень Душ, наполненный душой, чтобы зачаровать предмет.",
     "bel": "Вам трэба выбраць Камень Душ, напоўнены душой, каб зачараваць прадмет.",
@@ -4257,7 +4257,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoSoulGem",
-    "custom": "",
+    "custom": "Вам патрэбны камень душ для падзарадкі.",
     "en": "You need a soul gem to recharge.",
     "ru": "Чтобы перезарядить, тебе нужен камень душ.",
     "bel": "Каб перазарадзіць, табе патрэбен камень душ.",
@@ -4265,7 +4265,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoSoulInGem",
-    "custom": "",
+    "custom": "Гэты камень душ пусты. Вы можаце экіпіраваць толькі той камень душ, у якім ёсць душа.",
     "en": "This soul gem is empty. You can only equip a soul gem that has a soul in it.",
     "ru": "Этот камень душ пуст. Вы можете экипировать только тот камень душ, в котором есть душа.",
     "bel": "Гэты камень душ пусты. Вы можаце экіпіраваць толькі той камень душ, у якім ёсць душа.",
@@ -4273,7 +4273,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoTalkFleeing",
-    "custom": "",
+    "custom": " Ратуецца ўцёкам, каб застацца ў жывых.",
     "en": " is fleeing for their life.",
     "ru": "Спасается бегством, чтобы остаться в живых.",
     "bel": "Ратуецца ўцёкам, каб застацца ў жывых.",
@@ -4281,7 +4281,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoTalkUnConscious",
-    "custom": "",
+    "custom": " Без прытомнасці.",
     "en": " is unconscious.",
     "ru": "Без сознания.",
     "bel": "Без прытомнасці.",
@@ -4289,7 +4289,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoWaitHostilActorsNear",
-    "custom": "",
+    "custom": "Вы не можаце чакаць, калі побач ворагі.",
     "en": "You cannot wait when enemies are near by.",
     "ru": "Тебе нельзя ждать, когда враги рядом.",
     "bel": "Табе нельга чакаць, калі ворагі побач.",
@@ -4297,7 +4297,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoWaitInAir",
-    "custom": "",
+    "custom": "Падчас знаходжання ў паветры чакаць нельга.",
     "en": "You cannot wait while in the air.",
     "ru": "Во время нахождения в воздухе ждать нельзя.",
     "bel": "Падчас знаходжання ў паветры чакаць нельга.",
@@ -4305,7 +4305,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoWaitInCell",
-    "custom": "",
+    "custom": "У гэтым месцы нельга чакаць.",
     "en": "You cannot wait in this location.",
     "ru": "В этом месте нельзя ждать.",
     "bel": "У гэтым месцы нельга чакаць.",
@@ -4313,7 +4313,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoWaitInCombat",
-    "custom": "",
+    "custom": "Нельга чакаць падчас бою.",
     "en": "You cannot wait while in combat.",
     "ru": "Нельзя ждать во время боя.",
     "bel": "Нельга чакаць падчас бою.",
@@ -4321,7 +4321,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoWaitInJail",
-    "custom": "",
+    "custom": "Каб адбыць пакаранне, вы павінны спаць на турэмным ложку.",
     "en": "You must sleep in a jail bed in order to serve your sentence.",
     "ru": "Чтобы отбыть наказание, вы должны спать на тюремной койке.",
     "bel": "Каб адбыць пакаранне, вы павінны спаць на турэмным ложку.",
@@ -4329,7 +4329,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoWaitTrespass",
-    "custom": "",
+    "custom": "Нельга чакаць, парушаючы межы прыватнай уласнасці.",
     "en": "You cannot wait while trespassing.",
     "ru": "Нельзя ждать, нарушая границы частной собственности.",
     "bel": "Нельга чакаць, парушаючы межы прыватнай уласнасці.",
@@ -4337,7 +4337,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoWaitUnderWater",
-    "custom": "",
+    "custom": "Вы не можаце чакаць, знаходзячыся пад вадой.",
     "en": "You cannot wait while under water.",
     "ru": "Вы не можете ждать, находясь под водой.",
     "bel": "Вы не можаце чакаць, знаходзячыся пад вадой.",
@@ -4345,7 +4345,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoWaitWhileAlarmSounding",
-    "custom": "",
+    "custom": "Вы не можаце тут чакаць. Варта шукае вас.",
     "en": "You are unable to wait here. An alarm is sounding with your name one it.",
     "ru": "Вы не можете здесь ждать. Стража ищет вас.",
     "bel": "Вы не можаце тут чакаць. Варта шукае вас.",
@@ -4353,7 +4353,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNone",
-    "custom": "",
+    "custom": "Няма",
     "en": "None",
     "ru": "None",
     "bel": "None",
@@ -4361,7 +4361,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNose",
-    "custom": "",
+    "custom": "Нос",
     "en": "Nose",
     "ru": "Нос",
     "bel": "Нос",
@@ -4369,7 +4369,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoseTex",
-    "custom": "",
+    "custom": "Насавыя акуляры",
     "en": "Nose Shades",
     "ru": "Носовые очки",
     "bel": "Насавыя акуляры",
@@ -4377,7 +4377,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNosebridgeshallow",
-    "custom": "",
+    "custom": "Пераноссе: нізкая/высокая",
     "en": "Nose Bridge Shallow/Deep",
     "ru": "Переносица: низкая/высокая",
     "bel": "Пераноссе: нізкая/высокая",
@@ -4385,7 +4385,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNosebridgeshort",
-    "custom": "",
+    "custom": "Пераноссе Кароткая/Доўгая",
     "en": "Nose Bridge Short/Long",
     "ru": "Переносица Короткая/Длинная",
     "bel": "Пераноссе Кароткая/Доўгая",
@@ -4393,7 +4393,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNosedown",
-    "custom": "",
+    "custom": "Нахіліць нос уніз/уверх.",
     "en": "Nose Down/Up",
     "ru": "Наклонить нос вниз/вверх.",
     "bel": "Нахіліць нос уніз/уверх.",
@@ -4401,7 +4401,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoseflat",
-    "custom": "",
+    "custom": "Нос Прыплюшчаны/Завостраны",
     "en": "Nose Flat/Pointed",
     "ru": "Нос Приплюснутый/Заострённый",
     "bel": "Нос Прыплюшчаны/Завостраны",
@@ -4409,7 +4409,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNosenostrilssmall",
-    "custom": "",
+    "custom": "Нос Ноздры Маленькія/Вялікія",
     "en": "Nose Nostrils Small/Large",
     "ru": "Нос Ноздри Маленькие/Большие",
     "bel": "Нос Ноздры Маленькія/Вялікія",
@@ -4417,7 +4417,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNosenostrilswide",
-    "custom": "",
+    "custom": "Нос Ноздры Шырокія/Тонкія",
     "en": "Nose Nostrils Wide/Thin",
     "ru": "Нос Ноздри Широкие/Тонкие",
     "bel": "Нос Ноздры Шырокія/Тонкія",
@@ -4425,7 +4425,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNosenostriltilt",
-    "custom": "",
+    "custom": "Нахіл ноздраў уніз/уверх",
     "en": "Nose Nostril Tilt Down/Up",
     "ru": "Наклон ноздрей вниз/вверх",
     "bel": "Нахіл ноздраў уніз/уверх",
@@ -4433,7 +4433,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoseregion",
-    "custom": "",
+    "custom": "Вобласць носа: Увагнутасць/Выпукласць",
     "en": "Nose Region Concave/Convex",
     "ru": "Область носа: Вогнутость/Выпуклость",
     "bel": "Вобласць носа: Увагнутасць/Выпукласць",
@@ -4441,7 +4441,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoseselliondown",
-    "custom": "",
+    "custom": "Носавая перагародка апушчана/паднята.",
     "en": "Nose Sellion Down/Up",
     "ru": "Носовая перегородка опущена/поднята.",
     "bel": "Носавая перагародка апушчана/паднята.",
@@ -4449,7 +4449,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNosesellionlower",
-    "custom": "",
+    "custom": "Ніжняя неглыбокая/глыбокая носавая перагародка",
     "en": "Nose Sellion Lower Shallow/Deep",
     "ru": "Нижняя неглубокая/глубокая носовая перегородка",
     "bel": "Ніжняя неглыбокая/глыбокая носавая перагародка",
@@ -4457,7 +4457,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNosesellionshallow",
-    "custom": "",
+    "custom": "Сядло носа дробнае/глыбокае",
     "en": "Nose Sellion Shallow/Deep",
     "ru": "Седло носа мелкое/глубокое",
     "bel": "Сядло носа дробнае/глыбокае",
@@ -4465,7 +4465,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNosesellionthin",
-    "custom": "",
+    "custom": "Пераноссе: Тонкая/Шырокая",
     "en": "Nose Sellion Thin/Wide",
     "ru": "Переносица: Тонкая/Широкая",
     "bel": "Пераноссе: Тонкая/Шырокая",
@@ -4473,7 +4473,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNoseshort",
-    "custom": "",
+    "custom": "Нос Кароткі/Доўгі",
     "en": "Nose Short/Long",
     "ru": "Нос Короткий/Длинный",
     "bel": "Нос Кароткі/Доўгі",
@@ -4481,7 +4481,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNosetilt",
-    "custom": "",
+    "custom": "Нахіл Носа Ўніз/Уверх",
     "en": "Nose Tilt Down/Up",
     "ru": "Наклон Носа Вниз/Вверх",
     "bel": "Нахіл Носа Ўніз/Уверх",
@@ -4489,7 +4489,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNotEnoughCharge",
-    "custom": "",
+    "custom": "У зачараванага прадмета недастаткова зарадаў.",
     "en": "The enchanted item does not have enough charge.",
     "ru": "У зачарованного предмета недостаточно зарядов.",
     "bel": "У зачараванага прадмета недастаткова зарадаў.",
@@ -4497,7 +4497,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNotEnoughGold",
-    "custom": "",
+    "custom": "У вас недастаткова золата.",
     "en": "You do not have enough gold.",
     "ru": "У вас недостаточно золота.",
     "bel": "У вас недастаткова золата.",
@@ -4505,7 +4505,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNotEnoughRoomWarning",
-    "custom": "",
+    "custom": "У вас недастаткова месца, каб скінуць гэты прадмет.",
     "en": "You do not have enough room to drop this object.",
     "ru": "У вас недостаточно места, чтобы сбросить этот предмет.",
     "bel": "У вас недастаткова месца, каб скінуць гэты прадмет.",
@@ -4513,7 +4513,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sOblivionCaps",
-    "custom": "",
+    "custom": "АБЛІВІЁН",
     "en": "OBLIVION",
     "ru": "ОБЛИВИОН",
     "bel": "АБЛІВІЁН",
@@ -4521,7 +4521,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sOff",
-    "custom": "",
+    "custom": "Выкл.",
     "en": "Off",
     "ru": "Выкл.",
     "bel": "Выкл.",
@@ -4529,7 +4529,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sOffButtonText",
-    "custom": "",
+    "custom": "Выкл.",
     "en": "Off",
     "ru": "Выкл.",
     "bel": "Выкл.",
