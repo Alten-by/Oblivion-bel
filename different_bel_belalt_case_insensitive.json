@@ -69130,7 +69130,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS26FileCharges",
-    "custom": "",
+    "custom": "Даць паказанні супраць Аўдэнса Авідзіуса",
     "en": "Testify against Audens Avidius",
     "ru": "Дать показания против Ауденса Авидиуса",
     "bel": "Даць паказанні супраць Аўдэнса Авідзіуса",
@@ -69139,7 +69139,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS26FromCustomers",
-    "custom": "",
+    "custom": "Двое з тваіх кліентаў.",
     "en": "Two of your customers told me.",
     "ru": "Двое из твоих клиентов.",
     "bel": "Двое з тваіх кліентаў.",
@@ -69148,7 +69148,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS26GiveCoins",
-    "custom": "",
+    "custom": "Вазьмі тры. Магу падзяліцца.",
     "en": "Take three. I have plenty to spare.",
     "ru": "Возьми три. Могу поделиться.",
     "bel": "Вазьмі тры. Магу падзяліцца.",
@@ -69157,7 +69157,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS26Goodbye",
-    "custom": "",
+    "custom": "Бывай, MS26Goodbye",
     "en": "MS26Goodbye",
     "ru": "Прощай, MS26Goodbye",
     "bel": "Бывай, MS26Goodbye",
@@ -69166,7 +69166,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS26ItiusAccuses",
-    "custom": "",
+    "custom": "MS26ItiusAccuses",
     "en": "MS26ItiusAccuses",
     "ru": "MS26ItiusAccuses",
     "bel": "MS26ItiusAccuses",
@@ -69175,7 +69175,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS26ItiusResponse",
-    "custom": "",
+    "custom": "Адказ MS26Itius",
     "en": "MS26ItiusResponse",
     "ru": "Ответ MS26Itius",
     "bel": "Адказ MS26Itius",
@@ -69184,7 +69184,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS26JustGuess",
-    "custom": "",
+    "custom": "Здагадка. Хіба гэта не так?",
     "en": "Just a guess. Aren't they all?",
     "ru": "Догадка. Разве это не так?",
     "bel": "Здагадка. Хіба гэта не так?",
@@ -69193,7 +69193,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS26NoCoins",
-    "custom": "",
+    "custom": "Прабачце. Я на мялізне.",
     "en": "Sorry. I'm broke myself.",
     "ru": "Извини. Я на мели.",
     "bel": "Прабачце. Я на мялізне.",
@@ -69202,7 +69202,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS26Response",
-    "custom": "",
+    "custom": "Адказ MS26",
     "en": "MS26Response",
     "ru": "Ответ MS26",
     "bel": "Адказ MS26",
@@ -69211,7 +69211,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS26ShopkeeperReport",
-    "custom": "",
+    "custom": "Чаму Дженсін не далажыла пра яго?",
     "en": "Why didn't Jensine report him?",
     "ru": "Почему Дженсин не доложила о нем?",
     "bel": "Чаму Дженсін не далажыла пра яго?",
@@ -69220,7 +69220,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS26Sorry",
-    "custom": "",
+    "custom": "Прабачце за турботы.",
     "en": "Sorry to bother you.",
     "ru": "Извини за беспокойство.",
     "bel": "Прабачце за турботы.",
@@ -69229,7 +69229,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27",
-    "custom": "",
+    "custom": "Таямніцы айлейдаў",
     "en": "Secrets of the Ayleids",
     "ru": "Тайны айлейдов",
     "bel": "Таямніцы айлейдаў",
@@ -69238,7 +69238,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27AlliesFaction",
-    "custom": "",
+    "custom": "Сябры па зачыстцы падзямелляў MS27",
     "en": "MS27 dungeon crawl friends",
     "ru": "Друзья по зачистке подземелий MS27",
     "bel": "Сябры па зачыстцы падзямелляў MS27",
@@ -69247,7 +69247,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27AyleidCrown",
-    "custom": "",
+    "custom": "Айлейдская карона",
     "en": "Crown of the Ayleids",
     "ru": "Айлейдская корона",
     "bel": "Айлейдская карона",
@@ -69256,7 +69256,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27AyleidKey",
-    "custom": "",
+    "custom": "Ключ ад магільні Лінды",
     "en": "Lindai's Royal Tomb Key",
     "ru": "Ключ от гробницы Линдаи",
     "bel": "Ключ ад магільні Лінды",
@@ -69265,7 +69265,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27CrownLindai",
-    "custom": "",
+    "custom": "Ліндаі",
     "en": "Lindai",
     "ru": "Линдаи",
     "bel": "Ліндаі",
@@ -69274,7 +69274,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27FakeShockBolt",
-    "custom": "",
+    "custom": "Электрычная страла",
     "en": "Shock Bolt",
     "ru": "Электрическая стрела",
     "bel": "Электрычная страла",
@@ -69283,7 +69283,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27HerminiaA2",
-    "custom": "",
+    "custom": "Умбакана добра заплаціць за яе.",
     "en": "Umbacano will pay well for it.",
     "ru": "Умбакано хорошо заплатит за нее.",
     "bel": "Умбакана добра заплаціць за яе.",
@@ -69292,7 +69292,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27HerminiaA3",
-    "custom": "",
+    "custom": "Лепей бы табе прадаць яе мне.",
     "en": "You'd better sell it to me.",
     "ru": "Лучше бы тебе продать ее мне.",
     "bel": "Лепей бы табе прадаць яе мне.",
@@ -69301,7 +69301,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27HerminiaB1",
-    "custom": "",
+    "custom": "Умбакана бяскрыўдны калекцыянер.",
     "en": "Umbacano is a harmless collector.",
     "ru": "Умбакано безобидный коллекционер.",
     "bel": "Умбакана бяскрыўдны калекцыянер.",
@@ -69310,7 +69310,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27HerminiaB2",
-    "custom": "",
+    "custom": "Мэты Умбакана мяне не цікавяць.",
     "en": "Umbacano's goals are not my concern.",
     "ru": "Цели Умбакано меня не интересуют.",
     "bel": "Мэты Умбакана мяне не цікавяць.",
@@ -69319,7 +69319,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27HerminiaC1",
-    "custom": "",
+    "custom": "Чым небяспечная айлейдская карона?",
     "en": "How is the Ayleid Crown dangerous?",
     "ru": "Чем опасна айлейдская корона?",
     "bel": "Чым небяспечная айлейдская карона?",
@@ -69337,7 +69337,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27HerminiaCinnaCaskKey",
-    "custom": "",
+    "custom": "Ключ ад айлейдскага куфра",
     "en": "Ayleid Cask Key",
     "ru": "Ключ от айлейдского ларя",
     "bel": "Ключ ад айлейдскага куфра",
@@ -69355,7 +69355,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27HerminiaD1",
-    "custom": "",
+    "custom": "Маё абяцанне прынесці яму карону...",
     "en": "I promised to bring him the Crown...",
     "ru": "Мое обещание принести ему корону...",
     "bel": "Маё абяцанне прынесці яму карону...",
@@ -69364,7 +69364,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27HerminiaD2",
-    "custom": "",
+    "custom": "Умбакана не адступіцца ад свайго.",
     "en": "Umbacano will not give up.",
     "ru": "Умбакано не отступится от своего.",
     "bel": "Умбакана не адступіцца ад свайго.",
@@ -69373,7 +69373,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27HerminiaE1",
-    "custom": "",
+    "custom": "Што значыць - іншую карону?",
     "en": "What do you mean, another Crown?",
     "ru": "Что значит - другую корону?",
     "bel": "Што значыць - іншую карону?",
@@ -69382,7 +69382,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27LastAyleidKing",
-    "custom": "",
+    "custom": "Апошні кароль айлейдаў",
     "en": "Last Ayleid King",
     "ru": "Последний король айлейдов",
     "bel": "Апошні кароль айлейдаў",
@@ -69400,7 +69400,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27NenalataAyleidCrown01",
-    "custom": "",
+    "custom": "Айлейдская карона Неналаты",
     "en": "Ayleid Crown of Nenalata",
     "ru": "Неналата",
     "bel": "Неналата",
@@ -69409,7 +69409,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27QuestStart",
-    "custom": "",
+    "custom": "Раскажы мне пра гэтага калекцыянера.",
     "en": "Tell me about this collector.",
     "ru": "Расскажи мне об этом коллекционере.",
     "bel": "Раскажы мне пра гэтага калекцыянера.",
@@ -69418,7 +69418,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27UmbacanoA1",
-    "custom": "",
+    "custom": "Вядома, я вазьмуся за гэтую працу.",
     "en": "Sure, I'll take the job.",
     "ru": "Конечно, я возьмусь за эту работу.",
     "bel": "Вядома, я вазьмуся за гэтую працу.",
@@ -69427,7 +69427,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27UmbacanoA2",
-    "custom": "",
+    "custom": "Я не зацікаўлены.",
     "en": "I'm not interested.",
     "ru": "Мне это не интересно.",
     "bel": "Мне гэта не цікава.",
@@ -69436,7 +69436,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27UmbacanoA3",
-    "custom": "",
+    "custom": "У мяне ёсць карона, якую ты шукаеш.",
     "en": "I have the crown you're looking for.",
     "ru": "У меня есть корона, которую ты ищешь.",
     "bel": "У мяне ёсць карона, якую ты шукаеш.",
@@ -69445,7 +69445,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27UmbacanoA4",
-    "custom": "",
+    "custom": "Добра, ты ўгаварыў мяне.",
     "en": "All right, you talked me into it.",
     "ru": "Хорошо, ты уговорил меня.",
     "bel": "Добра, ты ўгаварыў мяне.",
@@ -69454,7 +69454,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27UmbacanoA5",
-    "custom": "",
+    "custom": "Прабачце, мне не цікавая гэтая праца.",
     "en": "Sorry, I'm really not interested in the job.",
     "ru": "Извини, мне не интересна эта работа.",
     "bel": "Прабачце, мне не цікавая гэтая праца.",
@@ -69463,7 +69463,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27UmbacanoB1",
-    "custom": "",
+    "custom": "Убачымся ў Неналаце.",
     "en": "I'll see you at Nenalata.",
     "ru": "Увидимся в Неналате.",
     "bel": "Убачымся ў Неналаце.",
@@ -69472,7 +69472,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27UmbacanoB2",
-    "custom": "",
+    "custom": "Мне зараз гэта не цікава.",
     "en": "I'm not interested right now.",
     "ru": "Мне сейчас это не интересно.",
     "bel": "Мне зараз гэта не цікава.",
@@ -69481,7 +69481,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27UmbacanoC1",
-    "custom": "",
+    "custom": "[Даць яму карону Неналаты]",
     "en": "[Give him the Crown of Nenalata]",
     "ru": "[Дать ему корону Неналаты]",
     "bel": "[Даць яму карону Неналаты]",
@@ -69490,7 +69490,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27UmbacanoC2",
-    "custom": "",
+    "custom": "[Даць яму карону Ліндаі]",
     "en": "[Give him the Crown of Lindai]",
     "ru": "[Дать ему корону Линдаи]",
     "bel": "[Даць яму карону Ліндаі]",
@@ -69499,7 +69499,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27UmbacanoC3",
-    "custom": "",
+    "custom": "У мяне пакуль няма гэтай кароны.",
     "en": "I don't have the Crown yet.",
     "ru": "У меня пока нет этой короны.",
     "bel": "У мяне пакуль няма гэтай кароны.",
@@ -69508,7 +69508,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27UmbacanoD1",
-    "custom": "",
+    "custom": "Што ад мяне патрабуецца?",
     "en": "What do you need me to do?",
     "ru": "Что от меня требуется?",
     "bel": "Што ад мяне патрабуецца?",
@@ -69517,7 +69517,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27UmbacanoWait",
-    "custom": "",
+    "custom": "Пачакай тут.",
     "en": "Wait here.",
     "ru": "Жди здесь.",
     "bel": "Чакай тут.",
@@ -69526,7 +69526,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS27Voice",
-    "custom": "",
+    "custom": "Голас MS27",
     "en": "MS27Voice",
     "ru": "Голос MS27",
     "bel": "Голас MS27",
@@ -69535,7 +69535,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29",
-    "custom": "",
+    "custom": "Несумленная канкурэнцыя",
     "en": "Unfriendly Competition",
     "ru": "Нечестная конкуренция",
     "bel": "Несумленная канкурэнцыя",
@@ -69544,7 +69544,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29AgarmirFaction",
-    "custom": "",
+    "custom": "Фракцыя Агарміра",
     "en": "Agarmir's Faction",
     "ru": "Фракция Agarmir'а",
     "bel": "Фракцыя Agarmir'а",
@@ -69553,7 +69553,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29AgarmirFaction_LEVEL0_M",
-    "custom": "",
+    "custom": "Без забойстваў I",
     "en": "No Kill I",
     "ru": "Без убийств I",
     "bel": "Без забойстваў I",
@@ -69562,7 +69562,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29AgarmirsShovel",
-    "custom": "",
+    "custom": "Лапата Агаміра",
     "en": "Agarmir's Shovel",
     "ru": "Лопата Агамира",
     "bel": "Лапата Агаміра",
@@ -69571,7 +69571,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29AgarmirsSword01",
-    "custom": "",
+    "custom": "Абясцэньвальнік",
     "en": "Debaser",
     "ru": "Обесцениватель",
     "bel": "Абясцэньвальнік",
@@ -69580,7 +69580,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29AgarmirsSword05",
-    "custom": "",
+    "custom": "Абясцэньвальнік",
     "en": "Debaser",
     "ru": "Обесцениватель",
     "bel": "Абясцэньвальнік",
@@ -69589,7 +69589,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29AgarmirsSword10",
-    "custom": "",
+    "custom": "Абясцэньвальнік",
     "en": "Debaser",
     "ru": "Обесцениватель",
     "bel": "Абясцэньвальнік",
@@ -69598,7 +69598,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29AgarmirsSword15",
-    "custom": "",
+    "custom": "Абясцэньвальнік",
     "en": "Debaser",
     "ru": "Обесцениватель",
     "bel": "Абясцэньвальнік",
@@ -69607,7 +69607,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29AgarmirsSword20",
-    "custom": "",
+    "custom": "Абясцэньвальнік",
     "en": "Debaser",
     "ru": "Обесцениватель",
     "bel": "Абясцэньвальнік",
@@ -69616,7 +69616,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29AgarmirsSword25",
-    "custom": "",
+    "custom": "Абясцэньвальнік",
     "en": "Debaser",
     "ru": "Обесцениватель",
     "bel": "Абясцэньвальнік",
@@ -69625,7 +69625,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29CallibenTrentiusCrypt",
-    "custom": "",
+    "custom": "Калібен Трэнціус",
     "en": "Calliben Trentius",
     "ru": "Каллибен Трентиус",
     "bel": "Калібен Трэнціус",
@@ -69634,7 +69634,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29DallidusTrentiusCrypt",
-    "custom": "",
+    "custom": "Далідус Трэнціус",
     "en": "Dallidus Trentius",
     "ru": "Даллидус Трентиус",
     "bel": "Далідус Трэнціус",
@@ -69643,7 +69643,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29InvGet",
-    "custom": "",
+    "custom": "Дзе ты бярэш іх?",
     "en": "Where do you get it?",
     "ru": "Где ты берешь их?",
     "bel": "Дзе ты бярэш іх?",
@@ -69652,7 +69652,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29InvNice",
-    "custom": "",
+    "custom": "У цябе вельмі добры выбар, Таранір.",
     "en": "Very nice selection, Thoronir.",
     "ru": "У тебя очень хороший выбор, Торонир.",
     "bel": "У цябе вельмі добры выбар, Таранір.",
@@ -69661,7 +69661,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29InvStolen",
-    "custom": "",
+    "custom": "Я думаю, яны крадзеныя.",
     "en": "I think it's stolen.",
     "ru": "Я думаю, они краденые.",
     "bel": "Я думаю, яны крадзеныя.",
@@ -69670,7 +69670,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29LoggosTrentiusCrypt",
-    "custom": "",
+    "custom": "Логас Трэнціус",
     "en": "Loggos Trentius",
     "ru": "Логгос Трентиус",
     "bel": "Логас Трэнціус",
@@ -69679,7 +69679,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29MacabreManifest",
-    "custom": "",
+    "custom": "Жудасны спіс",
     "en": "Macabre Manifest",
     "ru": "Жуткий список",
     "bel": "Жудасны спіс",
@@ -69688,7 +69688,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29MyraTrentiusCrypt",
-    "custom": "",
+    "custom": "Міра Трэнціус",
     "en": "Myra Trentius",
     "ru": "Мира Трентиус",
     "bel": "Міра Трэнціус",
@@ -69697,7 +69697,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29OpellidusTrentiusCrypt",
-    "custom": "",
+    "custom": "Апелідус Трэнціус",
     "en": "Opellidus Trentius",
     "ru": "Опеллидус Трентиус",
     "bel": "Апелідус Трэнціус",
@@ -69706,7 +69706,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29RaldosTrentiusCrypt",
-    "custom": "",
+    "custom": "Ралдас Трэнціус",
     "en": "Raldos Trentius",
     "ru": "Ралдос Трентиус",
     "bel": "Ралдас Трэнціус",
@@ -69715,7 +69715,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29ShadyDeal",
-    "custom": "",
+    "custom": "Мутная Здзелка MS29",
     "en": "MS29ShadyDeal",
     "ru": "Мутная Сделка MS29",
     "bel": "Мутная Здзелка MS29",
@@ -69724,7 +69724,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29StopAgarmir",
-    "custom": "",
+    "custom": "Дапамажы мне злавіць Агаміра.",
     "en": "Help me catch Agarmir.",
     "ru": "Помоги мне поймать Агамира.",
     "bel": "Дапамажы мне злавіць Агаміра.",
@@ -69733,7 +69733,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29StopYes",
-    "custom": "",
+    "custom": "Так, вось яго лапата.",
     "en": "Yes, here is his shovel.",
     "ru": "Да, вот его лопата.",
     "bel": "Так, вось яго лапата.",
@@ -69742,7 +69742,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29ThoronirBad",
-    "custom": "",
+    "custom": "Калі ласка, пачні з пачатку.",
     "en": "Start from the beginning.",
     "ru": "Пожалуйста, начни с начала.",
     "bel": "Калі ласка, пачні з пачатку.",
@@ -69751,7 +69751,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29ThoronirLater",
-    "custom": "",
+    "custom": "Магчыма, пазней.",
     "en": "Maybe later.",
     "ru": "Давай потом.",
     "bel": "Давай потым.",
@@ -69760,7 +69760,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29ThoronirsRing01",
-    "custom": "",
+    "custom": "Пярсцёнак абароны ад надвор'я",
     "en": "Weatherward Circlet",
     "ru": "Кольцо защиты от погоды",
     "bel": "Пярсцёнак абароны ад надвор'я",
@@ -69769,7 +69769,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29ThoronirsRing05",
-    "custom": "",
+    "custom": "Пярсцёнак абароны ад надвор'я",
     "en": "Weatherward Circlet",
     "ru": "Кольцо защиты от погоды",
     "bel": "Пярсцёнак абароны ад надвор'я",
@@ -69778,7 +69778,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29ThoronirsRing10",
-    "custom": "",
+    "custom": "Пярсцёнак абароны ад надвор'я",
     "en": "Weatherward Circlet",
     "ru": "Кольцо защиты от погоды",
     "bel": "Пярсцёнак абароны ад надвор'я",
@@ -69787,7 +69787,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29ThoronirsRing15",
-    "custom": "",
+    "custom": "Пярсцёнак абароны ад надвор'я",
     "en": "Weatherward Circlet",
     "ru": "Кольцо защиты от погоды",
     "bel": "Пярсцёнак абароны ад надвор'я",
@@ -69796,7 +69796,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29ThoronirsRing20",
-    "custom": "",
+    "custom": "Пярсцёнак абароны ад надвор'я",
     "en": "Weatherward Circlet",
     "ru": "Кольцо защиты от погоды",
     "bel": "Пярсцёнак абароны ад надвор'я",
@@ -69805,7 +69805,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29ThoronirsRing25",
-    "custom": "",
+    "custom": "Пярсцёнак абароны ад надвор'я",
     "en": "Weatherward Circlet",
     "ru": "Кольцо защиты от погоды",
     "bel": "Пярсцёнак абароны ад надвор'я",
@@ -69814,7 +69814,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29TombKey",
-    "custom": "",
+    "custom": "Ключ ад маўзалея Трэнціусаў",
     "en": "Trentius Mausoleum Key",
     "ru": "Ключ от мавзолея Трентиусов",
     "bel": "Ключ ад маўзалея Трэнціусаў",
@@ -69823,7 +69823,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29TrentiusMace",
-    "custom": "",
+    "custom": "Злавесны адказ Калібена",
     "en": "Calliben's Grim Retort",
     "ru": "Зловещий ответ Каллибена",
     "bel": "Злавесны адказ Калібена",
@@ -69832,7 +69832,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS29WodariusTrentiusCrypt",
-    "custom": "",
+    "custom": "Вадарыус Трэнціус",
     "en": "Wodarius Trentius",
     "ru": "Водариус Трентиус",
     "bel": "Вадарыус Трэнціус",
@@ -69841,7 +69841,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS31",
-    "custom": "",
+    "custom": "Непрадбачанае падарожжа",
     "en": "An Unexpected Voyage",
     "ru": "Непредвиденное путешествие",
     "bel": "Непрадбачанае падарожжа",
@@ -69850,7 +69850,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS31CabinKey",
-    "custom": "",
+    "custom": "Ключ ад каюты Орміла",
     "en": "Ormil's Cabin Key",
     "ru": "Ключ от каюты Ормила",
     "bel": "Ключ ад каюты Орміла",
@@ -69859,7 +69859,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS31HatePlayer",
-    "custom": "",
+    "custom": "MS31 Чарнаводныя Брыганты",
     "en": "MS31 Blackwater Brigands",
     "ru": "MS31 Черноводные Бриганты",
     "bel": "MS31 Чарнаводныя Брыганты",
@@ -69868,7 +69868,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS31HiddenBag",
-    "custom": "",
+    "custom": "Схаваны мех",
     "en": "Hidden Bag",
     "ru": "Спрятанный мешок",
     "bel": "Схаваны мех",
@@ -69877,7 +69877,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS31Lynch01Negative",
-    "custom": "",
+    "custom": "Не твая справа.",
     "en": "None of your business.",
     "ru": "Не твое дело.",
     "bel": "Не твая справа.",
@@ -69886,7 +69886,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS31Lynch01aPositive",
-    "custom": "",
+    "custom": "Я проста пасажыр.",
     "en": "Just a passenger.",
     "ru": "Я просто пассажир.",
     "bel": "Я проста пасажыр.",
@@ -69895,7 +69895,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS31Lynch03Final",
-    "custom": "",
+    "custom": "Я не скажу.",
     "en": "I'm not going to say.",
     "ru": "Я не скажу.",
     "bel": "Я не скажу.",
@@ -69904,7 +69904,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS31LynchNote",
-    "custom": "",
+    "custom": "Указанні для Лінча",
     "en": "Lynch's Instructions",
     "ru": "Указания для Линча",
     "bel": "Указанні для Лінча",
@@ -69913,7 +69913,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS31Minx01Positive",
-    "custom": "",
+    "custom": "Мяне паслаў сюды Лінч.",
     "en": "Lynch sent me up here.",
     "ru": "Меня послал сюда Линч.",
     "bel": "Мяне паслаў сюды Лінч.",
@@ -69922,7 +69922,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS31OrmilCabinKey",
-    "custom": "",
+    "custom": "Ключ ад каюты Орміла",
     "en": "Ormil's Cabin Key",
     "ru": "Ключ от каюты Ормила",
     "bel": "Ключ ад каюты Орміла",
@@ -69931,7 +69931,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS31Selene01Negative",
-    "custom": "",
+    "custom": "Заткніся і вызвалі Орміла!",
     "en": "Shut up and release Ormil!",
     "ru": "Заткнись и освободи Ормила!",
     "bel": "Заткніся і вызвалі Орміла!",
@@ -69940,7 +69940,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS31Selene01aPositive",
-    "custom": "",
+    "custom": "Ключ узяты ў Яраснага.",
     "en": "I took the key from Wrath.",
     "ru": "Ключ взят у Яростного.",
     "bel": "Ключ узяты ў Яраснага.",
@@ -69949,7 +69949,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS31Selene02Negative",
-    "custom": "",
+    "custom": "Я проста тутэйшы кок.",
     "en": "I'm just the ship's cook.",
     "ru": "Я просто здешний кок.",
     "bel": "Я проста тутэйшы кок.",
@@ -69958,7 +69958,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS31Selene02Positive",
-    "custom": "",
+    "custom": "Я хачу далучыцца да вашай банды.",
     "en": "I'm here to join the gang.",
     "ru": "Я хочу присоединиться к вашей банде.",
     "bel": "Я хачу далучыцца да вашай банды.",
@@ -69967,7 +69967,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS31Selene04Negative",
-    "custom": "",
+    "custom": "Каб папрасіць выкуп за закладнікаў.",
     "en": "To ransom your prisoners.",
     "ru": "Чтобы попросить выкуп за заложников.",
     "bel": "Каб папрасіць выкуп за закладнікаў.",
@@ -69976,7 +69976,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS31Selene04aPositive",
-    "custom": "",
+    "custom": "Каб знайсці Залаты галеон.",
     "en": "To find the Golden Galleon.",
     "ru": "Чтобы найти Золотой галеон.",
     "bel": "Каб знайсці Залаты галеон.",
@@ -69985,7 +69985,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS31Selene05Negative",
-    "custom": "",
+    "custom": "Ты маеш на ўвазе, у Чэйдынхоле?",
     "en": "You mean in Cheydinhal?",
     "ru": "Ты имеешь в виду, в Чейдинхоле?",
     "bel": "Ты маеш на ўвазе, у Чэйдынхоле?",
@@ -69994,7 +69994,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS31Selene05Positive",
-    "custom": "",
+    "custom": "Ты маеш на ўвазе, у Бравіле?",
     "en": "You mean in Bravil?",
     "ru": "Ты имеешь в виду, в Бравиле?",
     "bel": "Ты маеш на ўвазе, у Бравіле?",
@@ -70003,7 +70003,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS31Selene06Final",
-    "custom": "",
+    "custom": "Яны ўсе забітыя. Мной.",
     "en": "I've killed all of them.",
     "ru": "Они все убиты. Мной.",
     "bel": "Яны ўсе забітыя. Мной.",
@@ -70012,7 +70012,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS31StorageRoomDoor01",
-    "custom": "",
+    "custom": "Дзверы склада",
     "en": "Storage Room Door",
     "ru": "Дверь склада",
     "bel": "Дзверы склада",
@@ -70021,7 +70021,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS31StorageRoomKey",
-    "custom": "",
+    "custom": "Ключ ад склада",
     "en": "Storage Room Key",
     "ru": "Ключ от склада",
     "bel": "Ключ ад склада",
@@ -70030,7 +70030,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS31Wrath01Negative",
-    "custom": "",
+    "custom": "Адыдзі ад штурвала!",
     "en": "Get away from that wheel!",
     "ru": "Отойди от штурвала!",
     "bel": "Адыдзі ад штурвала!",
@@ -70039,7 +70039,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS37",
-    "custom": "",
+    "custom": "Слёзы выратавальніка",
     "en": "Tears of the Savior",
     "ru": "Слезы спасителя",
     "bel": "Слёзы выратавальніка",
@@ -70048,7 +70048,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS37CreatureFrostAtronach01Ling",
-    "custom": "",
+    "custom": "Ледзяны атронах - громіла",
     "en": "Frostfire Atronach Gladeling",
     "ru": "Ледяной атронах - громила",
     "bel": "Ледзяны атронах - громіла",
@@ -70057,7 +70057,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS37CreatureFrostAtronach02Guard",
-    "custom": "",
+    "custom": "Ледзяны атронах - вартаўнік",
     "en": "Frostfire Atronach Gladeguard",
     "ru": "Ледяной атронах - страж",
     "bel": "Ледзяны атронах - вартаўнік",
@@ -70066,7 +70066,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS37CreatureFrostAtronach03Warden",
-    "custom": "",
+    "custom": "Ледзяны атронах - наглядчык",
     "en": "Frostfire Atronach Gladewarden",
     "ru": "Ледяной атронах - смотритель",
     "bel": "Ледзяны атронах - наглядчык",
@@ -70075,7 +70075,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS37CreatureFrostAtronach04Lord",
-    "custom": "",
+    "custom": "Ледзяны атронах - уладар",
     "en": "Frostfire Atronach Gladelord",
     "ru": "Ледяной атронах - повелитель",
     "bel": "Ледзяны атронах - уладар",
@@ -70084,7 +70084,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS37FrostSalts",
-    "custom": "",
+    "custom": "Ачышчаная марозная соль",
     "en": "Refined Frost Salts",
     "ru": "Очищенная морозная соль",
     "bel": "Ачышчаная марозная соль",
@@ -70093,7 +70093,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS37JulienneAmazing",
-    "custom": "",
+    "custom": "Уражвае.",
     "en": "Amazing.",
     "ru": "Потрясающе.",
     "bel": "Уражвае.",
@@ -70102,7 +70102,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS37JulienneBook",
-    "custom": "",
+    "custom": "Дзе мне знайсці гэтую кнігу?",
     "en": "Where can I find this book?",
     "ru": "Где мне найти эту книгу?",
     "bel": "Дзе мне знайсці гэтую кнігу?",
@@ -70111,7 +70111,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS37JulienneNo",
-    "custom": "",
+    "custom": "Не трэба казак. Дзе шукаць гэтыя Слёзы?",
     "en": "No tales. Where can I find the Tears?",
     "ru": "Не нужно сказок. Где искать эти Слезы?",
     "bel": "Не трэба казак. Дзе шукаць гэтыя Слёзы?",
@@ -70120,7 +70120,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS37JulienneTears",
-    "custom": "",
+    "custom": "Калі ласка, я хачу пачуць яе.",
     "en": "Please, I wish to hear it.",
     "ru": "Пожалуйста, я хочу услышать ее.",
     "bel": "Калі ласка, я хачу пачуць яе.",
@@ -70129,7 +70129,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS37Knightfall",
-    "custom": "",
+    "custom": "Легенды пра рыцараў",
     "en": "Knightfall",
     "ru": "Легенды о рыцарях",
     "bel": "Легенды пра рыцараў",
@@ -70138,7 +70138,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS37LpAtronachFrostBoltMajor",
-    "custom": "",
+    "custom": "Страла марозу атронаха",
     "en": "Atronach Frostbolt",
     "ru": "Стрела мороза атронаха",
     "bel": "Страла марозу атронаха",
@@ -70147,7 +70147,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS37LpAtronachFrostBoltMinor",
-    "custom": "",
+    "custom": "Страла марозу атронаха",
     "en": "Atronach Frostbolt",
     "ru": "Стрела мороза атронаха",
     "bel": "Страла марозу атронаха",
@@ -70156,7 +70156,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS37LpAtronachFrostTouchMajor",
-    "custom": "",
+    "custom": "Марозны дотык",
     "en": "Freezing Touch",
     "ru": "Замораживающее касание",
     "bel": "Замарожвальны дотык",
@@ -70165,7 +70165,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS37LpAtronachFrostTouchMinor",
-    "custom": "",
+    "custom": "Марозны дотык",
     "en": "Freezing Touch",
     "ru": "Замораживающее касание",
     "bel": "Замарожвальны дотык",
@@ -70174,7 +70174,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS37PhilterofFrostward",
-    "custom": "",
+    "custom": "Зелле абароны ад холаду",
     "en": "Philter of Frostward",
     "ru": "Зелье защиты от холода",
     "bel": "Зелле абароны ад холаду",
@@ -70183,7 +70183,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS37SdrassaAcquire",
-    "custom": "",
+    "custom": "Што ты маеш на ўвазе?",
     "en": "What did you have in mind?",
     "ru": "Что ты имеешь в виду?",
     "bel": "Што ты маеш на ўвазе?",
@@ -70192,7 +70192,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS37SdrassaHelp",
-    "custom": "",
+    "custom": "Вядома. Калі ласка, працягвай.",
     "en": "Certainly. Please proceed.",
     "ru": "Конечно. Пожалуйста, продолжай.",
     "bel": "Вядома. Калі ласка, працягвай.",
@@ -70201,7 +70201,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS37TempChest",
-    "custom": "",
+    "custom": "Куфар з кнігамі",
     "en": "Book Chest",
     "ru": "Сундук с книгами",
     "bel": "Куфар з кнігамі",
@@ -70210,7 +70210,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS37World",
-    "custom": "",
+    "custom": "Ледзяны Гай",
     "en": "Frostfire Glade",
     "ru": "Поляна Морозного Огня",
     "bel": "Паляна Марознага Агню",
@@ -70219,7 +70219,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38Agree",
-    "custom": "",
+    "custom": "Так, я дапамагу табе.",
     "en": "Yes, I will help you.",
     "ru": "Да, я помогу тебе.",
     "bel": "Так, я дапамагу табе.",
@@ -70228,7 +70228,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38BPDead",
-    "custom": "",
+    "custom": "Не турбуйся пра яе. Яна мёртвая.",
     "en": "Don't worry about her. She's dead.",
     "ru": "Не беспокойся о ней. Она мертва.",
     "bel": "Не турбуйся пра яе. Яна мёртвая.",
@@ -70237,7 +70237,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38BPNo",
-    "custom": "",
+    "custom": "Яна не сачыла і не хадзіла за табой.",
     "en": "She wasn't watching or following you.",
     "ru": "Она не следила и не ходила за тобой.",
     "bel": "Яна не сачыла і не хадзіла за табой.",
@@ -70246,7 +70246,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38BPYes",
-    "custom": "",
+    "custom": "Ты меў рацыю, яна сочыць за табой.",
     "en": "You were right, she is following you.",
     "ru": "Ты был прав, она следит за тобой.",
     "bel": "Ты меў рацыю, яна сочыць за табой.",
@@ -70255,7 +70255,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38DSDead",
-    "custom": "",
+    "custom": "Не турбуйся пра яго. Ён мёртвы.",
     "en": "Don't worry about him. He's dead.",
     "ru": "Не беспокойся о нем. Он мертв.",
     "bel": "Не турбуйся пра яго. Ён мёртвы.",
@@ -70264,7 +70264,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38DSNo",
-    "custom": "",
+    "custom": "Давід Сурылі не шпіёніць за табой.",
     "en": "Davide Surilie is not spying on you.",
     "ru": "Давид Сурили не шпионит за тобой.",
     "bel": "Давід Сурылі не шпіёніць за табой.",
@@ -70273,7 +70273,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38DeadInProgress",
-    "custom": "",
+    "custom": "Я працую над гэтым.",
     "en": "I'm working on it.",
     "ru": "Я работаю над этим.",
     "bel": "Я працую над гэтым.",
@@ -70282,7 +70282,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38DeadNo",
-    "custom": "",
+    "custom": "Не. Я не буду гэтага рабіць.",
     "en": "No. I've decided I won't do it.",
     "ru": "Нет. Я не буду делать этого.",
     "bel": "Не. Я не буду гэтага рабіць.",
@@ -70291,7 +70291,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38DeadYes2",
-    "custom": "",
+    "custom": "Так. Твая праблема вырашана.",
     "en": "Yes. Your problem is taken care of.",
     "ru": "Да. Твоя проблема решена.",
     "bel": "Так. Твая праблема вырашана.",
@@ -70300,7 +70300,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38Decline",
-    "custom": "",
+    "custom": "Я не хачу мець дачынення да гэтага.",
     "en": "No, I don't want to get involved.",
     "ru": "Я не хочу иметь отношения к этому.",
     "bel": "Я не хачу мець дачынення да гэтага.",
@@ -70309,7 +70309,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38DionneWarnChoice1",
-    "custom": "",
+    "custom": "Гэта цябе не датычыць.",
     "en": "None of your business.",
     "ru": "Это тебя не касается.",
     "bel": "Гэта цябе не датычыць.",
@@ -70318,7 +70318,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38DionneWarnChoice2",
-    "custom": "",
+    "custom": "Ды проста цікаўлюся.",
     "en": "Just curious about him.",
     "ru": "Да просто любопытствую.",
     "bel": "Ды проста цікаўлюся.",
@@ -70336,7 +70336,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38GlarthirDoor",
-    "custom": "",
+    "custom": "Узмоцненая дзверы",
     "en": "Reinforced Door",
     "ru": "Усиленная дверь",
     "bel": "Узмоцненыя дзверы",
@@ -70345,7 +70345,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38GlarthirsNoteA",
-    "custom": "",
+    "custom": "Запісы Гларціра",
     "en": "Glarthir's Notes",
     "ru": "Записи Глартира",
     "bel": "Запісы Гларціра",
@@ -70354,7 +70354,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38GlarthirsNoteB1",
-    "custom": "",
+    "custom": "Запісы Гларціра",
     "en": "Glarthir's Notes",
     "ru": "Записи Глартира",
     "bel": "Запісы Гларціра",
@@ -70363,7 +70363,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38GlarthirsNoteB2",
-    "custom": "",
+    "custom": "Запісы Гларціра",
     "en": "Glarthir's Notes",
     "ru": "Записи Глартира",
     "bel": "Запісы Гларціра",
@@ -70372,7 +70372,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38GlarthirsNoteC1",
-    "custom": "",
+    "custom": "Запісы Гларціра",
     "en": "Glarthir's Notes",
     "ru": "Записи Глартира",
     "bel": "Запісы Гларціра",
@@ -70381,7 +70381,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38GlarthirsNoteC2",
-    "custom": "",
+    "custom": "Запісы Гларціра",
     "en": "Glarthir's Notes",
     "ru": "Записи Глартира",
     "bel": "Запісы Гларціра",
@@ -70390,7 +70390,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38GlarthirsNoteC3",
-    "custom": "",
+    "custom": "Запісы Гларціра",
     "en": "Glarthir's Notes",
     "ru": "Записи Глартира",
     "bel": "Запісы Гларціра",
@@ -70399,7 +70399,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38GlarthirsNotes01",
-    "custom": "",
+    "custom": "Запісы Гларціра",
     "en": "Glarthir's Notes",
     "ru": "Записи Глартира",
     "bel": "Запісы Гларціра",
@@ -70408,7 +70408,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38GlarthirsNotes02",
-    "custom": "",
+    "custom": "Запісы Гларціра",
     "en": "Glarthir's Notes",
     "ru": "Записи Глартира",
     "bel": "Запісы Гларціра",
@@ -70417,7 +70417,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38GlarthirsNotes03",
-    "custom": "",
+    "custom": "Запісы Гларціра",
     "en": "Glarthir's Notes",
     "ru": "Записи Глартира",
     "bel": "Запісы Гларціра",
@@ -70426,7 +70426,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38GlarthirsNotes04",
-    "custom": "",
+    "custom": "Запісы Гларціра",
     "en": "Glarthir's Notes",
     "ru": "Записи Глартира",
     "bel": "Запісы Гларціра",
@@ -70444,7 +70444,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38GuardChoice2",
-    "custom": "",
+    "custom": "Ён думае, супраць яго існуе змова.",
     "en": "He thinks there's a plot against him.",
     "ru": "Он думает, против него имеется заговор",
     "bel": "Ён думае, супраць яго існуе змова",
@@ -70453,7 +70453,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38GuardChoice4",
-    "custom": "",
+    "custom": "Нічога... пакуль што.",
     "en": "Nothing ... yet.",
     "ru": "Ничего... пока.",
     "bel": "Нічога... пакуль што.",
@@ -70462,7 +70462,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38GuardWarnChoice1",
-    "custom": "",
+    "custom": "[Паказаць запіску Гларціра]",
     "en": "[Show Glarthir's note]",
     "ru": "[Показать записку Глартира]",
     "bel": "[Паказаць запіску Гларціра]",
@@ -70471,7 +70471,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38ListAll",
-    "custom": "",
+    "custom": "Спіс прысуджаных да смерці",
     "en": "List of Death",
     "ru": "Список приговоренных к смерти",
     "bel": "Спіс прысуджаных да смерці",
@@ -70480,7 +70480,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38ListBernadette",
-    "custom": "",
+    "custom": "Спіс прысуджаных да смерці",
     "en": "List of Death",
     "ru": "Список приговоренных к смерти",
     "bel": "Спіс прысуджаных да смерці",
@@ -70489,7 +70489,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38ListBernadetteDavide",
-    "custom": "",
+    "custom": "Спіс прысуджаных да смерці",
     "en": "List of Death",
     "ru": "Список приговоренных к смерти",
     "bel": "Спіс прысуджаных да смерці",
@@ -70498,7 +70498,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38ListBernadetteTotius",
-    "custom": "",
+    "custom": "Спіс прысуджаных да смерці",
     "en": "List of Death",
     "ru": "Список приговоренных к смерти",
     "bel": "Спіс прысуджаных да смерці",
@@ -70507,7 +70507,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38ListDavide",
-    "custom": "",
+    "custom": "Спіс прысуджаных да смерці",
     "en": "List of Death",
     "ru": "Список приговоренных к смерти",
     "bel": "Спіс прысуджаных да смерці",
@@ -70516,7 +70516,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38ListDavideTotius",
-    "custom": "",
+    "custom": "Спіс прысуджаных да смерці",
     "en": "List of Death",
     "ru": "Список приговоренных к смерти",
     "bel": "Спіс прысуджаных да смерці",
@@ -70525,7 +70525,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38ListTotius",
-    "custom": "",
+    "custom": "Спіс прысуджаных да смерці",
     "en": "List of Death",
     "ru": "Список приговоренных к смерти",
     "bel": "Спіс прысуджаных да смерці",
@@ -70534,7 +70534,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38Next",
-    "custom": "",
+    "custom": "Што яшчэ мне трэба зрабіць?",
     "en": "What else do you want me to do?",
     "ru": "Что еще мне нужно сделать?",
     "bel": "Што яшчэ мне трэба зрабіць?",
@@ -70543,7 +70543,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38NotYet",
-    "custom": "",
+    "custom": "Мне пакуль няма пра што расказаць.",
     "en": "I have nothing to report yet.",
     "ru": "Мне пока не о чем рассказать.",
     "bel": "Мне пакуль няма пра што расказаць.",
@@ -70552,7 +70552,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38Reward",
-    "custom": "",
+    "custom": "Як наконт абяцанай узнагароды?",
     "en": "What about the reward you promised?",
     "ru": "Как насчет обещанного вознаграждения?",
     "bel": "Як наконт абяцанай узнагароды?",
@@ -70561,7 +70561,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38StartQuest",
-    "custom": "",
+    "custom": "Пачаць MS38StartQuest",
     "en": "MS38StartQuest",
     "ru": "Начать MS38StartQuest",
     "bel": "Пачаць MS38StartQuest",
@@ -70570,7 +70570,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38TSDead",
-    "custom": "",
+    "custom": "Гэта ўжо не важна. Ён мёртвы.",
     "en": "It doesn't matter anymore. He's dead.",
     "ru": "Это уже не важно. Он мертв.",
     "bel": "Гэта ўжо не важна. Ён мёртвы.",
@@ -70579,7 +70579,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38TSNo",
-    "custom": "",
+    "custom": "Тутыюс Секстыюс не сочыць за табой.",
     "en": "Toutius Sextius is not watching you.",
     "ru": "Тутиус Секстиус не следит за тобой.",
     "bel": "Тутыюс Секстыюс не сочыць за табой.",
@@ -70588,7 +70588,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38TSYes",
-    "custom": "",
+    "custom": "Тутыюс Секстыюс шпіёніць за табой.",
     "en": "Toutius Sextius is spying on you.",
     "ru": "Тутиус Секстиус шпионит за тобой.",
     "bel": "Тутыюс Секстыюс шпіёніць за табой.",
@@ -70597,7 +70597,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS38Topic",
-    "custom": "",
+    "custom": "Тэма MS38",
     "en": "MS38Topic",
     "ru": "Тема MS38",
     "bel": "Тэма MS38",
@@ -70606,7 +70606,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS39",
-    "custom": "",
+    "custom": "Пошук сваіх каранёў",
     "en": "Seeking Your Roots",
     "ru": "Поиск своих корней",
     "bel": "Пошук сваіх каранёў",
@@ -70615,7 +70615,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS39Nirnroot",
-    "custom": "",
+    "custom": "Корань Нірна",
     "en": "Nirnroot",
     "ru": "Корень Нирна",
     "bel": "Корань Нірна",
@@ -70624,7 +70624,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS39NirnrootMissive",
-    "custom": "",
+    "custom": "Запісы пра корань Нірна",
     "en": "Nirnroot Missive",
     "ru": "Записи о корне Нирна",
     "bel": "Запісы пра корань Нірна",
@@ -70633,7 +70633,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS39NirnrootPotionB",
-    "custom": "",
+    "custom": "Сярэдні эліксір даследавання",
     "en": "Moderate Elixir of Exploration",
     "ru": "Средний эликсир исследования",
     "bel": "Сярэдні эліксір даследавання",
@@ -70642,7 +70642,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS39NirnrootPotionC",
-    "custom": "",
+    "custom": "Моцны эліксір даследавання",
     "en": "Strong Elixir of Exploration",
     "ru": "Сильный эликсир исследования",
     "bel": "Моцны эліксір даследавання",
@@ -70651,7 +70651,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS39NirnrootPotionD",
-    "custom": "",
+    "custom": "Вялікі эліксір даследавання",
     "en": "Grand Elixir of Exploration",
     "ru": "Великий эликсир исследования",
     "bel": "Вялікі эліксір даследавання",
@@ -70660,7 +70660,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS39NirnrootWild",
-    "custom": "",
+    "custom": "Корань Нірна",
     "en": "Nirnroot",
     "ru": "Корень Нирна",
     "bel": "Корань Нірна",
@@ -70669,7 +70669,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS39No",
-    "custom": "",
+    "custom": "Магчыма, ў іншы раз.",
     "en": "Perhaps another time.",
     "ru": "Возможно в другой раз.",
     "bel": "Магчыма, ў іншы раз.",
@@ -70678,7 +70678,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS39NotSeen",
-    "custom": "",
+    "custom": "Мяне не цікавяць расліны.",
     "en": "Not interested in plants.",
     "ru": "Меня не интересуют растения.",
     "bel": "Мяне не цікавяць расліны.",
@@ -70687,7 +70687,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS39Seen",
-    "custom": "",
+    "custom": "Так, раскажы пра гэты дзіўны корань.",
     "en": "Yes, tell me about that odd root.",
     "ru": "Да, расскажи об этом странном корне.",
     "bel": "Так, раскажы пра гэты дзіўны корань.",
@@ -70696,7 +70696,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS39Yes",
-    "custom": "",
+    "custom": "Вядома. Дык што трэба рабіць?",
     "en": "Sure, what did you have in mind?",
     "ru": "Конечно. Так что нужно делать?",
     "bel": "Вядома. Дык што трэба рабіць?",
@@ -70705,7 +70705,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS39Yes2",
-    "custom": "",
+    "custom": "Вядома, што ты маеш на ўвазе?",
     "en": "Sure, what did you have in mind?",
     "ru": "Конечно, что ты имеешь в виду?",
     "bel": "Вядома, што ты маеш на ўвазе?",
@@ -70714,7 +70714,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40Choice1A",
-    "custom": "",
+    "custom": "Мне трэба пабачыцца з графам.",
     "en": "I must see the Count.",
     "ru": "Мне нужно увидеться с графом.",
     "bel": "Мне трэба пабачыцца з графам.",
@@ -70723,7 +70723,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40Choice2A",
-    "custom": "",
+    "custom": "Не. Я наконт лекаў ад вампірызму.",
     "en": "No. It's about a cure for vampirism.",
     "ru": "Нет. Я насчет лекарства от вампиризма.",
     "bel": "Не. Я наконт лекаў ад вампірызму.",
@@ -70732,7 +70732,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40Choice2B",
-    "custom": "",
+    "custom": "MS40Choice2B",
     "en": "MS40Choice2B",
     "ru": "MS40Choice2B",
     "bel": "MS40Choice2B",
@@ -70741,7 +70741,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40Choice3A",
-    "custom": "",
+    "custom": "Лекі ў мяне з сабой.",
     "en": "I have the cure.",
     "ru": "Лекарство у меня с собой.",
     "bel": "Лекі ў мяне з сабой.",
@@ -70750,7 +70750,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40Choice3B",
-    "custom": "",
+    "custom": "У мяне пакуль няма лекаў.",
     "en": "I don't have the cure yet.",
     "ru": "У меня пока нет лекарства.",
     "bel": "У мяне пакуль няма лекаў.",
@@ -70759,7 +70759,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40Conversation",
-    "custom": "",
+    "custom": "Размова MS40",
     "en": "MS40Conversation",
     "ru": "Разговор MS40",
     "bel": "Размова MS40",
@@ -70768,7 +70768,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40DoorToHindarilKey",
-    "custom": "",
+    "custom": "Ключ ад Топі Чырвонай Вады",
     "en": "Redwater Slough Key",
     "ru": "Ключ от Топи Красной Воды",
     "bel": "Ключ ад Топі Чырвонай Вады",
@@ -70777,7 +70777,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40JanusDecline",
-    "custom": "",
+    "custom": "Прабач. Я не магу дапамагчы табе.",
     "en": "I'm sorry. I can't help you.",
     "ru": "Извини. Я не могу помочь тебе.",
     "bel": "Прабач. Я не магу дапамагчы табе.",
@@ -70786,7 +70786,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40MelisandeIdonthavethem",
-    "custom": "",
+    "custom": "У мяне іх пакуль няма.",
     "en": "I don't have them yet.",
     "ru": "У меня их пока нет.",
     "bel": "У мяне іх пакуль няма.",
@@ -70795,7 +70795,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40MelisandeIhavethem",
-    "custom": "",
+    "custom": "Вось яны.",
     "en": "I have them.",
     "ru": "Вот они.",
     "bel": "Вось яны.",
@@ -70804,7 +70804,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40MelisandeRumor",
-    "custom": "",
+    "custom": "Кажуць, ты можаш ведаць пра яго.",
     "en": "I heard a rumor that you might know.",
     "ru": "Говорят, ты можешь знать о нем.",
     "bel": "Кажуць, ты можаш ведаць пра яго.",
@@ -70813,7 +70813,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40MelisandeWitch",
-    "custom": "",
+    "custom": "Ты ж вядзьмарка, ці не так?",
     "en": "You're a witch, aren't you?",
     "ru": "Ты ведь ведьма, разве нет?",
     "bel": "Ты ж вядзьмарка, ці не так?",
@@ -70822,7 +70822,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40Nevermind",
-    "custom": "",
+    "custom": "Забудзь.",
     "en": "Nevermind.",
     "ru": "Э.. ничего. Прошу прощения.",
     "bel": "Э.. нічога. Прашу прабачэння.",
@@ -70831,7 +70831,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40RestoreFatigue",
-    "custom": "",
+    "custom": "Ажыўленне",
     "en": "Revitalize",
     "ru": "Оживление",
     "bel": "Ажыўленне",
@@ -70840,7 +70840,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40RewardGold",
-    "custom": "",
+    "custom": "Я вазьму золата.",
     "en": "I'll take the gold.",
     "ru": "Я возьму золото.",
     "bel": "Я вазьму золата.",
@@ -70849,7 +70849,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40RewardSpell",
-    "custom": "",
+    "custom": "Заклінанне вампіра",
     "en": "Vampire Reward Spell",
     "ru": "Заклинание вампира",
     "bel": "Заклінанне вампіра",
@@ -70858,7 +70858,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40RonaCureSave",
-    "custom": "",
+    "custom": "Гэтыя лекі сапраўды выратуюць яе?",
     "en": "Will the cure really save her?",
     "ru": "Это лекарство действительно спасет ее?",
     "bel": "Гэтыя лекі сапраўды выратуюць яе?",
@@ -70867,7 +70867,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40RonaSee",
-    "custom": "",
+    "custom": "Ці магу я ўбачыць яе?",
     "en": "May I see her?",
     "ru": "Могу я увидеть ее?",
     "bel": "Ці магу я ўбачыць яе?",
@@ -70876,7 +70876,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40TestSpell",
-    "custom": "",
+    "custom": "Праверка заклінання",
     "en": "Test Spell",
     "ru": "Проверка заклинания",
     "bel": "Праверка заклінання",
@@ -70885,7 +70885,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40Vamp1",
-    "custom": "",
+    "custom": "Я так і ведаў! Ды ты вампір!",
     "en": "I knew it! You're a vampire!",
     "ru": "Я так и знал! Да ты вампир!",
     "bel": "Я так і ведаў! Ды ты вампір!",
@@ -70894,7 +70894,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40Vamp2",
-    "custom": "",
+    "custom": "Навошта вашай светласці гэтыя лекі?",
     "en": "Why would you want the cure?",
     "ru": "Зачем твоей светлости это лекарство?",
     "bel": "Навошта вашай светласці гэтыя лекі?",
@@ -70903,7 +70903,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40VampireCureMiscPotion",
-    "custom": "",
+    "custom": "Зелле вылячэння ад вампірызму",
     "en": "Vampirism Cure Potion",
     "ru": "Зелье исцеления от вампиризма",
     "bel": "Зелле вылячэння ад вампірызму",
@@ -70912,7 +70912,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40VampireCurePotion",
-    "custom": "",
+    "custom": "Лекі ад вампірызму",
     "en": "Cure for Vampirism",
     "ru": "Лекарство от вампиризма",
     "bel": "Лекі ад вампірызму",
@@ -70921,7 +70921,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40VampireDust",
-    "custom": "",
+    "custom": "Прах Хіндарыла",
     "en": "Ashes of Hindaril",
     "ru": "Прах Хиндарила",
     "bel": "Прах Хіндарыла",
@@ -70930,7 +70930,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40WitchCure",
-    "custom": "",
+    "custom": "Гэтыя ведзьмы сапраўды ведаюць пра лекі?",
     "en": "Do the witches really know of a cure?",
     "ru": "Эти ведьмы вправду знают о лекарстве?",
     "bel": "Гэтыя ведзьмы сапраўды ведаюць пра лекі?",
@@ -70939,7 +70939,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40WitchWhere",
-    "custom": "",
+    "custom": "Дзе знаходзяцца гэтыя ведзьмы?",
     "en": "Where are these witches?",
     "ru": "Где находятся эти ведьмы?",
     "bel": "Дзе знаходзяцца гэтыя ведзьмы?",
@@ -70948,7 +70948,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS40melisandeWhatdoido",
-    "custom": "",
+    "custom": "Што мне трэба зрабіць?",
     "en": "What do I have to do?",
     "ru": "Что мне нужно сделать?",
     "bel": "Што мне трэба зрабіць?",
@@ -70957,7 +70957,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS43",
-    "custom": "",
+    "custom": "Калі багі хочуць дапячы",
     "en": "Whom Gods Annoy",
     "ru": "Когда боги хотят досадить",
     "bel": "Калі багі хочуць дапячы",
@@ -70966,7 +70966,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS43Accept",
-    "custom": "",
+    "custom": "Добра, я дапамагу.",
     "en": "Very well, I'm ready. I accept.",
     "ru": "Хорошо, я помогу.",
     "bel": "Добра, я дапамагу.",
@@ -70975,7 +70975,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS43Decline",
-    "custom": "",
+    "custom": "Пакуль не. Мне трэба падрыхтавацца.",
     "en": "Not just yet, let me prepare.",
     "ru": "Пока нет. Мне нужно подготовиться.",
     "bel": "Пакуль не. Мне трэба падрыхтавацца.",
@@ -70984,7 +70984,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS43EverscampStaff",
-    "custom": "",
+    "custom": "Посах Вечнага скампа",
     "en": "Staff of the Everscamp",
     "ru": "Посох Вечного скампа",
     "bel": "Посах Вечнага скампа",
@@ -70993,7 +70993,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS43HowDid",
-    "custom": "",
+    "custom": "Адкуль ты ведаеш?",
     "en": "How did you know?",
     "ru": "Откуда ты знаешь?",
     "bel": "Адкуль ты ведаеш?",
@@ -71002,7 +71002,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS43RingofEidolonsEdge01",
-    "custom": "",
+    "custom": "Пярсцёнак мяжы Эйдолона",
     "en": "Ring of Eidolon's Edge",
     "ru": "Кольцо границы Эйдолона",
     "bel": "Пярсцёнак мяжы Эйдолона",
@@ -71011,7 +71011,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS43RingofEidolonsEdge05",
-    "custom": "",
+    "custom": "Пярсцёнак мяжы Эйдолона",
     "en": "Ring of Eidolon's Edge",
     "ru": "Кольцо границы Эйдолона",
     "bel": "Пярсцёнак мяжы Эйдолона",
@@ -71020,7 +71020,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS43RingofEidolonsEdge10",
-    "custom": "",
+    "custom": "Пярсцёнак мяжы Эйдолона",
     "en": "Ring of Eidolon's Edge",
     "ru": "Кольцо границы Эйдолона",
     "bel": "Пярсцёнак мяжы Эйдолона",
@@ -71029,7 +71029,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS43RingofEidolonsEdge15",
-    "custom": "",
+    "custom": "Пярсцёнак мяжы Эйдолона",
     "en": "Ring of Eidolon's Edge",
     "ru": "Кольцо границы Эйдолона",
     "bel": "Пярсцёнак мяжы Эйдолона",
@@ -71038,7 +71038,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS43RingofEidolonsEdge20",
-    "custom": "",
+    "custom": "Пярсцёнак мяжы Эйдолона",
     "en": "Ring of Eidolon's Edge",
     "ru": "Кольцо границы Эйдолона",
     "bel": "Пярсцёнак мяжы Эйдолона",
@@ -71047,7 +71047,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS43RingofEidolonsEdge25",
-    "custom": "",
+    "custom": "Пярсцёнак мяжы Эйдолона",
     "en": "Ring of Eidolon's Edge",
     "ru": "Кольцо границы Эйдолона",
     "bel": "Пярсцёнак мяжы Эйдолона",
@@ -71056,7 +71056,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS43Scamps",
-    "custom": "",
+    "custom": "Скампы",
     "en": "Scamps",
     "ru": "Скампы",
     "bel": "Скампы",
@@ -71065,7 +71065,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS43ScampsNo",
-    "custom": "",
+    "custom": "Гм, нічым не магу дапамагчы табе, прабач.",
     "en": "Umm, can't help you, sorry.",
     "ru": "Хм, ничем не могу помочь тебе, извини.",
     "bel": "Гм, нічым не магу дапамагчы табе, прабач.",
@@ -71074,7 +71074,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS43ScampsYes",
-    "custom": "",
+    "custom": "Я магу дапамагчы, калі хочаш.",
     "en": "I can help if you wish.",
     "ru": "Я могу помочь, если хочешь.",
     "bel": "Я магу дапамагчы, калі хочаш.",
@@ -71083,7 +71083,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS43Staff",
-    "custom": "",
+    "custom": "Дэйдрычны посах",
     "en": "Daedric Staff",
     "ru": "Дэйдрический посох",
     "bel": "Дэйдрычны посах",
@@ -71092,7 +71092,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS43StaffScamp",
-    "custom": "",
+    "custom": "Вечны скамп",
     "en": "Everscamp",
     "ru": "Вечный скамп",
     "bel": "Вечны скамп",
@@ -71101,7 +71101,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS43StaffTalk",
-    "custom": "",
+    "custom": "І што я магу зрабіць?",
     "en": "So, where do I fit in?",
     "ru": "И что я могу сделать?",
     "bel": "І што я магу зрабіць?",
@@ -71110,7 +71110,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS45",
-    "custom": "",
+    "custom": "Цень над Хакдыртам",
     "en": "A Shadow Over Hackdirt",
     "ru": "Тень над Хакдиртом",
     "bel": "Цень над Хакдыртам",
@@ -71119,7 +71119,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS45Bible",
-    "custom": "",
+    "custom": "Біблія Глыбінных жыхароў",
     "en": "Bible of the Deep Ones",
     "ru": "Библия Глубинных жителей",
     "bel": "Біблія Глыбінных жыхароў",
@@ -71128,7 +71128,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS45Choice1B",
-    "custom": "",
+    "custom": "Прабач, я не магу дапамагчы зараз.",
     "en": "Sorry, I can't help now.",
     "ru": "Извини, я не могу помочь сейчас.",
     "bel": "Прабач, я не магу дапамагчы зараз.",
@@ -71137,7 +71137,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS45Convo",
-    "custom": "",
+    "custom": "Размова MS45",
     "en": "MS45Convo",
     "ru": "Разговор MS45",
     "bel": "Размова MS45",
@@ -71155,7 +71155,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS45DarMaDead",
-    "custom": "",
+    "custom": "Мне вельмі шкада, але Дар-Ма мёртвая.",
     "en": "I'm sorry, Dar-Ma is dead.",
     "ru": "Мне очень жаль, но Дар-Ма мертва.",
     "bel": "Мне вельмі шкада, але Дар-Ма мёртвая.",
@@ -71164,7 +71164,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS45DarMaDontUntie",
-    "custom": "",
+    "custom": "Яшчэ не.",
     "en": "Not yet.",
     "ru": "Еще не время.",
     "bel": "Яшчэ не час.",
@@ -71173,7 +71173,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS45DarMaGoHome",
-    "custom": "",
+    "custom": "MS45DarMaGoHome",
     "en": "MS45DarMaGoHome",
     "ru": "MS45DarMaGoHome",
     "bel": "MS45DarMaGoHome",
@@ -71182,7 +71182,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS45DarMaNice",
-    "custom": "",
+    "custom": "Так, нядаўна. Прыемна пазнаёміцца.",
     "en": "Yes, I am.  Pleased to meet you.",
     "ru": "Да, недавно. Приятно познакомиться.",
     "bel": "Так, нядаўна. Прыемна пазнаёміцца.",
@@ -71191,7 +71191,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS45DarMaNotYet",
-    "custom": "",
+    "custom": "На жаль, яна яшчэ не знойдзена.",
     "en": "I haven't found her yet.",
     "ru": "Увы, она еще не найдена.",
     "bel": "На жаль, яна яшчэ не знойдзена.",
@@ -71200,7 +71200,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS45DarMaRude",
-    "custom": "",
+    "custom": "Не твая справа.",
     "en": "None of your business.",
     "ru": "Не твое дело.",
     "bel": "Не твая справа.",
@@ -71209,7 +71209,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS45DarMaSafe",
-    "custom": "",
+    "custom": "Так, з Дар-Ма ўсё ў парадку.",
     "en": "Yes, Dar-Ma is safe.",
     "ru": "Да, с Дар-Ма все в порядке.",
     "bel": "Так, з Дар-Ма ўсё ў парадку.",
@@ -71218,7 +71218,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS45DarMaTrader",
-    "custom": "",
+    "custom": "А што тады робіць тут яе конь?",
     "en": "What's her horse doing here then?",
     "ru": "А что тогда делает здесь ее лошадь?",
     "bel": "А што тады робіць тут яе конь?",
@@ -71227,7 +71227,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS45DarMaUntie",
-    "custom": "",
+    "custom": "Я вызвалю цябе.",
     "en": "I'll let you out.",
     "ru": "Я освобожу тебя.",
     "bel": "Я вызвалю цябе.",
@@ -71236,7 +71236,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS45DarMasDiary",
-    "custom": "",
+    "custom": "Дзённік Дар-Ма",
     "en": "Dar-Ma's Diary",
     "ru": "Дневник Дар Ма",
     "bel": "Дзённік Дар Ма",
@@ -71245,7 +71245,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS45DeepOnes",
-    "custom": "",
+    "custom": "Глыбінныя жыхары",
     "en": "Deep Ones",
     "ru": "Глубинные жители",
     "bel": "Глыбінныя жыхары",
@@ -71254,7 +71254,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS45PrisonerFaction",
-    "custom": "",
+    "custom": "Вязень брацтва Хэкдырта",
     "en": "Prisoner of Hackdirt Brethren",
     "ru": "Узник братства Хэкдирта",
     "bel": "Вязень брацтва Хэкдырта",
@@ -71263,7 +71263,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS45Talk",
-    "custom": "",
+    "custom": "Размова MS45",
     "en": "MS45Talk",
     "ru": "Разговор MS45",
     "bel": "Размова MS45",
@@ -71272,7 +71272,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS45Wait",
-    "custom": "",
+    "custom": "Чакай тут, пакуль я не вярнуся.",
     "en": "Wait here until I come back.",
     "ru": "Жди здесь, пока я не вернусь.",
     "bel": "Чакай тут, пакуль я не вярнуся.",
@@ -71290,7 +71290,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS46",
-    "custom": "",
+    "custom": "Праблемы з гоблінамі",
     "en": "Goblin Trouble",
     "ru": "Проблемы с гоблинами",
     "bel": "Праблемы з гоблінамі",
@@ -71299,7 +71299,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS46AloysStart",
-    "custom": "",
+    "custom": "Пачатак MS46Aloys",
     "en": "MS46AloysStart",
     "ru": "Начало MS46Aloys.",
     "bel": "Пачатак MS46Aloys.",
@@ -71317,7 +71317,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS46FIN",
-    "custom": "",
+    "custom": "MS46 ФІНАЛ",
     "en": "MS46 FIN",
     "ru": "MS46 ФИН",
     "bel": "MS46 ФІНАЛ",
@@ -71326,7 +71326,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS46GoblinLairs",
-    "custom": "",
+    "custom": "Логвы гоблінаў",
     "en": "Goblin lairs",
     "ru": "Логова гоблинов",
     "bel": "Логвы гоблінаў",
@@ -71335,7 +71335,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS46GoblinMischief",
-    "custom": "",
+    "custom": "Дзеянні з татэмам",
     "en": "Create mischief with head",
     "ru": "Озорство с тотемом",
     "bel": "Дзеянні з татэмам",
@@ -71344,7 +71344,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS46GoblinSoldierA",
-    "custom": "",
+    "custom": "Гоблін-пяхотнік (Крывавыя рукі)",
     "en": "Bloody Hand Goblin Skirmisher",
     "ru": "Гоблин-пехотинец (Кровавые руки)",
     "bel": "Гоблін-пяхотнік (Крывавыя рукі)",
@@ -71353,7 +71353,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS46OtherOptions",
-    "custom": "",
+    "custom": "Што за сілавы шлях?",
     "en": "What's the hard way?",
     "ru": "Что за силовой путь?",
     "bel": "Што за сілавы шлях?",
@@ -71362,7 +71362,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS46Response",
-    "custom": "",
+    "custom": "Адказ MS46",
     "en": "MS46Response",
     "ru": "Ответ MS46",
     "bel": "Адказ MS46",
@@ -71380,7 +71380,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS47AleswellInvisible",
-    "custom": "",
+    "custom": "Расказаць яму пра Эльсвел.",
     "en": "Tell him about Aleswell.",
     "ru": "Рассказать ему об Эльсвелле.",
     "bel": "Расказаць яму пра Эльсвел.",
@@ -71398,7 +71398,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS47AncotarFaction",
-    "custom": "",
+    "custom": "Фракцыя Анкотара",
     "en": "Ancotar's faction",
     "ru": "Фракция Ancotar'а",
     "bel": "Фракцыя Ancotar'а",
@@ -71416,7 +71416,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS47CreatureFaction",
-    "custom": "",
+    "custom": "Фракцыя для істот, дружалюбных да Анкотара",
     "en": "Faction for creatures friendly to Ancotar",
     "ru": "Фракция для существ, дружественных к Ancotar.",
     "bel": "Фракцыя для істот, прыязных да Ancotar.",
@@ -71425,7 +71425,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS47DamageAttribLuck",
-    "custom": "",
+    "custom": "Пашкоджанне атрыбуту: ўдача",
     "en": "Damage Attribute: Luck",
     "ru": "Повреждение атрибута: удача",
     "bel": "Пашкоджанне атрыбуту: ўдача",
@@ -71434,7 +71434,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS47Eventually",
-    "custom": "",
+    "custom": "З цягам часу?",
     "en": "Eventually?",
     "ru": "Со временем?",
     "bel": "З цягам часу?",
@@ -71443,7 +71443,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS47FIN",
-    "custom": "",
+    "custom": "MS47 ГАТОВА",
     "en": "MS47 FIN",
     "ru": "MS47 ГОТОВО",
     "bel": "MS47 ГАТОВА",
@@ -71452,7 +71452,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS47Invisible",
-    "custom": "",
+    "custom": "Заклінанне нябачнасці",
     "en": "Invisibility spell",
     "ru": "Заклинание невидимости",
     "bel": "Заклінанне нябачнасці",
@@ -71461,7 +71461,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS47MageShopTalk",
-    "custom": "",
+    "custom": "Мне цікава. Раскажы падрабязней.",
     "en": "Not at all. Tell me more.",
     "ru": "Мне интересно. Расскажи подробнее.",
     "bel": "Мне цікава. Раскажы падрабязней.",
@@ -71470,7 +71470,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS47MountainLion",
-    "custom": "",
+    "custom": "Пума",
     "en": "Mountain Lion",
     "ru": "Пума",
     "bel": "Пума",
@@ -71479,7 +71479,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS47NeedAntidote",
-    "custom": "",
+    "custom": "Яны не могуць чакаць гады.",
     "en": "They can't wait for a year.",
     "ru": "Они не могут ждать годы.",
     "bel": "Яны не могуць чакаць гады.",
@@ -71488,7 +71488,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS47ReverseInvisibility",
-    "custom": "",
+    "custom": "Зваротная нябачнасць Анкотара",
     "en": "Ancotar's Reverse Invisibility",
     "ru": "Отмена невидимости Анкотара",
     "bel": "Адмена нябачнасці Анкотара",
@@ -71497,7 +71497,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS47ReverseInvisibilityScroll",
-    "custom": "",
+    "custom": "Адмена нябачнасці",
     "en": "Reverse Invisibility",
     "ru": "Отмена невидимости",
     "bel": "Адмена нябачнасці",
@@ -71506,7 +71506,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS47WolfTimber",
-    "custom": "",
+    "custom": "Лясны воўк",
     "en": "Timber Wolf",
     "ru": "Лесной волк",
     "bel": "Лясны воўк",
@@ -71515,7 +71515,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48BerichMartin",
-    "custom": "",
+    "custom": "Мне патрэбен Марцін.",
     "en": "I'm here for Martin.",
     "ru": "Мне нужен Мартин.",
     "bel": "Мне патрэбен Марцін.",
@@ -71524,7 +71524,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48BerichSaveYou",
-    "custom": "",
+    "custom": "Я тут, каб выратаваць вас!",
     "en": "I'm here to save you!",
     "ru": "Я здесь, чтобы спасти вас!",
     "bel": "Я тут, каб выратаваць вас!",
@@ -71533,7 +71533,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48Choice1B",
-    "custom": "",
+    "custom": "Не, не думаю.",
     "en": "No, I don't think so.",
     "ru": "Нет, пожалуй.",
     "bel": "Не, бадай што.",
@@ -71542,7 +71542,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48Choice2A",
-    "custom": "",
+    "custom": "Усё гатова. Пойдзем.",
     "en": "I'm ready. Let's go.",
     "ru": "Выступаем. Вперед!",
     "bel": "Выступаем. Наперад!",
@@ -71551,7 +71551,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48Choice2B",
-    "custom": "",
+    "custom": "Не зараз.",
     "en": "I'm not ready yet.",
     "ru": "Мне нужно время на подготовку.",
     "bel": "Мне патрэбен час на падрыхтоўку.",
@@ -71560,7 +71560,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48Choice2C",
-    "custom": "",
+    "custom": "Прабач, але зараз я не магу дапамагчы.",
     "en": "Sorry, I can't help right now.",
     "ru": "Извини, но сейчас я не могу помочь.",
     "bel": "Прабач, але зараз я не магу дапамагчы.",
@@ -71569,7 +71569,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48Convo",
-    "custom": "",
+    "custom": "Размова MS48Convo",
     "en": "MS48Convo",
     "ru": "Разговор MS48Convo",
     "bel": "Размова MS48Convo",
@@ -71578,7 +71578,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48DoorBlocked",
-    "custom": "",
+    "custom": "Дзверы MS48 заблакаваныя",
     "en": "MS48DoorBlocked",
     "ru": "Дверь MS48 заблокирована",
     "bel": "Дзверы MS48 заблакаваныя",
@@ -71587,7 +71587,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48DremoraBloodHighElven",
-    "custom": "",
+    "custom": "Ува мне цячэ кроў вышэйшых эльфаў!",
     "en": "My blood is High Elven!",
     "ru": "Во мне течёт кровь высших эльфов!",
     "bel": "Ува мне цячэ кроў вышэйшых эльфаў!",
@@ -71596,7 +71596,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48DremoraBloodImperial",
-    "custom": "",
+    "custom": "Ува мне цячэ імперская кроў!",
     "en": "My blood is Imperial!",
     "ru": "Во мне течёт имперская кровь!",
     "bel": "Ува мне цячэ імперская кроў!",
@@ -71605,7 +71605,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48DremoraBloodKhajiit",
-    "custom": "",
+    "custom": "Ува мне цячэ кроў Каджытаў!",
     "en": "My blood is Khajiit!",
     "ru": "Да я же Khajiit до мозга костей!",
     "bel": "Ды я ж Khajiit да мозгу касцей!",
@@ -71614,7 +71614,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48DremoraBloodNord",
-    "custom": "",
+    "custom": "Ува мне цячэ кроў Нордаў!",
     "en": "My blood is Nord!",
     "ru": "Во мне течёт кровь NORD'а!",
     "bel": "Ува мне цячэ кроў NORD'а!",
@@ -71623,7 +71623,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48DremoraBloodRedguard",
-    "custom": "",
+    "custom": "Ува мне цячэ кроў Рэдгардаў!",
     "en": "My blood is Redguard!",
     "ru": "Я – Redguard до мозга костей!",
     "bel": "Я – Redguard да мозгу касцей!",
@@ -71632,7 +71632,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48DremoraBloodRefuse",
-    "custom": "",
+    "custom": "Я адмаўляюся. Гэта ўсё мая маёмасць.",
     "en": "I refuse. These things are my own.",
     "ru": "Я отказываюсь. Это всё моё добро.",
     "bel": "Я адмаўляюся. Гэта ўсё мая маёмасць.",
@@ -71641,7 +71641,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48DremoraBloodWoodElven",
-    "custom": "",
+    "custom": "Ды ў мяне кроў ляснога эльфа ў жылах кіпіць!",
     "en": "My blood is Wood Elven!",
     "ru": "Да у меня кровь лесного эльфа в жилах кипит!",
     "bel": "Ды ў мяне кроў ляснога эльфа ў жылах кіпіць!",
@@ -71650,7 +71650,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48DremoraRankHero",
-    "custom": "",
+    "custom": "Я герой! Рыхтуйся паміраць!",
     "en": "I am a Hero! Prepare to die!",
     "ru": "Я герой! Готовься умирать!",
     "bel": "Я герой! Рыхтуйся паміраць!",
@@ -71659,7 +71659,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48DremoraRankSlayer",
-    "custom": "",
+    "custom": "Мой ранг – Знішчальнік Даэдра, адроддзе цемры!",
     "en": "My rank is Daedra-Slayer, dark spawn!",
     "ru": "Мой ранг – Истребитель Даэдра, отродье тьмы!",
     "bel": "Мой ранг – Знішчальнік Даэдра, адроддзе цемры!",
@@ -71668,7 +71668,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48HirtelA",
-    "custom": "",
+    "custom": "Уцякаць? Ад чаго?",
     "en": "Run? From what?",
     "ru": "Бежать? От чего?",
     "bel": "Уцякаць? Ад чаго?",
@@ -71677,7 +71677,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48HirtelB",
-    "custom": "",
+    "custom": "Цэлы горад немагчыма знішчыць.",
     "en": "The whole city can't be destroyed.",
     "ru": "Целый город невозможно уничтожить.",
     "bel": "Цэлы горад немагчыма знішчыць.",
@@ -71686,7 +71686,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48HirtelC",
-    "custom": "",
+    "custom": "Як табе ўдалося выбрацца?",
     "en": "How did you escape?",
     "ru": "Как тебе удалось выбраться?",
     "bel": "Як табе ўдалося выбрацца?",
@@ -71695,7 +71695,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48IlendA1",
-    "custom": "",
+    "custom": "Выдатна. Матыюсу патрэбна твая дапамога.",
     "en": "Fine. Captain Matius needs your help.",
     "ru": "Отлично. Матиусу нужна твоя помощь.",
     "bel": "Выдатна. Матыюсу патрэбна твая дапамога.",
@@ -71704,7 +71704,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48IlendA2",
-    "custom": "",
+    "custom": "Пастой. Мне патрэбна твая дапамога тут.",
     "en": "Hold on. I can use your help here.",
     "ru": "Постой. Мне нужна твоя помощь здесь.",
     "bel": "Пастой. Мне патрэбна твая дапамога тут.",
@@ -71713,7 +71713,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48IlendSlowDown",
-    "custom": "",
+    "custom": "Усё ў парадку. Што тут адбываецца?",
     "en": "It's all right. What's going on?",
     "ru": "Все в порядке. Что здесь происходит?",
     "bel": "Усё ў парадку. Што тут адбываецца?",
@@ -71731,7 +71731,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48KvatchArcherAbility",
-    "custom": "",
+    "custom": "Павышэнне навыку лучніка Кватча",
     "en": "Kvatch Fortify Marksman",
     "ru": "Повышение навыка стрелка Кватча",
     "bel": "Павышэнне навыку лучніка Кватча",
@@ -71740,7 +71740,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48KvatchScampSouthernPlazaFinalBattle",
-    "custom": "",
+    "custom": "Кволы скамп",
     "en": "Stunted Scamp",
     "ru": "Чахлый скамп",
     "bel": "Хілы скамп",
@@ -71749,7 +71749,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48OblivionDremoraPatroller",
-    "custom": "",
+    "custom": "Дрэмора-разведчык",
     "en": "Dremora Scout",
     "ru": "Дремора-разведчик",
     "bel": "Дрэмора-разведчык",
@@ -71767,7 +71767,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48OblivionSigilKeeper",
-    "custom": "",
+    "custom": "Дрэмора - вартаўнік Сігіла",
     "en": "Dremora Sigil Keeper",
     "ru": "Дремора - хранитель Сигила",
     "bel": "Дрэмора - вартаўнік Сігіла",
@@ -71776,7 +71776,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48OblivionSigilKey",
-    "custom": "",
+    "custom": "Ключ ад Сігільскай крэпасці",
     "en": "Sigil Keep Key",
     "ru": "Ключ от Сигильской крепости",
     "bel": "Ключ ад Сігільскай крэпасці",
@@ -71785,7 +71785,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48Orders",
-    "custom": "",
+    "custom": "Загады MS48",
     "en": "MS48Orders",
     "ru": "Приказы MS48",
     "bel": "Загады MS48",
@@ -71794,7 +71794,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48SalvianWhatHappened",
-    "custom": "",
+    "custom": "Што тут здарылася?",
     "en": "What happened here?",
     "ru": "Что здесь произошло?",
     "bel": "Што тут адбылося?",
@@ -71803,7 +71803,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48SavlianCanIHelp",
-    "custom": "",
+    "custom": "Ці магу я неяк дапамагчы?",
     "en": "Is there anything I can do to help?",
     "ru": "Могу я как-то помочь?",
     "bel": "Ці магу я неяк дапамагчы?",
@@ -71812,7 +71812,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48SavlianWhatDoing",
-    "custom": "",
+    "custom": "Што вы будзеце рабіць?",
     "en": "What will you do now?",
     "ru": "Что вы будете делать?",
     "bel": "Што вы будзеце рабіць?",
@@ -71821,7 +71821,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48ScampSouthernPlazaRespawning",
-    "custom": "",
+    "custom": "Кволы скамп",
     "en": "Stunted Scamp",
     "ru": "Чахлый скамп",
     "bel": "Хілы скамп",
@@ -71830,7 +71830,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48StartCombatShouts",
-    "custom": "",
+    "custom": "БаявыяКлічыMS48",
     "en": "MS48StartCombatShouts",
     "ru": "БоевыеКличиMS48",
     "bel": "БаявыяКлічыMS48",
@@ -71848,7 +71848,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS48TortureCage01",
-    "custom": "",
+    "custom": "Клетка вывадку",
     "en": "Brood Cage",
     "ru": "Клетка",
     "bel": "Клетка",
@@ -71857,7 +71857,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS49Choice1A",
-    "custom": "",
+    "custom": "Так, пойдзем!",
     "en": "Yes, let's go.",
     "ru": "Да, идем!",
     "bel": "Так, пойдзем!",
@@ -71866,7 +71866,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS49Choice1B",
-    "custom": "",
+    "custom": "Не, яшчэ не.",
     "en": "No, not yet.",
     "ru": "Не сейчас. Мне нужно подготовиться.",
     "bel": "Не зараз. Мне трэба падрыхтавацца.",
@@ -71875,7 +71875,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS49ChoiceExplain",
-    "custom": "",
+    "custom": "Ён патрэбен мне, каб трапіць у замак.",
     "en": "I need it to get into the castle.",
     "ru": "Он нужен мне, чтобы попасть в замок.",
     "bel": "Ён патрэбен мне, каб трапіць у замак.",
@@ -71884,7 +71884,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS49ChoiceNoTime",
-    "custom": "",
+    "custom": "Загад Саўліяна. Няма часу тлумачыць.",
     "en": "Savlian's orders. No time to explain.",
     "ru": "Приказ Савлиана. Нет времени объяснять",
     "bel": "Загад Саўліяна. Няма часу тлумачыць",
@@ -71893,7 +71893,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS49DukeDeadMean",
-    "custom": "",
+    "custom": "Ляжыць тварам уніз у лужыне крыві!",
     "en": "Lying face-down in a pool of blood!",
     "ru": "Лежит лицом вниз в луже крови!",
     "bel": "Ляжыць тварам уніз у лужыне крыві!",
@@ -71902,7 +71902,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS49DukeDeadNice",
-    "custom": "",
+    "custom": "Мне вельмі шкада. Але яго няма ў жывых.",
     "en": "I'm sorry. He didn't make it.",
     "ru": "Мне очень жаль. Но его нет в живых.",
     "bel": "Мне вельмі шкада. Але яго няма ў жывых.",
@@ -71911,7 +71911,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS49FollowMe",
-    "custom": "",
+    "custom": "Ідзіце за мной!",
     "en": "Follow me!",
     "ru": "Следуйте за мной!",
     "bel": "Ідзіце за мной!",
@@ -71920,7 +71920,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS49LegionArcher",
-    "custom": "",
+    "custom": "Лучнік Імперскага легіёна",
     "en": "Imperial Legion Archer",
     "ru": "Лучник Имперского легиона",
     "bel": "Лучнік Імперскага легіёна",
@@ -71947,7 +71947,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS49RingNo",
-    "custom": "",
+    "custom": "Не, у мяне яго няма.",
     "en": "No, I don't have it.",
     "ru": "Нет, у меня его нет.",
     "bel": "Не, у мяне яго няма.",
@@ -71956,7 +71956,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS49RingYes",
-    "custom": "",
+    "custom": "Так, вось яно.",
     "en": "Yes, here it is.",
     "ru": "Да, вот оно.",
     "bel": "Так, вось яно.",
@@ -71965,7 +71965,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MS49Whatnow",
-    "custom": "",
+    "custom": "Што мы будзем рабіць цяпер?",
     "en": "What do we do now?",
     "ru": "Что мы будем делать теперь?",
     "bel": "Што мы будзем рабіць зараз?",
