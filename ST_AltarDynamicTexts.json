@@ -2401,7 +2401,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_Footer_ToggleDetails",
-    "custom": "",
+    "custom": "Легенда",
     "en": "Toggle Details",
     "ru": "Легенда",
     "bel": "Легенда",
@@ -2409,7 +2409,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_Footer_ToggleFilter",
-    "custom": "",
+    "custom": "Пераключыць фільтр",
     "en": "Toggle Filter",
     "ru": "Переключить фильтр",
     "bel": "Пераключыць фільтр",
@@ -2417,7 +2417,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_Footer_Unbind",
-    "custom": "",
+    "custom": "Адвязаць",
     "en": "Unbind",
     "ru": "Отвязать",
     "bel": "Адвязаць",
@@ -2425,7 +2425,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_Info_ReturnMainMenu",
-    "custom": "",
+    "custom": "Вярнуцца ў Галоўнае Меню?",
     "en": "Return to the Main Menu?",
     "ru": "Вернуться в Главное Меню?",
     "bel": "Вярнуцца ў Галоўнае Меню?",
@@ -2433,7 +2433,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_Info_TimeIndicatorAM",
-    "custom": "",
+    "custom": "Д.П.",
     "en": "am",
     "ru": "д.п.",
     "bel": "Д.П.",
@@ -2441,7 +2441,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_Info_TimeIndicatorPM",
-    "custom": "",
+    "custom": "П.П.",
     "en": "pm",
     "ru": "п.п",
     "bel": "П.П.",
@@ -2449,7 +2449,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_ArrowDown",
-    "custom": "",
+    "custom": "Стрэлка ўніз",
     "en": "Arrow Down",
     "ru": "Стрелка вниз",
     "bel": "Стрэлка ўніз",
@@ -2457,7 +2457,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_ArrowLeft",
-    "custom": "",
+    "custom": "Стрэлка налева",
     "en": "Arrow Left",
     "ru": "Стрелка влево",
     "bel": "Стрэлка налева",
@@ -2465,7 +2465,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_ArrowRight",
-    "custom": "",
+    "custom": "Стрэлка направа",
     "en": "Arrow Right",
     "ru": "Стрелка вправо",
     "bel": "Стрэлка направа",
@@ -2473,7 +2473,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_ArrowUp",
-    "custom": "",
+    "custom": "Стрэлка ўверх",
     "en": "Arrow Up",
     "ru": "Стрелка вверх",
     "bel": "Стрэлка ўверх",
@@ -2481,7 +2481,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_Backspace",
-    "custom": "",
+    "custom": "Backspace",
     "en": "Backspace",
     "ru": "Backspace",
     "bel": "Backspace",
@@ -2489,7 +2489,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_Break",
-    "custom": "",
+    "custom": "Break",
     "en": "Break",
     "ru": "Break",
     "bel": "Break",
@@ -2497,7 +2497,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_CapsLock",
-    "custom": "",
+    "custom": "Caps Lock",
     "en": "Caps Lock",
     "ru": "Caps Lock",
     "bel": "Caps Lock",
@@ -2505,7 +2505,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_Delete",
-    "custom": "",
+    "custom": "Delete",
     "en": "Delete",
     "ru": "Delete",
     "bel": "Delete",
@@ -2513,7 +2513,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_End",
-    "custom": "",
+    "custom": "End",
     "en": "End",
     "ru": "End",
     "bel": "End",
@@ -2521,7 +2521,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_Enter",
-    "custom": "",
+    "custom": "Enter",
     "en": "Enter",
     "ru": "Enter",
     "bel": "Enter",
@@ -2529,7 +2529,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_Escape",
-    "custom": "",
+    "custom": "Escape",
     "en": "Escape",
     "ru": "Escape",
     "bel": "Escape",
@@ -2537,7 +2537,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_Fn",
-    "custom": "",
+    "custom": "Fn",
     "en": "Fn",
     "ru": "Fn",
     "bel": "Fn",
@@ -2545,7 +2545,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_Help",
-    "custom": "",
+    "custom": "Дапамога",
     "en": "Help",
     "ru": "Help",
     "bel": "Help",
@@ -2553,7 +2553,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_Home",
-    "custom": "",
+    "custom": "Home",
     "en": "Home",
     "ru": "Home",
     "bel": "Home",
@@ -2561,7 +2561,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_Insert",
-    "custom": "",
+    "custom": "Insert",
     "en": "Insert",
     "ru": "Insert",
     "bel": "Insert",
@@ -2569,7 +2569,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_LeftAlt",
-    "custom": "",
+    "custom": "Левы Alt",
     "en": "Left Alt",
     "ru": "Левый Alt",
     "bel": "Левы Alt",
@@ -2577,7 +2577,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_LeftControl",
-    "custom": "",
+    "custom": "Левы Ctrl",
     "en": "Left Control",
     "ru": "Левый Ctrl",
     "bel": "Левы Ctrl",
@@ -2585,7 +2585,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_Menu",
-    "custom": "",
+    "custom": "Меню",
     "en": "Menu",
     "ru": "Меню",
     "bel": "Меню",
@@ -2593,7 +2593,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_NumLock",
-    "custom": "",
+    "custom": "Num Lock",
     "en": "Num Lock",
     "ru": "Num Lock",
     "bel": "Num Lock",
@@ -2601,7 +2601,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_NumPadArrowDown",
-    "custom": "",
+    "custom": "Стрэлка ўніз на Num Pad",
     "en": "Num Pad Arrow Down",
     "ru": "Стрелка вниз на Num Pad",
     "bel": "Стрэлка ўніз на Num Pad",
@@ -2609,7 +2609,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_NumPadArrowLeft",
-    "custom": "",
+    "custom": "Стрэлка налева на Num Pad",
     "en": "Num Pad Arrow Left",
     "ru": "Стрелка влево на Num Pad",
     "bel": "Стрэлка налева на Num Pad",
@@ -2617,7 +2617,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_NumPadArrowRight",
-    "custom": "",
+    "custom": "Стрэлка направа на Num Pad",
     "en": "Num Pad Arrow Right",
     "ru": "Стрелка вправо на Num Pad",
     "bel": "Стрэлка направа на Num Pad",
@@ -2625,7 +2625,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_NumPadArrowUp",
-    "custom": "",
+    "custom": "Стрэлка ўверх на Num Pad",
     "en": "Num Pad Arrow Up",
     "ru": "Стрелка вверх на Num Pad",
     "bel": "Стрэлка ўверх на Num Pad",
@@ -2633,7 +2633,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_NumPadDelete",
-    "custom": "",
+    "custom": "Num Pad Delete",
     "en": "Num Pad Delete",
     "ru": "Num Pad Delete",
     "bel": "Num Pad Delete",
@@ -2641,7 +2641,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_NumPadEnd",
-    "custom": "",
+    "custom": "Num Pad End",
     "en": "Num Pad End",
     "ru": "Num Pad End",
     "bel": "Num Pad End",
@@ -2649,7 +2649,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_NumPadEnter",
-    "custom": "",
+    "custom": "Num Pad Enter",
     "en": "Num Pad Enter",
     "ru": "Num Pad Enter",
     "bel": "Num Pad Enter",
@@ -2657,7 +2657,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_NumPadHome",
-    "custom": "",
+    "custom": "Num Pad Home",
     "en": "Num Pad Home",
     "ru": "Num Pad Home",
     "bel": "Num Pad Home",
@@ -2665,7 +2665,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_NumPadInsert",
-    "custom": "",
+    "custom": "Num Pad Insert",
     "en": "Num Pad Insert",
     "ru": "Num Pad Insert",
     "bel": "Num Pad Insert",
@@ -2673,7 +2673,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_NumPadPageDown",
-    "custom": "",
+    "custom": "Num Pad Page Down",
     "en": "Num Pad Page Down",
     "ru": "Num Pad Page Down",
     "bel": "Num Pad Page Down",
@@ -2681,7 +2681,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_NumPadPageUp",
-    "custom": "",
+    "custom": "Num Pad Page Up",
     "en": "Num Pad Page Up",
     "ru": "Num Pad Page Up",
     "bel": "Num Pad Page Up",
@@ -2689,7 +2689,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_PageDown",
-    "custom": "",
+    "custom": "Page Down",
     "en": "Page Down",
     "ru": "Page Down",
     "bel": "Page Down",
@@ -2697,7 +2697,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_PageUp",
-    "custom": "",
+    "custom": "Page Up",
     "en": "Page Up",
     "ru": "Page Up",
     "bel": "Page Up",
@@ -2705,7 +2705,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_Pause",
-    "custom": "",
+    "custom": "Паўза",
     "en": "Pause",
     "ru": "Pause",
     "bel": "Pause",
@@ -2713,7 +2713,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_PrintScreen",
-    "custom": "",
+    "custom": "Print Screen",
     "en": "Print Screen",
     "ru": "Print Screen",
     "bel": "Print Screen",
@@ -2721,7 +2721,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_RightAlt",
-    "custom": "",
+    "custom": "Правы Alt",
     "en": "Right Alt",
     "ru": "Правый Alt",
     "bel": "Правы Alt",
@@ -2729,7 +2729,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_RightControl",
-    "custom": "",
+    "custom": "Правы Ctrl",
     "en": "Right Control",
     "ru": "Правый Ctrl",
     "bel": "Правы Ctrl",
@@ -2737,7 +2737,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_ScrollLock",
-    "custom": "",
+    "custom": "Scroll Lock",
     "en": "Scroll Lock",
     "ru": "Scroll Lock",
     "bel": "Scroll Lock",
@@ -2745,7 +2745,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_ShiftLeft",
-    "custom": "",
+    "custom": "Левы Shift",
     "en": "Shift Left",
     "ru": "Левый Shift",
     "bel": "Левы Shift",
@@ -2753,7 +2753,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_ShiftRight",
-    "custom": "",
+    "custom": "Правы Shift",
     "en": "Shift Right",
     "ru": "Правый Shift",
     "bel": "Правы Shift",
@@ -2761,7 +2761,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_Space",
-    "custom": "",
+    "custom": "Прабел",
     "en": "Space",
     "ru": "Пробел",
     "bel": "Прабел",
@@ -2769,7 +2769,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_Tab",
-    "custom": "",
+    "custom": "Tab",
     "en": "Tab",
     "ru": "Tab",
     "bel": "Tab",
@@ -2777,7 +2777,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_Unassigned",
-    "custom": "",
+    "custom": "Не прызначана",
     "en": "Unassigned",
     "ru": "Не назначено",
     "bel": "Не прызначана",
@@ -2785,7 +2785,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_InputHint_Windows",
-    "custom": "",
+    "custom": "Windows",
     "en": "Windows",
     "ru": "Windows",
     "bel": "Windows",
@@ -2793,7 +2793,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_Notification_ContainDigit",
-    "custom": "",
+    "custom": "Імя не можа ўтрымліваць лічбы.",
     "en": "Name cannot contain digits",
     "ru": "Имя не может содержать цифры.",
     "bel": "Імя не можа ўтрымліваць лічбы.",
@@ -2801,7 +2801,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_Notification_ContainWhiteSpace",
-    "custom": "",
+    "custom": "Імя павінна ўтрымліваць хаця б адзін сімвал.",
     "en": "Name must contain at least one character",
     "ru": "Имя должно содержать хотя бы один символ.",
     "bel": "Імя павінна ўтрымліваць хаця б адзін сімвал.",
@@ -2809,7 +2809,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_Notification_DiskFull",
-    "custom": "",
+    "custom": "Дыск перапоўнены - Не атрымалася захаваць",
     "en": "Disk Full - Save Failed",
     "ru": "Диск переполнен - Не удалось сохранить",
     "bel": "Дыск перапоўнены - Не атрымалася захаваць",
@@ -2817,7 +2817,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_Notification_NameEmpty",
-    "custom": "",
+    "custom": "Імя не можа быць пустым.",
     "en": "Name can't be empty",
     "ru": "Имя не может быть пустым.",
     "bel": "Імя не можа быць пустым.",
@@ -2825,7 +2825,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Generic_Notification_NameTooLong",
-    "custom": "",
+    "custom": "Імя занадта доўгае.",
     "en": "Name is too long",
     "ru": "Имя слишком длинное.",
     "bel": "Імя занадта доўгае.",
@@ -2833,7 +2833,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_HUDInfoBox_PlayerSummonedCreature",
-    "custom": "",
+    "custom": "{SummonedCreatureName} гульца {PlayersName}",
     "en": "{PlayersName}'s {SummonedCreatureName}",
     "ru": "{SummonedCreatureName} игрока {PlayersName}",
     "bel": "{SummonedCreatureName} гульца {PlayersName}",
@@ -2841,7 +2841,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_HUDInfoBox_SummonedCreature",
-    "custom": "",
+    "custom": "{SummonedCreatureName} ад {SummonersName}",
     "en": "{SummonersName}'s {SummonedCreatureName}",
     "ru": "{SummonersName} призвал(а) {SummonedCreatureName}",
     "bel": "{SummonersName} прызваў(ла) {SummonedCreatureName}",
@@ -2849,7 +2849,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_HUD_BodyText_DoorToDestination",
-    "custom": "",
+    "custom": "{DoorName} да {DestinationName}",
     "en": "{DoorName} to {DestinationName}",
     "ru": "{DoorName} в {DestinationName}",
     "bel": "{DoorName} у {DestinationName}",
@@ -2857,7 +2857,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_HUD_InfoBox_Enter",
-    "custom": "",
+    "custom": "Enter",
     "en": "Enter",
     "ru": "Enter",
     "bel": "Enter",
@@ -2865,7 +2865,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_HUD_InfoBox_PickLock",
-    "custom": "",
+    "custom": "Узламаць замок",
     "en": "Pick Lock",
     "ru": "Взломать замок",
     "bel": "Узламаць замок",
@@ -2905,7 +2905,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_HUD_Notification_EnchantedItemDeplete",
-    "custom": "",
+    "custom": "Зачараваны прадмет вось-вось вычарпаецца.",
     "en": "The enchanted item is about to deplete.",
     "ru": "Зачарованный предмет вот-вот истощится.",
     "bel": "Зачараваны прадмет вось-вось вычарпаецца.",
@@ -2913,7 +2913,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_HUD_Notification_MQ13OblivionGate2_0",
-    "custom": "",
+    "custom": "Адкрыліся другія вароты Аблівіёна.",
     "en": "The second Oblivion Gate has opened.",
     "ru": "Открылись вторые врата Обливиона.",
     "bel": "Адкрыліся другія вароты Аблівіёна.",
@@ -2921,7 +2921,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_HUD_Notification_MQ13OblivionGate2_1",
-    "custom": "",
+    "custom": "Адкрыліся трэція вароты Аблівіёна.",
     "en": "The third Oblivion Gate has opened.",
     "ru": "Открылись третьи врата Обливиона.",
     "bel": "Адкрыліся трэція вароты Аблівіёна.",
@@ -2929,7 +2929,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_HUD_Notification_MQ14_TimerExpired",
-    "custom": "",
+    "custom": "Марцін загінуў смерцю героя разам з астатнімі абаронцамі Брумы. Уся надзея страчана.",
     "en": "Martin has been slained, along with the rest of the Bruma defenders. All hope is now lost.",
     "ru": "Мартин пал смертью храбрых вместе с остальными защитниками Брумы. Вся надежда потеряна.",
     "bel": "Марцін загінуў смерцю героя разам з астатнімі абаронцамі Брумы. Уся надзея страчана.",
@@ -2937,7 +2937,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_HUD_Notification_SkillUpLvl",
-    "custom": "",
+    "custom": "Ур.",
     "en": "Lvl",
     "ru": "Ур.",
     "bel": "Ур.",
@@ -2945,7 +2945,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_Button_Next",
-    "custom": "",
+    "custom": "Далей",
     "en": "Next",
     "ru": "Далее",
     "bel": "Далей",
@@ -2953,7 +2953,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_Button_Previous",
-    "custom": "",
+    "custom": "Вярнуцца",
     "en": "Previous",
     "ru": "Вернуться",
     "bel": "Вярнуцца",
@@ -2961,7 +2961,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_Button_ReadMore",
-    "custom": "",
+    "custom": "Падрабязней",
     "en": "Read More",
     "ru": "Подробнее",
     "bel": "Падрабязней",
@@ -2969,7 +2969,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryCategory_Character",
-    "custom": "",
+    "custom": "Персанаж",
     "en": "Character",
     "ru": "Персонаж",
     "bel": "Персанаж",
@@ -2977,7 +2977,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryCategory_Combat",
-    "custom": "",
+    "custom": "Бой",
     "en": "Combat",
     "ru": "Бой",
     "bel": "Бой",
@@ -2985,7 +2985,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryCategory_Creation",
-    "custom": "",
+    "custom": "Стварэнне",
     "en": "Creation",
     "ru": "Создание",
     "bel": "Стварэнне",
@@ -2993,7 +2993,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryCategory_Interactions",
-    "custom": "",
+    "custom": "Узаемадзеянні",
     "en": "Interactions",
     "ru": "Взаимодействия",
     "bel": "Узаемадзеянні",
@@ -3001,7 +3001,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryCategory_Interfaces",
-    "custom": "",
+    "custom": "Інтэрфейс",
     "en": "Interface",
     "ru": "Интерфейс",
     "bel": "Інтэрфейс",
@@ -3009,7 +3009,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryCategory_Magic",
-    "custom": "",
+    "custom": "Магія",
     "en": "Magic",
     "ru": "Магия",
     "bel": "Магія",
@@ -3017,7 +3017,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryCategory_Navigation",
-    "custom": "",
+    "custom": "Навігацыя",
     "en": "Navigation",
     "ru": "Навигация",
     "bel": "Навігацыя",
@@ -3025,7 +3025,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryCategory_Sneak",
-    "custom": "",
+    "custom": "Падкрасціся",
     "en": "Sneak",
     "ru": "Подкрасться",
     "bel": "Падкрасціся",
@@ -3033,7 +3033,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryCategory_Social",
-    "custom": "",
+    "custom": "Сацыяльны",
     "en": "Social",
     "ru": "Социальный",
     "bel": "Сацыяльны",
@@ -3041,7 +3041,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryCategory_StatusEffects",
-    "custom": "",
+    "custom": "Эфекты статусу",
     "en": "Status Effects",
     "ru": "Эффекты статуса",
     "bel": "Эфекты статусу",
@@ -3049,7 +3049,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryContent_ActiveEffects",
-    "custom": "",
+    "custom": "У левым ніжнім куце экрана можа адлюстроўвацца да трох часовых актыўных эфектаў, якія пастаянна паказваюць, што на вас уздзейнічае.<lf><lf>Вы можаце прагледзець усе <RT_BlueMed>замовы, здольнасці, уменні, хваробы і магічныя эфекты</>, якія ў цяперашні час на вас уплываюць, на старонцы актыўных эфектаў у <RT_BlueMed>меню магіі</>.<lf><lf><RT_BlueMed>Здольнасці</> амаль заўсёды актыўныя. Яны ў асноўным адбываюцца ад рас, знакаў нараджэння, вампірызму або квэстаў.<lf><lf><RT_BlueMed>Чары</> прымяняюцца пры экіпіроўцы зачараванай броні або адзення.<lf><lf><RT_BlueMed>Негатыўныя эфекты</> часта з'яўляюцца вынікам хвароб, праклёнаў або ядаў.",
     "en": "Up to three temporary active effects can be displayed on the lower left of the screen, constantly displaying what is affecting you.<lf><lf>You can view all <RT_BlueMed>spells, abilities, powers, diseases and magic effects</> that are currently affecting you in the Active Effects page of the <RT_BlueMed>Magic menu</>.<lf><lf><RT_BlueMed>Abilities</> are nearly always active. They primarily come from races, birthsigns, vampirism or quests.<lf><lf><RT_BlueMed>Enchantments</> are applied when an enchanted piece of armor or clothing is equipped.<lf><lf><RT_BlueMed>Negative effects</> are often the result of diseases, curses or poisons.",
     "ru": "В нижнем левом углу экрана может отображаться до трех временных активных эффектов, постоянно показывая, что на вас воздействует.<lf><lf>Вы можете просмотреть все <RT_BlueMed>заклинания, способности, умения, болезни и магические эффекты</>, которые в настоящее время на вас влияют, на странице активных эффектов в <RT_BlueMed>меню магии</>.<lf><lf><RT_BlueMed>Способности</> почти всегда активны. Они в основном происходят от рас, знаков рождения, вампиризма или квестов.<lf><lf><RT_BlueMed>Чары</> применяются при экипировке зачарованной брони или одежды.<lf><lf><RT_BlueMed>Негативные эффекты</> часто являются результатом болезней, проклятий или ядов.",
     "bel": "У левым ніжнім куце экрана можа адлюстроўвацца да трох часовых актыўных эфектаў, якія пастаянна паказваюць, што на вас уздзейнічае.<lf><lf>Вы можаце прагледзець усе <RT_BlueMed>замовы, здольнасці, уменні, хваробы і магічныя эфекты</>, якія ў цяперашні час на вас уплываюць, на старонцы актыўных эфектаў у <RT_BlueMed>меню магіі</>.<lf><lf><RT_BlueMed>Здольнасці</> амаль заўсёды актыўныя. Яны ў асноўным адбываюцца ад рас, знакаў нараджэння, вампірызму або квэстаў.<lf><lf><RT_BlueMed>Чары</> прымяняюцца пры экіпіроўцы зачараванай броні або адзення.<lf><lf><RT_BlueMed>Негатыўныя эфекты</> часта з'яўляюцца вынікам хвароб, праклёнаў або ядаў.",
@@ -3057,7 +3057,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryContent_AdditionalContent",
-    "custom": "",
+    "custom": "Некаторыя асобныя квэсты, якія калісьці былі дадатковым кантэнтам, цяпер могуць быць разблакіраваны, калі падслухаць чыюсьці размову пра гэта, або проста блукаючы па свеце.",
     "en": "Some specific quests, once additional content, can now be unlocked through hearing people talk about it, or by simply wandering the world.",
     "ru": "Некоторые отдельные квесты, когда-то бывшие дополнительным контентом, теперь могут быть разблокированы, если подслушать чей-то разговор об этом, или просто бродя по миру.",
     "bel": "Некаторыя асобныя квэсты, якія калісьці былі дадатковым кантэнтам, цяпер могуць быць разблакіраваны, калі падслухаць чыюсьці размову пра гэта, або проста блукаючы па свеце.",
@@ -3065,7 +3065,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryContent_Alchemy",
-    "custom": "",
+    "custom": "Пры ўмове, што ў вас ёсць <RT_BlueMed>Ступка і песцік</> пры сабе, выкарыстанне любога алхімічнага апарата з вашага інвентара дазволіць вам ствараць зелля.<lf><lf>Зёлкі і яды вырабляюцца шляхам <RT_BlueMed>злучэння двух або больш інгрэдыентаў, якія валодаюць аднолькавым эфектам</>. Кнопка \"Фільтры\" можа спатрэбіцца, калі вы шукаеце канкрэтны эфект.<lf><lf>Каб дадаць інгрэдыент, змесціце яго ў адзін з слотаў, <RT_BlueMed>націснуўшы</> <IA id=\"IA_UI_Generic_Accept\"/>.<lf>Вы можаце дадаць да чатырох інгрэдыентаў, і <RT_BlueMed>усе супадаючыя эфекты з'явяцца ў спісе эфектаў</>, пад слотамі для зелляў.<lf><lf>Эфекты інгрэдыентаў могуць быць <RT_BlueMed>карыснымі</> або <RT_BlueMed>шкоднымі</>.<lf>Зелле <RT_BlueMed>толькі са шкоднымі эфектамі</> лічыцца <RT_BlueMed>ядам</>.<lf><lf>Вы можаце назваць сваё тварэнне, каб потым лягчэй знайсці яго ў інвентары.<lf><lf>Каб выпіць зелле або нанесці яд, выберыце яго ў Інвентары і <RT_BlueMed>націсніце</> <IA id=\"IA_UI_Generic_Accept\"/>. Вам будзе прапанавана пацвердзіць нанясенне ядаў на вашу экіпіраваную зброю.<lf><lf><RT_BlueMed>Апараты</>, такія як <RT_BlueMed>Рэторты, Кальцынатары і Алембікі</>, могуць значна <RT_BlueMed>палепшыць эфектыўнасць</> зелляў і ядаў, якія вы ствараеце, павялічваючы велічыню і працягласць іх эфектаў.",
     "en": "Provided you have a <RT_BlueMed>Mortar and Pestle</> on you, using any alchemical apparatus from your inventory allows you to create potions.<lf><lf>Potions and poisons are made by <RT_BlueMed>combining two or more ingredients that share the same effect</>. The \"Filters\" button can be handy if you are looking for a specific effect.<lf><lf>To add an ingredient, place it in one of the slots by <RT_BlueMed>pressing</> <IA id=\"IA_UI_Generic_Accept\"/>.<lf>You can add up to four ingredients, and <RT_BlueMed>all matching effects will appear in the effect list</>, below the potion slots.<lf><lf>Ingredient effects may be <RT_BlueMed>beneficial</> or <RT_BlueMed>harmful.</><lf>A potion with <RT_BlueMed>only harmful effects</> is considered <RT_BlueMed>a poison</>.<lf><lf>You can name your creation to find it more easily in your inventory later on.<lf><lf>To consume a potion or apply a poison, select it in your Inventory and <RT_BlueMed>press</> <IA id=\"IA_UI_Generic_Accept\"/>. You will be prompted to confirm applying poisons to your equipped weapon.<lf><lf><RT_BlueMed>Apparatuses</>, such as <RT_BlueMed>Retorts, Calcinators and Alembics</>, can greatly <RT_BlueMed>improve the potency</> of the potions and poisons you create by increasing the magnitude and the duration of its effects.",
     "ru": "При условии, что у вас есть <RT_BlueMed>Ступка и пестик</> при себе, использование любого алхимического аппарата из вашего инвентаря позволит вам создавать зелья.<lf><lf>Зелья и яды изготавливаются путем <RT_BlueMed>соединения двух или более ингредиентов, обладающих одинаковым эффектом</>. Кнопка \"Фильтры\" может пригодиться, если вы ищете конкретный эффект.<lf><lf>Чтобы добавить ингредиент, поместите его в один из слотов, <RT_BlueMed>нажав</> <IA id=\"IA_UI_Generic_Accept\"/>.<lf>Вы можете добавить до четырех ингредиентов, и <RT_BlueMed>все совпадающие эффекты появятся в списке эффектов</>, под слотами для зелий.<lf><lf>Эффекты ингредиентов могут быть <RT_BlueMed>полезными</> или <RT_BlueMed>вредными</>.<lf>Зелье <RT_BlueMed>только с вредными эффектами</> считается <RT_BlueMed>ядом</>.<lf><lf>Вы можете назвать свое творение, чтобы потом легче найти его в инвентаре.<lf><lf>Чтобы выпить зелье или нанести яд, выберите его в Инвентаре и <RT_BlueMed>нажмите</> <IA id=\"IA_UI_Generic_Accept\"/>. Вам будет предложено подтвердить нанесение ядов на ваше экипированное оружие.<lf><lf><RT_BlueMed>Аппараты</>, такие как <RT_BlueMed>Реторты, Кальцинаторы и Алембики</>, могут значительно <RT_BlueMed>улучшить эффективность</> зелий и ядов, которые вы создаете, увеличивая величину и продолжительность их эффектов.",
     "bel": "Пры ўмове, што ў вас ёсць <RT_BlueMed>Ступка і песцік</> пры сабе, выкарыстанне любога алхімічнага апарата з вашага інвентара дазволіць вам ствараць зелля.<lf><lf>Зёлкі і яды вырабляюцца шляхам <RT_BlueMed>злучэння двух або больш інгрэдыентаў, якія валодаюць аднолькавым эфектам</>. Кнопка \"Фільтры\" можа спатрэбіцца, калі вы шукаеце канкрэтны эфект.<lf><lf>Каб дадаць інгрэдыент, змесціце яго ў адзін з слотаў, <RT_BlueMed>націснуўшы</> <IA id=\"IA_UI_Generic_Accept\"/>.<lf>Вы можаце дадаць да чатырох інгрэдыентаў, і <RT_BlueMed>усе супадаючыя эфекты з'явяцца ў спісе эфектаў</>, пад слотамі для зелляў.<lf><lf>Эфекты інгрэдыентаў могуць быць <RT_BlueMed>карыснымі</> або <RT_BlueMed>шкоднымі</>.<lf>Зелле <RT_BlueMed>толькі са шкоднымі эфектамі</> лічыцца <RT_BlueMed>ядам</>.<lf><lf>Вы можаце назваць сваё тварэнне, каб потым лягчэй знайсці яго ў інвентары.<lf><lf>Каб выпіць зелле або нанесці яд, выберыце яго ў Інвентары і <RT_BlueMed>націсніце</> <IA id=\"IA_UI_Generic_Accept\"/>. Вам будзе прапанавана пацвердзіць нанясенне ядаў на вашу экіпіраваную зброю.<lf><lf><RT_BlueMed>Апараты</>, такія як <RT_BlueMed>Рэторты, Кальцынатары і Алембікі</>, могуць значна <RT_BlueMed>палепшыць эфектыўнасць</> зелляў і ядаў, якія вы ствараеце, павялічваючы велічыню і працягласць іх эфектаў.",
@@ -3073,7 +3073,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryContent_Armor",
-    "custom": "",
+    "custom": "Броня <RT_BlueMed>зніжае шкоду</>, атрыманую ад фізічных атак. <lf><lf>Вы можаце экіпіраваць розныя <RT_BlueMed>прадметы броні</>: шлемы, кірасы, наручы, нажныя латы, боты і шчыты са свайго <RT_BlueMed>інвентара</>. <lf><lf><RT_BlueMed>Шчыты</> павялічваюць вашу здольнасць <RT_BlueMed>блакаваць</> атакі ў дадатак да забеспячэння дадатковай абароны. Шчыты павінны выкарыстоўвацца ў пары з аднаручнай зброяй.<lf><lf>Броня бывае двух <RT_BlueMed>класаў</>, кожны з якіх паляпшаецца адпаведнымі навыкамі.<lf>• <RT_BlueMed>Лёгкая</> броня ахвяруе абаронай дзеля <RT_BlueMed>лепшай манеўранасці</> ў баі. <lf>• <RT_BlueMed>Цяжкая</> броня <RT_BlueMed>такая ж эфектыўная, як моцна яна вас запавольвае</>. <lf><lf><RT_BlueMed>Вопратка</> не лічыцца бранёй і, такім чынам, <RT_BlueMed>не абароніць вас</> ад удараў ворагаў. З іншага боку, яна дазваляе <RT_BlueMed>чараваць з максімальнай эфектыўнасцю</>, што робіць яе выдатным выбарам для магаў.",
     "en": "Armor <RT_BlueMed>reduces damage</> received from physical attacks. <lf><lf>You can equip different <RT_BlueMed>armor pieces</>: Helmets, Cuirasses, Gauntlets, Greaves, Boots and Shields, from your <RT_BlueMed>inventory</>. <lf><lf><RT_BlueMed>Shields</> increase your ability to <RT_BlueMed>block</> in addition of providing extra protection. Shields must be paired with a one-handed weapon.<lf><lf>Armor comes in two <RT_BlueMed>classes</>, both improved by their respective Skills.<lf>• <RT_BlueMed>Light</> armor trades protection for <RT_BlueMed>better manoeuvrability</> in combat. <lf>• <RT_BlueMed>Heavy</> armor are <RT_BlueMed>as effective as they weight you down</>. <lf><lf><RT_BlueMed>Clothing</> does not count as armor and thus <RT_BlueMed>will not protect you</> against your enemies' blows. On the other hand, they allow you to <RT_BlueMed>cast spells at maximum effectiveness</>, making them an excellent choice for mages.",
     "ru": "Броня <RT_BlueMed>снижает урон</>, получаемый от физических атак. <lf><lf>Вы можете экипировать различные <RT_BlueMed>предметы брони</>: шлемы, кирасы, наручи, поножи, ботинки и щиты из своего <RT_BlueMed>инвентаря</>. <lf><lf><RT_BlueMed>Щиты</> увеличивают вашу способность <RT_BlueMed>блокировать</> атаки в дополнение к обеспечению дополнительной защиты. Щиты должны использоваться в паре с одноручным оружием.<lf><lf>Броня бывает двух <RT_BlueMed>классов</>, каждый из которых улучшается соответствующими навыками.<lf>• <RT_BlueMed>Лёгкая</> броня жертвует защитой ради <RT_BlueMed>лучшей манёвренности</> в бою. <lf>• <RT_BlueMed>Тяжёлая</> броня <RT_BlueMed>так же эффективна, как сильно она вас замедляет</>. <lf><lf><RT_BlueMed>Одежда</> не считается бронёй и, следовательно, <RT_BlueMed>не защитит вас</> от ударов врагов. С другой стороны, она позволяет <RT_BlueMed>колдовать заклинания с максимальной эффективностью</>, что делает её отличным выбором для магов.",
     "bel": "Броня <RT_BlueMed>зніжае шкоду</>, атрыманую ад фізічных атак. <lf><lf>Вы можаце экіпіраваць розныя <RT_BlueMed>прадметы броні</>: шлемы, кірасы, наручы, нажныя латы, боты і шчыты са свайго <RT_BlueMed>інвентара</>. <lf><lf><RT_BlueMed>Шчыты</> павялічваюць вашу здольнасць <RT_BlueMed>блакаваць</> атакі ў дадатак да забеспячэння дадатковай абароны. Шчыты павінны выкарыстоўвацца ў пары з аднаручнай зброяй.<lf><lf>Броня бывае двух <RT_BlueMed>класаў</>, кожны з якіх паляпшаецца адпаведнымі навыкамі.<lf>• <RT_BlueMed>Лёгкая</> броня ахвяруе абаронай дзеля <RT_BlueMed>лепшай манеўранасці</> ў баі. <lf>• <RT_BlueMed>Цяжкая</> броня <RT_BlueMed>такая ж эфектыўная, як моцна яна вас запавольвае</>. <lf><lf><RT_BlueMed>Вопратка</> не лічыцца бранёй і, такім чынам, <RT_BlueMed>не абароніць вас</> ад удараў ворагаў. З іншага боку, яна дазваляе <RT_BlueMed>чараваць з максімальнай эфектыўнасцю</>, што робіць яе выдатным выбарам для магаў.",
@@ -3081,7 +3081,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryContent_Attributes",
-    "custom": "",
+    "custom": "Характарыстыкі і здольнасці кожнага персанажа вызначаюцца яго <RT_BlueMed>васьмю асноўнымі атрыбутамі</>.<lf>Звычайна іх значэнні вагаюцца ад 0 да 100, але могуць быць падняты вышэй за 100 з дапамогай зачараванняў ці іншых станоўчых эфектаў.<lf>Атрыбуты <RT_BlueMed>могуць быць зменены</> магіяй, зеллямі, зачараванымі прадметамі ці хваробамі.<lf><lf>Павышэнне ўзроўню дазваляе вам павялічваць вашы атрыбуты.<lf><lf><img id=\"Strength\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• СІЛА •</><lf>Сіла ўплывае на колькасць <RT_BlueMed>шкоды</>, якую вы наносіце <RT_BlueMed>доўгімі мячамі, клейморамі, булавамі, баявымі сякерамі, двухручнымі сякерамі, баявымі молатамі</> і <RT_BlueMed>голымі рукамі</>.<lf>Кожнае ачко сілы таксама павялічвае вашу <RT_BlueMed>максімальную пераносную нагрузку</> на 5, дазваляючы вам несці больш прадметаў і рыштунку.<lf>Сіла таксама ўплывае на ваша <RT_BlueMed>максімальнае здароўе</>, хоць і не так моцна, як цягавітасць у гэтым плане.<lf><lf><img id=\"Intelligence\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ІНТЭЛЕКТ •</><lf>Інтэлект вызначае ваш <RT_BlueMed>максімальны запас магіі (Magicka)</>.<lf><RT_BlueMed>Высокі інтэлект</> можа быць неабходны, каб мець дастаткова магіі для прамаўлення <RT_BlueMed>самых магутных заклінанняў</>.<lf>Павелічэнне інтэлекту <RT_BlueMed>не</> павялічвае хуткасць, з якой вы аднаўляеце магію.<lf><lf><img id=\"Willpower\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• СІЛА ВОЛІ •</><lf>Сіла волі вызначае, як хутка вы <RT_BlueMed>аднаўляеце магію</>, як у баі, так і па-за ім.<lf>Павелічэнне сілы волі таксама значна павялічвае вашу <RT_BlueMed>максімальную стомленасць (Fatigue)</>.<lf><lf><img id=\"Agility\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ЛОВКАСЦЬ •</><lf>Лоўкасць уплывае на колькасць <RT_BlueMed>шкоды</>, якую вы наносіце <RT_BlueMed>кінжаламі, кароткімі мячамі і лукамі</>.<lf>Яна таксама павялічвае вашу <RT_BlueMed>максімальную стомленасць (Fatigue)</>, хоць і не так моцна, як сіла волі ў гэтым плане.<lf>Лоўкасць таксама вызначае, як хутка вы <RT_BlueMed>аднаўляеце стомленасць</>, як у баі, так і па-за ім.<lf><lf><img id=\"Speed\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ХУТКАСЦЬ •</><lf>Хуткасць вызначае, як <RT_BlueMed>хутка</> вы ходзіце, плаваеце, бегаеце і робіце рыўкі.<lf><RT_BlueMed>Высокая хуткасць</> можа дазволіць вам <RT_BlueMed>апераджаць большасць ворагаў</>, і можа быць карысна, каб ухіляцца ад атак блізкага і далёкага бою.<lf><lf><img id=\"Endurance\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ВЫТРЫВАЛАСЦЬ •</><lf>Вытрываласць значна павялічвае ваша <RT_BlueMed>максімальнае здароўе</>.<lf>Яна таксама вызначае, наколькі моцна ваша здароўе будзе <RT_BlueMed>павялічвацца пры павышэнні ўзроўняў</>. Гэта павелічэнне адбываецца рэтраспектыўна, што робіць вытрываласць вельмі каштоўнай на высокіх узроўнях.<lf>Вытрываласць таксама вызначае, як хутка вы <RT_BlueMed>аднаўляеце здароўе</> па-за боем.<lf><lf><img id=\"Personality\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• АБАЯННЕ •</><lf>Абаянне ўплывае на тое, <RT_BlueMed>наколькі вы падабаецеся людзям</>, дазваляючы вам <RT_BlueMed>лягчэй атрымліваць важную інфармацыю</> ад людзей.<lf>Павелічэнне абаянна дазваляе вам <RT_BlueMed>заключаць больш выгадныя здзелкі</> з гандлярамі і дазваляе вам <RT_BlueMed>часцей пазбягаць бою</>, паколькі менш ворагаў будзе нападаць на вас, і больш людзей пагодзіцца здацца.<lf><lf><img id=\"Luck\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ЎДАЧА •</><lf>Удача таемна павялічвае або памяншае выніковы ўзровень <RT_BlueMed>ўсіх вашых навыкаў</>, уплываючы на ўсё, што вы робіце.<lf>Удача <RT_BlueMed>вышэй за 50</> уплывае на падзеі ў <RT_BlueMed>вашу карысць</>, а ўдача <RT_BlueMed>ніжэй за 50</> уплывае на падзеі <RT_BlueMed>супраць вас</>.",
     "en": "Each character's traits and capabilities are defined by their <RT_BlueMed>eight primary Attributes</>.<lf>These usually range from 0 to 100, but can be pushed above 100 with enchantments or other positive effects.<lf>Attributes <RT_BlueMed>can be altered</> by magic, potions, enchanted items or diseases.<lf><lf>Raising your level allows you to increase your Attributes.<lf><lf><img id=\"Strength\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• STRENGTH •</><lf>Strength affects the amount of <RT_BlueMed>damage</> you deal with <RT_BlueMed>Longswords, Claymores, Maces, War Axes, Battle-Axes, Warhammers</>, and your <RT_BlueMed>bare hands</>.<lf>Each point in Strength also increases your <RT_BlueMed>maximum Encumberance</> by 5, allowing you to carry more items and equipment.<lf>Strength also has an effect on your <RT_BlueMed>maximum Health</>, though is not as impactful as Endurance in that regard.<lf><lf><img id=\"Intelligence\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• INTELLIGENCE •</><lf>Intelligence determines your <RT_BlueMed>maximum Magicka</>.<lf><RT_BlueMed>High Intelligence</> may be necessary to have enough Magicka to cast the <RT_BlueMed>most powerful spells</>.<lf>Increasing Intelligence <RT_BlueMed>does not</> increase the rate at which you regenerate Magicka.<lf><lf><img id=\"Willpower\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• WILLPOWER •</><lf>Willpower determines how quickly you <RT_BlueMed>regenerate Magicka</>, both in and out of combat.<lf>Increasing Willpower also greatly increases your <RT_BlueMed>maximum Fatigue</>.<lf><lf><img id=\"Agility\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• AGILITY •</><lf>Agility affects the amount of <RT_BlueMed>damage</> you deal with <RT_BlueMed>Daggers, Shortswords and Bows</>.<lf>It also increases your <RT_BlueMed>maximum Fatigue</>, though is not as impactful as Willpower in that regard.<lf>Agility also defines how quickly you <RT_BlueMed>regenerate Fatigue</>, both in and out of combat.<lf><lf><img id=\"Speed\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• SPEED •</><lf>Speed determines how <RT_BlueMed>fast</> you walk, swim, run and sprint.<lf>A <RT_BlueMed>high Speed</> can allow you to <RT_BlueMed>outrun most enemies</>, and can be useful to move out of the way of melee and ranged attacks.<lf><lf><img id=\"Endurance\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ENDURANCE •</><lf>Endurance greatly increases your <RT_BlueMed>maximum Health</>.<lf>It also determines how much your Health will <RT_BlueMed>increase when you raise levels</>. This increase is retroactive, making Endurance very worthwile at higher levels.<lf>Endurance also defines how quickly you <RT_BlueMed>regenerate Health</> out of combat.<lf><lf><img id=\"Personality\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• PERSONALITY •</><lf>Personality affects <RT_BlueMed>how much people like you</>, allowing you to <RT_BlueMed>obtain meaningful information</> from people more easily.<lf>Increasing Personality allows you to <RT_BlueMed>negociate better deals</> with merchants, and allows you to <RT_BlueMed>avoid combat</> more often as fewer enemies will attack you and more people will accept yields.<lf><lf><img id=\"Luck\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• LUCK •</><lf>Luck secretly increases or decreases the final level of <RT_BlueMed>all your skills</>, having an effect on everything you do.<lf>Luck <RT_BlueMed>above 50</> influences events in <RT_BlueMed>your favor</> while Luck <RT_BlueMed>below 50</> influences events <RT_BlueMed>against you</>.",
     "ru": "Характеристики и способности каждого персонажа определяются его <RT_BlueMed>восемью основными атрибутами</>.<lf>Обычно их значения колеблются от 0 до 100, но могут быть подняты выше 100 с помощью зачарований или других положительных эффектов.<lf>Атрибуты <RT_BlueMed>могут быть изменены</> магией, зельями, зачарованными предметами или болезнями.<lf><lf>Повышение уровня позволяет вам увеличивать ваши атрибуты.<lf><lf><img id=\"Strength\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• СИЛА •</><lf>Сила влияет на количество <RT_BlueMed>урона</>, который вы наносите <RT_BlueMed>длинными мечами, клейморами, булавами, боевыми топорами, двуручными топорами, боевыми молотами</> и <RT_BlueMed>голыми руками</>.<lf>Каждое очко силы также увеличивает вашу <RT_BlueMed>максимальную переносимую нагрузку</> на 5, позволяя вам нести больше предметов и снаряжения.<lf>Сила также влияет на ваше <RT_BlueMed>максимальное здоровье</>, хотя и не так сильно, как выносливость в этом отношении.<lf><lf><img id=\"Intelligence\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ИНТЕЛЛЕКТ •</><lf>Интеллект определяет ваш <RT_BlueMed>максимальный запас магии (Magicka)</>.<lf><RT_BlueMed>Высокий интеллект</> может быть необходим, чтобы иметь достаточно магии для произнесения <RT_BlueMed>самых мощных заклинаний</>.<lf>Увеличение интеллекта <RT_BlueMed>не</> увеличивает скорость, с которой вы восстанавливаете магию.<lf><lf><img id=\"Willpower\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• СИЛА ВОЛИ •</><lf>Сила воли определяет, как быстро вы <RT_BlueMed>восстанавливаете магию</>, как в бою, так и вне его.<lf>Увеличение силы воли также значительно увеличивает вашу <RT_BlueMed>максимальную усталость (Fatigue)</>.<lf><lf><img id=\"Agility\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ЛОВКОСТЬ •</><lf>Ловкость влияет на количество <RT_BlueMed>урона</>, который вы наносите <RT_BlueMed>кинжалами, короткими мечами и луками</>.<lf>Она также увеличивает вашу <RT_BlueMed>максимальную усталость (Fatigue)</>, хотя и не так сильно, как сила воли в этом отношении.<lf>Ловкость также определяет, как быстро вы <RT_BlueMed>восстанавливаете усталость</>, как в бою, так и вне его.<lf><lf><img id=\"Speed\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• СКОРОСТЬ •</><lf>Скорость определяет, как <RT_BlueMed>быстро</> вы ходите, плаваете, бегаете и совершаете рывки.<lf><RT_BlueMed>Высокая скорость</> может позволить вам <RT_BlueMed>перегнать большинство врагов</>, и может быть полезна, чтобы уклоняться от атак ближнего и дальнего боя.<lf><lf><img id=\"Endurance\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ВЫНОСЛИВОСТЬ •</><lf>Выносливость значительно увеличивает ваше <RT_BlueMed>максимальное здоровье</>.<lf>Она также определяет, насколько сильно ваше здоровье будет <RT_BlueMed>увеличиваться при повышении уровней</>. Это увеличение происходит ретроспективно, что делает выносливость очень ценной на высоких уровнях.<lf>Выносливость также определяет, как быстро вы <RT_BlueMed>восстанавливаете здоровье</> вне боя.<lf><lf><img id=\"Personality\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ОБАЯНИЕ •</><lf>Обаяние влияет на то, <RT_BlueMed>насколько вы нравитесь людям</>, позволяя вам <RT_BlueMed>легче получать важную информацию</> от людей.<lf>Увеличение обаяния позволяет вам <RT_BlueMed>заключать более выгодные сделки</> с торговцами и позволяет вам <RT_BlueMed>чаще избегать боя</>, поскольку меньше врагов будет нападать на вас, и больше людей согласится сдаться.<lf><lf><img id=\"Luck\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• УДАЧА •</><lf>Удача тайно увеличивает или уменьшает итоговый уровень <RT_BlueMed>всех ваших навыков</>, влияя на все, что вы делаете.<lf>Удача <RT_BlueMed>выше 50</> влияет на события в <RT_BlueMed>вашу пользу</>, а удача <RT_BlueMed>ниже 50</> влияет на события <RT_BlueMed>против вас</>.",
     "bel": "Характарыстыкі і здольнасці кожнага персанажа вызначаюцца яго <RT_BlueMed>васьмю асноўнымі атрыбутамі</>.<lf>Звычайна іх значэнні вагаюцца ад 0 да 100, але могуць быць падняты вышэй за 100 з дапамогай зачараванняў ці іншых станоўчых эфектаў.<lf>Атрыбуты <RT_BlueMed>могуць быць зменены</> магіяй, зеллямі, зачараванымі прадметамі ці хваробамі.<lf><lf>Павышэнне ўзроўню дазваляе вам павялічваць вашы атрыбуты.<lf><lf><img id=\"Strength\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• СІЛА •</><lf>Сіла ўплывае на колькасць <RT_BlueMed>шкоды</>, якую вы наносіце <RT_BlueMed>доўгімі мячамі, клейморамі, булавамі, баявымі сякерамі, двухручнымі сякерамі, баявымі молатамі</> і <RT_BlueMed>голымі рукамі</>.<lf>Кожнае ачко сілы таксама павялічвае вашу <RT_BlueMed>максімальную пераносную нагрузку</> на 5, дазваляючы вам несці больш прадметаў і рыштунку.<lf>Сіла таксама ўплывае на ваша <RT_BlueMed>максімальнае здароўе</>, хоць і не так моцна, як цягавітасць у гэтым плане.<lf><lf><img id=\"Intelligence\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ІНТЭЛЕКТ •</><lf>Інтэлект вызначае ваш <RT_BlueMed>максімальны запас магіі (Magicka)</>.<lf><RT_BlueMed>Высокі інтэлект</> можа быць неабходны, каб мець дастаткова магіі для прамаўлення <RT_BlueMed>самых магутных заклінанняў</>.<lf>Павелічэнне інтэлекту <RT_BlueMed>не</> павялічвае хуткасць, з якой вы аднаўляеце магію.<lf><lf><img id=\"Willpower\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• СІЛА ВОЛІ •</><lf>Сіла волі вызначае, як хутка вы <RT_BlueMed>аднаўляеце магію</>, як у баі, так і па-за ім.<lf>Павелічэнне сілы волі таксама значна павялічвае вашу <RT_BlueMed>максімальную стомленасць (Fatigue)</>.<lf><lf><img id=\"Agility\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ЛОВКАСЦЬ •</><lf>Лоўкасць уплывае на колькасць <RT_BlueMed>шкоды</>, якую вы наносіце <RT_BlueMed>кінжаламі, кароткімі мячамі і лукамі</>.<lf>Яна таксама павялічвае вашу <RT_BlueMed>максімальную стомленасць (Fatigue)</>, хоць і не так моцна, як сіла волі ў гэтым плане.<lf>Лоўкасць таксама вызначае, як хутка вы <RT_BlueMed>аднаўляеце стомленасць</>, як у баі, так і па-за ім.<lf><lf><img id=\"Speed\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ХУТКАСЦЬ •</><lf>Хуткасць вызначае, як <RT_BlueMed>хутка</> вы ходзіце, плаваеце, бегаеце і робіце рыўкі.<lf><RT_BlueMed>Высокая хуткасць</> можа дазволіць вам <RT_BlueMed>апераджаць большасць ворагаў</>, і можа быць карысна, каб ухіляцца ад атак блізкага і далёкага бою.<lf><lf><img id=\"Endurance\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ВЫТРЫВАЛАСЦЬ •</><lf>Вытрываласць значна павялічвае ваша <RT_BlueMed>максімальнае здароўе</>.<lf>Яна таксама вызначае, наколькі моцна ваша здароўе будзе <RT_BlueMed>павялічвацца пры павышэнні ўзроўняў</>. Гэта павелічэнне адбываецца рэтраспектыўна, што робіць вытрываласць вельмі каштоўнай на высокіх узроўнях.<lf>Вытрываласць таксама вызначае, як хутка вы <RT_BlueMed>аднаўляеце здароўе</> па-за боем.<lf><lf><img id=\"Personality\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• АБАЯННЕ •</><lf>Абаянне ўплывае на тое, <RT_BlueMed>наколькі вы падабаецеся людзям</>, дазваляючы вам <RT_BlueMed>лягчэй атрымліваць важную інфармацыю</> ад людзей.<lf>Павелічэнне абаянна дазваляе вам <RT_BlueMed>заключаць больш выгадныя здзелкі</> з гандлярамі і дазваляе вам <RT_BlueMed>часцей пазбягаць бою</>, паколькі менш ворагаў будзе нападаць на вас, і больш людзей пагодзіцца здацца.<lf><lf><img id=\"Luck\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ЎДАЧА •</><lf>Удача таемна павялічвае або памяншае выніковы ўзровень <RT_BlueMed>ўсіх вашых навыкаў</>, уплываючы на ўсё, што вы робіце.<lf>Удача <RT_BlueMed>вышэй за 50</> уплывае на падзеі ў <RT_BlueMed>вашу карысць</>, а ўдача <RT_BlueMed>ніжэй за 50</> уплывае на падзеі <RT_BlueMed>супраць вас</>.",
@@ -3089,7 +3089,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryContent_Bartering",
-    "custom": "",
+    "custom": "Пры абмене адлюстроўваюцца як ваш інвентар, так і інвентар чалавека, з якім вы абменьваецеся, бок аб бок. Вы можаце <RT_BlueMed>пераключацца паміж інвентарамі</>, каб <RT_BlueMed>прадаваць ці купляць прадметы</>.<lf><lf>Выберыце любы прадмет, які вы хочаце купіць у чалавека, і, <RT_BlueMed>калі ў вас дастаткова грошай</>, прадмет будзе змешчаны ў ваш інвентар.<lf><lf>Вы таксама можаце прадаваць прадметы, выбіраючы іх са свайго інвентара. Аднак у гандляроў <RT_BlueMed>абмежаваная колькасць золата</>, якую яны гатовыя заплаціць за <RT_BlueMed>адну транзакцыю</>.<lf><lf>Акрамя таго, чалавек, з якім вы абменьваецеся, можа прыняць або адхіліць любую прапанову ў залежнасці ад таго, <RT_BlueMed>наколькі моцна вы гандлюецеся</>. Калі прапанова адхілена, яго размяшчэнне духу трохі пагоршыцца.",
     "en": "When bartering, both your inventory and the inventory of the person you are bartering with are displayed side by side. You can <RT_BlueMed>switch between both inventories</> to <RT_BlueMed>sell or buy items</>.<lf><lf>Select any item you want to buy from the person and, <RT_BlueMed>provided you have enough money</>, the item will be placed in your inventory.<lf><lf>You can also sell items by selecting them from your inventory. However, merchants have a <RT_BlueMed>limited amount of Gold</> they are willing to pay on a <RT_BlueMed>single transaction</>.<lf><lf>Additionally, the person you are bartering with may choose to accept or reject any offer based on <RT_BlueMed>how much you are haggling</>. If the offer is rejected, their Disposition will drop slightly.",
     "ru": "При обмене отображаются как ваш инвентарь, так и инвентарь человека, с которым вы обмениваетесь, бок о бок. Вы можете <RT_BlueMed>переключаться между инвентарями</>, чтобы <RT_BlueMed>продавать или покупать предметы</>.<lf><lf>Выберите любой предмет, который вы хотите купить у человека, и, <RT_BlueMed>если у вас достаточно денег</>, предмет будет помещен в ваш инвентарь.<lf><lf>Вы также можете продавать предметы, выбирая их из своего инвентаря. Однако у торговцев <RT_BlueMed>ограниченное количество золота</>, которое они готовы заплатить за <RT_BlueMed>одну транзакцию</>.<lf><lf>Кроме того, человек, с которым вы обмениваетесь, может принять или отклонить любое предложение в зависимости от того, <RT_BlueMed>насколько сильно вы торгуетесь</>. Если предложение отклонено, его расположение духа немного ухудшится.",
     "bel": "Пры абмене адлюстроўваюцца як ваш інвентар, так і інвентар чалавека, з якім вы абменьваецеся, бок аб бок. Вы можаце <RT_BlueMed>пераключацца паміж інвентарамі</>, каб <RT_BlueMed>прадаваць ці купляць прадметы</>.<lf><lf>Выберыце любы прадмет, які вы хочаце купіць у чалавека, і, <RT_BlueMed>калі ў вас дастаткова грошай</>, прадмет будзе змешчаны ў ваш інвентар.<lf><lf>Вы таксама можаце прадаваць прадметы, выбіраючы іх са свайго інвентара. Аднак у гандляроў <RT_BlueMed>абмежаваная колькасць золата</>, якую яны гатовыя заплаціць за <RT_BlueMed>адну транзакцыю</>.<lf><lf>Акрамя таго, чалавек, з якім вы абменьваецеся, можа прыняць або адхіліць любую прапанову ў залежнасці ад таго, <RT_BlueMed>наколькі моцна вы гандлюецеся</>. Калі прапанова адхілена, яго размяшчэнне духу трохі пагоршыцца.",
@@ -3097,7 +3097,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryContent_BasicMovement+Jump",
-    "custom": "",
+    "custom": "Разуменне таго, як перамяшчацца, неабходна для даследавання шырокіх раўнін Сірадыіла.<lf><lf><RT_BlueMed>Каб рухацца наперад і назад</>, націсніце <IA id=\"IA_Game_Movement_MovementForward\"/> і <IA id=\"IA_Game_Movement_MovementBackward\"/>.<lf>Каб <RT_BlueMed>рухацца ўбок налева і направа</>, націсніце <IA id=\"IA_Game_Movement_MovementLeft\"/> і <IA id=\"IA_Game_Movement_MovementRight\"/>.<lf><lf>Каб <RT_BlueMed>падскочыць</>, націсніце <IA id=\"IA_Game_Movement_Jump\"/>.<lf>Вы можаце <RT_BlueMed>падкрасціся</>, націснуўшы <IA id=\"IA_Game_Movement_Crouch\"/>. Націсніце яшчэ раз, каб спыніць красціся.<lf><lf>Вы можаце <RT_BlueMed>бегчы</> нашмат хутчэй, <RT_BlueMed>націскаючы</> <IA id=\"IA_Game_Movement_Sprint\"/> <RT_BlueMed>падчас руху</>. Націсніце яшчэ раз, каб спыніць бег.<lf><lf>Падчас бегу ваша вынослівасць <RT_BlueMed>паступова змяншаецца</>.<lf>Калі ваша вынослівасць <RT_BlueMed>заканчваецца</>, вы <RT_BlueMed>больш не зможаце бегчы</> і павінны пачакаць, пакуль ваша вынослівасць <RT_BlueMed>аднавіцца</>.<lf><lf>Вы можаце <RT_BlueMed>бегчы толькі наперад</>, а не ўбок ці назад.",
     "en": "Understanding how to move around is essential to explore the vast plains of Cyrodiil.<lf><lf><RT_BlueMed>To move forward and backwards</>, press <IA id=\"IA_Game_Movement_MovementForward\"/> and <IA id=\"IA_Game_Movement_MovementBackward\"/>.<lf>To <RT_BlueMed>strafe left and right</>, press <IA id=\"IA_Game_Movement_MovementLeft\"/> and <IA id=\"IA_Game_Movement_MovementRight\"/>.<lf><lf>To <RT_BlueMed>jump</>, press <IA id=\"IA_Game_Movement_Jump\"/>.<lf>You can <RT_BlueMed>Sneak</> by pressing <IA id=\"IA_Game_Movement_Crouch\"/>. Press again to stop sneaking.<lf><lf>You can <RT_BlueMed>Sprint</> to move a lot faster by <RT_BlueMed>pressing</> <IA id=\"IA_Game_Movement_Sprint\"/> <RT_BlueMed>while moving</>. Press again to stop sprinting.<lf><lf>As you sprint, your Fatigue <RT_BlueMed>gradually depletes</>.<lf>If your Fatigue <RT_BlueMed>runs out</>, you will <RT_BlueMed>no longer be able to sprint</> and have to wait for your Fatigue to <RT_BlueMed>regenerate</>.<lf><lf>You can <RT_BlueMed>only sprint forward</>, not to the side or backwards.",
     "ru": "Освоение управления необходимо для исследования обширных равнин Сиродила, участия в боях или любых других действий.<lf><lf>Управление движением<lf><RT_BlueMed>Вперёд</> <IA id=\"IA_Game_Movement_MovementForward\"/><lf><RT_BlueMed>Назад</> <IA id=\"IA_Game_Movement_MovementBackward\"/><lf><RT_BlueMed>Влево</> <IA id=\"IA_Game_Movement_MovementLeft\"/><lf><RT_BlueMed>Вправо</><IA id=\"IA_Game_Movement_MovementRight\"/><lf><lf>Управление состояниями<lf><RT_BlueMed>Ходьба и бег</> <IA id=\"IA_Game_Movement_ToggleWalk\"/><lf><RT_BlueMed>Спринт</> <IA id=\"IA_Game_Movement_Sprint\"/><lf><RT_BlueMed>Прыжок</> <IA id=\"IA_Game_Movement_Jump\"/>",
     "bel": "Асваенне кіравання неабходна для даследавання шырокіх раўнін Сірадыіла, удзелу ў баях ці любых іншых дзеяннях.<lf><lf>Кіраванне рухам<lf><RT_BlueMed>Наперад</> <IA id=\"IA_Game_Movement_MovementForward\"/><lf><RT_BlueMed>Назад</> <IA id=\"IA_Game_Movement_MovementBackward\"/><lf><RT_BlueMed>Налева</> <IA id=\"IA_Game_Movement_MovementLeft\"/><lf><RT_BlueMed>Направа</><IA id=\"IA_Game_Movement_MovementRight\"/><lf><lf>Кіраванне станамі<lf><RT_BlueMed>Хада і бег</> <IA id=\"IA_Game_Movement_ToggleWalk\"/><lf><RT_BlueMed>Спрынт</> <IA id=\"IA_Game_Movement_Sprint\"/><lf><RT_BlueMed>Скачок</> <IA id=\"IA_Game_Movement_Jump\"/>",
@@ -3105,7 +3105,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryContent_Blocking",
-    "custom": "",
+    "custom": "Блакаванне дазваляе <RT_BlueMed>паменшыць уваходны фізічны ўрон</>, уключаючы стрэлы, коштам стомленасці.<lf><lf>Каб <RT_BlueMed>блакаваць</>, утрымлівайце <IA id=\"IA_Game_Combat_Block\"/>, <RT_BlueMed>гледзячы на нападніка</>.<lf><lf>Ваша <RT_BlueMed>эфектыўнасць</> блакавання моцна залежыць ад вашага <RT_BlueMed>навыку блакавання</>, а таксама ад вашага <RT_BlueMed>рыштунку</>. Блакаванне голымі рукамі забяспечвае толькі нязначную абарону, у той час як шчыт змякчае больш урону.<lf><lf>Блакаванне атакі <RT_BlueMed>адкіне</> нападніка, ствараючы невялікае акно для <RT_BlueMed>ўдару ў адказ</>. Гэта таксама дакладна і для вас, таму будзьце асцярожныя, калі бачыце, што вораг блакуе.",
     "en": "Blocking allows you to <RT_BlueMed>reduce incoming physical damage</>, including arrows, at the cost of Fatigue.<lf><lf>To <RT_BlueMed>block</>, hold <IA id=\"IA_Game_Combat_Block\"/> while <RT_BlueMed>facing the attacker.</><lf><lf>Your <RT_BlueMed>efficiency</> at blocking is highly impacted by your <RT_BlueMed>Block Skill</> as well as your <RT_BlueMed>equipment</>. Blocking barefisted only offers minor protection while a shield mitigates more damage.<lf><lf>Blocking an attack will <RT_BlueMed>recoil</> the attacker, creating a small window for you to <RT_BlueMed>strike back</>. This is also true for you, so be careful when you see an enemy blocking.",
     "ru": "Блокирование позволяет <RT_BlueMed>уменьшить входящий физический урон</>, включая стрелы, ценой Усталости.<lf><lf>Чтобы <RT_BlueMed>блокировать</>, удерживайте <IA id=\"IA_Game_Combat_Block\"/>, <RT_BlueMed>смотря на нападающего</>.<lf><lf>Ваша <RT_BlueMed>эффективность</> блокирования сильно зависит от вашего <RT_BlueMed>навыка блокирования</>, а также от вашего <RT_BlueMed>снаряжения</>. Блокирование голыми руками обеспечивает лишь незначительную защиту, в то время как щит смягчает больше урона.<lf><lf>Блокирование атаки <RT_BlueMed>отбросит</> нападающего, создавая небольшое окно для <RT_BlueMed>ответного удара</>. Это также верно и для вас, поэтому будьте осторожны, когда видите, что враг блокирует.",
     "bel": "Блакаванне дазваляе <RT_BlueMed>паменшыць уваходны фізічны ўрон</>, уключаючы стрэлы, коштам стомленасці.<lf><lf>Каб <RT_BlueMed>блакаваць</>, утрымлівайце <IA id=\"IA_Game_Combat_Block\"/>, <RT_BlueMed>гледзячы на нападніка</>.<lf><lf>Ваша <RT_BlueMed>эфектыўнасць</> блакавання моцна залежыць ад вашага <RT_BlueMed>навыку блакавання</>, а таксама ад вашага <RT_BlueMed>рыштунку</>. Блакаванне голымі рукамі забяспечвае толькі нязначную абарону, у той час як шчыт змякчае больш урону.<lf><lf>Блакаванне атакі <RT_BlueMed>адкіне</> нападніка, ствараючы невялікае акно для <RT_BlueMed>ўдару ў адказ</>. Гэта таксама дакладна і для вас, таму будзьце асцярожныя, калі бачыце, што вораг блакуе.",
@@ -3113,7 +3113,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryContent_Blocking&FatigueManagement",
-    "custom": "",
+    "custom": "<RT_BlueMed>Атака, скачкі, спрынт або блакіраванне</> выдаткоўваюць вашу <RT_BlueMed>цягавітасць</>. <lf><lf>Некаторыя дзеянні, такія як <RT_BlueMed>моцныя атакі</>, могуць быць выкананы толькі пры наяўнасці <RT_BlueMed>дастатковай колькасці цягавітасці</>. <lf><lf>Праціўнікі таксама могуць зменшыць вашу цягавітасць з дапамогай <RT_BlueMed>заклінанняў або атак</>. Упэўніцеся, што яны не вычарпалі вашу цягавітасць, інакш вас можа <RT_BlueMed>вывесці з раўнавагі</>.<lf><lf>• <RT_BlueMed>Фізічныя атакі</>, якія вычарпваюць вашу цягавітасць, напрыклад, блакіраванне атакі, на кароткі час <RT_BlueMed>аглушаць</> вас.<lf>• <RT_BlueMed>Магічныя эфекты</>, якія вычарпваюць вашу цягавітасць, <RT_BlueMed>скінуць вас з ног</>.<lf><lf>Калі ў ворагаў <RT_BlueMed>амаль не засталося цягавітасці</>, іх <RT_BlueMed>індыкатар здароўя пачне пульсаваць</>. Гэта добры момант, каб паспрабаваць вывесці іх з раўнавагі.",
     "en": "<RT_BlueMed>Attacking, jumping, sprinting or blocking</> consumes your <RT_BlueMed>Fatigue</>. <lf><lf>Some actions, like <RT_BlueMed>Power Attacks</>, can only be perfomed if you have <RT_BlueMed>enough Fatigue</>. <lf><lf>Opponents can also decrease your Fatigue with <RT_BlueMed>spells or attacks</>. Make sure they don't deplete your Fatigue or you might be thrown <RT_BlueMed>off balance</>.<lf><lf>• <RT_BlueMed>Physical attacks</> that deplete your Fatigue, such as blocking an attack, will briefly <RT_BlueMed>stagger</> you.<lf>• <RT_BlueMed>Magical effects</> that deplete your Fatigue will <RT_BlueMed>knock you down</>.<lf><lf>When enemies are <RT_BlueMed>almost out of Fatigue</>, their <RT_BlueMed>life indicator will pulse</>. This is a good moment to try and break their balance.",
     "ru": "<RT_BlueMed>Атака, прыжки, спринт или блокирование</> расходуют вашу <RT_BlueMed>выносливость</>. <lf><lf>Некоторые действия, такие как <RT_BlueMed>мощные атаки</>, могут быть выполнены только при наличии <RT_BlueMed>достаточного количества выносливости</>. <lf><lf>Противники также могут уменьшить вашу выносливость с помощью <RT_BlueMed>заклинаний или атак</>. Убедитесь, что они не истощили вашу выносливость, иначе вас может <RT_BlueMed>вывести из равновесия</>.<lf><lf>• <RT_BlueMed>Физические атаки</>, которые истощают вашу выносливость, например блокирование атаки, на короткое время <RT_BlueMed>оглушат</> вас.<lf>• <RT_BlueMed>Магические эффекты</>, которые истощают вашу выносливость, <RT_BlueMed>свалят вас с ног</>.<lf><lf>Когда у врагов <RT_BlueMed>почти не осталось выносливости</>, их <RT_BlueMed>индикатор здоровья начнет пульсировать</>. Это хороший момент, чтобы попытаться вывести их из равновесия.",
     "bel": "<RT_BlueMed>Атака, скачкі, спрынт або блакіраванне</> выдаткоўваюць вашу <RT_BlueMed>цягавітасць</>. <lf><lf>Некаторыя дзеянні, такія як <RT_BlueMed>моцныя атакі</>, могуць быць выкананы толькі пры наяўнасці <RT_BlueMed>дастатковай колькасці цягавітасці</>. <lf><lf>Праціўнікі таксама могуць зменшыць вашу цягавітасць з дапамогай <RT_BlueMed>заклінанняў або атак</>. Упэўніцеся, што яны не вычарпалі вашу цягавітасць, інакш вас можа <RT_BlueMed>вывесці з раўнавагі</>.<lf><lf>• <RT_BlueMed>Фізічныя атакі</>, якія вычарпваюць вашу цягавітасць, напрыклад, блакіраванне атакі, на кароткі час <RT_BlueMed>аглушаць</> вас.<lf>• <RT_BlueMed>Магічныя эфекты</>, якія вычарпваюць вашу цягавітасць, <RT_BlueMed>скінуць вас з ног</>.<lf><lf>Калі ў ворагаў <RT_BlueMed>амаль не засталося цягавітасці</>, іх <RT_BlueMed>індыкатар здароўя пачне пульсаваць</>. Гэта добры момант, каб паспрабаваць вывесці іх з раўнавагі.",
@@ -3121,7 +3121,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryContent_Clairvoyance",
-    "custom": "",
+    "custom": "Пры выкарыстанні заклінання Яснабачання ствараецца блакітнае святло, якое <RT_BlueMed>накіруе вас да вашай бягучай мэты</>.<lf><lf>У той час як маркер задання на вашым компасе паказвае кірунак па прамой да вашай бягучай мэты, Яснабачанне паказвае шлях, <RT_BlueMed>прымаючы пад увагу ўсе павароты і выгібы</>.<lf><lf>Гэта можа быць вельмі карысна, калі вы заблудзіцеся ў звілістай пячоры ці руінах.",
     "en": "When cast, the Clairvoyance spell creates a a blue light that will <RT_BlueMed>guide you to your current objective</>.<lf><lf>While your compass' quest marker shows you the straight-line direction to your current objective, Clairvoyance shows you the path, <RT_BlueMed>taking into account the twists and turns</>.<lf><lf>This can be very useful if you become lost in a tortuous cave or ruin.",
     "ru": "При применении заклинания Ясновидения создается голубой свет, который <RT_BlueMed>направит вас к вашей текущей цели</>.<lf><lf>В то время как маркер задания на вашем компасе показывает направление по прямой к вашей текущей цели, Ясновидение указывает путь, <RT_BlueMed>принимая во внимание все повороты и изгибы</>.<lf><lf>Это может быть очень полезно, если вы заблудитесь в извилистой пещере или руинах.",
     "bel": "Пры выкарыстанні заклінання Яснабачання ствараецца блакітнае святло, якое <RT_BlueMed>накіруе вас да вашай бягучай мэты</>.<lf><lf>У той час як маркер задання на вашым компасе паказвае кірунак па прамой да вашай бягучай мэты, Яснабачанне паказвае шлях, <RT_BlueMed>прымаючы пад увагу ўсе павароты і выгібы</>.<lf><lf>Гэта можа быць вельмі карысна, калі вы заблудзіцеся ў звілістай пячоры ці руінах.",
@@ -3129,7 +3129,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryContent_CombatSkills",
-    "custom": "",
+    "custom": "Дасягнуўшы <RT_BlueMed>пэўных этапаў</> у межах навыку, вы <RT_BlueMed>атрымаеце звязаныя з ім перкі</>. У гэтым раздзеле падрабязна апісаны навыкі і перкі, звязаныя з боем.<lf> <lf><img id=\"Blade\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• КЛІНОК •</><lf>Навык \"Клінок\" уплывае на тое, колькі <RT_BlueMed>шкоды</> вы наносіце <RT_BlueMed>клінковай зброяй</>, такой як кінжалы, кароткія мячы, доўгія мячы і клейморы.<lf><lf>• <RT_BlueMed>Навічок</> не мае асаблівага перка.<lf>• Сілавыя атакі <RT_BlueMed>Вучня</> наносяць на 20% больш шкоды, і іх зброя на 20% мацнейшая.<lf>• Сілавыя атакі <RT_BlueMed>Падмайстра</> накладаюць 15% Уразлівасць да звычайнай зброі на 5 секунд.<lf>• Звычайныя атакі <RT_BlueMed>Эксперта</> маюць 20% шанец выклікаць у цэлі Кровазліццё на 3 секунды.<lf>• Сілавыя атакі <RT_BlueMed>Майстра</> накладаюць 30% Уразлівасць да звычайнай зброі на 10 секунд.<lf><lf>Каб <RT_BlueMed>павысіць свой узровень</> у навыку \"Клінок\", біце праціўнікаў <RT_BlueMed>кінжаламі, кароткімі мячамі, доўгімі мячамі ці клейморамі</>.<lf><lf><img id=\"Blunt\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ДРАБНЯЛЬНАЕ •</><lf>Навык \"Драбняльнае\" уплывае на тое, колькі <RT_BlueMed>шкоды</> вы наносіце <RT_BlueMed>драбняльнай зброяй</>, такой як баявыя сякеры, булавы, сякеры-молаты і баявыя молаты.<lf><lf>• <RT_BlueMed>Навічок</> не мае асаблівага перка.<lf>• Сілавыя атакі <RT_BlueMed>Вучня</> наносяць на 20% больш шкоды, і іх зброя на 20% мацнейшая.<lf>• Сілавыя атакі <RT_BlueMed>Падмайстра</> даюць 15% Шчыта на 5 секунд.<lf>• Звычайныя атакі <RT_BlueMed>Эксперта</> маюць 20% шанец накласці Маўчанне на 10 секунд.<lf>• Сілавыя атакі <RT_BlueMed>Майстра</> даюць 30% Шчыта на 10 секунд.<lf><lf>Каб <RT_BlueMed>павысіць свой узровень</> у навыку \"Драбняльнае\", біце праціўнікаў <RT_BlueMed>баявымі сякерамі, булавамі, сякерамі-молатамі ці баявымі молатамі</>.<lf><lf><img id=\"HandToHand\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• РУКАПАШНЫ БОЙ •</><lf>Навык \"Рукапашны бой\" уплывае на тое, колькі <RT_BlueMed>шкоды</> вы наносіце <RT_BlueMed>голымі рукамі</>.<lf><lf>• Атакі <RT_BlueMed>Навічка</> дадаткова наносяць шкоду Вынослівасці, роўную 50% ад шкоды Здароўю. Яны не адкідваюць узброеных праціўнікаў пры блакаванні іх атак.<lf>• Сілавыя атакі <RT_BlueMed>Вучня</> наносяць на 20% больш шкоды, і яны заўсёды адкідваюць праціўнікаў пры блакаванні.<lf>• Сілавыя атакі <RT_BlueMed>Падмайстра</> маюць 25% шанец раззброіць праціўнікаў.<lf>• Атакі <RT_BlueMed>Эксперта</> наносяць шкоду Вынослівасці, роўную 75% ад шкоды Здароўю.<lf>• Атакі <RT_BlueMed>Майстра</> наносяць шкоду Вынослівасці, роўную 100% ад шкоды Здароўю.<lf><lf>Каб <RT_BlueMed>павысіць свой узровень</> у навыку \"Рукапашны бой\", біце праціўнікаў сваімі <RT_BlueMed>голымі кулакамі</>.<lf><lf><img id=\"Block\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• БЛОК •</><lf>Навык \"Блок\" уплывае на тое, колькі <RT_BlueMed>шкоды</> вы <RT_BlueMed>змякчаеце</> пры блакаванні атакі.<lf><lf>• Шчыт або зброя <RT_BlueMed>Навічка</> губляюць трываласць пры блакаванні атакі.<lf>• Шчыт або зброя <RT_BlueMed>Вучня</> больш не губляюць трываласць пры блакаванні атакі.<lf>• <RT_BlueMed>Падмайстар</> спажывае на 25% менш Вынослівасці пры блакаванні атакі.<lf>• <RT_BlueMed>Эксперт</> спажывае на 50% менш Вынослівасці пры блакаванні атакі і можа выконваць Шчытовы ўдар, які аглушае яго праціўнікаў.<lf>• <RT_BlueMed>Майстар</> спажывае на 75% менш Вынослівасці пры блакаванні атакі і наносіць на 150% больш шкоды, калі выконвае Шчытовы ўдар.<lf><lf>Каб <RT_BlueMed>павысіць свой узровень</> у навыку \"Блок\", <RT_BlueMed>блакуйце</> атакі вашых праціўнікаў.<lf><lf><img id=\"Armorer\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• БРАННІК •</><lf>Навык \"Браннік\" уплывае на вашу здольнасць <RT_BlueMed>падтрымліваць зброю і браню ў найлепшым стане</>. Зламаная зброя і браня значна менш эфектыўныя.<lf><lf>• <RT_BlueMed>Навічок</> не можа рамантаваць магічныя прадметы.<lf>• <RT_BlueMed>Вучань</> можа рамантаваць магічныя прадметы.<lf>• Рамонтныя молаты <RT_BlueMed>Падмайстра</> служаць у два разы даўжэй.<lf>• <RT_BlueMed>Эксперт</> можа рамантаваць прадметы вышэй за іх максімальны стан, да 125%. Палепшаная зброя наносіць дадатковую шкоду, палепшаная броня абараняе лепш.<lf>• У <RT_BlueMed>Майстра</> ніколі не ламаюцца рамонтныя молаты. Аднаго молата хапае на ўсё жыццё.<lf><lf>Каб <RT_BlueMed>павысіць свой узровень</> у навыку \"Браннік\", <RT_BlueMed>рамантуйце</> сваю зброю і рыштунак, выкарыстоўваючы Рамонтныя молаты.<lf><lf><img id=\"HeavyArmor\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ЦЯЖКАЯ БРАНЯ •</><lf>Навык \"Цяжкая браня\" уплывае на вашу здольнасць больш эфектыўна выкарыстоўваць <RT_BlueMed>цяжкую браню</>.<lf><lf>• Цяжкая браня <RT_BlueMed>Навічка</> зношваецца на 50% хутчэй.<lf>• Цяжкая браня <RT_BlueMed>Вучня</> зношваецца з нармальнай хуткасцю.<lf>• Цяжкая браня <RT_BlueMed>Падмайстра</> зношваецца на 50% павольней.<lf>• Экіпіраваная Цяжкая браня <RT_BlueMed>Эксперта</> абцяжарвае іх толькі на 50%.<lf>• Экіпіраваная Цяжкая браня <RT_BlueMed>Майстра</> зусім не абцяжарвае іх.<lf><lf>Каб <RT_BlueMed>павысіць свой узровень</> у навыку \"Цяжкая браня\", <RT_BlueMed>атрымлівайце шкоду</> у экіпіроўцы з Цяжкай броні.<lf><lf><img id=\"Athletics\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• АТЛЕТЫКА •</><lf>Навык \"Атлетыка\" уплывае на тое, як хутка вы <RT_BlueMed>бегаеце, плаваеце і паскараецеся</>.<lf><lf>• <RT_BlueMed>Навічок</> аднаўляе сваю Вынослівасць на 25% павольней пры бегу.<lf>• <RT_BlueMed>Вучань</> аднаўляе сваю Вынослівасць з нармальнай хуткасцю пры бегу.<lf>• <RT_BlueMed>Падмайстар</> спажывае на 30% менш Вынослівасці пры паскарэнні.<lf>• <RT_BlueMed>Эксперт</> спажывае на 60% менш Вынослівасці пры паскарэнні.<lf>• <RT_BlueMed>Майстар</> больш не спажывае Вынослівасць пры паскарэнні.<lf><lf>Каб <RT_BlueMed>павысіць свой узровень</> у навыку \"Атлетыка\", <RT_BlueMed>бегайце, паскарайцеся або плавайце</> на вялікія адлегласці.",
     "en": "As you reach <RT_BlueMed>specific milestones</> within a skill, you will <RT_BlueMed>gain its associated perks</>. This section details the combat-related skills and perks.<lf> <lf><img id=\"Blade\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• BLADE •</><lf>The Blade Skill affects how much <RT_BlueMed>damage</> you deal with <RT_BlueMed>Blade weapons</>, such as Daggers, Shortswords, Longswords and Claymores.<lf><lf>• A <RT_BlueMed>Novice</> has no particular perk.<lf>• An <RT_BlueMed>Apprentice</>'s Power Attacks deal 20% more damage, and their weapons are 20% more durable.<lf>• A <RT_BlueMed>Journeyman</>'s Power Attacks apply a 15% Weakness to Normal Weapons for 5 seconds.<lf>• An <RT_BlueMed>Expert</>'s Regular Attacks have a 20% chance to make the target Bleed for 3 seconds.<lf>• A <RT_BlueMed>Master</>'s Power Attacks apply a 30% Weakness to Normal Weapons for 10 seconds.<lf><lf>To <RT_BlueMed>increase your level</> in Blade, hit your opponents with <RT_BlueMed>Daggers, Shortswords, Longswords or Claymores</>.<lf><lf><img id=\"Blunt\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• BLUNT •</><lf>The Blunt Skill affects how much <RT_BlueMed>damage</> you do with <RT_BlueMed>Blunt weapons</>, such as War Axes, Maces, Battle-Axes and Warhammers.<lf><lf>• A <RT_BlueMed>Novice</> has no particular perk.<lf>• An <RT_BlueMed>Apprentice</>'s Power Attacks deal 20% more damage, and their weapons are 20% more durable.<lf>• A <RT_BlueMed>Journeyman</>'s Power Attacks grant 15% Shield for 5 seconds. <lf>• An <RT_BlueMed>Expert</>'s Regular Attacks have a 20% chance to apply Silence for 10 seconds. <lf>• A <RT_BlueMed>Master</>'s Power Attacks grant 30% Shield for 10 seconds. <lf><lf>To <RT_BlueMed>increase your level</> in Blunt, hit your opponents with <RT_BlueMed>War Axes, Maces, Battle-Axes or Warhammers</>.<lf><lf><img id=\"HandToHand\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• HAND-TO-HAND •</><lf>The Hand-To-Hand Skill affects how much <RT_BlueMed>damage</> you do with your <RT_BlueMed>bare hands</>.<lf><lf>• A <RT_BlueMed>Novice</>'s attacks additionally deal Fatigue damage equal to 50% of their Health damage. They do not recoil armed opponents when blocking their attacks.<lf>• An <RT_BlueMed>Apprentice</>'s Power Attacks deal 20% more damage, and they always recoil their opponents when blocking.<lf>• A <RT_BlueMed>Journeyman</>'s Power Attacks have a 25% chance to disarm their opponents.<lf>• An <RT_BlueMed>Expert</>'s attacks deal Fatigue damage equal to 75% of their Health Damage.<lf>• A <RT_BlueMed>Master</>'s attacks deal Fatigue damage equal to 100% of their Health Damage.<lf><lf>To <RT_BlueMed>increase your level</> in Hand-to-hand, hit your opponents with your <RT_BlueMed>bare fists</>.<lf><lf><img id=\"Block\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• BLOCK •</><lf>The Block Skill affects how much <RT_BlueMed>damage</> you <RT_BlueMed>mitigate</> when blocking an attack.<lf><lf>• A <RT_BlueMed>Novice</>'s shield or weapon lose durability when blocking an attack.<lf>• An <RT_BlueMed>Apprentice</>'s shield or weapon no longer lose durability when blocking an attack.<lf>• A <RT_BlueMed>Journeyman</> consumes 25% less Fatigue when blocking an attack.<lf>• An <RT_BlueMed>Expert</> consumes 50% less Fatigue when blocking an attack, and can perform a Shield Bash that staggers their opponents. <lf>• A <RT_BlueMed>Master</> consumes 75% less Fatigue when blocking an attack and deals 150% more damage when they Shield Bash.<lf><lf>To <RT_BlueMed>increase your level</> in Block, <RT_BlueMed>block</> your opponents attacks.<lf><lf><img id=\"Armorer\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ARMORER •</><lf>The Armorer Skill affects your ability to <RT_BlueMed>maintain weapons and armor at top efficiency</>. Broken weapons and armor are much less effective.<lf><lf>• A <RT_BlueMed>Novice</> cannot repair magic items.<lf>• An <RT_BlueMed>Apprentice</> can repair magic items.<lf>• A <RT_BlueMed>Journeyman</>'s Repair Hammers last twice as long.<lf>• An <RT_BlueMed>Expert</> can repair items beyond their highest condition, up to 125%. Improved weapons do extra damage, improved armors protect more.<lf>• A <RT_BlueMed>Master</> never breaks Repair Hammers. One hammer lasts a lifetime.<lf><lf>To <RT_BlueMed>increase your level</> in Armorer, <RT_BlueMed>repair</> your weapons and gear using Repair Hammers.<lf><lf><img id=\"HeavyArmor\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• HEAVY ARMOR •</><lf>The Heavy Armor Skill affects your ability to use <RT_BlueMed>Heavy armors</> more effectively.<lf><lf>• A <RT_BlueMed>Novice</>'s Heavy Armor degrades 50% faster.<lf>• An <RT_BlueMed>Apprentice</>'s Heavy Armor degrades at a normal rate.<lf>• A <RT_BlueMed>Journeyman</>'s Heavy Armor degrades 50% slower.<lf>• An <RT_BlueMed>Expert</>'s equipped Heavy Armor only encumbers them by 50%.<lf>• A <RT_BlueMed>Master</>'s equipped Heavy Armor does not encumber them at all.<lf><lf>To <RT_BlueMed>increase your level</> in Heavy Armor, <RT_BlueMed>get hit</> while wearing Heavy Armor gear.<lf><lf><img id=\"Athletics\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ATHLETICS •</><lf>The Athletics Skill affects how quickly you <RT_BlueMed>run, swim and sprint</>.<lf><lf>• A <RT_BlueMed>Novice</> regenerates their Fatigue 25% more slowly when running.<lf>• An <RT_BlueMed>Apprentice</> regenerates their Fatigue at a normal rate when running.<lf>• A <RT_BlueMed>Journeyman</> consumes 30% less Fatigue while sprinting.<lf>• An <RT_BlueMed>Expert</> consumes 60% less Fatigue while sprinting.<lf>• A <RT_BlueMed>Master</> no longer consumes any Fatigue while sprinting. <lf><lf>To <RT_BlueMed>increase your level</> in Athletics, <RT_BlueMed>run, sprint or swim</> great distances.",
     "ru": "Достигнув <RT_BlueMed>определённых этапов</> в рамках навыка, вы <RT_BlueMed>получите связанные с ним перки</>. В этом разделе подробно описаны навыки и перки, связанные с боем.<lf> <lf><img id=\"Blade\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• КЛИНОК •</><lf>Навык \"Клинок\" влияет на то, сколько <RT_BlueMed>урона</> вы наносите <RT_BlueMed>клинковым оружием</>, таким как кинжалы, короткие мечи, длинные мечи и клейморы.<lf><lf>• <RT_BlueMed>Новичок</> не имеет особого перка.<lf>• Силовые атаки <RT_BlueMed>Ученика</> наносят на 20% больше урона, и их оружие на 20% прочнее.<lf>• Силовые атаки <RT_BlueMed>Подмастерья</> накладывают 15% Уязвимость к обычному оружию на 5 секунд.<lf>• Обычные атаки <RT_BlueMed>Эксперта</> имеют 20% шанс вызвать у цели Кровотечение на 3 секунды.<lf>• Силовые атаки <RT_BlueMed>Мастера</> накладывают 30% Уязвимость к обычному оружию на 10 секунд.<lf><lf>Чтобы <RT_BlueMed>повысить свой уровень</> в навыке \"Клинок\", бейте противников <RT_BlueMed>кинжалами, короткими мечами, длинными мечами или клейморами</>.<lf><lf><img id=\"Blunt\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ДРОБЯЩЕЕ •</><lf>Навык \"Дробящее\" влияет на то, сколько <RT_BlueMed>урона</> вы наносите <RT_BlueMed>дробящим оружием</>, таким как боевые топоры, булавы, секиры и боевые молоты.<lf><lf>• <RT_BlueMed>Новичок</> не имеет особого перка.<lf>• Силовые атаки <RT_BlueMed>Ученика</> наносят на 20% больше урона, и их оружие на 20% прочнее.<lf>• Силовые атаки <RT_BlueMed>Подмастерья</> дают 15% Щита на 5 секунд.<lf>• Обычные атаки <RT_BlueMed>Эксперта</> имеют 20% шанс наложить Безмолвие на 10 секунд.<lf>• Силовые атаки <RT_BlueMed>Мастера</> дают 30% Щита на 10 секунд.<lf><lf>Чтобы <RT_BlueMed>повысить свой уровень</> в навыке \"Дробящее\", бейте противников <RT_BlueMed>боевыми топорами, булавами, секирами или боевыми молотами</>.<lf><lf><img id=\"HandToHand\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• РУКОПАШНЫЙ БОЙ •</><lf>Навык \"Рукопашный бой\" влияет на то, сколько <RT_BlueMed>урона</> вы наносите <RT_BlueMed>голыми руками</>.<lf><lf>• Атаки <RT_BlueMed>Новичка</> дополнительно наносят урон Выносливости, равный 50% от урона Здоровью. Они не отбрасывают вооруженных противников при блокировании их атак.<lf>• Силовые атаки <RT_BlueMed>Ученика</> наносят на 20% больше урона, и они всегда отбрасывают противников при блокировании.<lf>• Силовые атаки <RT_BlueMed>Подмастерья</> имеют 25% шанс разоружить противников.<lf>• Атаки <RT_BlueMed>Эксперта</> наносят урон Выносливости, равный 75% от урона Здоровью.<lf>• Атаки <RT_BlueMed>Мастера</> наносят урон Выносливости, равный 100% от урона Здоровью.<lf><lf>Чтобы <RT_BlueMed>повысить свой уровень</> в навыке \"Рукопашный бой\", бейте противников своими <RT_BlueMed>голыми кулаками</>.<lf><lf><img id=\"Block\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• БЛОК •</><lf>Навык \"Блок\" влияет на то, сколько <RT_BlueMed>урона</> вы <RT_BlueMed>смягчаете</> при блокировании атаки.<lf><lf>• Щит или оружие <RT_BlueMed>Новичка</> теряют прочность при блокировании атаки.<lf>• Щит или оружие <RT_BlueMed>Ученика</> больше не теряют прочность при блокировании атаки.<lf>• <RT_BlueMed>Подмастерье</> потребляет на 25% меньше Выносливости при блокировании атаки.<lf>• <RT_BlueMed>Эксперт</> потребляет на 50% меньше Выносливости при блокировании атаки и может выполнять Щитовой удар, который оглушает его противников.<lf>• <RT_BlueMed>Мастер</> потребляет на 75% меньше Выносливости при блокировании атаки и наносит на 150% больше урона, когда выполняет Щитовой удар.<lf><lf>Чтобы <RT_BlueMed>повысить свой уровень</> в навыке \"Блок\", <RT_BlueMed>блокируйте</> атаки ваших противников.<lf><lf><img id=\"Armorer\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• БРОННИК •</><lf>Навык \"Бронник\" влияет на вашу способность <RT_BlueMed>поддерживать оружие и броню в наилучшем состоянии</>. Сломанное оружие и броня гораздо менее эффективны.<lf><lf>• <RT_BlueMed>Новичок</> не может ремонтировать магические предметы.<lf>• <RT_BlueMed>Ученик</> может ремонтировать магические предметы.<lf>• Ремонтные молотки <RT_BlueMed>Подмастерья</> служат в два раза дольше.<lf>• <RT_BlueMed>Эксперт</> может ремонтировать предметы выше их максимального состояния, до 125%. Улучшенное оружие наносит дополнительный урон, улучшенная броня защищает лучше.<lf>• У <RT_BlueMed>Мастера</> никогда не ломаются ремонтные молотки. Одного молотка хватает на всю жизнь.<lf><lf>Чтобы <RT_BlueMed>повысить свой уровень</> в навыке \"Бронник\", <RT_BlueMed>ремонтируйте</> своё оружие и снаряжение, используя Ремонтные молотки.<lf><lf><img id=\"HeavyArmor\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ТЯЖЁЛАЯ БРОНЯ •</><lf>Навык \"Тяжёлая броня\" влияет на вашу способность более эффективно использовать <RT_BlueMed>тяжёлую броню</>.<lf><lf>• Тяжёлая броня <RT_BlueMed>Новичка</> изнашивается на 50% быстрее.<lf>• Тяжёлая броня <RT_BlueMed>Ученика</> изнашивается с нормальной скоростью.<lf>• Тяжёлая броня <RT_BlueMed>Подмастерья</> изнашивается на 50% медленнее.<lf>• Экипированная Тяжёлая броня <RT_BlueMed>Эксперта</> отягощает их только на 50%.<lf>• Экипированная Тяжёлая броня <RT_BlueMed>Мастера</> совсем не отягощает их.<lf><lf>Чтобы <RT_BlueMed>повысить свой уровень</> в навыке \"Тяжёлая броня\", <RT_BlueMed>получайте урон</> в экипировке из Тяжёлой брони.<lf><lf><img id=\"Athletics\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• АТЛЕТИКА •</><lf>Навык \"Атлетика\" влияет на то, как быстро вы <RT_BlueMed>бегаете, плаваете и ускоряетесь</>.<lf><lf>• <RT_BlueMed>Новичок</> восстанавливает свою Выносливость на 25% медленнее при беге.<lf>• <RT_BlueMed>Ученик</> восстанавливает свою Выносливость с нормальной скоростью при беге.<lf>• <RT_BlueMed>Подмастерье</> потребляет на 30% меньше Выносливости при ускорении.<lf>• <RT_BlueMed>Эксперт</> потребляет на 60% меньше Выносливости при ускорении.<lf>• <RT_BlueMed>Мастер</> больше не потребляет Выносливость при ускорении.<lf><lf>Чтобы <RT_BlueMed>повысить свой уровень</> в навыке \"Атлетика\", <RT_BlueMed>бегайте, ускоряйтесь или плавайте</> на большие расстояния.",
     "bel": "Дасягнуўшы <RT_BlueMed>пэўных этапаў</> у межах навыку, вы <RT_BlueMed>атрымаеце звязаныя з ім перкі</>. У гэтым раздзеле падрабязна апісаны навыкі і перкі, звязаныя з боем.<lf> <lf><img id=\"Blade\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• КЛІНОК •</><lf>Навык \"Клінок\" уплывае на тое, колькі <RT_BlueMed>шкоды</> вы наносіце <RT_BlueMed>клінковай зброяй</>, такой як кінжалы, кароткія мячы, доўгія мячы і клейморы.<lf><lf>• <RT_BlueMed>Навічок</> не мае асаблівага перка.<lf>• Сілавыя атакі <RT_BlueMed>Вучня</> наносяць на 20% больш шкоды, і іх зброя на 20% мацнейшая.<lf>• Сілавыя атакі <RT_BlueMed>Падмайстра</> накладаюць 15% Уразлівасць да звычайнай зброі на 5 секунд.<lf>• Звычайныя атакі <RT_BlueMed>Эксперта</> маюць 20% шанец выклікаць у цэлі Кровазліццё на 3 секунды.<lf>• Сілавыя атакі <RT_BlueMed>Майстра</> накладаюць 30% Уразлівасць да звычайнай зброі на 10 секунд.<lf><lf>Каб <RT_BlueMed>павысіць свой узровень</> у навыку \"Клінок\", біце праціўнікаў <RT_BlueMed>кінжаламі, кароткімі мячамі, доўгімі мячамі ці клейморамі</>.<lf><lf><img id=\"Blunt\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ДРАБНЯЛЬНАЕ •</><lf>Навык \"Драбняльнае\" уплывае на тое, колькі <RT_BlueMed>шкоды</> вы наносіце <RT_BlueMed>драбняльнай зброяй</>, такой як баявыя сякеры, булавы, сякеры-молаты і баявыя молаты.<lf><lf>• <RT_BlueMed>Навічок</> не мае асаблівага перка.<lf>• Сілавыя атакі <RT_BlueMed>Вучня</> наносяць на 20% больш шкоды, і іх зброя на 20% мацнейшая.<lf>• Сілавыя атакі <RT_BlueMed>Падмайстра</> даюць 15% Шчыта на 5 секунд.<lf>• Звычайныя атакі <RT_BlueMed>Эксперта</> маюць 20% шанец накласці Маўчанне на 10 секунд.<lf>• Сілавыя атакі <RT_BlueMed>Майстра</> даюць 30% Шчыта на 10 секунд.<lf><lf>Каб <RT_BlueMed>павысіць свой узровень</> у навыку \"Драбняльнае\", біце праціўнікаў <RT_BlueMed>баявымі сякерамі, булавамі, сякерамі-молатамі ці баявымі молатамі</>.<lf><lf><img id=\"HandToHand\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• РУКАПАШНЫ БОЙ •</><lf>Навык \"Рукапашны бой\" уплывае на тое, колькі <RT_BlueMed>шкоды</> вы наносіце <RT_BlueMed>голымі рукамі</>.<lf><lf>• Атакі <RT_BlueMed>Навічка</> дадаткова наносяць шкоду Вынослівасці, роўную 50% ад шкоды Здароўю. Яны не адкідваюць узброеных праціўнікаў пры блакаванні іх атак.<lf>• Сілавыя атакі <RT_BlueMed>Вучня</> наносяць на 20% больш шкоды, і яны заўсёды адкідваюць праціўнікаў пры блакаванні.<lf>• Сілавыя атакі <RT_BlueMed>Падмайстра</> маюць 25% шанец раззброіць праціўнікаў.<lf>• Атакі <RT_BlueMed>Эксперта</> наносяць шкоду Вынослівасці, роўную 75% ад шкоды Здароўю.<lf>• Атакі <RT_BlueMed>Майстра</> наносяць шкоду Вынослівасці, роўную 100% ад шкоды Здароўю.<lf><lf>Каб <RT_BlueMed>павысіць свой узровень</> у навыку \"Рукапашны бой\", біце праціўнікаў сваімі <RT_BlueMed>голымі кулакамі</>.<lf><lf><img id=\"Block\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• БЛОК •</><lf>Навык \"Блок\" уплывае на тое, колькі <RT_BlueMed>шкоды</> вы <RT_BlueMed>змякчаеце</> пры блакаванні атакі.<lf><lf>• Шчыт або зброя <RT_BlueMed>Навічка</> губляюць трываласць пры блакаванні атакі.<lf>• Шчыт або зброя <RT_BlueMed>Вучня</> больш не губляюць трываласць пры блакаванні атакі.<lf>• <RT_BlueMed>Падмайстар</> спажывае на 25% менш Вынослівасці пры блакаванні атакі.<lf>• <RT_BlueMed>Эксперт</> спажывае на 50% менш Вынослівасці пры блакаванні атакі і можа выконваць Шчытовы ўдар, які аглушае яго праціўнікаў.<lf>• <RT_BlueMed>Майстар</> спажывае на 75% менш Вынослівасці пры блакаванні атакі і наносіць на 150% больш шкоды, калі выконвае Шчытовы ўдар.<lf><lf>Каб <RT_BlueMed>павысіць свой узровень</> у навыку \"Блок\", <RT_BlueMed>блакуйце</> атакі вашых праціўнікаў.<lf><lf><img id=\"Armorer\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• БРАННІК •</><lf>Навык \"Браннік\" уплывае на вашу здольнасць <RT_BlueMed>падтрымліваць зброю і браню ў найлепшым стане</>. Зламаная зброя і браня значна менш эфектыўныя.<lf><lf>• <RT_BlueMed>Навічок</> не можа рамантаваць магічныя прадметы.<lf>• <RT_BlueMed>Вучань</> можа рамантаваць магічныя прадметы.<lf>• Рамонтныя молаты <RT_BlueMed>Падмайстра</> служаць у два разы даўжэй.<lf>• <RT_BlueMed>Эксперт</> можа рамантаваць прадметы вышэй за іх максімальны стан, да 125%. Палепшаная зброя наносіць дадатковую шкоду, палепшаная броня абараняе лепш.<lf>• У <RT_BlueMed>Майстра</> ніколі не ламаюцца рамонтныя молаты. Аднаго молата хапае на ўсё жыццё.<lf><lf>Каб <RT_BlueMed>павысіць свой узровень</> у навыку \"Браннік\", <RT_BlueMed>рамантуйце</> сваю зброю і рыштунак, выкарыстоўваючы Рамонтныя молаты.<lf><lf><img id=\"HeavyArmor\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ЦЯЖКАЯ БРАНЯ •</><lf>Навык \"Цяжкая браня\" уплывае на вашу здольнасць больш эфектыўна выкарыстоўваць <RT_BlueMed>цяжкую браню</>.<lf><lf>• Цяжкая браня <RT_BlueMed>Навічка</> зношваецца на 50% хутчэй.<lf>• Цяжкая браня <RT_BlueMed>Вучня</> зношваецца з нармальнай хуткасцю.<lf>• Цяжкая браня <RT_BlueMed>Падмайстра</> зношваецца на 50% павольней.<lf>• Экіпіраваная Цяжкая браня <RT_BlueMed>Эксперта</> абцяжарвае іх толькі на 50%.<lf>• Экіпіраваная Цяжкая браня <RT_BlueMed>Майстра</> зусім не абцяжарвае іх.<lf><lf>Каб <RT_BlueMed>павысіць свой узровень</> у навыку \"Цяжкая браня\", <RT_BlueMed>атрымлівайце шкоду</> у экіпіроўцы з Цяжкай броні.<lf><lf><img id=\"Athletics\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• АТЛЕТЫКА •</><lf>Навык \"Атлетыка\" уплывае на тое, як хутка вы <RT_BlueMed>бегаеце, плаваеце і паскараецеся</>.<lf><lf>• <RT_BlueMed>Навічок</> аднаўляе сваю Вынослівасць на 25% павольней пры бегу.<lf>• <RT_BlueMed>Вучань</> аднаўляе сваю Вынослівасць з нармальнай хуткасцю пры бегу.<lf>• <RT_BlueMed>Падмайстар</> спажывае на 30% менш Вынослівасці пры паскарэнні.<lf>• <RT_BlueMed>Эксперт</> спажывае на 60% менш Вынослівасці пры паскарэнні.<lf>• <RT_BlueMed>Майстар</> больш не спажывае Вынослівасць пры паскарэнні.<lf><lf>Каб <RT_BlueMed>павысіць свой узровень</> у навыку \"Атлетыка\", <RT_BlueMed>бегайце, паскарайцеся або плавайце</> на вялікія адлегласці.",
@@ -3137,7 +3137,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryContent_Compass",
-    "custom": "",
+    "custom": "Компас паказвае <RT_BlueMed>бакі свету</> (поўнач, поўдзень, усход і захад), а таксама <RT_BlueMed>блізкія славутасці</> і <RT_BlueMed>маркеры заданняў</>.<lf><lf><img id=\"Map_Camp\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Лагер</><lf><img id=\"Map_ElvenRuin\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Айлейдскія руіны</><lf><img id=\"Map_OblivionGate\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Брама Аблівіёна</><lf><img id=\"Map_Cave\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Пячора</><lf><img id=\"Map_FortRuin\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Форт</><lf><img id=\"Map_Settlement\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Паселішча</><lf><img id=\"Map_City\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Горад</><lf><img id=\"Map_Mine\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Шахта</><lf><img id=\"Map_Inns\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Карчма</><lf><img id=\"Map_DaedricShrine\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Свяцілішча Даэдра</><lf><lf>Маркеры заданняў адлюстроўваюцца на компасе, паказваючы кірунак да бягучай актыўнай мэты задання:<lf>• <RT_BlueMed>Чырвоная стрэлка</> азначае, што вам неабходна <RT_BlueMed>прайсці праз дзверы або партал</>, каб дасягнуць мэты.<lf>• <RT_BlueMed>Зялёная стрэлка</> азначае, што вы <RT_BlueMed>ўжо знаходзіцеся ў той жа агульнай лакацыі</>, што і ваша мэта.<lf>• <RT_BlueMed>Сіняя стрэлка</> паказвае на <RT_BlueMed>карыстальніцкі маркер, які вы самі ўстанавілі</> на карце.",
     "en": "The compass shows the <RT_BlueMed>cardinal directions</> (North, South, East and West), as well as <RT_BlueMed>nearby places of interests</> and <RT_BlueMed>quest markers</>.<lf><lf><img id=\"Map_Camp\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Camp</><lf><img id=\"Map_ElvenRuin\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Ayleid Ruin</><lf><img id=\"Map_OblivionGate\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Oblivion Gate</><lf><img id=\"Map_Cave\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Cave</><lf><img id=\"Map_FortRuin\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Fort</><lf><img id=\"Map_Settlement\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Settlement</><lf><img id=\"Map_City\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>City</><lf><img id=\"Map_Mine\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Mine</><lf><img id=\"Map_Inns\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Inn</><lf><img id=\"Map_DaedricShrine\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Daedric Shrine</><lf><lf>Quest markers appear on the compass to indicate the direction of your current active quest objective:<lf>• <RT_BlueMed>A red arrow</> means you must <RT_BlueMed>travel through a door or portal</> to reach your objective.<lf>• <RT_BlueMed>A green arrow</> means you are <RT_BlueMed>already in the same general location</> as your objective.<lf>• <RT_BlueMed>A blue arrow</> indicates a <RT_BlueMed>custom marker you've placed yourself</> on your map.",
     "ru": "Компас показывает <RT_BlueMed>стороны света</> (север, юг, восток и запад), а также <RT_BlueMed>близлежащие достопримечательности</> и <RT_BlueMed>маркеры заданий</>.<lf><lf><img id=\"Map_Camp\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Лагерь</><lf><img id=\"Map_ElvenRuin\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Айлейдские руины</><lf><img id=\"Map_OblivionGate\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Врата Обливиона</><lf><img id=\"Map_Cave\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Пещера</><lf><img id=\"Map_FortRuin\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Форт</><lf><img id=\"Map_Settlement\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Поселение</><lf><img id=\"Map_City\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Город</><lf><img id=\"Map_Mine\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Шахта</><lf><img id=\"Map_Inns\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Трактир</><lf><img id=\"Map_DaedricShrine\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Святилище Даэдра</><lf><lf>Маркеры заданий отображаются на компасе, указывая направление к текущей активной цели задания:<lf>• <RT_BlueMed>Красная стрелка</> означает, что вам необходимо <RT_BlueMed>пройти через дверь или портал</>, чтобы достичь цели.<lf>• <RT_BlueMed>Зеленая стрелка</> означает, что вы <RT_BlueMed>уже находитесь в той же общей локации</>, что и ваша цель.<lf>• <RT_BlueMed>Синяя стрелка</> указывает на <RT_BlueMed>пользовательский маркер, который вы сами установили</> на карте.",
     "bel": "Компас паказвае <RT_BlueMed>бакі свету</> (поўнач, поўдзень, усход і захад), а таксама <RT_BlueMed>блізкія славутасці</> і <RT_BlueMed>маркеры заданняў</>.<lf><lf><img id=\"Map_Camp\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Лагер</><lf><img id=\"Map_ElvenRuin\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Айлейдскія руіны</><lf><img id=\"Map_OblivionGate\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Брама Аблівіёна</><lf><img id=\"Map_Cave\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Пячора</><lf><img id=\"Map_FortRuin\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Форт</><lf><img id=\"Map_Settlement\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Паселішча</><lf><img id=\"Map_City\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Горад</><lf><img id=\"Map_Mine\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Шахта</><lf><img id=\"Map_Inns\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Карчма</><lf><img id=\"Map_DaedricShrine\" height=\"desired\" width=\"desired\"/> <RT_BlueMed>Свяцілішча Даэдра</><lf><lf>Маркеры заданняў адлюстроўваюцца на компасе, паказваючы кірунак да бягучай актыўнай мэты задання:<lf>• <RT_BlueMed>Чырвоная стрэлка</> азначае, што вам неабходна <RT_BlueMed>прайсці праз дзверы або партал</>, каб дасягнуць мэты.<lf>• <RT_BlueMed>Зялёная стрэлка</> азначае, што вы <RT_BlueMed>ўжо знаходзіцеся ў той жа агульнай лакацыі</>, што і ваша мэта.<lf>• <RT_BlueMed>Сіняя стрэлка</> паказвае на <RT_BlueMed>карыстальніцкі маркер, які вы самі ўстанавілі</> на карце.",
@@ -3145,7 +3145,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryContent_Crimes",
-    "custom": "",
+    "custom": "Наступныя дзеянні лічацца злачынствамі і паведамляюцца як такія, калі вас заўважаць за іх здзяйсненнем:<lf>• <RT_BlueMed>Крадзеж прадметаў або коней</><lf>• <RT_BlueMed>Кішэнныя крадзяжы або ўзлом замкоў</><lf>• <RT_BlueMed>Парушэнне межаў або ўцёкі з турмы</><lf>• <RT_BlueMed>Напад або забойства неварожага персанажа</> (самаабарона не з'яўляецца злачынствам)<lf><lf>Калі пра злачынства паведамляецца, за вашу галаву прызначаецца <RT_BlueMed>ўзнагарода</>, якая адпавядае важнасці злачынства. Вы таксама атрымліваеце <RT_BlueMed>Дурную славу</>.<lf><lf>У вас ёсць некалькі варыянтаў, калі вас ловіць вартаўнік з узнагародай за вашу галаву:<lf><lf>• Вы можаце <RT_BlueMed>выплаціць узнагароду</> за сваю галаву. Скрадзеныя прадметы будуць канфіскаваныя, нават тыя, якія вы скралі, не будучы злоўленым.<lf><lf>• Вы можаце вырашыць <RT_BlueMed>супраціўляцца арышту</>. Вартаўнікі вельмі моцныя і паспрабуюць забіць любога, хто супраціўляецца арышту. Нават калі вам удасца збегчы, вы ўсё роўна будзеце несці адказнасць за ўзнагароду ў наступны раз.<lf><lf>• Вы можаце пагадзіцца <RT_BlueMed>адправіцца ў турму</>.",
     "en": "The following actions are considered crimes and are reported as such if you are seen doing them:<lf>• <RT_BlueMed>Stealing items or horses</><lf>• <RT_BlueMed>Pickpocketing or lockpicking</><lf>• <RT_BlueMed>Trespassing or jailbreaking</><lf>• <RT_BlueMed>Assaulting or killing a non-hostile character</> (defending yourself is not a crime)<lf><lf>When a crime is reported, a <RT_BlueMed>bounty</> is placed on your head, matching the importance of the crime. You also gain <RT_BlueMed>Infamy</>.<lf><lf>You have several options when caught by a Guard with a bounty on you:<lf><lf>• You can <RT_BlueMed>pay off the bounty</> on your head. Stolen items will be taken from you, even those you've stolen without getting caught.<lf><lf>• You can decide to <RT_BlueMed>resist the arrest</>. Guards are very tough and will attempt to kill anyone who resists arrest. Even if you manage to escape, you will still be held accountable for the bounty next time.<lf><lf>• You can agree to <RT_BlueMed>go to jail</>.",
     "ru": "Следующие действия считаются преступлениями и сообщаются как таковые, если вас заметят за их совершением:<lf>• <RT_BlueMed>Кража предметов или лошадей</><lf>• <RT_BlueMed>Карманные кражи или взлом замков</><lf>• <RT_BlueMed>Нарушение границ или побег из тюрьмы</><lf>• <RT_BlueMed>Нападение или убийство невраждебного персонажа</> (самооборона не является преступлением)<lf><lf>Когда о преступлении сообщается, за вашу голову назначается <RT_BlueMed>награда</>, соответствующая важности преступления. Вы также получаете <RT_BlueMed>Дурную славу</>.<lf><lf>У вас есть несколько вариантов, когда вас ловит стражник с наградой за вашу голову:<lf><lf>• Вы можете <RT_BlueMed>выплатить награду</> за свою голову. Украденные предметы будут изъяты, даже те, которые вы украли, не будучи пойманным.<lf><lf>• Вы можете решить <RT_BlueMed>сопротивляться аресту</>. Стражники очень сильны и попытаются убить любого, кто сопротивляется аресту. Даже если вам удастся сбежать, вы все равно будете нести ответственность за награду в следующий раз.<lf><lf>• Вы можете согласиться <RT_BlueMed>отправиться в тюрьму</>.",
     "bel": "Наступныя дзеянні лічацца злачынствамі і паведамляюцца як такія, калі вас заўважаць за іх здзяйсненнем:<lf>• <RT_BlueMed>Крадзеж прадметаў або коней</><lf>• <RT_BlueMed>Кішэнныя крадзяжы або ўзлом замкоў</><lf>• <RT_BlueMed>Парушэнне межаў або ўцёкі з турмы</><lf>• <RT_BlueMed>Напад або забойства неварожага персанажа</> (самаабарона не з'яўляецца злачынствам)<lf><lf>Калі пра злачынства паведамляецца, за вашу галаву прызначаецца <RT_BlueMed>ўзнагарода</>, якая адпавядае важнасці злачынства. Вы таксама атрымліваеце <RT_BlueMed>Дурную славу</>.<lf><lf>У вас ёсць некалькі варыянтаў, калі вас ловіць вартаўнік з узнагародай за вашу галаву:<lf><lf>• Вы можаце <RT_BlueMed>выплаціць узнагароду</> за сваю галаву. Скрадзеныя прадметы будуць канфіскаваныя, нават тыя, якія вы скралі, не будучы злоўленым.<lf><lf>• Вы можаце вырашыць <RT_BlueMed>супраціўляцца арышту</>. Вартаўнікі вельмі моцныя і паспрабуюць забіць любога, хто супраціўляецца арышту. Нават калі вам удасца збегчы, вы ўсё роўна будзеце несці адказнасць за ўзнагароду ў наступны раз.<lf><lf>• Вы можаце пагадзіцца <RT_BlueMed>адправіцца ў турму</>.",
@@ -3153,7 +3153,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryContent_CrosshairIcons",
-    "custom": "",
+    "custom": "Прыцэл у цэнтры экрана дапамагае вам цэліцца ў аб'екты і персанажаў.<lf><lf><RT_BlueMed>Ён будзе змяняцца ў залежнасці ад зброі, якую вы трымаеце, і дзеяння, якое можна выканаць пры навядзенні на штосьці ў свеце.</> Ён будзе ромбападобным, калі вы трымаеце зброю блізкага бою, і крыжападобным пры выкарыстанні дальнабойнай зброі, такой як лук. Пры крадлівым перамяшчэнні ён зменіцца на лінію.<lf><lf>Пры навядзенні на аб'ект прыцэл зменіцца на іконку, якая паказвае наступныя магчымыя дзеянні, калі магчымае дзеянне незаконнае, іконка будзе чырвонай:<lf><lf><img id=\"Crosshair_Sit\"/> <RT_BlueMed>Сесці</><lf><img id=\"Crosshair_Sleep\"/> <RT_BlueMed>Спаць</><lf><img id=\"Crosshair_PullPush\"/> <RT_BlueMed>Штурхаць / Цягнуць</><lf><img id=\"Crosshair_Read\"/> <RT_BlueMed>Прачытаць</><lf><img id=\"Crosshair_TalkImportant\"/> <RT_BlueMed>Пагаварыць з важным персанажам</><lf><img id=\"Crosshair_Talk\"/> <RT_BlueMed>Пагаварыць</><lf><img id=\"Crosshair_RideHorse\"/> <RT_BlueMed>Паехаць на кані</><lf><img id=\"Crosshair_OpenContainer\"/> <RT_BlueMed>Адкрыць кантэйнер</><lf><img id=\"Crosshair_PickUp\"/> <RT_BlueMed>Падняць</><lf><img id=\"Crosshair_OpenDoor\"/> <RT_BlueMed>Адкрыць дзверы</><lf><img id=\"Crosshair_DrinkBlood\"/> <RT_BlueMed>Выпіць кроў</> (толькі для вампіраў)",
     "en": "The crosshair at the center of the screen helps you target objects and characters.<lf><lf><RT_BlueMed>It will change based on the weapon you are wielding and the action you can perform while targetting something in the world.</> It will be diamond shaped when you are wielding a melee weapon and cross shaped when wielding a ranged weapon such as a bow. When sneaking, it will change to a line shape.<lf><lf>When targeting an object, the crosshair will change to an icon showing the following possible actions, if the possible action is illegal then the icon will be red:<lf><lf><img id=\"Crosshair_Sit\"/> <RT_BlueMed>Sit</><lf><img id=\"Crosshair_Sleep\"/> <RT_BlueMed>Sleep</><lf><img id=\"Crosshair_PullPush\"/> <RT_BlueMed>Pull / Push</><lf><img id=\"Crosshair_Read\"/> <RT_BlueMed>Read</><lf><img id=\"Crosshair_TalkImportant\"/> <RT_BlueMed>Talk to an important character</><lf><img id=\"Crosshair_Talk\"/> <RT_BlueMed>Talk</><lf><img id=\"Crosshair_RideHorse\"/> <RT_BlueMed>Ride a horse</><lf><img id=\"Crosshair_OpenContainer\"/> <RT_BlueMed>Open a container</><lf><img id=\"Crosshair_PickUp\"/> <RT_BlueMed>Pick up</><lf><img id=\"Crosshair_OpenDoor\"/> <RT_BlueMed>Open a door</><lf><img id=\"Crosshair_DrinkBlood\"/> <RT_BlueMed>Drink blood</> (Vampire only)",
     "ru": "The crosshair at the center of the screen helps you target objects and characters.<lf><lf><RT_BlueMed>It will change based on the weapon you are wielding and the action you can perform while targetting something in the world.</> It will be diamond shaped when you are wielding a melee weapon and cross shaped when wielding a ranged weapon such as a bow. When sneaking, it will change to a line shape.<lf><lf>When targeting an object, the crosshair will change to an icon showing the following possible actions, if the possible action is illegal then the icon will be red:<lf><lf><img id=\"Crosshair_Sit\"/> <RT_BlueMed>Sit</><lf><img id=\"Crosshair_Sleep\"/> <RT_BlueMed>Sleep</><lf><img id=\"Crosshair_PullPush\"/> <RT_BlueMed>Pull / Push</><lf><img id=\"Crosshair_Read\"/> <RT_BlueMed>Read</><lf><img id=\"Crosshair_TalkImportant\"/> <RT_BlueMed>Talk to an important character</><lf><img id=\"Crosshair_Talk\"/> <RT_BlueMed>Talk</><lf><img id=\"Crosshair_RideHorse\"/> <RT_BlueMed>Ride a horse</><lf><img id=\"Crosshair_OpenContainer\"/> <RT_BlueMed>Open a container</><lf><img id=\"Crosshair_PickUp\"/> <RT_BlueMed>Pick up</><lf><img id=\"Crosshair_OpenDoor\"/> <RT_BlueMed>Open a door</><lf><img id=\"Crosshair_DrinkBlood\"/> <RT_BlueMed>Drink blood</> (Vampire only)",
     "bel": "Прыцэл у цэнтры экрана дапамагае вам цэліцца ў аб'екты і персанажаў.<lf><lf><RT_BlueMed>Ён будзе змяняцца ў залежнасці ад зброі, якую вы трымаеце, і дзеяння, якое можна выканаць пры навядзенні на штосьці ў свеце.</> Ён будзе ромбападобным, калі вы трымаеце зброю блізкага бою, і крыжападобным пры выкарыстанні дальнабойнай зброі, такой як лук. Пры крадлівым перамяшчэнні ён зменіцца на лінію.<lf><lf>Пры навядзенні на аб'ект прыцэл зменіцца на іконку, якая паказвае наступныя магчымыя дзеянні, калі магчымае дзеянне незаконнае, іконка будзе чырвонай:<lf><lf><img id=\"Crosshair_Sit\"/> <RT_BlueMed>Сесці</><lf><img id=\"Crosshair_Sleep\"/> <RT_BlueMed>Спаць</><lf><img id=\"Crosshair_PullPush\"/> <RT_BlueMed>Штурхаць / Цягнуць</><lf><img id=\"Crosshair_Read\"/> <RT_BlueMed>Прачытаць</><lf><img id=\"Crosshair_TalkImportant\"/> <RT_BlueMed>Пагаварыць з важным персанажам</><lf><img id=\"Crosshair_Talk\"/> <RT_BlueMed>Пагаварыць</><lf><img id=\"Crosshair_RideHorse\"/> <RT_BlueMed>Паехаць на кані</><lf><img id=\"Crosshair_OpenContainer\"/> <RT_BlueMed>Адкрыць кантэйнер</><lf><img id=\"Crosshair_PickUp\"/> <RT_BlueMed>Падняць</><lf><img id=\"Crosshair_OpenDoor\"/> <RT_BlueMed>Адкрыць дзверы</><lf><img id=\"Crosshair_DrinkBlood\"/> <RT_BlueMed>Выпіць кроў</> (толькі для вампіраў)",
@@ -3161,7 +3161,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryContent_Dialogue",
-    "custom": "",
+    "custom": "Вы можаце падысці да каго-небудзь і ўзаемадзейнічаць з ім, каб пачаць дыялог.<lf><lf>Злева адлюстроўваецца спіс тэм, якія вы можаце абмеркаваць з гэтым чалавекам. <RT_BlueMed>Новыя тэмы</> можна адкрыць, <RT_BlueMed>размаўляючы з людзьмі або выконваючы квэсты</>.<lf>Тэма, якая адлюстроўваецца <RT_BlueMed>белым</> колерам, азначае, што вы ніколі не задавалі гэтую тэму гэтаму чалавеку або што гэты чалавек хавае інфармацыю. Калі яна <RT_BlueMed>шэрая</>, вы <RT_BlueMed>ўжо ведаеце</> адказ гэтага персанажа на гэтую тэму.<lf><lf>У залежнасці ад чалавека, з якім вы размаўляеце, і ад <RT_BlueMed>паслуг, якія ён прапануе</>, пад спісам тэм могуць адлюстроўвацца розныя значкі. Гэтыя значкі адкрываюць іншыя меню ўзаемадзеяння пры выбары.<lf><lf><img id=\"Dialog_Persuasion\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ПЕРАКОНАННЕ •</><lf>Паспрабуйце павысіць прыхільнасць гэтага чалавека да вас з дапамогай рыторыкі або подкупу. У такім выпадку ён можа быць <RT_BlueMed>больш схільны падзяліцца інфармацыяй</> або <RT_BlueMed>пагадзіцца на больш выгадныя здзелкі</>.<lf><lf><img id=\"Dialog_Trade\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ГАНДАЛЬ •</><lf>Спытайце гэтага чалавека, якія тавары ён <RT_BlueMed>прадае</>, ці ці гатовы ён што-небудзь <RT_BlueMed>купіць</>.<lf><lf><img id=\"Dialog_SpellTrade\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• АБМЕН ЗАКЛІНАННЯМІ •</><lf>Спытайце гэтага чалавека, якія <RT_BlueMed>заклінанні</> ён <RT_BlueMed>прадае</>.<lf><lf><img id=\"Dialog_Repair\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• РАМОНТ •</><lf>Папрасіце гэтага чалавека <RT_BlueMed>адрамантаваць вашу зброю і браню</> за пэўную плату.<lf>Гандляры могуць рамантаваць як <RT_BlueMed>звычайныя</>, так і <RT_BlueMed>зачараваныя</> прадметы.<lf><lf><img id=\"Dialog_Training\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ТРЭНІРОЎКА •</><lf>Папрасіце гэтага чалавека <RT_BlueMed>трэніраваць вас</>.<lf><RT_BlueMed>Толькі нешматлікія</> здольныя <RT_BlueMed>навучаць навыкам</>, і <RT_BlueMed>яшчэ менш</> могуць навучаць навыкам на <RT_BlueMed>самых высокіх узроўнях</>.<lf><lf><img id=\"Dialog_Recharge\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ПАДЗАРАДКА •</><lf>Папрасіце гэтага чалавека <RT_BlueMed>падзараджваць вашыя зачараваныя прадметы</> за плату.",
     "en": "You can approach someone and interact with them to start a dialogue.<lf><lf>On the left is displayed a list of topics you can discuss with this person. <RT_BlueMed>New topics</> can be unlocked by <RT_BlueMed>talking with people or completing quests</>.<lf>A topic displayed in <RT_BlueMed>white</> means you've never asked this topic to that person, or that person is hiding information. If it is <RT_BlueMed>grey</>, you <RT_BlueMed>already know</> this character's answer for that topic.<lf><lf>Depending on the person you are talking to and the <RT_BlueMed>services they offer</>, various icons may be displayed beneath the list of topics. These icons will bring up other interaction menus when selected.<lf><lf><img id=\"Dialog_Persuasion\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• PERSUASION •</><lf>Attempt to raise that person's Disposition towards you, by rhetorics or by bribing. They may then be <RT_BlueMed>more inclined to share information</> or <RT_BlueMed>accept better trades</>.<lf><lf><img id=\"Dialog_Trade\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• BARTER •</><lf>Ask this person what goods they are <RT_BlueMed>selling</>, or if they are willing to <RT_BlueMed>buy</>.<lf><lf><img id=\"Dialog_SpellTrade\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• SPELL BARTER •</><lf>Ask this person what <RT_BlueMed>spells</> they are <RT_BlueMed>selling</>.<lf><lf><img id=\"Dialog_Repair\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• REPAIR •</><lf>Ask this person to <RT_BlueMed>repair your weapons and armor</>, for a price.<lf>Merchants can repair both <RT_BlueMed>normal</> and <RT_BlueMed>enchanted</> items.<lf><lf><img id=\"Dialog_Training\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• TRAINING •</><lf>Ask this person to <RT_BlueMed>train you</>.<lf>A <RT_BlueMed>precious few</> are capable of <RT_BlueMed>teaching Skills</>, and <RT_BlueMed>even fewer</> can teach the Skills at the <RT_BlueMed>highest levels</>.<lf><lf><img id=\"Dialog_Recharge\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• RECHARGE •</><lf>Ask this person to <RT_BlueMed>recharge your enchanted items</>, for a fee.",
     "ru": "Вы можете подойти к кому-либо и взаимодействовать с ним, чтобы начать диалог.<lf><lf>Слева отображается список тем, которые вы можете обсудить с этим человеком. <RT_BlueMed>Новые темы</> можно открыть, <RT_BlueMed>разговаривая с людьми или выполняя квесты</>.<lf>Тема, отображаемая <RT_BlueMed>белым</> цветом, означает, что вы никогда не задавали эту тему этому человеку или что этот человек скрывает информацию. Если она <RT_BlueMed>серая</>, вы <RT_BlueMed>уже знаете</> ответ этого персонажа на эту тему.<lf><lf>В зависимости от человека, с которым вы разговариваете, и от <RT_BlueMed>услуг, которые он предлагает</>, под списком тем могут отображаться различные значки. Эти значки открывают другие меню взаимодействия при выборе.<lf><lf><img id=\"Dialog_Persuasion\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• УБЕЖДЕНИЕ •</><lf>Попытайтесь повысить расположение этого человека к вам с помощью риторики или подкупа. В таком случае он может быть <RT_BlueMed>более склонен поделиться информацией</> или <RT_BlueMed>согласиться на более выгодные сделки</>.<lf><lf><img id=\"Dialog_Trade\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ТОРГОВЛЯ •</><lf>Спросите этого человека, какие товары он <RT_BlueMed>продает</>, или готов ли он что-либо <RT_BlueMed>купить</>.<lf><lf><img id=\"Dialog_SpellTrade\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ОБМЕН ЗАКЛИНАНИЯМИ •</><lf>Спросите этого человека, какие <RT_BlueMed>заклинания</> он <RT_BlueMed>продает</>.<lf><lf><img id=\"Dialog_Repair\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• РЕМОНТ •</><lf>Попросите этого человека <RT_BlueMed>отремонтировать ваше оружие и броню</> за определенную плату.<lf>Торговцы могут ремонтировать как <RT_BlueMed>обычные</>, так и <RT_BlueMed>зачарованные</> предметы.<lf><lf><img id=\"Dialog_Training\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ТРЕНИРОВКА •</><lf>Попросите этого человека <RT_BlueMed>тренировать вас</>.<lf><RT_BlueMed>Лишь немногие</> способны <RT_BlueMed>обучать навыкам</>, и <RT_BlueMed>еще меньше</> могут обучать навыкам на <RT_BlueMed>самых высоких уровнях</>.<lf><lf><img id=\"Dialog_Recharge\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ПОДЗАРЯДКА •</><lf>Попросите этого человека <RT_BlueMed>подзарядить ваши зачарованные предметы</> за плату.",
     "bel": "Вы можаце падысці да каго-небудзь і ўзаемадзейнічаць з ім, каб пачаць дыялог.<lf><lf>Злева адлюстроўваецца спіс тэм, якія вы можаце абмеркаваць з гэтым чалавекам. <RT_BlueMed>Новыя тэмы</> можна адкрыць, <RT_BlueMed>размаўляючы з людзьмі або выконваючы квэсты</>.<lf>Тэма, якая адлюстроўваецца <RT_BlueMed>белым</> колерам, азначае, што вы ніколі не задавалі гэтую тэму гэтаму чалавеку або што гэты чалавек хавае інфармацыю. Калі яна <RT_BlueMed>шэрая</>, вы <RT_BlueMed>ўжо ведаеце</> адказ гэтага персанажа на гэтую тэму.<lf><lf>У залежнасці ад чалавека, з якім вы размаўляеце, і ад <RT_BlueMed>паслуг, якія ён прапануе</>, пад спісам тэм могуць адлюстроўвацца розныя значкі. Гэтыя значкі адкрываюць іншыя меню ўзаемадзеяння пры выбары.<lf><lf><img id=\"Dialog_Persuasion\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ПЕРАКОНАННЕ •</><lf>Паспрабуйце павысіць прыхільнасць гэтага чалавека да вас з дапамогай рыторыкі або подкупу. У такім выпадку ён можа быць <RT_BlueMed>больш схільны падзяліцца інфармацыяй</> або <RT_BlueMed>пагадзіцца на больш выгадныя здзелкі</>.<lf><lf><img id=\"Dialog_Trade\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ГАНДАЛЬ •</><lf>Спытайце гэтага чалавека, якія тавары ён <RT_BlueMed>прадае</>, ці ці гатовы ён што-небудзь <RT_BlueMed>купіць</>.<lf><lf><img id=\"Dialog_SpellTrade\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• АБМЕН ЗАКЛІНАННЯМІ •</><lf>Спытайце гэтага чалавека, якія <RT_BlueMed>заклінанні</> ён <RT_BlueMed>прадае</>.<lf><lf><img id=\"Dialog_Repair\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• РАМОНТ •</><lf>Папрасіце гэтага чалавека <RT_BlueMed>адрамантаваць вашу зброю і браню</> за пэўную плату.<lf>Гандляры могуць рамантаваць як <RT_BlueMed>звычайныя</>, так і <RT_BlueMed>зачараваныя</> прадметы.<lf><lf><img id=\"Dialog_Training\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ТРЭНІРОЎКА •</><lf>Папрасіце гэтага чалавека <RT_BlueMed>трэніраваць вас</>.<lf><RT_BlueMed>Толькі нешматлікія</> здольныя <RT_BlueMed>навучаць навыкам</>, і <RT_BlueMed>яшчэ менш</> могуць навучаць навыкам на <RT_BlueMed>самых высокіх узроўнях</>.<lf><lf><img id=\"Dialog_Recharge\" height=\"desired\" width=\"desired\"/><lf><RT_BlueMed>• ПАДЗАРАДКА •</><lf>Папрасіце гэтага чалавека <RT_BlueMed>падзараджваць вашыя зачараваныя прадметы</> за плату.",
@@ -3169,7 +3169,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryContent_Diseases",
-    "custom": "",
+    "custom": "Хваробы - гэта <RT_BlueMed>негатыўныя эфекты</>, якія звычайна зніжаюць вашыя <RT_BlueMed>Жыццёвыя паказчыкі, Атрыбуты або Навыкі</>. Хваробы ў асноўным падхопліваюцца пры <RT_BlueMed>атрыманні ўдараў ад заражаных істот</>.<lf>Хваробы з падобнымі эфектамі <RT_BlueMed>сумуюцца</> адна з адной.<lf><lf>Большасць хвароб можна вылечыць, прымяніўшы заклінанне <RT_BlueMed>Вылячэнне хваробы</>, ужыўшы <RT_BlueMed>Корань мандрагоры</> ці <RT_BlueMed>зелле з эфектам Вылячэння хваробы</>, альбо памаліўшыся ля <RT_BlueMed>алтара капліцы</>.<lf><lf>Адна ўнікальная хвароба, <RT_BlueMed>Парфірыйная гемафілія</>, ператворыць вас у <RT_BlueMed>вампіра</>, калі яе не вылечыць на працягу <RT_BlueMed>72 гадзін</>. Пасля пераўтварэння простага заклінання будзе недастаткова, каб вылечыць вас.",
     "en": "Diseases are <RT_BlueMed>negative effects</>, that usually reduce your <RT_BlueMed>Vitals, Attributes or Skills</>. Diseases are mostly contracted by getting <RT_BlueMed>hit by infected creatures</>.<lf>Diseases with similar effects <RT_BlueMed>stack</> with each other.<lf><lf>Most diseases can be cured by casting a <RT_BlueMed>Cure Disease</> spell, by consuming a <RT_BlueMed>Mandrake Root</> or a <RT_BlueMed>potion with a Cure Disease</> effect, or by praying at a <RT_BlueMed>chapel's altar</>.<lf><lf>One unique disease, <RT_BlueMed>Porphyric Hemophilia</>, will turn you into a <RT_BlueMed>vampire</> if not cured for <RT_BlueMed>72 hours</>. Once turned, a simple spell will not be enough to cure you.",
     "ru": "Болезни - это <RT_BlueMed>негативные эффекты</>, которые обычно снижают ваши <RT_BlueMed>Жизненные показатели, Атрибуты или Навыки</>. Болезни в основном подхватываются при <RT_BlueMed>получении ударов от заражённых существ</>.<lf>Болезни с похожими эффектами <RT_BlueMed>суммируются</> друг с другом.<lf><lf>Большинство болезней можно вылечить, применив заклинание <RT_BlueMed>Исцеление болезни</>, употребив <RT_BlueMed>Корень мандрагоры</> или <RT_BlueMed>зелье с эффектом Исцеления болезни</>, либо помолившись у <RT_BlueMed>алтаря часовни</>.<lf><lf>Одна уникальная болезнь, <RT_BlueMed>Порфирийная гемофилия</>, превратит вас в <RT_BlueMed>вампира</>, если её не вылечить в течение <RT_BlueMed>72 часов</>. После превращения простого заклинания будет недостаточно, чтобы вылечить вас.",
     "bel": "Хваробы - гэта <RT_BlueMed>негатыўныя эфекты</>, якія звычайна зніжаюць вашыя <RT_BlueMed>Жыццёвыя паказчыкі, Атрибуты або Навыкі</>. Хваробы ў асноўным падхопліваюцца пры <RT_BlueMed>атрыманні ўдараў ад заражаных істот</>.<lf>Хваробы з падобнымі эфектамі <RT_BlueMed>сумуюцца</> адна з адной.<lf><lf>Большасць хвароб можна вылечыць, прымяніўшы заклінанне <RT_BlueMed>Вылячэнне хваробы</>, ужыўшы <RT_BlueMed>Корань мандрагоры</> ці <RT_BlueMed>зелле з эфектам Вылячэння хваробы</>, альбо памаліўшыся ля <RT_BlueMed>алтара капліцы</>.<lf><lf>Адна ўнікальная хвароба, <RT_BlueMed>Парфірыйная гемафілія</>, ператворыць вас у <RT_BlueMed>вампіра</>, калі яе не вылечыць на працягу <RT_BlueMed>72 гадзін</>. Пасля пераўтварэння простага заклінання будзе недастаткова, каб вылечыць вас.",
@@ -3177,7 +3177,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryContent_Dodging",
-    "custom": "",
+    "custom": "<RT_BlueMed>Падмайстар</> у <RT_BlueMed>акрабатыцы</> атрымлівае здольнасць <RT_BlueMed>ухіляцца</>. <lf><lf>Каб ухіліцца, <RT_BlueMed>адначасова</> націсніце <IA id=\"IA_Game_Combat_Block\"/> і <IA id=\"IA_Game_Movement_Jump\"/> <RT_BlueMed>падчас руху</>. <lf><lf>Ухіленне карысна для хуткага ўваходу і выхаду з блізкага бою, і можа палегчыць <RT_BlueMed>ухіленне ад снарадаў</>.",
     "en": "A <RT_BlueMed>Journeyman</> in <RT_BlueMed>Acrobatics</> gains the ability to <RT_BlueMed>Dodge</>. <lf><lf>To Dodge, <RT_BlueMed>simultaneously</> press <IA id=\"IA_Game_Combat_Block\"/> and <IA id=\"IA_Game_Movement_Jump\"/> <RT_BlueMed>while moving</>. <lf><lf>Dodging is useful to quickly get in and out of melee combat, and can make it easier to <RT_BlueMed>avoid projectiles</>.",
     "ru": "<RT_BlueMed>Подмастерье</> в <RT_BlueMed>акробатике</> получает способность <RT_BlueMed>уклоняться</>. <lf><lf>Чтобы уклониться, <RT_BlueMed>одновременно</> нажмите <IA id=\"IA_Game_Combat_Block\"/> и <IA id=\"IA_Game_Movement_Jump\"/> <RT_BlueMed>во время движения</>. <lf><lf>Уклонение полезно для быстрого входа и выхода из ближнего боя, и может облегчить <RT_BlueMed>уклонение от снарядов</>.",
     "bel": "<RT_BlueMed>Падмайстар</> у <RT_BlueMed>акрабатыцы</> атрымлівае здольнасць <RT_BlueMed>ухіляцца</>. <lf><lf>Каб ухіліцца, <RT_BlueMed>адначасова</> націсніце <IA id=\"IA_Game_Combat_Block\"/> і <IA id=\"IA_Game_Movement_Jump\"/> <RT_BlueMed>падчас руху</>. <lf><lf>Ухіленне карысна для хуткага ўваходу і выхаду з блізкага бою, і можа палегчыць <RT_BlueMed>ухіленне ад снарадаў</>.",
@@ -3185,7 +3185,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryContent_Enchanting",
-    "custom": "",
+    "custom": "Злучыўшы прадмет з эсэнцыяй істоты, захопленай унутры <RT_BlueMed>Камня Душ</>, вы можаце надзяліць сваё рыштунак <RT_BlueMed>моцнай магіяй</>.<lf><lf>Гэты працэс патрабуе выкарыстання <RT_BlueMed>Алтара Зачаравання</>, які звычайна знаходзіцца ў <RT_BlueMed>Тайным Універсітэце</>.<lf>Пры ўмове, што яны яшчэ не зачараваны, любы прадмет, які можна насіць, і любая зброя, якой можна валодаць, можна зачараваць.<lf><lf><img id=\"EnchantAltar\" height=\"desired\" width=\"desired\"/><lf><lf>Вы павінны <RT_BlueMed>прадаставіць прадметы</>, якія будуць зачараваны, <RT_BlueMed>запоўненыя Камяні Душ</> і неабходную колькасць <RT_BlueMed>золата</>.<lf>Спачатку выберыце <RT_BlueMed>прадмет для зачаравання</>, затым <RT_BlueMed>запоўнены Камень Душ</>. Выбраўшы і тое, і другое, вы зможаце <RT_BlueMed>выбраць магічныя эфекты</>, якія вы хочаце прымяніць.<lf><lf>Вы можаце даць свайму новаму зачараванаму прадмету імя, каб зрабіць яго асаблівым для вас.<lf><lf><RT_BlueMed>Зачараваную зброю і посахі</> можна выкарыстоўваць толькі абмежаваную колькасць разоў, перш чым іх спатрэбіцца <RT_BlueMed>перазарадзіць</> запоўненымі Камянямі Душ.<lf><RT_BlueMed>Зачараваная броня і адзенне</>, з іншага боку, даюць пасіўныя эфекты і <RT_BlueMed>ніколі не патрабуюць перазарадкі</>.<lf><lf><img id=\"EnchantedWeaponBar\" height=\"desired\" width=\"desired\"/>",
     "en": "By joining an object with the essence of a creature captured inside a <RT_BlueMed>Soul Gem</>, you can infuse your equipment with <RT_BlueMed>powerful magic</>.<lf><lf>This process requires the use of an <RT_BlueMed>Altar of Enchanting</>, usually found at the <RT_BlueMed>Arcane University</>.<lf>Provided they are not already enchanted, any item that can be worn and any weapon that can be wielded can be enchanted.<lf><lf><img id=\"EnchantAltar\" height=\"desired\" width=\"desired\"/><lf><lf>You must <RT_BlueMed>provide the items</> that are to be enchanted, the <RT_BlueMed>filled Soul Gems</>, and the <RT_BlueMed>gold</> required.<lf>Select first <RT_BlueMed>item to enchant</>, then a <RT_BlueMed>filled Soul Gem</>. After selecting both, you will be able to <RT_BlueMed>choose the magic effects</> you would like to apply.<lf><lf>You can give your newly enchanted item a name to make it more special to you.<lf><lf><RT_BlueMed>Enchanted weapons and staves</> can only be used a limited number of times before needing to be <RT_BlueMed>recharged</> with filled soul gems.<lf><RT_BlueMed>Enchanted armor and clothing</>, on the other hand, are passive effects, and <RT_BlueMed>never require recharging</>.<lf><lf><img id=\"EnchantedWeaponBar\" height=\"desired\" width=\"desired\"/>",
     "ru": "Соединив предмет с эссенцией существа, захваченной внутри <RT_BlueMed>Камня Душ</>, вы можете наделить своё снаряжение <RT_BlueMed>мощной магией</>.<lf><lf>Этот процесс требует использования <RT_BlueMed>Алтаря Зачарования</>, который обычно находится в <RT_BlueMed>Тайном Университете</>.<lf>При условии, что они ещё не зачарованы, любой предмет, который можно носить, и любое оружие, которым можно владеть, можно зачаровать.<lf><lf><img id=\"EnchantAltar\" height=\"desired\" width=\"desired\"/><lf><lf>Вы должны <RT_BlueMed>предоставить предметы</>, которые будут зачарованы, <RT_BlueMed>заполненные Камни Душ</> и необходимое количество <RT_BlueMed>золота</>.<lf>Сначала выберите <RT_BlueMed>предмет для зачарования</>, затем <RT_BlueMed>заполненный Камень Душ</>. Выбрав и то, и другое, вы сможете <RT_BlueMed>выбрать магические эффекты</>, которые вы хотите применить.<lf><lf>Вы можете дать своему новому зачарованному предмету имя, чтобы сделать его особенным для вас.<lf><lf><RT_BlueMed>Зачарованное оружие и посохи</> можно использовать лишь ограниченное количество раз, прежде чем их потребуется <RT_BlueMed>перезарядить</> заполненными Камнями Душ.<lf><RT_BlueMed>Зачарованные доспехи и одежда</>, с другой стороны, дают пассивные эффекты и <RT_BlueMed>никогда не требуют перезарядки</>.<lf><lf><img id=\"EnchantedWeaponBar\" height=\"desired\" width=\"desired\"/>",
     "bel": "Злучыўшы прадмет з эсэнцыяй істоты, захопленай унутры <RT_BlueMed>Камня Душ</>, вы можаце надзяліць сваё рыштунак <RT_BlueMed>моцнай магіяй</>.<lf><lf>Гэты працэс патрабуе выкарыстання <RT_BlueMed>Алтара Зачаравання</>, які звычайна знаходзіцца ў <RT_BlueMed>Тайным Універсітэце</>.<lf>Пры ўмове, што яны яшчэ не зачараваны, любы прадмет, які можна насіць, і любая зброя, якой можна валодаць, можна зачараваць.<lf><lf><img id=\"EnchantAltar\" height=\"desired\" width=\"desired\"/><lf><lf>Вы павінны <RT_BlueMed>прадаставіць прадметы</>, якія будуць зачараваны, <RT_BlueMed>запоўненыя Камяні Душ</> і неабходную колькасць <RT_BlueMed>золата</>.<lf>Спачатку выберыце <RT_BlueMed>прадмет для зачаравання</>, затым <RT_BlueMed>запоўнены Камень Душ</>. Выбраўшы і тое, і другое, вы зможаце <RT_BlueMed>выбраць магічныя эфекты</>, якія вы хочаце прымяніць.<lf><lf>Вы можаце даць свайму новаму зачараванаму прадмету імя, каб зрабіць яго асаблівым для вас.<lf><lf><RT_BlueMed>Зачараваную зброю і посахі</> можна выкарыстоўваць толькі абмежаваную колькасць разоў, перш чым іх спатрэбіцца <RT_BlueMed>перазарадзіць</> запоўненымі Камянямі Душ.<lf><RT_BlueMed>Зачараваная броня і адзенне</>, з іншага боку, даюць пасіўныя эфекты і <RT_BlueMed>ніколі не патрабуюць перазарадкі</>.<lf><lf><img id=\"EnchantedWeaponBar\" height=\"desired\" width=\"desired\"/>",
@@ -3193,7 +3193,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryContent_EnchantingWithSigilStones",
-    "custom": "",
+    "custom": "Адпраўляючыся ў <RT_BlueMed>царствы Аблівіёна</>, вы будзеце збіраць магутныя даэдрычныя камяні, вядомыя як <RT_BlueMed>Камяні Сігілаў</>.<lf>Выберыце іх у сваім інвентары, каб <RT_BlueMed>зачараваць любое незачараванае рыштунак</> без неабходнасці Алтара зачараванняў.<lf><lf><img id=\"SigilStone\" height=\"desired\" width=\"desired\"/><lf><lf>Існуе <RT_BlueMed>мноства розных тыпаў</> Камянёў Сігілаў, але ўсе яны валодаюць парай <RT_BlueMed>узаемавыключальных зачараванняў</>:<lf>• Адно, якое ўздзейнічае на вашых <RT_BlueMed>праціўнікаў</> ці іх здольнасці, і можа быць прыменена толькі да <RT_BlueMed>зброі</>.<lf>• Іншае, якое ўздзейнічае непасрэдна на <RT_BlueMed>вас саміх</>, і можа быць прыменена да <RT_BlueMed>броні, адзення і ювелірных вырабаў</>.<lf><lf><img id=\"SigilStoneMenu\" height=\"desired\" width=\"desired\"/><lf><lf>Вы можаце даць імя свайму новаму зачараванаму прадмету, каб зрабіць яго па-сапраўднаму унікальным.<lf><lf>Як толькі вы <RT_BlueMed>завершыце зачараванне, камень знікне</>.",
     "en": "As you venture into the <RT_BlueMed>Oblivion realms</>, you will gather powerful daedric stones known as <RT_BlueMed>Sigil Stones</>.<lf>Select them in your inventory to <RT_BlueMed>enchant any unenchanted equipment</> without the need of an Altar of Enchanting.<lf><lf><img id=\"SigilStone\" height=\"desired\" width=\"desired\"/><lf><lf>There are <RT_BlueMed>many different types</> of Sigil Stones, but all have a pair of <RT_BlueMed>mutually exclusive enchantments</>:<lf>• One that affects your <RT_BlueMed>opponents</> or their abilities, and can only be applied on <RT_BlueMed>weapons</>.<lf>• Another that acts directly on <RT_BlueMed>yourself</>, and can be applied on <RT_BlueMed>armors, clothings and jewelry</>.<lf><lf><img id=\"SigilStoneMenu\" height=\"desired\" width=\"desired\"/><lf><lf>You can name your newly enchanted item to truly make it unique.<lf><lf>Once you <RT_BlueMed>complete the enchantment, the stone vanishes</>.",
     "ru": "Отправляясь в <RT_BlueMed>царства Обливиона</>, вы будете собирать могущественные даэдрические камни, известные как <RT_BlueMed>Камни Сигилов</>.<lf>Выберите их в своем инвентаре, чтобы <RT_BlueMed>зачаровать любое незачарованное снаряжение</> без необходимости Алтаря зачарований.<lf><lf><img id=\"SigilStone\" height=\"desired\" width=\"desired\"/><lf><lf>Существует <RT_BlueMed>множество различных типов</> Камней Сигилов, но все они обладают парой <RT_BlueMed>взаимоисключающих зачарований</>:<lf>• Одно, которое воздействует на ваших <RT_BlueMed>противников</> или их способности, и может быть применено только к <RT_BlueMed>оружию</>.<lf>• Другое, которое воздействует непосредственно на <RT_BlueMed>вас самих</>, и может быть применено к <RT_BlueMed>броне, одежде и ювелирным изделиям</>.<lf><lf><img id=\"SigilStoneMenu\" height=\"desired\" width=\"desired\"/><lf><lf>Вы можете дать имя своему новому зачарованному предмету, чтобы сделать его по-настоящему уникальным.<lf><lf>Как только вы <RT_BlueMed>завершите зачарование, камень исчезнет</>.",
     "bel": "Адпраўляючыся ў <RT_BlueMed>царствы Аблівіёна</>, вы будзеце збіраць магутныя даэдрычныя камяні, вядомыя як <RT_BlueMed>Камяні Сігілаў</>.<lf>Выберыце іх у сваім інвентары, каб <RT_BlueMed>зачараваць любое незачараванае рыштунак</> без неабходнасці Алтара зачараванняў.<lf><lf><img id=\"SigilStone\" height=\"desired\" width=\"desired\"/><lf><lf>Існуе <RT_BlueMed>мноства розных тыпаў</> Камянёў Сігілаў, але ўсе яны валодаюць парай <RT_BlueMed>узаемавыключальных зачараванняў</>:<lf>• Адно, якое ўздзейнічае на вашых <RT_BlueMed>праціўнікаў</> ці іх здольнасці, і можа быць прыменена толькі да <RT_BlueMed>зброі</>.<lf>• Іншае, якое ўздзейнічае непасрэдна на <RT_BlueMed>вас саміх</>, і можа быць прыменена да <RT_BlueMed>броні, адзення і ювелірных вырабаў</>.<lf><lf><img id=\"SigilStoneMenu\" height=\"desired\" width=\"desired\"/><lf><lf>Вы можаце даць імя свайму новаму зачараванаму прадмету, каб зрабіць яго па-сапраўднаму унікальным.<lf><lf>Як толькі вы <RT_BlueMed>завершыце зачараванне, камень знікне</>.",
@@ -3201,7 +3201,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryContent_Encumbrance",
-    "custom": "",
+    "custom": "Перагрузка азначае <RT_BlueMed>максімальную вагу, якую вы можаце несці</>.<lf>Ваша <RT_BlueMed>максімальная перагрузка</> можа быць павялічана за кошт паляпшэння вашай <RT_BlueMed>сілы</>.<lf><lf>Вы можаце знайсці статус вашай перагрузкі ў вашым <RT_BlueMed>меню інвентара</>:<lf><lf><img id=\"EncumbranceIndicator\" height=\"desired\" width=\"desired\"/><lf><lf>Акрамя таго, пакуль вы нясеце занадта шмат прадметаў, значок будзе бачны побач з вашымі жыццёвымі паказчыкамі.<lf><lf>Пры перагрузцы вы <RT_BlueMed>не можаце бегаць, рабіць спрынт, скакаць, ухіляцца, праводзіць сілавую атаку, біць шчытом і хутка перамяшчацца</>.<lf><lf>Каб зноў выконваць гэтыя дзеянні, <RT_BlueMed>выкіньце альбо прадайце прадметы</>.<lf>Вы таксама можаце <RT_BlueMed>знайсці каня</> або накласці загаворы <RT_BlueMed>«Пярынка»</> або <RT_BlueMed>«Узмацненне сілы»</> , каб <RT_BlueMed>часова павялічыць максімальную перагрузку</>.",
     "en": "Emcumbrance represents the <RT_BlueMed>maximum weight that you can carry</>.<lf>Your <RT_BlueMed>maximum Encumbrance</> can be increased by improving your <RT_BlueMed>Strength</>.<lf><lf>You can find your Encumbrance status in your <RT_BlueMed>Inventory menu</>:<lf><lf><img id=\"EncumbranceIndicator\" height=\"desired\" width=\"desired\"/><lf><lf>Additionally, as long as you carry too many items, an icon will be visible next to your vitals.<lf><lf>When over-encumbered, you are <RT_BlueMed>unable to run, sprint, jump, Dodge, Power Attack, Shield Bash and fast travel</>.<lf><lf>To perform these actions again, <RT_BlueMed>drop or sell items</>.<lf>You can also <RT_BlueMed>find a horse</>, or cast <RT_BlueMed>Feather</> or <RT_BlueMed>Fortify Strength</> spells to <RT_BlueMed>temporarily increase your maximum Encumbrance</>.",
     "ru": "Перегрузка означает <RT_BlueMed>максимальный вес, который вы можете нести</>.<lf>Ваша <RT_BlueMed>максимальная перегрузка</> может быть увеличена путем улучшения вашей <RT_BlueMed>силы</>.<lf><lf>Вы можете найти статус вашей перегрузки в вашем <RT_BlueMed>меню инвентаря</>:<lf><lf><img id=\"EncumbranceIndicator\" height=\"desired\" width=\"desired\"/><lf><lf>Кроме того, пока вы несете слишком много предметов, значок будет виден рядом с вашими жизненными показателями.<lf><lf>При перегрузке вы <RT_BlueMed>не можете бегать, совершать спринт, прыгать, уклоняться, проводить силовую атаку, бить щитом и быстро перемещаться</>.<lf><lf>Чтобы снова выполнять эти действия, <RT_BlueMed>выбросьте или продайте предметы</>.<lf>Вы также можете <RT_BlueMed>найти лошадь</> или наложить заклинания <RT_BlueMed>«Перышко»</> или <RT_BlueMed>«Усиление силы»</> , чтобы <RT_BlueMed>временно увеличить максимальную перегрузку</>.",
     "bel": "Перагрузка азначае <RT_BlueMed>максімальную вагу, якую вы можаце несці</>.<lf>Ваша <RT_BlueMed>максімальная перагрузка</> можа быць павялічана за кошт паляпшэння вашай <RT_BlueMed>сілы</>.<lf><lf>Вы можаце знайсці статус вашай перагрузкі ў вашым <RT_BlueMed>меню інвентара</>:<lf><lf><img id=\"EncumbranceIndicator\" height=\"desired\" width=\"desired\"/><lf><lf>Акрамя таго, пакуль вы нясеце занадта шмат прадметаў, значок будзе бачны побач з вашымі жыццёвымі паказчыкамі.<lf><lf>Пры перагрузцы вы <RT_BlueMed>не можаце бегаць, рабіць спрынт, скакаць, ухіляцца, праводзіць сілавую атаку, біць шчытом і хутка перамяшчацца</>.<lf><lf>Каб зноў выконваць гэтыя дзеянні, <RT_BlueMed>выкіньце альбо прадайце прадметы</>.<lf>Вы таксама можаце <RT_BlueMed>знайсці каня</> або накласці загаворы <RT_BlueMed>«Пярынка»</> або <RT_BlueMed>«Узмацненне сілы»</> , каб <RT_BlueMed>часова павялічыць максімальную перагрузку</>.",
@@ -3209,7 +3209,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryContent_Fame&Infamy",
-    "custom": "",
+    "custom": "<RT_BlueMed>Слава</> – гэта рыса, якая вызначае ваш <RT_BlueMed>гераізм</>. Вы можаце павысіць яе, <RT_BlueMed>дапамагаючы людзям</> альбо выконваючы заданні <RT_BlueMed>годным чынам</>.<lf><RT_BlueMed>Слава</> павялічвае <RT_BlueMed>прыязнь людзей</> да вас.<lf><lf><RT_BlueMed>Дурная слава</> – супрацьлегласць Славы. Яна паказвае, наколькі вы вядомыя сваімі <RT_BlueMed>правінамі</> і <RT_BlueMed>злачынствамі</>.<lf><RT_BlueMed>Дурная слава</> робіць вас <RT_BlueMed>не здольным маліцца каля алтароў Дзевяці Багоў</>, што абцяжарвае пазбаўленне ад хвароб.<lf><lf>Высокая Слава альбо Дурная слава часам патрабуюцца, каб <RT_BlueMed>пачаць пэўныя заданні</>.<lf><lf>Вы можаце знайсці сваю Славу і Дурную славу на <RT_BlueMed>старонцы \"Падрабязнасці\"</> раздзела \"Персанаж\" у журнале.",
     "en": "<RT_BlueMed>Fame</> is a trait that measures your <RT_BlueMed>heroism</>. You can increase it by <RT_BlueMed>helping people</> or completing quests in a <RT_BlueMed>virtuous manner</>.<lf><RT_BlueMed>Fame</> increases <RT_BlueMed>people’s Disposition</> toward you.<lf><lf><RT_BlueMed>Infamy</> is the opposite of Fame. It measures how infamous you are for your <RT_BlueMed>misdeeds</> and <RT_BlueMed>crimes</>.<lf><RT_BlueMed>Infamy</> makes you <RT_BlueMed>unable to pray at Altars of the Nine Divines</>, making it more difficult to get rid of diseases.<lf><lf>High Fame or high Infamy are sometimes required to <RT_BlueMed>start specific quests</>.<lf><lf>You can find your Fame and Infamy in the <RT_BlueMed>Details page</> of the Character section of the journal.",
     "ru": "<RT_BlueMed>Слава</> — это черта, определяющая ваш <RT_BlueMed>героизм</>. Вы можете повысить её, <RT_BlueMed>помогая людям</> или выполняя квесты <RT_BlueMed>добродетельным образом</>.<lf><RT_BlueMed>Слава</> увеличивает <RT_BlueMed>расположение людей</> к вам.<lf><lf><RT_BlueMed>Дурная слава</> — противоположность Славе. Она показывает, насколько вы печально известны своими <RT_BlueMed>проступками</> и <RT_BlueMed>преступлениями</>.<lf><RT_BlueMed>Дурная слава</> делает вас <RT_BlueMed>неспособным молиться у алтарей Девяти Божеств</>, что затрудняет избавление от болезней.<lf><lf>Высокая Слава или Дурная слава иногда требуются, чтобы <RT_BlueMed>начать определённые квесты</>.<lf><lf>Вы можете найти свою Славу и Дурную славу на <RT_BlueMed>странице «Подробности»</> раздела «Персонаж» в журнале.",
     "bel": "<RT_BlueMed>Слава</> – гэта рыса, якая вызначае ваш <RT_BlueMed>гераізм</>. Вы можаце павысіць яе, <RT_BlueMed>дапамагаючы людзям</> альбо выконваючы заданні <RT_BlueMed>годным чынам</>.<lf><RT_BlueMed>Слава</> павялічвае <RT_BlueMed>прыязнь людзей</> да вас.<lf><lf><RT_BlueMed>Дурная слава</> – супрацьлегласць Славы. Яна паказвае, наколькі вы вядомыя сваімі <RT_BlueMed>правінамі</> і <RT_BlueMed>злачынствамі</>.<lf><RT_BlueMed>Дурная слава</> робіць вас <RT_BlueMed>не здольным маліцца каля алтароў Дзевяці Багоў</>, што абцяжарвае пазбаўленне ад хвароб.<lf><lf>Высокая Слава альбо Дурная слава часам патрабуюцца, каб <RT_BlueMed>пачаць пэўныя заданні</>.<lf><lf>Вы можаце знайсці сваю Славу і Дурную славу на <RT_BlueMed>старонцы \"Падрабязнасці\"</> раздзела \"Персанаж\" у журнале.",
@@ -3217,7 +3217,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryContent_Fencing",
-    "custom": "",
+    "custom": "Будучы <RT_BlueMed>членам Гільдыі Зладзеяў</>, вы атрымліваеце шмат пераваг, такіх як магчымасць <RT_BlueMed>збываць крадзенае</>.<lf><lf>Таксама скупшчыкі <RT_BlueMed>адмываюць</> крадзенае. Выкупіце скрадзеную рэч, якую вы прадалі, і цяпер яна будзе вашай.<lf><lf>Калі вы <RT_BlueMed>не з'яўляецеся членам</> Гільдыі Зладзеяў, скупшчыкі будуць сцвярджаць, што яны <RT_BlueMed>не разумеюць, пра што вы кажаце</>.",
     "en": "Being a <RT_BlueMed>member of the Thieves Guild</> provides you with many advantages such as the opportunity to <RT_BlueMed>sell stolen goods</>.<lf><lf>Fences also <RT_BlueMed>launder</> stolen goods. Buy back a stolen item you've sold and it will now be yours.<lf><lf>If you are <RT_BlueMed>not a member</> of the Thieves Guild, fences will claim that they <RT_BlueMed>do not know what you are talking about</>.",
     "ru": "Будучи <RT_BlueMed>членом Гильдии Воров</>, вы получаете множество преимуществ, таких как возможность <RT_BlueMed>сбывать краденное</>.<lf><lf>Также скупщики <RT_BlueMed>отмывают</> краденное. Выкупите украденную вещь, которую вы продали, и теперь она будет вашей.<lf><lf>Если вы <RT_BlueMed>не являетесь членом</> Гильдии Воров, скупщики будут утверждать, что они <RT_BlueMed>не понимают, о чём вы говорите</>.",
     "bel": "Будучы <RT_BlueMed>членам Гільдыі Зладзеяў</>, вы атрымліваеце шмат пераваг, такіх як магчымасць <RT_BlueMed>збываць крадзенае</>.<lf><lf>Таксама скупшчыкі <RT_BlueMed>адмываюць</> крадзенае. Выкупіце скрадзеную рэч, якую вы прадалі, і цяпер яна будзе вашай.<lf><lf>Калі вы <RT_BlueMed>не з'яўляецеся членам</> Гільдыі Зладзеяў, скупшчыкі будуць сцвярджаць, што яны <RT_BlueMed>не разумеюць, пра што вы кажаце</>.",
@@ -3225,7 +3225,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryContent_Greater&LesserPowers",
-    "custom": "",
+    "custom": "Здольнасці – гэта <RT_BlueMed>моцныя загаворы</>, дараваныя альбо <RT_BlueMed>расамі і знакамі нараджэння</>, альбо атрыманыя пры наведванні <RT_BlueMed>Камянёў Лёсу</>, станаўленні <RT_BlueMed>вампірам</> альбо <RT_BlueMed>здзяйсненні важных подзвігаў</>.<lf>Іх <RT_BlueMed>нельга купіць ці стварыць</>, і яны не даюць ніякага досведу.<lf><lf>На здольнасці не ўплывае <RT_BlueMed>Эфектыўнасць Загавораў</>, і <RT_BlueMed>іх можа выкарыстоўваць хто заўгодна</>, незалежна ад узроўню навыку.<lf><lf><RT_BlueMed>Вялікія Здольнасці не патрабуюць магіі</> і часта неўспрымальныя да Маўчання. Аднак іх можна выкарыстоўваць толькі <RT_BlueMed>адзін раз у дзень</>.<lf><lf><RT_BlueMed>Малыя Здольнасці</> звычайна <RT_BlueMed>патрабуюць магію</>, але большасць з іх таксама неўспрымальныя да Маўчання.",
     "en": "Powers are <RT_BlueMed>powerful spells</>, bestowed either by <RT_BlueMed>races and birthsigns</>, or obtained by visiting <RT_BlueMed>Doomstones</>, becoming a <RT_BlueMed>vampire</>, or <RT_BlueMed>accomplishing major feats</>.<lf>They <RT_BlueMed>cannot be purchased or created</> and do not grant any kind of experience.<lf><lf>Powers are unaffected by <RT_BlueMed>Spell Effectiveness</> and <RT_BlueMed>can be cast by anyone</>, no matter their skill level.<lf><lf><RT_BlueMed>Greater Powers cost no Magicka</> and are often unaffected by Silence. They can however only be cast <RT_BlueMed>once a day</>.<lf><lf><RT_BlueMed>Lesser Powers</> usually <RT_BlueMed>cost Magicka</>, but most of them are also unaffected by Silence.",
     "ru": "Способности – это <RT_BlueMed>мощные заклинания</>, дарованные либо <RT_BlueMed>расами и знаками рождения</>, либо полученные при посещении <RT_BlueMed>Камней Судьбы</>, становлении <RT_BlueMed>вампиром</> или <RT_BlueMed>совершении важных подвигов</>.<lf>Их <RT_BlueMed>нельзя купить или создать</>, и они не дают никакого опыта.<lf><lf>На способности не влияет <RT_BlueMed>Эффективность Заклинаний</>, и <RT_BlueMed>их может использовать кто угодно</>, независимо от уровня навыка.<lf><lf><RT_BlueMed>Великие Способности не требуют магии</> и часто невосприимчивы к Безмолвию. Однако их можно использовать только <RT_BlueMed>один раз в день</>.<lf><lf><RT_BlueMed>Малые Способности</> обычно <RT_BlueMed>требуют магию</>, но большинство из них также невосприимчивы к Безмолвию.",
     "bel": "Здольнасці – гэта <RT_BlueMed>моцныя загаворы</>, дараваныя альбо <RT_BlueMed>расамі і знакамі нараджэння</>, альбо атрыманыя пры наведванні <RT_BlueMed>Камянёў Лёсу</>, станаўленні <RT_BlueMed>вампірам</> альбо <RT_BlueMed>здзяйсненні важных подзвігаў</>.<lf>Іх <RT_BlueMed>нельга купіць ці стварыць</>, і яны не даюць ніякага досведу.<lf><lf>На здольнасці не ўплывае <RT_BlueMed>Эфектыўнасць Загавораў</>, і <RT_BlueMed>іх можа выкарыстоўваць хто заўгодна</>, незалежна ад узроўню навыку.<lf><lf><RT_BlueMed>Вялікія Здольнасці не патрабуюць магіі</> і часта неўспрымальныя да Маўчання. Аднак іх можна выкарыстоўваць толькі <RT_BlueMed>адзін раз у дзень</>.<lf><lf><RT_BlueMed>Малыя Здольнасці</> звычайна <RT_BlueMed>патрабуюць магію</>, але большасць з іх таксама неўспрымальныя да Маўчання.",
