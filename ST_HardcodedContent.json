@@ -2857,7 +2857,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLarge",
-    "custom": "",
+    "custom": "Вялікі",
     "en": "Large",
     "ru": "Большой",
     "bel": "Вялікі",
@@ -2865,7 +2865,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLeaveMarker",
-    "custom": "",
+    "custom": "Пакінуць",
     "en": "Leave It",
     "ru": "Оставить",
     "bel": "Пакінуць",
@@ -2873,7 +2873,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLength",
-    "custom": "",
+    "custom": "Даўжыня",
     "en": "Length",
     "ru": "Длина",
     "bel": "Даўжыня",
@@ -2881,7 +2881,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLevelDefault",
-    "custom": "",
+    "custom": "Вынікі цяжкай працы і самаадданасці заўсёды выглядаюць як поспех. Але вы ведаеце, што заслужылі кожную кроплю свайго поспеху.",
     "en": "The results of hard work and dedication always look like luck. But you know you've earned every ounce of your success.",
     "ru": "Результаты упорного труда и преданности делу всегда выглядят как удача. Но ты-то знаешь, что каждой унции своего успеха ты добился сам.",
     "bel": "Вынікі ўпартай працы і адданасці справе заўсёды выглядаюць як поспех. Але ж ты ведаеш, што кожнай унцыі свайго поспеху ты дабіўся сам.",
@@ -2889,7 +2889,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLevelDoneWarning",
-    "custom": "",
+    "custom": "Вам трэба завяршыць размеркаванне ачкоў атрыбутаў, перш чым пакінуць меню.",
     "en": "You need to finish distributing attribute points before leaving the menu.",
     "ru": "Вам нужно завершить распределение очков атрибутов, прежде чем покинуть меню.",
     "bel": "Вам трэба завяршыць размеркаванне ачкоў атрыбутаў, перш чым пакінуць меню.",
@@ -2905,7 +2905,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLevelUp10",
-    "custom": "",
+    "custom": "Сёння ты прачнуўся з новым пачуццём мэты. Цябе больш не палохае няўдача. Няўдача – гэта проста магчымасць даведацца нешта новае.",
     "en": "You woke today with a new sense of purpose. You're no longer afraid of failure. Failure is just an opportunity to learn something new.",
     "ru": "Сегодня ты проснулся с новым чувством цели. Тебя больше не пугает неудача. Неудача – это просто возможность узнать что-то новое.",
     "bel": "Сёння ты прачнуўся з новым пачуццём мэты. Цябе больш не палохае няўдача. Няўдача – гэта проста магчымасць даведацца нешта новае.",
@@ -2913,7 +2913,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLevelUp11",
-    "custom": "",
+    "custom": "Разумным быць не перашкодзіць. І крыху ўдачы час ад часу таксама нядрэнна. Але галоўнае — цярпенне і руплівая праца.",
     "en": "Being smart doesn't hurt. And a little luck now and then is nice. But the key is patience and hard work.",
     "ru": "Умным быть не помешает. И немного удачи время от времени тоже неплохо. Но главное — терпение и усердная работа.",
     "bel": "Разумным быць не перашкодзіць. І крыху ўдачы час ад часу таксама нядрэнна. Але галоўнае — цярпенне і руплівая праца.",
@@ -2921,7 +2921,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLevelUp12",
-    "custom": "",
+    "custom": "Не паверыш, як гэта проста. Трэба проста трохі звар'яцець. А потым, раптам, усё становіцца на свае месцы, і ўсё, да чаго ты дакранаешся, ператвараецца ў золата.",
     "en": "You can't believe how easy it is. You just have to go -- a little crazy. And then, suddenly, it all makes sense, and everything you do turns to gold.",
     "ru": "Не поверишь, как это просто. Нужно просто немного свихнуться. А потом, внезапно, всё становится на свои места, и всё, к чему ты прикасаешься, превращается в золото.",
     "bel": "Не паверыш, як гэта проста. Трэба проста трохі звар'яцець. А потым, раптам, усё становіцца на свае месцы, і ўсё, да чаго ты дакранаешся, ператвараецца ў золата.",
@@ -2929,7 +2929,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLevelUp13",
-    "custom": "",
+    "custom": "Гэта самае ўзрушаючае. Учора было цяжка, а сёння лёгка. Проста добра выспаўся, і ўчорашнія загадкі сталі сённяшнімі дасягненнямі.",
     "en": "It's the most amazing thing. Yesterday it was hard, and today it is easy. Just a good night's sleep, and yesterday's mysteries are today's masteries.",
     "ru": "Это самое потрясающее. Вчера было трудно, а сегодня легко. Просто хорошо выспался, и вчерашние загадки стали сегодняшними достижениями.",
     "bel": "Гэта самае ўзрушаючае. Учора было цяжка, а сёння лёгка. Проста добра выспаўся, і ўчорашнія загадкі сталі сённяшнімі дасягненнямі.",
@@ -2937,7 +2937,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLevelUp14",
-    "custom": "",
+    "custom": "Сёння ты прачынаешся, напоўнены энергіяй і ідэямі, і ты нейкім чынам ведаеш, што за ноч усё змянілася. Вось што адзін жыватворны дзень робіць.",
     "en": "Today you wake up, full of energy and ideas, and you know, somehow, that overnight everything has changed. What a difference a day makes.",
     "ru": "Сегодня ты просыпаешься, преисполненный энергии и идей, и ты каким-то образом знаешь, что за ночь всё изменилось. Вот что один день животворящий делает.",
     "bel": "Сёння ты прачынаешся, напоўнены энергіяй і ідэямі, і ты нейкім чынам ведаеш, што за ноч усё змянілася. Вось што адзін жыватворны дзень робіць.",
@@ -2945,7 +2945,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLevelUp15",
-    "custom": "",
+    "custom": "Сёння ты раптам усвядоміў, якім жыццём ты жыў, якое пакаранне панесла тваё цела – у цела ёсць мяжа, і, магчыма, ты дасягнуў яе. Ты задаваўся пытаннем, як гэта – старэць. Што ж, цяпер ты ведаеш.",
     "en": "Today you suddenly realized the life you've been living, the punishment your body has taken -- there are limits to what the body can do, and perhaps you have reached them. You've wondered what it is like to grow old. Well, now you know.",
     "ru": "Сегодня ты вдруг осознал, какой жизнью ты жил, какое наказание вынесло твоё тело – у тела есть предел, и, возможно, ты достиг его. Ты задавался вопросом, каково это – стареть. Что ж, теперь ты знаешь.",
     "bel": "Сёння ты раптам усвядоміў, якім жыццём ты жыў, якое пакаранне панесла тваё цела – у цела ёсць мяжа, і, магчыма, ты дасягнуў яе. Ты задаваўся пытаннем, як гэта – старэць. Што ж, цяпер ты ведаеш.",
@@ -2953,7 +2953,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLevelUp16",
-    "custom": "",
+    "custom": "Ты занадта стараўся, занадта шмат думаў. Расслабся. Даверся сваёй інтуіцыі. Проста будзь сабой. Рабі тое, што ў тваіх сілах, а пра большае паклапоціцца само.",
     "en": "You've been trying too hard, thinking too much. Relax. Trust your instincts. Just be yourself. Do the little things, and the big things take care of themselves.",
     "ru": "Ты слишком старался, слишком много думал. Расслабься. Доверься своей интуиции. Просто будь собой. Делай то, что в твоих силах, а о большем позаботится само.",
     "bel": "Ты занадта стараўся, занадта шмат думаў. Расслабся. Даверся сваёй інтуіцыі. Проста будзь сабой. Рабі тое, што ў тваіх сілах, а пра большае паклапоціцца само.",
@@ -2961,7 +2961,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLevelUp17",
-    "custom": "",
+    "custom": "Жыццё не скончана. Ты ўсё яшчэ можаш стаць разумнейшым, ці хітрэйшым, ці больш дасведчаным, ці злым -- але тваё цела і душа ўжо не стануць маладзейшымі.",
     "en": "Life isn't over. You can still get smarter, or cleverer, or more experienced, or meaner -- but your body and soul just aren't going to get any younger.",
     "ru": "Жизнь не окончена. Ты все еще можешь стать умнее, или хитрее, или опытнее, или злее -- но твое тело и душа уже не станут моложе.",
     "bel": "Жыццё не скончана. Ты ўсё яшчэ можаш стаць разумнейшым, ці хітрэйшым, ці больш дасведчаным, ці злым -- але тваё цела і душа ўжо не стануць маладзейшымі.",
@@ -2969,7 +2969,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLevelUp18",
-    "custom": "",
+    "custom": "Сёння ты раптоўна ўсвядоміў, якім жыццём жыў, якое пакаранне панесла тваё цела – у цела ёсць мяжа, і, магчыма, ты яе дасягнуў. Ты гадаў, як гэта – старэць. Што ж, цяпер ты ведаеш.",
     "en": "Today you suddenly realized the life you've been living, the punishment your body has taken -- there are limits to what the body can do, and perhaps you have reached them. You've wondered what it is like to grow old. Well, now you know.",
     "ru": "Сегодня ты внезапно осознал, какой жизнью жил, какое наказание вынесло твоё тело – у тела есть предел, и, возможно, ты его достиг. Ты гадал, каково это – стареть. Что ж, теперь ты знаешь.",
     "bel": "Сёння ты раптоўна ўсвядоміў, якім жыццём жыў, якое пакаранне панесла тваё цела – у цела ёсць мяжа, і, магчыма, ты яе дасягнуў. Ты гадаў, як гэта – старэць. Што ж, цяпер ты ведаеш.",
@@ -2977,7 +2977,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLevelUp19",
-    "custom": "",
+    "custom": "Ты занадта стараўся, занадта шмат думаў. Расслабся. Даверся сваім інстынктам. Проста будзь сабой. Рабі малыя справы, а вялікія самі пра сябе паклапоцяцца.",
     "en": "You've been trying too hard, thinking too much. Relax. Trust your instincts. Just be yourself. Do the little things, and the big things take care of themselves.",
     "ru": "Ты слишком старался, слишком много думал. Расслабься. Доверься своим инстинктам. Просто будь собой. Делай малые дела, а большие сами о себе позаботятся.",
     "bel": "Ты занадта стараўся, занадта шмат думаў. Расслабся. Даверся сваім інстынктам. Проста будзь сабой. Рабі малыя справы, а вялікія самі пра сябе паклапоцяцца.",
@@ -2985,7 +2985,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLevelUp2",
-    "custom": "",
+    "custom": "Ты ўсведамляеш, што ўсё жыццё плыў па цячэнні, нібы ў сне. Раптам, сутыкнуўшыся з выпрабаваннямі апошніх дзён, ты ажыў.",
     "en": "You realize that all your life you have been coasting along as if you were in a dream. Suddenly, facing the trials of the last few days, you have come alive.",
     "ru": "Ты осознаёшь, что всю жизнь плыл по течению, словно во сне. Внезапно, столкнувшись с испытаниями последних дней, ты ожил.",
     "bel": "Ты ўсведамляеш, што ўсё жыццё плыў па цячэнні, нібы ў сне. Раптам, сутыкнуўшыся з выпрабаваннямі апошніх дзён, ты ажыў.",
@@ -2993,7 +2993,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLevelUp20",
-    "custom": "",
+    "custom": "Жыццё яшчэ не скончана. Ты ўсё яшчэ можаш стаць разумнейшым, хітрэйшым, больш дасведчаным або злым, але тваё цела і душа ўжо не стануць маладзейшымі.",
     "en": "Life isn't over. You can still get smarter, or cleverer, or more experienced, or meaner -- but your body and soul just aren't going to get any younger.",
     "ru": "Жизнь ещё не кончена. Ты всё ещё можешь стать умнее, хитрее, опытнее или злее, но твоё тело и душа уже не станут моложе.",
     "bel": "Жыццё яшчэ не скончана. Ты ўсё яшчэ можаш стаць разумнейшым, хітрэйшым, больш дасведчаным або злым, але тваё цела і душа ўжо не стануць маладзейшымі.",
@@ -3001,7 +3001,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLevelUp3",
-    "custom": "",
+    "custom": "Ты разумееш, што пачынаеш прасякаць сакрэт поспеху. Справа ўсяго толькі ў канцэнтрацыі.",
     "en": "You realize that you are catching on to the secret of success. It's just a matter of concentration.",
     "ru": "Ты понимаешь, что начинаешь просекать секрет успеха. Дело всего лишь в концентрации.",
     "bel": "Ты разумееш, што пачынаеш прасякаць сакрэт поспеху. Справа ўсяго толькі ў канцэнтрацыі.",
@@ -3009,7 +3009,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLevelUp4",
-    "custom": "",
+    "custom": "Раптам для цябе ўсё становіцца відавочным. Табе проста трэба сканцэнтравацца. Уся энергія і час, змарнаваныя дарма, — гэта грэх. Але без атрыманага вопыту, ідучы на рызыку, бяручы на сябе адказнасць за няўдачы, як бы ты змог гэта зразумець?",
     "en": "It's all suddenly obvious to you. You just have to concentrate. All the energy and time you've wasted -- it's a sin. But without the experience you've gained, taking risks, taking responsibility for failure, how could you have understood?",
     "ru": "Внезапно для тебя всё становится очевидным. Тебе просто нужно сконцентрироваться. Вся энергия и время, потраченные впустую, — это грех. Но без полученного опыта, идя на риск, беря на себя ответственность за неудачи, как бы ты смог это понять?",
     "bel": "Раптам для цябе ўсё становіцца відавочным. Табе проста трэба сканцэнтравацца. Уся энергія і час, змарнаваныя дарма, — гэта грэх. Але без атрыманага вопыту, ідучы на рызыку, бяручы на сябе адказнасць за няўдачы, як бы ты змог гэта зразумець?",
@@ -3017,7 +3017,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLevelUp5",
-    "custom": "",
+    "custom": "Усё, што ты робіш, становіцца крышачку лягчэйшым, інстынктыўнейшым і прыемнейшым. Як быццам у цябе раптам абвастрыліся пачуцці і інстынкты.",
     "en": "Everything you do is just a bit easier, more instinctive, more satisfying. It is as though you had suddenly developed keen senses and instincts.",
     "ru": "Всё, что ты делаешь, становится чуточку легче, инстинктивнее и приятнее. Как будто у тебя внезапно обострились чувства и инстинкты.",
     "bel": "Усё, што ты робіш, становіцца крышачку лягчэйшым, інстынктыўнейшым і прыемнейшым. Як быццам у цябе раптам абвастрыліся пачуцці і інстынкты.",
@@ -3025,7 +3025,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLevelUp6",
-    "custom": "",
+    "custom": "Ты адчуваеш сябе больш дасведчаным, больш адкрытым для новых ідэй. Ты шмат даведаўся пра Сірадыіл. Цяжка паверыць, якім невукам ты быў, -- але цяпер табе трэба будзе даведацца яшчэ больш.",
     "en": "You sense yourself more aware, more open to new ideas. You've learned a lot about Cyrodiil. It's hard to believe how ignorant you were -- but now you have so much more to learn.",
     "ru": "Вы чувствуете себя более осведомленным, более открытым для новых идей. Вы много узнали о Cyrodiil. Трудно поверить, каким невеждой вы были, -- но теперь вам предстоит узнать еще больше.",
     "bel": "Вы адчуваеце сябе больш дасведчаным, больш адкрытым для новых ідэй. Вы шмат даведаліся пра Cyrodiil. Цяжка паверыць, якім невукам вы былі, -- але цяпер вам трэба будзе даведацца яшчэ больш.",
@@ -3033,7 +3033,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLevelUp7",
-    "custom": "",
+    "custom": "Ты вырашаеш працягваць выпрабоўваць сябе. Магчыма, у табе больш, чым ты думаў.",
     "en": "You resolve to continue pushing yourself. Perhaps there's more to you than you thought.",
     "ru": "Вы решаете продолжать испытывать себя. Возможно, в вас больше, чем вы думали.",
     "bel": "Вы вырашаеце працягваць выпрабоўваць сябе. Магчыма, у вас больш, чым вы думалі.",
@@ -3041,7 +3041,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLevelUp8",
-    "custom": "",
+    "custom": "Здаецца, сакрэт сапраўды ва ўпартай працы, так, але яшчэ і ў свайго роду сляпой страсці, натхненні.",
     "en": "The secret does seem to be hard work, yes, but it's also a kind of blind passion, an inspiration.",
     "ru": "Кажется, секрет действительно в усердной работе, да, но ещё и в своего рода слепой страсти, вдохновении.",
     "bel": "Здаецца, сакрэт сапраўды ва ўпартай працы, так, але яшчэ і ў свайго роду сляпой страсці, натхненні.",
@@ -3049,7 +3049,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLevelUp9",
-    "custom": "",
+    "custom": "Вось, значыць, як яно працуе. Пляцешся сабе, перастаўляючы ногі адна за адной, падымаеш галаву, і раптам – вось ты дзе. Прама там, дзе заўсёды хацеў апынуцца.",
     "en": "So that's how it works. You plod along, putting one foot before the other, look up, and suddenly, there you are. Right where you wanted to be all along.",
     "ru": "Вот, значит, как оно работает. Плетёшься себе, переставляя ноги одна за другой, поднимаешь голову, и вдруг – вот ты где. Прямо там, где всегда хотел оказаться.",
     "bel": "Вось, значыць, як яно працуе. Пляцешся сабе, перастаўляючы ногі адна за адной, падымаеш галаву, і раптам – вось ты дзе. Прама там, дзе заўсёды хацеў апынуцца.",
@@ -3057,7 +3057,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLips",
-    "custom": "",
+    "custom": "Вусны",
     "en": "Lips",
     "ru": "Губы",
     "bel": "Вусны",
@@ -3065,7 +3065,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLipsflushed",
-    "custom": "",
+    "custom": "Вусны збялелі/наліліся фарбай",
     "en": "Lips Flushed/Pale",
     "ru": "Губы побледнели/налились краской",
     "bel": "Вусны збялелі/наліліся фарбай",
@@ -3073,7 +3073,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLipstickdarkblue",
-    "custom": "",
+    "custom": "Памада цёмна-сіняя/светла-чырвоная.",
     "en": "Lipstick Dark Blue/Light Red",
     "ru": "Губная помада темно-синяя/светло-красная.",
     "bel": "Памада цёмна-сіняя/светла-чырвоная.",
@@ -3081,7 +3081,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLipstickdarkred",
-    "custom": "",
+    "custom": "Памада цёмна-чырвоная/светла-сіняя",
     "en": "Lipstick Dark Red/Light Blue",
     "ru": "Губная помада тёмно-красная/светло-синяя",
     "bel": "Памада цёмна-чырвоная/светла-сіняя",
@@ -3089,7 +3089,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLoadFromMainMenu",
-    "custom": "",
+    "custom": "Вы ўпэўнены, што хочаце загрузіць гэтую гульню?",
     "en": "Are you sure you want to load this game?",
     "ru": "Вы уверены, что хотите загрузить эту игру?",
     "bel": "Вы ўпэўнены, што хочаце загрузіць гэтую гульню?",
@@ -3097,7 +3097,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLoadWhilePlaying",
-    "custom": "",
+    "custom": "Вы ўпэўнены, што хочаце загрузіць гэтую гульню?<lf><RT_BlueMed>Увесь незахаваны прагрэс будзе страчаны.</>",
     "en": "Are you sure you want to load this game?<lf><RT_BlueMed>All unsaved progress will be lost.</>",
     "ru": "Вы уверены, что хотите загрузить эту игру?<lf><RT_BlueMed>Весь несохраненный прогресс будет потерян.</>",
     "bel": "Вы ўпэўнены, што хочаце загрузіць гэтую гульню?<lf><RT_BlueMed>Увесь незахаваны прагрэс будзе страчаны.</>",
@@ -3105,7 +3105,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLoadingArea",
-    "custom": "",
+    "custom": "Зона загрузкі...",
     "en": "Loading area...",
     "ru": "Загрузочная зона...",
     "bel": "Зона загрузкі...",
@@ -3113,7 +3113,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLoadingContentMessage",
-    "custom": "",
+    "custom": "Загрузка дадатковага кантэнту. Калі ласка, пачакайце.",
     "en": "Loading extra content. Please wait.",
     "ru": "Загрузка дополнительного контента. Пожалуйста, подождите.",
     "bel": "Загрузка дадатковага кантэнту. Калі ласка, пачакайце.",
@@ -3121,7 +3121,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLoadingLOD",
-    "custom": "",
+    "custom": "Загрузка аддаленых LOD...",
     "en": "Loading distant LOD...",
     "ru": "Загрузка отдалённых LOD...",
     "bel": "Загрузка аддаленых LOD...",
@@ -3129,7 +3129,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLockLevelText",
-    "custom": "",
+    "custom": "Узровень узлому",
     "en": "Lock Level",
     "ru": "Уровень взлома",
     "bel": "Узровень узлому",
@@ -3137,7 +3137,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLockedContainer",
-    "custom": "",
+    "custom": "Кантэйнер зачынены. Патрэбны ключ або адмычка.",
     "en": "Container is locked.  You need the key or a lockpick.",
     "ru": "Контейнер заперт. Нужен ключ или отмычка.",
     "bel": "Кантэйнер зачынены. Патрэбны ключ або адмычка.",
@@ -3145,7 +3145,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLook",
-    "custom": "",
+    "custom": "Глядзі.",
     "en": "Look",
     "ru": "Смотри.",
     "bel": "Глядзі.",
@@ -3153,7 +3153,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLow",
-    "custom": "",
+    "custom": "Нізкі",
     "en": "Low",
     "ru": "Низкий",
     "bel": "Нізкі",
@@ -3161,7 +3161,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLowSoul",
-    "custom": "",
+    "custom": "Вы перавысілі максімальны ўзровень зачаравання для гэтага каменя душ.",
     "en": "You have exceeded the maximum enchantment level for this soul gem.",
     "ru": "Вы превысили максимальный уровень зачарования для этого камня душ.",
     "bel": "Вы перавысілі максімальны ўзровень зачаравання для гэтага каменя душ.",
@@ -3169,7 +3169,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLuckDescription",
-    "custom": "",
+    "custom": "Патрэбна апісанне сеттынгу гульні.",
     "en": "Need a gamesetting description.",
     "ru": "Нужно описание сеттинга игры.",
     "bel": "Патрэбна апісанне сеттынгу гульні.",
@@ -3177,7 +3177,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMagicAlreadyFull",
-    "custom": "",
+    "custom": "Паколькі ваша Магія на максімуме, Камень Велкінда застаецца зараджаным.",
     "en": "Because your Magicka is at maximum, the Welkynd Stone remains charged.",
     "ru": "Поскольку ваша Магия на максимуме, Камень Велкинда остаётся заряженным.",
     "bel": "Паколькі ваша Магія на максімуме, Камень Велкінда застаецца зараджаным.",
@@ -3185,7 +3185,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMagicDescription",
-    "custom": "",
+    "custom": "Патрэбна апісанне гульнявога асяроддзя.",
     "en": "Need a gamesetting description.",
     "ru": "Нужно описание игровой обстановки.",
     "bel": "Патрэбна апісанне гульнявога асяроддзя.",
@@ -3193,7 +3193,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMagicEffectResisted",
-    "custom": "",
+    "custom": "Эфект адлюстраваны.",
     "en": "effect resisted",
     "ru": "Эффект отражён.",
     "bel": "Эфект адлюстраваны.",
@@ -3201,7 +3201,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMagicName",
-    "custom": "",
+    "custom": "Магія",
     "en": "Magic",
     "ru": "Магия",
     "bel": "Магія",
@@ -3209,7 +3209,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMagnitudeIsLevelText",
-    "custom": "",
+    "custom": "Мэтавы ўзровень",
     "en": "Target Level",
     "ru": "Целевой уровень",
     "bel": "Мэтавы ўзровень",
@@ -3217,7 +3217,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMagnitudeText",
-    "custom": "",
+    "custom": "Велічыня",
     "en": "Magnitude",
     "ru": "Величина",
     "bel": "Велічыня",
@@ -3225,7 +3225,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMain",
-    "custom": "",
+    "custom": "Асноўнае",
     "en": "Main",
     "ru": "Основное",
     "bel": "Асноўнае",
@@ -3233,7 +3233,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMainMenu",
-    "custom": "",
+    "custom": "Галоўнае меню",
     "en": "Main Menu",
     "ru": "Главное меню",
     "bel": "Галоўнае меню",
@@ -3241,7 +3241,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMajorSkills",
-    "custom": "",
+    "custom": "Вы пачнеце з 25 (Узровень Падмайстар) у кожным з вашых асноўных навыкаў.",
     "en": "You will start at 25 (Apprentice Level) in each of your major skills.",
     "ru": "Вы начнете с 25 (Уровень Подмастерье) в каждом из ваших основных навыков.",
     "bel": "Вы пачнеце з 25 (Узровень Падмайстар) у кожным з вашых асноўных навыкаў.",
@@ -3249,7 +3249,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMakeDefaults",
-    "custom": "",
+    "custom": "Зрабіць гэтыя налады наладамі па змаўчанні?",
     "en": "Make these your default settings?",
     "ru": "Сделать эти настройки настройками по умолчанию?",
     "bel": "Зрабіць гэтыя налады наладамі па змаўчанні?",
@@ -3257,7 +3257,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMale",
-    "custom": "",
+    "custom": "Мужчынскі",
     "en": "Type 2",
     "ru": "Мужской",
     "bel": "Мужчынскі",
@@ -3265,7 +3265,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMapMarkerAdded",
-    "custom": "",
+    "custom": "На карту дададзены маркер.",
     "en": "Map marker added.",
     "ru": "На карту добавлен маркер.",
     "bel": "На карту дададзены маркер.",
@@ -3273,7 +3273,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMapMarkerNotFound",
-    "custom": "",
+    "custom": "Вы яшчэ не выявілі гэтае месцазнаходжанне.",
     "en": "You have not found this location yet.",
     "ru": "Вы ещё не обнаружили это местоположение.",
     "bel": "Вы яшчэ не выявілі гэтае месцазнаходжанне.",
@@ -3281,7 +3281,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMaxPotionsExceeded",
-    "custom": "",
+    "custom": "Вы не можаце выпіць больш зелляў прама зараз.",
     "en": "You cannot drink any more potions right now.",
     "ru": "Вы не можете выпить больше зелий прямо сейчас.",
     "bel": "Вы не можаце выпіць больш зелляў прама зараз.",
@@ -3289,7 +3289,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMeditate",
-    "custom": "",
+    "custom": "Вам варта адпачыць і паразважаць над тым, што вы даведаліся.",
     "en": "You should rest and meditate on what you've learned.",
     "ru": "Тебе следует отдохнуть и поразмыслить над тем, что ты узнал.",
     "bel": "Табе варта адпачыць і паразважаць над тым, што ты даведаўся.",
@@ -3297,7 +3297,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMedium",
-    "custom": "",
+    "custom": "Сярэдні",
     "en": "Medium",
     "ru": "Средний",
     "bel": "Сярэдні",
@@ -3305,7 +3305,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMenuDisplayAutosaveName",
-    "custom": "",
+    "custom": "Аўтазахаванне",
     "en": "Autosave",
     "ru": "Автосохранение",
     "bel": "Аўтазахаванне",
@@ -3313,7 +3313,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMenuDisplayDayString",
-    "custom": "",
+    "custom": "Дзень",
     "en": "Day",
     "ru": "День",
     "bel": "Дзень",
@@ -3321,7 +3321,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMenuDisplayLevelString",
-    "custom": "",
+    "custom": "Узровень",
     "en": "Level",
     "ru": "Уровень",
     "bel": "Узровень",
@@ -3329,7 +3329,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMenuDisplayNewSave",
-    "custom": "",
+    "custom": "Новае захаванне",
     "en": "New Save",
     "ru": "Новое сохранение",
     "bel": "Новае захаванне",
@@ -3337,7 +3337,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMenuDisplayNoSaves",
-    "custom": "",
+    "custom": "Няма захаваных гульняў.",
     "en": "No saved games.",
     "ru": "Нет сохранённых игр.",
     "bel": "Няма захаваных гульняў.",
@@ -3345,7 +3345,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMenuDisplayPlayTime",
-    "custom": "",
+    "custom": "Час Гульні",
     "en": "Play Time",
     "ru": "Время Игры",
     "bel": "Час Гульні",
@@ -3353,7 +3353,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMenuDisplayQuicksaveName",
-    "custom": "",
+    "custom": "Хуткае захаванне",
     "en": "Quicksave",
     "ru": "Быстрое сохранение",
     "bel": "Хуткае захаванне",
@@ -3361,7 +3361,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMenuDisplaySave",
-    "custom": "",
+    "custom": "Захаваць",
     "en": "Save",
     "ru": "Сохранить",
     "bel": "Захаваць",
@@ -3369,7 +3369,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMenuDisplayShortXBoxSaveMessage",
-    "custom": "",
+    "custom": "Захаванне...",
     "en": "Saving...",
     "ru": "Сохранение...",
     "bel": "Захаванне...",
@@ -3377,7 +3377,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMenuDisplayUnknownLocationString",
-    "custom": "",
+    "custom": "Невядомая лакацыя",
     "en": "Unknown Location",
     "ru": "Неизвестная локация",
     "bel": "Невядомая лакацыя",
@@ -3385,7 +3385,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMenuDisplayXBoxSaveMessage",
-    "custom": "",
+    "custom": "Ідзе захаванне. Калі ласка, не выключайце кансоль.",
     "en": "Saving content. Please don't turn off your console.",
     "ru": "Идёт сохранение. Пожалуйста, не выключайте консоль.",
     "bel": "Ідзе захаванне. Калі ласка, не выключайце кансоль.",
@@ -3393,7 +3393,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMerchantNoGold",
-    "custom": "",
+    "custom": "У гандляра недастаткова золата.",
     "en": "Merchant does not have enough gold.",
     "ru": "У торговца недостаточно золота.",
     "bel": "У гандляра недастаткова золата.",
@@ -3417,7 +3417,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscArtifactsFound",
-    "custom": "",
+    "custom": "Артэфакты знойдзены.",
     "en": "Artifacts Found",
     "ru": "Артефакты найдены.",
     "bel": "Артэфакты знойдзены.",
@@ -3425,7 +3425,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscBounty",
-    "custom": "",
+    "custom": "Узнагарода",
     "en": "Bounty",
     "ru": "Награда",
     "bel": "Узнагарода",
@@ -3433,7 +3433,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscCharge",
-    "custom": "",
+    "custom": "Зараджай",
     "en": "Charge",
     "ru": "Заряжай",
     "bel": "Зараджай",
@@ -3441,7 +3441,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscConstantEffect",
-    "custom": "",
+    "custom": "Пастаянны эфект",
     "en": "Constant Effect",
     "ru": "Постоянный эффект",
     "bel": "Пастаянны эфект",
@@ -3449,7 +3449,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscDaysAsAVampire",
-    "custom": "",
+    "custom": "Дзён у якасці вампіра",
     "en": "Days as a Vampire",
     "ru": "Дни в качестве вампира",
     "bel": "Дзён у якасці вампіра",
@@ -3457,7 +3457,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscDaysJailed",
-    "custom": "",
+    "custom": "Дзён у турме",
     "en": "Days Jailed",
     "ru": "Дней в тюрьме",
     "bel": "Дзён у турме",
@@ -3465,7 +3465,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscDiseasesContracted",
-    "custom": "",
+    "custom": "Заражаныя хваробы",
     "en": "Diseases Contracted",
     "ru": "Заражённые болезни",
     "bel": "Заражаныя хваробы",
@@ -3497,7 +3497,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscHighLockLevel",
-    "custom": "",
+    "custom": "Максімальны ўзровень узламанага замка",
     "en": "Highest Lock Level Picked",
     "ru": "Максимальный уровень взломанного замка",
     "bel": "Максімальны ўзровень узламанага замка",
@@ -3505,7 +3505,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscHorsesOwned",
-    "custom": "",
+    "custom": "Набытыя коні",
     "en": "Horses Owned",
     "ru": "Приобретённые лошади",
     "bel": "Набытыя коні",
@@ -3513,7 +3513,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscHoursSlept",
-    "custom": "",
+    "custom": "Гадзін Сну",
     "en": "Hours Slept",
     "ru": "Часов Сна",
     "bel": "Гадзін Сну",
@@ -3521,7 +3521,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscHoursWaited",
-    "custom": "",
+    "custom": "Гадзін Чакання",
     "en": "Hours Waited",
     "ru": "Часов Ожидания",
     "bel": "Гадзін Чакання",
@@ -3529,7 +3529,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscHousesOwned",
-    "custom": "",
+    "custom": "Набытыя дамы",
     "en": "Houses Owned",
     "ru": "Приобретённые дома",
     "bel": "Набытыя дамы",
@@ -3537,7 +3537,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscInfamy",
-    "custom": "",
+    "custom": "Бясчэсце",
     "en": "Infamy",
     "ru": "Бесчестье",
     "bel": "Бясчэсце",
@@ -3545,7 +3545,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscIngredientsEaten",
-    "custom": "",
+    "custom": "З'едзена інгрэдыентаў",
     "en": "Ingredients Eaten",
     "ru": "Съедено ингредиентов",
     "bel": "З'едзена інгрэдыентаў",
@@ -3553,7 +3553,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscJokesTold",
-    "custom": "",
+    "custom": "Расказаныя жарты",
     "en": "Jokes Told",
     "ru": "Рассказанные шутки",
     "bel": "Расказаныя жарты",
@@ -3569,7 +3569,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscLargestBounty",
-    "custom": "",
+    "custom": "Самая вялікая ўзнагарода",
     "en": "Largest Bounty",
     "ru": "Самая большая награда",
     "bel": "Самая вялікая ўзнагарода",
@@ -3577,7 +3577,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscMasterSkills",
-    "custom": "",
+    "custom": "Майстэрства навыкаў",
     "en": "Master Skills",
     "ru": "Мастерство навыков",
     "bel": "Майстэрства навыкаў",
@@ -3585,7 +3585,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscNirnrootsFound",
-    "custom": "",
+    "custom": "Знойдзена каранёў Нірна",
     "en": "Nirnroots Found",
     "ru": "Найдено корней Нирна",
     "bel": "Знойдзена каранёў Нірна",
@@ -3593,7 +3593,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscNoviceSkills",
-    "custom": "",
+    "custom": "Навыкі пачаткоўца",
     "en": "Novice Skills",
     "ru": "Навыки новичка",
     "bel": "Навыкі пачаткоўца",
@@ -3601,7 +3601,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscNumAssaults",
-    "custom": "",
+    "custom": "Напады",
     "en": "Assaults",
     "ru": "Нападения",
     "bel": "Напады",
@@ -3609,7 +3609,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscNumBooksRead",
-    "custom": "",
+    "custom": "Прачытаныя Кнігі",
     "en": "Books Read",
     "ru": "Прочитанные Книги",
     "bel": "Прачытаныя Кнігі",
@@ -3617,7 +3617,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscNumHorsesStolen",
-    "custom": "",
+    "custom": "Скрадзены коні",
     "en": "Horses Stolen",
     "ru": "Украдены лошади",
     "bel": "Скрадзены коні",
@@ -3625,7 +3625,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscNumKills",
-    "custom": "",
+    "custom": "Забіта істот",
     "en": "Creatures Killed",
     "ru": "Убито существ",
     "bel": "Забіта істот",
@@ -3633,7 +3633,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscNumLocksPicked",
-    "custom": "",
+    "custom": "Узламана замкоў",
     "en": "Locks Picked",
     "ru": "Взломано замков",
     "bel": "Узламана замкоў",
@@ -3641,7 +3641,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscNumMurders",
-    "custom": "",
+    "custom": "Забойствы",
     "en": "Murders",
     "ru": "Убийства",
     "bel": "Забойствы",
@@ -3649,7 +3649,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscNumPersonKills",
-    "custom": "",
+    "custom": "Забіта людзей",
     "en": "People Killed",
     "ru": "Убито людей",
     "bel": "Забіта людзей",
@@ -3657,7 +3657,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscNumPicksBroken",
-    "custom": "",
+    "custom": "Адмычкі Зламаныя",
     "en": "Lockpicks Broken",
     "ru": "Отмычки Сломаны",
     "bel": "Адмычкі Зламаныя",
@@ -3665,7 +3665,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscNumPlacesDiscovered",
-    "custom": "",
+    "custom": "Адкрытыя Месцы",
     "en": "Places Discovered",
     "ru": "Открытые Места",
     "bel": "Адкрытыя Месцы",
@@ -3673,7 +3673,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscNumPocketsPicked",
-    "custom": "",
+    "custom": "Прадметы, скрадзеныя з кішэняў",
     "en": "Items Pickpocketed",
     "ru": "Предметы, украденные из карманов",
     "bel": "Прадметы, скрадзеныя з кішэняў",
@@ -3681,7 +3681,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscNumSkillBooksRead",
-    "custom": "",
+    "custom": "Прачытаныя кнігі навыкаў",
     "en": "Skill Books Read",
     "ru": "Прочитанные книги навыков",
     "bel": "Прачытаныя кнігі навыкаў",
@@ -3689,7 +3689,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscNumThefts",
-    "custom": "",
+    "custom": "Прадметы скрадзены",
     "en": "Items Stolen",
     "ru": "Предметы украдены",
     "bel": "Прадметы скрадзены",
@@ -3697,7 +3697,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscNumTrespasses",
-    "custom": "",
+    "custom": "Парушэнні",
     "en": "Trespasses",
     "ru": "Нарушения",
     "bel": "Парушэнні",
@@ -3705,7 +3705,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscOblivionGatesShut",
-    "custom": "",
+    "custom": "Брамы Аблівіёна зачынены.",
     "en": "Oblivion Gates Shut",
     "ru": "Врата Обливиона закрыты.",
     "bel": "Брамы Аблівіёна зачынены.",
