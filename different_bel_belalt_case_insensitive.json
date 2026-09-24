@@ -3979,7 +3979,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Atraena",
-    "custom": "",
+    "custom": "Атраэна",
     "en": "Atraena",
     "ru": "Атрейна",
     "bel": "Атрэйна",
@@ -3988,7 +3988,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AtronachFrost",
-    "custom": "",
+    "custom": "Мароз атранаха",
     "en": "Atronach Frost",
     "ru": "Морозный Атронах",
     "bel": "Марозны Атронах",
@@ -3997,7 +3997,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AtronachStorm",
-    "custom": "",
+    "custom": "Шторм атранаха",
     "en": "Atronach Storm",
     "ru": "Атронахий Грозы",
     "bel": "Атронах Грозы",
@@ -4006,7 +4006,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Attack",
-    "custom": "",
+    "custom": "Атака",
     "en": "Attack",
     "ru": "Атаковать",
     "bel": "Атакаваць",
@@ -4015,7 +4015,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AugustaCalidia",
-    "custom": "",
+    "custom": "Аўгуста Калідзія",
     "en": "Augusta Calidia",
     "ru": "Аугуста Калидия",
     "bel": "Аўгуста Калідыя",
@@ -4024,7 +4024,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AvieraNirol",
-    "custom": "",
+    "custom": "Авіера Нірол",
     "en": "Aviera Nirol",
     "ru": "Авиера Нирол",
     "bel": "Авіера Нірол",
@@ -4033,7 +4033,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AyleidReference",
-    "custom": "",
+    "custom": "Айлейдская спасылка",
     "en": "Ayleid Reference",
     "ru": "Айлейдский текст",
     "bel": "Айлейдскі тэкст",
@@ -4042,7 +4042,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AzaniBlackheart",
-    "custom": "",
+    "custom": "Азані Чарнасэрдны",
     "en": "Azani Blackheart",
     "ru": "Азани Черное Сердце",
     "bel": "Азані Чорнае Сэрца",
@@ -4051,7 +4051,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AzaniBlackheartTOPIC",
-    "custom": "",
+    "custom": "Азані Чарнасэрдны",
     "en": "Azani Blackheart",
     "ru": "Азани Черное Сердце",
     "bel": "Азані Чорнае Сэрца",
@@ -4060,7 +4060,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_AzurasShrine",
-    "custom": "",
+    "custom": "Святыня Азуры",
     "en": "Azura's Shrine",
     "ru": "Святилище Азуры",
     "bel": "Свяцілішча Азуры",
@@ -4069,7 +4069,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BABO",
-    "custom": "",
+    "custom": "Прызваныя боты",
     "en": "Bound Boots",
     "ru": "Призванные сапоги",
     "bel": "Прызваныя боты",
@@ -4078,7 +4078,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BACU",
-    "custom": "",
+    "custom": "Прызваная кіраса",
     "en": "Bound Cuirass",
     "ru": "Призванная кираса",
     "bel": "Прызваная кіраса",
@@ -4087,7 +4087,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BAGA",
-    "custom": "",
+    "custom": "Прызваныя пальчаткі",
     "en": "Bound Gauntlets",
     "ru": "Призванные перчатки",
     "bel": "Прызваныя пальчаткі",
@@ -4096,7 +4096,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BAGR",
-    "custom": "",
+    "custom": "Прызваныя понажы",
     "en": "Bound Greaves",
     "ru": "Призванные поножи",
     "bel": "Прызваныя набедраннікі",
@@ -4105,7 +4105,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BAHE",
-    "custom": "",
+    "custom": "Прызваны шлем",
     "en": "Bound Helmet",
     "ru": "Призванный шлем",
     "bel": "Прызваны шлем",
@@ -4114,7 +4114,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BASH",
-    "custom": "",
+    "custom": "Прызваны шчыт",
     "en": "Bound Shield",
     "ru": "Призванный щит",
     "bel": "Прызваны шчыт",
@@ -4123,7 +4123,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BCDeadGuy01",
-    "custom": "",
+    "custom": "Член кампаніі \"Чорны лес\"",
     "en": "Blackwood Company Member",
     "ru": "Член компании \"Черный лес\"",
     "bel": "Член кампаніі \"Чорны лес\"",
@@ -4132,7 +4132,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BOASTDISLIKE",
-    "custom": "",
+    "custom": "Непрыязнасць да выхвалянняў",
     "en": "BOAST_DISLIKE",
     "ru": "Не люблю хвастаться.",
     "bel": "Не люблю выхваляцца.",
@@ -4141,7 +4141,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BOASTHATE",
-    "custom": "",
+    "custom": "Нянавісць да выхвалянняў",
     "en": "BOAST_HATE",
     "ru": "Ненавижу хвастовство.",
     "bel": "Ненавіджу хвальбу.",
@@ -4150,7 +4150,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BOASTLIKE",
-    "custom": "",
+    "custom": "Сімпатыя да выхвалянняў",
     "en": "BOAST_LIKE",
     "ru": "Хвастаться_как",
     "bel": "Хваліцца_як",
@@ -4159,7 +4159,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BOASTLOVE",
-    "custom": "",
+    "custom": "Любоў да выхвалянняў",
     "en": "BOAST_LOVE",
     "ru": "Выставлять любовь напоказ",
     "bel": "Выстаўляць любоў напаказ",
@@ -4168,7 +4168,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BRDN",
-    "custom": "",
+    "custom": "Цяжар",
     "en": "Burden",
     "ru": "Обуза",
     "bel": "Абуза",
@@ -4177,7 +4177,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BSApprentice",
-    "custom": "",
+    "custom": "Знак нараджэння Вучня",
     "en": "Apprentice Birthsign",
     "ru": "Знак Ученика",
     "bel": "Знак Вучня",
@@ -4186,7 +4186,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BSAtronach",
-    "custom": "",
+    "custom": "Знак нараджэння Атронаха",
     "en": "Atronach Birthsign",
     "ru": "Знак Атронаха",
     "bel": "Знак Атронаха",
@@ -4195,7 +4195,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BSLadyGraceUNUSED",
-    "custom": "",
+    "custom": "Грацыя Лэдзі",
     "en": "Lady's Grace",
     "ru": "Благосклонность Леди",
     "bel": "Прыхальнсць Лэдзі",
@@ -4204,7 +4204,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BSLord",
-    "custom": "",
+    "custom": "Знак нараджэння Лорда",
     "en": "Lord Birthsign",
     "ru": "Повелитель знака рождения",
     "bel": "Уладар знака нараджэння",
@@ -4213,7 +4213,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BSLordTrollkin",
-    "custom": "",
+    "custom": "Тролькін",
     "en": "Trollkin",
     "ru": "Троллеподобие",
     "bel": "Тролепадабенства",
@@ -4222,7 +4222,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BSLoverKiss",
-    "custom": "",
+    "custom": "Пацалунак закаханага",
     "en": "Lover's Kiss",
     "ru": "Поцелуй Любовника",
     "bel": "Пацалунак Каханка",
@@ -4231,7 +4231,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BSMage",
-    "custom": "",
+    "custom": "Знак нараджэння Мага",
     "en": "Mage Birthsign",
     "ru": "Знак Мага",
     "bel": "Знак Мага",
@@ -4240,7 +4240,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BSNPCAtronach",
-    "custom": "",
+    "custom": "NPC - знак нараджэння Атронаха",
     "en": "NPC Atronach Birthsign",
     "ru": "NPC - знак Атронаха",
     "bel": "NPC - знак Атронаха",
@@ -4249,7 +4249,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BSRitualBlessedTouchUNUSED",
-    "custom": "",
+    "custom": "Дабраславёны дотык",
     "en": "Blessed Touch",
     "ru": "Благословенное касание",
     "bel": "Благаславёны дотык",
@@ -4258,7 +4258,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BSRitualBlessedWord",
-    "custom": "",
+    "custom": "Дабраславёнае слова",
     "en": "Blessed Word",
     "ru": "Слово благословения",
     "bel": "Слова благаславення",
@@ -4267,7 +4267,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BSSerpent",
-    "custom": "",
+    "custom": "Заклён Змея",
     "en": "Serpent Spell",
     "ru": "Заклинание Змея",
     "bel": "Заклён Змея",
@@ -4276,7 +4276,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BSShadowMooncalfUNUSED",
-    "custom": "",
+    "custom": "Месяцовае цяля",
     "en": "Mooncalf",
     "ru": "Идиотия",
     "bel": "Ідыятыя",
@@ -4285,7 +4285,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BSShadowMoonshadow",
-    "custom": "",
+    "custom": "Месяцовы цень",
     "en": "Moonshadow",
     "ru": "Лунная Тень",
     "bel": "Месяцовы Цень",
@@ -4294,7 +4294,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BSSteed",
-    "custom": "",
+    "custom": "Знак нараджэння Каня",
     "en": "Steed Birthsign",
     "ru": "Знак Коня",
     "bel": "Знак Каня",
@@ -4303,7 +4303,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BSTower",
-    "custom": "",
+    "custom": "Ключ ад вежы",
     "en": "Tower Key",
     "ru": "Башенный ключ",
     "bel": "Вежавы ключ",
@@ -4312,7 +4312,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BSTowerBeggarsNoseUNUSED",
-    "custom": "",
+    "custom": "Нос жабрака",
     "en": "Beggar's Nose",
     "ru": "Нюх бродяги",
     "bel": "Нюх валацугі",
@@ -4321,7 +4321,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BSTowerWarden",
-    "custom": "",
+    "custom": "Наглядчык вежы",
     "en": "Tower Warden",
     "ru": "Смотритель Башни",
     "bel": "Наглядчык Вежы",
@@ -4330,7 +4330,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BSWarrior",
-    "custom": "",
+    "custom": "Знак нараджэння Воіна",
     "en": "Warrior Birthsign",
     "ru": "Знак Воина",
     "bel": "Знак Воіна",
@@ -4339,7 +4339,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BW06",
-    "custom": "",
+    "custom": "Звязаная зброя Ордэна 6",
     "en": "Bound Order Weapon 6",
     "ru": "Оружие Связанного Ордена 6",
     "bel": "Зброя Звязанага Ордэна 6",
@@ -4348,7 +4348,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BW07",
-    "custom": "",
+    "custom": "Прызыў посаха Шэагарата",
     "en": "Summon Staff of Sheogorath",
     "ru": "Вызов Посоха Шеогората",
     "bel": "Выклік Посаха Шэагарата",
@@ -4357,7 +4357,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BW08",
-    "custom": "",
+    "custom": "Прызваны кінжал жраца",
     "en": "Bound Priest Dagger",
     "ru": "Призванный кинжал жреца",
     "bel": "Прызваны кінжал жраца",
@@ -4366,7 +4366,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BWAX",
-    "custom": "",
+    "custom": "Прызваная сякера",
     "en": "Bound Axe",
     "ru": "Призванный топор",
     "bel": "Прызваны сякера",
@@ -4375,7 +4375,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BWBO",
-    "custom": "",
+    "custom": "Прызваны лук",
     "en": "Bound Bow",
     "ru": "Призванный лук",
     "bel": "Прызваны лук",
@@ -4429,7 +4429,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BWDA",
-    "custom": "",
+    "custom": "Прызваны кінжал",
     "en": "Bound Dagger",
     "ru": "Призванный кинжал",
     "bel": "Прызваны кінжал",
@@ -4438,7 +4438,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BWMA",
-    "custom": "",
+    "custom": "Прызваная булава",
     "en": "Bound Mace",
     "ru": "Призванная булава",
     "bel": "Прызваная булава",
@@ -4447,7 +4447,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BWSW",
-    "custom": "",
+    "custom": "Прызваны меч",
     "en": "Bound Sword",
     "ru": "Призванный меч",
     "bel": "Прызваны меч",
@@ -4456,7 +4456,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BackwashCamp",
-    "custom": "",
+    "custom": "Лагер адваротнай плыні",
     "en": "Backwash Camp",
     "ru": "Лагерь «Обратка»",
     "bel": "Лагер «Адкат»",
@@ -4465,7 +4465,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BackwashCampRegion",
-    "custom": "",
+    "custom": "Лагер адваротнай плыні",
     "en": "Backwash Camp",
     "ru": "Лагерь Бэквош",
     "bel": "Лагер Бэквош",
@@ -4483,7 +4483,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BaenlinCrawlSpaceDoor",
-    "custom": "",
+    "custom": "Дзверы ў падполле",
     "en": "Crawlspace Door",
     "ru": "Дверь каморки",
     "bel": "Дзверы каморкі",
@@ -4510,7 +4510,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Baeralorn",
-    "custom": "",
+    "custom": "Бэралорн",
     "en": "Baeralorn",
     "ru": "Бэралорн",
     "bel": "Бэралорн",
@@ -4519,7 +4519,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BaeralornKey",
-    "custom": "",
+    "custom": "Ключ Бэралорна",
     "en": "Baeralorn's Key",
     "ru": "Ключ Бэралорна",
     "bel": "Ключ Бэралорна",
@@ -4528,7 +4528,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BanditBlackBowBoss4Female1",
-    "custom": "",
+    "custom": "Важак Чорнага лука",
     "en": "Black Bow Ringleader",
     "ru": "Главарь Черного лука",
     "bel": "Галоўны Чорнага лука",
@@ -4537,7 +4537,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BanditBlackBowBoss4Female2",
-    "custom": "",
+    "custom": "Важак Чорнага лука",
     "en": "Black Bow Ringleader",
     "ru": "Главарь Черного лука",
     "bel": "Галоўны Чорнага лука",
@@ -4546,7 +4546,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BanditBlackBowBoss4Female3",
-    "custom": "",
+    "custom": "Важак Чорнага лука",
     "en": "Black Bow Ringleader",
     "ru": "Главарь Черного лука",
     "bel": "Галоўны Чорнага лука",
@@ -4555,7 +4555,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BanditBlackBowBoss4Male1",
-    "custom": "",
+    "custom": "Важак Чорнага лука",
     "en": "Black Bow Ringleader",
     "ru": "Главарь Черного лука",
     "bel": "Галоўны Чорнага лука",
@@ -4564,7 +4564,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BanditBlackBowBoss4Male2",
-    "custom": "",
+    "custom": "Важак Чорнага лука",
     "en": "Black Bow Ringleader",
     "ru": "Главарь Черного лука",
     "bel": "Галоўны Чорнага лука",
@@ -4573,7 +4573,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BanditBlackBowBoss4Male3",
-    "custom": "",
+    "custom": "Важак Чорнага лука",
     "en": "Black Bow Ringleader",
     "ru": "Главарь Черного лука",
     "bel": "Галоўны Чорнага лука",
@@ -4582,7 +4582,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BanditBoss",
-    "custom": "",
+    "custom": "Бос бандытаў",
     "en": "Bandit Boss",
     "ru": "Бандит-главарь",
     "bel": "Бандыт-галоўны",
@@ -4645,7 +4645,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BanditFaction_LEVEL0_F",
-    "custom": "",
+    "custom": "Пяхотнік",
     "en": "Grunt",
     "ru": "Пехотинец",
     "bel": "Пяхотнік",
@@ -4654,7 +4654,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BanditFaction_LEVEL0_M",
-    "custom": "",
+    "custom": "Пяхотнік",
     "en": "Grunt",
     "ru": "Хрюкать",
     "bel": "Хрокаць",
@@ -4663,7 +4663,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BanditHighwayman01",
-    "custom": "",
+    "custom": "Разбойнік з вялікай дарогі",
     "en": "Highwayman",
     "ru": "Разбойник",
     "bel": "Разбойнік",
@@ -4672,7 +4672,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BanditHighwayman02",
-    "custom": "",
+    "custom": "Разбойнік з вялікай дарогі",
     "en": "Highwayman",
     "ru": "Разбойник",
     "bel": "Разбойнік",
@@ -4681,7 +4681,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BanditHighwayman03",
-    "custom": "",
+    "custom": "Разбойнік з вялікай дарогі",
     "en": "Highwayman",
     "ru": "Разбойник",
     "bel": "Разбойнік",
@@ -4690,7 +4690,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BanditHighwayman04",
-    "custom": "",
+    "custom": "Разбойнік з вялікай дарогі",
     "en": "Highwayman",
     "ru": "Разбойник",
     "bel": "Разбойнік",
@@ -4789,7 +4789,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BanditRobberTEMPLATE",
-    "custom": "",
+    "custom": "Разбойнік з вялікай дарогі",
     "en": "Highwayman",
     "ru": "Разбойник",
     "bel": "Разбойнік",
@@ -4798,7 +4798,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BanditTestKey",
-    "custom": "",
+    "custom": "Ключ бандыта",
     "en": "Bandit Key",
     "ru": "Ключ бандита",
     "bel": "Ключ бандыта",
@@ -4807,7 +4807,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BanditWizard",
-    "custom": "",
+    "custom": "Фанатык-чарадзей",
     "en": "Zealot Wizard",
     "ru": "Зелот-волшебник",
     "bel": "Зелот-чарадзей",
@@ -4816,7 +4816,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BanditWizardFemale3A",
-    "custom": "",
+    "custom": "Бандыт-чарадзей",
     "en": "Bandit Hedge Wizard",
     "ru": "Бандит-волшебник",
     "bel": "Бандыт-чарадзей",
@@ -4825,7 +4825,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BanditWizardFemale4A",
-    "custom": "",
+    "custom": "Бандыт-чарадзей",
     "en": "Bandit Hedge Wizard",
     "ru": "Бандит-волшебник",
     "bel": "Бандыт-чарадзей",
@@ -4834,7 +4834,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BanditWizardMale2",
-    "custom": "",
+    "custom": "Бандыт-чарадзей",
     "en": "Bandit Hedge Wizard",
     "ru": "Бандит-волшебник",
     "bel": "Бандыт-чарадзей",
@@ -4843,7 +4843,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BanditWizardMale3B",
-    "custom": "",
+    "custom": "Бандыт-чарадзей",
     "en": "Bandit Hedge Wizard",
     "ru": "Бандит-волшебник",
     "bel": "Бандыт-чарадзей",
@@ -4852,7 +4852,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BanditWizardMale4B",
-    "custom": "",
+    "custom": "Бандыт-чарадзей",
     "en": "Bandit Hedge Wizard",
     "ru": "Бандит-волшебник",
     "bel": "Бандыт-чарадзей",
@@ -4861,7 +4861,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Bantien",
-    "custom": "",
+    "custom": "Банціен",
     "en": "Bantien",
     "ru": "Бантиен",
     "bel": "Банціен",
@@ -4870,7 +4870,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BanusTalk",
-    "custom": "",
+    "custom": "Размова Бануса",
     "en": "BanusTalk",
     "ru": "Болтовня Banus",
     "bel": "Балбатня Banus",
@@ -4879,7 +4879,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BarrenCave",
-    "custom": "",
+    "custom": "Бясплодная пячора",
     "en": "Barren Cave",
     "ru": "Пустая пещера",
     "bel": "Пустая пячора",
@@ -4888,7 +4888,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BarrenMine",
-    "custom": "",
+    "custom": "Бясплодная шахта",
     "en": "Barren Mine",
     "ru": "Пустая шахта",
     "bel": "Пустая шахта",
@@ -4897,7 +4897,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BarrenMineKey",
-    "custom": "",
+    "custom": "Ключ ад камеры Пажыральніка праху",
     "en": "Dust Eater Cell Key",
     "ru": "Ключ Поедателей праха",
     "bel": "Ключ Пажыральнікаў праху",
@@ -4906,7 +4906,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Barter",
-    "custom": "",
+    "custom": "Гандаль",
     "en": "Barter",
     "ru": "Бартер",
     "bel": "Бартэр",
@@ -4915,7 +4915,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BarterBuyItem",
-    "custom": "",
+    "custom": "Купля прадмета",
     "en": "BarterBuyItem",
     "ru": "ОбменПредмета",
     "bel": "АбменПрадмэта",
@@ -4924,7 +4924,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BarterExit",
-    "custom": "",
+    "custom": "Выхад з гандлю",
     "en": "BarterExit",
     "ru": "ОбменВыход",
     "bel": "АбменВыхад",
@@ -4933,7 +4933,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BarterFail",
-    "custom": "",
+    "custom": "Няўдалы гандаль",
     "en": "BarterFail",
     "ru": "ОбменНеУдался",
     "bel": "АбменНеАтрымаўся",
@@ -4942,7 +4942,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BarterSellItem",
-    "custom": "",
+    "custom": "Продаж прадмета",
     "en": "BarterSellItem",
     "ru": "ОбменятьПродатьВещь",
     "bel": "АбмяняцьПрадацьРэч",
@@ -4951,7 +4951,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BarterStolen",
-    "custom": "",
+    "custom": "Гандаль крадзеным",
     "en": "BarterStolen",
     "ru": "ОбменКраденым",
     "bel": "АбменКрадзеным",
@@ -4960,7 +4960,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BasilErnarde",
-    "custom": "",
+    "custom": "Базіл Эрнардэ",
     "en": "Basil Ernarde",
     "ru": "Базиль Эрнанд",
     "bel": "Базіль Эрнанд",
@@ -4969,7 +4969,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattleMatronTopic",
-    "custom": "",
+    "custom": "Баявая матрона",
     "en": "Battle Matron",
     "ru": "Смотрительница",
     "bel": "Наглядчыца",
@@ -4987,7 +4987,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornCastle",
-    "custom": "",
+    "custom": "Замак Баявога Рога",
     "en": "Battlehorn Castle",
     "ru": "Замок Battlehorn",
     "bel": "Замак Battlehorn",
@@ -4996,7 +4996,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornCastleBasement",
-    "custom": "",
+    "custom": "Падвал Замка Баявога Рога",
     "en": "Battlehorn Castle Basement",
     "ru": "Подвал замка Battlehorn",
     "bel": "Падвал замка Battlehorn",
@@ -5005,7 +5005,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornCastleBlacksmithHouse",
-    "custom": "",
+    "custom": "Дом каваля Замка Баявога Рога",
     "en": "Battlehorn Castle Blacksmith House",
     "ru": "Дом кузнеца в замке Батлхорн.",
     "bel": "Дом каваля ў замку Батлхорн.",
@@ -5014,7 +5014,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornCastleDoor01Storage",
-    "custom": "",
+    "custom": "Драўляныя дзверы",
     "en": "Wooden Door",
     "ru": "Деревянная дверь.",
     "bel": "Драўляныя дзверы.",
@@ -5023,7 +5023,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornCastleDoor02Master",
-    "custom": "",
+    "custom": "Гаспадарская спальня",
     "en": "Master Bedroom",
     "ru": "Главная спальня",
     "bel": "Галоўная спальня",
@@ -5032,7 +5032,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornCastleEastWing",
-    "custom": "",
+    "custom": "Усходняе крыло Замка Баявога Рога",
     "en": "Battlehorn Castle East Wing",
     "ru": "Крыло Battlehorn Castle, восточное",
     "bel": "Крыло Battlehorn Castle, усходняе",
@@ -5041,7 +5041,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornCastleForgottenPassage",
-    "custom": "",
+    "custom": "Грот Замка Баявога Рога",
     "en": "Battlehorn Castle Grotto",
     "ru": "Грот замка Battlehorn.",
     "bel": "Грот замка Battlehorn.",
@@ -5050,7 +5050,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornCastleGatehouse",
-    "custom": "",
+    "custom": "Брама Замка Баявога Рога",
     "en": "Battlehorn Castle Gatehouse",
     "ru": "Сторожка замка Battlehorn.",
     "bel": "Вартоўня замка Battlehorn.",
@@ -5059,7 +5059,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornCastleGreatHall",
-    "custom": "",
+    "custom": "Вялікая зала Замка Баявога Рога",
     "en": "Battlehorn Castle Great Hall",
     "ru": "Большой зал замка Battlehorn.",
     "bel": "Вялікая зала замка Battlehorn.",
@@ -5068,7 +5068,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornCastleMasterBedroom",
-    "custom": "",
+    "custom": "Прыватныя пакоі Замка Баявога Рога",
     "en": "Battlehorn Castle Private Quarters",
     "ru": "Личные покои замка Боевой Рог.",
     "bel": "Асабістыя пакоі замка Баявы Рог.",
@@ -5077,7 +5077,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornCastleTowerN",
-    "custom": "",
+    "custom": "Паўночная вежа Замка Баявога Рога",
     "en": "Battlehorn Castle North Tower",
     "ru": "Северная башня замка Battlehorn.",
     "bel": "Паўночная вежа замка Battlehorn.",
@@ -5086,7 +5086,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornCastleTowerS",
-    "custom": "",
+    "custom": "Паўднёвая вежа Замка Баявога Рога",
     "en": "Battlehorn Castle South Tower",
     "ru": "Южная Башня замка Battlehorn",
     "bel": "Паўднёвая Вежа замка Battlehorn",
@@ -5095,7 +5095,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornCastleTrapDoor01",
-    "custom": "",
+    "custom": "Люк",
     "en": "Trap Door",
     "ru": "Люк-ловушка",
     "bel": "Люк-пастка",
@@ -5131,7 +5131,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornChestJewelryMiddle01",
-    "custom": "",
+    "custom": "Скрынка для ўпрыгожванняў",
     "en": "Jewelry Box",
     "ru": "Шкатулка для драгоценностей",
     "bel": "Скрыначка для каштоўнасцей",
@@ -5140,7 +5140,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornChestSpecial01",
-    "custom": "",
+    "custom": "Куфар лорда Кельвіна",
     "en": "Lord Kelvyn's Chest",
     "ru": "Сундук лорда Кельвина",
     "bel": "Куфар лорда Кельвіна",
@@ -5149,7 +5149,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornDrinkA",
-    "custom": "",
+    "custom": "Марозная раса Блан",
     "en": "Frostdew Blanc",
     "ru": "Морозная Белоснежка",
     "bel": "Марозная Беласнежка",
@@ -5158,7 +5158,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornDrinkB",
-    "custom": "",
+    "custom": "Калавіянскі баявы кліч",
     "en": "Colovian Battlecry",
     "ru": "Боевой клич коловьянцев",
     "bel": "Баявы кліч калавіянцаў",
@@ -5167,7 +5167,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornDrinkC",
-    "custom": "",
+    "custom": "Джуліянас Агнябрухі",
     "en": "Julianos Firebelly",
     "ru": "Огненное брюхо Джулианоса",
     "bel": "Вогненнае бруха Джуліянаса",
@@ -5176,7 +5176,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornDrinkD",
-    "custom": "",
+    "custom": "Мёд «Здранцвенне скуры»",
     "en": "Numbskin Mead",
     "ru": "Медовуха «Балда»",
     "bel": "Мядовуха «Балда»",
@@ -5185,7 +5185,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornDrinkE",
-    "custom": "",
+    "custom": "Запаведнік «Храмавая Нага»",
     "en": "Stumblefoot Reserve",
     "ru": "Заповедник \"Хромая Нога\"",
     "bel": "Запаведнік \"Храмавая Нага\"",
@@ -5194,7 +5194,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornDrinkF",
-    "custom": "",
+    "custom": "Аргоніанскае крывавае віно",
     "en": "Argonian Bloodwine",
     "ru": "Аргонианское Кровавое Вино",
     "bel": "Аргоніанскае Крывавае Віно",
@@ -5203,7 +5203,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornDrinkMead",
-    "custom": "",
+    "custom": "Мёд",
     "en": "Mead",
     "ru": "Медовуха",
     "bel": "Мядовуха",
@@ -5212,7 +5212,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornFoodG",
-    "custom": "",
+    "custom": "Салодкая булачка",
     "en": "Sweetroll",
     "ru": "Сладкая булочка",
     "bel": "Салодкая булачка",
@@ -5221,7 +5221,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornKnight01A",
-    "custom": "",
+    "custom": "Ідзі за мной.",
     "en": "Follow me.",
     "ru": "За мной.",
     "bel": "За мной.",
@@ -5230,7 +5230,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornKnight01C",
-    "custom": "",
+    "custom": "Вярніцеся да сваіх абавязкаў.",
     "en": "Return to your duties.",
     "ru": "Вернитесь к своим обязанностям.",
     "bel": "Вярніцеся да сваіх абавязкаў.",
@@ -5239,7 +5239,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornKnight02A",
-    "custom": "",
+    "custom": "Ідзі за мной.",
     "en": "Follow me.",
     "ru": "За мной.",
     "bel": "За мной.",
@@ -5248,7 +5248,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornKnight02C",
-    "custom": "",
+    "custom": "Вярніцеся да сваіх абавязкаў.",
     "en": "Return to your duties.",
     "ru": "Вернитесь к своим обязанностям.",
     "bel": "Вярніцеся да сваіх абавязкаў.",
@@ -5257,7 +5257,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornKnight03A",
-    "custom": "",
+    "custom": "Ідзі за мной.",
     "en": "Follow me.",
     "ru": "За мной.",
     "bel": "За мной.",
@@ -5266,7 +5266,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornKnight03C",
-    "custom": "",
+    "custom": "Вярніцеся да сваіх абавязкаў.",
     "en": "Return to your duties.",
     "ru": "Вернитесь к своим обязанностям.",
     "bel": "Вярніцеся да сваіх абавязкаў.",
@@ -5275,7 +5275,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornKnight04A",
-    "custom": "",
+    "custom": "Ідзі за мной.",
     "en": "Follow me.",
     "ru": "За мной.",
     "bel": "За мной.",
@@ -5284,7 +5284,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornKnight04C",
-    "custom": "",
+    "custom": "Вярніцеся да сваіх абавязкаў.",
     "en": "Return to your duties.",
     "ru": "Вернитесь к своим обязанностям.",
     "bel": "Вярніцеся да сваіх абавязкаў.",
@@ -5293,7 +5293,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornKnight05A",
-    "custom": "",
+    "custom": "Ідзі за мной.",
     "en": "Follow me.",
     "ru": "За мной.",
     "bel": "За мной.",
@@ -5302,7 +5302,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornKnight05C",
-    "custom": "",
+    "custom": "Вярніцеся да сваіх абавязкаў.",
     "en": "Return to your duties.",
     "ru": "Вернитесь к своим обязанностям.",
     "bel": "Вярніцеся да сваіх абавязкаў.",
@@ -5311,7 +5311,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornMaidDrink",
-    "custom": "",
+    "custom": "Я б выпіў.",
     "en": "I'd like a drink.",
     "ru": "Я бы выпил.",
     "bel": "Я б выпіў.",
@@ -5320,7 +5320,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornMaidFood",
-    "custom": "",
+    "custom": "Я б хацеў чаго-небудзь паесці.",
     "en": "I'd like something to eat.",
     "ru": "Я бы хотел чего-нибудь поесть.",
     "bel": "Я б хацеў чаго-небудзь паесці.",
@@ -5329,7 +5329,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornMaidStopFollow",
-    "custom": "",
+    "custom": "Вярніцеся да сваіх абавязкаў.",
     "en": "Return to your duties.",
     "ru": "Вернитесь к своим обязанностям.",
     "bel": "Вярніцеся да сваіх абавязкаў.",
@@ -5338,7 +5338,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornSecretLever01",
-    "custom": "",
+    "custom": "Рухомая калона",
     "en": "Movable Pillar",
     "ru": "Перемещаемый Столп",
     "bel": "Перамяшчальны Слуп",
@@ -5347,7 +5347,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornSecretLever02",
-    "custom": "",
+    "custom": "Рухомая калона",
     "en": "Movable Pillar",
     "ru": "Перемещаемая колонна",
     "bel": "Перамяшчальная калона",
@@ -5356,7 +5356,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornSecretLever03",
-    "custom": "",
+    "custom": "Рухомая калона",
     "en": "Movable Pillar",
     "ru": "Подвижный столб",
     "bel": "Рухомы слуп",
@@ -5365,7 +5365,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornSparringWarAxe",
-    "custom": "",
+    "custom": "Трэніровачная сякера",
     "en": "Sparring War Axe",
     "ru": "Учебный боевой топор",
     "bel": "Навучальны баявы сякера",
@@ -5374,7 +5374,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornSparringWarhammer",
-    "custom": "",
+    "custom": "Трэніровачны баявы молат",
     "en": "Sparring Warhammer",
     "ru": "Учебный боевой молот",
     "bel": "Навучальны баявы молат",
@@ -5383,7 +5383,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornTrainerSparring",
-    "custom": "",
+    "custom": "Пазмагайся са мной.",
     "en": "Spar with me.",
     "ru": "Поспаррингуй со мной.",
     "bel": "Паспарынгуй са мной.",
@@ -5392,7 +5392,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornTrophyA",
-    "custom": "",
+    "custom": "Зрабіце чучала мядзведзя.",
     "en": "Make a stuffed bear.",
     "ru": "Сделай плюшевого медведя.",
     "bel": "Зрабі плюшавага мядзведзя.",
@@ -5401,7 +5401,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornTrophyB",
-    "custom": "",
+    "custom": "Зрабіце чучала воўка.",
     "en": "Make a stuffed wolf.",
     "ru": "Сделайте чучело волка.",
     "bel": "Зрабіце чучала воўка.",
@@ -5410,7 +5410,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornTrophyC",
-    "custom": "",
+    "custom": "Зрабіце чучала мінатаўра.",
     "en": "Make a stuffed minotaur.",
     "ru": "Сделайте чучело минотавра.",
     "bel": "Зрабіце чучала мінатаўра.",
@@ -5419,7 +5419,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornTrophyD",
-    "custom": "",
+    "custom": "Зрабіце чучала пумы.",
     "en": "Make a stuffed mountain lion.",
     "ru": "Сделай чучело пумы.",
     "bel": "Зрабі чучала пумы.",
@@ -5428,7 +5428,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornTrophyE",
-    "custom": "",
+    "custom": "Зрабіце чучала огра.",
     "en": "Make a stuffed ogre.",
     "ru": "Сделайте чучело огра.",
     "bel": "Зрабіце чучала огра.",
@@ -5437,7 +5437,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornTrophyF",
-    "custom": "",
+    "custom": "Зрабіце чучала кланфіра.",
     "en": "Make a stuffed clannfear.",
     "ru": "Сделайте чучело кланфира.",
     "bel": "Зрабіце чучала кланфіра.",
@@ -5446,7 +5446,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornTrophyG",
-    "custom": "",
+    "custom": "Зрабіце чучала даэдрота.",
     "en": "Make a stuffed daedroth.",
     "ru": "Сделай чучело даэдрота.",
     "bel": "Зрабі чучала даэдрота.",
@@ -5455,7 +5455,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornTrophyH",
-    "custom": "",
+    "custom": "Зрабіце чучала троля.",
     "en": "Make a stuffed troll.",
     "ru": "Сделайте чучело тролля.",
     "bel": "Зрабіце чучала троля.",
@@ -5473,7 +5473,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornVintnerGreetA",
-    "custom": "",
+    "custom": "Якія віды вінаў вы можаце рабіць?",
     "en": "What kinds of wines can you make?",
     "ru": "Какие вина ты можешь производить?",
     "bel": "Якія віны ты можаш вырабляць?",
@@ -5482,7 +5482,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornWineA",
-    "custom": "",
+    "custom": "Дайце інгрэдыенты для Марознай расы Блан.",
     "en": "Give Frostdew Blanc ingredients.",
     "ru": "Дайте ингредиенты для Frostdew Blanc.",
     "bel": "Дайце інгрэдыенты для Frostdew Blanc.",
@@ -5491,7 +5491,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornWineB",
-    "custom": "",
+    "custom": "Дайце інгрэдыенты для Калавіянскага баявога кліча.",
     "en": "Give Colovian Battlecry ingredients.",
     "ru": "Принесите ингредиенты для Colovian Battlecry.",
     "bel": "Прынясіце інгрэдыенты для Colovian Battlecry.",
@@ -5500,7 +5500,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornWineBarrelB",
-    "custom": "",
+    "custom": "Бочка Калавіянскага баявога кліча",
     "en": "Barrel of Colovian Battlecry",
     "ru": "Бочка Colovian Battlecry",
     "bel": "Бочка Colovian Battlecry",
@@ -5509,7 +5509,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornWineBarrelD",
-    "custom": "",
+    "custom": "Бочка мёду «Здранцвенне скуры»",
     "en": "Barrel of Numbskin Mead",
     "ru": "Бочка медовухи из оцепенелой шкуры.",
     "bel": "Бочка мядовухі з ацэпенелай шкуры.",
@@ -5518,7 +5518,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornWineBarrelF",
-    "custom": "",
+    "custom": "Бочка аргоніанскага крывавага віна",
     "en": "Barrel of Argonian Bloodwine",
     "ru": "Бочка аргонианского Bloodwine.",
     "bel": "Бочка аргоніанскага Bloodwine.",
@@ -5527,7 +5527,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornWineBarrelG",
-    "custom": "",
+    "custom": "Бочка іскрыстага мядовага нектару",
     "en": "Barrel of Sparkling Honeydew",
     "ru": "Бочка искрящейся медовой росы",
     "bel": "Бочка іскрыстай мядовай расы",
@@ -5536,7 +5536,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornWineBarrelMead",
-    "custom": "",
+    "custom": "Бочка мёду",
     "en": "Barrel of Mead",
     "ru": "Бочонок медовухи",
     "bel": "Бочачка мядовухі",
@@ -5545,7 +5545,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornWineC",
-    "custom": "",
+    "custom": "Дайце інгрэдыенты для Джуліянаса Агнябрухага.",
     "en": "Give Julianos Firebelly ingredients.",
     "ru": "Передайте Джулианосу Огнебрюху ингредиенты.",
     "bel": "Перадайце Джуліянасу Агнебруху інгрэдыенты.",
@@ -5554,7 +5554,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornWineD",
-    "custom": "",
+    "custom": "Дайце інгрэдыенты для мёду «Здранцвенне скуры».",
     "en": "Give Numbskin Mead ingredients.",
     "ru": "Предоставьте ингредиенты для Numbskin Mead.",
     "bel": "Дайце інгрэдыенты для Numbskin Mead.",
@@ -5563,7 +5563,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornWineE",
-    "custom": "",
+    "custom": "Дайце інгрэдыенты для запаведніка «Храмавая Нага».",
     "en": "Give Stumblefoot Reserve ingredients.",
     "ru": "Принесите ингредиенты для Привала Спотыкающейся Ноги.",
     "bel": "Прынясіце інгрэдыенты для Прывала Спотыкающейся Ногі.",
@@ -5572,7 +5572,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornWineF",
-    "custom": "",
+    "custom": "Дайце інгрэдыенты для аргоніанскага крывавага віна.",
     "en": "Give Argonian Bloodwine ingredients.",
     "ru": "Дайте ингредиенты для Argonian Bloodwine.",
     "bel": "Дайце інгрэдыенты для Argonian Bloodwine.",
@@ -5581,7 +5581,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BattlehornWineG",
-    "custom": "",
+    "custom": "Дайце інгрэдыенты для іскрыстага мядовага нектару.",
     "en": "Give Sparkling Honeydew ingredients.",
     "ru": "Дайте ингредиенты для Искристого Медового Нектара.",
     "bel": "Дайце інгрэдыенты для Іскрыстага Мядовага Нектара.",
@@ -5590,7 +5590,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Battlemage",
-    "custom": "",
+    "custom": "Баявы маг",
     "en": "Battlemage",
     "ru": "Боевой маг",
     "bel": "Баявы маг",
@@ -5599,7 +5599,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Baurion",
-    "custom": "",
+    "custom": "Баўрыён",
     "en": "Baurion",
     "ru": "Баурион",
     "bel": "Баурыён",
@@ -5608,7 +5608,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Baurus",
-    "custom": "",
+    "custom": "Баўрус",
     "en": "Baurus",
     "ru": "Баурус",
     "bel": "Баурус",
@@ -5617,7 +5617,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BaurusAkaviriLongSword",
-    "custom": "",
+    "custom": "Акавірская катана Баўруса",
     "en": "Baurus's Akaviri Katana",
     "ru": "Акавирская катана Бауруса",
     "bel": "Акавірская катана Бауруса",
@@ -5626,7 +5626,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BaurusInterrogation",
-    "custom": "",
+    "custom": "Допыт Баўруса",
     "en": "BaurusInterrogation",
     "ru": "Допрос Бауруса",
     "bel": "Допыт Бауруса",
@@ -5635,7 +5635,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BaurusInterrogation1",
-    "custom": "",
+    "custom": "Допыт Баўруса 1",
     "en": "BaurusInterrogation1",
     "ru": "Допрос Бауруса1",
     "bel": "Допыт Бауруса1",
@@ -5644,7 +5644,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BaurusInterrogation2",
-    "custom": "",
+    "custom": "Допыт Баўруса 2",
     "en": "BaurusInterrogation2",
     "ru": "Допрос Бауруса 2",
     "bel": "Допыт Бауруса 2",
@@ -5653,7 +5653,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BaurusInterrogation3",
-    "custom": "",
+    "custom": "Допыт Баўруса, частка 3",
     "en": "BaurusInterrogation3",
     "ru": "Допрос Бауруса, часть 3",
     "bel": "Допыт Бауруса, частка 3",
@@ -5662,7 +5662,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BaurusInterrogation4",
-    "custom": "",
+    "custom": "Допыт Баўруса 4",
     "en": "BaurusInterrogation4",
     "ru": "Допрос BaurusInterrogation4",
     "bel": "Допыт BaurusInterrogation4",
@@ -5671,7 +5671,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BaurusInterrogation5",
-    "custom": "",
+    "custom": "Допыт Баўруса 5",
     "en": "BaurusInterrogation5",
     "ru": "Допрос Бауруса5",
     "bel": "Допыт Бауруса5",
@@ -5680,7 +5680,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BaurusInterrogation6",
-    "custom": "",
+    "custom": "Допыт Баўруса 6",
     "en": "BaurusInterrogation6",
     "ru": "Допрос Бауруса 6",
     "bel": "Допыт Бауруса 6",
@@ -5689,7 +5689,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BaurusInterrogation7",
-    "custom": "",
+    "custom": "Допыт Баўруса 7",
     "en": "BaurusInterrogation7",
     "ru": "Допрос BaurusInterrogation7",
     "bel": "Допыт BaurusInterrogation7",
@@ -5698,7 +5698,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BaurusInterrogation8",
-    "custom": "",
+    "custom": "Допыт Баўруса 8",
     "en": "BaurusInterrogation8",
     "ru": "Допрос Бауруса8",
     "bel": "Допыт Бауруса8",
@@ -5707,7 +5707,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BaurusTopic",
-    "custom": "",
+    "custom": "Баўрус",
     "en": "Baurus",
     "ru": "Баурус",
     "bel": "Баурус",
@@ -5716,7 +5716,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Bawn",
-    "custom": "",
+    "custom": "Баўн",
     "en": "Bawn",
     "ru": "Баун",
     "bel": "Баун",
@@ -5725,7 +5725,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Bawn02",
-    "custom": "",
+    "custom": "Баўн Лорыя",
     "en": "Bawn Loria",
     "ru": "Баун Лория",
     "bel": "Баун Лорыя",
@@ -5734,7 +5734,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Bawn03",
-    "custom": "",
+    "custom": "Баўн Лата",
     "en": "Bawn Latta",
     "ru": "Баун Латта",
     "bel": "Баун Лата",
@@ -5743,7 +5743,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BawnwatchCamp",
-    "custom": "",
+    "custom": "Лагер варты Баўна",
     "en": "Bawnwatch Camp",
     "ru": "Лагерь Баунвотч",
     "bel": "Лагер Баунвотч",
@@ -5752,7 +5752,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BayRoanStables",
-    "custom": "",
+    "custom": "Стайня пярэстага каня",
     "en": "Bay Roan Stables",
     "ru": "Конюшни Bay Roan",
     "bel": "Стайні Bay Roan",
@@ -5761,7 +5761,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BearPelt01",
-    "custom": "",
+    "custom": "Шкура мядзведзя",
     "en": "Bear Pelt",
     "ru": "Шкура медведя",
     "bel": "Шкура мядзведзя",
@@ -5770,7 +5770,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BearclawHelmTOPIC",
-    "custom": "",
+    "custom": "Шлем Арэйна Мядзведжы Кіпцюр",
     "en": "Helm of Oreyn Bearclaw",
     "ru": "Шлем Орейна Медвежий Коготь",
     "bel": "Шлем Орэйна Мядзведжы Кіпцюр",
@@ -5779,7 +5779,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BeatriceGene",
-    "custom": "",
+    "custom": "Беатрыса Джын",
     "en": "Beatrice Gene",
     "ru": "Беатрис Жене",
     "bel": "Беатрыс Жэнэ",
@@ -5788,7 +5788,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BedRental",
-    "custom": "",
+    "custom": "Начлег",
     "en": "Bed Rental",
     "ru": "Ночлег",
     "bel": "Начлег",
@@ -5797,7 +5797,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BedYes",
-    "custom": "",
+    "custom": "Я вазьму гэта.",
     "en": "I'll take it.",
     "ru": "Я сниму комнату.",
     "bel": "Я здыму пакой.",
@@ -5806,7 +5806,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BedrockBreak",
-    "custom": "",
+    "custom": "Разлом асновы",
     "en": "Bedrock Break",
     "ru": "Разбитая Скала",
     "bel": "Разбітая Скала",
@@ -5815,7 +5815,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BedrollCrawlEntry",
-    "custom": "",
+    "custom": "Паходны ложак",
     "en": "Bedroll",
     "ru": "Спальник",
     "bel": "Спальны мяшок",
@@ -5824,7 +5824,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BedrollSideEntry",
-    "custom": "",
+    "custom": "Паходны ложак",
     "en": "Bedroll",
     "ru": "Спальник",
     "bel": "Спальны мяшок",
@@ -5833,7 +5833,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Beewos",
-    "custom": "",
+    "custom": "Бівас",
     "en": "Beewos",
     "ru": "Бивос",
     "bel": "Бівас",
@@ -5842,7 +5842,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BeggarAnvilPennilessOlvus",
-    "custom": "",
+    "custom": "Олвус Бязгрошавы",
     "en": "Penniless Olvus",
     "ru": "Олвус Безденежный",
     "bel": "Олвус Бязгрошавы",
@@ -5851,7 +5851,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BeggarBravilWretchedAia",
-    "custom": "",
+    "custom": "Жалюгідная Ая",
     "en": "Wretched Aia",
     "ru": "Жалкая Айя",
     "bel": "Жалюгідная Ая",
@@ -5860,7 +5860,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BeggarBrumaFetidJofnhild",
-    "custom": "",
+    "custom": "Смярдзючая Ёфнхільд",
     "en": "Fetid Jofnhild",
     "ru": "Джофнилд Вонючий",
     "bel": "Джофнілд Смярдзючы",
@@ -5869,7 +5869,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BeggarBrumaJorckTheOutcast",
-    "custom": "",
+    "custom": "Ёрк Выгнанец",
     "en": "Jorck the Outcast",
     "ru": "Йорк Отверженный",
     "bel": "Ёрк Адвергнуты",
@@ -5878,7 +5878,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BeggarCheydinhalBrucciusTheOrphan",
-    "custom": "",
+    "custom": "Бруцыюс Сірата",
     "en": "Bruccius the Orphan",
     "ru": "Бруккиус Сирота",
     "bel": "Бруккіус Сірата",
@@ -5887,7 +5887,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BeggarCheydinhalLucklessLucina",
-    "custom": "",
+    "custom": "Няўдалая Люцына",
     "en": "Luckless Lucina",
     "ru": "Невезучая Люсина",
     "bel": "Нешанцаваная Люсіна",
@@ -5923,7 +5923,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BeggarICElvenGardensFralav",
-    "custom": "",
+    "custom": "Фралаў Ашуканец",
     "en": "Fralav the Faker",
     "ru": "Фралав Плут",
     "bel": "Фралаў Хлус",
@@ -5932,7 +5932,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BeggarICMarketSimplicia",
-    "custom": "",
+    "custom": "Сімпліцыя Марудная",
     "en": "Simplicia the Slow",
     "ru": "Симплисия Медленная",
     "bel": "Сімлісія Марудная",
@@ -5941,7 +5941,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BeggarICTalosPlazaDraninus",
-    "custom": "",
+    "custom": "Дранінус Бязмонетны",
     "en": "No-Coins Draninus",
     "ru": "Драниус Безмонетный",
     "bel": "Драніус Бязмонетны",
@@ -5950,7 +5950,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BeggarICTempleBuntara",
-    "custom": "",
+    "custom": "Бантара Анучніца",
     "en": "Ragbag Buntara",
     "ru": "Бантара Тряпичница",
     "bel": "Бантара Анучніца",
@@ -5959,7 +5959,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BeggarICWaterfrontAncus",
-    "custom": "",
+    "custom": "Анкус Нікчэмны",
     "en": "Puny Ancus",
     "ru": "Энкус Ничтожный",
     "bel": "Энкус Нікчэмны",
@@ -5968,7 +5968,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BeggarLeyawiinDeehTheScalawag",
-    "custom": "",
+    "custom": "Дзіх Дармаед",
     "en": "Deeh the Scalawag",
     "ru": "Дих Бездельник",
     "bel": "Дзіх Дармаед",
@@ -5977,7 +5977,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BeggarLeyawiinRancidRadirsha",
-    "custom": "",
+    "custom": "Ра'дзірша Брыдкі",
     "en": "Rancid Ra'dirsha",
     "ru": "Ра'дирша Мерзкий",
     "bel": "Ра'дзірша Брыдкі",
@@ -5986,7 +5986,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BeggarSkingradNigidiusTheNeedy",
-    "custom": "",
+    "custom": "Нігідзіус Жабрак",
     "en": "Nigidius the Needy",
     "ru": "Нигидиус Нищий",
     "bel": "Нігідзіус Жабрак",
@@ -5995,7 +5995,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BeggarsBag",
-    "custom": "",
+    "custom": "Мяшок з ежай жабрака",
     "en": "Beggar's Food Bag",
     "ru": "Мешок нищего",
     "bel": "Мяшок жабрака",
@@ -6004,7 +6004,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Beldaburo",
-    "custom": "",
+    "custom": "Белдабуро",
     "en": "Beldaburo",
     "ru": "Белдабуро",
     "bel": "Белдабуро",
@@ -6013,7 +6013,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Beldaburo02",
-    "custom": "",
+    "custom": "Белдабуро Анга",
     "en": "Beldaburo Anga",
     "ru": "Белдабуро Анга",
     "bel": "Белдабуро Анга",
@@ -6022,7 +6022,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BeldaburoKey",
-    "custom": "",
+    "custom": "Ключ ад Белдабуро",
     "en": "Beldaburo Key",
     "ru": "Ключ от Белдабуро",
     "bel": "Ключ ад Белдабуро",
@@ -6031,7 +6031,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Belisarius",
-    "custom": "",
+    "custom": "Белісарый",
     "en": "Belisarius",
     "ru": "Белизариус",
     "bel": "Белізарыус",
@@ -6040,7 +6040,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BelisariusArius",
-    "custom": "",
+    "custom": "Белісарый Арыус",
     "en": "Belisarius Arius",
     "ru": "Белизариус Ариус",
     "bel": "Белізарыус Арыус",
@@ -6049,7 +6049,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BelletorsFolly",
-    "custom": "",
+    "custom": "Дурнота Белетора",
     "en": "Belletor's Folly",
     "ru": "Каприз Беллетора",
     "bel": "Капрыз Беллетора",
@@ -6058,7 +6058,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BelletorsFolly02",
-    "custom": "",
+    "custom": "Рудні Дурноты Белетора",
     "en": "Belletor's Folly Mines",
     "ru": "Каприз Беллетора - Шахты",
     "bel": "Капрыз Беллетора - Шахты",
@@ -6067,7 +6067,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BelletorsFolly03",
-    "custom": "",
+    "custom": "Пячора Дурноты Белетора",
     "en": "Belletor's Folly Cavern",
     "ru": "Каприз Беллетора - Пещера",
     "bel": "Капрыз Беллетора - Пячора",
@@ -6076,7 +6076,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BenirusDoor01",
-    "custom": "",
+    "custom": "Запячатаны партал",
     "en": "Sealed Portal",
     "ru": "Закрытый портал",
     "bel": "Закрыты партал",
@@ -6085,7 +6085,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BenirusFaction",
-    "custom": "",
+    "custom": "Фракцыя Беніруса",
     "en": "BenirusFaction",
     "ru": "Фракция BenirusFaction",
     "bel": "Фракцыя BenirusFaction",
@@ -6094,7 +6094,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BenirusManorKey",
-    "custom": "",
+    "custom": "Ключ ад асабняка Беніруса",
     "en": "Benirus Manor Key",
     "ru": "Ключ от особняка Бенируса",
     "bel": "Ключ ад асабняка Беніруса",
@@ -6103,7 +6103,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BernadettePeneles",
-    "custom": "",
+    "custom": "Бернадэта Пенеліс",
     "en": "Bernadette Peneles",
     "ru": "Бернадетта Пенелис",
     "bel": "Бернадэта Пенеліс",
@@ -6112,7 +6112,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BernadettePenelesKey",
-    "custom": "",
+    "custom": "Ключ Бернадэты Пенеліс",
     "en": "Bernadette Peneles' Key",
     "ru": "Ключ Бернадетты Пенелис",
     "bel": "Ключ Бернадэты Пенеліс",
@@ -6121,7 +6121,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BernadettePenelesTopic",
-    "custom": "",
+    "custom": "Бернадэта Пенеліс",
     "en": "Bernadette Peneles",
     "ru": "Бернадетта Пенелис",
     "bel": "Бернадэта Пенеліс",
@@ -6130,7 +6130,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BestDefenseFaction",
-    "custom": "",
+    "custom": "ІК - Найлепшая абарона",
     "en": "IC - Best Defense",
     "ru": "IC - Лучшая защита",
     "bel": "IC - Найлепшая абарона",
@@ -6139,7 +6139,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BettoPlotius",
-    "custom": "",
+    "custom": "Бета Плоціус",
     "en": "Betto Plotius",
     "ru": "Бетто Плотиус",
     "bel": "Бета Плоціус",
@@ -6148,7 +6148,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BieneAmelion",
-    "custom": "",
+    "custom": "Біене Амеліён",
     "en": "Biene Amelion",
     "ru": "Бьен Амелион",
     "bel": "Б'ен Амеліён",
@@ -6157,7 +6157,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BieneAmelionDEAD",
-    "custom": "",
+    "custom": "Біене Амеліён",
     "en": "Biene Amelion",
     "ru": "Бьен Амелион",
     "bel": "Б'ен Амеліён",
@@ -6166,7 +6166,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BieneAmelionTOPIC",
-    "custom": "",
+    "custom": "Біене Амеліён",
     "en": "Biene Amelion",
     "ru": "Бьен Амелион",
     "bel": "Б'ен Амеліён",
@@ -6175,7 +6175,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BirthSignAtronach",
-    "custom": "",
+    "custom": "Атранах",
     "en": "The Atronach",
     "ru": "Атронах",
     "bel": "Атронах",
@@ -6184,7 +6184,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BirthSignLover",
-    "custom": "",
+    "custom": "Каханак",
     "en": "The Lover",
     "ru": "Любовник",
     "bel": "Каханак",
@@ -6193,7 +6193,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BitandBridleFaction",
-    "custom": "",
+    "custom": "ІК -- Вузда і цуглі",
     "en": "IC -- Bit and Bridle",
     "ru": "IC -- Узда и удила",
     "bel": "IC -- Цуглі і вудзілы",
@@ -6202,7 +6202,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BitandBridleKey",
-    "custom": "",
+    "custom": "Ключ ад \"Вузды і цуглёў\"",
     "en": "Bit and Bridle Key",
     "ru": "Ключ от \"Удил и Уздечек\"",
     "bel": "Ключ ад \"Цугляў і Вудзілаў\"",
@@ -6211,7 +6211,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BittneldTopic",
-    "custom": "",
+    "custom": "Бітнелд Праклінаючы",
     "en": "Bittneld the Curse-Bringer",
     "ru": "Биттнелд Проклинающий",
     "bel": "Бітнелд Праклінаючы",
@@ -6220,7 +6220,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BittneldtheCurseBringer",
-    "custom": "",
+    "custom": "Бітнелд Праклінаючы",
     "en": "Bittneld the Curse-Bringer",
     "ru": "Биттнелд Проклинающий",
     "bel": "Бітнелд Праклінаючы",
@@ -6229,7 +6229,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BjalfitheContemptible",
-    "custom": "",
+    "custom": "Б'ялфі Пагарджаны",
     "en": "Bjalfi the Contemptible",
     "ru": "Бьялфи Презренный",
     "bel": "Б'ялфі Пагарджаны",
@@ -6238,7 +6238,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackBowFaction",
-    "custom": "",
+    "custom": "Фракцыя Чорнага лука",
     "en": "Black Bow Faction",
     "ru": "Фракция Black Bow",
     "bel": "Фракцыя Black Bow",
@@ -6247,7 +6247,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackBrugo",
-    "custom": "",
+    "custom": "Чорны Бруго",
     "en": "Black Brugo",
     "ru": "Черный Бруго",
     "bel": "Чорны Бруго",
@@ -6256,7 +6256,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackBrugo01",
-    "custom": "",
+    "custom": "Пакуль няма.",
     "en": "None yet.",
     "ru": "Пока никаких.",
     "bel": "Пакуль ніякіх.",
@@ -6265,7 +6265,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackBrugo02",
-    "custom": "",
+    "custom": "Я ведаю, дзе яго знайсці.",
     "en": "I know where to find him.",
     "ru": "Я знаю, где найти его.",
     "bel": "Я ведаю, дзе знайсці яго.",
@@ -6274,7 +6274,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackBrugo03",
-    "custom": "",
+    "custom": "Чорны Бруго мёртвы.",
     "en": "Black Brugo is dead.",
     "ru": "Черный Бруго мертв.",
     "bel": "Чорны Бруго мёртвы.",
@@ -6283,7 +6283,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackBrugo04",
-    "custom": "",
+    "custom": "Яшчэ не.",
     "en": "Not yet.",
     "ru": "Пока нет.",
     "bel": "Пакуль не.",
@@ -6292,7 +6292,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackBrugo06",
-    "custom": "",
+    "custom": "Граф зрабіў мяне рыцарам.",
     "en": "Count made me a knight.",
     "ru": "Граф произвел меня в рыцари.",
     "bel": "Граф зрабіў мяне ў рыцары.",
@@ -6301,7 +6301,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackBrugo07",
-    "custom": "",
+    "custom": "Мы абодва рыцары-вандроўнікі!",
     "en": "We are both Knights-Errant!",
     "ru": "Мы стали странствующими рыцарями!",
     "bel": "Мы сталі вандроўнымі рыцарамі!",
@@ -6310,7 +6310,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackBrugo09",
-    "custom": "",
+    "custom": "Я вітаю цябе, сэр Мазога.",
     "en": "I greet you, Sir Mazoga.",
     "ru": "Я приветствую тебя, сэр Мазога.",
     "bel": "Я вітаю цябе, сэр Мазога.",
@@ -6319,7 +6319,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackBrugo10",
-    "custom": "",
+    "custom": "Лягчэй. Я ж таксама рыцар.",
     "en": "Don't push it. I'm a knight, too.",
     "ru": "Полегче. Я ведь тоже рыцарь.",
     "bel": "Лягчэй. Я ж таксама рыцар.",
@@ -6328,7 +6328,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackBrugoTopic",
-    "custom": "",
+    "custom": "Чорны Бруго",
     "en": "Black Brugo",
     "ru": "Черный Бруго",
     "bel": "Чорны Бруго",
@@ -6337,7 +6337,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackBrugoTopic1Tell",
-    "custom": "",
+    "custom": "Расказаць пра прапанову графа.",
     "en": "Tell about Count's offer.",
     "ru": "Рассказать о предложении графа.",
     "bel": "Расказаць пра прапанову графа.",
@@ -6346,7 +6346,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackBrugoTopicAlone",
-    "custom": "",
+    "custom": "Я дастану Чорнага Бруго... сам.",
     "en": "I'll get Black Brugo... by myself.",
     "ru": "Я сам доберусь до Black Brugo...",
     "bel": "Я сам дабяруся да Black Brugo...",
@@ -6355,7 +6355,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackBrugoTopicAsk",
-    "custom": "",
+    "custom": "Дзе Чорны Бруго? [схаваць прапанову]",
     "en": "Where's Black Brugo? [conceal offer]",
     "ru": "Где этот Чёртов Бруго? [conceal offer]",
     "bel": "Дзе гэты Чортаў Бруго? [схаваць прапанову]",
@@ -6364,7 +6364,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackBrugoTopicHow",
-    "custom": "",
+    "custom": "Як нам знайсці Чорнага Бруго?",
     "en": "How shall we locate Black Brugo?",
     "ru": "Как нам найти Черного Бруго?",
     "bel": "Як нам знайсці Чорнага Бруго?",
@@ -6373,7 +6373,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackBrugosKey",
-    "custom": "",
+    "custom": "Ключ Чорнага Бруго",
     "en": "Black Brugo's Key",
     "ru": "Ключ Черного Бруго",
     "bel": "Ключ Чорнага Бруго",
@@ -6382,7 +6382,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackDogCamp",
-    "custom": "",
+    "custom": "Лагер \"Чорнага Пса\"",
     "en": "Black Dog Camp",
     "ru": "Лагерь \"Чёрного Пса\"",
     "bel": "Лагер \"Чорнага Пса\"",
@@ -6391,7 +6391,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackHorseCouriers",
-    "custom": "",
+    "custom": "Гандляры «Кур'ера Чорнага Каня»",
     "en": "Black Horse Courier Vendors",
     "ru": "Торговцы из «Black Horse Courier»",
     "bel": "Гандляры з «Black Horse Courier»",
@@ -6400,7 +6400,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackRingGive",
-    "custom": "",
+    "custom": "Даць пярсцёнак.",
     "en": "Give ring.",
     "ru": "Отдай кольцо.",
     "bel": "Аддай пярсцёнак.",
@@ -6409,7 +6409,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackRingHold",
-    "custom": "",
+    "custom": "Адмовіцца.",
     "en": "Refuse.",
     "ru": "Отказать.",
     "bel": "Адмовіць.",
@@ -6418,7 +6418,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackRingMachNa",
-    "custom": "",
+    "custom": "Чорнае Кольца",
     "en": "Black Ring",
     "ru": "Чёрное кольцо",
     "bel": "Чорнае кальцо",
@@ -6427,7 +6427,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackRockCaverns",
-    "custom": "",
+    "custom": "Пячоры Чорнай Скалы",
     "en": "Black Rock Caverns",
     "ru": "Пещера Черная Скала",
     "bel": "Пячора Чорная Скала",
@@ -6436,7 +6436,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackRockCaverns02",
-    "custom": "",
+    "custom": "Галоўная зала Чорнай Скалы",
     "en": "Black Rock Main Chamber",
     "ru": "Черная Скала - Главный зал",
     "bel": "Чорная Скала - Галоўная зала",
@@ -6445,7 +6445,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackRockCaverns03",
-    "custom": "",
+    "custom": "Страчаная цясніна Чорнай Скалы",
     "en": "Lost Black Rock Chasm",
     "ru": "Черная Скала - Забытая расщелина",
     "bel": "Чорная Скала - Забытая расколіна",
@@ -6454,7 +6454,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackRockCavernsLight7",
-    "custom": "",
+    "custom": "Пячоры Чорнай Скалы",
     "en": "Black Rock Caverns",
     "ru": "Пещера Черная Скала",
     "bel": "Пячора Чорная Скала",
@@ -6481,7 +6481,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackSapStorageTank01",
-    "custom": "",
+    "custom": "Ёмістасць для жывіцы",
     "en": "Sap Storage Tank",
     "ru": "Емкость для живицы",
     "bel": "Ёмістасць для жывіцы",
@@ -6490,7 +6490,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackSapStorageTank01a",
-    "custom": "",
+    "custom": "Ёмістасць для жывіцы",
     "en": "Sap Storage Tank",
     "ru": "Емкость для живицы",
     "bel": "Ёмістасць для жывіцы",
@@ -6499,7 +6499,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackSapStorageTank02",
-    "custom": "",
+    "custom": "Ёмістасць для жывіцы",
     "en": "Sap Storage Tank",
     "ru": "Емкость для живицы",
     "bel": "Ёмістасць для жывіцы",
@@ -6508,7 +6508,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackSapStorageTank02a",
-    "custom": "",
+    "custom": "Ёмістасць для жывіцы",
     "en": "Sap Storage Tank",
     "ru": "Емкость для живицы",
     "bel": "Ёмістасць для жывіцы",
@@ -6517,7 +6517,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackWatersideStables",
-    "custom": "",
+    "custom": "Чорная прыбярэжная стайня",
     "en": "Black Waterside Stables",
     "ru": "Чёрная Прибрежная Конюшня",
     "bel": "Чорная Прыбярэжная Стайня",
@@ -6526,7 +6526,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackWoodCompanyDog",
-    "custom": "",
+    "custom": "Сталёвы Клык",
     "en": "Steel Fang",
     "ru": "Стальной Клык",
     "bel": "Стальны Клык",
@@ -6535,7 +6535,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackberryBush",
-    "custom": "",
+    "custom": "Куст ажыны",
     "en": "Blackberry Bush",
     "ru": "Ежевика",
     "bel": "Ажына",
@@ -6544,7 +6544,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackheartsRing",
-    "custom": "",
+    "custom": "Пярсцёнак Чарнасэрцага",
     "en": "Blackheart's Ring",
     "ru": "Кольцо Азани Черное Сердце.",
     "bel": "Пярсцёнак Азані Чорнае Сэрца.",
@@ -6553,7 +6553,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackrootLair",
-    "custom": "",
+    "custom": "Логва Чарнарута",
     "en": "Blackroot Lair",
     "ru": "Логово Черного Корня",
     "bel": "Логва Чорнага Кораня",
@@ -6562,7 +6562,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackwaterBrigands",
-    "custom": "",
+    "custom": "Бандыты Чорнай вады",
     "en": "Blackwater Brigands",
     "ru": "Бандиты Черной воды",
     "bel": "Бандыты Чорнай вады",
@@ -6571,7 +6571,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackwoodBoiler01",
-    "custom": "",
+    "custom": "Кацёл",
     "en": "Boiler",
     "ru": "Бойлер",
     "bel": "Бойлер",
@@ -6580,7 +6580,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackwoodBoots",
-    "custom": "",
+    "custom": "Боты кампаніі \"Чорны лес\"",
     "en": "Blackwood Boots",
     "ru": "Сапоги компании \"Черный лес\"",
     "bel": "Боты кампаніі \"Чорны лес\"",
@@ -6589,7 +6589,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackwoodCoastline",
-    "custom": "",
+    "custom": "Тапальская бухта",
     "en": "Topal Bay",
     "ru": "Топальская бухта",
     "bel": "Тапальская бухта",
@@ -6598,7 +6598,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackwoodCompany",
-    "custom": "",
+    "custom": "Кампанія \"Чорны лес\"",
     "en": "Blackwood Company",
     "ru": "Компания \"Черный лес\"",
     "bel": "Кампанія \"Чорны лес\"",
@@ -6607,7 +6607,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackwoodCompanyFACTION",
-    "custom": "",
+    "custom": "Кампанія \"Чорны лес\"",
     "en": "Blackwood Company",
     "ru": "Компания \"Черный лес\"",
     "bel": "Кампанія \"Чорны лес\"",
@@ -6616,7 +6616,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackwoodCompanyFACTION_LEVEL0_F",
-    "custom": "",
+    "custom": "Кандыдат у члены",
     "en": "Probationary Member",
     "ru": "Кандидат в члены",
     "bel": "Кандыдат у члены",
@@ -6625,7 +6625,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackwoodCompanyFACTION_LEVEL0_M",
-    "custom": "",
+    "custom": "Кандыдат у члены",
     "en": "Probationary Member",
     "ru": "Кандидат в члены",
     "bel": "Кандыдат у члены",
@@ -6634,7 +6634,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackwoodCuirass",
-    "custom": "",
+    "custom": "Кіраса кампаніі \"Чорны лес\"",
     "en": "Blackwood Cuirass",
     "ru": "Кираса компании \"Черный лес\"",
     "bel": "Кіраса кампаніі \"Чорны лес\"",
@@ -6643,7 +6643,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackwoodGauntlets",
-    "custom": "",
+    "custom": "Пальчаткі кампаніі \"Чорны лес\"",
     "en": "Blackwood Gauntlets",
     "ru": "Перчатки компании \"Черный лес\"",
     "bel": "Пячаткі кампаніі \"Чорны лес\"",
@@ -6652,7 +6652,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackwoodGreaves",
-    "custom": "",
+    "custom": "Понажы кампаніі \"Чорны лес\"",
     "en": "Blackwood Greaves",
     "ru": "Поножи компании \"Черный лес\"",
     "bel": "Нагавіцы кампаніі \"Чорны лес\"",
@@ -6661,7 +6661,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackwoodHelmet",
-    "custom": "",
+    "custom": "Шлем кампаніі \"Чорны лес\"",
     "en": "Blackwood Helmet",
     "ru": "Шлем компании \"Черный лес\"",
     "bel": "Шлем кампаніі \"Чорны лес\"",
@@ -6670,7 +6670,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackwoodLoosePipe01",
-    "custom": "",
+    "custom": "Свабодная труба",
     "en": "Loose Pipe",
     "ru": "Трубка",
     "bel": "Трубка",
@@ -6679,7 +6679,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackwoodPump01",
-    "custom": "",
+    "custom": "Помпа для жывіцы",
     "en": "Sap Pump",
     "ru": "Насос",
     "bel": "Помпа",
@@ -6688,7 +6688,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackwoodPump02",
-    "custom": "",
+    "custom": "Помпа для жывіцы",
     "en": "Sap Pump",
     "ru": "Насос",
     "bel": "Помпа",
@@ -6697,7 +6697,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackwoodSapMachine01",
-    "custom": "",
+    "custom": "Машына па перапрацоўцы жывіцы",
     "en": "Sap Machine",
     "ru": "Машина по переработке живицы",
     "bel": "Машына па перапрацоўцы жывіцы",
@@ -6706,7 +6706,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackwoodShield",
-    "custom": "",
+    "custom": "Шчыт кампаніі \"Чорны лес\"",
     "en": "Blackwood Shield",
     "ru": "Щит компании \"Черный лес\"",
     "bel": "Шчыт кампаніі \"Чорны лес\"",
@@ -6715,7 +6715,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackwoodSubRegion01",
-    "custom": "",
+    "custom": "Чарналес",
     "en": "Blackwood",
     "ru": "Черный лес",
     "bel": "Чорны лес",
@@ -6724,7 +6724,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackwoodSubRegion02",
-    "custom": "",
+    "custom": "Чарналес",
     "en": "Blackwood",
     "ru": "Черный лес",
     "bel": "Чорны лес",
@@ -6733,7 +6733,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackwoodSubRegion03",
-    "custom": "",
+    "custom": "Чарналес",
     "en": "Blackwood",
     "ru": "Черный лес",
     "bel": "Чорны лес",
@@ -6742,7 +6742,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlackwoodSubRegion04",
-    "custom": "",
+    "custom": "Чарналес",
     "en": "Blackwood",
     "ru": "Черный лес",
     "bel": "Чорны лес",
@@ -6751,7 +6751,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Blade2",
-    "custom": "",
+    "custom": "Фортыс",
     "en": "Fortis",
     "ru": "Фортис",
     "bel": "Фортыс",
@@ -6760,7 +6760,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Blade5",
-    "custom": "",
+    "custom": "Ахіл",
     "en": "Achille",
     "ru": "Ахилл",
     "bel": "Ахіл",
@@ -6769,7 +6769,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BladeClass",
-    "custom": "",
+    "custom": "Клас \"Клінок\"",
     "en": "Blade Class",
     "ru": "Класс \"Клинок\"",
     "bel": "Клас \"Клінок\"",
@@ -6778,7 +6778,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Blademaster",
-    "custom": "",
+    "custom": "Майстар мяча",
     "en": "Blademaster",
     "ru": "Мастер меча",
     "bel": "Майстар мяча",
@@ -6787,7 +6787,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlademasterTopic",
-    "custom": "",
+    "custom": "Майстар мяча",
     "en": "Blademaster",
     "ru": "Мастер меча",
     "bel": "Майстар мяча",
@@ -6796,7 +6796,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BladesCG",
-    "custom": "",
+    "custom": "Фракцыя Клінкоў, генератар персанажаў",
     "en": "Character gen Blades faction",
     "ru": "Создание персонажа. Фракция Blades.",
     "bel": "Стварэнне персанажа. Фракцыя Blades.",
@@ -6805,7 +6805,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BladesConvSystem",
-    "custom": "",
+    "custom": "Дынамічныя размовы Клінкоў",
     "en": "Blades Dynamic Conversations",
     "ru": "Динамичные диалоги Blades",
     "bel": "Дынамічныя дыялогі Blades",
@@ -6814,7 +6814,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BladesGauntlets",
-    "custom": "",
+    "custom": "Пальчаткі Клінкоў",
     "en": "Blades Gauntlets",
     "ru": "Перчатки клинков",
     "bel": "Пячаткі клінкоў",
@@ -6823,7 +6823,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BladesGauntletsCG",
-    "custom": "",
+    "custom": "Пальчаткі Клінкоў",
     "en": "Blades Gauntlets",
     "ru": "Перчатки клинков",
     "bel": "Пячаткі клінкоў",
@@ -6832,7 +6832,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BladesGreaves",
-    "custom": "",
+    "custom": "Понажы Клінкоў",
     "en": "Blades Greaves",
     "ru": "Поножи клинков",
     "bel": "Нагавіцы клінкоў",
@@ -6841,7 +6841,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BladesGreavesCG",
-    "custom": "",
+    "custom": "Понажы Клінкоў",
     "en": "Blades Greaves",
     "ru": "Поножи клинков",
     "bel": "Нагавіцы клінкоў",
@@ -6850,7 +6850,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BladesHelmetAncient",
-    "custom": "",
+    "custom": "Старажытны шлем клінкоў",
     "en": "Ancient Blades Helmet",
     "ru": "Древний шлем клинков",
     "bel": "Старажытны шлем клінкоў",
@@ -6859,7 +6859,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BladesMartinConvSystem",
-    "custom": "",
+    "custom": "Размовы Марціна з Клінкамі",
     "en": "Martin's Conversations with the Blades",
     "ru": "Разговоры Мартина с Клинками.",
     "bel": "Размовы Марціна з Клінкамі.",
@@ -6868,7 +6868,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BladesShieldAncient",
-    "custom": "",
+    "custom": "Старажытны шчыт клінкоў",
     "en": "Ancient Blades Shield",
     "ru": "Древний щит клинков",
     "bel": "Старажытны шчыт клінкоў",
@@ -6877,7 +6877,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BladesSparringFaction",
-    "custom": "",
+    "custom": "Трэніровачная фракцыя",
     "en": "Sparring faction",
     "ru": "Тренировочная фракция",
     "bel": "Трэніровачная фракцыя",
@@ -6886,7 +6886,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BladesTalk1",
-    "custom": "",
+    "custom": "Размова пра Клінкі 1",
     "en": "BladesTalk1",
     "ru": "Разговоры о клинках1",
     "bel": "Размовы пра клінкі1",
@@ -6895,7 +6895,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BladesTalk2",
-    "custom": "",
+    "custom": "Размова пра Клінкі 2",
     "en": "BladesTalk2",
     "ru": "ТрёпОКлинках2",
     "bel": "Балбатня пра Клінкі2",
@@ -6904,7 +6904,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BladesTalk3",
-    "custom": "",
+    "custom": "Размова пра Клінкі 3",
     "en": "BladesTalk3",
     "ru": "Трёп про BladesTalk3",
     "bel": "Балбатня пра BladesTalk3",
@@ -6913,7 +6913,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BladesTalk4",
-    "custom": "",
+    "custom": "Размова пра Клінкі 4",
     "en": "BladesTalk4",
     "ru": "Трёп клинков",
     "bel": "Балбатня клінкоў",
@@ -6922,7 +6922,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BladesTalk5",
-    "custom": "",
+    "custom": "Размова пра Клінкі 5",
     "en": "BladesTalk5",
     "ru": "Трёп про BladesTalk5",
     "bel": "Балбатня пра BladesTalk5",
@@ -6931,7 +6931,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlankenMarchHouse02",
-    "custom": "",
+    "custom": "Дом Ганса гро-Хубрага",
     "en": "Hanz gro-Hubrag's House",
     "ru": "Дом Ганса гро-Хубрага",
     "bel": "Дом Ганса гро-Хубрага",
@@ -6940,7 +6940,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Blankenmarch",
-    "custom": "",
+    "custom": "Бланкенмарш",
     "en": "Blankenmarch",
     "ru": "Бланкенмарш",
     "bel": "Бланкенмарш",
@@ -6949,7 +6949,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BlankenmarchRegion",
-    "custom": "",
+    "custom": "Бланкенмарш",
     "en": "Blankenmarch",
     "ru": "Бланкенмарш",
     "bel": "Бланкенмарш",
@@ -6958,7 +6958,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BleakFlatsCave",
-    "custom": "",
+    "custom": "Пячора змрочных раўнін",
     "en": "Bleak Flats Cave",
     "ru": "Пещера Унылая Равнина",
     "bel": "Пячора Сумная Раўніна",
@@ -6967,7 +6967,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BleakFlatsCaveTopic",
-    "custom": "",
+    "custom": "Пячора змрочных раўнін",
     "en": "Bleak Flats Cave",
     "ru": "Пещера Унылая Равнина",
     "bel": "Пячора Сумная Раўніна",
@@ -6976,7 +6976,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_BleakMine",
-    "custom": "",
+    "custom": "Змрочная шахта",
     "en": "Bleak Mine",
     "ru": "Унылая шахта",
     "bel": "Сумная шахта",
