@@ -116560,7 +116560,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ScrollStandardWaterWalking2Journeyman",
-    "custom": "",
+    "custom": "Хаджэнне па возеры",
     "en": "Lake Stride",
     "ru": "Хождение по озеру",
     "bel": "Хаджэнне па возеры",
@@ -116569,7 +116569,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ScrollStandardWaterWalking3Expert",
-    "custom": "",
+    "custom": "Марш па моры",
     "en": "March of the Sea",
     "ru": "Марш по морю",
     "bel": "Марш па моры",
@@ -116578,7 +116578,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ScrollStandardWaterWalking4Master",
-    "custom": "",
+    "custom": "Акіянскае падарожжа",
     "en": "Oceanic Journey",
     "ru": "Океанское путешествие",
     "bel": "Акіянскае падарожжа",
@@ -116587,7 +116587,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ScrollStandardWeaknessDisease1Apprentice",
-    "custom": "",
+    "custom": "Уразлівасць да хвароб",
     "en": "Weakness to Disease",
     "ru": "Уязвимость к болезням",
     "bel": "Уразлівасць да хвароб",
@@ -116596,7 +116596,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ScrollStandardWeaknessFire1Apprentice",
-    "custom": "",
+    "custom": "Уразлівасць да агню",
     "en": "Weakness to Fire",
     "ru": "Уязвимость к огню",
     "bel": "Уразлівасць да агню",
@@ -116605,7 +116605,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ScrollStandardWeaknessFrost1Apprentice",
-    "custom": "",
+    "custom": "Уразлівасць да холаду",
     "en": "Weakness to Frost",
     "ru": "Уязвимость к холоду",
     "bel": "Уразлівасць да холаду",
@@ -116614,7 +116614,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ScrollStandardWeaknessMagicka1Apprentice",
-    "custom": "",
+    "custom": "Уразлівасць да магіі",
     "en": "Weakness to Magicka",
     "ru": "Уязвимость к магии",
     "bel": "Уразлівасць да магіі",
@@ -116623,7 +116623,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ScrollStandardWeaknessNormWeap1Apprentice",
-    "custom": "",
+    "custom": "Уразлівасць да зброі",
     "en": "Weakness to Weapons",
     "ru": "Уязвимость к оружию",
     "bel": "Уразлівасць да зброі",
@@ -116632,7 +116632,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ScrollStandardWeaknessPoison1Apprentice",
-    "custom": "",
+    "custom": "Уразлівасць да яду",
     "en": "Weakness to Poison",
     "ru": "Уязвимость к яду",
     "bel": "Уразлівасць да яду",
@@ -116641,7 +116641,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ScrollStandardWeaknessShock1Apprentice",
-    "custom": "",
+    "custom": "Уразлівасць да электрычнасці",
     "en": "Weakness to Shock",
     "ru": "Уязвимость к электричеству",
     "bel": "Уразлівасць да электрычнасці",
@@ -116650,7 +116650,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Sdrassa",
-    "custom": "",
+    "custom": "С'драса",
     "en": "S'drassa",
     "ru": "С'драсса",
     "bel": "С'драса",
@@ -116659,7 +116659,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Secondgate",
-    "custom": "",
+    "custom": "Другія вароты",
     "en": "Second gate",
     "ru": "Вторые врата",
     "bel": "Другія вароты",
@@ -116668,7 +116668,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SeedNeeusFamily",
-    "custom": "",
+    "custom": "Сям'я Seed-Neeus",
     "en": "Seed-Neeus Family",
     "ru": "Семейство Seed-Neeus",
     "bel": "Сям'я Seed-Neeus",
@@ -116677,7 +116677,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SeedNeeusKey",
-    "custom": "",
+    "custom": "Ключ Сід-Ніус",
     "en": "Seed-Neeus' Key",
     "ru": "Ключ Сид-Ниус",
     "bel": "Ключ Сід-Ніус",
@@ -116686,7 +116686,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Seen",
-    "custom": "",
+    "custom": "Убачаны",
     "en": "Seen",
     "ru": "Увиден.",
     "bel": "Убачаны.",
@@ -116695,7 +116695,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Senannala",
-    "custom": "",
+    "custom": "Босмерскі злодзей",
     "en": "Bosmer Thief",
     "ru": "Босмерский вор",
     "bel": "Босмерскі злодзей",
@@ -116704,7 +116704,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SercenCamp",
-    "custom": "",
+    "custom": "Лагер Серсена",
     "en": "Sercen Camp",
     "ru": "Лагерь Серсена",
     "bel": "Лагер Серсена",
@@ -116713,7 +116713,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SerethiSistersDislikeFaction",
-    "custom": "",
+    "custom": "Алесуэл -- людзі, якіх не любяць сёстры Серэці",
     "en": "Aleswell -- people Serethi sisters dislike",
     "ru": "Aleswell -- жители, которых недолюбливают сестры Serethi.",
     "bel": "Aleswell -- жыхары, якіх не далюбліваюць сёстры Serethi.",
@@ -116722,7 +116722,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SerethiSistersFaction",
-    "custom": "",
+    "custom": "Сёстры Серэці (Алесвел)",
     "en": "Serethi sisters (Aleswell)",
     "ru": "Сёстры Serethi (Aleswell)",
     "bel": "Сёстры Serethi (Aleswell)",
@@ -116731,7 +116731,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SeridurEvilFaction",
-    "custom": "",
+    "custom": "Фракцыя «Серыдур — зло»",
     "en": "Seridur Is Evil Faction",
     "ru": "Seridur – Злая Фракция",
     "bel": "Seridur – Злая Фракцыя",
@@ -116740,7 +116740,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SeridurEvilFaction_LEVEL0_M",
-    "custom": "",
+    "custom": "Злюцый",
     "en": "Evilicus",
     "ru": "Злюций",
     "bel": "Злюцый",
@@ -116749,7 +116749,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SeridurHouseFaction",
-    "custom": "",
+    "custom": "Фракцыя дома Серыдура",
     "en": "Seridur House Faction",
     "ru": "Дом Серидура [FACTION]",
     "bel": "Дом Серыдура [FACTION]",
@@ -116758,7 +116758,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SerpentHollowCave",
-    "custom": "",
+    "custom": "Пячора Змяіная Нара",
     "en": "Serpent Hollow Cave",
     "ru": "Пещера Змеиная Нора",
     "bel": "Пячора Змяіная Нара",
@@ -116767,7 +116767,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SerpentHollowCave02",
-    "custom": "",
+    "custom": "Змяіная нара - Халадзільнік",
     "en": "Serpent Hollow Chillers",
     "ru": "Змеиная нора - Холодильник",
     "bel": "Змяіная нара - Халадзільнік",
@@ -116776,7 +116776,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SerpentsTrail",
-    "custom": "",
+    "custom": "След Змяі",
     "en": "Serpent's Trail",
     "ru": "След Змеи",
     "bel": "След Змяі",
@@ -116794,7 +116794,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SerpentsWakeFaction",
-    "custom": "",
+    "custom": "Анвіл - фракцыя Кільватар Змея",
     "en": "Anvil - The Serpent's Wake faction",
     "ru": "Anvil - фракция The Serpent's Wake",
     "bel": "Anvil - фракцыя The Serpent's Wake",
@@ -116803,7 +116803,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ServatiusQuintilius",
-    "custom": "",
+    "custom": "Серваціус Квінтыліус",
     "en": "Servatius Quintilius",
     "ru": "Серватиус Квинтилиус",
     "bel": "Серваціус Квінтыліус",
@@ -116812,7 +116812,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ServeSentence",
-    "custom": "",
+    "custom": "Адправіцца ў турму",
     "en": "Go to Jail",
     "ru": "Отправиться в тюрьму",
     "bel": "Адправіцца ў турму",
@@ -116821,7 +116821,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ServicetoLeyawiinTopic",
-    "custom": "",
+    "custom": "Служэнне Лейавіну",
     "en": "Service to Leyawiin",
     "ru": "Служение Лейавину",
     "bel": "Служэнне Лейавіну",
@@ -116830,7 +116830,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ServicetoLeyawiinTopic01",
-    "custom": "",
+    "custom": "Лейавін павінен мяне ўзнагародзіць.",
     "en": "Leyawiin should reward me.",
     "ru": "Лейавин должен меня наградить.",
     "bel": "Лейавін павінен мяне ўзнагародзіць.",
@@ -116839,7 +116839,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ServicetoLeyawiinTopic02",
-    "custom": "",
+    "custom": "Я быў бы ўсхваляваны служыць Лейавііну.",
     "en": "I'd be honored to serve Leyawiin.",
     "ru": "Я был бы польщен служить Лейавиину.",
     "bel": "Я быў бы ўсхваляваны служыць Лейавііну.",
@@ -116848,7 +116848,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ServicetoLeyawiinTopic03",
-    "custom": "",
+    "custom": "Я прыму да ведама тое, што ты сказаў.",
     "en": "I'll consider what you've said.",
     "ru": "Я приму к сведению то, что ты сказал.",
     "bel": "Я прыму да ведама тое, што ты сказаў.",
@@ -116857,7 +116857,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ServicetoLeyawiinTopic05",
-    "custom": "",
+    "custom": "Ёй патрэбен Вібам-На.",
     "en": "She wants Weebam-Na.",
     "ru": "Ей нужен Вибам-На.",
     "bel": "Ёй патрэбен Вібам-На.",
@@ -116866,7 +116866,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ServicetoLeyawiinTopic06",
-    "custom": "",
+    "custom": "Вібам-На адмовіўся ісці.",
     "en": "Weebam-Na refused.",
     "ru": "Вибам-На отказался идти.",
     "bel": "Вібам-На адмовіўся ісці.",
@@ -116875,7 +116875,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ServicetoLeyawiinTopic07",
-    "custom": "",
+    "custom": "Яна хоча адправіцца да скалы Рыбака.",
     "en": "She wants to go to Fisherman's Rock.",
     "ru": "Она хочет отправиться к скале Рыбака.",
     "bel": "Яна хоча адправіцца да скалы Рыбака.",
@@ -116884,7 +116884,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ServicetoLeyawiinTopic08",
-    "custom": "",
+    "custom": "Каб адпомсціць за забойства сябра.",
     "en": "To avenge a murdered friend.",
     "ru": "Чтобы отомстить за убийство друга.",
     "bel": "Каб адпомсціць за забойства сябра.",
@@ -116893,7 +116893,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ServicetoLeyawiinTopic10",
-    "custom": "",
+    "custom": "Не думаю, што яна такая.",
     "en": "I don't think she is.",
     "ru": "Не думаю, что она такая.",
     "bel": "Не думаю, што яна такая.",
@@ -116902,7 +116902,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ServicetoLeyawiinTopic11",
-    "custom": "",
+    "custom": "Яна ўявіла пра сябе.",
     "en": "She thinks she is.",
     "ru": "Она возомнила о себе.",
     "bel": "Яна ўявіла пра сябе.",
@@ -116911,7 +116911,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ServicetoLeyawiinTopic13",
-    "custom": "",
+    "custom": "Але Від-На мёртвая.",
     "en": "But Weed-Na is dead.",
     "ru": "Но Weed-Na мертва.",
     "bel": "Але Weed-Na мёртвая.",
@@ -116920,7 +116920,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ServicetoLeyawiinTopic14",
-    "custom": "",
+    "custom": "Што менавіта ты ад мяне просіш?",
     "en": "What exactly are you asking of me?",
     "ru": "Что именно ты от меня просишь?",
     "bel": "Што менавіта ты ад мяне просіш?",
@@ -116929,7 +116929,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ServicetoLeyawiinTopic15",
-    "custom": "",
+    "custom": "У мяне ёсць справы больш важныя.",
     "en": "I have more pressing concerns.",
     "ru": "У меня есть дела поважнее.",
     "bel": "У мяне ёсць справы больш важныя.",
@@ -116938,7 +116938,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ServicetoLeyawiinTopic16",
-    "custom": "",
+    "custom": "Для гэтага і патрэбна ахова.",
     "en": "That's what the guard is for.",
     "ru": "Для этого и нужна охрана.",
     "bel": "Для гэтага і патрэбна ахова.",
@@ -116947,7 +116947,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SewerSloughGate01",
-    "custom": "",
+    "custom": "Шлюзавая брама",
     "en": "Slough Gate",
     "ru": "Шлюзовые ворота",
     "bel": "Шлюзавая брама",
@@ -116956,7 +116956,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShadeleafCopse",
-    "custom": "",
+    "custom": "Цяністы гай",
     "en": "Shadeleaf Copse",
     "ru": "Тенистая роща",
     "bel": "Цяністы гай",
@@ -116965,7 +116965,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShadeoftheRevenant",
-    "custom": "",
+    "custom": "Цень прывіда",
     "en": "Shade of the Revenant",
     "ru": "Тень призрака",
     "bel": "Цень прывіда",
@@ -116974,7 +116974,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShadowbanishWine",
-    "custom": "",
+    "custom": "Віно выгнання ценяў",
     "en": "Shadowbanish Wine",
     "ru": "Вино изгнания теней",
     "bel": "Віно выгнання ценяў",
@@ -116983,7 +116983,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShadowsRestCavern",
-    "custom": "",
+    "custom": "Пячора Прытулак Ценяў",
     "en": "Shadow's Rest Cavern",
     "ru": "Пещера Приют Теней",
     "bel": "Пячора Прытулак Ценяў",
@@ -116992,7 +116992,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShadowsRestCavern02",
-    "custom": "",
+    "custom": "Прытулак Ценяў - Скалістыя хады",
     "en": "Shadow's Rest Rocky Run",
     "ru": "Приют Теней - Скалистые ходы",
     "bel": "Прытулак Ценяў - Скалістыя хады",
@@ -117010,7 +117010,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Shafaye",
-    "custom": "",
+    "custom": "Шафайе",
     "en": "Shafaye",
     "ru": "Шафайе",
     "bel": "Шафайе",
@@ -117019,7 +117019,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShagolgroBumph",
-    "custom": "",
+    "custom": "Шагол гро-Бамп",
     "en": "Shagol gro-Bumph",
     "ru": "Шагол гро-Бамп",
     "bel": "Шагол гро-Бамп",
@@ -117028,7 +117028,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShamedOrcTopic",
-    "custom": "",
+    "custom": "Зняважаны орк",
     "en": "Shamed Orc",
     "ru": "Опозоренный орк",
     "bel": "Зняважаны орк",
@@ -117037,7 +117037,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Shardrock",
-    "custom": "",
+    "custom": "Скальныя Аскепкі",
     "en": "Shardrock",
     "ru": "Скальные Осколки",
     "bel": "Скальныя Аскепкі",
@@ -117046,7 +117046,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShardrockKey",
-    "custom": "",
+    "custom": "Ключ ад Скальных Аскепкаў",
     "en": "Shardrock Key",
     "ru": "Ключ от Скальных Осколков",
     "bel": "Ключ ад Скальных Аскепкаў",
@@ -117055,7 +117055,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShardrockRegion",
-    "custom": "",
+    "custom": "Скальныя Аскепкі",
     "en": "Shardrock",
     "ru": "Скальные Осколки",
     "bel": "Скальныя Аскепкі",
@@ -117064,7 +117064,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Sharpshooter",
-    "custom": "",
+    "custom": "Трапны стралок",
     "en": "Sharpshooter",
     "ru": "Меткий стрелок",
     "bel": "Трапны стралок",
@@ -117073,7 +117073,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShatteredMine02",
-    "custom": "",
+    "custom": "Разбураная шахта - Новыя штольні",
     "en": "Shattered Mine New Galleries",
     "ru": "Разрушенная шахта - Новые штольни",
     "bel": "Разбураная шахта - Новыя штольні",
@@ -117082,7 +117082,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShatteredScalesCave",
-    "custom": "",
+    "custom": "Пячора Разбітая Луска",
     "en": "Shattered Scales Cave",
     "ru": "Пещера Разбитая Чешуя",
     "bel": "Пячора Разбітая Луска",
@@ -117091,7 +117091,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShatteredScalesCave02",
-    "custom": "",
+    "custom": "Разбітая Луска - Доўгі ход",
     "en": "Shattered Scales Long Run",
     "ru": "Разбитая Чешуя - Длинный ход",
     "bel": "Разбітая Луска - Доўгі ход",
@@ -117100,7 +117100,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SheoIntroSpeech4",
-    "custom": "",
+    "custom": "Шэры марш?",
     "en": "Greymarch?",
     "ru": "Серый марш?",
     "bel": "Шэры марш?",
@@ -117109,7 +117109,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SheoIntroSpeech4A",
-    "custom": "",
+    "custom": "Калі ён сышоў?",
     "en": "When he's gone?",
     "ru": "Когда он ушел?",
     "bel": "Калі ён сышоў?",
@@ -117118,7 +117118,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SheoIntroSpeech4B",
-    "custom": "",
+    "custom": "Змяніць? Як?",
     "en": "Change things? How?",
     "ru": "Изменить? Как?",
     "bel": "Змяніць? Як?",
@@ -117127,7 +117127,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SheoIntroSpeech5",
-    "custom": "",
+    "custom": "Што цяпер?",
     "en": "What now?",
     "ru": "Что теперь?",
     "bel": "Што цяпер?",
@@ -117136,7 +117136,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SheogorathsFrenzy",
-    "custom": "",
+    "custom": "Шалёнасць Шэагората",
     "en": "Sheogorath's Frenzy",
     "ru": "Безумие Шеогората",
     "bel": "Вар'яцтва Шэагората",
@@ -117145,7 +117145,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SheogorathsShrine",
-    "custom": "",
+    "custom": "Свяцілішча Шэагората",
     "en": "Sheogorath's Shrine",
     "ru": "Святилище Шеогората",
     "bel": "Свяцілішча Шэагората",
@@ -117154,7 +117154,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShinboneCave",
-    "custom": "",
+    "custom": "Пячора Галёнка",
     "en": "Shinbone Cave",
     "ru": "Пещера Берцовая Кость",
     "bel": "Пячора Галёнка",
@@ -117163,7 +117163,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShinboneCave02",
-    "custom": "",
+    "custom": "Галёнка - Тунэлі",
     "en": "Shinbone Galleries",
     "ru": "Берцовая Кость - Туннели",
     "bel": "Галёнка - Тунэлі",
@@ -117172,7 +117172,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShipWreckEntrance01",
-    "custom": "",
+    "custom": "Прабіты корпус карабля",
     "en": "Broken Hull",
     "ru": "Пробитый корпус корабля",
     "bel": "Прабіты корпус карабля",
@@ -117181,7 +117181,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShobobgroRugdush",
-    "custom": "",
+    "custom": "Шобоб гро-Рагдуш",
     "en": "Shobob gro-Rugdush",
     "ru": "Шобоб гро-Рагдуш",
     "bel": "Шобоб гро-Рагдуш",
@@ -117190,7 +117190,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShrineArkayHealth",
-    "custom": "",
+    "custom": "Дыханне Аркея",
     "en": "Breath of Arkay",
     "ru": "Дыхание Аркея",
     "bel": "Дыханне Аркея",
@@ -117199,7 +117199,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShrineJulianosIntelligenceMagicka",
-    "custom": "",
+    "custom": "Шалі Джуліянаса",
     "en": "Scales of Julianos",
     "ru": "Весы Джулианоса",
     "bel": "Шалі Джуліянаса",
@@ -117208,7 +117208,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShrineofAzuraTOPIC",
-    "custom": "",
+    "custom": "Святыня Азуры",
     "en": "Shrine of Azura",
     "ru": "Святилище Азуры",
     "bel": "Свяцілішча Азуры",
@@ -117217,7 +117217,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShrineofBoethiaTOPIC",
-    "custom": "",
+    "custom": "Святыня Баэціі",
     "en": "Shrine of Boethia",
     "ru": "Святилище Боэтии",
     "bel": "Свяцілішча Баэціі",
@@ -117226,7 +117226,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShrineofClavicusVileTOPIC",
-    "custom": "",
+    "custom": "Святыня Клавікуса Подлага",
     "en": "Shrine of Clavicus Vile",
     "ru": "Святилище Клавикуса Вайла",
     "bel": "Свяцілішча Клавікуса Вайла",
@@ -117235,7 +117235,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShrineofHircineTOPIC",
-    "custom": "",
+    "custom": "ShrineofHircineTOPIC",
     "en": "ShrineofHircineTOPIC",
     "ru": "СвятилищеHircineTOPIC",
     "bel": "СвяцілішчаHircineTOPIC",
@@ -117244,7 +117244,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShrineofMalacathTOPIC",
-    "custom": "",
+    "custom": "Свяцілішча Малаката",
     "en": "Shrine of Malacath",
     "ru": "Святилище Малаката",
     "bel": "Свяцілішча Малаката",
@@ -117253,7 +117253,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShrineofMephalaTOPIC",
-    "custom": "",
+    "custom": "Святыня Мефалы",
     "en": "Shrine of Mephala",
     "ru": "Святилище Мефалы",
     "bel": "Свяцілішча Мефалы",
@@ -117262,7 +117262,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShrineofMeridiaTOPIC",
-    "custom": "",
+    "custom": "Святыня Мерыдыі",
     "en": "Shrine of Meridia",
     "ru": "Святилище Меридии",
     "bel": "Свяцілішча Мерыдыі",
@@ -117271,7 +117271,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShrineofMolagBalTOPIC",
-    "custom": "",
+    "custom": "Святыня Молага Бала",
     "en": "Shrine of Molag Bal",
     "ru": "Святилище Молаг Бала",
     "bel": "Свяцілішча Молаг Бала",
@@ -117280,7 +117280,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShrineofNamiraTOPIC",
-    "custom": "",
+    "custom": "Святыня Наміры",
     "en": "Shrine of Namira",
     "ru": "Святилище Намиры",
     "bel": "Свяцілішча Наміры",
@@ -117289,7 +117289,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShrineofNocturnalTOPIC",
-    "custom": "",
+    "custom": "Святыня Накцюрнал",
     "en": "Shrine of Nocturnal",
     "ru": "Святилище Ноктюрнал",
     "bel": "Свяцілішча Накцюрнал",
@@ -117298,7 +117298,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShrineofSanguine",
-    "custom": "",
+    "custom": "Святыня Сангвіна",
     "en": "Shrine of Sanguine",
     "ru": "Святилище Сангвина",
     "bel": "Свяцілішча Сангвіна",
@@ -117307,7 +117307,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShrineofSanguineTOPIC",
-    "custom": "",
+    "custom": "Святыня Сангвіна",
     "en": "Shrine of Sanguine",
     "ru": "Святилище Сангвина",
     "bel": "Свяцілішча Сангвіна",
@@ -117316,7 +117316,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShrineofSheogorathTOPIC",
-    "custom": "",
+    "custom": "Святыня Шэагората",
     "en": "Shrine of Sheogorath",
     "ru": "Святилище Шеогората",
     "bel": "Свяцілішча Шэагората",
@@ -117325,7 +117325,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ShrineofVaerminaTOPIC",
-    "custom": "",
+    "custom": "Святыня Вэрміны",
     "en": "Shrine of Vaermina",
     "ru": "Святилище Вермины",
     "bel": "Свяцілішча Верміны",
@@ -117334,7 +117334,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SidewaysCave",
-    "custom": "",
+    "custom": "Пячора Абыходны Шлях",
     "en": "Sideways Cave",
     "ru": "Пещера Окольный Путь",
     "bel": "Пячора Абыходны Шлях",
@@ -117343,7 +117343,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SidewaysCave02",
-    "custom": "",
+    "custom": "Пячора Абыходны Шлях - Бурчэльнае возера",
     "en": "Sideways Cave - Muttering Pool",
     "ru": "Пещера Окольный Путь - Бормочущее озеро",
     "bel": "Пячора Абыходны Шлях - Бурчэльнае возера",
@@ -117352,7 +117352,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SidewaysCaveNEW",
-    "custom": "",
+    "custom": "Пячора Абыходны Шлях",
     "en": "Sideways Cave",
     "ru": "Пещера Окольный Путь",
     "bel": "Пячора Абыходны Шлях",
@@ -117361,7 +117361,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SidewaysCaveNew02",
-    "custom": "",
+    "custom": "Пячора Абыходны Шлях - Падземнае возера",
     "en": "Sideways Cave - Hidden Lake",
     "ru": "Пещера Окольный Путь - Подземное озеро",
     "bel": "Пячора Абыходны Шлях - Падземнае возера",
@@ -117370,7 +117370,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SidewaysCaveNew03",
-    "custom": "",
+    "custom": "Абыходны Шлях - Згублены Абагарлас",
     "en": "Sideways Cave - Lost Abagarlas",
     "ru": "Окольный Путь - Затерянный Абагарлас",
     "bel": "Абыходны Шлях - Згублены Абагарлас",
@@ -117379,7 +117379,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SiegeCrawlerDeath",
-    "custom": "",
+    "custom": "Абложная машына",
     "en": "Siege Crawler",
     "ru": "Осадная машина",
     "bel": "Абложная машына",
@@ -117478,7 +117478,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SigilstoneGive",
-    "custom": "",
+    "custom": "Дамовіліся.",
     "en": "It's a deal.",
     "ru": "По рукам.",
     "bel": "Па руках.",
@@ -117487,7 +117487,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SigilstoneNotReady",
-    "custom": "",
+    "custom": "Я пакуль не гатовы мець з гэтым справу.",
     "en": "I'm not ready to deal yet.",
     "ru": "Я пока не готов иметь с этим дело.",
     "bel": "Я пакуль не гатовы мець з гэтым справу.",
@@ -117496,7 +117496,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SigilstoneTopic",
-    "custom": "",
+    "custom": "Камень сігіла",
     "en": "Sigil stone",
     "ru": "Камень Sigil",
     "bel": "Камень Sigil",
@@ -117505,7 +117505,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SignyHomeWrecker",
-    "custom": "",
+    "custom": "Сігні Разлучніца",
     "en": "Signy Home-Wrecker",
     "ru": "Сигни Разлучница",
     "bel": "Сігні Разлучніца",
@@ -117514,7 +117514,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SihaftarSpeech",
-    "custom": "",
+    "custom": "Прамова Sihaftar",
     "en": "SihaftarSpeech",
     "ru": "Речь Sihaftar",
     "bel": "Прамова Sihaftar",
@@ -117523,7 +117523,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SilanaBlandia",
-    "custom": "",
+    "custom": "Сілана Бландыя",
     "en": "Silana Blandia",
     "ru": "Силана Бландия",
     "bel": "Сілана Бландыя",
@@ -117532,7 +117532,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SilencerTopic",
-    "custom": "",
+    "custom": "Душыцелька",
     "en": "Silencer",
     "ru": "Душитель",
     "bel": "Душыцель",
@@ -117541,7 +117541,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Silorn02",
-    "custom": "",
+    "custom": "Сілорн Седорселі",
     "en": "Silorn Sedorseli",
     "ru": "Силорн Седорсели",
     "bel": "Сілорн Седорселі",
@@ -117550,7 +117550,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SilvDagshimmerthorn",
-    "custom": "",
+    "custom": "Мільготкі Удар",
     "en": "Shimmerstrike",
     "ru": "Мерцающий Удар",
     "bel": "Мільготкі Удар",
@@ -117559,7 +117559,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SilverToothCave",
-    "custom": "",
+    "custom": "Пячора Срэбны Зуб",
     "en": "Silver Tooth Cave",
     "ru": "Пещера Серебряный Зуб",
     "bel": "Пячора Срэбны Зуб",
@@ -117568,7 +117568,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SilverToothCave02",
-    "custom": "",
+    "custom": "Срэбны Зуб - Лабірынты",
     "en": "Silver Tooth Warrens",
     "ru": "Серебряный Зуб - Лабиринты",
     "bel": "Срэбны Зуб - Лабірынты",
@@ -117577,7 +117577,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SilverhomeFaction",
-    "custom": "",
+    "custom": "Бравіл - Гільдыя Срэбнага Дома",
     "en": "Bravil - Silverhome faction",
     "ru": "Бравил - фракция Silverhome",
     "bel": "Бравіл - фракцыя Silverhome",
@@ -117586,7 +117586,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SingsLikeThunder",
-    "custom": "",
+    "custom": "Спяваючы-як-Гром",
     "en": "Sings-Like-Thunder",
     "ru": "Поющий-как-Гром",
     "bel": "Спяваючы-як-Гром",
@@ -117595,7 +117595,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SinkholeCave",
-    "custom": "",
+    "custom": "Пячора Выграбная Яма",
     "en": "Sinkhole Cave",
     "ru": "Пещера Выгребная Яма",
     "bel": "Пячора Выграбная Яма",
@@ -117604,7 +117604,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SinkholeCave02",
-    "custom": "",
+    "custom": "Выграбная Яма - Вялікая зала",
     "en": "Sinkhole Great Hall",
     "ru": "Выгребная Яма - Большой зал",
     "bel": "Выграбная Яма - Вялікая зала",
@@ -117613,7 +117613,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SintavFamily",
-    "custom": "",
+    "custom": "Сям'я Сінтаў",
     "en": "Sintav Family",
     "ru": "Семейство Sintav",
     "bel": "Сямейства Sintav",
@@ -117622,7 +117622,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SisterPhebeJeanard",
-    "custom": "",
+    "custom": "Сястра Фебе Женар",
     "en": "Sister Phebe Jeanard",
     "ru": "Сестра Фебе Женар",
     "bel": "Сястра Фебе Женар",
@@ -117631,7 +117631,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkDoorMiddle01",
-    "custom": "",
+    "custom": "Узмоцненая дзверы",
     "en": "Reinforced Door",
     "ru": "Усиленная дверь",
     "bel": "Узмоцненыя дзверы",
@@ -117640,7 +117640,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkDoorMiddleInt01",
-    "custom": "",
+    "custom": "Узмоцненая дзверы",
     "en": "Reinforced Door",
     "ru": "Усиленная дверь",
     "bel": "Узмоцненыя дзверы",
@@ -117649,7 +117649,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Skaleel",
-    "custom": "",
+    "custom": "Скаліл",
     "en": "Skaleel",
     "ru": "Скалил",
     "bel": "Скаліл",
@@ -117658,7 +117658,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkaleelTopic",
-    "custom": "",
+    "custom": "Скаліл",
     "en": "Skaleel",
     "ru": "Скалил",
     "bel": "Скаліл",
@@ -117667,7 +117667,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradAllThingsAlchemical",
-    "custom": "",
+    "custom": "\"Усё для алхіміка\"",
     "en": "All Things Alchemical",
     "ru": "\"Все для алхимика\"",
     "bel": "\"Усё для алхіміка\"",
@@ -117676,7 +117676,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradAmbroiseCannesHouse",
-    "custom": "",
+    "custom": "Дом Амброза Кана",
     "en": "Ambroise Canne's House",
     "ru": "Дом Амброза Канна",
     "bel": "Дом Амброза Кана",
@@ -117685,7 +117685,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradBeggars",
-    "custom": "",
+    "custom": "Скінградскія жабракі",
     "en": "Skingrad Beggars",
     "ru": "Скинградские нищие",
     "bel": "Скінградскія жабракі",
@@ -117694,7 +117694,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradBernadettePenelesHouse",
-    "custom": "",
+    "custom": "Дом Бернадэты Пенеліс",
     "en": "Bernadette Peneles' House",
     "ru": "Дом Бернадетты Пенелис",
     "bel": "Дом Бернадэты Пенеліс",
@@ -117712,7 +117712,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradCastleBarracks",
-    "custom": "",
+    "custom": "Замак Скінград - Казармы",
     "en": "Castle Skingrad Barracks",
     "ru": "Замок Скинград - Казармы",
     "bel": "Замак Скінград - Казармы",
@@ -117721,7 +117721,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradCastleChamberOfTheLost",
-    "custom": "",
+    "custom": "Чартог забытых",
     "en": "Chamber of the Lost",
     "ru": "Чертог забытых",
     "bel": "Чартог забытых",
@@ -117730,7 +117730,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradCastleCourtyard",
-    "custom": "",
+    "custom": "Замак Скінград - Двор",
     "en": "Castle Skingrad Courtyard",
     "ru": "Замок Скинград - Двор",
     "bel": "Замак Скінград - Двор",
@@ -117739,7 +117739,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradCastleDiningHall",
-    "custom": "",
+    "custom": "Замак Скінград - Сталовая",
     "en": "Castle Skingrad Dining Hall",
     "ru": "Замок Скинград - Столовая",
     "bel": "Замак Скінград - Сталовая",
@@ -117757,7 +117757,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradCastleFaction",
-    "custom": "",
+    "custom": "Фракцыя замка Скінград",
     "en": "Skingrad Castle Faction",
     "ru": "Фракция замка Скинград",
     "bel": "Фракцыя замка Скінград",
@@ -117838,7 +117838,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradCastleInnerKey",
-    "custom": "",
+    "custom": "Срэбр. ключ замка Скінград",
     "en": "Skingrad Castle Silver Key",
     "ru": "Серебр. ключ замка Скинград",
     "bel": "Срэбр. ключ замка Скінград",
@@ -117847,7 +117847,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradCastleKey",
-    "custom": "",
+    "custom": "Ключ ад замка Скінград",
     "en": "Skingrad Castle Key",
     "ru": "Ключ от замка Скинград",
     "bel": "Ключ ад замка Скінград",
@@ -117856,7 +117856,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradCastleLivingQuarters",
-    "custom": "",
+    "custom": "Замак Скінград - Жылыя памяшканні",
     "en": "Castle Skingrad Living Quarters",
     "ru": "Замок Скинград - Жилые помещения",
     "bel": "Замак Скінград - Жылыя памяшканні",
@@ -117865,7 +117865,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradCastleLordsManor",
-    "custom": "",
+    "custom": "Замак Скінград - Графскія пакоі",
     "en": "Castle Skingrad Lord's Manor",
     "ru": "Замок Скинград - Графские покои",
     "bel": "Замак Скінград - Графскія пакоі",
@@ -117874,7 +117874,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradCastleSkingrad",
-    "custom": "",
+    "custom": "Замак Скінград - Зала для прыёмаў",
     "en": "Castle Skingrad County Hall",
     "ru": "Замок Скинград - Зал для приемов",
     "bel": "Замак Скінград - Зала для прыёмаў",
@@ -117883,7 +117883,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradCastleSouthHall",
-    "custom": "",
+    "custom": "Замак Скінград - Паўднёвая зала",
     "en": "Castle Skingrad South Hall",
     "ru": "Замок Скинград - Южный зал",
     "bel": "Замак Скінград - Паўднёвая зала",
@@ -117892,7 +117892,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradCastleWineCellar",
-    "custom": "",
+    "custom": "Замак Скінград - Вінны склеп",
     "en": "Castle Skingrad Wine Cellar",
     "ru": "Замок Скинград - Винный погреб",
     "bel": "Замак Скінград - Вінны склеп",
@@ -117901,7 +117901,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradChapelHall",
-    "custom": "",
+    "custom": "Хол капліцы",
     "en": "Chapel Hall",
     "ru": "Холл часовни",
     "bel": "Холл капліцы",
@@ -117910,7 +117910,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradChapelUndercroft",
-    "custom": "",
+    "custom": "Крыпта капліцы",
     "en": "Chapel Undercroft",
     "ru": "Крипта часовни",
     "bel": "Крыпта капліцы",
@@ -117919,7 +117919,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradChapelofJulianos",
-    "custom": "",
+    "custom": "Вялікая капліца Джуліянаса",
     "en": "The Great Chapel of Julianos",
     "ru": "Великая часовня Джулианоса",
     "bel": "Вялікая капліца Джуліянаса",
@@ -117928,7 +117928,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradColovianTraders",
-    "custom": "",
+    "custom": "\"Каловіянскія гандляры\"",
     "en": "Colovian Traders",
     "ru": "\"Коловианские торговцы\"",
     "bel": "\"Каловіянскія гандляры\"",
@@ -117937,7 +117937,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradDungeonKey",
-    "custom": "",
+    "custom": "Ключ ад цямніцы Скінграда",
     "en": "Skingrad Dungeon Key",
     "ru": "Ключ от темницы Скинграда",
     "bel": "Ключ ад цямніцы Скінграда",
@@ -117946,7 +117946,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradEastGate",
-    "custom": "",
+    "custom": "Скінград — Усходнія Брамы",
     "en": "Skingrad - East Gate",
     "ru": "Скинград — Восточные Врата",
     "bel": "Скінград — Усходнія Брамы",
@@ -117955,7 +117955,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradFaction",
-    "custom": "",
+    "custom": "Жыхар Скінграда",
     "en": "Skingrad Citizen",
     "ru": "Житель Skingrad",
     "bel": "Жыхар Skingrad",
@@ -117964,7 +117964,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradFightersGuildBasement",
-    "custom": "",
+    "custom": "Падвал Гільдыі байцоў",
     "en": "Fighters Guild Basement",
     "ru": "Гильдия бойцов - Подвал",
     "bel": "Гільдыя байцоў - Падвал",
@@ -117973,7 +117973,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradFightersGuildUpstairs",
-    "custom": "",
+    "custom": "Гільдыя байцоў - Верхні паверх",
     "en": "Fighters Guild Upstairs",
     "ru": "Гильдия бойцов - Верхний этаж",
     "bel": "Гільдыя байцоў - Верхні паверх",
@@ -117982,7 +117982,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradGlarthirsBasement",
-    "custom": "",
+    "custom": "Падвал Глартыра",
     "en": "Glarthir's Basement",
     "ru": "Подвал Глартира",
     "bel": "Падвал Глартыра",
@@ -117991,7 +117991,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradGlarthirsHouse",
-    "custom": "",
+    "custom": "Дом Глартыра",
     "en": "Glarthir's House",
     "ru": "Дом Глартира",
     "bel": "Дом Глартыра",
@@ -118000,7 +118000,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradGratefulPassStables",
-    "custom": "",
+    "custom": "Стайні \"Удзячнага Перавала\"",
     "en": "Grateful Pass Stables",
     "ru": "Конюшня \"Приятное путешествие\"",
     "bel": "Стайня \"Прыемнае падарожжа\"",
@@ -118009,7 +118009,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradGuardFaction",
-    "custom": "",
+    "custom": "Скінградская варта",
     "en": "Skingrad Guards",
     "ru": "Стража Skingrad",
     "bel": "Варта Skingrad",
@@ -118126,7 +118126,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradHammerAndTongs",
-    "custom": "",
+    "custom": "\"Молат і абцугі\"",
     "en": "Hammer and Tongs",
     "ru": "\"Молот и клещи\"",
     "bel": "\"Молат і абцугі\"",
@@ -118135,7 +118135,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradHammerAndTongsBasement",
-    "custom": "",
+    "custom": "\"Молат і абцугі\" - Падвал",
     "en": "Hammer and Tongs Basement",
     "ru": "\"Молот и клещи\" - Подвал",
     "bel": "\"Молат і абцугі\" - Падвал",
@@ -118144,7 +118144,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradHouse",
-    "custom": "",
+    "custom": "Скінградскі дом",
     "en": "Skingrad House",
     "ru": "Скинградский дом",
     "bel": "Скінградскі дом",
@@ -118153,7 +118153,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradHouseForSaleBasement",
-    "custom": "",
+    "custom": "Розеторн-Холл - Падвал",
     "en": "Rosethorn Hall Basement",
     "ru": "Розеторн-Холл - Подвал",
     "bel": "Розеторн-Холл - Падвал",
@@ -118162,7 +118162,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradHouseForSaleUpperFloor",
-    "custom": "",
+    "custom": "Розеторн-Холл - Верхні паверх",
     "en": "Rosethorn Hall Top Floor",
     "ru": "Розеторн-Холл - Верхний этаж",
     "bel": "Розеторн-Холл - Верхні паверх",
@@ -118171,7 +118171,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradHouseforSale",
-    "custom": "",
+    "custom": "Розеторн-Холл",
     "en": "Rosethorn Hall",
     "ru": "Розеторн-Холл",
     "bel": "Розеторн-Холл",
@@ -118180,7 +118180,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradLazareMilvansBasement",
-    "custom": "",
+    "custom": "Падвал Лазара Мілвана",
     "en": "Lazare Milvan's Basement",
     "ru": "Подвал Лазара Милвана",
     "bel": "Падвал Лазара Мілвана",
@@ -118189,7 +118189,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradLazareMilvansHouse",
-    "custom": "",
+    "custom": "Дом Лазара Мілвана",
     "en": "Lazare Milvan's House",
     "ru": "Дом Лазара Милвана",
     "bel": "Дом Лазара Мілвана",
@@ -118198,7 +118198,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradMagesGuildBasement",
-    "custom": "",
+    "custom": "Падвал Гільдыі магаў",
     "en": "Mages Guild Basement",
     "ru": "Гильдия магов - Подвал",
     "bel": "Гільдыя магаў - Падвал",
@@ -118207,7 +118207,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradMagesGuildLivingQuarters",
-    "custom": "",
+    "custom": "Жылыя памяшканні Гільдыі магаў",
     "en": "Mages Guild Living Quarters",
     "ru": "Гильдия магов - Жилые помещения",
     "bel": "Гільдыя магаў - Жылыя памяшканні",
@@ -118216,7 +118216,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradNQDQuestionResponses",
-    "custom": "",
+    "custom": "Адказы SkingradNQD на пытанні",
     "en": "SkingradNQDQuestionResponses",
     "ru": "Ответы SkingradNQD на вопросы",
     "bel": "Адказы SkingradNQD на пытанні",
@@ -118225,7 +118225,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradNQDResponses",
-    "custom": "",
+    "custom": "Рэплікі СкінградаNQD",
     "en": "SkingradNQDResponses",
     "ru": "Реплики СкинградаNQD",
     "bel": "Рэплікі СкінградаNQD",
@@ -118234,7 +118234,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradNerastarelsHouseUpstairs",
-    "custom": "",
+    "custom": "Дом Нерастарэла - Верхні паверх",
     "en": "Nerastarel's House Upstairs",
     "ru": "Дом Нерастарела - Верхний этаж",
     "bel": "Дом Нерастарэла - Верхні паверх",
@@ -118243,7 +118243,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradStable",
-    "custom": "",
+    "custom": "Стайні Скінграда",
     "en": "Skingrad Stables",
     "ru": "Конюшни Skingrad",
     "bel": "Стайні Skingrad",
@@ -118252,7 +118252,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradStables",
-    "custom": "",
+    "custom": "Стайні Скінграда",
     "en": "Skingrad Stables",
     "ru": "Скуриградские конюшни",
     "bel": "Скурыградскія стайні",
@@ -118261,7 +118261,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradSummitmistManor",
-    "custom": "",
+    "custom": "Асабняк Самітміст",
     "en": "Summitmist Manor",
     "ru": "Особняк Саммитмист",
     "bel": "Асабняк Самітміст",
@@ -118270,7 +118270,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradSummitmistManorBasement",
-    "custom": "",
+    "custom": "Асабняк Самітміст - Падвал",
     "en": "Summitmist Manor Basement",
     "ru": "Особняк Саммитмист - Подвал",
     "bel": "Асабняк Самітміст - Падвал",
@@ -118279,7 +118279,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradSummitmistManorLivingQuarters",
-    "custom": "",
+    "custom": "Асабняк Самітміст - Жылыя памяшканні",
     "en": "Summitmist Manor Living Quarters",
     "ru": "Особняк Саммитмист - Жилые помещения",
     "bel": "Асабняк Самітміст - Жылыя памяшканні",
@@ -118288,7 +118288,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradSurilieBrothersBasement",
-    "custom": "",
+    "custom": "Падвал Братоў Сурылі",
     "en": "Surilie Brothers' Basement",
     "ru": "Подвал Братьев Сурили",
     "bel": "Падвал Братоў Сурылі",
@@ -118297,7 +118297,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradSurilieBrothersHouse",
-    "custom": "",
+    "custom": "Дом Братоў Сурылі",
     "en": "Surilie Brothers' House",
     "ru": "Дом Братьев Сурили",
     "bel": "Дом Братоў Сурылі",
@@ -118306,7 +118306,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradTopicElse02",
-    "custom": "",
+    "custom": "Што ты думаеш...?",
     "en": "What do you think...?",
     "ru": "Что ты думаешь...?",
     "bel": "Што ты думаеш...?",
@@ -118315,7 +118315,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradTopicErina01",
-    "custom": "",
+    "custom": "Ці ёсць тут нейкая цікавая мясцовая гісторыя?",
     "en": "Any interesting local history?",
     "ru": "Есть ли какая-нибудь интересная местная история?",
     "bel": "Ці ёсць тут нейкая цікавая мясцовая гісторыя?",
@@ -118324,7 +118324,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradTopicErina02",
-    "custom": "",
+    "custom": "Якія тут людзі?",
     "en": "How are the people?",
     "ru": "Как люди?",
     "bel": "Якія тут людзі?",
@@ -118333,7 +118333,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradTopicErina04",
-    "custom": "",
+    "custom": "Чым мясцовыя жыхары зарабляюць на жыццё?",
     "en": "What do the locals do for a living?",
     "ru": "Чем местные жители зарабатывают на жизнь?",
     "bel": "Чым мясцовыя жыхары зарабляюць на жыццё?",
@@ -118342,7 +118342,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradTopicFalanu01",
-    "custom": "",
+    "custom": "Мм... прабачце?",
     "en": "Uh... excuse me?",
     "ru": "Мм... прошу прощения?",
     "bel": "Мм... прабачце?",
@@ -118351,7 +118351,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradTopicFalanu02",
-    "custom": "",
+    "custom": "Не маю паняцця.",
     "en": "I have no idea.",
     "ru": "Понятия не имею.",
     "bel": "Не маю паняцця.",
@@ -118360,7 +118360,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradTopicFalanu03",
-    "custom": "",
+    "custom": "Гэта першае злачынства?",
     "en": "Is it the first offense?",
     "ru": "Это первое преступление?",
     "bel": "Гэта першае злачынства?",
@@ -118369,7 +118369,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradTopicFalanu04",
-    "custom": "",
+    "custom": "Тады не менш за 500 залатых.",
     "en": "Then it's at least 500 gold.",
     "ru": "Тогда не менее 500 золотых.",
     "bel": "Тады не менш за 500 залатых.",
@@ -118378,7 +118378,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradTopicMog02",
-    "custom": "",
+    "custom": "Можа быць.",
     "en": "Maybe so.",
     "ru": "Может быть.",
     "bel": "Можа быць.",
@@ -118387,7 +118387,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradTopicMog03",
-    "custom": "",
+    "custom": "Магчымасці для дзеянняў?",
     "en": "Opportunities for action?",
     "ru": "Возможности для действий?",
     "bel": "Магчымасці для дзеянняў?",
@@ -118396,7 +118396,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradTopicMog05",
-    "custom": "",
+    "custom": "Ці ёсць парада?",
     "en": "Any advice?",
     "ru": "Есть совет?",
     "bel": "Ці ёсць парада?",
@@ -118405,7 +118405,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradToutiusSextiusBasement",
-    "custom": "",
+    "custom": "Падвал Тутыюса Секстыюса",
     "en": "Toutius Sextius' Basement",
     "ru": "Подвал Тутиуса Секстиуса",
     "bel": "Падвал Тутыюса Секстыюса",
@@ -118414,7 +118414,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradToutiusSextiusHouse",
-    "custom": "",
+    "custom": "Дом Тутыюса Секстыюса",
     "en": "Toutius Sextius' House",
     "ru": "Дом Тутиуса Секстиуса",
     "bel": "Дом Тутыюса Секстыюса",
@@ -118423,7 +118423,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradTownGuardHouse",
-    "custom": "",
+    "custom": "Будынак варты Скінграда",
     "en": "Skingrad Town Guard House",
     "ru": "Здание стражи Скинграда",
     "bel": "Будынак варты Скінграда",
@@ -118432,7 +118432,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradTownGuardKey",
-    "custom": "",
+    "custom": "Ключ ад будынка варты Скінграда",
     "en": "Skingrad Guardhouse Key",
     "ru": "Ключ от здания стражи Скинграда",
     "bel": "Ключ ад будынка варты Скінграда",
@@ -118441,7 +118441,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradTwoSistersLodge",
-    "custom": "",
+    "custom": "Заезны двор \"Дзве сястры\"",
     "en": "Two Sisters Lodge",
     "ru": "Постоялый двор \"Две сестры\"",
     "bel": "Заезны двор \"Дзве сястры\"",
@@ -118450,7 +118450,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradTwoSistersLodgeCellar",
-    "custom": "",
+    "custom": "Заезны двор \"Дзве сястры\" - Падгрэб",
     "en": "Two Sisters Lodge Cellar",
     "ru": "Постоялый двор \"Две сестры\" - Погреб",
     "bel": "Заезны двор \"Дзве сястры\" - Падгрэб",
@@ -118459,7 +118459,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradTwoSistersLodgeUpstairs",
-    "custom": "",
+    "custom": "Заезны двор \"Дзве сястры\" - Верхні паверх",
     "en": "Two Sisters Lodge Upstairs",
     "ru": "Постоялый двор \"Две сестры\" - Верхний этаж",
     "bel": "Заезны двор \"Дзве сястры\" - Верхні паверх",
@@ -118468,7 +118468,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradUndenaOrethisHouse",
-    "custom": "",
+    "custom": "Дом Ундэны Арэці",
     "en": "Undena Orethi's House",
     "ru": "Дом Ундены Орети",
     "bel": "Дом Ундэны Арэці",
@@ -118477,7 +118477,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradUurasTheShepherdsHouse",
-    "custom": "",
+    "custom": "Дом Ураса Пастуха",
     "en": "Uuras the Shepherd's House",
     "ru": "Дом Ураса Пастуха",
     "bel": "Дом Ураса Пастуха",
@@ -118486,7 +118486,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradWestGate",
-    "custom": "",
+    "custom": "Скінград — Заходнія вароты",
     "en": "Skingrad - West Gate",
     "ru": "Скинград — Западные врата",
     "bel": "Скінград — Заходнія вароты",
@@ -118495,7 +118495,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradWestWealdInn",
-    "custom": "",
+    "custom": "Таверна \"Заходні вельд\"",
     "en": "West Weald Inn",
     "ru": "Таверна \"Западный вельд\"",
     "bel": "Таверна \"Заходні вельд\"",
@@ -118504,7 +118504,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradWestWealdInnCellar",
-    "custom": "",
+    "custom": "Падгрэб Сіндэрыёна",
     "en": "Sinderion's Cellar",
     "ru": "Погреб Синдериона",
     "bel": "Падгрэб Сіндэрыёна",
@@ -118513,7 +118513,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkingradWestWealdInnUpstairs",
-    "custom": "",
+    "custom": "Таверна \"Заходні вельд\" - Верхні паверх",
     "en": "West Weald Inn Upstairs",
     "ru": "Таверна \"Западный вельд\" - Верхний этаж",
     "bel": "Таверна \"Заходні вельд\" - Верхні паверх",
@@ -118522,7 +118522,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SkrivvaKey",
-    "custom": "",
+    "custom": "Ключ С'Крыввы",
     "en": "S'krivva's Key",
     "ru": "Ключ С'Криввы",
     "bel": "Ключ С'Крыввы",
@@ -118531,7 +118531,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SlashNSmashKey",
-    "custom": "",
+    "custom": "Ключ ад \"Бей і крушы\"",
     "en": "Slash 'N Smash Key",
     "ru": "Ключ от \"Бей и круши\"",
     "bel": "Ключ ад \"Бей і крушы\"",
@@ -118540,7 +118540,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SleepingMareFaction",
-    "custom": "",
+    "custom": "Фракцыя \"Спячая Кобыла\"",
     "en": "Sleeping Mare Faction",
     "ru": "Фракция \"Спящая Кобыла\"",
     "bel": "Фракцыя \"Спячая Кобыла\"",
@@ -118549,7 +118549,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SleepingMareKey",
-    "custom": "",
+    "custom": "Ключ ад \"Спячай кабылы\"",
     "en": "Sleeping Mare Key",
     "ru": "Ключ от \"Спящей кобылы\"",
     "bel": "Ключ ад \"Спячай кабылы\"",
@@ -118558,7 +118558,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SlytheSeringi",
-    "custom": "",
+    "custom": "Слайт Серынджы",
     "en": "Slythe Seringi",
     "ru": "Слайт Серинжи",
     "bel": "Слайт Серынджы",
@@ -118567,7 +118567,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SmokeHoleCave",
-    "custom": "",
+    "custom": "Пячора Дымная Дзірка",
     "en": "Smoke Hole Cave",
     "ru": "Пещера Дымная Дыра",
     "bel": "Пячора Дымная Дзірка",
@@ -118576,7 +118576,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SmokeHoleCave02",
-    "custom": "",
+    "custom": "Дымная дзірка - Латунны склеп",
     "en": "Smoke Hole Brass Tomb",
     "ru": "Дымная дыра - Латунный склеп",
     "bel": "Дымная дзірка - Латунны склеп",
@@ -118585,7 +118585,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SmokeHoleCave03",
-    "custom": "",
+    "custom": "Дымная дзірка - Склеп",
     "en": "Smoke Hole Boot Tomb",
     "ru": "Дымная дыра - Склеп",
     "bel": "Дымная дзірка - Склеп",
@@ -118594,7 +118594,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SnakGraBuraResponse",
-    "custom": "",
+    "custom": "Ты... ты з'ела іх?",
     "en": "Did you...did you eat them?",
     "ru": "Ты... ты съела их?",
     "bel": "Ты... ты з'ела іх?",
@@ -118603,7 +118603,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SnakgraBura",
-    "custom": "",
+    "custom": "Снэк гра-Бура",
     "en": "Snak gra-Bura",
     "ru": "Снэк гра-Бура",
     "bel": "Снэк гра-Бура",
@@ -118612,7 +118612,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SnartheCook",
-    "custom": "",
+    "custom": "Снар Повар",
     "en": "Snar the Cook",
     "ru": "Снар Повар",
     "bel": "Снар Повар",
@@ -118621,7 +118621,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SomnaliusFrond",
-    "custom": "",
+    "custom": "Ліст Сомналіуса",
     "en": "Somnalius Frond",
     "ru": "Лист сонного папоротника",
     "bel": "Ліст соннага папараці",
@@ -118630,7 +118630,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SomnaliusPlant",
-    "custom": "",
+    "custom": "Сонны папаратнік",
     "en": "Somnalius Plant",
     "ru": "Сонный папоротник",
     "bel": "Сонны папаратнік",
@@ -118639,7 +118639,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SoulGem1Petty1PettySoul",
-    "custom": "",
+    "custom": "Драбноткі камень душ",
     "en": "Petty Soul Gem",
     "ru": "Крохотный камень душ",
     "bel": "Драбноткі камень душ",
@@ -118648,7 +118648,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SoulGem2Lesser1PettySoul",
-    "custom": "",
+    "custom": "Маленькі камень душ",
     "en": "Lesser Soul Gem",
     "ru": "Маленький камень душ",
     "bel": "Маленькі камень душ",
@@ -118657,7 +118657,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SoulGem2Lesser2LesserSoul",
-    "custom": "",
+    "custom": "Маленькі камень душ",
     "en": "Lesser Soul Gem",
     "ru": "Маленький камень душ",
     "bel": "Маленькі камень душ",
@@ -118666,7 +118666,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SoulGem4Greater1PettySoul",
-    "custom": "",
+    "custom": "Вялікі камень душ",
     "en": "Greater Soul Gem",
     "ru": "Большой камень душ",
     "bel": "Вялікі камень душ",
@@ -118675,7 +118675,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SoulGem4Greater2LesserSoul",
-    "custom": "",
+    "custom": "Вялікі камень душ",
     "en": "Greater Soul Gem",
     "ru": "Большой камень душ",
     "bel": "Вялікі камень душ",
@@ -118684,7 +118684,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SoulGem4Greater3CommonSoul",
-    "custom": "",
+    "custom": "Вялікі камень душ",
     "en": "Greater Soul Gem",
     "ru": "Большой камень душ",
     "bel": "Вялікі камень душ",
@@ -118693,7 +118693,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SoulGem4Greater4GreaterSoul",
-    "custom": "",
+    "custom": "Вялікі камень душ",
     "en": "Greater Soul Gem",
     "ru": "Большой камень душ",
     "bel": "Вялікі камень душ",
@@ -118702,7 +118702,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SoulGem5Grand1PettySoul",
-    "custom": "",
+    "custom": "Найвялікшы камень душ",
     "en": "Grand Soul Gem",
     "ru": "Великий камень душ",
     "bel": "Найвялікшы камень душ",
@@ -118711,7 +118711,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SoulGem5Grand2LesserSoul",
-    "custom": "",
+    "custom": "Найвялікшы камень душ",
     "en": "Grand Soul Gem",
     "ru": "Великий камень душ",
     "bel": "Найвялікшы камень душ",
@@ -118720,7 +118720,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SoulGem5Grand3CommonSoul",
-    "custom": "",
+    "custom": "Найвялікшы камень душ",
     "en": "Grand Soul Gem",
     "ru": "Великий камень душ",
     "bel": "Найвялікшы камень душ",
@@ -118729,7 +118729,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SoulGem5Grand4GreaterSoul",
-    "custom": "",
+    "custom": "Найвялікшы камень душ",
     "en": "Grand Soul Gem",
     "ru": "Великий камень душ",
     "bel": "Найвялікшы камень душ",
@@ -118738,7 +118738,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SoulGem5Grand5GrandSoul",
-    "custom": "",
+    "custom": "Найвялікшы камень душ",
     "en": "Grand Soul Gem",
     "ru": "Великий камень душ",
     "bel": "Найвялікшы камень душ",
@@ -118747,7 +118747,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SoulGemEmpty1Petty",
-    "custom": "",
+    "custom": "Драбноткі камень душ",
     "en": "Petty Soul Gem",
     "ru": "Крохотный камень душ",
     "bel": "Драбноткі камень душ",
@@ -118756,7 +118756,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SoulGemEmpty2Lesser",
-    "custom": "",
+    "custom": "Маленькі камень душ",
     "en": "Lesser Soul Gem",
     "ru": "Маленький камень душ",
     "bel": "Маленькі камень душ",
@@ -118765,7 +118765,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SoulGemEmpty4Greater",
-    "custom": "",
+    "custom": "Вялікі камень душ",
     "en": "Greater Soul Gem",
     "ru": "Большой камень душ",
     "bel": "Вялікі камень душ",
@@ -118774,7 +118774,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SoulGemEmpty5Grand",
-    "custom": "",
+    "custom": "Найвялікшы камень душ",
     "en": "Grand Soul Gem",
     "ru": "Великий камень душ",
     "bel": "Найвялікшы камень душ",
@@ -118783,7 +118783,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SouthernBooksKey",
-    "custom": "",
+    "custom": "Ключ ад \"Паўднёвых кніг\"",
     "en": "Southern Books Key",
     "ru": "Ключ от \"Южных книг\"",
     "bel": "Ключ ад \"Паўднёвых кніг\"",
@@ -118792,7 +118792,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SouthernBooksTopic",
-    "custom": "",
+    "custom": "SouthernBooksTopic",
     "en": "SouthernBooksTopic",
     "ru": "Темы SouthernBooks",
     "bel": "Тэмы SouthernBooks",
@@ -118801,7 +118801,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SpeakerTopic",
-    "custom": "",
+    "custom": "Прамоўца",
     "en": "Speaker",
     "ru": "Уведомитель",
     "bel": "Уведамляльнік",
@@ -118810,7 +118810,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Spellsword",
-    "custom": "",
+    "custom": "Воін-маг",
     "en": "Spellsword",
     "ru": "Воин-маг",
     "bel": "Воін-маг",
@@ -118819,7 +118819,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SpiddalStick",
-    "custom": "",
+    "custom": "Палка са Спідала",
     "en": "Spiddal Stick",
     "ru": "Спиддал",
     "bel": "Спідал",
@@ -118828,7 +118828,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SpiddalStickPLANT",
-    "custom": "",
+    "custom": "Палка са Спідала",
     "en": "Spiddal Stick",
     "ru": "Спиддал",
     "bel": "Спідал",
@@ -118837,7 +118837,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SpiddalStickPLANTDomesticated",
-    "custom": "",
+    "custom": "Прыручаная палачка Спідала",
     "en": "Domesticated Spiddal Stick",
     "ru": "Прирученная палка-копалка Spiddal.",
     "bel": "Прыручаная палка-капалка Spiddal.",
@@ -118846,7 +118846,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SpiddalstickDEAD",
-    "custom": "",
+    "custom": "Палка са Спідала",
     "en": "Spiddal Stick",
     "ru": "Спиддал",
     "bel": "Спідал",
@@ -118855,7 +118855,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Split",
-    "custom": "",
+    "custom": "Падзяліць",
     "en": "Split",
     "ru": "Разделить",
     "bel": "Падзяліць",
@@ -118864,7 +118864,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SplitRegion",
-    "custom": "",
+    "custom": "Спліт",
     "en": "Split",
     "ru": "Сплит",
     "bel": "Спліт",
@@ -118873,7 +118873,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SquanderedMine",
-    "custom": "",
+    "custom": "Разбазаваная шахта",
     "en": "Squandered Mine",
     "ru": "Разбазаренная шахта",
     "bel": "Разбазаваная шахта",
@@ -118882,7 +118882,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SquanderedMine02",
-    "custom": "",
+    "custom": "Разбазаваная шахта - Змяіныя тунэлі",
     "en": "Squandered Mine Snake Works",
     "ru": "Разбазаренная шахта - Змеиные туннели",
     "bel": "Разбазаваная шахта - Змяіныя тунэлі",
@@ -118891,7 +118891,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SquanderedMine03",
-    "custom": "",
+    "custom": "Разбазаваная шахта - Ветраныя тунэлі",
     "en": "Squandered Mine Wind Holes",
     "ru": "Разбазаренная шахта - Ветреные туннели",
     "bel": "Разбазаваная шахта - Ветраныя тунэлі",
@@ -118900,7 +118900,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StJohnsWort",
-    "custom": "",
+    "custom": "Зверобой",
     "en": "St. Jahn's Wort",
     "ru": "Зверобой",
     "bel": "Зверобой",
@@ -118909,7 +118909,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StJohnsWortNectar",
-    "custom": "",
+    "custom": "Нектар зверобою",
     "en": "St. Jahn's Wort Nectar",
     "ru": "Нектар зверобоя",
     "bel": "Нектар зверобою",
@@ -118918,7 +118918,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofBurden",
-    "custom": "",
+    "custom": "Посах цяжкай ношы",
     "en": "Staff of Burden",
     "ru": "Посох тяжелой ноши",
     "bel": "Посах цяжкай ношы",
@@ -118927,7 +118927,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofBurdenGreater",
-    "custom": "",
+    "custom": "Вялікі посах цяжкай ношы",
     "en": "Greater Staff of Burden",
     "ru": "Великий посох тяжелой ноши",
     "bel": "Вялікі посах цяжкай ношы",
@@ -118936,7 +118936,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofBurdenLesser",
-    "custom": "",
+    "custom": "Малы посах цяжкай ношы",
     "en": "Lesser Staff of Burden",
     "ru": "Малый посох тяжелой ноши",
     "bel": "Малы посах цяжкай ношы",
@@ -118945,7 +118945,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofCalm",
-    "custom": "",
+    "custom": "Посах супакаення",
     "en": "Staff of Calm",
     "ru": "Посох успокоения",
     "bel": "Посах супакаення",
@@ -118954,7 +118954,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofCalmGreater",
-    "custom": "",
+    "custom": "Вялікі посах супакаення",
     "en": "Greater Staff of Calm",
     "ru": "Великий посох успокоения",
     "bel": "Вялікі посах супакаення",
@@ -118963,7 +118963,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofCalmLesser",
-    "custom": "",
+    "custom": "Малы посах супакаення",
     "en": "Lesser Staff of Calm",
     "ru": "Малый посох успокоения",
     "bel": "Малы посах супакаення",
@@ -118972,7 +118972,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofCharm",
-    "custom": "",
+    "custom": "Посах зачаравання",
     "en": "Staff of Charm",
     "ru": "Посох очарования",
     "bel": "Посах зачаравання",
@@ -118981,7 +118981,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofCharmGreater",
-    "custom": "",
+    "custom": "Вялікі посах зачаравання",
     "en": "Greater Staff of Charm",
     "ru": "Великий посох очарования",
     "bel": "Вялікі посах зачаравання",
@@ -118990,7 +118990,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofCharmLesser",
-    "custom": "",
+    "custom": "Малы посах зачаравання",
     "en": "Lesser Staff of Charm",
     "ru": "Малый посох очарования",
     "bel": "Малы посах зачаравання",
@@ -118999,7 +118999,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofCommandCreatureGreater",
-    "custom": "",
+    "custom": "Вялікі посах прыручэння",
     "en": "Greater Staff of Taming",
     "ru": "Великий посох приручения",
     "bel": "Вялікі посах прыручэння",
@@ -119008,7 +119008,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofCommandCreatureLesser",
-    "custom": "",
+    "custom": "Малы посах прыручэння",
     "en": "Lesser Staff of Taming",
     "ru": "Малый посох приручения",
     "bel": "Малы посах прыручэння",
@@ -119017,7 +119017,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofCommandHumanoid",
-    "custom": "",
+    "custom": "Посах дамінавання",
     "en": "Staff of Domination",
     "ru": "Посох доминирования",
     "bel": "Посах дамінавання",
@@ -119026,7 +119026,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofCommandHumanoidGreater",
-    "custom": "",
+    "custom": "Вялікі посах дамінавання",
     "en": "Greater Staff of Domination",
     "ru": "Великий посох доминирования",
     "bel": "Вялікі посах дамінавання",
@@ -119035,7 +119035,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofCommandHumanoidLesser",
-    "custom": "",
+    "custom": "Малы посах дамінавання",
     "en": "Lesser Staff of Domination",
     "ru": "Малый посох доминирования",
     "bel": "Малы посах дамінавання",
@@ -119044,7 +119044,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofConflagration",
-    "custom": "",
+    "custom": "Посах канфлікту",
     "en": "Staff of Conflagration",
     "ru": "Посох конфликта",
     "bel": "Посах канфлікту",
@@ -119053,7 +119053,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDamageAgility",
-    "custom": "",
+    "custom": "Посах няёмкасці",
     "en": "Staff of Blundering",
     "ru": "Посох неловкости",
     "bel": "Посах няёмкасці",
@@ -119062,7 +119062,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDamageAgilityGreater",
-    "custom": "",
+    "custom": "Вялікі посах няёмкасці",
     "en": "Greater Staff of Blundering",
     "ru": "Великий посох неловкости",
     "bel": "Вялікі посах няёмкасці",
@@ -119071,7 +119071,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDamageAgilityLesser",
-    "custom": "",
+    "custom": "Малы посах няёмкасці",
     "en": "Lesser Staff of Blundering",
     "ru": "Малый посох неловкости",
     "bel": "Малы посах няёмкасці",
@@ -119080,7 +119080,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDamageEnduranceGreater",
-    "custom": "",
+    "custom": "Вялікі посах слабасці",
     "en": "Greater Staff of Weakness",
     "ru": "Великий посох слабости",
     "bel": "Вялікі посах слабасці",
@@ -119089,7 +119089,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDamageEnduranceLesser",
-    "custom": "",
+    "custom": "Малы посах слабасці",
     "en": "Lesser Staff of Weakness",
     "ru": "Малый посох слабости",
     "bel": "Малы посах слабасці",
@@ -119098,7 +119098,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDamageFatigueGreater",
-    "custom": "",
+    "custom": "Вялікі посах стомленасці",
     "en": "Greater Staff of Fatigue",
     "ru": "Великий посох усталости",
     "bel": "Вялікі посах стомленасці",
@@ -119107,7 +119107,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDamageFatigueLesser",
-    "custom": "",
+    "custom": "Малы посах стомленасці",
     "en": "Lesser Staff of Fatigue",
     "ru": "Малый посох усталости",
     "bel": "Малы посах стомленасці",
@@ -119116,7 +119116,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDamageHealth",
-    "custom": "",
+    "custom": "Посах нездароўя",
     "en": "Staff of Sickness",
     "ru": "Посох нездоровья",
     "bel": "Посах нездароўя",
@@ -119125,7 +119125,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDamageHealthGreater",
-    "custom": "",
+    "custom": "Вялікі посах нездароўя",
     "en": "Greater Staff of Sickness",
     "ru": "Великий посох нездоровья",
     "bel": "Вялікі посах нездароўя",
@@ -119134,7 +119134,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDamageHealthLesser",
-    "custom": "",
+    "custom": "Малы посах нездароўя",
     "en": "Lesser Staff of Sickness",
     "ru": "Малый посох нездоровья",
     "bel": "Малы посах нездароўя",
@@ -119143,7 +119143,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDamageIntelligenceGreater",
-    "custom": "",
+    "custom": "Вялікі посах слабаумства",
     "en": "Greater Staff of Feeblemind",
     "ru": "Великий посох слабоумия",
     "bel": "Вялікі посах слабаумства",
@@ -119152,7 +119152,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDamageIntelligenceLesser",
-    "custom": "",
+    "custom": "Малы посах слабаумства",
     "en": "Lesser Staff of Feeblemind",
     "ru": "Малый посох слабоумия",
     "bel": "Малы посах слабаумства",
@@ -119161,7 +119161,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDamageLuck",
-    "custom": "",
+    "custom": "Посах бедстваў",
     "en": "Staff of Catastrophe",
     "ru": "Посох бедствий",
     "bel": "Посах бедстваў",
@@ -119170,7 +119170,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDamageLuckGreater",
-    "custom": "",
+    "custom": "Вялікі посах бедстваў",
     "en": "Greater Staff of Catastrophe",
     "ru": "Великий посох бедствий",
     "bel": "Вялікі посах бедстваў",
@@ -119179,7 +119179,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDamageLuckLesser",
-    "custom": "",
+    "custom": "Малы посах бедстваў",
     "en": "Lesser Staff of Catastrophe",
     "ru": "Малый посох бедствий",
     "bel": "Малы посах бедстваў",
@@ -119188,7 +119188,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDamageMagicka",
-    "custom": "",
+    "custom": "Посах раз'яднання",
     "en": "Staff of Severing",
     "ru": "Посох разобщения",
     "bel": "Посах раз'яднання",
@@ -119197,7 +119197,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDamageMagickaGreater",
-    "custom": "",
+    "custom": "Вялікі посах раз'яднання",
     "en": "Greater Staff of Severing",
     "ru": "Великий посох разобщения",
     "bel": "Вялікі посах раз'яднання",
@@ -119206,7 +119206,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDamageMagickaLesser",
-    "custom": "",
+    "custom": "Малы посах раз'яднання",
     "en": "Lesser Staff of Severing",
     "ru": "Малый посох разобщения",
     "bel": "Малы посах раз'яднання",
@@ -119215,7 +119215,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDamagePersonalityGreater",
-    "custom": "",
+    "custom": "Вялікі посах парыя",
     "en": "Greater Staff of the Pariah",
     "ru": "Великий посох парии",
     "bel": "Вялікі посах парыя",
@@ -119224,7 +119224,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDamagePersonalityLesser",
-    "custom": "",
+    "custom": "Малы посах парыя",
     "en": "Lesser Staff of the Pariah",
     "ru": "Малый посох парии",
     "bel": "Малы посах парыя",
@@ -119233,7 +119233,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDamageSpeedGreater",
-    "custom": "",
+    "custom": "Вялікі посах апатыі",
     "en": "Greater Staff of Apathy",
     "ru": "Великий посох апатии",
     "bel": "Вялікі посах апатыі",
@@ -119242,7 +119242,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDamageStrength",
-    "custom": "",
+    "custom": "Посах паслаблення",
     "en": "Staff of Frailty",
     "ru": "Посох ослабления",
     "bel": "Посах паслаблення",
@@ -119251,7 +119251,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDamageStrengthGreater",
-    "custom": "",
+    "custom": "Вялікі посах паслаблення",
     "en": "Greater Staff of Frailty",
     "ru": "Великий посох ослабления",
     "bel": "Вялікі посах паслаблення",
@@ -119260,7 +119260,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDamageStrengthLesser",
-    "custom": "",
+    "custom": "Малы посах паслаблення",
     "en": "Lesser Staff of Frailty",
     "ru": "Малый посох ослабления",
     "bel": "Малы посах паслаблення",
@@ -119269,7 +119269,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDamageWillpower",
-    "custom": "",
+    "custom": "Посах замяшання",
     "en": "Staff of Confusion",
     "ru": "Посох замешательства",
     "bel": "Посах замяшання",
@@ -119278,7 +119278,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDamageWillpowerGreater",
-    "custom": "",
+    "custom": "Вялікі посах замяшання",
     "en": "Greater Staff of Confusion",
     "ru": "Великий посох замешательства",
     "bel": "Вялікі посах замяшання",
@@ -119287,7 +119287,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDemoralizeGreater",
-    "custom": "",
+    "custom": "Вялікі посах дэмаралізацыі",
     "en": "Greater Staff of Demoralize",
     "ru": "Великий посох деморализации",
     "bel": "Вялікі посах дэмаралізацыі",
@@ -119296,7 +119296,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDiminishing",
-    "custom": "",
+    "custom": "Посах памяншэння",
     "en": "Staff of Diminishing",
     "ru": "Посох уменьшения",
     "bel": "Посах памяншэння",
@@ -119305,7 +119305,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDiscord",
-    "custom": "",
+    "custom": "Посах рознагалоссяў",
     "en": "Staff of Discord",
     "ru": "Посох разногласий",
     "bel": "Посах рознагалоссяў",
@@ -119314,7 +119314,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDisintegrateArmorGreater",
-    "custom": "",
+    "custom": "Вялікі посах карозіі",
     "en": "Greater Staff of Corrosion",
     "ru": "Великий посох коррозии",
     "bel": "Вялікі посах карозіі",
@@ -119323,7 +119323,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDisintegrateWeaponGreater",
-    "custom": "",
+    "custom": "Вялікі посах разбурэння",
     "en": "Greater Staff of Ruin",
     "ru": "Великий посох разрушения",
     "bel": "Вялікі посах разбурэння",
@@ -119332,7 +119332,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDisintegrateWeaponLesser",
-    "custom": "",
+    "custom": "Малы посах разбурэння",
     "en": "Lesser Staff of Ruin",
     "ru": "Малый посох разрушения",
     "bel": "Малы посах разбурэння",
@@ -119341,7 +119341,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDispelGreater",
-    "custom": "",
+    "custom": "Вялікі посах рассейвання",
     "en": "Greater Staff of Dispel",
     "ru": "Великий посох рассеивания",
     "bel": "Вялікі посах рассейвання",
@@ -119350,7 +119350,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDispelLesser",
-    "custom": "",
+    "custom": "Малы посах рассейвання",
     "en": "Lesser Staff of Dispel",
     "ru": "Малый посох рассеивания",
     "bel": "Малы посах рассейвання",
@@ -119359,7 +119359,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDrainAgility",
-    "custom": "",
+    "custom": "Посах нязграбнасці",
     "en": "Staff of the Oaf",
     "ru": "Посох неуклюжести",
     "bel": "Посах нязграбнасці",
@@ -119368,7 +119368,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDrainAgilityGreater",
-    "custom": "",
+    "custom": "Вялікі посах нязграбнасці",
     "en": "Greater Staff of the Oaf",
     "ru": "Великий посох неуклюжести",
     "bel": "Вялікі посах нязграбнасці",
@@ -119377,7 +119377,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDrainAgilityLesser",
-    "custom": "",
+    "custom": "Малы посах нязграбнасці",
     "en": "Lesser Staff of the Oaf",
     "ru": "Малый посох неуклюжести",
     "bel": "Малы посах нязграбнасці",
@@ -119386,7 +119386,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDrainEndurance",
-    "custom": "",
+    "custom": "Посах чумы",
     "en": "Staff of the Plague",
     "ru": "Посох чумы",
     "bel": "Посах чумы",
@@ -119395,7 +119395,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDrainEnduranceGreater",
-    "custom": "",
+    "custom": "Вялікі посах чумы",
     "en": "Greater Staff of the Plague",
     "ru": "Великий посох чумы",
     "bel": "Вялікі посах чумы",
@@ -119404,7 +119404,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDrainEnduranceLesser",
-    "custom": "",
+    "custom": "Малы посах чумы",
     "en": "Lesser Staff of the Plague",
     "ru": "Малый посох чумы",
     "bel": "Малы посах чумы",
@@ -119413,7 +119413,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDrainFatigue",
-    "custom": "",
+    "custom": "Посах знясілення",
     "en": "Staff of the Weary",
     "ru": "Посох изнуренности",
     "bel": "Посах знясілення",
@@ -119422,7 +119422,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDrainFatigueGreater",
-    "custom": "",
+    "custom": "Вялікі посах знясілення",
     "en": "Greater Staff of the Weary",
     "ru": "Великий посох изнуренности",
     "bel": "Вялікі посах знясілення",
@@ -119431,7 +119431,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDrainFatigueLesser",
-    "custom": "",
+    "custom": "Малы посах знясілення",
     "en": "Lesser Staff of the Weary",
     "ru": "Малый посох изнуренности",
     "bel": "Малы посах знясілення",
@@ -119440,7 +119440,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDrainIntelligence",
-    "custom": "",
+    "custom": "Посах ашаламлення",
     "en": "Staff of the Dazed",
     "ru": "Посох ошеломления",
     "bel": "Посах ашаламлення",
@@ -119449,7 +119449,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDrainIntelligenceGreater",
-    "custom": "",
+    "custom": "Вялікі посах ашаламлення",
     "en": "Greater Staff of the Dazed",
     "ru": "Великий посох ошеломления",
     "bel": "Вялікі посах ашаламлення",
@@ -119458,7 +119458,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDrainIntelligenceLesser",
-    "custom": "",
+    "custom": "Малы посах ашаламлення",
     "en": "Lesser Staff of the Dazed",
     "ru": "Малый посох ошеломления",
     "bel": "Малы посах ашаламлення",
@@ -119467,7 +119467,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDrainLuck",
-    "custom": "",
+    "custom": "Посах няўдачы",
     "en": "Staff of the Doomed",
     "ru": "Посох невезучести",
     "bel": "Посах няўдачы",
@@ -119476,7 +119476,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDrainLuckGreater",
-    "custom": "",
+    "custom": "Вялікі посах няўдачы",
     "en": "Greater Staff of the Doomed",
     "ru": "Великий посох невезучести",
     "bel": "Вялікі посаx няўдачы",
@@ -119485,7 +119485,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDrainLuckLesser",
-    "custom": "",
+    "custom": "Малы посах няўдачы",
     "en": "Lesser Staff of the Doomed",
     "ru": "Малый посох невезучести",
     "bel": "Малы посаx няўдачы",
@@ -119494,7 +119494,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDrainMagicka",
-    "custom": "",
+    "custom": "Посах раз'яднання",
     "en": "Staff of Sundering",
     "ru": "Посох разобщения",
     "bel": "Посах раз'яднання",
@@ -119503,7 +119503,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDrainMagickaGreater",
-    "custom": "",
+    "custom": "Вялікі посах раз'яднання",
     "en": "Greater Staff of Sundering",
     "ru": "Великий посох разобщения",
     "bel": "Вялікі посаx раз'яднання",
@@ -119512,7 +119512,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDrainMagickaLesser",
-    "custom": "",
+    "custom": "Малы посах раз'яднання",
     "en": "Lesser Staff of Sundering",
     "ru": "Малый посох разобщения",
     "bel": "Малы посаx раз'яднання",
@@ -119521,7 +119521,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDrainSpeed",
-    "custom": "",
+    "custom": "Посах млявасці",
     "en": "Staff of Lethargy",
     "ru": "Посох вялости",
     "bel": "Посах млявасці",
@@ -119530,7 +119530,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDrainSpeedGreater",
-    "custom": "",
+    "custom": "Вялікі посах млявасці",
     "en": "Greater Staff of Lethargy",
     "ru": "Великий посох вялости",
     "bel": "Вялікі посаx млявасці",
@@ -119539,7 +119539,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDrainSpeedLesser",
-    "custom": "",
+    "custom": "Малы посах млявасці",
     "en": "Lesser Staff of Lethargy",
     "ru": "Малый посох вялости",
     "bel": "Малы посаx млявасці",
@@ -119548,7 +119548,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDrainStrength",
-    "custom": "",
+    "custom": "Посах слабасці",
     "en": "Staff of Fragility",
     "ru": "Посох слабости",
     "bel": "Посах слабасці",
@@ -119557,7 +119557,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDrainStrengthGreater",
-    "custom": "",
+    "custom": "Вялікі посах слабасці",
     "en": "Greater Staff of Fragility",
     "ru": "Великий посох слабости",
     "bel": "Вялікі посаx слабасці",
