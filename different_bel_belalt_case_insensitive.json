@@ -81496,7 +81496,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PCHouseCheydinhalKey",
-    "custom": "",
+    "custom": "Ключ ад майго дома ў Чэйдынхоле",
     "en": "My Cheydinhal House Key",
     "ru": "Ключ от моего дома в Чейдинхоле",
     "bel": "Ключ ад майго дома ў Чэйдынхоле",
@@ -81505,7 +81505,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PCHouseChorrolKey",
-    "custom": "",
+    "custom": "Ключ ад майго дома ў Кароле",
     "en": "My Chorrol House Key",
     "ru": "Ключ от моего дома в Корроле",
     "bel": "Ключ ад майго дома ў Кароле",
@@ -81514,7 +81514,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PCHouseImperialCityKey",
-    "custom": "",
+    "custom": "Ключ ад майго дома ў Імп. горадзе",
     "en": "My Imperial City House Key",
     "ru": "Ключ от моего дома в Имп. городе",
     "bel": "Ключ ад майго дома ў Імп. горадзе",
@@ -81523,7 +81523,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PCHouseSkingradKey",
-    "custom": "",
+    "custom": "Ключ ад майго дома ў Скінградзе",
     "en": "My Skingrad House Key",
     "ru": "Ключ от моего дома в Скинграде",
     "bel": "Ключ ад майго дома ў Скінградзе",
@@ -81541,7 +81541,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PERK_BLADE_BLEED",
-    "custom": "",
+    "custom": "Крывацёк ад Майстра Клінка",
     "en": "Expert Blade Bleeding",
     "ru": "Кровотечение от Мастера Клинка.",
     "bel": "Крывацёк ад Майстра Клінка.",
@@ -81550,7 +81550,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PERK_BLADE_WEAKNESS",
-    "custom": "",
+    "custom": "Слабасць клінка падмайстра",
     "en": "Journeyman Blade Weakness",
     "ru": "Слабость клинка подмастерья.",
     "bel": "Слабасць клінка падмайстра.",
@@ -81559,7 +81559,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PERK_BLADE_WEAKNESS_MASTER",
-    "custom": "",
+    "custom": "Уразлівасць Галоўнага Клінка",
     "en": "Master Blade Weakness",
     "ru": "Уязвимость Главного Клинка",
     "bel": "Уразлівасць Галоўнага Клінка",
@@ -81568,7 +81568,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PERK_BLUNT_SHIELD",
-    "custom": "",
+    "custom": "Шчыт падмайстра Бланта",
     "en": "Journeyman Blunt Shield",
     "ru": "Щит подмастерья Бланта",
     "bel": "Шчыт падмайстра Бланта",
@@ -81577,7 +81577,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PERK_BLUNT_SHIELD_MASTER",
-    "custom": "",
+    "custom": "Майстар тупога шчыта",
     "en": "Master Blunt Shield",
     "ru": "Мастер тупого щита",
     "bel": "Майстар тупога шчыта",
@@ -81586,7 +81586,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PERK_BLUNT_SILENCE",
-    "custom": "",
+    "custom": "Майстэрскае тупое маўчанне",
     "en": "Expert Blunt Silence",
     "ru": "Мастерское тупое молчание.",
     "bel": "Майстэрскае тупое маўчанне.",
@@ -81595,7 +81595,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PERK_MARKSMAN_PARALYZE",
-    "custom": "",
+    "custom": "Параліч Эксперта-Стралка",
     "en": "Expert Marksman Paralysis",
     "ru": "Паралич Эксперта-Стрелка",
     "bel": "Параліч Эксперта-Стралка",
@@ -81604,7 +81604,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PERK_MARKSMAN_PARALYZE_MASTER",
-    "custom": "",
+    "custom": "Параліч Майстра-Снайпера",
     "en": "Master Marksman Paralysis",
     "ru": "Паралич Мастера-Снайпера",
     "bel": "Параліч Майстра-Снайпера",
@@ -81613,7 +81613,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PERSUASIONENTER",
-    "custom": "",
+    "custom": "УПЭЎНЕНАСЦЬ_УВОД",
     "en": "PERSUASION_ENTER",
     "ru": "УБЕЖДЕНИЕ_ВВОД",
     "bel": "УПЭЎНЕНАСЦЬ_УВОД",
@@ -81622,7 +81622,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PERSUASIONEXIT",
-    "custom": "",
+    "custom": "УПЭЎНЕНАСЦЬ_ВЫХАД",
     "en": "PERSUASION_EXIT",
     "ru": "УБЕЖДЕНИЕ_ВЫХОД",
     "bel": "УПЭЎНЕНАСЦЬ_ВЫХАД",
@@ -81631,7 +81631,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_POSN",
-    "custom": "",
+    "custom": "Інфармацыя аб ядзе",
     "en": "Poison Info",
     "ru": "Информация о яде",
     "bel": "Інфармацыя аб ядзе",
@@ -81640,7 +81640,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PaintBrush01",
-    "custom": "",
+    "custom": "Пэндзаль",
     "en": "Paint Brush",
     "ru": "Кисть",
     "bel": "Пэндзаль",
@@ -81649,7 +81649,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PaintBrush02",
-    "custom": "",
+    "custom": "Пэндзаль",
     "en": "Paint Brush",
     "ru": "Кисть",
     "bel": "Пэндзаль",
@@ -81658,7 +81658,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PaintBrush03",
-    "custom": "",
+    "custom": "Пэндзаль",
     "en": "Paint Brush",
     "ru": "Кисть",
     "bel": "Пэндзаль",
@@ -81667,7 +81667,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PaintBrush04",
-    "custom": "",
+    "custom": "Пэндзаль",
     "en": "Paint Brush",
     "ru": "Кисть",
     "bel": "Пэндзаль",
@@ -81676,7 +81676,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PaintBrush05",
-    "custom": "",
+    "custom": "Пэндзаль",
     "en": "Paint Brush",
     "ru": "Кисть",
     "bel": "Пэндзаль",
@@ -81685,7 +81685,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PaintBrush06",
-    "custom": "",
+    "custom": "Пэндзаль",
     "en": "Paint Brush",
     "ru": "Кисть",
     "bel": "Пэндзаль",
@@ -81694,7 +81694,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PaintedTrollFat",
-    "custom": "",
+    "custom": "Тлушч намаляванага троля",
     "en": "Painted Troll Fat",
     "ru": "Жир нарисованного тролля",
     "bel": "Тлушч намаляванага троля",
@@ -81703,7 +81703,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Pajeen",
-    "custom": "",
+    "custom": "Паджын",
     "en": "Pajeen",
     "ru": "Паджин",
     "bel": "Паджын",
@@ -81712,7 +81712,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PakseechTopic",
-    "custom": "",
+    "custom": "Паксіх",
     "en": "Pakseech",
     "ru": "Паксих",
     "bel": "Паксіх",
@@ -81721,7 +81721,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PalaceAlcoveBlock01",
-    "custom": "",
+    "custom": "Бюст Шэагората",
     "en": "Bust of Sheogorath",
     "ru": "Бюст Шеогората",
     "bel": "Бюст Шэагората",
@@ -81730,7 +81730,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PalaceAlcoveBlock02",
-    "custom": "",
+    "custom": "Бюст Шэагората",
     "en": "Bust of Sheogorath",
     "ru": "Бюст Шеогората",
     "bel": "Бюст Шэагората",
@@ -81748,7 +81748,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PalePass01",
-    "custom": "",
+    "custom": "Вочы Змея",
     "en": "Eyes of the Serpent",
     "ru": "Глаза Змеи",
     "bel": "Вочы Змея",
@@ -81757,7 +81757,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PalePass02",
-    "custom": "",
+    "custom": "Клыкі Змея",
     "en": "Fangs of the Serpent",
     "ru": "Клыки Змея",
     "bel": "Клыкі Змея",
@@ -81766,7 +81766,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PalePass03",
-    "custom": "",
+    "custom": "Яд Змея",
     "en": "Venom of the Serpent",
     "ru": "Яд Змея",
     "bel": "Яд Змея",
@@ -81775,7 +81775,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PalePassTopic",
-    "custom": "",
+    "custom": "Белы Праход",
     "en": "Pale Pass",
     "ru": "Белый Проход",
     "bel": "Белы Праход",
@@ -81784,7 +81784,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PalePassWorld",
-    "custom": "",
+    "custom": "Белы Праход",
     "en": "Pale Pass",
     "ru": "Белый Проход",
     "bel": "Белы Праход",
@@ -81793,7 +81793,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Palette01",
-    "custom": "",
+    "custom": "Палітра",
     "en": "Paint Palette",
     "ru": "Палитра",
     "bel": "Палітра",
@@ -81802,7 +81802,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Palonirya",
-    "custom": "",
+    "custom": "Палонірыя",
     "en": "Palonirya",
     "ru": "Палонирия",
     "bel": "Палонірыя",
@@ -81811,7 +81811,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PantsOnFire",
-    "custom": "",
+    "custom": "Брэша як дыхае",
     "en": "Pants On Fire",
     "ru": "Врёт как дышит.",
     "bel": "Хлусіць, як дыхае.",
@@ -81820,7 +81820,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ParadiseAnaxesCave",
-    "custom": "",
+    "custom": "Логва Анаксэса",
     "en": "Lair of Anaxes",
     "ru": "Логово Анаксеса",
     "bel": "Логва Анаксэса",
@@ -81829,7 +81829,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ParadiseCamoranFortress",
-    "custom": "",
+    "custom": "Карак Агайалор",
     "en": "Carac Agaialor",
     "ru": "Карак Агайалор",
     "bel": "Карак Агайалор",
@@ -81838,7 +81838,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ParalyzedCure",
-    "custom": "",
+    "custom": "Зняць параліч.",
     "en": "Placeholder: Remove paralysis.",
     "ru": "Убрать паралич.",
     "bel": "Зняць параліч.",
@@ -81847,7 +81847,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ParalyzedNo",
-    "custom": "",
+    "custom": "Я не магу табе дапамагчы.",
     "en": "I can't help you.",
     "ru": "Я не могу тебе помочь.",
     "bel": "Я не магу табе дапамагчы.",
@@ -81856,7 +81856,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Passwall",
-    "custom": "",
+    "custom": "Пасваль",
     "en": "Passwall",
     "ru": "Пасваль",
     "bel": "Пасваль",
@@ -81865,7 +81865,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Pauper",
-    "custom": "",
+    "custom": "Бедняк",
     "en": "Pauper",
     "ru": "Бедняк",
     "bel": "Бедняк",
@@ -81874,7 +81874,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PayGoldforCrime",
-    "custom": "",
+    "custom": "Заплаціць золатам",
     "en": "Pay Gold",
     "ru": "Заплатить золотом",
     "bel": "Заплаціць золатам",
@@ -81883,7 +81883,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Peacefultown",
-    "custom": "",
+    "custom": "Мірны гарадок",
     "en": "Peaceful town",
     "ru": "Мирный городок",
     "bel": "Мірны гарадок",
@@ -81892,7 +81892,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PellGateShafayesHouse",
-    "custom": "",
+    "custom": "Дом Шафайе",
     "en": "Shafaye's House",
     "ru": "Дом Шафайе",
     "bel": "Дом Шафайе",
@@ -81901,7 +81901,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PellGateTheSleepingMare",
-    "custom": "",
+    "custom": "Спячая кабыла",
     "en": "The Sleeping Mare",
     "ru": "Спящая кобыла",
     "bel": "Спячая кабыла",
@@ -81910,7 +81910,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Peony",
-    "custom": "",
+    "custom": "Піянер",
     "en": "Peony",
     "ru": "Пион",
     "bel": "Піянер",
@@ -81919,7 +81919,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PerenniaDraconis",
-    "custom": "",
+    "custom": "Переннія Драконіс",
     "en": "Perennia Draconis",
     "ru": "Перенния Драконис",
     "bel": "Переннія Драконіс",
@@ -81928,7 +81928,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PeryiteWorldTEMP",
-    "custom": "",
+    "custom": "Свет Перыайта TEMP",
     "en": "Peryite World TEMP",
     "ru": "Peryite World TEMP -> Мир Перита TEMP",
     "bel": "Peryite World TEMP -> Свет Пэрыта TEMP",
@@ -81937,7 +81937,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PeryitesShrine",
-    "custom": "",
+    "custom": "Свяцілішча Пэрыайта",
     "en": "Peryite's Shrine",
     "ru": "Святилище Периайта",
     "bel": "Свяцілішча Пэрыайта",
@@ -81946,7 +81946,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Petrine",
-    "custom": "",
+    "custom": "Пятрына",
     "en": "Petrine",
     "ru": "Петрина",
     "bel": "Пятрына",
@@ -81955,7 +81955,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Pickaxe01",
-    "custom": "",
+    "custom": "Кірка",
     "en": "Pickaxe",
     "ru": "Кирка",
     "bel": "Калаўрот",
@@ -81964,7 +81964,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Pickaxe01dirty",
-    "custom": "",
+    "custom": "Брудны калаўрот",
     "en": "Recently Used Pickaxe",
     "ru": "Грязная кирка",
     "bel": "Брудны калаўрот",
@@ -81973,7 +81973,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PickpocketNoCrime",
-    "custom": "",
+    "custom": "КішэнныЗлодзейБезЗлачынства",
     "en": "PickpocketNoCrime",
     "ru": "КарманнаяКражаNoCrime",
     "bel": "КішэнныКражNoCrime",
@@ -81982,7 +81982,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PillagedMine02",
-    "custom": "",
+    "custom": "Разрабаваная шахта - Вапняковыя тунэлі",
     "en": "Pillaged Mine Limestone Works",
     "ru": "Разграбленная шахта - Известковые туннели",
     "bel": "Разрабаваная шахта - Вапняковыя тунэлі",
@@ -81991,7 +81991,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PinnacleRock",
-    "custom": "",
+    "custom": "Вяршыня Скалы",
     "en": "Pinnacle Rock",
     "ru": "Вершина Скалы",
     "bel": "Вяршыня Скалы",
@@ -82000,7 +82000,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PitBoots",
-    "custom": "",
+    "custom": "Боты гладыятара",
     "en": "Pit Boots",
     "ru": "Сапоги гладиатора",
     "bel": "Боты гладыятара",
@@ -82009,7 +82009,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PitCuirass",
-    "custom": "",
+    "custom": "Кіраса гладыятара",
     "en": "Pit Cuirass",
     "ru": "Кираса гладиатора",
     "bel": "Кіраса гладыятара",
@@ -82018,7 +82018,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PitGauntlets",
-    "custom": "",
+    "custom": "Пальчаткі гладыятара",
     "en": "Pit Gauntlets",
     "ru": "Перчатки гладиатора",
     "bel": "Пальчаткі гладыятара",
@@ -82027,7 +82027,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PitGreaves",
-    "custom": "",
+    "custom": "Набедрыннікі гладыятара",
     "en": "Pit Greaves",
     "ru": "Поножи гладиатора",
     "bel": "Набедрыннікі гладыятара",
@@ -82036,7 +82036,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PitHelmet",
-    "custom": "",
+    "custom": "Шлем гладыятара",
     "en": "Pit Helmet",
     "ru": "Шлем гладиатора",
     "bel": "Шлем гладыятара",
@@ -82045,7 +82045,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PitcherPlant",
-    "custom": "",
+    "custom": "Сарацэнія",
     "en": "Pitcher Plant",
     "ru": "Саррацения",
     "bel": "Сарацэнія",
@@ -82054,7 +82054,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Piukanda",
-    "custom": "",
+    "custom": "Піўканда",
     "en": "Piukanda",
     "ru": "Пиуканда",
     "bel": "Піўканда",
@@ -82063,7 +82063,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Piukanda02",
-    "custom": "",
+    "custom": "Піўканда Эдэсель",
     "en": "Piukanda Edesel",
     "ru": "Пиуканда Эдесель",
     "bel": "Піўканда Эдэсель",
@@ -82072,7 +82072,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Piukanda03",
-    "custom": "",
+    "custom": "Піўканда Сейедэ",
     "en": "Piukanda Ceyede",
     "ru": "Пиуканда Сейеде",
     "bel": "Піўканда Сейедэ",
@@ -82081,7 +82081,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PlayerCustomClass",
-    "custom": "",
+    "custom": "Карыстальніцкі клас",
     "en": "Custom Class",
     "ru": "Свой класс",
     "bel": "Свой клас",
@@ -82090,7 +82090,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PlayerVampireFaction",
-    "custom": "",
+    "custom": "Гулец: Фракцыя Вампіраў",
     "en": "Player Vampire Faction",
     "ru": "Игрок: Фракция Вампиров",
     "bel": "Гулец: Фракцыя Вампіраў",
@@ -82099,7 +82099,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PlotiusKey",
-    "custom": "",
+    "custom": "Ключ Плотыюса",
     "en": "Plotius' Key",
     "ru": "Ключ Плотиуса",
     "bel": "Ключ Плотыюса",
@@ -82108,7 +82108,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PlunderedMine",
-    "custom": "",
+    "custom": "Разбураная шахта",
     "en": "Plundered Mine",
     "ru": "Разоренная шахта",
     "bel": "Разбураная шахта",
@@ -82117,7 +82117,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PlunderedMine02",
-    "custom": "",
+    "custom": "Разбураная шахта - Закінутыя тунэлі",
     "en": "Plundered Mine Abandoned Works",
     "ru": "Разоренная шахта - Заброшенные туннели",
     "bel": "Разбураная шахта - Закінутыя тунэлі",
@@ -82126,7 +82126,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PoisonFruit",
-    "custom": "",
+    "custom": "Ядавіты плод",
     "en": "Poison Fruit",
     "ru": "Ядовитый плод",
     "bel": "Ядавіты плод",
@@ -82135,7 +82135,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PoisonedAppleTopic",
-    "custom": "",
+    "custom": "Атручанае яблыка",
     "en": "Poisoned Apple",
     "ru": "Отравленное яблоко",
     "bel": "Атручанае яблык",
@@ -82144,7 +82144,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PonytailTwist",
-    "custom": "",
+    "custom": "Конскі хвост з кладкай",
     "en": "Ponytail Twist",
     "ru": "Конский хвост с укладкой",
     "bel": "Конскі хвост з кладкай",
@@ -82153,7 +82153,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PorphryicHemophilia",
-    "custom": "",
+    "custom": "Парфірычная гемафілія",
     "en": "Porphryic Hemophilia",
     "ru": "Порфирическая гемофилия.",
     "bel": "Парфірычная гемафілія.",
@@ -82162,7 +82162,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotHoleCavernsCellKey",
-    "custom": "",
+    "custom": "Ключ ад Карставай пячоры",
     "en": "Pot Hole Cell Key",
     "ru": "Ключ от Карстовой пещеры",
     "bel": "Ключ ад Карставай пячоры",
@@ -82171,7 +82171,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotatoPlant",
-    "custom": "",
+    "custom": "Бульба",
     "en": "Potato Plant",
     "ru": "Картофель",
     "bel": "Бульба",
@@ -82180,7 +82180,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotholeCaverns",
-    "custom": "",
+    "custom": "Карставыя пячоры",
     "en": "Pothole Caverns",
     "ru": "Карстовые пещеры",
     "bel": "Карставыя пячоры",
@@ -82189,7 +82189,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionBurden",
-    "custom": "",
+    "custom": "Яд цяжкай ношы",
     "en": "Poison of Burden",
     "ru": "Яд тяжелой ноши",
     "bel": "Яд цяжкай ношы",
@@ -82198,7 +82198,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionBurdenS",
-    "custom": "",
+    "custom": "Моцны яд цяжкай ношы",
     "en": "Strong Poison of Burden",
     "ru": "Сильный яд тяжелой ноши",
     "bel": "Моцны яд цяжкай ношы",
@@ -82207,7 +82207,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionBurdenW",
-    "custom": "",
+    "custom": "Слабы яд цяжкай ношы",
     "en": "Weak Poison of Burden",
     "ru": "Слабый яд тяжелой ноши",
     "bel": "Слабы яд цяжкай ношы",
@@ -82216,7 +82216,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionChameleonS",
-    "custom": "",
+    "custom": "Моцнае зелле хамелеона",
     "en": "Strong Potion of Chameleon",
     "ru": "Сильное зелье хамелеона",
     "bel": "Моцнае зелле хамелеона",
@@ -82225,7 +82225,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionChameleonW",
-    "custom": "",
+    "custom": "Слабае зелле хамелеона",
     "en": "Weak Potion of Chameleon",
     "ru": "Слабое зелье хамелеона",
     "bel": "Слабае зелле хамелеона",
@@ -82234,7 +82234,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionCureDisease",
-    "custom": "",
+    "custom": "Зелле вылячэння хвароб",
     "en": "Potion of Cure Disease",
     "ru": "Зелье исцеления болезней",
     "bel": "Зелле вылячэння хвароб",
@@ -82243,7 +82243,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionCureParlaysis",
-    "custom": "",
+    "custom": "Зелле вылячэння ад паралічу",
     "en": "Potion of Cure Paralysis",
     "ru": "Зелье исцеления от паралича",
     "bel": "Зелле вылячэння ад паралічу",
@@ -82252,7 +82252,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionCurePoison",
-    "custom": "",
+    "custom": "Зелле лячэння атручванняў",
     "en": "Potion of Cure Poison",
     "ru": "Зелье лечения отравлений",
     "bel": "Зелле лячэння атручванняў",
@@ -82261,7 +82261,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDamageAttrAgilityW",
-    "custom": "",
+    "custom": "Слабы яд нязграбнасці",
     "en": "Weak Poison of Clumsiness",
     "ru": "Слабый яд неуклюжести",
     "bel": "Слабы яд нязграбнасці",
@@ -82270,7 +82270,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDamageAttrEndurance",
-    "custom": "",
+    "custom": "Яд знямогі",
     "en": "Poison of Affliction",
     "ru": "Яд изможденности",
     "bel": "Яд знямогі",
@@ -82279,7 +82279,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDamageAttrEnduranceS",
-    "custom": "",
+    "custom": "Моцны яд знямогі",
     "en": "Strong Poison of Affliction",
     "ru": "Сильный яд изможденности",
     "bel": "Моцны яд знямогі",
@@ -82288,7 +82288,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDamageAttrEnduranceW",
-    "custom": "",
+    "custom": "Слабы яд знямогі",
     "en": "Weak Poison of Affliction",
     "ru": "Слабый яд изможденности",
     "bel": "Слабы яд знямогі",
@@ -82297,7 +82297,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDamageAttrIntelligenceW",
-    "custom": "",
+    "custom": "Слабы яд разгубленасці",
     "en": "Weak Poison of Confusion",
     "ru": "Слабый яд замешательства",
     "bel": "Слабы яд разгубленасці",
@@ -82306,7 +82306,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDamageAttrLuckW",
-    "custom": "",
+    "custom": "Слабы яд няўдачы",
     "en": "Weak Poison of Misfortune",
     "ru": "Слабый яд неудачи",
     "bel": "Слабы яд няўдачы",
@@ -82315,7 +82315,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDamageAttrPersonality",
-    "custom": "",
+    "custom": "Яд глупства",
     "en": "Poison of the Fool",
     "ru": "Яд глупости",
     "bel": "Яд глупства",
@@ -82324,7 +82324,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDamageAttrPersonalityS",
-    "custom": "",
+    "custom": "Моцны яд глупства",
     "en": "Strong Poison of the Fool",
     "ru": "Сильный яд глупости",
     "bel": "Моцны яд глупства",
@@ -82333,7 +82333,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDamageAttrPersonalityW",
-    "custom": "",
+    "custom": "Слабы яд глупства",
     "en": "Weak Poison of the Fool",
     "ru": "Слабый яд глупости",
     "bel": "Слабы яд глупства",
@@ -82342,7 +82342,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDamageAttrSpeedW",
-    "custom": "",
+    "custom": "Слабы яд запаволення",
     "en": "Weak Poison of Slowing",
     "ru": "Слабый яд замедления",
     "bel": "Слабы яд запаволення",
@@ -82351,7 +82351,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDamageAttrStrengthW",
-    "custom": "",
+    "custom": "Слабы яд слабасці",
     "en": "Weak Poison of Weakness",
     "ru": "Слабый яд слабости",
     "bel": "Слабы яд слабасці",
@@ -82360,7 +82360,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDamageAttrWillpower",
-    "custom": "",
+    "custom": "Яд страху",
     "en": "Poison of Fright",
     "ru": "Яд страха",
     "bel": "Яд страху",
@@ -82369,7 +82369,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDamageAttrWillpowerS",
-    "custom": "",
+    "custom": "Моцны яд страху",
     "en": "Strong Poison of Fright",
     "ru": "Сильный яд страха",
     "bel": "Моцны яд страху",
@@ -82378,7 +82378,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDamageAttrWillpowerW",
-    "custom": "",
+    "custom": "Слабы яд страху",
     "en": "Weak Poison of Fright",
     "ru": "Слабый яд страха",
     "bel": "Слабы яд страху",
@@ -82387,7 +82387,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDamageFatigueW",
-    "custom": "",
+    "custom": "Слабы яд стомленасці",
     "en": "Weak Poison of Fatigue",
     "ru": "Слабый яд усталости",
     "bel": "Слабы яд стомленасці",
@@ -82396,7 +82396,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDamageHealth",
-    "custom": "",
+    "custom": "Яд недамагання",
     "en": "Poison of Illness",
     "ru": "Яд недомогания",
     "bel": "Яд недамагання",
@@ -82405,7 +82405,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDamageHealthS",
-    "custom": "",
+    "custom": "Моцны яд недамагання",
     "en": "Strong Poison of Illness",
     "ru": "Сильный яд недомогания",
     "bel": "Моцны яд недамагання",
@@ -82414,7 +82414,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDamageHealthW",
-    "custom": "",
+    "custom": "Слабы яд недамагання",
     "en": "Weak Poison of Illness",
     "ru": "Слабый яд недомогания",
     "bel": "Слабы яд недамагання",
@@ -82423,7 +82423,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDamageMagicka",
-    "custom": "",
+    "custom": "Яд раз'яднання",
     "en": "Poison of Severing",
     "ru": "Яд разобщения",
     "bel": "Яд раз'яднання",
@@ -82432,7 +82432,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDamageMagickaS",
-    "custom": "",
+    "custom": "Моцны яд раз'яднання",
     "en": "Strong Poison of Severing",
     "ru": "Сильный яд разобщения",
     "bel": "Моцны яд раз'яднання",
@@ -82441,7 +82441,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDamageMagickaW",
-    "custom": "",
+    "custom": "Слабы яд раз'яднання",
     "en": "Weak Poison of Severing",
     "ru": "Слабый яд разобщения",
     "bel": "Слабы яд раз'яднання",
@@ -82450,7 +82450,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDetectLifeS",
-    "custom": "",
+    "custom": "Моцнае зелле выяўлення жыцця",
     "en": "Strong Potion of Detect Life",
     "ru": "Сильное зелье обнаружения жизни",
     "bel": "Моцнае зелле выяўлення жыцця",
@@ -82459,7 +82459,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDetectLifeW",
-    "custom": "",
+    "custom": "Слабае зелле выяўлення жыцця",
     "en": "Weak Potion of Detect Life",
     "ru": "Слабое зелье обнаружения жизни",
     "bel": "Слабае зелле выяўлення жыцця",
@@ -82468,7 +82468,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDispelS",
-    "custom": "",
+    "custom": "Моцнае зелле рассейвання",
     "en": "Strong Potion of Dispel",
     "ru": "Сильное зелье рассеивания",
     "bel": "Моцнае зелле рассейвання",
@@ -82477,7 +82477,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDispelW",
-    "custom": "",
+    "custom": "Слабае зелле рассейвання",
     "en": "Weak Potion of Dispel",
     "ru": "Слабое зелье рассеивания",
     "bel": "Слабае зелле рассейвання",
@@ -82486,7 +82486,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDrainAgility",
-    "custom": "",
+    "custom": "Яд няёмкасці",
     "en": "Poison of Fumbling",
     "ru": "Яд неловкости",
     "bel": "Яд няёмкасці",
@@ -82495,7 +82495,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDrainAgilityS",
-    "custom": "",
+    "custom": "Моцны яд няёмкасці",
     "en": "Strong Poison of Fumbling",
     "ru": "Сильный яд неловкости",
     "bel": "Моцны яд няёмкасці",
@@ -82504,7 +82504,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDrainAgilityW",
-    "custom": "",
+    "custom": "Слабы яд няёмкасці",
     "en": "Weak Poison of Fumbling",
     "ru": "Слабый яд неловкости",
     "bel": "Слабы яд няёмкасці",
@@ -82513,7 +82513,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDrainEnduranceW",
-    "custom": "",
+    "custom": "Слабы яд знясілення",
     "en": "Weak Poison of Debilitation",
     "ru": "Слабый яд истощения",
     "bel": "Слабы яд знясілення",
@@ -82522,7 +82522,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDrainFatigue",
-    "custom": "",
+    "custom": "Яд зняможанасці",
     "en": "Poison of Weariness",
     "ru": "Яд утомленности",
     "bel": "Яд зняможанасці",
@@ -82531,7 +82531,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDrainFatigueS",
-    "custom": "",
+    "custom": "Моцны яд зняможанасці",
     "en": "Strong Poison of Weariness",
     "ru": "Сильный яд утомленности",
     "bel": "Моцны яд зняможанасці",
@@ -82540,7 +82540,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDrainFatigueW",
-    "custom": "",
+    "custom": "Слабы яд зняможанасці",
     "en": "Weak Poison of Weariness",
     "ru": "Слабый яд утомленности",
     "bel": "Слабы яд зняможанасці",
@@ -82549,7 +82549,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDrainHealthW",
-    "custom": "",
+    "custom": "Слабы яд хваравітасці",
     "en": "Weak Poison of Sickness",
     "ru": "Слабый яд нездоровья",
     "bel": "Слабы яд хваравітасці",
@@ -82558,7 +82558,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDrainIntelligence",
-    "custom": "",
+    "custom": "Яд прыдуркаватасці",
     "en": "Poison of Feeblemind",
     "ru": "Яд слабоумия",
     "bel": "Яд прыдуркаватасці",
@@ -82567,7 +82567,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDrainIntelligenceS",
-    "custom": "",
+    "custom": "Моцны яд прыдуркаватасці",
     "en": "Strong Poison of Feeblemind",
     "ru": "Сильный яд слабоумия",
     "bel": "Моцны яд прыдуркаватасці",
@@ -82576,7 +82576,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDrainIntelligenceW",
-    "custom": "",
+    "custom": "Слабы яд прыдуркаватасці",
     "en": "Weak Poison of Feeblemind",
     "ru": "Слабый яд слабоумия",
     "bel": "Слабы яд прыдуркаватасці",
@@ -82612,7 +82612,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDrainMagicka",
-    "custom": "",
+    "custom": "Яд раз'яднанасці",
     "en": "Poison of Separation",
     "ru": "Яд разделенности",
     "bel": "Яд раз'яднанасці",
@@ -82621,7 +82621,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDrainMagickaS",
-    "custom": "",
+    "custom": "Моцны яд раз'яднанасці",
     "en": "Strong Poison of Separation",
     "ru": "Сильный яд разделенности",
     "bel": "Моцны яд раз'яднанасці",
@@ -82630,7 +82630,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDrainMagickaW",
-    "custom": "",
+    "custom": "Слабы яд раз'яднанасці",
     "en": "Weak Poison of Separation",
     "ru": "Слабый яд разделенности",
     "bel": "Слабы яд раз'яднанасці",
@@ -82639,7 +82639,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDrainPersonality",
-    "custom": "",
+    "custom": "Яд антыпатыі",
     "en": "Poison of Repulsion",
     "ru": "Яд антипатии",
     "bel": "Яд антыпатыі",
@@ -82648,7 +82648,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDrainPersonalityS",
-    "custom": "",
+    "custom": "Моцны яд антыпатыі",
     "en": "Strong Poison of Repulsion",
     "ru": "Сильный яд антипатии",
     "bel": "Моцны яд антыпатыі",
@@ -82657,7 +82657,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDrainPersonalityW",
-    "custom": "",
+    "custom": "Слабы яд антыпатыі",
     "en": "Weak Poison of Repulsion",
     "ru": "Слабый яд антипатии",
     "bel": "Слабы яд антыпатыі",
@@ -82666,7 +82666,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDrainSpeedW",
-    "custom": "",
+    "custom": "Слабы яд апатыі",
     "en": "Weak Poison of Apathy",
     "ru": "Слабый яд апатии",
     "bel": "Слабы яд апатыі",
@@ -82675,7 +82675,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDrainStrength",
-    "custom": "",
+    "custom": "Яд паслаблення",
     "en": "Poison of Frailty",
     "ru": "Яд ослабления",
     "bel": "Яд паслаблення",
@@ -82684,7 +82684,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDrainStrengthS",
-    "custom": "",
+    "custom": "Моцны яд паслаблення",
     "en": "Strong Poison of Frailty",
     "ru": "Сильный яд ослабления",
     "bel": "Моцны яд паслаблення",
@@ -82693,7 +82693,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDrainStrengthW",
-    "custom": "",
+    "custom": "Слабы яд паслаблення",
     "en": "Weak Poison of Frailty",
     "ru": "Слабый яд ослабления",
     "bel": "Слабы яд паслаблення",
@@ -82702,7 +82702,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionDrainWillpowerW",
-    "custom": "",
+    "custom": "Слабы яд баязлівасці",
     "en": "Weak Poison of Cowardice",
     "ru": "Слабый яд трусости",
     "bel": "Слабы яд баязлівасці",
@@ -82711,7 +82711,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFeather",
-    "custom": "",
+    "custom": "Зелле пёрка",
     "en": "Potion of Feather",
     "ru": "Зелье перышка",
     "bel": "Зелле пёрка",
@@ -82720,7 +82720,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFeatherS",
-    "custom": "",
+    "custom": "Моцнае зелле пёрка",
     "en": "Strong Potion of Feather",
     "ru": "Сильное зелье перышка",
     "bel": "Моцнае зелле пёрка",
@@ -82729,7 +82729,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFeatherW",
-    "custom": "",
+    "custom": "Слабае зелле пёрка",
     "en": "Weak Potion of Feather",
     "ru": "Слабое зелье перышка",
     "bel": "Слабае зелле пёрка",
@@ -82738,7 +82738,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFireShieldS",
-    "custom": "",
+    "custom": "Моцнае зелле вогненнага шчыта",
     "en": "Strong Potion of Fire Shield",
     "ru": "Сильное зелье огненного щита",
     "bel": "Моцнае зелле вогненнага шчыта",
@@ -82747,7 +82747,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFireShieldW",
-    "custom": "",
+    "custom": "Слабае зелле вогненнага шчыта",
     "en": "Weak Potion of Fire Shield",
     "ru": "Слабое зелье огненного щита",
     "bel": "Слабае зелле вогненнага шчыта",
@@ -82756,7 +82756,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFortifyAgilityS",
-    "custom": "",
+    "custom": "Моцнае зелле спрыту",
     "en": "Strong Potion of Agility",
     "ru": "Сильное зелье ловкости",
     "bel": "Моцнае зелле спрыту",
@@ -82765,7 +82765,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFortifyAgilityW",
-    "custom": "",
+    "custom": "Слабае зелле спрыту",
     "en": "Weak Potion of Agility",
     "ru": "Слабое зелье ловкости",
     "bel": "Слабае зелле спрыту",
@@ -82774,7 +82774,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFortifyEnduranceS",
-    "custom": "",
+    "custom": "Моцнае зелле цягавітасці",
     "en": "Strong Potion of Endurance",
     "ru": "Сильное зелье выносливости",
     "bel": "Моцнае зелле цягавітасці",
@@ -82783,7 +82783,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFortifyEnduranceW",
-    "custom": "",
+    "custom": "Слабае зелле цягавітасці",
     "en": "Weak Potion of Endurance",
     "ru": "Слабое зелье выносливости",
     "bel": "Слабае зелле цягавітасці",
@@ -82792,7 +82792,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFortifyFatigue",
-    "custom": "",
+    "custom": "Зелле запасу сіл",
     "en": "Potion of Fatigue",
     "ru": "Зелье запаса сил",
     "bel": "Зелле запасу сіл",
@@ -82801,7 +82801,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFortifyFatigueS",
-    "custom": "",
+    "custom": "Моцнае зелле запасу сіл",
     "en": "Strong Potion of Fatigue",
     "ru": "Сильное зелье запаса сил",
     "bel": "Моцнае зелле запасу сіл",
@@ -82810,7 +82810,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFortifyFatigueW",
-    "custom": "",
+    "custom": "Слабае зелле запасу сіл",
     "en": "Weak Potion of Fatigue",
     "ru": "Слабое зелье запаса сил",
     "bel": "Слабае зелле запасу сіл",
@@ -82819,7 +82819,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFortifyHealthS",
-    "custom": "",
+    "custom": "Моцнае зелле здароўя",
     "en": "Strong Potion of Health",
     "ru": "Сильное зелье здоровья",
     "bel": "Моцнае зелле здароўя",
@@ -82828,7 +82828,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFortifyHealthW",
-    "custom": "",
+    "custom": "Слабае зелле здароўя",
     "en": "Weak Potion of Health",
     "ru": "Слабое зелье здоровья",
     "bel": "Слабае зелле здароўя",
@@ -82837,7 +82837,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFortifyIntelligenceS",
-    "custom": "",
+    "custom": "Моцнае зелле інтэлекту",
     "en": "Strong Potion of Intelligence",
     "ru": "Сильное зелье интеллекта",
     "bel": "Моцнае зелле інтэлекту",
@@ -82846,7 +82846,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFortifyIntelligenceW",
-    "custom": "",
+    "custom": "Слабае зелле інтэлекту",
     "en": "Weak Potion of Intelligence",
     "ru": "Слабое зелье интеллекта",
     "bel": "Слабае зелле інтэлекту",
@@ -82855,7 +82855,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFortifyLuckS",
-    "custom": "",
+    "custom": "Моцнае зелле ўдачы",
     "en": "Strong Potion of Luck",
     "ru": "Сильное зелье удачи",
     "bel": "Моцнае зелле ўдачы",
@@ -82864,7 +82864,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFortifyLuckW",
-    "custom": "",
+    "custom": "Слабае зелле ўдачы",
     "en": "Weak Potion of Luck",
     "ru": "Слабое зелье удачи",
     "bel": "Слабае зелле ўдачы",
@@ -82873,7 +82873,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFortifyMagickaS",
-    "custom": "",
+    "custom": "Моцнае зелле магіі",
     "en": "Strong Potion of Magicka",
     "ru": "Сильное зелье магии",
     "bel": "Моцнае зелле магіі",
@@ -82882,7 +82882,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFortifyMagickaW",
-    "custom": "",
+    "custom": "Слабае зелле магіі",
     "en": "Weak Potion of Magicka",
     "ru": "Слабое зелье магии",
     "bel": "Слабае зелле магіі",
@@ -82891,7 +82891,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFortifyPersonality",
-    "custom": "",
+    "custom": "Зелле абаянства",
     "en": "Potion of Personality",
     "ru": "Зелье обаяния",
     "bel": "Зелле абаянства",
@@ -82900,7 +82900,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFortifyPersonalityS",
-    "custom": "",
+    "custom": "Моцнае зелле абаянства",
     "en": "Strong Potion of Personality",
     "ru": "Сильное зелье обаяния",
     "bel": "Моцнае зелле абаянства",
@@ -82909,7 +82909,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFortifyPersonalityW",
-    "custom": "",
+    "custom": "Слабае зелле абаянства",
     "en": "Weak Potion of Personality",
     "ru": "Слабое зелье обаяния",
     "bel": "Слабае зелле абаянства",
@@ -82918,7 +82918,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFortifySpeedS",
-    "custom": "",
+    "custom": "Моцнае зелле хуткасці",
     "en": "Strong Potion of Speed",
     "ru": "Сильное зелье скорости",
     "bel": "Моцнае зелле хуткасці",
@@ -82927,7 +82927,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFortifySpeedW",
-    "custom": "",
+    "custom": "Слабае зелле хуткасці",
     "en": "Weak Potion of Speed",
     "ru": "Слабое зелье скорости",
     "bel": "Слабае зелле хуткасці",
@@ -82936,7 +82936,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFortifyStrengthS",
-    "custom": "",
+    "custom": "Моцнае зелле сілы",
     "en": "Strong Potion of Strength",
     "ru": "Сильное зелье силы",
     "bel": "Моцнае зелле сілы",
@@ -82945,7 +82945,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFortifyStrengthW",
-    "custom": "",
+    "custom": "Слабае зелле сілы",
     "en": "Weak Potion of Strength",
     "ru": "Слабое зелье силы",
     "bel": "Слабае зелле сілы",
@@ -82954,7 +82954,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFortifyWillpowerS",
-    "custom": "",
+    "custom": "Моцнае зелле сілы волі",
     "en": "Strong Potion of Willpower",
     "ru": "Сильное зелье силы воли",
     "bel": "Моцнае зелле сілы волі",
@@ -82963,7 +82963,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFortifyWillpowerW",
-    "custom": "",
+    "custom": "Слабае зелле сілы волі",
     "en": "Weak Potion of Willpower",
     "ru": "Слабое зелье силы воли",
     "bel": "Слабае зелле сілы волі",
@@ -82972,7 +82972,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFrostShieldS",
-    "custom": "",
+    "custom": "Моцнае зелле марознага шчыта",
     "en": "Strong Potion of Frost Shield",
     "ru": "Сильное зелье морозного щита",
     "bel": "Моцнае зелле марознага шчыта",
@@ -82981,7 +82981,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionFrostShieldW",
-    "custom": "",
+    "custom": "Слабае зелле марознага шчыта",
     "en": "Weak Potion of Frost Shield",
     "ru": "Слабое зелье морозного щита",
     "bel": "Слабае зелле марознага шчыта",
@@ -82990,7 +82990,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionInvisibilityS",
-    "custom": "",
+    "custom": "Моцнае зелле нябачнасці",
     "en": "Strong Potion of Invisibility",
     "ru": "Сильное зелье невидимости",
     "bel": "Моцнае зелле нябачнасці",
@@ -82999,7 +82999,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionInvisibilityW",
-    "custom": "",
+    "custom": "Слабае зелле нябачнасці",
     "en": "Weak Potion of Invisibility",
     "ru": "Слабое зелье невидимости",
     "bel": "Слабае зелле нябачнасці",
@@ -83008,7 +83008,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionLightS",
-    "custom": "",
+    "custom": "Моцнае зелле святла",
     "en": "Strong Potion of Light",
     "ru": "Сильное зелье света",
     "bel": "Моцнае зелле святла",
@@ -83017,7 +83017,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionLightW",
-    "custom": "",
+    "custom": "Слабае зелле святла",
     "en": "Weak Potion of Light",
     "ru": "Слабое зелье света",
     "bel": "Слабае зелле святла",
@@ -83026,7 +83026,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionNighteyeS",
-    "custom": "",
+    "custom": "Моцнае зелле начнога зроку",
     "en": "Strong Potion of Nighteye",
     "ru": "Сильное зелье ночного зрения",
     "bel": "Моцнае зелле начнога зроку",
@@ -83035,7 +83035,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionNighteyeW",
-    "custom": "",
+    "custom": "Слабае зелле начнога зроку",
     "en": "Weak Potion of Nighteye",
     "ru": "Слабое зелье ночного зрения",
     "bel": "Слабае зелле начнога зроку",
@@ -83044,7 +83044,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionParalyzeW",
-    "custom": "",
+    "custom": "Слабы яд паралічу",
     "en": "Weak Poison of Paralysis",
     "ru": "Слабый яд паралича",
     "bel": "Слабы яд паралічу",
@@ -83053,7 +83053,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionReflectS",
-    "custom": "",
+    "custom": "Моцнае зелле адлюстравання",
     "en": "Strong Potion of Reflection",
     "ru": "Сильное зелье отражения",
     "bel": "Моцнае зелле адлюстравання",
@@ -83062,7 +83062,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionReflectW",
-    "custom": "",
+    "custom": "Слабае зелле адлюстравання",
     "en": "Weak Potion of Reflection",
     "ru": "Слабое зелье отражения",
     "bel": "Слабае зелле адлюстравання",
@@ -83071,7 +83071,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionResistDisease",
-    "custom": "",
+    "custom": "Зелле супраціўляльнасці",
     "en": "Potion of Resistance",
     "ru": "Зелье сопротивляемости",
     "bel": "Зелле супраціўляльнасці",
@@ -83080,7 +83080,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionResistDiseaseS",
-    "custom": "",
+    "custom": "Моцнае зелле супраціўляльнасці",
     "en": "Strong Potion of Resistance",
     "ru": "Сильное зелье сопротивляемости",
     "bel": "Моцнае зелле супраціўляльнасці",
@@ -83089,7 +83089,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionResistDiseaseW",
-    "custom": "",
+    "custom": "Слабае зелле супраціўляльнасці",
     "en": "Weak Potion of Resistance",
     "ru": "Слабое зелье сопротивляемости",
     "bel": "Слабае зелле супраціўляльнасці",
@@ -83098,7 +83098,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionResistFire",
-    "custom": "",
+    "custom": "Зелле цеплаізаляцыі",
     "en": "Potion of Insulation",
     "ru": "Зелье теплоизоляции",
     "bel": "Зелле цеплаізаляцыі",
@@ -83107,7 +83107,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionResistFireS",
-    "custom": "",
+    "custom": "Моцнае зелле цеплаізаляцыі",
     "en": "Strong Potion of Insulation",
     "ru": "Сильное зелье теплоизоляции",
     "bel": "Моцнае зелле цеплаізаляцыі",
@@ -83116,7 +83116,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionResistFireW",
-    "custom": "",
+    "custom": "Слабае зелле цеплаізаляцыі",
     "en": "Weak Potion of Insulation",
     "ru": "Слабое зелье теплоизоляции",
     "bel": "Слабае зелле цеплаізаляцыі",
@@ -83125,7 +83125,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionResistFrost",
-    "custom": "",
+    "custom": "Зелле цеплыні",
     "en": "Potion of Warmth",
     "ru": "Зелье теплоты",
     "bel": "Зелле цеплыні",
@@ -83134,7 +83134,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionResistFrostS",
-    "custom": "",
+    "custom": "Моцнае зелле цеплыні",
     "en": "Strong Potion of Warmth",
     "ru": "Сильное зелье теплоты",
     "bel": "Моцнае зелле цеплыні",
@@ -83143,7 +83143,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionResistFrostW",
-    "custom": "",
+    "custom": "Слабае зелле цеплыні",
     "en": "Weak Potion of Warmth",
     "ru": "Слабое зелье теплоты",
     "bel": "Слабае зелле цеплыні",
@@ -83152,7 +83152,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionResistMagickaS",
-    "custom": "",
+    "custom": "Моцнае зелле нявер'я",
     "en": "Strong Potion of Disbelief",
     "ru": "Сильное зелье неверия",
     "bel": "Моцнае зелле нявер'я",
@@ -83161,7 +83161,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionResistMagickaW",
-    "custom": "",
+    "custom": "Слабае зелле нявер'я",
     "en": "Weak Potion of Disbelief",
     "ru": "Слабое зелье неверия",
     "bel": "Слабае зелле нявер'я",
@@ -83170,7 +83170,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionResistPoison",
-    "custom": "",
+    "custom": "Зелле проціяддзя",
     "en": "Potion of Antivenom",
     "ru": "Зелье противоядия",
     "bel": "Зелле проціяддзя",
@@ -83179,7 +83179,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionResistPoisonS",
-    "custom": "",
+    "custom": "Моцнае зелле проціяддзя",
     "en": "Strong Potion of Antivenom",
     "ru": "Сильное зелье противоядия",
     "bel": "Моцнае зелле проціяддзя",
@@ -83188,7 +83188,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionResistPoisonW",
-    "custom": "",
+    "custom": "Слабае зелле проціяддзя",
     "en": "Weak Potion of Antivenom",
     "ru": "Слабое зелье противоядия",
     "bel": "Слабае зелле проціяддзя",
@@ -83197,7 +83197,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionResistShockS",
-    "custom": "",
+    "custom": "Моцнае зелле зазямлення",
     "en": "Strong Potion of Grounding",
     "ru": "Сильное зелье заземления",
     "bel": "Моцнае зелле зазямлення",
@@ -83206,7 +83206,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionResistShockW",
-    "custom": "",
+    "custom": "Слабае зелле зазямлення",
     "en": "Weak Potion of Grounding",
     "ru": "Слабое зелье заземления",
     "bel": "Слабае зелле зазямлення",
@@ -83215,7 +83215,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestoreAgilityS",
-    "custom": "",
+    "custom": "Моцнае зелле грацыі",
     "en": "Strong Potion of Grace",
     "ru": "Сильное зелье грации",
     "bel": "Моцнае зелле грацыі",
@@ -83224,7 +83224,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestoreAgilityW",
-    "custom": "",
+    "custom": "Слабае зелле грацыі",
     "en": "Weak Potion of Grace",
     "ru": "Слабое зелье грации",
     "bel": "Слабае зелле грацыі",
@@ -83233,7 +83233,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestoreEnduranceS",
-    "custom": "",
+    "custom": "Моцнае зелле стойкасці",
     "en": "Strong Potion of Fortitude",
     "ru": "Сильное зелье стойкости",
     "bel": "Моцнае зелле стойкасці",
@@ -83242,7 +83242,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestoreEnduranceW",
-    "custom": "",
+    "custom": "Слабае зелле стойкасці",
     "en": "Weak Potion of Fortitude",
     "ru": "Слабое зелье стойкости",
     "bel": "Слабае зелле стойкасці",
@@ -83251,7 +83251,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestoreFatigue",
-    "custom": "",
+    "custom": "Зелле перадышкі",
     "en": "Potion of Respite",
     "ru": "Зелье передышки",
     "bel": "Зелле перадышкі",
@@ -83260,7 +83260,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestoreFatigueS",
-    "custom": "",
+    "custom": "Моцнае зелле перадышкі",
     "en": "Strong Potion of Respite",
     "ru": "Сильное зелье передышки",
     "bel": "Моцнае зелле перадышкі",
@@ -83269,7 +83269,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestoreFatigueW",
-    "custom": "",
+    "custom": "Слабае зелле перадышкі",
     "en": "Weak Potion of Respite",
     "ru": "Слабое зелье передышки",
     "bel": "Слабае зелле перадышкі",
@@ -83278,7 +83278,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestoreHealth",
-    "custom": "",
+    "custom": "Зелле лячэння",
     "en": "Potion of Healing",
     "ru": "Зелье лечения",
     "bel": "Зелле лячэння",
@@ -83287,7 +83287,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestoreHealthS",
-    "custom": "",
+    "custom": "Моцнае зелле лячэння",
     "en": "Strong Potion of Healing",
     "ru": "Сильное зелье лечения",
     "bel": "Моцнае зелле лячэння",
@@ -83296,7 +83296,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestoreHealthW",
-    "custom": "",
+    "custom": "Слабае зелле лячэння",
     "en": "Weak Potion of Healing",
     "ru": "Слабое зелье лечения",
     "bel": "Слабае зелле лячэння",
@@ -83305,7 +83305,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestoreIntelligenceS",
-    "custom": "",
+    "custom": "Моцнае зелле праніклівасці",
     "en": "Strong Potion of Insight",
     "ru": "Сильное зелье проницательности",
     "bel": "Моцнае зелле праніклівасці",
@@ -83314,7 +83314,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestoreIntelligenceW",
-    "custom": "",
+    "custom": "Слабае зелле праніклівасці",
     "en": "Weak Potion of Insight",
     "ru": "Слабое зелье проницательности",
     "bel": "Слабае зелле праніклівасці",
@@ -83323,7 +83323,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestoreLuck",
-    "custom": "",
+    "custom": "Зелле фартуны",
     "en": "Potion of Fortune",
     "ru": "Зелье фортуны",
     "bel": "Зелле фартуны",
@@ -83332,7 +83332,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestoreLuckS",
-    "custom": "",
+    "custom": "Моцнае зелле фартуны",
     "en": "Strong Potion of Fortune",
     "ru": "Сильное зелье фортуны",
     "bel": "Моцнае зелле фартуны",
@@ -83341,7 +83341,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestoreLuckW",
-    "custom": "",
+    "custom": "Слабае зелле фартуны",
     "en": "Weak Potion of Fortune",
     "ru": "Слабое зелье фортуны",
     "bel": "Слабае зелле фартуны",
@@ -83350,7 +83350,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestoreMagicka",
-    "custom": "",
+    "custom": "Зелле чарадзейства",
     "en": "Potion of Sorcery",
     "ru": "Зелье волшебства",
     "bel": "Зелле чарадзейства",
@@ -83359,7 +83359,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestoreMagickaS",
-    "custom": "",
+    "custom": "Моцнае зелле чарадзейства",
     "en": "Strong Potion of Sorcery",
     "ru": "Сильное зелье волшебства",
     "bel": "Моцнае зелле чарадзейства",
@@ -83368,7 +83368,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestoreMagickaW",
-    "custom": "",
+    "custom": "Слабае зелле чарадзейства",
     "en": "Weak Potion of Sorcery",
     "ru": "Слабое зелье волшебства",
     "bel": "Слабае зелле чарадзейства",
@@ -83377,7 +83377,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestorePersonalityS",
-    "custom": "",
+    "custom": "Моцнае зелле харызмы",
     "en": "Strong Potion of Charisma",
     "ru": "Сильное зелье харизмы",
     "bel": "Моцнае зелле харызмы",
@@ -83386,7 +83386,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestorePersonalityW",
-    "custom": "",
+    "custom": "Слабае зелле харызмы",
     "en": "Weak Potion of Charisma",
     "ru": "Слабое зелье харизмы",
     "bel": "Слабае зелле харызмы",
@@ -83395,7 +83395,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestoreSpeed",
-    "custom": "",
+    "custom": "Зелле спрытнасці",
     "en": "Potion of Alacrity",
     "ru": "Зелье расторопности",
     "bel": "Зелле спрытнасці",
@@ -83404,7 +83404,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestoreSpeedS",
-    "custom": "",
+    "custom": "Моцнае зелле спрытнасці",
     "en": "Strong Potion of Alacrity",
     "ru": "Сильное зелье расторопности",
     "bel": "Моцнае зелле спрытнасці",
@@ -83413,7 +83413,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestoreSpeedW",
-    "custom": "",
+    "custom": "Слабае зелле спрытнасці",
     "en": "Weak Potion of Alacrity",
     "ru": "Слабое зелье расторопности",
     "bel": "Слабае зелле спрытнасці",
@@ -83422,7 +83422,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestoreStrengthS",
-    "custom": "",
+    "custom": "Моцнае зелле моцы",
     "en": "Strong Potion of Might",
     "ru": "Сильное зелье мощи",
     "bel": "Моцнае зелле моцы",
@@ -83431,7 +83431,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestoreStrengthW",
-    "custom": "",
+    "custom": "Слабае зелле моцы",
     "en": "Weak Potion of Might",
     "ru": "Слабое зелье мощи",
     "bel": "Слабае зелле моцы",
@@ -83440,7 +83440,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestoreWillpower",
-    "custom": "",
+    "custom": "Зелле засяроджанасці",
     "en": "Potion of Dedication",
     "ru": "Зелье сосредоточения",
     "bel": "Зелле засяроджанасці",
@@ -83449,7 +83449,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestoreWillpowerS",
-    "custom": "",
+    "custom": "Моцнае зелле засяроджанасці",
     "en": "Strong Potion of Dedication",
     "ru": "Сильное зелье сосредоточения",
     "bel": "Моцнае зелле засяроджанасці",
@@ -83458,7 +83458,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionRestoreWillpowerW",
-    "custom": "",
+    "custom": "Слабае зелле засяроджанасці",
     "en": "Weak Potion of Dedication",
     "ru": "Слабое зелье сосредоточения",
     "bel": "Слабае зелле засяроджанасці",
@@ -83467,7 +83467,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionShockShield",
-    "custom": "",
+    "custom": "Зелле шчыта маланкі",
     "en": "Potion of Shock Shield",
     "ru": "Зелье щита молний",
     "bel": "Зелле шчыта маланкі",
@@ -83476,7 +83476,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionShockShieldS",
-    "custom": "",
+    "custom": "Моцнае зелле шчыта маланкі",
     "en": "Strong Potion of Shock Shield",
     "ru": "Сильное зелье щита молний",
     "bel": "Моцнае зелле шчыта маланкі",
@@ -83485,7 +83485,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionShockShieldW",
-    "custom": "",
+    "custom": "Слабае зелле шчыта маланкі",
     "en": "Weak Potion of Shock Shield",
     "ru": "Слабое зелье щита молний",
     "bel": "Слабае зелле шчыта маланкі",
@@ -83494,7 +83494,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionSilence",
-    "custom": "",
+    "custom": "Яд бясслоўя",
     "en": "Poison of Silence",
     "ru": "Яд безмолвия",
     "bel": "Яд бясслоўя",
@@ -83503,7 +83503,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionSilenceS",
-    "custom": "",
+    "custom": "Моцны яд бясслоўя",
     "en": "Strong Poison of Silence",
     "ru": "Сильный яд безмолвия",
     "bel": "Моцны яд бясслоўя",
@@ -83512,7 +83512,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionSilenceW",
-    "custom": "",
+    "custom": "Слабы яд бясслоўя",
     "en": "Weak Poison of Silence",
     "ru": "Слабый яд безмолвия",
     "bel": "Слабы яд бясслоўя",
@@ -83521,7 +83521,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionSpellAbsorptionS",
-    "custom": "",
+    "custom": "Моцнае зелле паглынання",
     "en": "Strong Potion of Absorption",
     "ru": "Сильное зелье поглощения",
     "bel": "Моцнае зелле паглынання",
@@ -83530,7 +83530,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionSpellAbsorptionW",
-    "custom": "",
+    "custom": "Слабае зелле паглынання",
     "en": "Weak Potion of Absorption",
     "ru": "Слабое зелье поглощения",
     "bel": "Слабае зелле паглынання",
@@ -83539,7 +83539,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionWaterBreathingS",
-    "custom": "",
+    "custom": "Моцнае зелле мора",
     "en": "Strong Potion of the Sea",
     "ru": "Сильное зелье моря",
     "bel": "Моцнае зелле мора",
@@ -83548,7 +83548,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionWaterBreathingW",
-    "custom": "",
+    "custom": "Слабае зелле мора",
     "en": "Weak Potion of the Sea",
     "ru": "Слабое зелье моря",
     "bel": "Слабае зелле мора",
@@ -83557,7 +83557,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionWaterWalking",
-    "custom": "",
+    "custom": "Зелле хаджэння па вадзе",
     "en": "Potion of Seastride",
     "ru": "Зелье хождения по воде",
     "bel": "Зелле хаджэння па вадзе",
@@ -83566,7 +83566,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionWaterWalkingS",
-    "custom": "",
+    "custom": "Моцнае зелле хаджэння па вадзе",
     "en": "Strong Potion of Seastride",
     "ru": "Сильное зелье хождения по воде",
     "bel": "Моцнае зелле хаджэння па вадзе",
@@ -83575,7 +83575,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PotionWaterWalkingW",
-    "custom": "",
+    "custom": "Слабае зелле хаджэння па вадзе",
     "en": "Weak Potion of Seastride",
     "ru": "Слабое зелье хождения по воде",
     "bel": "Слабае зелле хаджэння па вадзе",
@@ -83584,7 +83584,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PowerAttack",
-    "custom": "",
+    "custom": "МагутнаяАтака",
     "en": "PowerAttack",
     "ru": "МощнаяАтака",
     "bel": "МагутнаяАтака",
@@ -83593,7 +83593,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Prank",
-    "custom": "",
+    "custom": "Жарт",
     "en": "Prank",
     "ru": "Шутка",
     "bel": "Жарт",
@@ -83602,7 +83602,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PrayAltar",
-    "custom": "",
+    "custom": "ПамаліццаУАлтара",
     "en": "PrayAltar",
     "ru": "ПомолитьсяУАлтаря",
     "bel": "ПамаліццаУАлтара",
@@ -83611,7 +83611,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Prey",
-    "custom": "",
+    "custom": "Пачвары-ахвяры",
     "en": "Prey creatures",
     "ru": "Твари-жертвы",
     "bel": "Пачвары-ахвяры",
@@ -83620,7 +83620,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Priest",
-    "custom": "",
+    "custom": "Жрэц",
     "en": "Priest",
     "ru": "Священник",
     "bel": "Святар",
@@ -83629,7 +83629,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PrimoAntonius",
-    "custom": "",
+    "custom": "Прымо Антоніус",
     "en": "Primo Antonius",
     "ru": "Примо Антониус",
     "bel": "Прымо Антоніус",
@@ -83638,7 +83638,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PrimoAntoniusTopic",
-    "custom": "",
+    "custom": "Прымо Антоніус",
     "en": "Primo Antonius",
     "ru": "Примо Антониус",
     "bel": "Прымо Антоніус",
@@ -83647,7 +83647,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PrioryoftheNine",
-    "custom": "",
+    "custom": "Прыёрат Дзевяці",
     "en": "Priory of the Nine",
     "ru": "Приорат Девяти",
     "bel": "Прыёрат Дзевяці",
@@ -83656,7 +83656,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PuddlejumpCamp",
-    "custom": "",
+    "custom": "Лагер Скакуноў",
     "en": "Puddlejump Camp",
     "ru": "Лагерь Прыг-Скок",
     "bel": "Лагер Скакуноў",
@@ -83665,7 +83665,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PuddlejumpCampRegion",
-    "custom": "",
+    "custom": "Азёрны лагер",
     "en": "Puddlejump Camp",
     "ru": "Озерный лагерь",
     "bel": "Азёрны лагер",
@@ -83674,7 +83674,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PwRaceDarkElfGuardian",
-    "custom": "",
+    "custom": "Вартаўнік продкаў",
     "en": "Ancestor Guardian",
     "ru": "Страж предков",
     "bel": "Вартаўнік продкаў",
@@ -83683,7 +83683,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PwRaceNordFrostDamage",
-    "custom": "",
+    "custom": "Паўночны холад",
     "en": "Nordic Frost",
     "ru": "Северный холод",
     "bel": "Паўночны холад",
@@ -83692,7 +83692,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PwRaceNordShield",
-    "custom": "",
+    "custom": "Апека",
     "en": "Woad",
     "ru": "Покровительство",
     "bel": "Апека",
@@ -83701,7 +83701,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PwRaceRedguardFortify",
-    "custom": "",
+    "custom": "Лютасць бою",
     "en": "Adrenaline Rush",
     "ru": "Ярость боя",
     "bel": "Лютасць бою",
@@ -83710,7 +83710,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PwRaceWoodElfCommandCreature",
-    "custom": "",
+    "custom": "Звярыная мова",
     "en": "Beast Tongue",
     "ru": "Звериный язык",
     "bel": "Звярыная мова",
@@ -83719,7 +83719,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PwScampReflect",
-    "custom": "",
+    "custom": "Адлюстраванне скампа",
     "en": "Scamp Reflection",
     "ru": "Отражение скампа",
     "bel": "Адлюстраванне скампа",
@@ -83728,7 +83728,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_PwSummonSkeleton",
-    "custom": "",
+    "custom": "Выклік шкілета",
     "en": "Summon Skeleton",
     "ru": "Вызов скелета",
     "bel": "Выклік шкілета",
@@ -83737,7 +83737,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_QuestionGeneral",
-    "custom": "",
+    "custom": "АгульныяПытанні",
     "en": "QuestionGeneral",
     "ru": "ОбщиеВопросы",
     "bel": "АгульныяПытанні",
@@ -83746,7 +83746,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_QuickwaterCave02",
-    "custom": "",
+    "custom": "Хуткая Вада - Сцёкавая яма",
     "en": "Quickwater Sump",
     "ru": "Быстрая Вода - Сточная яма",
     "bel": "Хуткая Вада - Сцёкавая яма",
@@ -83755,7 +83755,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_QuillWeave",
-    "custom": "",
+    "custom": "Куіл-Вів",
     "en": "Quill-Weave",
     "ru": "Куилл-Вив",
     "bel": "Куіл-Вів",
@@ -83764,7 +83764,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_QuillWeaveKey",
-    "custom": "",
+    "custom": "Ключ Куіл-Вів",
     "en": "Quill-Weave's Key",
     "ru": "Ключ Куилл-Вив",
     "bel": "Ключ Куіл-Вів",
@@ -83773,7 +83773,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_QuillWeaveTOPIC",
-    "custom": "",
+    "custom": "Куіл-Вів",
     "en": "Quill-Weave",
     "ru": "Куилл-Вив",
     "bel": "Куіл-Вів",
@@ -83782,7 +83782,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RALY",
-    "custom": "",
+    "custom": "Заахвочванне",
     "en": "Rally",
     "ru": "Ободрение",
     "bel": "Заахвочванне",
@@ -83791,7 +83791,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_REAN",
-    "custom": "",
+    "custom": "Рэанімацыя",
     "en": "Reanimate",
     "ru": "Реанимация",
     "bel": "Рэанімацыя",
@@ -83800,7 +83800,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_REDG",
-    "custom": "",
+    "custom": "Адлюстраванне ўрону",
     "en": "Reflect Damage",
     "ru": "Отражение урона",
     "bel": "Адлюстраванне ўрону",
@@ -83809,7 +83809,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_REFA",
-    "custom": "",
+    "custom": "Аднаўленне запасу сіл",
     "en": "Restore Fatigue",
     "ru": "Восст. запаса сил",
     "bel": "Аднаўленне запасу сіл",
@@ -83818,7 +83818,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RF1xDoorLeft",
-    "custom": "",
+    "custom": "Драўляныя вароты",
     "en": "Wooden Gate",
     "ru": "Деревянные ворота",
     "bel": "Драўляныя вароты",
@@ -83827,7 +83827,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RF1xDoorRight",
-    "custom": "",
+    "custom": "Драўляныя вароты",
     "en": "Wooden Gate",
     "ru": "Деревянные ворота",
     "bel": "Драўляныя вароты",
@@ -83836,7 +83836,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RFCastleDoorMAGate",
-    "custom": "",
+    "custom": "Цяжкія жалезныя дзверы",
     "en": "Heavy Iron Gate",
     "ru": "Тяжелая железная дверь",
     "bel": "Цяжкія жалезныя дзверы",
@@ -83845,7 +83845,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RFDchestLarge01",
-    "custom": "",
+    "custom": "Вялікі куфар",
     "en": "Chest Large",
     "ru": "Большой сундук",
     "bel": "Вялікі куфар",
@@ -83854,7 +83854,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RFLC",
-    "custom": "",
+    "custom": "Адлюстр. заклінання",
     "en": "Reflect Spell",
     "ru": "Отраж. заклинания",
     "bel": "Адлюстр. заклінання",
@@ -83863,7 +83863,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RFSwitchLever01",
-    "custom": "",
+    "custom": "Пацягнуць рычаг",
     "en": "Pull Lever",
     "ru": "Рычаг",
     "bel": "Рычаг",
@@ -83872,7 +83872,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RFSwitchLeverND01",
-    "custom": "",
+    "custom": "Пацягнуць рычаг",
     "en": "Pull Lever",
     "ru": "Потянуть за рычаг",
     "bel": "Пацягнуць за рычаг",
@@ -83881,7 +83881,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RFWHallPortcullis01Door",
-    "custom": "",
+    "custom": "Старажытная апускная рашотка",
     "en": "Ancient Portcullis",
     "ru": "Древняя решетка",
     "bel": "Старажытная рашотка",
@@ -83890,7 +83890,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RSFR",
-    "custom": "",
+    "custom": "Супраціўленне марозу",
     "en": "Resist Frost",
     "ru": "Сопрот. холоду",
     "bel": "Супраціў холаду",
@@ -83899,7 +83899,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RSPO",
-    "custom": "",
+    "custom": "Супраціў ядам",
     "en": "Resist Poison",
     "ru": "Сопротивление ядам",
     "bel": "Супраціў атрутам",
@@ -83908,7 +83908,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RSSH",
-    "custom": "",
+    "custom": "Супраціў электрычнасці",
     "en": "Resist Shock",
     "ru": "Сопрот. эл-ву",
     "bel": "Супраціў электрычнасці",
@@ -83917,7 +83917,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RadishPlant",
-    "custom": "",
+    "custom": "Рэдыска",
     "en": "Radish Plant",
     "ru": "Редис",
     "bel": "Рэдыска",
@@ -83926,7 +83926,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RaelynntheGravefinder",
-    "custom": "",
+    "custom": "Рэйлін Магільшчыца",
     "en": "Raelynn the Gravefinder",
     "ru": "Рейлин Гробокопательница",
     "bel": "Рэйлін Магільшчыца",
@@ -83935,7 +83935,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Rajiradh",
-    "custom": "",
+    "custom": "Ра'Джырад",
     "en": "Ra'jiradh",
     "ru": "Ра'Джирад",
     "bel": "Ра'Джырад",
@@ -83944,7 +83944,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RajiradhKey",
-    "custom": "",
+    "custom": "Ключ ад дома Ра'Джырада",
     "en": "Ra'jiradh's House Key",
     "ru": "Ключ от дома Ра'Джирада",
     "bel": "Ключ ад дома Ра'Джырада",
@@ -83953,7 +83953,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RajiradhsPride",
-    "custom": "",
+    "custom": "Кошт Ра'джырадха",
     "en": "Ra'jiradh's Price",
     "ru": "Ra'jiradh's Pride",
     "bel": "Ra'jiradh's Pride",
@@ -83962,7 +83962,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RallusOdiil",
-    "custom": "",
+    "custom": "Ралус Одзіл",
     "en": "Rallus Odiil",
     "ru": "Раллус Одил",
     "bel": "Ралус Одзіл",
@@ -83971,7 +83971,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RalsaNorvalo",
-    "custom": "",
+    "custom": "Ралса Нарвала",
     "en": "Ralsa Norvalo",
     "ru": "Ралса Норвало",
     "bel": "Ралса Нарвала",
@@ -83980,7 +83980,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RaminusPolus",
-    "custom": "",
+    "custom": "Рамінус Полус",
     "en": "Raminus Polus",
     "ru": "Раминус Полус",
     "bel": "Рамінус Полус",
@@ -83989,7 +83989,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RaminusTopic",
-    "custom": "",
+    "custom": "Рамінус Полус",
     "en": "Raminus Polus",
     "ru": "Раминус Полус",
     "bel": "Рамінус Полус",
@@ -83998,7 +83998,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RasavaCamp",
-    "custom": "",
+    "custom": "Лагер Ра'савы",
     "en": "Ra'sava Camp",
     "ru": "Лагерь Ра'савы",
     "bel": "Лагер Ра'савы",
@@ -84007,7 +84007,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RatPoison",
-    "custom": "",
+    "custom": "Пацучыная атрута",
     "en": "Rat Poison",
     "ru": "Крысиный яд",
     "bel": "Пацучыны яд",
@@ -84016,7 +84016,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Ratmeat",
-    "custom": "",
+    "custom": "Пацучына",
     "en": "Rat Meat",
     "ru": "Мясо крысы",
     "bel": "Мяса пацука",
@@ -84025,7 +84025,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RavagedMine",
-    "custom": "",
+    "custom": "Аспустошаная шахта",
     "en": "Ravaged Mine",
     "ru": "Опустошенная шахта",
     "bel": "Аспустошаная шахта",
@@ -84034,7 +84034,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RavenCamoran",
-    "custom": "",
+    "custom": "Равен Каморан",
     "en": "Raven Camoran",
     "ru": "Равен Каморан",
     "bel": "Равен Каморан",
@@ -84043,7 +84043,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RavenCamoranTopic",
-    "custom": "",
+    "custom": "Воран Каморан",
     "en": "Raven Camoran",
     "ru": "Ворон Камoран",
     "bel": "Воран Каморан",
@@ -84052,7 +84052,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RaynilDralas",
-    "custom": "",
+    "custom": "Рэйніл Дралас",
     "en": "Raynil Dralas",
     "ru": "Рейнил Дралас",
     "bel": "Рэйніл Дралас",
@@ -84061,7 +84061,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RaynilDralasTopic",
-    "custom": "",
+    "custom": "Рэйніл Дралас",
     "en": "Raynil Dralas",
     "ru": "Рейнил Дралас",
     "bel": "Рэйніл Дралас",
@@ -84070,7 +84070,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RaynilFaction",
-    "custom": "",
+    "custom": "Фракцыя Райніла Драласа",
     "en": "Raynil Dralas Faction",
     "ru": "Фракция Raynil Dralas",
     "bel": "Фракцыя Raynil Dralas",
@@ -84079,7 +84079,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RaynilFaction_LEVEL0_M",
-    "custom": "",
+    "custom": "Рэйніл",
     "en": "Raynil",
     "ru": "Рэйнил",
     "bel": "Рэйніл",
@@ -84088,7 +84088,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ReadyForAMatch",
-    "custom": "",
+    "custom": "Магу пачаць бой",
     "en": "Ready for a Match",
     "ru": "Могу начать бой.",
     "bel": "Магу пачаць бой.",
@@ -84097,7 +84097,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RecallInterloper",
-    "custom": "",
+    "custom": "Адклікаць Чужынца",
     "en": "Recall Interloper",
     "ru": "Отозвать Чужака",
     "bel": "Адклікаць Чужынца",
@@ -84106,7 +84106,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Recharge",
-    "custom": "",
+    "custom": "Перазарадзіць",
     "en": "Recharge",
     "ru": "Восполнить",
     "bel": "Папоўніць",
@@ -84115,7 +84115,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RechargeExit",
-    "custom": "",
+    "custom": "ПеразагрузкаВыхад",
     "en": "RechargeExit",
     "ru": "ПерезарядкаВыход",
     "bel": "ПеразагрузкаВыхад",
@@ -84124,7 +84124,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Recommendation",
-    "custom": "",
+    "custom": "Рэкамендацыі",
     "en": "Recommendation",
     "ru": "Рекомендации",
     "bel": "Рэкамендацыі",
@@ -84133,7 +84133,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RedLightBeam",
-    "custom": "",
+    "custom": "ЧырвоныПраменьСвятла",
     "en": "RedLightBeam",
     "ru": "КрасныйЛучСвета",
     "bel": "ЧырвоныПраменьСвятла",
@@ -84142,7 +84142,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RedRubyCave",
-    "custom": "",
+    "custom": "Пячора Чырвоны Рубін",
     "en": "Red Ruby Cave",
     "ru": "Пещера Красный Рубин",
     "bel": "Пячора Чырвоны Рубін",
@@ -84151,7 +84151,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RedguardClassic",
-    "custom": "",
+    "custom": "Кудзеркі",
     "en": "Frizzy",
     "ru": "Кудри",
     "bel": "Кудзеркі",
@@ -84160,7 +84160,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RedguardCoil",
-    "custom": "",
+    "custom": "Скручаны пучок",
     "en": "Bun Twist",
     "ru": "Крученый пучок",
     "bel": "Скручаны пучок",
@@ -84169,7 +84169,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RedguardCornrows",
-    "custom": "",
+    "custom": "Частыя рады",
     "en": "Ridge Rows",
     "ru": "Частые ряды",
     "bel": "Частыя рады",
@@ -84178,7 +84178,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RedguardDredz",
-    "custom": "",
+    "custom": "Тоўстыя рады",
     "en": "Thick Rows",
     "ru": "Толстые ряды",
     "bel": "Тоўстыя рады",
@@ -84187,7 +84187,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RedguardValleyCave",
-    "custom": "",
+    "custom": "Пячора Даліна Рэдгардаў",
     "en": "Redguard Valley Cave",
     "ru": "Пещера Долина Редгардов",
     "bel": "Пячора Даліна Рэдгардаў",
@@ -84196,7 +84196,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RedrubyCave02",
-    "custom": "",
+    "custom": "Чырвоны Рубін - Гроты",
     "en": "Red Ruby Hollows",
     "ru": "Красный Рубин - Гроты",
     "bel": "Чырвоны Рубін - Гроты",
@@ -84205,7 +84205,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RedwaterSlough",
-    "custom": "",
+    "custom": "Твань Чырвонай Вады",
     "en": "Redwater Slough",
     "ru": "Топь Красной Воды",
     "bel": "Твань Чырвонай Вады",
@@ -84214,7 +84214,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_RedwortFlower",
-    "custom": "",
+    "custom": "Кветка чырвонацвету",
     "en": "Redwort Flower",
     "ru": "Цветок редворта",
     "bel": "Кветка рэдворта",
@@ -84223,7 +84223,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ReedstandCave",
-    "custom": "",
+    "custom": "Пячора Трысняговая Заводзь",
     "en": "Reedstand Cave",
     "ru": "Пещера Камышовая Заводь",
     "bel": "Пячора Трысняговая Заводзь",
@@ -84232,7 +84232,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ReedstandCave02",
-    "custom": "",
+    "custom": "Трысняговая Заводзь - Каньён",
     "en": "Reedstand Canyon",
     "ru": "Камышовая Заводь - Каньон",
     "bel": "Трысняговая Заводзь - Каньён",
