@@ -27,6 +27,11 @@ DEFAULT_FILES = [
     "ST_AltarStaticTexts.json",
     "ST_HardcodedContent.json",
     "ST_MissingEntries.json",
+    "ST_ResponseTexts.json",
+    "ST_ScriptContent.json",
+    "ST_LogEntries.json",
+    "ST_BookContent.json",
+    "ST_Descriptions.json",
 ]
 
 RU_ONLY_LETTERS = set("иИщЩъЪ")
