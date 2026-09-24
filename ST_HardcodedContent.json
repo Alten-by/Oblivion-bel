@@ -4537,7 +4537,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sOfferRefused",
-    "custom": "",
+    "custom": "Прапанова адхілена.",
     "en": "Offer refused",
     "ru": "Предложение отклонено.",
     "bel": "Прапанова адхілена.",
@@ -4545,7 +4545,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sOk",
-    "custom": "",
+    "custom": "Добра",
     "en": "Ok",
     "ru": "Ок",
     "bel": "Добра",
@@ -4553,7 +4553,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sOldDownloadsAvailable",
-    "custom": "",
+    "custom": "Праглядзець Даступны Кантэнт",
     "en": "View Available Content",
     "ru": "Просмотреть Доступный Контент",
     "bel": "Праглядзець Даступны Кантэнт",
@@ -4561,7 +4561,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sOnButtonText",
-    "custom": "",
+    "custom": "Укл.",
     "en": "On",
     "ru": "Вкл.",
     "bel": "Укл.",
@@ -4569,7 +4569,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sOpenWithKey",
-    "custom": "",
+    "custom": "Вы адчынілі дзверы з",
     "en": "You opened the door with",
     "ru": "Ты открыл дверь с",
     "bel": "Ты адкрыў дзверы з",
@@ -4577,7 +4577,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sOpenedContainer",
-    "custom": "",
+    "custom": "Адкрыў кантэйнер ключом.",
     "en": "Opened the container with a key.",
     "ru": "Открыл контейнер ключом.",
     "bel": "Адкрыў кантэйнер ключом.",
@@ -4585,7 +4585,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sOutOfLockpicks",
-    "custom": "",
+    "custom": "У вас скончыліся адмычкі.",
     "en": "You have run out of lockpicks.",
     "ru": "У вас закончились отмычки.",
     "bel": "У вас скончыліся адмычкі.",
@@ -4593,7 +4593,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sOverEncumbered",
-    "custom": "",
+    "custom": "У вас перагруз.",
     "en": "You are over-encumbered.",
     "ru": "Ты перегружен.",
     "bel": "Ты перагружаны.",
@@ -4601,7 +4601,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sPCControlsTextNone",
-    "custom": "",
+    "custom": "прызначце кнопку ў меню «Элементы кіравання»",
     "en": "assign a button in the Controls menu",
     "ru": "Назначьте кнопку в меню Controls.",
     "bel": "Прызначце кнопку ў меню Controls.",
@@ -4609,7 +4609,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sPCControlsTextPrefix",
-    "custom": "",
+    "custom": "Цісні.",
     "en": "push",
     "ru": "Дави.",
     "bel": "Цісні.",
@@ -4617,7 +4617,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sPauseText",
-    "custom": "",
+    "custom": "Паўза",
     "en": "Pause",
     "ru": "Пауза",
     "bel": "Паўза",
@@ -4625,7 +4625,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sPersonalityDescription",
-    "custom": "",
+    "custom": "Патрэбна апісанне гульнявога сусвету.",
     "en": "Need a gamesetting description.",
     "ru": "Нужно описание игровой вселенной.",
     "bel": "Патрэбна апісанне гульнявога сусвету.",
@@ -4633,7 +4633,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sPickpocket",
-    "custom": "",
+    "custom": "Кішэнныя крадзяжы",
     "en": "Pick Pockets",
     "ru": "Карманные кражи",
     "bel": "Кішэнныя крадзяжы",
@@ -4641,7 +4641,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sPlayer",
-    "custom": "",
+    "custom": "Гулец",
     "en": "player",
     "ru": "Игрок",
     "bel": "Гулец",
@@ -4649,7 +4649,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sPlayerLeavingBorderRegion",
-    "custom": "",
+    "custom": "Вам туды нельга.",
     "en": "You cannot go that way.",
     "ru": "Вам туда нельзя.",
     "bel": "Вам туды нельга.",
@@ -4657,7 +4657,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sPlural",
-    "custom": "",
+    "custom": "(с)",
     "en": "(s)",
     "ru": "(с)",
     "bel": "(с)",
@@ -4665,7 +4665,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sPoisonAlreadyPoisonedMessage",
-    "custom": "",
+    "custom": "Бягучая зброя ўжо атручана.",
     "en": "The current weapon is already poisoned.",
     "ru": "Текущее оружие уже отравлено.",
     "bel": "Бягучая зброя ўжо атручана.",
@@ -4673,7 +4673,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sPoisonBowConfirmMessage",
-    "custom": "",
+    "custom": "Хочаце атруціць свой наступны стрэл з дапамогай",
     "en": "Do you want to poison your next shot with the",
     "ru": "Хотите отравить свой следующий выстрел с помощью",
     "bel": "Хочаце атруціць свой наступны стрэл з дапамогай",
@@ -4681,7 +4681,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sPoisonConfirmMessage",
-    "custom": "",
+    "custom": "Вы хочаце атруціць",
     "en": "Do you want to poison the",
     "ru": "Ты хочешь отравить",
     "bel": "Ты хочаш атруціць",
@@ -4689,7 +4689,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sPoisonNoWeaponMessage",
-    "custom": "",
+    "custom": "Спярша трэба экіпіраваць зброю, каб яе атруціць.",
     "en": "You must first equip a weapon to poison it.",
     "ru": "Сперва нужно экипировать оружие, чтобы его отравить.",
     "bel": "Спярша трэба экіпіраваць зброю, каб яе атруціць.",
@@ -4697,7 +4697,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sPoisonStaffsNotAllowedMessage",
-    "custom": "",
+    "custom": "Посахі нельга атруціць.",
     "en": "Staffs cannot be poisoned.",
     "ru": "Посохи нельзя отравить.",
     "bel": "Посахі нельга атруціць.",
@@ -4705,7 +4705,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sPotion",
-    "custom": "",
+    "custom": "Зелле",
     "en": "potion",
     "ru": "Зелье",
     "bel": "Зелле",
@@ -4713,7 +4713,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sPotionFailed",
-    "custom": "",
+    "custom": "Ваша зелле не атрымалася, і вашы інгрэдыенты былі страчаны",
     "en": "Your potion failed and your ingredients were lost",
     "ru": "Твоё зелье не получилось, и твои ингредиенты пропали.",
     "bel": "Тваё зелле не атрымалася, і твае інгрэдыенты зніклі.",
@@ -4721,7 +4721,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sPotionSucceded",
-    "custom": "",
+    "custom": "Вы стварылі {0} новы зелле.",
     "en": "You have created {0} new potion",
     "ru": "Вы создали {0} новый зелье.",
     "bel": "Вы стварылі {0} новы зелле.",
@@ -4729,7 +4729,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sQuestAddedText",
-    "custom": "",
+    "custom": "Заданне дададзена",
     "en": "Quest Added",
     "ru": "Задание добавлено",
     "bel": "Заданне дададзена",
@@ -4737,7 +4737,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sQuestCompletedText",
-    "custom": "",
+    "custom": "Заданне Выканана",
     "en": "Quest Completed",
     "ru": "Задание Выполнено",
     "bel": "Заданне Выканана",
@@ -4745,7 +4745,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sQuestUpdatedText",
-    "custom": "",
+    "custom": "Заданне абноўлена",
     "en": "Quest Updated",
     "ru": "Задание обновлено",
     "bel": "Заданне абноўлена",
@@ -4753,7 +4753,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sQuickKeyCantEquipBound",
-    "custom": "",
+    "custom": "Немагчыма прызначыць прадмету з хуткага доступу гарачую клавішу.",
     "en": "Cannot quick key bound item.",
     "ru": "Невозможно назначить предмету из быстрого доступа горячую клавишу.",
     "bel": "Немагчыма прызначыць прадмету з хуткага доступу гарачую клавішу.",
@@ -4761,7 +4761,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sQuickKeyConsumed",
-    "custom": "",
+    "custom": "Паглынута.",
     "en": "consumed.",
     "ru": "Поглощено.",
     "bel": "Паглынута.",
@@ -4769,7 +4769,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sQuickKeySelectedString",
-    "custom": "",
+    "custom": "Экіпіравана.",
     "en": "equipped.",
     "ru": "Экипирован.",
     "bel": "Экіпіравана.",
@@ -4777,7 +4777,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sQuickKeyString",
-    "custom": "",
+    "custom": "Хуткі доступ",
     "en": "Shortcut",
     "ru": "Быстрый доступ",
     "bel": "Хуткі доступ",
@@ -4785,7 +4785,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sQuickKeyUnSelectedString",
-    "custom": "",
+    "custom": "Не экіпіравана.",
     "en": "unequipped.",
     "ru": "Не экипирован.",
     "bel": "Не экіпіравана.",
@@ -4793,7 +4793,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sQuickKeyUsedString",
-    "custom": "",
+    "custom": "Б/В.",
     "en": "used.",
     "ru": "Б/У.",
     "bel": "Б/В.",
@@ -4801,7 +4801,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sQuickLoading",
-    "custom": "",
+    "custom": "Хуткая загрузка...",
     "en": "Quickloading...",
     "ru": "Быстрая загрузка...",
     "bel": "Хуткая загрузка...",
@@ -4809,7 +4809,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sQuickSaving",
-    "custom": "",
+    "custom": "Ідзе хуткае захаванне...",
     "en": "Quicksaving...",
     "ru": "Идёт быстрое сохранение...",
     "bel": "Ідзе хуткае захаванне...",
@@ -4817,7 +4817,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sQuitPastMainMenu",
-    "custom": "",
+    "custom": "Вы ўпэўнены, што хочаце выйсці з гульні?<lf><RT_BlueMed>Усе незахаваныя змены будуць страчаны.</>",
     "en": "Are you sure you want to exit the game?<lf><RT_BlueMed>All unsaved progress will be lost.</>",
     "ru": "Вы уверены, что хотите выйти из игры?<lf><RT_BlueMed>Все несохраненные изменения будут потеряны.</>",
     "bel": "Вы ўпэўнены, што хочаце выйсці з гульні?<lf><RT_BlueMed>Усе незахаваныя змены будуць страчаны.</>",
@@ -4825,7 +4825,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sRace",
-    "custom": "",
+    "custom": "Раса",
     "en": "Race",
     "ru": "Раса",
     "bel": "Раса",
@@ -4833,7 +4833,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sRaceDescription",
-    "custom": "",
+    "custom": "Апісанне расы",
     "en": "Race Description",
     "ru": "Описание расы",
     "bel": "Апісанне расы",
@@ -4841,7 +4841,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sRandom",
-    "custom": "",
+    "custom": "Выпадковы",
     "en": "Random",
     "ru": "Случайный",
     "bel": "Выпадковы",
@@ -4849,7 +4849,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sRandomizeFace",
-    "custom": "",
+    "custom": "Згенерыраваць выпадковы твар?",
     "en": "Randomize face?",
     "ru": "Сгенерировать случайное лицо?",
     "bel": "Згенерыраваць выпадковы твар?",
@@ -4857,7 +4857,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sRangeText",
-    "custom": "",
+    "custom": "Далечыня",
     "en": "Range",
     "ru": "Дальность",
     "bel": "Далечыня",
@@ -4865,7 +4865,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sRed",
-    "custom": "",
+    "custom": "Чырвоны",
     "en": "Red",
     "ru": "Красный",
     "bel": "Чырвоны",
@@ -4873,7 +4873,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sRemoveMarker",
-    "custom": "",
+    "custom": "Выдаліць.",
     "en": "Remove It",
     "ru": "Удалить.",
     "bel": "Выдаліць.",
@@ -4881,7 +4881,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sRepairAll",
-    "custom": "",
+    "custom": "Парамантаваць усё",
     "en": "Repair All",
     "ru": "Починить всё",
     "bel": "Парамантаваць усё",
@@ -4889,7 +4889,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sReplace",
-    "custom": "",
+    "custom": "Замяніць",
     "en": "Replace",
     "ru": "Заменить",
     "bel": "Замяніць",
@@ -4897,7 +4897,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sReset",
-    "custom": "",
+    "custom": "Скінуць",
     "en": "Reset",
     "ru": "Сбросить",
     "bel": "Скінуць",
@@ -4905,7 +4905,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sResetFace",
-    "custom": "",
+    "custom": "Скінуць выраз твару?",
     "en": "Reset face?",
     "ru": "Сбросить выражение лица?",
     "bel": "Скінуць выраз твару?",
@@ -4913,7 +4913,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sRestartBecauseContentRemoved",
-    "custom": "",
+    "custom": "Гульня павінна быць перазапушчана зараз, паколькі загружаны кантэнт быў выдалены.",
     "en": "The game must restart now because downloaded content has been removed.",
     "ru": "Игра должна быть перезапущена сейчас, поскольку загруженный контент был удален.",
     "bel": "Гульня павінна быць перазапушчана зараз, паколькі загружаны кантэнт быў выдалены.",
@@ -4921,7 +4921,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sRestartToUseNewContent",
-    "custom": "",
+    "custom": "Дададзены новы кантэнт. Вам трэба будзе перазапусціць гульню, каб выкарыстоўваць гэты кантэнт. Увесь незахаваны прагрэс будзе страчаны.",
     "en": "New content has been added.  You will need to restart to use this content. All unsaved progress will be lost.",
     "ru": "Добавлен новый контент. Вам потребуется перезапустить игру, чтобы использовать этот контент. Весь несохранённый прогресс будет потерян.",
     "bel": "Дададзены новы кантэнт. Вам трэба будзе перазапусціць гульню, каб выкарыстоўваць гэты кантэнт. Увесь незахаваны прагрэс будзе страчаны.",
@@ -4929,7 +4929,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sRestartToUseProfileContent",
-    "custom": "",
+    "custom": "Каб выкарыстоўваць загружаны кантэнт, звязаны з гэтым профілем, вам трэба будзе перазапусціць гульню.",
     "en": "In order to use the downloaded content associated with this profile, you will need to restart.",
     "ru": "Чтобы использовать загруженный контент, связанный с этим профилем, вам потребуется перезапустить игру.",
     "bel": "Каб выкарыстоўваць загружаны кантэнт, звязаны з гэтым профілем, вам трэба будзе перазапусціць гульню.",
@@ -4937,7 +4937,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sReturnToMainMenu",
-    "custom": "",
+    "custom": "Вы ўпэўнены, што хочаце вярнуцца ў галоўнае меню?<lf><RT_BlueMed>Увесь незахаваны прагрэс будзе страчаны.</>",
     "en": "Are you sure you want to return to the main menu?<lf><RT_BlueMed>All unsaved progress will be lost.</>",
     "ru": "Вы уверены, что хотите вернуться в главное меню?<lf><RT_BlueMed>Весь несохраненный прогресс будет потерян.</>",
     "bel": "Вы ўпэўнены, што хочаце вярнуцца ў галоўнае меню?<lf><RT_BlueMed>Увесь незахаваны прагрэс будзе страчаны.</>",
@@ -4945,7 +4945,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSaveFailed",
-    "custom": "",
+    "custom": "Не атрымалася захаваць.",
     "en": "Save failed.",
     "ru": "Не удалось сохранить.",
     "bel": "Не атрымалася захаваць.",
@@ -4953,7 +4953,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSaveGameContentIsMissing",
-    "custom": "",
+    "custom": "Гэта захаванне выкарыстоўвае кантэнт, які больш не існуе. Некаторыя аб'екты могуць быць больш недаступныя. Працягнуць загрузку?",
     "en": "This save relies on content that is no longer present. Some objects may no longer be available. Continue Loading?",
     "ru": "Это сохранение использует контент, который больше не существует. Некоторые объекты могут быть более недоступны. Продолжить загрузку?",
     "bel": "Гэта захаванне выкарыстоўвае кантэнт, які больш не існуе. Некаторыя аб'екты могуць быць больш недаступныя. Працягнуць загрузку?",
@@ -4961,7 +4961,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSaveGameCorruptMenuMessage",
-    "custom": "",
+    "custom": "Файл захавання пашкоджаны і не можа быць загружаны.",
     "en": "The save game is corrupt and cannot be loaded.",
     "ru": "Файл сохранения повреждён и не может быть загружен.",
     "bel": "Файл захавання пашкоджаны і не можа быць загружаны.",
@@ -4969,7 +4969,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSaveGameDeviceError",
-    "custom": "",
+    "custom": "Адбылася памылка пры доступе да прылады. Калі ласка, паспрабуйце яшчэ раз.",
     "en": "There was an error accessing the device.  Please try again.",
     "ru": "Произошла ошибка при доступе к устройству. Пожалуйста, попробуйте еще раз.",
     "bel": "Адбылася памылка пры доступе да прылады. Калі ласка, паспрабуйце яшчэ раз.",
@@ -4977,7 +4977,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSaveGameIsCorrupt",
-    "custom": "",
+    "custom": "Файл захавання пашкоджаны, не атрымалася загрузіць.",
     "en": "The save game is corrupted, failed to load.",
     "ru": "Файл сохранения повреждён, не удалось загрузить.",
     "bel": "Файл захавання пашкоджаны, не атрымалася загрузіць.",
@@ -4985,7 +4985,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSaveGameNoLongerAvailable",
-    "custom": "",
+    "custom": "Захаваная гульня больш не даступная. Вяртанне ў гульню.",
     "en": "The save game is no longer available.  Returning to game.",
     "ru": "Сохранённая игра больше не доступна. Возврат в игру.",
     "bel": "Захаваная гульня больш не даступная. Вяртанне ў гульню.",
@@ -4993,7 +4993,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSaveGameNoMasterFilesFound",
-    "custom": "",
+    "custom": "Ні адзін з майстар-файлаў, выкарыстаных у гэтым захаванні, не загружаны. Вяртаюся ў гульню.",
     "en": "None of the master files used in this save game are loaded.  Returning to game.",
     "ru": "Ни один из мастер-файлов, использованных в этом сохранении, не загружен. Возвращаюсь в игру.",
     "bel": "Ні адзін з майстар-файлаў, выкарыстаных у гэтым захаванні, не загружаны. Вяртаюся ў гульню.",
@@ -5001,7 +5001,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSaveGameOutOfDiskSpace",
-    "custom": "",
+    "custom": "На дыску недастаткова вольнай прасторы. Калі ласка, выдаліце існуючыя дадзеныя, каб вызваліць месца.",
     "en": "Disk doesn't have sufficient space available. Please delete some existing data to free some space.",
     "ru": "На диске недостаточно свободного места. Пожалуйста, удалите существующие данные, чтобы освободить место.",
     "bel": "На дыску недастаткова вольнай прасторы. Калі ласка, выдаліце існуючыя дадзеныя, каб вызваліць месца.",
@@ -5009,7 +5009,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSaveNotAvailable",
-    "custom": "",
+    "custom": "Гэта захаванне больш недаступнае.",
     "en": "That save is no longer available.",
     "ru": "Это сохранение больше недоступно.",
     "bel": "Гэта захаванне больш недаступнае.",
@@ -5017,7 +5017,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSaveOverSaveGame",
-    "custom": "",
+    "custom": "Вы ўпэўнены, што хочаце перазапісаць гэтае захаванне?",
     "en": "Are you sure you want to overwrite this save game?",
     "ru": "Вы уверены, что хотите перезаписать это сохранение?",
     "bel": "Вы ўпэўнены, што хочаце перазапісаць гэтае захаванне?",
@@ -5025,7 +5025,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSaveSuccessful",
-    "custom": "",
+    "custom": "Захаванне выканана паспяхова.",
     "en": "Save successful.",
     "ru": "Сохранение выполнено успешно.",
     "bel": "Захаванне выканана паспяхова.",
@@ -5033,7 +5033,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sScrollEquipped",
-    "custom": "",
+    "custom": " Экіпіравана.",
     "en": " equipped.",
     "ru": "Экипирован.",
     "bel": "Экіпіравана.",
@@ -5041,7 +5041,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSearch",
-    "custom": "",
+    "custom": "Пошук",
     "en": "Search",
     "ru": "Поиск",
     "bel": "Пошук",
@@ -5049,7 +5049,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSelfRange",
-    "custom": "",
+    "custom": "Сябе",
     "en": "Self",
     "ru": "Себя",
     "bel": "Сябе",
@@ -5057,7 +5057,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSell",
-    "custom": "",
+    "custom": "Прадаць",
     "en": "Sell",
     "ru": "Продать",
     "bel": "Прадаць",
@@ -5065,7 +5065,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sServeTimeQuestion",
-    "custom": "",
+    "custom": "Вы проста хочаце адбыць свой час?",
     "en": "Do you just want to serve your time?",
     "ru": "Ты просто хочешь отбыть свой срок?",
     "bel": "Ты проста хочаш адбыць свой тэрмін?",
@@ -5073,7 +5073,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSetMarkerQuestion",
-    "custom": "",
+    "custom": "Хочаце паставіць сваю метку?",
     "en": "Do you want to set your marker?",
     "ru": "Хотите поставить свою метку?",
     "bel": "Хочаце паставіць сваю метку?",
@@ -5081,7 +5081,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sShape",
-    "custom": "",
+    "custom": "Форма",
     "en": "Shape",
     "ru": "Форма",
     "bel": "Форма",
@@ -5089,7 +5089,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSigilStoneCharge",
-    "custom": "",
+    "custom": "Зараджай:",
     "en": "Charge:",
     "ru": "Заряжай:",
     "bel": "Зараджай:",
@@ -5097,7 +5097,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSigilStoneConstantEffect",
-    "custom": "",
+    "custom": "Пастаянны эфект.",
     "en": "Constant effect.",
     "ru": "Постоянный эффект.",
     "bel": "Пастаянны эфект.",
@@ -5105,7 +5105,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSkillDecreased",
-    "custom": "",
+    "custom": "Навык знізіўся.",
     "en": "skill decreased",
     "ru": "Навык снизился.",
     "bel": "Навык знізіўся.",
@@ -5113,7 +5113,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSkillIncreased",
-    "custom": "",
+    "custom": "Навык павышаны.",
     "en": "skill increased",
     "ru": "Навык повышен.",
     "bel": "Навык павышаны.",
@@ -5121,7 +5121,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSkillLevel",
-    "custom": "",
+    "custom": "Узровень:",
     "en": "Level:",
     "ru": "Уровень:",
     "bel": "Узровень:",
@@ -5129,7 +5129,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSkillLevelTooLow",
-    "custom": "",
+    "custom": "Вашага ўзроўню навыку недастаткова для стварэння гэтага заклінання.",
     "en": "Your skill level is not high enough to create this spell.",
     "ru": "Вашего уровня навыка недостаточно для создания этого заклинания.",
     "bel": "Вашага ўзроўню навыку недастаткова для стварэння гэтага заклінання.",
@@ -5137,7 +5137,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSkillText",
-    "custom": "",
+    "custom": "Навык",
     "en": "Skill",
     "ru": "Навык",
     "bel": "Навык",
@@ -5145,7 +5145,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSkin",
-    "custom": "",
+    "custom": "Выгляд",
     "en": "Skin",
     "ru": "Облик",
     "bel": "Выгляд",
@@ -5153,7 +5153,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSkinflushed",
-    "custom": "",
+    "custom": "Скура пачырванела/пабялела",
     "en": "Skin Flushed/Pale",
     "ru": "Кожа покраснела/побледнела",
     "bel": "Скура пачырванела/пабялела",
@@ -5161,7 +5161,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSkinshade",
-    "custom": "",
+    "custom": "Адценне скуры: Цёмны/Светлы",
     "en": "Skin Shade Dark/Light",
     "ru": "Оттенок кожи: Тёмный/Светлый",
     "bel": "Адценне скуры: Цёмны/Светлы",
@@ -5169,7 +5169,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSkintintorange",
-    "custom": "",
+    "custom": "Адценне скуры аранжавы/сіні",
     "en": "Skin Tint Orange/Blue",
     "ru": "Оттенок кожи оранжевый/синий",
     "bel": "Адценне скуры аранжавы/сіні",
@@ -5177,7 +5177,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSkintintpurple",
-    "custom": "",
+    "custom": "Адценне Скуркі Фіялетавы/Жоўты",
     "en": "Skin Tint Purple/Yellow",
     "ru": "Оттенок Кожи Фиолетовый/Желтый",
     "bel": "Адценне Скуркі Фіялетавы/Жоўты",
@@ -5185,7 +5185,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSlotsFull",
-    "custom": "",
+    "custom": "Вы ўжо зрабілі максімальную колькасць выбараў.",
     "en": "You have already made the maximum number of selections.",
     "ru": "Вы уже сделали максимальное количество выборов.",
     "bel": "Вы ўжо зрабілі максімальную колькасць выбараў.",
@@ -5193,7 +5193,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSmall",
-    "custom": "",
+    "custom": "Маленькі",
     "en": "Small",
     "ru": "Маленький",
     "bel": "Маленькі",
@@ -5201,7 +5201,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSort",
-    "custom": "",
+    "custom": "Сартаваць",
     "en": "Sort",
     "ru": "Сортировать",
     "bel": "Сартаваць",
@@ -5209,7 +5209,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSoulCaptured",
-    "custom": "",
+    "custom": "Вы захапілі душу!",
     "en": "You have captured a soul!",
     "ru": "Вы захватили душу!",
     "bel": "Вы захапілі душу!",
@@ -5217,7 +5217,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSoulGemTooSmall",
-    "custom": "",
+    "custom": "Няма такога Каменя Душ, які быў бы досыць вялікі, каб захапіць душу.",
     "en": "There is no Soul Gem large enough to capture the soul.",
     "ru": "Нет такого Камня Душ, который был бы достаточно велик, чтобы захватить душу.",
     "bel": "Няма такога Каменя Душ, які быў бы досыць вялікі, каб захапіць душу.",
@@ -5225,7 +5225,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSpecialization",
-    "custom": "",
+    "custom": "Вы атрымаеце +10 да ўсіх навыкаў спецыялізацыі. Гэтыя навыкі таксама будуць прапампоўвацца хутчэй.",
     "en": "You will gain +10 in all specialization skills. Those skills will also increase faster.",
     "ru": "Вы получите +10 ко всем навыкам специализации. Эти навыки также будут прокачиваться быстрее.",
     "bel": "Вы атрымаеце +10 да ўсіх навыкаў спецыялізацыі. Гэтыя навыкі таксама будуць прапампоўвацца хутчэй.",
@@ -5233,7 +5233,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSpeedDescription",
-    "custom": "",
+    "custom": "Патрэбна апісанне налады гульні.",
     "en": "Need a gamesetting description.",
     "ru": "Нужно описание сеттинга игры.",
     "bel": "Патрэбна апісанне сеттингу гульні.",
@@ -5241,7 +5241,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSpell",
-    "custom": "",
+    "custom": "Заклён",
     "en": "spell",
     "ru": "Заклинание",
     "bel": "Заклён",
@@ -5249,7 +5249,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSpellEffectiveness",
-    "custom": "",
+    "custom": "Эфектыўнасць заклёнаў",
     "en": "Spell effectiveness",
     "ru": "Эффективность заклинаний",
     "bel": "Эфектыўнасць заклёнаў",
@@ -5257,7 +5257,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSpellmakingRequire",
-    "custom": "",
+    "custom": "Патрабуецца",
     "en": "Requires",
     "ru": "Требуется",
     "bel": "Патрабуецца",
@@ -5265,7 +5265,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSpellmakingRequire2",
-    "custom": "",
+    "custom": "Навык валодання",
     "en": "skill of",
     "ru": "Навык владения",
     "bel": "Навык валодання",
@@ -5273,7 +5273,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSpellmakingSuccess",
-    "custom": "",
+    "custom": "Віншуем! Вы стварылі новы заклён.",
     "en": "Congratulations! You have created a new spell.",
     "ru": "Поздравляем! Вы создали новое заклинание.",
     "bel": "Віншуем! Вы стварылі новы заклён.",
@@ -5281,7 +5281,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sStaff",
-    "custom": "",
+    "custom": "Посах",
     "en": "Staff",
     "ru": "Персонал",
     "bel": "Посах",
@@ -5289,7 +5289,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sStartNewGame",
-    "custom": "",
+    "custom": "Пачаць новую гульню?",
     "en": "Start a new game?",
     "ru": "Начать новую игру?",
     "bel": "Пачаць новую гульню?",
@@ -5297,7 +5297,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSteal",
-    "custom": "",
+    "custom": "Скрасці",
     "en": "Steal",
     "ru": "Украсть",
     "bel": "Скрасці",
@@ -5305,7 +5305,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sStealHorse",
-    "custom": "",
+    "custom": "Вы хочаце скрасці гэтага каня?",
     "en": "Do you want to steal this horse?",
     "ru": "Ты хочешь украсть эту лошадь?",
     "bel": "Ты хочаш скрасці гэтага каня?",
@@ -5313,7 +5313,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sStealthDescription",
-    "custom": "",
+    "custom": "Патрэбна апісанне налады гульні.",
     "en": "Need a gamesetting description.",
     "ru": "Нужно описание сеттинга игры.",
     "bel": "Патрэбна апісанне сеттингу гульні.",
@@ -5321,7 +5321,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sStealthName",
-    "custom": "",
+    "custom": "Утоенность",
     "en": "Stealth",
     "ru": "Скрытность",
     "bel": "Утоенность",
@@ -5329,7 +5329,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sStrengthDescription",
-    "custom": "",
+    "custom": "Патрэбна апісанне гульнявога сусвету.",
     "en": "Need a gamesetting description.",
     "ru": "Нужно описание игровой вселенной.",
     "bel": "Патрэбна апісанне гульнявога сусвету.",
