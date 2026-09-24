@@ -6441,7 +6441,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_DLSSStreamlineReflexMode",
-    "custom": "",
+    "custom": "Змяншае затрымку ўводу за кошт невялікай страты частоты кадраў.",
     "en": "Reduces the input latency at a little cost of frame rate.",
     "ru": "Уменьшает input latency с небольшой потерей частоты кадров.",
     "bel": "Памяншае input latency з невялікай стратай частаты кадраў.",
@@ -6449,7 +6449,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_DialogueVolume",
-    "custom": "",
+    "custom": "Рэгулюе гучнасць дыялогаў і галасавых рэплік.",
     "en": "Adjusts the volume of dialogue and vocal barks.",
     "ru": "Регулирует громкость диалогов и голосовых реплик.",
     "bel": "Рэгулюе гучнасць дыялогаў і галасавых рэплік.",
@@ -6457,7 +6457,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_DifficultyLevel",
-    "custom": "",
+    "custom": "Адаптуе складанасць гульнявога працэсу.",
     "en": "Adapts the gameplay difficulty.",
     "ru": "Адаптирует сложность игрового процесса.",
     "bel": "Адаптуе складанасць гульнявога працэсу.",
@@ -6465,7 +6465,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_DisplayResolution",
-    "custom": "",
+    "custom": "Усталёўвае разрозненне экрана. <lf>Больш нізкія налады павышаюць прадукцыйнасць GPU.",
     "en": "Sets the display resolution. <lf>A lower setting improves GPU performance.",
     "ru": "Устанавливает разрешение экрана. <lf>Более низкие настройки повышают производительность GPU.",
     "bel": "Усталёўвае разрозненне экрана. <lf>Больш нізкія налады павышаюць прадукцыйнасць GPU.",
@@ -6473,7 +6473,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_EffectsQuality",
-    "custom": "",
+    "custom": "Наладжвае ўзровень якасці эфектаў.",
     "en": "Adjusts the quality level of effects.",
     "ru": "Настраивает уровень качества эффектов.",
     "bel": "Наладжвае ўзровень якасці эфектаў.",
@@ -6481,7 +6481,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_EquipmentAndSpellsVisibility",
-    "custom": "",
+    "custom": "Пераключае бачнасць абразкоў зброі і заклінанняў на HUD.",
     "en": "Toggles the visibility of equiped weapons and spell icons on the HUD.",
     "ru": "Переключает видимость надетых оружий и иконок заклинаний на HUD.",
     "bel": "Пераключае бачнасць надзетых зброяў і абразкоў заклінанняў на HUD.",
@@ -6489,7 +6489,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_FOV1stPerson",
-    "custom": "",
+    "custom": "Наладжвае поле зроку камеры ад першай асобы.",
     "en": "Adjusts the field of view for the first-person camera.",
     "ru": "Настраивает поле зрения камеры от первого лица.",
     "bel": "Наладжвае поле зроку камеры ад першай асобы.",
@@ -6497,7 +6497,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_FOV3rdPerson",
-    "custom": "",
+    "custom": "Наладжвае вугал агляду камеры ад трэцяй асобы.",
     "en": "Adjusts the field of view for the third-person camera.",
     "ru": "Настраивает угол обзора камеры от третьего лица.",
     "bel": "Наладжвае вугал агляду камеры ад трэцяй асобы.",
@@ -6505,7 +6505,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_FSR3FrameGeneration",
-    "custom": "",
+    "custom": "Уключае AI-генерацыю цэлых кадраў для павелічэння частаты кадраў.",
     "en": "Enables AI generation of entire frames to increase frame rate.",
     "ru": "Включает AI-генерацию целых кадров для увеличения частоты кадров.",
     "bel": "Уключае AI-генерацыю цэлых кадраў для павелічэння частаты кадраў.",
@@ -6513,7 +6513,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_FSR3Mode",
-    "custom": "",
+    "custom": "Рэгулюе базавае разрозненне рэндэрынгу перад павышэннем разрознення ІІ, каб аддаць перавагу якасці малюнка або частаце кадраў. Больш нізкія значэнні могуць значна павысіць FPS.",
     "en": "Adjusts base render resolution before AI upscaling to favor image quality or framerate. Lower values can significantly boost frame rates.",
     "ru": "Регулирует базовое разрешение рендеринга перед повышением разрешения ИИ, чтобы отдать предпочтение качеству изображения или частоте кадров. Более низкие значения могут значительно повысить FPS.",
     "bel": "Рэгулюе базавае разрозненне рэндэрынгу перад павышэннем разрознення ІІ, каб аддаць перавагу якасці малюнка або частаце кадраў. Больш нізкія значэнні могуць значна павысіць FPS.",
@@ -6521,7 +6521,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_FSR3Sharpness",
-    "custom": "",
+    "custom": "Наладжвае выразнасць маштабаванага кадра.",
     "en": "Adjusts the sharpness of the upscaled frame.",
     "ru": "Настраивает резкость масштабированного кадра.",
     "bel": "Наладжвае выразнасць маштабаванага кадра.",
@@ -6529,7 +6529,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_FoliageQuality",
-    "custom": "",
+    "custom": "Рэгулюе ўзровень якасці лістоты.",
     "en": "Adjusts the quality level of foliage.",
     "ru": "Регулирует уровень качества листвы.",
     "bel": "Рэгулюе ўзровень якасці лістоты.",
@@ -6537,7 +6537,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_FootstepVolume",
-    "custom": "",
+    "custom": "Рэгулюе гучнасць крокаў персанажа.",
     "en": "Adjusts the volume of character footsteps.",
     "ru": "Регулирует громкость шагов персонажа.",
     "bel": "Рэгулюе гучнасць крокаў персанажа.",
@@ -6545,7 +6545,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_FrameRateLimit",
-    "custom": "",
+    "custom": "Усталёўвае абмежаванне частаты кадраў для паляпшэння стабільнасці і раўнамернасці змены кадраў. <lf><lf>Пры значэнні \"Без абмежаванняў\" будзе генерыравацца столькі кадраў, колькі дазваляе ваша абсталяванне.",
     "en": "Sets a limit to frame rate in order to improve frame pacing and stability. <lf><lf>Uncapped will generate as many frames as your hardware is capable of.",
     "ru": "Устанавливает ограничение частоты кадров для улучшения стабильности и равномерности смены кадров. <lf><lf>При значении Uncapped будет генерироваться столько кадров, сколько позволяет ваше оборудование.",
     "bel": "Усталёўвае абмежаванне частаты кадраў для паляпшэння стабільнасці і раўнамернасці змены кадраў. <lf><lf>Пры значэнні Uncapped будзе генерыравацца столькі кадраў, колькі дазваляе ваша абсталяванне.",
@@ -6553,7 +6553,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_GlobalIlluminationQuality",
-    "custom": "",
+    "custom": "Наладзьце ўзровень якасці глабальнага асвятлення.",
     "en": "Adjust the quality level of global illumination.",
     "ru": "Настройте уровень качества глобального освещения.",
     "bel": "Наладзьце ўзровень якасці глабальнага асвятлення.",
@@ -6561,7 +6561,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_HDR",
-    "custom": "",
+    "custom": "Уключае або выключае высокі дынамічны дыяпазон (HDR). Даступна толькі ў поўнаэкранным рэжыме.",
     "en": "Enables or disables High Dynamic Range (HDR). Only available in Fullscreen mode.",
     "ru": "Включает или отключает расширенный динамический диапазон (HDR). Доступно только в полноэкранном режиме.",
     "bel": "Уключае або выключае пашыраны дынамічны дыяпазон (HDR). Даступна толькі ў поўнаэкранным рэжыме.",
@@ -6569,7 +6569,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_HDRBlack Points",
-    "custom": "",
+    "custom": "Наладзьце базавую яркасць чорных паверхняў, калі ўключаны HDR.",
     "en": "Adjust the base luminance of black surfaces when High Dynamic Range is enabled.",
     "ru": "Настройте базовую яркость черных поверхностей, когда включен HDR.",
     "bel": "Наладзьце базавую яркасць чорных паверхняў, калі ўключаны HDR.",
@@ -6577,7 +6577,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_HDRBlackPoints",
-    "custom": "",
+    "custom": "Адрэгулюйце базавую яркасць чорных паверхняў, калі ўключаны HDR.",
     "en": "Adjust the base luminance of black surfaces when High Dynamic Range is enabled.",
     "ru": "Настроить базовую яркость чёрных поверхностей при включённом High Dynamic Range.",
     "bel": "Наладзіць базавую яркасць чорных паверхняў пры ўключаным High Dynamic Range.",
@@ -6585,7 +6585,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_HDRBrightness",
-    "custom": "",
+    "custom": "Адрэгулюйце яркасць, якая ствараецца гульнёй, калі ўключаны HDR.",
     "en": "Adjust the luminance produced by the game when High Dynamic Range is enabled.",
     "ru": "Настройте яркость, производимую игрой, когда включен режим расширенного динамического диапазона (High Dynamic Range).",
     "bel": "Наладзьце яркасць, якую вырабляе гульня, калі ўключаны рэжым пашыранага дынамічнага дыяпазону (High Dynamic Range).",
@@ -6593,7 +6593,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_HDRUIBrightness",
-    "custom": "",
+    "custom": "Адрэгулюйце яркасць карыстацкага інтэрфейсу, калі ўключаны HDR.",
     "en": "Adjust the luminance of the UI when High Dynamic Range is enabled.",
     "ru": "Настройте яркость UI при включённом High Dynamic Range.",
     "bel": "Наладзьце яркасць UI пры ўключаным High Dynamic Range.",
@@ -6601,7 +6601,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_HDRWhite Points",
-    "custom": "",
+    "custom": "Адрэгулюйце базавую яркасць белых паверхняў, калі ўключаны HDR.",
     "en": "Adjust the base luminance of white surfaces when High Dynamic Range is enabled.",
     "ru": "Отрегулируйте базовую яркость белых поверхностей при включенном High Dynamic Range.",
     "bel": "Адрэгулюйце базавую яркасць белых паверхняў пры ўключаным High Dynamic Range.",
@@ -6609,7 +6609,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_HDRWhitePoints",
-    "custom": "",
+    "custom": "Адрэгулюйце базавую яркасць белых паверхняў, калі ўключаны HDR.",
     "en": "Adjust the base luminance of white surfaces when High Dynamic Range is enabled.",
     "ru": "Отрегулируйте базовую яркость белых поверхностей, когда включен High Dynamic Range.",
     "bel": "Адрэгулюйце базавую яркасць белых паверхняў, калі ўключаны High Dynamic Range.",
@@ -6617,7 +6617,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_HUDCompassMarkerSize",
-    "custom": "",
+    "custom": "Наладжвае памер значкоў маркераў унутры компаса HUD.",
     "en": "Adjusts the size of marker icons within the HUD compass.",
     "ru": "Изменяет размер значков маркеров на компасе в HUD.",
     "bel": "Змяняе памер значкоў маркераў на компасе ў HUD.",
@@ -6625,7 +6625,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_HUDOpacity",
-    "custom": "",
+    "custom": "Наладжвае глабальную непразрыстасць HUD.",
     "en": "Adjusts the global opacity of the HUD.",
     "ru": "Настраивает общую прозрачность HUD.",
     "bel": "Наладжвае агульную празрыстасць HUD.",
@@ -6633,7 +6633,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_HairQuality",
-    "custom": "",
+    "custom": "Наладжвае якасць аб'ектаў валасоў і воўны.",
     "en": "Adjusts the quality of hair and fur objects.",
     "ru": "Настраивает качество объектов волос и шерсти.",
     "bel": "Наладжвае якасць аб'ектаў валасоў і воўны.",
@@ -6641,7 +6641,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_HighlightPlayerWhenObscured",
-    "custom": "",
+    "custom": "Дадае падсвятленне вакол гульца, калі ён не бачны (толькі выгляд ад 3-й асобы).",
     "en": "Adds a highlight around the player when obscured from vision (3rd-person camera only).",
     "ru": "Добавляет подсветку вокруг игрока, когда он не виден (только вид от 3-го лица).",
     "bel": "Дадае падсвятленне вакол гульца, калі ён не бачны (толькі выгляд ад 3-й асобы).",
@@ -6649,7 +6649,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_InterfaceVolume",
-    "custom": "",
+    "custom": "Рэгулюе гучнасць гукаў UI.",
     "en": "Adjusts the volume of User Interface sounds.",
     "ru": "Регулирует громкость звуков UI.",
     "bel": "Рэгулюе гучнасць гукаў UI.",
@@ -6657,7 +6657,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_InvertLookXAxisController",
-    "custom": "",
+    "custom": "Інвертаваць рух кантролера па гарызантальнай восі.",
     "en": "Inverts controller movement on horizontal axis.",
     "ru": "Инвертировать движение контроллера по горизонтальной оси.",
     "bel": "Інвертаваць рух кантролера па гарызантальнай восі.",
@@ -6665,7 +6665,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_InvertLookXAxisPC",
-    "custom": "",
+    "custom": "Інвертуе рух мышы па гарызантальнай восі.",
     "en": "Inverts mouse movement on the horizontal axis.",
     "ru": "Инвертирует движение мыши по горизонтальной оси.",
     "bel": "Інвертуе рух мышы па гарызантальнай восі.",
@@ -6673,7 +6673,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_InvertLookYAxisController",
-    "custom": "",
+    "custom": "Інвертуе кіраванне кантролерам па вертыкальнай восі.",
     "en": "Inverts controller movement on vertical axis.",
     "ru": "Инвертирует управление контроллером по вертикальной оси.",
     "bel": "Інвертуе кіраванне кантролерам па вертыкальнай восі.",
@@ -6681,7 +6681,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_InvertLookYAxisPC",
-    "custom": "",
+    "custom": "Інвертаваць рух мышы па вертыкальнай восі.",
     "en": "Inverts mouse movement on the vertical axis.",
     "ru": "Инвертировать движение мыши по вертикальной оси.",
     "bel": "Інвертаваць рух мышы па вертыкальнай восі.",
@@ -6689,7 +6689,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_ItemRotationInputType",
-    "custom": "",
+    "custom": "У рэжыме ўтрымання, рэжым кручэння папярэдняга прагляду прадмета актывуецца ўводам утрымання. У пераключальным рэжыме ён актывуецца адным націскам, і прадмет круціцца сам па сабе.",
     "en": "When on hold, the item preview rotation mode is triggered by an hold input. When on toggle, it is triggered with a single press and the item rotates by itself.",
     "ru": "В режиме удержания, режим вращения предварительного просмотра предмета активируется вводом удержания. В переключаемом режиме он активируется одним нажатием, и предмет вращается сам по себе.",
     "bel": "У рэжыме ўтрымання, рэжым кручэння папярэдняга прагляду прадмета актывуецца ўводам утрымання. У пераключальным рэжыме ён актывуецца адным націскам, і прадмет круціцца сам па сабе.",
@@ -6697,7 +6697,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_LevelUpVisibility",
-    "custom": "",
+    "custom": "Пераключае бачнасць значка і паведамлення аб павышэнні ўзроўню ў HUD.",
     "en": "Toggles the visibility of the level up icon and message in the HUD.",
     "ru": "Переключает видимость значка и сообщения повышения уровня в HUD.",
     "bel": "Пераключае бачнасць значка і паведамлення павышэння ўзроўню ў HUD.",
@@ -6705,7 +6705,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_LocationVisibility",
-    "custom": "",
+    "custom": "Пераключае бачнасць паведамлення аб месцазнаходжанні па прыбыцці ў HUD.",
     "en": "Toggles the visibility of the location message, on arrival in the HUD.",
     "ru": "Переключает видимость сообщения о местоположении в HUD по прибытии.",
     "bel": "Пераключае бачнасць паведамлення аб месцазнаходжанні ў HUD па прыбыцці.",
@@ -6713,7 +6713,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_LumenHardwareRT",
-    "custom": "",
+    "custom": "Выкарыстоўвае апаратную трасіроўку прамянёў для функцый Lumen, калі гэта падтрымліваецца відэакартай. Калі ваша відэакарта не падтрымліваецца, гульня пераключыцца на праграмную трасіроўку прамянёў.",
     "en": "Uses hardware ray tracing for Lumen features when supported by the graphics card. Will default to software ray tracing when graphics card is not supported.",
     "ru": "Использует аппаратную трассировку лучей для функций Lumen, когда это поддерживается видеокартой. <lf><lf>Если ваша видеокарта не поддерживается, игра переключится на программную трассировку лучей.",
     "bel": "Выкарыстоўвае апаратную трасіроўку прамянёў для функцый Lumen, калі гэта падтрымліваецца відэакартай. <lf><lf>Калі ваша відэакарта не падтрымліваецца, гульня пераключыцца на праграмную трасіроўку прамянёў.",
@@ -6721,7 +6721,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_LumenHardwareRTLightingMode",
-    "custom": "",
+    "custom": "Рэгулюе, як асвятляюцца прамяні адлюстравання Lumen пры выкарыстанні апаратнай трасіроўкі прамянёў.<lf>Больш высокія значэнні павялічваюць візуальную дакладнасць за кошт частаты кадраў.",
     "en": "Controls how Lumen Reflection rays are lit when using Hardware Ray Tracing.<lf>Higher values increase visual fidelity at the cost of frame rate.",
     "ru": "Регулирует, как освещаются лучи отражения Lumen при использовании аппаратной трассировки лучей. Более высокие значения увеличивают визуальную точность за счёт частоты кадров.",
     "bel": "Рэгулюе, як асвятляюцца прамяні адлюстравання Lumen пры выкарыстанні апаратнай трасіроўкі прамянёў. Больш высокія значэнні павялічваюць візуальную дакладнасць за кошт частаты кадраў.",
@@ -6729,7 +6729,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_LumenSoftwareRTQuality",
-    "custom": "",
+    "custom": "Усталёўвае якасць для праграмных вылічэнняў Lumen.<lf>Больш нізкія налады павышаюць частату кадраў.",
     "en": "Sets the quality for Lumen software calculation.<lf>Lower setting increases frame rate.",
     "ru": "Устанавливает качество для программных вычислений Lumen.<lf>Более низкие настройки повышают частоту кадров.",
     "bel": "Усталёўвае якасць для праграмных вылічэнняў Lumen.<lf>Больш нізкія налады павышаюць частату кадраў.",
@@ -6737,7 +6737,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_MapMarkerSize",
-    "custom": "",
+    "custom": "Рэгулюе памер абразкоў маркераў на карце ў меню.",
     "en": "Adjusts the size of marker icons in the map menu.",
     "ru": "Регулирует размер иконок маркеров на карте в меню.",
     "bel": "Рэгулюе памер абразкоў маркераў на карце ў меню.",
@@ -6745,7 +6745,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_MasterVolume",
-    "custom": "",
+    "custom": "Рэгулюе агульную гучнасць гульні.",
     "en": "Adjusts the global game volume.",
     "ru": "Регулирует общую громкость игры.",
     "bel": "Рэгулюе агульную гучнасць гульні.",
@@ -6753,7 +6753,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_MotionBlur",
-    "custom": "",
+    "custom": "Пераключае размыццё ў руху.<lf>Адключанае размыццё ў руху дазваляе лягчэй бачыць рухомыя аб'екты, у той час як уключэнне робіць іх рух больш рэалістычным.",
     "en": "Toggles Motion Blur.<lf>Disabled motion blur makes it easier to see moving objects, while enabling it makes their movement appear more realistic.",
     "ru": "Переключает Motion Blur.<lf>Отключение Motion Blur облегчает наблюдение за движущимися объектами, а его включение делает их движение более реалистичным.",
     "bel": "Пераключае Motion Blur.<lf>Адключэнне Motion Blur палягчае назіранне за аб'ектамі, якія рухаюцца, а яго ўключэнне робіць іх рух больш рэалістычным.",
@@ -6761,7 +6761,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_MusicVolume",
-    "custom": "",
+    "custom": "Рэгулюе гучнасць фонавай музыкі.",
     "en": "Adjusts the volume of background music.",
     "ru": "Регулирует громкость фоновой музыки.",
     "bel": "Рэгулюе гучнасць фонавай музыкі.",
@@ -6769,7 +6769,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_NotificationsVisibility",
-    "custom": "",
+    "custom": "Пераключае бачнасць унутрыгульнёвых апавяшчэнняў.",
     "en": "Toggles the visibility of in-game notifications.",
     "ru": "Переключает видимость внутриигровых уведомлений.",
     "bel": "Пераключае бачнасць унутрыгульнёвых апавяшчэнняў.",
@@ -6777,7 +6777,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_OxygenBarVisibility",
-    "custom": "",
+    "custom": "Пераключае бачнасць палоскі кіслароду на HUD.",
     "en": "Toggles the visibility of the oxygen bar on the HUD.",
     "ru": "Переключает видимость шкалы кислорода на HUD.",
     "bel": "Пераключае бачнасць шкалы кіслароду на HUD.",
@@ -6785,7 +6785,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_PerformanceQuality",
-    "custom": "",
+    "custom": "Пераключае паміж адаптацыяй гульні на карысць прадукцыйнасці ці візуальнай дакладнасці.",
     "en": "Toggles between adapting the game to favor performance or visual fidelity.",
     "ru": "Переключает между адаптацией игры в пользу производительности или визуальной точности.",
     "bel": "Пераключае паміж адаптацыяй гульні на карысць прадукцыйнасці ці візуальнай дакладнасці.",
@@ -6793,7 +6793,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_PostProcessQuality",
-    "custom": "",
+    "custom": "Рэгулюе ўзровень якасці візуальных эфектаў, на якія ўплываюць эфекты постапрацоўкі.",
     "en": "Adjusts the quality level of visuals that are affected by post-processing effects.",
     "ru": "Регулирует уровень качества визуальных эффектов, на которые влияют эффекты постобработки.",
     "bel": "Рэгулюе ўзровень якасці візуальных эфектаў, на якія ўплываюць эфекты постапрацоўкі.",
@@ -6801,7 +6801,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_QualityLevel",
-    "custom": "",
+    "custom": "Наладзьце адразу некалькі параметраў якасці.<lf>Больш высокія значэнні павышаюць візуальную дакладнасць за кошт частаты кадраў.",
     "en": "Adjust multiple quality settings at once.<lf>Higher values increase visual fidelity at the cost of frame rate.",
     "ru": "Настройте сразу несколько параметров качества.<lf>Более высокие значения повышают визуальную точность за счет частоты кадров.",
     "bel": "Наладзьце адразу некалькі параметраў якасці.<lf>Больш высокія значэнні павышаюць візуальную дакладнасць за кошт частаты кадраў.",
@@ -6809,7 +6809,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_RecompileShaders",
-    "custom": "",
+    "custom": "Прымусова запускае перакампіляцыю шэйдараў. Выкарыстоўвайце, калі падазраяце, што пашкоджаныя шэйдары выклікаюць прытармажванні. Час перакампіляцыі шэйдараў залежыць ад магутнасці абсталявання.",
     "en": "Forces a recompilation of shaders. Use if you suspect corrupted shaders causing hitches. Shader recompilation time is dependent on hardware strength.",
     "ru": "Принудительно запускает перекомпиляцию шейдеров. Используйте, если подозреваете, что поврежденные шейдеры вызывают подтормаживания. Время перекомпиляции шейдеров зависит от мощности оборудования.",
     "bel": "Прымусова запускае перакампіляцыю шэйдараў. Выкарыстоўвайце, калі падазраяце, што пашкоджаныя шэйдары выклікаюць прытармажванні. Час перакампіляцыі шэйдараў залежыць ад магутнасці абсталявання.",
@@ -6817,7 +6817,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_ReflectionQuality",
-    "custom": "",
+    "custom": "Рэгулюе ўзровень якасці адлюстраванняў.",
     "en": "Adjusts the quality level of reflections.",
     "ru": "Регулирует уровень качества отражений.",
     "bel": "Рэгулюе ўзровень якасці адлюстраванняў.",
@@ -6825,7 +6825,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_ResolutionScale",
-    "custom": "",
+    "custom": "Дазваляе гульні адмалёўваць кадр з ніжэйшым базавым разрозненнем падчас высокай нагрузкі, каб збалансаваць прадукцыйнасць і якасць выявы.",
     "en": "Allows the game to render a lower base resolution frame during times of high load to balance between performance and image quality.",
     "ru": "Позволяет игре отрисовывать кадр с более низким базовым разрешением во время высокой нагрузки, чтобы сбалансировать производительность и качество изображения.",
     "bel": "Дазваляе гульні адмалёўваць кадр з ніжэйшым базавым разрозненнем падчас высокай нагрузкі, каб збалансаваць прадукцыйнасць і якасць выявы.",
@@ -6833,7 +6833,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_SSR",
-    "custom": "",
+    "custom": "Уключае або адключае адлюстраванні ў экраннай прасторы.",
     "en": "Toggles screen space reflections on or off.",
     "ru": "Включает или отключает отражения в экранном пространстве.",
     "bel": "Уключае або адключае адлюстраванні ў экраннай прасторы.",
@@ -6841,7 +6841,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_SelectMonitor",
-    "custom": "",
+    "custom": "Усталёўвае манітор, які выкарыстоўваецца ў поўнаэкранным рэжыме Windows.",
     "en": "Sets the monitor used in Windows fullscreen mode.",
     "ru": "Устанавливает монитор, используемый в полноэкранном режиме Windows.",
     "bel": "Усталёўвае манітор, які выкарыстоўваецца ў поўнаэкранным рэжыме Windows.",
@@ -6849,7 +6849,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_ShadowQuality",
-    "custom": "",
+    "custom": "Рэгулюе ўзровень якасці ценяў. Больш высокія налады патрабуюць больш вылічальнай магутнасці графікі і відэапамяці.",
     "en": "Adjusts the quality level of shadows. A higher setting requires more graphics processing power and video memory.",
     "ru": "Регулирует уровень качества теней. Более высокие настройки требуют больше вычислительной мощности графики и видеопамяти.",
     "bel": "Рэгулюе ўзровень якасці ценяў. Больш высокія налады патрабуюць больш вылічальнай магутнасці графікі і відэапамяці.",
@@ -6857,7 +6857,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_ShowFPS",
-    "custom": "",
+    "custom": "Пераключае бачнасць лічыльніка кадраў у секунду на экране.",
     "en": "Toggles the visibility of frames per second counter on screen.",
     "ru": "Переключает видимость счетчика кадров в секунду на экране. (или: Включает/выключает отображение счетчика FPS на экране.)",
     "bel": "Пераключае бачнасць лічыльніка кадраў у секунду на экране.",
@@ -6865,7 +6865,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_ShowVRAM",
-    "custom": "",
+    "custom": "Пераключае бачнасць выкарыстання відэапамяці.",
     "en": "Toggles the visibility of video memory usage.",
     "ru": "Переключает видимость использования видеопамяти.",
     "bel": "Пераключае бачнасць выкарыстання відэапамяці.",
@@ -6873,7 +6873,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_SoundEffectsVolume",
-    "custom": "",
+    "custom": "Рэгулюе гучнасць гукавых эфектаў.",
     "en": "Adjusts the volume of sound effects.",
     "ru": "Регулирует громкость звуковых эффектов.",
     "bel": "Рэгулюе гучнасць гукавых эфектаў.",
@@ -6881,7 +6881,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_SubtitleBackgroundColor",
-    "custom": "",
+    "custom": "Рэгулюе колер фону субтытраў і дыялогаў.",
     "en": "Adjusts the color of subtitle and dialogue backgrounds.",
     "ru": "Регулирует цвет фона субтитров и диалогов.",
     "bel": "Рэгулюе колер фону субтытраў і дыялогаў.",
@@ -6889,7 +6889,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_SubtitleBackgroundOpacity",
-    "custom": "",
+    "custom": "Рэгулюе празрыстасць фону субтытраў і дыялогаў.",
     "en": "Adjusts the opacity of subtitle and dialogue backgrounds.",
     "ru": "Регулирует прозрачность фона субтитров и диалогов.",
     "bel": "Рэгулюе празрыстасць фону субтытраў і дыялогаў.",
@@ -6897,7 +6897,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_SubtitleTextCase",
-    "custom": "",
+    "custom": "Наладжвае стыль тэксту субтытраў і дыялогаў (толькі для лацінскіх моў).",
     "en": "Adjusts the text style of subtitle and dialogue text (latin languages only).",
     "ru": "Настраивает стиль текста субтитров и диалогов (только для латинских языков).",
     "bel": "Наладжвае стыль тэксту субтытраў і дыялогаў (толькі для лацінскіх моў).",
@@ -6905,7 +6905,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_SubtitleTextColor",
-    "custom": "",
+    "custom": "Наладжвае колер тэксту субтытраў і дыялогаў.",
     "en": "Adjusts the color of subtitle and dialogue text.",
     "ru": "Настраивает цвет текста субтитров и диалогов.",
     "bel": "Наладжвае колер тэксту субтытраў і дыялогаў.",
@@ -6913,7 +6913,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_SubtitleTextOutline",
-    "custom": "",
+    "custom": "Рэгулюе контур тэксту субтытраў і дыялогаў.",
     "en": "Adjusts the outline of subtitle and dialogue text.",
     "ru": "Регулирует контур текста субтитров и диалогов.",
     "bel": "Рэгулюе контур тэксту субтытраў і дыялогаў.",
@@ -6921,7 +6921,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_SubtitleTextSize",
-    "custom": "",
+    "custom": "Змяняе памер тэксту субтытраў і дыялогаў.",
     "en": "Adjusts the size of subtitle and dialogue text.",
     "ru": "Изменяет размер текста субтитров и диалогов.",
     "bel": "Змяняе памер тэксту субтытраў і дыялогаў.",
@@ -6929,7 +6929,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_SubtitleVisibility",
-    "custom": "",
+    "custom": "Уключае і выключае бачнасць агульных субтытраў і тэксту дыялогаў.",
     "en": "Toggles the visibility of general subtitles and dialogue texts.",
     "ru": "Включает и выключает видимость общих субтитров и текста диалогов.",
     "bel": "Уключае і выключае бачнасць агульных субтытраў і тэксту дыялогаў.",
@@ -6937,7 +6937,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_TextLanguage",
-    "custom": "",
+    "custom": "Змяняе мову тэксту гульні.",
     "en": "Changes the game text language.",
     "ru": "Изменяет язык текста игры.",
     "bel": "Змяняе мову тэксту гульні.",
@@ -6945,7 +6945,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_TextSize",
-    "custom": "",
+    "custom": "Змяняе памер шрыфтоў меню.",
     "en": "Adjusts the size of menu fonts.",
     "ru": "Изменяет размер шрифтов меню.",
     "bel": "Змяняе памер шрыфтоў меню.",
@@ -6953,7 +6953,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_TextureQuality",
-    "custom": "",
+    "custom": "Наладжвае ўзровень якасці тэкстур.<lf>Больш высокая якасць спажывае больш памяці і вылічальнай магутнасці.",
     "en": "Adjusts the quality level of textures.<lf>Higher quality will consume more memory and processing power.",
     "ru": "Настраивает уровень качества текстур.<lf>Более высокое качество потребляет больше памяти и вычислительной мощности.",
     "bel": "Наладжвае ўзровень якасці тэкстур.<lf>Больш высокая якасць спажывае больш памяці і вылічальнай магутнасці.",
@@ -6961,7 +6961,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_ToggleAdaptiveTriggers",
-    "custom": "",
+    "custom": "Уключае або адключае супраціўленне на <img id=\"Icon_L2\" width=\"32\" height=\"32\"/> / <img id=\"Icon_R2\" width=\"32\" height=\"32\"/> падчас бою.<lf><lf>Параметр «Адаптыўныя трыгеры» вызначаецца сістэмным ПЗ. Вы можаце абнавіць свае налады, перайшоўшы ў: Налады > Спецыяльныя магчымасці > Кантролеры > Інтэнсіўнасць эфекту трыгера.",
     "en": "Enables or disables resistance on <img id=\"Icon_L2\" width=\"32\" height=\"32\"/> / <img id=\"Icon_R2\" width=\"32\" height=\"32\"/> during combat.<lf><lf>The Adaptive Triggers setting is determined by your system software. You can update your settings by going to: Settings > Accessibility > Controllers > Trigger Effect Intensity.",
     "ru": "Включает или отключает сопротивление на <img id=\"Icon_L2\" width=\"32\" height=\"32\"/> / <img id=\"Icon_R2\" width=\"32\" height=\"32\"/> во время боя.<lf><lf>Параметр «Адаптивные триггеры» определяется системным ПО. Вы можете обновить свои настройки, перейдя в: Настройки > Специальные возможности > Контроллеры > Интенсивность эффекта триггера.",
     "bel": "Уключае або адключае супраціўленне на <img id=\"Icon_L2\" width=\"32\" height=\"32\"/> / <img id=\"Icon_R2\" width=\"32\" height=\"32\"/> падчас бою.<lf><lf>Параметр «Адаптыўныя трыгеры» вызначаецца сістэмным ПЗ. Вы можаце абнавіць свае налады, перайшоўшы ў: Налады > Спецыяльныя магчымасці > Кантролеры > Інтэнсіўнасць эфекту трыгера.",
@@ -6969,7 +6969,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_ToggleVibrations",
-    "custom": "",
+    "custom": "Уключае або адключае вібрацыю на кантролеры.",
     "en": "Enables or disables Vibration on the Controller.",
     "ru": "Включает или отключает вибрацию на контроллере.",
     "bel": "Уключае або адключае вібрацыю на кантролеры.",
@@ -6977,7 +6977,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_ToggleVibrationsPS5",
-    "custom": "",
+    "custom": "Уключае або выключае вібрацыю на бесправадным кантролеры DualSense®.",
     "en": "Enables or disables Vibration on the DualSense® wireless controller.",
     "ru": "Включает или выключает вибрацию на беспроводном контроллере DualSense®.",
     "bel": "Уключае або адключае вібрацыю на бесправадным кантролеры DualSense®.",
@@ -6985,7 +6985,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_ToggleWheelActivationInput",
-    "custom": "",
+    "custom": "Ці выкарыстоўвае націск і ўтрыманне для адлюстравання кароткага кручэння, ці выкарыстоўвае націск для пераключэння.",
     "en": "Either uses press & hold to display the shortwheel or uses a press to toggle.",
     "ru": "Либо использует нажатие и удержание для отображения shortwheel, либо использует нажатие для переключения.",
     "bel": "Альбо выкарыстоўвае націсканне і ўтрыманне для адлюстравання shortwheel, альбо выкарыстоўвае націсканне для пераключэння.",
@@ -6993,7 +6993,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_TutorialMode",
-    "custom": "",
+    "custom": "Павялічвае колькасць туторыялаў.",
     "en": "Increases the amount of tutorials.",
     "ru": "Увеличивает количество туториалов.",
     "bel": "Павялічвае колькасць туториалаў.",
@@ -7001,7 +7001,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_UltrawideConstrainRatio",
-    "custom": "",
+    "custom": "Наладжвае каэфіцыент абмежавання інтэрфейсу HUD для ультрашырокіх дысплеяў.",
     "en": "Adjusts the UI constrain ratio of the HUD for ultrawide displays.",
     "ru": "Изменяет коэффициент ограничения UI для HUD на ультрашироких дисплеях.",
     "bel": "Змяняе каэфіцыент абмежавання UI для HUD на ультрашырокіх дысплеях.",
@@ -7009,7 +7009,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_UpscalingTechnique",
-    "custom": "",
+    "custom": "Усталёўвае тэхналогію павышэння раздзялення.<lf><lf>Для DLSS патрабуецца відэакарта GeForce RTX. Для DLSS Frame Generation патрабуецца відэакарта GeForce RTX 40-й серыі і ўключанае апаратнае паскарэнне планавання GPU ў АС.<lf><lf>FSR і XeSS даступныя для ўсіх пастаўшчыкоў GPU.",
     "en": "Sets the upscaling technology.<lf><lf>DLSS requires a GeForce RTX GPU. DLSS Frame Generation requires a GeForce RTX 40 series GPU and Hardware GPU Acceleration Scheduling enabled in OS. <lf><lf>FSR and XeSS are available for all GPU vendors.",
     "ru": "Устанавливает технологию масштабирования.<lf><lf>Для DLSS требуется видеокарта GeForce RTX. Для DLSS Frame Generation требуется видеокарта GeForce RTX 40-й серии и включенное аппаратное ускорение планирования GPU в ОС.<lf><lf>FSR и XeSS доступны для всех поставщиков GPU.",
     "bel": "Усталёўвае тэхналогію маштабавання.<lf><lf>Для DLSS патрабуецца відэакарта GeForce RTX. Для DLSS Frame Generation патрабуецца відэакарта GeForce RTX 40-й серыі і ўключанае апаратнае паскарэнне планавання GPU ў АС.<lf><lf>FSR і XeSS даступныя для ўсіх пастаўшчыкоў GPU.",
@@ -7017,7 +7017,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_V-Sync",
-    "custom": "",
+    "custom": "Фіксуе частату кадраў на частаце абнаўлення манітора, каб паменшыць бачныя разрывы выявы.",
     "en": "Locks frame rate to monitor refresh rate to reduce visible screen tearing.",
     "ru": "Фиксирует частоту кадров на частоте обновления монитора, чтобы уменьшить видимые разрывы изображения.",
     "bel": "Фіксуе частату кадраў на частаце абнаўлення манітора, каб паменшыць бачныя разрывы выявы.",
@@ -7025,7 +7025,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_VibrationStrength",
-    "custom": "",
+    "custom": "Рэгулюе сілу вібрацыі.",
     "en": "Adjusts the Vibration Strength.",
     "ru": "Регулирует силу вибрации.",
     "bel": "Рэгулюе сілу вібрацыі.",
@@ -7033,7 +7033,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_VibrationStrengthPS5",
-    "custom": "",
+    "custom": "Рэгулюе сілу вібрацыі.",
     "en": "Adjusts the Vibration Strength.",
     "ru": "Регулирует силу вибрации.",
     "bel": "Рэгулюе сілу вібрацыі.",
@@ -7041,7 +7041,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_ViewDistanceQuality",
-    "custom": "",
+    "custom": "Вызначае, як далёка адлюстроўваюцца аддаленыя аб'екты і мясцовасць.<lf>Больш высокія налады паляпшаюць бачнасць, але ўплываюць на прадукцыйнасць.",
     "en": "Controls how far distant objects and terrain appear.<lf>Higher settings improve visibility but impact performance.",
     "ru": "Определяет, как далеко отображаются удалённые объекты и местность.<lf>Более высокие настройки улучшают видимость, но влияют на производительность.",
     "bel": "Вызначае, як далёка адлюстроўваюцца аддаленыя аб'екты і мясцовасць.<lf>Больш высокія налады паляпшаюць бачнасць, але ўплываюць на прадукцыйнасць.",
@@ -7049,7 +7049,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_VitalsVisibility",
-    "custom": "",
+    "custom": "Пераключае бачнасць палосак здароўя, маны і цягавітасці на HUD.",
     "en": "Toggles the visibility of the health, mana and stamina bars on the HUD.",
     "ru": "Переключает видимость полосок здоровья, маны и выносливости на HUD.",
     "bel": "Пераключае бачнасць палосак здароўя, маны і цягавітасці на HUD.",
@@ -7057,7 +7057,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_WindowMode",
-    "custom": "",
+    "custom": "Усталюйце для гульні поўнаэкранны, безрамкавы або аконны рэжым. <lf><lf>Заўвага: Разрозненне экрана можна змяніць у поўнаэкранным і аконным рэжымах. <lf>Опцыя \"Выбар манітора\" даступная толькі ў безрамкавым рэжыме.",
     "en": "Set the game to run in Fullscreen, Borderless or Windowed mode.<lf><lf>Note: Display Resolution can be modified in Fullscreen and Windowed modes. <lf>Select Monitor option is only available in Borderless mode.",
     "ru": "Установите для игры полноэкранный, безрамочный или оконный режим. <lf><lf>Примечание: Разрешение экрана можно изменить в полноэкранном и оконном режимах. <lf>Опция \"Выбор монитора\" доступна только в безрамочном режиме.",
     "bel": "Усталюйце для гульні поўнаэкранны, безрамкавы або аконны рэжым. <lf><lf>Заўвага: Разрозненне экрана можна змяніць у поўнаэкранным і аконным рэжымах. <lf>Опцыя \"Выбар манітора\" даступная толькі ў безрамкавым рэжыме.",
@@ -7065,7 +7065,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_XeSSMode",
-    "custom": "",
+    "custom": "Наладжвае базавае разрозненне рэндэрынгу перад AI-маштабаваннем на карысць якасці выявы або частаты кадраў.",
     "en": "Adjusts base render resolution before AI upscaling to favor image quality or frame rate.",
     "ru": "Настраивает базовое разрешение рендеринга перед AI-масштабированием в пользу качества изображения или частоты кадров.",
     "bel": "Наладжвае базавае разрозненне рэндэрынгу перад AI-маштабаваннем на карысць якасці выявы або частаты кадраў.",
@@ -7073,7 +7073,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Adept",
-    "custom": "",
+    "custom": "Адэпт",
     "en": "Adept",
     "ru": "Адепт",
     "bel": "Адэпт",
@@ -7081,7 +7081,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_All",
-    "custom": "",
+    "custom": "Усё.",
     "en": "All",
     "ru": "Все.",
     "bel": "Усё.",
@@ -7089,7 +7089,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_AllCaps",
-    "custom": "",
+    "custom": "Усе загалоўныя",
     "en": "All caps",
     "ru": "Все заглавные",
     "bel": "Усе загалоўныя",
@@ -7097,7 +7097,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Automatic",
-    "custom": "",
+    "custom": "Аўтаматычна",
     "en": "Automatic",
     "ru": "Автоматически",
     "bel": "Аўтаматычна",
@@ -7105,7 +7105,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Balanced",
-    "custom": "",
+    "custom": "Збалансаваны",
     "en": "Balanced",
     "ru": "Сбалансированный",
     "bel": "Збалансаваны",
@@ -7113,7 +7113,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Black",
-    "custom": "",
+    "custom": "Чорны",
     "en": "Black",
     "ru": "Чёрный",
     "bel": "Чорны",
@@ -7121,7 +7121,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Blue",
-    "custom": "",
+    "custom": "Сіні",
     "en": "Blue",
     "ru": "Синий",
     "bel": "Сіні",
@@ -7129,7 +7129,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Boost",
-    "custom": "",
+    "custom": "Паскарэнне",
     "en": "Boost",
     "ru": "Ускорение",
     "bel": "Паскарэнне",
@@ -7137,7 +7137,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Borderless",
-    "custom": "",
+    "custom": "Без межаў",
     "en": "Borderless",
     "ru": "Без границ",
     "bel": "Без межаў",
@@ -7145,7 +7145,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Close",
-    "custom": "",
+    "custom": "Зачыніць",
     "en": "Close",
     "ru": "Закрыть",
     "bel": "Зачыніць",
@@ -7153,7 +7153,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Custom",
-    "custom": "",
+    "custom": "Асаблівы",
     "en": "Custom",
     "ru": "Особый",
     "bel": "Асаблівы",
@@ -7161,7 +7161,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_DLAA",
-    "custom": "",
+    "custom": "DLAA",
     "en": "DLAA",
     "ru": "DLAA",
     "bel": "DLAA",
@@ -7169,7 +7169,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_DLSS",
-    "custom": "",
+    "custom": "DLSS",
     "en": "DLSS",
     "ru": "DLSS",
     "bel": "DLSS",
@@ -7177,7 +7177,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Default",
-    "custom": "",
+    "custom": "Па змаўчанні",
     "en": "Default",
     "ru": "По умолчанию",
     "bel": "Па змаўчанні",
@@ -7185,7 +7185,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Deuteranopia",
-    "custom": "",
+    "custom": "Дэйтэранапія",
     "en": "Deuteranopia",
     "ru": "Дейтеранопия",
     "bel": "Дэйтэранапія",
@@ -7193,7 +7193,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Disabled",
-    "custom": "",
+    "custom": "Адключана",
     "en": "Disabled",
     "ru": "Отключено",
     "bel": "Адключана",
@@ -7201,7 +7201,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Easy",
-    "custom": "",
+    "custom": "Падмайстар",
     "en": "Apprentice",
     "ru": "Подмастерье",
     "bel": "Падмайстар",
@@ -7209,7 +7209,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Enabled",
-    "custom": "",
+    "custom": "Уключана",
     "en": "Enabled",
     "ru": "Включено",
     "bel": "Уключана",
@@ -7217,7 +7217,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_Enabled+Boost",
-    "custom": "",
+    "custom": "Уключана + Паскарэнне",
     "en": "Enabled + Boost",
     "ru": "Включён + Ускорение",
     "bel": "Уключана + Паскарэнне",
@@ -7225,7 +7225,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_English",
-    "custom": "",
+    "custom": "Руская",
     "en": "English",
     "ru": "Русский",
     "bel": "Руская",
@@ -7233,7 +7233,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingOption_FSR",
-    "custom": "",
+    "custom": "FSR",
     "en": "FSR",
     "ru": "FSR",
     "bel": "FSR",
