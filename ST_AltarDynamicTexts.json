@@ -4833,7 +4833,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_ClothPart_Wrists",
-    "custom": "",
+    "custom": "Запясці",
     "en": "Wrists",
     "ru": "Запястья",
     "bel": "Запясці",
@@ -4841,7 +4841,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_Description_Arrow",
-    "custom": "",
+    "custom": "Страла",
     "en": "Arrow",
     "ru": "Стрела",
     "bel": "Страла",
@@ -4849,7 +4849,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_Description_Ingredient",
-    "custom": "",
+    "custom": "Інгрэдыент",
     "en": "Ingredient",
     "ru": "Ингредиент",
     "bel": "Інгрэдыент",
@@ -4857,7 +4857,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_Description_Item",
-    "custom": "",
+    "custom": "Прадмет",
     "en": "Item",
     "ru": "Предмет",
     "bel": "Прадмет",
@@ -4865,7 +4865,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_Description_SigilStone",
-    "custom": "",
+    "custom": "Камень Сігіл",
     "en": "Sigil Stone",
     "ru": "Камень Cигил",
     "bel": "Камень Сігіл",
@@ -4873,7 +4873,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_Description_SoulGem",
-    "custom": "",
+    "custom": "Камень душ",
     "en": "Soul Gem",
     "ru": "Камень душ",
     "bel": "Камень душ",
@@ -4881,7 +4881,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_Footer_CycleDetails",
-    "custom": "",
+    "custom": "Падрабязнасці цыклу",
     "en": "Cycle Details",
     "ru": "Подробности цикла",
     "bel": "Падрабязнасці цыклу",
@@ -4889,7 +4889,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_Footer_Drop",
-    "custom": "",
+    "custom": "Скінуць",
     "en": "Drop",
     "ru": "Сбросить",
     "bel": "Скінуць",
@@ -4897,7 +4897,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_Footer_DropStack",
-    "custom": "",
+    "custom": "Скінуць стос",
     "en": "Drop Stack",
     "ru": "Сбросить стопку",
     "bel": "Скінуць стос",
@@ -4905,7 +4905,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_Footer_RemoveItem",
-    "custom": "",
+    "custom": "Выдаліць прадмет",
     "en": "Remove Item",
     "ru": "Удалить предмет",
     "bel": "Выдаліць прадмет",
@@ -4913,7 +4913,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_Footer_SelectSlot",
-    "custom": "",
+    "custom": "Выберыце слот",
     "en": "Select Slot",
     "ru": "Выберите слот",
     "bel": "Выберыце слот",
@@ -4921,7 +4921,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_ItemStatus_Broken",
-    "custom": "",
+    "custom": "Зламаны",
     "en": "Broken",
     "ru": "Сломанный",
     "bel": "Зламаны",
@@ -4929,7 +4929,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_ItemStatus_Enchanted",
-    "custom": "",
+    "custom": "Зачараваны",
     "en": "Enchanted",
     "ru": "Зачарованный",
     "bel": "Зачараваны",
@@ -4937,7 +4937,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_ItemStatus_Poisoned",
-    "custom": "",
+    "custom": "Атручаны",
     "en": "Poisoned",
     "ru": "Отравлен",
     "bel": "Атручаны",
@@ -4945,7 +4945,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_ItemStatus_Stolen",
-    "custom": "",
+    "custom": "Скрадзены",
     "en": "Stolen",
     "ru": "Украдено",
     "bel": "Скрадзены",
@@ -4953,7 +4953,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_PotionType_Beverage",
-    "custom": "",
+    "custom": "Напітак",
     "en": "Beverage",
     "ru": "Напиток",
     "bel": "Напітак",
@@ -4961,7 +4961,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_Title_Alchemy",
-    "custom": "",
+    "custom": "Алхімія",
     "en": "Alchemy",
     "ru": "Алхимия",
     "bel": "Алхімія",
@@ -4969,7 +4969,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_Title_AllItems",
-    "custom": "",
+    "custom": "Усе прадметы",
     "en": "All Items",
     "ru": "Все предметы",
     "bel": "Усе прадметы",
@@ -4977,7 +4977,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_Title_Gear",
-    "custom": "",
+    "custom": "Экіпіроўка",
     "en": "Gear",
     "ru": "Снаряжение",
     "bel": "Экіпіроўка",
@@ -4985,7 +4985,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_Title_Miscellanous",
-    "custom": "",
+    "custom": "Рознае",
     "en": "Miscellaneous",
     "ru": "Разное",
     "bel": "Рознае",
@@ -4993,7 +4993,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_Title_Weapons",
-    "custom": "",
+    "custom": "Зброя",
     "en": "Weapons",
     "ru": "Оружие",
     "bel": "Зброя",
@@ -5001,7 +5001,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_WeaponSize_One-Handed",
-    "custom": "",
+    "custom": "Аднаручная",
     "en": "One-Handed",
     "ru": "Одноручное",
     "bel": "Аднаручная",
@@ -5009,7 +5009,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_WeaponSize_Two-Handed",
-    "custom": "",
+    "custom": "Двуручная",
     "en": "Two-Handed",
     "ru": "Двуручное",
     "bel": "Двуручная",
@@ -5017,7 +5017,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_WeaponSkill_Blade",
-    "custom": "",
+    "custom": "Клінок",
     "en": "Blade",
     "ru": "Клинок",
     "bel": "Клінок",
@@ -5025,7 +5025,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_WeaponSkill_Blunt",
-    "custom": "",
+    "custom": "Тупы",
     "en": "Blunt",
     "ru": "Blunt",
     "bel": "Тупы",
@@ -5033,7 +5033,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_WeaponSkill_Marksman",
-    "custom": "",
+    "custom": "Стралок",
     "en": "Marksman",
     "ru": "Стрелок",
     "bel": "Стралок",
@@ -5041,7 +5041,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_WeaponType_BattleAxe",
-    "custom": "",
+    "custom": "Баявая сякера",
     "en": "Battle Axe",
     "ru": "Боевой топор",
     "bel": "Баявая сякера",
@@ -5049,7 +5049,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_WeaponType_Bow",
-    "custom": "",
+    "custom": "Лук",
     "en": "Bow",
     "ru": "Лук",
     "bel": "Лук",
@@ -5057,7 +5057,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_WeaponType_Claymore",
-    "custom": "",
+    "custom": "Клеймор",
     "en": "Claymore",
     "ru": "Клеймор",
     "bel": "Клеймор",
@@ -5065,7 +5065,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_WeaponType_Dagger",
-    "custom": "",
+    "custom": "Кінжал",
     "en": "Dagger",
     "ru": "Кинжал",
     "bel": "Кінжал",
@@ -5073,7 +5073,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_WeaponType_Longsword",
-    "custom": "",
+    "custom": "Доўгі меч",
     "en": "Longsword",
     "ru": "Длинный меч",
     "bel": "Доўгі меч",
@@ -5081,7 +5081,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_WeaponType_Mace",
-    "custom": "",
+    "custom": "Булава",
     "en": "Mace",
     "ru": "Булава",
     "bel": "Булава",
@@ -5089,7 +5089,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_WeaponType_Shortsword",
-    "custom": "",
+    "custom": "Кароткі меч",
     "en": "Shortsword",
     "ru": "Короткий меч",
     "bel": "Кароткі меч",
@@ -5097,7 +5097,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_WeaponType_Staff",
-    "custom": "",
+    "custom": "Посах",
     "en": "Staff",
     "ru": "Персонал",
     "bel": "Посах",
@@ -5105,7 +5105,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_WeaponType_WarAxe",
-    "custom": "",
+    "custom": "Баявая сякера",
     "en": "War Axe",
     "ru": "Боевой топор",
     "bel": "Баявая сякера",
@@ -5113,7 +5113,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_WeaponType_Warhammer",
-    "custom": "",
+    "custom": "Молат вайны",
     "en": "Warhammer",
     "ru": "Warhammer",
     "bel": "Warhammer",
@@ -5121,7 +5121,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Load_Footer_LoadSave",
-    "custom": "",
+    "custom": "Загрузіць захаванне",
     "en": "Load Save",
     "ru": "Загрузить сохранение",
     "bel": "Загрузіць захаванне",
@@ -5129,7 +5129,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_LockPicking_Footer_MovePick",
-    "custom": "",
+    "custom": "Рух - узяць",
     "en": "Move Pick",
     "ru": "Переместить Pick",
     "bel": "Перамясціць Pick",
@@ -5137,7 +5137,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_LockPicking_Footer_SetTumbler",
-    "custom": "",
+    "custom": "Усталяваць тумблер",
     "en": "Set Tumbler",
     "ru": "Установить Tumbler",
     "bel": "Устанавіць Tumbler",
@@ -5145,7 +5145,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_LockPicking_Info_LockLevel",
-    "custom": "",
+    "custom": "Узровень замка: {LockLevelName}",
     "en": "Lock Level: {LockLevelName}",
     "ru": "Уровень замка: {LockLevelName}",
     "bel": "Узровень замка: {LockLevelName}",
@@ -5153,7 +5153,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_LockPicking_Info_LockpicksLeft",
-    "custom": "",
+    "custom": "Адмычак засталося: {Value}",
     "en": "Lockpicks Left: {Value}",
     "ru": "Отмычек осталось: {Value}",
     "bel": "Адмычак засталося: {Value}",
@@ -5161,7 +5161,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_LockPicking_Info_SecurityLevel",
-    "custom": "",
+    "custom": "Узровень бяспекі: {Level}",
     "en": "Security Level: {Level}",
     "ru": "Уровень безопасности: {Level}",
     "bel": "Узровень бяспекі: {Level}",
@@ -5169,7 +5169,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Magic_BodyText_Active",
-    "custom": "",
+    "custom": "Актыўны",
     "en": "Active",
     "ru": "Активен",
     "bel": "Актыўны",
@@ -5177,7 +5177,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Magic_BodyText_Disease",
-    "custom": "",
+    "custom": "Хвароба",
     "en": "Disease",
     "ru": "Болезнь",
     "bel": "Хвароба",
@@ -5185,7 +5185,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Magic_BodyText_SpellEffectivenessValue",
-    "custom": "",
+    "custom": "{Value}% Эфектыўнасць заклінанняў",
     "en": "{Value}% Spell Effectiveness",
     "ru": "Эффективность заклинаний: {Value}%",
     "bel": "Эфектыўнасць заклінанняў: {Value}%",
@@ -5193,7 +5193,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Magic_Footer_AddToFavorite",
-    "custom": "",
+    "custom": "Дадаць у выбранае",
     "en": "Add to Favorite",
     "ru": "Добавить в избранное",
     "bel": "Дадаць у выбранае",
@@ -5201,7 +5201,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Magic_Footer_HideSpellEffectiveness",
-    "custom": "",
+    "custom": "Схаваць эфектыўнасць заклінанняў",
     "en": "Hide Spell Effectiveness",
     "ru": "Скрыть эффективность заклинаний",
     "bel": "Схаваць эфектыўнасць заклінанняў",
@@ -5209,7 +5209,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Magic_Footer_InspectCharacterTab",
-    "custom": "",
+    "custom": "Агледзець ўкладку «Персанаж».",
     "en": "Inspect Character Tab",
     "ru": "Осмотреть вкладку «Персонаж».",
     "bel": "Агледзець ўкладку «Персанаж».",
@@ -5217,7 +5217,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Magic_Footer_ShowSpellEffectiveness",
-    "custom": "",
+    "custom": "Паказваць эфектыўнасць заклінання",
     "en": "Show Spell Effectiveness",
     "ru": "Показывать эффективность заклинания",
     "bel": "Паказваць эфектыўнасць заклінання",
@@ -5225,7 +5225,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Magic_Footer_ToggleSorting",
-    "custom": "",
+    "custom": "Пераключыць сартаванне",
     "en": "Toggle Sorting",
     "ru": "Переключить сортировку",
     "bel": "Пераключыць сартаванне",
@@ -5233,7 +5233,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Magic_Info_NoMagicka",
-    "custom": "",
+    "custom": "Не хапае <RT_RedMed>Магіі</>",
     "en": "Not enough <RT_RedMed>Magicka</>",
     "ru": "Не хватает <RT_RedMed>Магики</>",
     "bel": "Не хапае <RT_RedMed>Магіі</>",
@@ -5241,7 +5241,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Magic_Info_RequiresSchoolLevel",
-    "custom": "",
+    "custom": "Патрабуецца <RT_RedMed>{School_Skill}</> на <RT_RedMed>{Level_Skill}</>",
     "en": "Requires <RT_RedMed>{School_Skill}</> of <RT_RedMed>{Level_Skill}</>",
     "ru": "Требуется <RT_RedMed>{School_Skill}</> уровня <RT_RedMed>{Level_Skill}</>",
     "bel": "Патрабуецца <RT_RedMed>{School_Skill}</> ўзроўню <RT_RedMed>{Level_Skill}</>",
@@ -5249,7 +5249,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Magic_Info_UsedOnce",
-    "custom": "",
+    "custom": "Можна выкарыстоўваць толькі адзін раз.",
     "en": "Can only be used once",
     "ru": "Можно использовать только один раз.",
     "bel": "Можна выкарыстоўваць толькі адзін раз.",
@@ -5257,7 +5257,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Magic_Info_UsedOnceADay",
-    "custom": "",
+    "custom": "Можна выкарыстоўваць толькі раз у дзень.",
     "en": "Can only be used once a day",
     "ru": "Можно использовать только раз в день.",
     "bel": "Можна выкарыстоўваць толькі раз у дзень.",
@@ -5265,7 +5265,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Magic_Variable_EffectArea",
-    "custom": "",
+    "custom": "{AreaText} футаў",
     "en": "{AreaText} ft",
     "ru": "{AreaText} футов",
     "bel": "{AreaText} футаў",
@@ -5273,7 +5273,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Magic_Variable_EffectDuration",
-    "custom": "",
+    "custom": "{DurationText} с",
     "en": "{DurationText} s",
     "ru": "{DurationText} с",
     "bel": "{DurationText} с",
@@ -5281,7 +5281,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Magic_Variable_EffectMagnitudeLvl",
-    "custom": "",
+    "custom": "Уз. {Magnitude_Text}",
     "en": "Lvl {Magnitude_Text}",
     "ru": "Ур. {Magnitude_Text}",
     "bel": "Уз. {Magnitude_Text}",
@@ -5289,7 +5289,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Magic_Variable_EffectMagnitudePercentage",
-    "custom": "",
+    "custom": "{Magnitude_Text} %",
     "en": "{Magnitude_Text} %",
     "ru": "{Magnitude_Text} %",
     "bel": "{Magnitude_Text} %",
@@ -5297,7 +5297,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Magic_Variable_EffectMagnitudePts",
-    "custom": "",
+    "custom": "{Magnitude_Text} адз.",
     "en": "{Magnitude_Text} pts",
     "ru": "{Magnitude_Text} ед.",
     "bel": "{Magnitude_Text} адз.",
@@ -5305,7 +5305,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_BodyText_DeluxeAvailable",
-    "custom": "",
+    "custom": "Ужо ў продажы: Дэлюкс дадатак",
     "en": "Available Now: Deluxe Upgrade",
     "ru": "Уже в продаже: Делюкс дополнение",
     "bel": "Ужо ў продажы: Дэлюкс дадатак",
@@ -5313,7 +5313,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_BodyText_EULAAcceptText",
-    "custom": "",
+    "custom": "Націскаючы кнопку «Прыняць», я пацвярджаю, што азнаёміўся і прыняў Палітыку канфідэнцыяльнасці ZeniMax Media, і згаджаюся з Умовамі прадастаўлення паслуг і Кодэксам паводзін ZeniMax Media.",
     "en": "By clicking 'Accept' I confirm I have read and acknowledged the ZeniMax Media Privacy Policy and I agree to the ZeniMax Media Terms of Service and Code of Conduct.",
     "ru": "Нажимая кнопку «Принять», я подтверждаю, что ознакомился и принял Политику конфиденциальности ZeniMax Media, и соглашаюсь с Условиями предоставления услуг и Кодексом поведения ZeniMax Media.",
     "bel": "Націскаючы кнопку «Прыняць», я пацвярджаю, што азнаёміўся і прыняў Палітыку канфідэнцыяльнасці ZeniMax Media, і згаджаюся з Умовамі прадастаўлення паслуг і Кодэксам паводзін ZeniMax Media.",
@@ -5321,7 +5321,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_ButtonTitle_Credits",
-    "custom": "",
+    "custom": "Цітры",
     "en": "Credits",
     "ru": "Титры",
     "bel": "Цітры",
@@ -5329,7 +5329,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_ButtonTitle_DeluxeContinue",
-    "custom": "",
+    "custom": "Працягнуць гульню",
     "en": "Continue Playing",
     "ru": "Продолжить игру",
     "bel": "Працягнуць гульню",
@@ -5337,7 +5337,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_ButtonTitle_DeluxeRestart",
-    "custom": "",
+    "custom": "Перазагрузіць зараз",
     "en": "Restart Now",
     "ru": "Перезагрузить сейчас",
     "bel": "Перазагрузіць зараз",
@@ -5345,7 +5345,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_ButtonTitle_Exit",
-    "custom": "",
+    "custom": "Выхад",
     "en": "Exit",
     "ru": "Выход",
     "bel": "Выхад",
@@ -5353,7 +5353,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_ButtonTitle_New",
-    "custom": "",
+    "custom": "Новая гульня",
     "en": "New",
     "ru": "Новая игра",
     "bel": "Новая гульня",
@@ -5361,7 +5361,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_ButtonTitle_Options",
-    "custom": "",
+    "custom": "Налады",
     "en": "Options",
     "ru": "Настройки",
     "bel": "Налады",
@@ -5369,7 +5369,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_ButtonTitle_PressStart",
-    "custom": "",
+    "custom": "Націсніце любую кнопку для працягу",
     "en": "Press any button to start",
     "ru": "Нажмите любую кнопку для продолжения",
     "bel": "Націсніце любую кнопку для працягу",
@@ -5377,7 +5377,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_ButtonTitle_ReturnMainMenu",
-    "custom": "",
+    "custom": "Вярнуцца ў Галоўнае Меню",
     "en": "Return To Main Menu",
     "ru": "Вернуться в Главное Меню",
     "bel": "Вярнуцца ў Галоўнае Меню",
@@ -5385,7 +5385,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_PopUp_DeluxeNewContent",
-    "custom": "",
+    "custom": "Новы кантэнт спампаваны і гатовы да актывацыі пасля перазапуску. <lf>Любы незахаваны прагрэс будзе страчаны. Хочаце перазапусціць зараз?",
     "en": "New content has been downloaded and is ready to be enabled by restarting. <lf>Any unsaved progress will be lost. Would you like to restart now?",
     "ru": "Новый контент скачан и готов к активации после перезапуска. <lf>Любой несохраненный прогресс будет потерян. Хотите перезапустить сейчас?",
     "bel": "Новы кантэнт спампаваны і гатовы да актывацыі пасля перазапуску. <lf>Любы незахаваны прагрэс будзе страчаны. Хочаце перазапусціць зараз?",
@@ -5393,7 +5393,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_Subtitles_INTRO_0",
-    "custom": "",
+    "custom": "Я нарадзіўся 87 гадоў таму.",
     "en": "I was born 87 years ago.",
     "ru": "Я родился 87 лет тому назад.",
     "bel": "Я нарадзіўся 87 гадоў таму.",
@@ -5401,7 +5401,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_Subtitles_INTRO_1",
-    "custom": "",
+    "custom": "На працягу 65 гадоў я кіраваў як імператар Тамрыэля.",
     "en": "For 65 years, I've ruled as Tamriel’s Emperor",
     "ru": "На протяжении 65 лет я правил как император Тамриэля.",
     "bel": "На працягу 65 гадоў я кіраваў як імператар Тамрыэля.",
@@ -5409,7 +5409,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_Subtitles_INTRO_2",
-    "custom": "",
+    "custom": "але за ўсе гэтыя гады,",
     "en": "but for all these years,",
     "ru": "но за все эти годы,",
     "bel": "але за ўсе гэтыя гады,",
@@ -5417,7 +5417,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_Subtitles_INTRO_3",
-    "custom": "",
+    "custom": "Я ніколі не быў гаспадаром сваіх сноў.",
     "en": "I've never been the ruler of my own dreams.",
     "ru": "Я никогда не был хозяином своих снов.",
     "bel": "Я ніколі не быў гаспадаром сваіх сноў.",
@@ -5425,7 +5425,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_Subtitles_INTRO_4",
-    "custom": "",
+    "custom": "Я бачыў вароты Аблівіёна.",
     "en": "I have seen the gates of Oblivion,",
     "ru": "Я видел врата Обливиона.",
     "bel": "Я бачыў вароты Аблівіёна.",
@@ -5433,7 +5433,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_Subtitles_INTRO_5",
-    "custom": "",
+    "custom": "па-за межамі чаго не можа бачыць ніводнае пільнае вока.",
     "en": "beyond which no waking eye may see.",
     "ru": "за пределы чего не может видеть ни один бодрствующий глаз.",
     "bel": "па-за межамі чаго не можа бачыць ніводнае пільнае вока.",
@@ -5441,7 +5441,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_Subtitles_INTRO_6",
-    "custom": "",
+    "custom": "Глядзіце ж… у цемры лёс навіс над зямлёй.",
     "en": "Behold... in darkness a doom sweeps the land.",
     "ru": "Зрите же… во тьме судьба нависла над землёй.",
     "bel": "Глядзіце ж… у цемры лёс навіс над зямлёй.",
@@ -5449,7 +5449,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_Subtitles_INTRO_7",
-    "custom": "",
+    "custom": "Сёння 27-га Апошняга Зерня, год Акатоша 433-ці.",
     "en": "This is the 27th of Last Seed, the year of Akatosh 433.",
     "ru": "Сегодня 27-е Последнего Зерна, год Акатоша 433-й.",
     "bel": "Сёння 27-га Апошняга Зерня, год Акатоша 433-ці.",
@@ -5457,7 +5457,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_Subtitles_INTRO_8",
-    "custom": "",
+    "custom": "Наступаюць заключныя дні Трэцяй Эры.",
     "en": "These are the closing days of the Third Era",
     "ru": "Наступают заключительные дни Третьей Эры.",
     "bel": "Наступаюць заключныя дні Трэцяй Эры.",
@@ -5465,7 +5465,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_Subtitles_INTRO_9",
-    "custom": "",
+    "custom": "і апошнія гадзіны майго жыцця.",
     "en": "and the final hours of my life.",
     "ru": "и последние часы моей жизни.",
     "bel": "і апошнія гадзіны майго жыцця.",
@@ -5473,7 +5473,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_Subtitles_OUTRO_0",
-    "custom": "",
+    "custom": "Амулет разбіты ўшчэнт.",
     "en": "The amulet is shattered.",
     "ru": "Амулет разбит вдребезги.",
     "bel": "Амулет разбіты ўшчэнт.",
@@ -5481,7 +5481,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_Subtitles_OUTRO_1",
-    "custom": "",
+    "custom": "Дагон пераможаны.",
     "en": "Dagon is defeated.",
     "ru": "Дагон повержен.",
     "bel": "Дагон пераможаны.",
@@ -5489,7 +5489,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_Subtitles_OUTRO_10",
-    "custom": "",
+    "custom": "Калі будзе напісаны наступны Старажытны Скрутак,",
     "en": "When the next Elder Scroll is written,",
     "ru": "Когда будет написан следующий Древний Свиток,",
     "bel": "Калі будзе напісаны наступны Старажытны Скрутак,",
@@ -5497,7 +5497,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_Subtitles_OUTRO_11",
-    "custom": "",
+    "custom": "Ты станеш яго пісцом.",
     "en": "you shall be its scribe.",
     "ru": "Ты станешь его писцом.",
     "bel": "Ты станеш яго пісцом.",
@@ -5505,7 +5505,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_Subtitles_OUTRO_12",
-    "custom": "",
+    "custom": "Форма будучыні.",
     "en": "The shape of the future,",
     "ru": "Форма будущего.",
     "bel": "Форма будучыні.",
@@ -5513,7 +5513,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_Subtitles_OUTRO_13",
-    "custom": "",
+    "custom": "лёс Імперыі,",
     "en": "the fate of the Empire,",
     "ru": "судьба Империи,",
     "bel": "лёс Імперыі,",
@@ -5521,7 +5521,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_Subtitles_OUTRO_14",
-    "custom": "",
+    "custom": "гэтыя рэчы... цяпер... належаць вам.",
     "en": "these things... now... belong to you.",
     "ru": "Теперь... эти вещи... принадлежат тебе.",
     "bel": "Цяпер... гэтыя рэчы... належаць табе.",
@@ -5529,7 +5529,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_Subtitles_OUTRO_2",
-    "custom": "",
+    "custom": "З крывёю дракона і Амулетам Каралёў",
     "en": "With the dragon's blood and the Amulet of Kings",
     "ru": "С кровью дракона и Амулетом Королей",
     "bel": "З крывёю дракона і Амулетам Каралёў",
@@ -5537,7 +5537,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_Subtitles_OUTRO_3",
-    "custom": "",
+    "custom": "Мы запячаталі Браму Аблівіёна, назаўжды.",
     "en": "we have sealed the Gates of Oblivion, forever.",
     "ru": "Мы запечатали Врата Обливиона, навсегда.",
     "bel": "Мы запячаталі Браму Аблівіёна, назаўжды.",
@@ -5545,7 +5545,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_Subtitles_OUTRO_4",
-    "custom": "",
+    "custom": "Апошні з Септымаў сыходзіць у гісторыю.",
     "en": "The last of the Septims passes now into history.",
     "ru": "Последний из Септимов уходит в историю.",
     "bel": "Апошні з Септымаў сыходзіць у гісторыю.",
@@ -5553,7 +5553,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_Subtitles_OUTRO_5",
-    "custom": "",
+    "custom": "Я іду з радасцю, бо ведаю, што ахвяра мая не дарэмная.",
     "en": "I go gladly, for I know my sacrifice is not in vain.",
     "ru": "Я иду с радостью, ибо знаю, что жертва моя не напрасна.",
     "bel": "Я іду з радасцю, бо ведаю, што ахвяра мая не дарэмная.",
@@ -5561,7 +5561,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_Subtitles_OUTRO_6",
-    "custom": "",
+    "custom": "Я займу сваё месца побач з бацькам.",
     "en": "I take my place with my father,",
     "ru": "Я займу своё место рядом с отцом.",
     "bel": "Я займу сваё месца побач з бацькам.",
@@ -5569,7 +5569,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_Subtitles_OUTRO_7",
-    "custom": "",
+    "custom": "і бацькоў майго бацькі.",
     "en": "and my father's fathers.",
     "ru": "и отцов моего отца.",
     "bel": "і бацькоў майго бацькі.",
@@ -5577,7 +5577,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_Subtitles_OUTRO_8",
-    "custom": "",
+    "custom": "Трэцяя Эпоха падышла да канца.",
     "en": "The Third Age has ended,",
     "ru": "Третья Эпоха подошла к концу.",
     "bel": "Трэцяя Эпоха падышла да канца.",
@@ -5585,7 +5585,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_Subtitles_OUTRO_9",
-    "custom": "",
+    "custom": "І надыходзіць новая эра.",
     "en": "and a new age dawns.",
     "ru": "И наступает новая эра.",
     "bel": "І надыходзіць новая эра.",
@@ -5593,7 +5593,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Main_Title_EULATitle",
-    "custom": "",
+    "custom": "Ліцэнзійнае пагадненне з канчатковым карыстальнікам",
     "en": "End User License Agreement",
     "ru": "Лицензионное соглашение с конечным пользователем",
     "bel": "Ліцэнзійнае пагадненне з канчатковым карыстальнікам",
@@ -5601,7 +5601,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Map_Footer_PinMarker",
-    "custom": "",
+    "custom": "Метка-паказальнік",
     "en": "Pin Marker",
     "ru": "Метка-указатель",
     "bel": "Метка-паказальнік",
@@ -5609,7 +5609,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Map_Footer_RecenterMap",
-    "custom": "",
+    "custom": "Цэнтраваць",
     "en": "Center On Player",
     "ru": "Центрировать",
     "bel": "Цэнтраваць",
@@ -5617,7 +5617,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Map_Footer_ToggleAllFilters",
-    "custom": "",
+    "custom": "Пераключыць усе фільтры",
     "en": "Toggle All Filters",
     "ru": "Переключить все фильтры",
     "bel": "Пераключыць усе фільтры",
@@ -5625,7 +5625,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Onboarding_ButtonTitle_NextSection",
-    "custom": "",
+    "custom": "Наступны раздзел",
     "en": "Next Section",
     "ru": "Следующий раздел",
     "bel": "Наступны раздзел",
