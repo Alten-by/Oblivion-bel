@@ -128314,7 +128314,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestPrinceHumperdinck",
-    "custom": "",
+    "custom": "Прынц Хампердынк",
     "en": "Prince Humperdinck",
     "ru": "Принц Хампердинк",
     "bel": "Прынц Хампердынк",
@@ -128323,7 +128323,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestQA",
-    "custom": "",
+    "custom": "Гэта для QA тэставання",
     "en": "this is for QA testing",
     "ru": "Это для QA тестирования.",
     "bel": "Гэта для QA тэставання.",
@@ -128332,7 +128332,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestQAAbsorbMagicka",
-    "custom": "",
+    "custom": "ПаглынаннеМагііДЛЯтэсту",
     "en": "TestAbsorbMagicka",
     "ru": "ПоглощениеМагииДЛЯтеста",
     "bel": "ПаглынаннеМагііДЛЯтэсту",
@@ -128341,7 +128341,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestQAClutter",
-    "custom": "",
+    "custom": "Іншыя прадметы",
     "en": "All Misc Items",
     "ru": "Прочие предметы",
     "bel": "Іншыя прадметы",
@@ -128350,7 +128350,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestQAEnchArmor",
-    "custom": "",
+    "custom": "Уся броня і адзенне",
     "en": "All Armor and Clothing",
     "ru": "Вся броня и одежда",
     "bel": "Уся броня і адзенне",
@@ -128359,7 +128359,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestQAEnchanted",
-    "custom": "",
+    "custom": "Стрэлы і зброя",
     "en": "Ammo and Weapons",
     "ru": "Стрелы и оружие",
     "bel": "Стрэлы і зброя",
@@ -128368,7 +128368,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestQAIngredients",
-    "custom": "",
+    "custom": "Усе інгрэдыенты і апараты",
     "en": "All Ingredients and Apparatus",
     "ru": "Все ингредиенты и аппараты",
     "bel": "Усе інгрэдыенты і апараты",
@@ -128377,7 +128377,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestQAPoison",
-    "custom": "",
+    "custom": "Яд Наб'а",
     "en": "Poison of Nab",
     "ru": "Яд Наб'а",
     "bel": "Яд Наб'а",
@@ -128386,7 +128386,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestQAPotions",
-    "custom": "",
+    "custom": "Усе зеллі",
     "en": "All Potions",
     "ru": "Все зелья",
     "bel": "Усе зеллі",
@@ -128395,7 +128395,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestQAReflectSpell",
-    "custom": "",
+    "custom": "Адлюстраванне Наба",
     "en": "Reflection of Nab",
     "ru": "Отражение Nab",
     "bel": "Адлюстраванне Nab",
@@ -128404,7 +128404,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestQASoulgems",
-    "custom": "",
+    "custom": "Камяні душ і сігільскія камяні",
     "en": "Soulgems and Sigil Stones",
     "ru": "Камни душ и сигильские камни",
     "bel": "Камяні душ і сігільскія камяні",
@@ -128413,7 +128413,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestQASpellTomes",
-    "custom": "",
+    "custom": "Усе тамоў загавораў",
     "en": "All Spell Tomes",
     "ru": "Все тома заклинаний",
     "bel": "Усе тамоў загавораў",
@@ -128422,7 +128422,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestQASword",
-    "custom": "",
+    "custom": "Меч Наба",
     "en": "Sword of Nab",
     "ru": "Меч Nab",
     "bel": "Меч Nab",
@@ -128431,7 +128431,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestQASword2",
-    "custom": "",
+    "custom": "Брат Наба",
     "en": "Brother of Nab",
     "ru": "Брат Nab",
     "bel": "Брат Nab",
@@ -128440,7 +128440,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestReanimate",
-    "custom": "",
+    "custom": "Рэанімацыя",
     "en": "Reanimate",
     "ru": "Воскресить",
     "bel": "Уваскрасіць",
@@ -128449,7 +128449,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestRegion",
-    "custom": "",
+    "custom": "ТэстГенератарРэгіёнаМаразму",
     "en": "TestDementiaRegionGen",
     "ru": "ТестГенераторРегионаМаразма",
     "bel": "ТэстГенератарРэгіёнаМаразму",
@@ -128458,7 +128458,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestRestTarget",
-    "custom": "",
+    "custom": "ТэставаяЦэльДляАдпачынку",
     "en": "TestRestTarget",
     "ru": "ТестоваяЦельДляОтдыха",
     "bel": "ТэставаяЦэльДляАдпачынку",
@@ -128467,7 +128467,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestRestTouch",
-    "custom": "",
+    "custom": "Праверка датыкання пасля адпачынку",
     "en": "TestRestTouch",
     "ru": "Проверка касания после отдыха",
     "bel": "Праверка датыкання пасля адпачынку",
@@ -128485,7 +128485,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestSackIst",
-    "custom": "",
+    "custom": "Мяшок для выпрабаванняў",
     "en": "Test Sack",
     "ru": "Мешок для испытаний",
     "bel": "Мяшок для выпрабаванняў",
@@ -128494,7 +128494,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestSackSpell",
-    "custom": "",
+    "custom": "Праверка заклінання",
     "en": "Test Spell",
     "ru": "Проверка заклинания",
     "bel": "Праверка заклінання",
@@ -128503,7 +128503,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestScampDefaultCreature",
-    "custom": "",
+    "custom": "ПрайдзісветПаЗмаўчанні",
     "en": "ScampDefault",
     "ru": "ПроходимецПоУмолчанию",
     "bel": "ПрайдзісветПаЗмаўчанні",
@@ -128512,7 +128512,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestScreenshotWoman",
-    "custom": "",
+    "custom": "ТэстСкрыншотЖанчына",
     "en": "TestScreenshotWoman",
     "ru": "ТестСкриншотЖенщина",
     "bel": "ТэстСкрыншотЖанчына",
@@ -128521,7 +128521,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestSelf",
-    "custom": "",
+    "custom": "Тэставы самааднаўленне",
     "en": "Test Self Restore",
     "ru": "Проверка Self Restore",
     "bel": "Праверка Self Restore",
@@ -128530,7 +128530,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestShambles",
-    "custom": "",
+    "custom": "ТэстКучаМала",
     "en": "TestShambles",
     "ru": "Чёрт побери.",
     "bel": "Чорт пабяры.",
@@ -128539,7 +128539,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestShock",
-    "custom": "",
+    "custom": "Электрашок",
     "en": "TestShock",
     "ru": "Электрошок",
     "bel": "Электрашок",
@@ -128548,7 +128548,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestSleepingPotion",
-    "custom": "",
+    "custom": "Снатворнае",
     "en": "Sleeping Potion",
     "ru": "Снотворное",
     "bel": "Снатворнае",
@@ -128557,7 +128557,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestSpellTodd",
-    "custom": "",
+    "custom": "Тэставае заклінанне Тодда",
     "en": "Todd's Tester Spell",
     "ru": "Тестовое заклинание Тодда",
     "bel": "Тэставае заклінанне Тодда",
@@ -128566,7 +128566,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestSpiderDaedraTouch",
-    "custom": "",
+    "custom": "Паралізатар павукоў",
     "en": "SpiderParalyzer",
     "ru": "Парализатор пауков",
     "bel": "Паралізатар павукоў",
@@ -128575,7 +128575,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestStaff",
-    "custom": "",
+    "custom": "Тэсціроўшчык",
     "en": "TestStaff",
     "ru": "Тестировщик",
     "bel": "Тэсціроўшчык",
@@ -128584,7 +128584,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestStaff03",
-    "custom": "",
+    "custom": "ТэстСупрацоўнік03",
     "en": "TestStaff03",
     "ru": "ТестСотрудник03",
     "bel": "ТэстСупрацоўнік03",
@@ -128593,7 +128593,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestStair",
-    "custom": "",
+    "custom": "Я хаджу ўверх-уніз па прыступках",
     "en": "I walk up and down stairs",
     "ru": "Я хожу вверх-вниз по ступенькам",
     "bel": "Я хаджу ўверх-уніз па прыступках",
@@ -128602,7 +128602,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestStealth",
-    "custom": "",
+    "custom": "Праверка на ўтоенсць",
     "en": "Stealth Test",
     "ru": "Проверка на скрытность",
     "bel": "Праверка на ўтоенсць",
@@ -128611,7 +128611,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestStealthGuyAlert",
-    "custom": "",
+    "custom": "Тэст стэлс - заўважыць",
     "en": "Stealth Test Guy -- Alert",
     "ru": "Тест стелс - заметит",
     "bel": "Тэст стэлс - заўважыць",
@@ -128620,7 +128620,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestStealthGuyNotAlert",
-    "custom": "",
+    "custom": "Тэст стэлс - не заўважыць",
     "en": "Stealth Test Guy -- Not Alert",
     "ru": "Тест стелс - не заметит",
     "bel": "Тэст стэлс - не заўважыць",
@@ -128629,7 +128629,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestSummonPotion",
-    "custom": "",
+    "custom": "Выклік лорда дрэмора",
     "en": "Summon Dremora Lord",
     "ru": "Вызов лорда дремора",
     "bel": "Выклік лорда дрэмора",
@@ -128638,7 +128638,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestTakeCoverCaster1",
-    "custom": "",
+    "custom": "ПраверкаСховішчаМаг1",
     "en": "TestTakeCoverCaster1",
     "ru": "ПроверкаУкрытиеМаг1",
     "bel": "ПраверкаСховішчаМаг1",
@@ -128647,7 +128647,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestTakeCoverCaster2",
-    "custom": "",
+    "custom": "СховішчаТэстМаг2",
     "en": "TestTakeCoverCaster2",
     "ru": "УкрытиеТестМаг2",
     "bel": "СховішчаТэстМаг2",
@@ -128656,7 +128656,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestTakeCoverFighter1",
-    "custom": "",
+    "custom": "ВыпрабаваннеПрысядзьБаец1",
     "en": "TestTakeCoverFighter1",
     "ru": "ИспытаниеПригнисьБоец1",
     "bel": "ВыпрабаваннеПрысядзьБаец1",
@@ -128665,7 +128665,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestTakeCoverFighter2",
-    "custom": "",
+    "custom": "ПраверкаСховішчаБайец2",
     "en": "TestTakeCoverFighter2",
     "ru": "ПроверкаУкрытияБоец2",
     "bel": "ПраверкаСховішчаБайец2",
@@ -128674,7 +128674,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestTelekinesis",
-    "custom": "",
+    "custom": "Праверка тэлекінезу",
     "en": "Test Telekinesis",
     "ru": "Проверка телекинеза",
     "bel": "Праверка тэлекінезу",
@@ -128683,7 +128683,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestTimFireColumn",
-    "custom": "",
+    "custom": "Крывавы пір",
     "en": "The Blood Feast",
     "ru": "Кровавое пиршество",
     "bel": "Крывавае піршэства",
@@ -128692,7 +128692,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestTodd",
-    "custom": "",
+    "custom": "Праверка Выпадковага Адсотка",
     "en": "Test Random Percent",
     "ru": "Проверка Случайного Процента",
     "bel": "Праверка Выпадковага Адсотка",
@@ -128701,7 +128701,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestToddBarrel",
-    "custom": "",
+    "custom": "Бочка весялосці Тода!",
     "en": "Todd's Barrel of Fun!",
     "ru": "Бочка веселья от Todd!",
     "bel": "Бочка весялосці ад Todd!",
@@ -128719,7 +128719,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestToddDremoraHelm",
-    "custom": "",
+    "custom": "Тэст- дрэмора",
     "en": "Dremora Test",
     "ru": "Тест- дремора",
     "bel": "Тэст- дрэмора",
@@ -128728,7 +128728,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestToddFolio01",
-    "custom": "",
+    "custom": "Тэставая Кніга аб Малпах",
     "en": "Test Book on Monkeys",
     "ru": "Тестовая Книга о Обезьянах",
     "bel": "Тэставая Кніга аб Малпах",
@@ -128737,7 +128737,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestToddHappy",
-    "custom": "",
+    "custom": "Шчаслівы",
     "en": "Happy",
     "ru": "Счастлив.",
     "bel": "Шчаслівы.",
@@ -128746,7 +128746,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestToddLetter",
-    "custom": "",
+    "custom": "Ліст Тода",
     "en": "Test Todd Letter",
     "ru": "Проверка письма от Todd'а",
     "bel": "Праверка ліста ад Todd'а",
@@ -128755,7 +128755,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestToddMan",
-    "custom": "",
+    "custom": "Чалавек - тэст Тодда",
     "en": "Todd's Tester Man",
     "ru": "Человек - тест Тодда",
     "bel": "Чалавек - тэст Тодда",
@@ -128764,7 +128764,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestToddMan25",
-    "custom": "",
+    "custom": "Мужчына 25",
     "en": "Man25",
     "ru": "Мужчина 25",
     "bel": "Мужчына 25",
@@ -128773,7 +128773,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestToddManOrc",
-    "custom": "",
+    "custom": "Орк - тэст Тодда",
     "en": "Todd's Tester Orc",
     "ru": "Орк - тест Тодда",
     "bel": "Орк - тэст Тодда",
@@ -128782,7 +128782,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestToddQuest",
-    "custom": "",
+    "custom": "Тэставая прыгода Тода",
     "en": "Todd's Test Adventure",
     "ru": "Тестовое приключение Todd's",
     "bel": "Тэставае прыгода Todd's",
@@ -128791,7 +128791,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestToddSad",
-    "custom": "",
+    "custom": "Сумна",
     "en": "Sad",
     "ru": "Грустно.",
     "bel": "Сумна.",
@@ -128800,7 +128800,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestToddScroll",
-    "custom": "",
+    "custom": "Тэставы скрутак Тода, доўгі",
     "en": "Test Todd Scroll, Long",
     "ru": "Длинный тестовый TODD свиток.",
     "bel": "Доўгі тэставы TODD скрутак.",
@@ -128809,7 +128809,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestToddWoman25",
-    "custom": "",
+    "custom": "Жанчына 25",
     "en": "Women 25",
     "ru": "Женщина 25",
     "bel": "Жанчына 25",
@@ -128818,7 +128818,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestToddWoman35",
-    "custom": "",
+    "custom": "Жанчына 35",
     "en": "Women 35",
     "ru": "Женщина 35",
     "bel": "Жанчына 35",
@@ -128827,7 +128827,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestToddWoman45",
-    "custom": "",
+    "custom": "Жанчына 45",
     "en": "Women 45",
     "ru": "Женщина 45",
     "bel": "Жанчына 45",
@@ -128836,7 +128836,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestToddWoman55",
-    "custom": "",
+    "custom": "Жанчына 55",
     "en": "Women 55",
     "ru": "Женщина 55",
     "bel": "Жанчына 55",
@@ -128845,7 +128845,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestToddWoman65",
-    "custom": "",
+    "custom": "Жанчына 65",
     "en": "Women 65",
     "ru": "Женщина 65",
     "bel": "Жанчына 65",
@@ -128854,7 +128854,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestTomb2",
-    "custom": "",
+    "custom": "Нейтралізатар",
     "en": "Disabler",
     "ru": "Нейтрализатор",
     "bel": "Нейтралізатар",
@@ -128863,7 +128863,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestTouch",
-    "custom": "",
+    "custom": "Тэставы агонь пры дотыку",
     "en": "Test Fire Damage Touch",
     "ru": "Проверка касания огнём [FIRE_DAMAGE].",
     "bel": "Праверка датыкання агнём [FIRE_DAMAGE].",
@@ -128872,7 +128872,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestTrapVictimHigh",
-    "custom": "",
+    "custom": "ЖК-дысплей",
     "en": "LCD",
     "ru": "ЖК-дисплей",
     "bel": "ЖК-дысплей",
@@ -128881,7 +128881,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestTrapVictimLow",
-    "custom": "",
+    "custom": "ЖК-дысплей",
     "en": "LCD",
     "ru": "ЖК-дисплей",
     "bel": "ЖК-дысплей",
@@ -128890,7 +128890,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestTrollRegen",
-    "custom": "",
+    "custom": "Рэгенерацыя троля",
     "en": "Troll Regeneration",
     "ru": "Регенерация тролля",
     "bel": "Рэгенерацыя троля",
@@ -128899,7 +128899,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestVampireFoodNPC",
-    "custom": "",
+    "custom": "Ням-ням для вампіра",
     "en": "Vamp Chow",
     "ru": "Ням-ням для вампира",
     "bel": "Ням-ням для вампіра",
@@ -128908,7 +128908,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestVendorNPC",
-    "custom": "",
+    "custom": "Тэст - NPC-гандляр",
     "en": "Test Vendor NPC",
     "ru": "Тест - NPC-торговец",
     "bel": "Тэст - NPC-гандляр",
@@ -128917,7 +128917,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestVoiceBudget",
-    "custom": "",
+    "custom": "Экспартаваць гэты квэст, каб убачыць расу/пол для кожнага горада",
     "en": "Export this quest to see race/sex for each city",
     "ru": "Экспортировать этот квест, чтобы увидеть расу/пол для каждого города.",
     "bel": "Экспартаваць гэты квэст, каб убачыць расу/пол для кожнага горада.",
@@ -128926,7 +128926,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestZombie02",
-    "custom": "",
+    "custom": "ЗомбіМікснМатч02",
     "en": "ZombieMixnMatch02",
     "ru": "ЗомбиМикснМатч02",
     "bel": "ЗомбіМікснМатч02",
@@ -128935,7 +128935,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestZombie05",
-    "custom": "",
+    "custom": "ЗомбіМікснМатч05",
     "en": "ZombieMixnMatch05",
     "ru": "ЗомбиМикснМатч05",
     "bel": "ЗомбіМікснМатч05",
@@ -128944,7 +128944,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TesterGrave",
-    "custom": "",
+    "custom": "Тут спачывае Вена Петыліус",
     "en": "Here Lies Vena Petilius",
     "ru": "Здесь покоится Вена Петилиус",
     "bel": "Тут спачывае Вена Петыліус",
@@ -128953,7 +128953,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Testguard",
-    "custom": "",
+    "custom": "Ахоўнік",
     "en": "Guard",
     "ru": "Стражник",
     "bel": "Стражнік",
@@ -128962,7 +128962,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TestingHall",
-    "custom": "",
+    "custom": "Тэставая зала",
     "en": "The Testing Hall",
     "ru": "Тестовый зал",
     "bel": "Тэставая зала",
@@ -128971,7 +128971,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TeststatMod",
-    "custom": "",
+    "custom": "ТэставыМодСтатыстыкі",
     "en": "TestStatMod",
     "ru": "ТестовыйМодСтатистики",
     "bel": "ТэставыМодСтатыстыкі",
@@ -128980,7 +128980,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Thamriel",
-    "custom": "",
+    "custom": "Тамрыэль",
     "en": "Thamriel",
     "ru": "Самриэль",
     "bel": "Самрыэль",
@@ -128989,7 +128989,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ThamrielKey",
-    "custom": "",
+    "custom": "Ключ ад дома Тамрыэля",
     "en": "Thamriel's House Key",
     "ru": "Ключ от дома Самриэль",
     "bel": "Ключ ад дома Самрыэль",
@@ -128998,7 +128998,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TheAllSaintsInn",
-    "custom": "",
+    "custom": "Фракцыя гасцініцы «Усе святыя»",
     "en": "The All Saints Inn Faction",
     "ru": "Фракция «The All Saints Inn Faction»",
     "bel": "Фракцыя «The All Saints Inn Faction»",
@@ -129007,7 +129007,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TheBeastsMaw",
-    "custom": "",
+    "custom": "Утроба Звера",
     "en": "The Beast's Maw",
     "ru": "Утроба Зверя",
     "bel": "Утроба Звера",
@@ -129016,7 +129016,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TheBeastsMaw02",
-    "custom": "",
+    "custom": "Утроба Звера - Пячоры",
     "en": "The Beast's Maw Caverns",
     "ru": "Утроба Зверя - Пещеры",
     "bel": "Утроба Звера - Пячоры",
@@ -129025,7 +129025,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TheBestDefenseKey",
-    "custom": "",
+    "custom": "Ключ ад \"Найлепшай абароны\"",
     "en": "The Best Defense Key",
     "ru": "Ключ от \"Лучшей защиты\"",
     "bel": "Ключ ад \"Найлепшай абароны\"",
@@ -129034,7 +129034,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TheBlackwoodCompany",
-    "custom": "",
+    "custom": "Кампанія \"Чорны лес\"",
     "en": "The Blackwood Company",
     "ru": "Компания \"Черный лес\"",
     "bel": "Кампанія \"Чорны лес\"",
@@ -129043,7 +129043,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TheDrunkenDragonInn",
-    "custom": "",
+    "custom": "Таверна \"П\\'яны дракон\"",
     "en": "The Drunken Dragon Inn",
     "ru": "Таверна \"Пьяный дракон\"",
     "bel": "Таверна \"П'яны дракон\"",
@@ -129052,7 +129052,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TheDrunkenDragonInnRegion",
-    "custom": "",
+    "custom": "Таверна 'П'яны дракон'",
     "en": "The Drunken Dragon Inn",
     "ru": "Таверна 'Пьяный дракон'",
     "bel": "Таверна 'П'яны дракон'",
@@ -129061,7 +129061,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TheGildedCarafeKey",
-    "custom": "",
+    "custom": "Ключ ад \"Пазалочанага графіна\"",
     "en": "The Gilded Carafe Key",
     "ru": "Ключ от \"Позолоченного графина\"",
     "bel": "Ключ ад \"Пазалочанага графіна\"",
@@ -129070,7 +129070,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TheHowlingHalls",
-    "custom": "",
+    "custom": "Выючыя Залы",
     "en": "The Howling Halls",
     "ru": "Воющие Залы",
     "bel": "Выючыя Залы",
@@ -129079,7 +129079,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TheMainIngredientKey",
-    "custom": "",
+    "custom": "Ключ ад \"Галоўнага інгрэдыента\"",
     "en": "The Main Ingredient Key",
     "ru": "Ключ от \"Главного ингредиента\"",
     "bel": "Ключ ад \"Галоўнага інгрэдыента\"",
@@ -129088,7 +129088,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TheMarchRiderKey",
-    "custom": "",
+    "custom": "Ключ ад \"Усё для перамогі\"",
     "en": "The March Rider Key",
     "ru": "Ключ от \"Все для победы\"",
     "bel": "Ключ ад \"Усё для перамогі\"",
@@ -129097,7 +129097,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TheNightMother",
-    "custom": "",
+    "custom": "Маці Ночы",
     "en": "The Night Mother",
     "ru": "Мать Ночи",
     "bel": "Маці Ночы",
@@ -129106,7 +129106,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TheftTopic",
-    "custom": "",
+    "custom": "Кража",
     "en": "Theft",
     "ru": "Кража",
     "bel": "Кража",
@@ -129115,7 +129115,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TheranisDeadBody",
-    "custom": "",
+    "custom": "Тэраніс",
     "en": "Theranis",
     "ru": "Теранис",
     "bel": "Тэраніс",
@@ -129124,7 +129124,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ThievesGuild",
-    "custom": "",
+    "custom": "Гільдыя злодзеяў",
     "en": "Thieves Guild",
     "ru": "Гильдия воров",
     "bel": "Гільдыя злодзеяў",
@@ -129133,7 +129133,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ThievesGuild_LEVEL1_F",
-    "custom": "",
+    "custom": "Разбойнік",
     "en": "Footpad",
     "ru": "Разбойник",
     "bel": "Разбойнік",
@@ -129142,7 +129142,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ThievesGuild_LEVEL1_M",
-    "custom": "",
+    "custom": "Разбойнік",
     "en": "Footpad",
     "ru": "Разбойник",
     "bel": "Разбойнік",
@@ -129151,7 +129151,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ThievesGuild_LEVEL3_F",
-    "custom": "",
+    "custom": "Рабаўнік",
     "en": "Prowler",
     "ru": "Грабитель",
     "bel": "Рабаўнік",
@@ -129160,7 +129160,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ThievesGuild_LEVEL3_M",
-    "custom": "",
+    "custom": "Рабаўнік",
     "en": "Prowler",
     "ru": "Грабитель",
     "bel": "Рабаўнік",
@@ -129169,7 +129169,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ThievesGuild_LEVEL4_F",
-    "custom": "",
+    "custom": "Дамушнік",
     "en": "Cat burglar",
     "ru": "Домушник",
     "bel": "Дамушнік",
@@ -129178,7 +129178,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ThievesGuild_LEVEL4_M",
-    "custom": "",
+    "custom": "Дамушнік",
     "en": "Cat burglar",
     "ru": "Домушник",
     "bel": "Дамушнік",
@@ -129187,7 +129187,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ThievesGuild_LEVEL5_F",
-    "custom": "",
+    "custom": "Ценявік",
     "en": "Shadowfoot",
     "ru": "Теневик",
     "bel": "Ценявік",
@@ -129196,7 +129196,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ThievesGuild_LEVEL5_M",
-    "custom": "",
+    "custom": "Ценявік",
     "en": "Shadowfoot",
     "ru": "Теневик",
     "bel": "Ценявік",
@@ -129205,7 +129205,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ThievesGuild_LEVEL6_F",
-    "custom": "",
+    "custom": "Майстар-злодзей",
     "en": "Master Thief",
     "ru": "Мастер-вор",
     "bel": "Майстар-злодзей",
@@ -129214,7 +129214,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ThievesGuild_LEVEL6_M",
-    "custom": "",
+    "custom": "Майстар-злодзей",
     "en": "Master Thief",
     "ru": "Мастер-вор",
     "bel": "Майстар-злодзей",
@@ -129223,7 +129223,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Thiirchel",
-    "custom": "",
+    "custom": "Тырчэл",
     "en": "Thiirchel",
     "ru": "Тирчел",
     "bel": "Тырчэл",
@@ -129232,7 +129232,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ThorleyAethelred",
-    "custom": "",
+    "custom": "Торлі Этэлрэд",
     "en": "Thorley Aethelred",
     "ru": "Торли Этелред",
     "bel": "Торлі Этэлрэд",
@@ -129241,7 +129241,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Thoronir",
-    "custom": "",
+    "custom": "Таранір",
     "en": "Thoronir",
     "ru": "Торонир",
     "bel": "Таранір",
@@ -129250,7 +129250,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ThoronirTopic",
-    "custom": "",
+    "custom": "Таранір",
     "en": "Thoronir",
     "ru": "Торонир",
     "bel": "Таранір",
@@ -129259,7 +129259,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ThoronirsBargainEmpireKey",
-    "custom": "",
+    "custom": "Ключ ад \"Бяздоннага кашалька\"",
     "en": "The Copious Coinpurse Key",
     "ru": "Ключ от \"Бездонного кошелька\"",
     "bel": "Ключ ад \"Бяздоннага кашалька\"",
@@ -129268,7 +129268,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Thrangirfin",
-    "custom": "",
+    "custom": "Трангірфін",
     "en": "Thrangirfin",
     "ru": "Трангирфин",
     "bel": "Трангірфін",
@@ -129277,7 +129277,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ThreeBrothersFaction",
-    "custom": "",
+    "custom": "IC - Тры браты",
     "en": "IC - Three Brothers",
     "ru": "IC - Три брата",
     "bel": "IC - Тры браты",
@@ -129286,7 +129286,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ThreeBrothersTradeGoodsKey",
-    "custom": "",
+    "custom": "Ключ ад крамы \"Тры браты\"",
     "en": "Three Brothers Trade Goods Key",
     "ru": "Ключ от магазина \"Три брата\"",
     "bel": "Ключ ад крамы \"Тры браты\"",
@@ -129295,7 +129295,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TiberSeptimHotelFaction",
-    "custom": "",
+    "custom": "Гільдыя гатэля Тыбера Септыма (IC)",
     "en": "Tiber Septim Hotel faction (IC)",
     "ru": "Фракция отеля Tiber Septim (IC)",
     "bel": "Фракцыя гатэля Tiber Septim (IC)",
@@ -129304,7 +129304,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TidewaterCave",
-    "custom": "",
+    "custom": "Пячора Прыліўная Хваля",
     "en": "Tidewater Cave",
     "ru": "Пещера Приливная Волна",
     "bel": "Пячора Прыліўная Хваля",
@@ -129313,7 +129313,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TidewaterCaveTOPIC",
-    "custom": "",
+    "custom": "Пячора Прыліўная Хваля",
     "en": "Tidewater Cave",
     "ru": "Пещера Приливная Волна",
     "bel": "Пячора Прыліўная Хваля",
@@ -129322,7 +129322,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Tierra",
-    "custom": "",
+    "custom": "Цьерра",
     "en": "Tierra",
     "ru": "Тьерра",
     "bel": "Цьерра",
@@ -129331,7 +129331,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TigerLily01",
-    "custom": "",
+    "custom": "Тыгровая лілія",
     "en": "Tiger Lily",
     "ru": "Тигровая лилия",
     "bel": "Тыгровая лілія",
@@ -129340,7 +129340,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TigerLilyNectar",
-    "custom": "",
+    "custom": "Нектар тыгровай ліліі",
     "en": "Tiger Lily Nectar",
     "ru": "Нектар тигровой лилии",
     "bel": "Нектар тыгровай ліліі",
@@ -129349,7 +129349,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Tilmo",
-    "custom": "",
+    "custom": "Тылмо",
     "en": "Tilmo",
     "ru": "Тилмо",
     "bel": "Тылмо",
@@ -129358,7 +129358,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TimberscarHollow",
-    "custom": "",
+    "custom": "Пячора Лясны Уцёс",
     "en": "Timberscar Hollow",
     "ru": "Пещера Лесистый Утес",
     "bel": "Пячора Лясны Уцёс",
@@ -129367,7 +129367,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TimeToGo",
-    "custom": "",
+    "custom": "Пара",
     "en": "TimeToGo",
     "ru": "Пора.",
     "bel": "Пара.",
@@ -129376,7 +129376,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TimeWound",
-    "custom": "",
+    "custom": "Часовая рана",
     "en": "Time Wound",
     "ru": "Временная рана",
     "bel": "Часовая рана",
@@ -129385,7 +129385,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TimotheeLaRouche",
-    "custom": "",
+    "custom": "Цімоці Ля Руш",
     "en": "Timothee LaRouche",
     "ru": "Тимоти Ля Руш",
     "bel": "Цімоці Ля Руш",
@@ -129394,7 +129394,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TinderPolyporeCap",
-    "custom": "",
+    "custom": "Шапачка грыба-трутавіка",
     "en": "Tinder Polypore Cap",
     "ru": "Шляпка гриба-трутовика",
     "bel": "Шапачка грыба-трутавіка",
@@ -129403,7 +129403,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ToadstoolGrogKey",
-    "custom": "",
+    "custom": "Ключ ад Бледныя Паганкі",
     "en": "Toadstool Grog Key",
     "ru": "Ключ от Бледной Поганки",
     "bel": "Ключ ад Бледныя Паганкі",
@@ -129412,7 +129412,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ToadstoolHollow",
-    "custom": "",
+    "custom": "Пячора Бледныя Паганкі",
     "en": "Toadstool Hollow",
     "ru": "Пещера Бледная Поганка",
     "bel": "Пячора Бледныя Паганкі",
@@ -129421,7 +129421,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ToadstoolHollow02",
-    "custom": "",
+    "custom": "Пячора Бледныя Паганкі - Тунэлі",
     "en": "Toadstool Hollow Tunnels",
     "ru": "Пещера Бледная Поганка - Туннели",
     "bel": "Пячора Бледныя Паганкі - Тунэлі",
@@ -129430,7 +129430,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ToadstoolHollow03",
-    "custom": "",
+    "custom": "Пячора Бледныя Паганкі - Заблытаныя тунэлі",
     "en": "Toadstool Hollow Doubleback",
     "ru": "Пещера Бледная Поганка - Запутанные туннели",
     "bel": "Пячора Бледныя Паганкі - Заблытаныя тунэлі",
@@ -129439,7 +129439,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TobaccoPlant",
-    "custom": "",
+    "custom": "Тытунь",
     "en": "Tobacco Plant",
     "ru": "Табак",
     "bel": "Тытунь",
@@ -129448,7 +129448,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Toddtest",
-    "custom": "",
+    "custom": "Тэст - Дом Тода",
     "en": "Todd's Test House",
     "ru": "Тест - Дом Тодда",
     "bel": "Тэст - Дом Тода",
@@ -129457,7 +129457,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TomatoPlant",
-    "custom": "",
+    "custom": "Памідор",
     "en": "Tomato Plant",
     "ru": "Томат",
     "bel": "Памідор",
@@ -129466,7 +129466,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Tongs01",
-    "custom": "",
+    "custom": "Кляшчы",
     "en": "Tongs",
     "ru": "Клещи",
     "bel": "Кляшчы",
@@ -129475,7 +129475,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TongsFarm01",
-    "custom": "",
+    "custom": "Кляшчы",
     "en": "Tongs",
     "ru": "Клещи",
     "bel": "Кляшчы",
@@ -129484,7 +129484,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TonyTest",
-    "custom": "",
+    "custom": "TonyTestCell",
     "en": "TonyTestCell",
     "ru": "Камера TonyTestCell",
     "bel": "Камера TonyTestCell",
@@ -129493,7 +129493,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ToothintheSea",
-    "custom": "",
+    "custom": "Марскі Зуб",
     "en": "Tooth-in-the-Sea",
     "ru": "Морской Зуб",
     "bel": "Марскі Зуб",
@@ -129502,7 +129502,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TorbaltheSufficient",
-    "custom": "",
+    "custom": "Торбал Самадастатковы",
     "en": "Torbal the Sufficient",
     "ru": "Торбал Самодостаточный",
     "bel": "Торбал Самадастатковы",
@@ -129511,7 +129511,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TortureCage",
-    "custom": "",
+    "custom": "Клетка вывадку",
     "en": "Brood Cage",
     "ru": "Клетка",
     "bel": "Клетка",
@@ -129520,7 +129520,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ToutiusSextius",
-    "custom": "",
+    "custom": "Тутыус Секстыус",
     "en": "Toutius Sextius",
     "ru": "Тутиус Секстиус",
     "bel": "Тутыус Секстыус",
@@ -129529,7 +129529,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ToutiusSextiusKey",
-    "custom": "",
+    "custom": "Ключ Тутыуса Секстыуса",
     "en": "Toutius Sextius' Key",
     "ru": "Ключ Тутиуса Секстиуса",
     "bel": "Ключ Тутыуса Секстыуса",
@@ -129538,7 +129538,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ToutiusSextiusTopic",
-    "custom": "",
+    "custom": "Тутыус Секстыус",
     "en": "Toutius Sextius",
     "ru": "Тутиус Секстиус",
     "bel": "Тутыус Секстыус",
@@ -129547,7 +129547,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TownguardAnShield",
-    "custom": "",
+    "custom": "Анвільскі шчыт",
     "en": "Anvil Shield",
     "ru": "Анвильский щит",
     "bel": "Анвільскі шчыт",
@@ -129556,7 +129556,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TownguardBraShield",
-    "custom": "",
+    "custom": "Бравільскі шчыт",
     "en": "Bravil Shield",
     "ru": "Бравильский щит",
     "bel": "Бравільскі шчыт",
@@ -129565,7 +129565,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TownguardCheShield",
-    "custom": "",
+    "custom": "Чэйдынхольскі шчыт",
     "en": "Cheydinhal Shield",
     "ru": "Чейдинхольский щит",
     "bel": "Чэйдынхольскі шчыт",
@@ -129574,7 +129574,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TownguardChoShield",
-    "custom": "",
+    "custom": "Карольскі шчыт",
     "en": "Chorrol Shield",
     "ru": "Корролский щит",
     "bel": "Карольскі шчыт",
@@ -129583,7 +129583,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TownguardCuirassChe",
-    "custom": "",
+    "custom": "Кіраса Чэйдынхола",
     "en": "Cheydinhal Cuirass",
     "ru": "Кираса Чейдинхола",
     "bel": "Кіраса Чэйдынхола",
@@ -129592,7 +129592,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TownguardCuirassCho",
-    "custom": "",
+    "custom": "Кіраса Карола",
     "en": "Chorrol Cuirass",
     "ru": "Кираса Коррола",
     "bel": "Кіраса Карола",
@@ -129601,7 +129601,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TownguardCuirassLe",
-    "custom": "",
+    "custom": "Кіраса Лейавіна",
     "en": "Leyawiin Cuirass",
     "ru": "Кираса Лейавина",
     "bel": "Кіраса Лейавіна",
@@ -129610,7 +129610,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TownguardHelmet",
-    "custom": "",
+    "custom": "Шлем вартаўніка",
     "en": "Guard Helmet",
     "ru": "Шлем стражника",
     "bel": "Шлем вартаўніка",
@@ -129619,7 +129619,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TownguardLeShield",
-    "custom": "",
+    "custom": "Лейавінскі шчыт",
     "en": "Leyawiin Shield",
     "ru": "Лейавинский щит",
     "bel": "Лейавінскі шчыт",
@@ -129628,7 +129628,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TownguardSkShield",
-    "custom": "",
+    "custom": "Скінградскі шчыт",
     "en": "Skingrad Shield",
     "ru": "Скинградский щит",
     "bel": "Скінградскі шчыт",
@@ -129637,7 +129637,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrainerNightblade",
-    "custom": "",
+    "custom": "Клінок ночы",
     "en": "Nightblade",
     "ru": "Клинок ночи",
     "bel": "Клінок ночы",
@@ -129646,7 +129646,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrainingAcrobatics",
-    "custom": "",
+    "custom": "Навучанне акрабатыцы",
     "en": "Acrobatics Training",
     "ru": "Обучение акробатике",
     "bel": "Навучанне акрабатыцы",
@@ -129655,7 +129655,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrainingAlteration",
-    "custom": "",
+    "custom": "Навучанне змяненню",
     "en": "Alteration Training",
     "ru": "Обучение изменению",
     "bel": "Навучанне змяненню",
@@ -129664,7 +129664,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrainingAlterationYes",
-    "custom": "",
+    "custom": "Так. Што трэба зрабіць?",
     "en": "Yes, I'm ready.",
     "ru": "Да, давай начнем.",
     "bel": "Так, давай пачнем.",
@@ -129673,7 +129673,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrainingArmorer",
-    "custom": "",
+    "custom": "Навучанне збройніка",
     "en": "Armorer Training",
     "ru": "Обучение оружейника",
     "bel": "Навучанне збройніка",
@@ -129682,7 +129682,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrainingArmorerHazadir",
-    "custom": "",
+    "custom": "Ён перамог у спаборніцтве збройнікаў.",
     "en": "He won the Armorer's Challenge.",
     "ru": "Он победил в соревновании оружейников.",
     "bel": "Ён перамог у спаборніцтве збройнікаў.",
@@ -129691,7 +129691,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrainingAthletics",
-    "custom": "",
+    "custom": "Навучанне атлетыцы",
     "en": "Athletics Training",
     "ru": "Обучение атлетике",
     "bel": "Навучанне атлетыцы",
@@ -129700,7 +129700,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrainingBlade",
-    "custom": "",
+    "custom": "Навучанне валоданню клінкамі",
     "en": "Blade Training",
     "ru": "Обучение владению клинками",
     "bel": "Навучанне валоданню клінкамі",
@@ -129709,7 +129709,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrainingBlock",
-    "custom": "",
+    "custom": "Навучанне блакаванню",
     "en": "Block Training",
     "ru": "Обучение блокированию",
     "bel": "Навучанне блакаванню",
@@ -129718,7 +129718,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrainingBlockNo",
-    "custom": "",
+    "custom": "Ні за што.",
     "en": "No way.",
     "ru": "Ни за что.",
     "bel": "Ні за што.",
@@ -129727,7 +129727,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrainingBlockYes",
-    "custom": "",
+    "custom": "Добра. Пачнем.",
     "en": "Yes. I'm ready.",
     "ru": "Хорошо. Начнем.",
     "bel": "Добра. Пачнем.",
@@ -129736,7 +129736,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrainingBlunt",
-    "custom": "",
+    "custom": "Навучанне валоданню драбільнай зброяй",
     "en": "Blunt Training",
     "ru": "Обучение владению дробящим оружием",
     "bel": "Навучанне валоданню драбільнай зброяй",
@@ -129745,7 +129745,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrainingDestruction",
-    "custom": "",
+    "custom": "Навучанне разбурэнню",
     "en": "Destruction Training",
     "ru": "Обучение разрушению",
     "bel": "Навучанне разбурэнню",
@@ -129754,7 +129754,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrainingExit",
-    "custom": "",
+    "custom": "ВыйсцеЗТрэніроўкі",
     "en": "TrainingExit",
     "ru": "ВыходИзТренировки",
     "bel": "ВыйсцеЗТрэніроўкі",
@@ -129763,7 +129763,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrainingH2HNo",
-    "custom": "",
+    "custom": "Ні за што.",
     "en": "Not a chance.",
     "ru": "Ни за что.",
     "bel": "Нізавошта.",
@@ -129772,7 +129772,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrainingHandtoHand",
-    "custom": "",
+    "custom": "Навучанне рукапашнаму бою",
     "en": "Hand to Hand Training",
     "ru": "Обучение рукопашному бою",
     "bel": "Навучанне рукапашнаму бою",
@@ -129781,7 +129781,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrainingHeavyArmor",
-    "custom": "",
+    "custom": "Навучанне валоданню цяжкімі даспехамі",
     "en": "Heavy Armor Training",
     "ru": "Обучение владению тяжелыми доспехами",
     "bel": "Навучанне валоданню цяжкімі даспехамі",
@@ -129790,7 +129790,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrainingIllusion",
-    "custom": "",
+    "custom": "Навучанне ілюзіі",
     "en": "Illusion Training",
     "ru": "Обучение иллюзии",
     "bel": "Навучанне ілюзіі",
@@ -129799,7 +129799,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrainingLightArmor",
-    "custom": "",
+    "custom": "Навучанне валоданню лёгкімі даспехамі",
     "en": "Light Armor Training",
     "ru": "Обучение владению легкими доспехами",
     "bel": "Навучанне валоданню лёгкімі даспехамі",
@@ -129808,7 +129808,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrainingMercantile",
-    "custom": "",
+    "custom": "Навучанне гандлю",
     "en": "Mercantile Training",
     "ru": "Обучение торговле",
     "bel": "Навучанне гандлю",
@@ -129817,7 +129817,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrainingSecurity",
-    "custom": "",
+    "custom": "Навучанне ўзлому",
     "en": "Security Training",
     "ru": "Обучение взлому",
     "bel": "Навучанне ўзлому",
@@ -129826,7 +129826,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrainingSneak",
-    "custom": "",
+    "custom": "Навучанне ўтоенасці",
     "en": "Sneak Training",
     "ru": "Обучение скрытности",
     "bel": "Навучанне ўтоенасці",
@@ -129835,7 +129835,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TransmuteMineral",
-    "custom": "",
+    "custom": "Пераўтварыць мінерал",
     "en": "Transmute Mineral",
     "ru": "Преобразовать минерал",
     "bel": "Пераўтварыць мінерал",
@@ -129844,7 +129844,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrappableSpell",
-    "custom": "",
+    "custom": "Пасткавае заклінанне",
     "en": "Trappable Spell",
     "ru": "Ловушечное заклинание",
     "bel": "Пасткавае заклінанне",
@@ -129853,7 +129853,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrayvondtheRedguard",
-    "custom": "",
+    "custom": "Трайвонд Рэдгард",
     "en": "Trayvond the Redguard",
     "ru": "Трайвонд Редгард",
     "bel": "Трайвонд Рэдгард",
@@ -129862,7 +129862,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TreasureStump2",
-    "custom": "",
+    "custom": "Хісткі пень",
     "en": "Billowing Stump",
     "ru": "Шатающийся пень",
     "bel": "Хісткі пень",
@@ -129871,7 +129871,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Trespass",
-    "custom": "",
+    "custom": "Парушэнне",
     "en": "Trespass",
     "ru": "Нарушение",
     "bel": "Парушэнне",
@@ -129880,7 +129880,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrespassNoCrime",
-    "custom": "",
+    "custom": "БезПарушэння",
     "en": "TrespassNoCrime",
     "ru": "БезНарушения",
     "bel": "БезПарушэння",
@@ -129889,7 +129889,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrespassingTopic",
-    "custom": "",
+    "custom": "Парушэнне валодання",
     "en": "Trespassing",
     "ru": "Нарушение владения",
     "bel": "Парушэнне валодання",
@@ -129898,7 +129898,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrollCandleCamp",
-    "custom": "",
+    "custom": "Трольны Свячны Лагер",
     "en": "Troll Candle Camp",
     "ru": "Троллиный Свечной Лагерь",
     "bel": "Трольны Свячны Лагер",
@@ -129907,7 +129907,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrollEasy",
-    "custom": "",
+    "custom": "Ашкланскі троль",
     "en": "Azhklan Troll",
     "ru": "Ашкланский тролль",
     "bel": "Ашкланскі троль",
@@ -129916,7 +129916,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrollHard",
-    "custom": "",
+    "custom": "Ашкланскі троль",
     "en": "Azhklan Troll",
     "ru": "Ашкланский тролль",
     "bel": "Ашкланскі троль",
@@ -129925,7 +129925,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrollMedium",
-    "custom": "",
+    "custom": "Ашкланскі троль",
     "en": "Azhklan Troll",
     "ru": "Ашкланский тролль",
     "bel": "Ашкланскі троль",
@@ -129934,7 +129934,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrollMediumNoWander",
-    "custom": "",
+    "custom": "Ашкланскі троль",
     "en": "Azhklan Troll",
     "ru": "Ашкланский тролль",
     "bel": "Ашкланскі троль",
@@ -129943,7 +129943,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TrollVeryHard",
-    "custom": "",
+    "custom": "Ашкланскі троль",
     "en": "Azhklan Troll",
     "ru": "Ашкланский тролль",
     "bel": "Ашкланскі троль",
@@ -129952,7 +129952,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Trumbe",
-    "custom": "",
+    "custom": "Трамб",
     "en": "Trumbe",
     "ru": "Трамб",
     "bel": "Трамб",
@@ -129961,7 +129961,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Tsalajma",
-    "custom": "",
+    "custom": "Тсалажма",
     "en": "Tsalajma",
     "ru": "Тсалажма",
     "bel": "Тсалажма",
@@ -129970,7 +129970,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Tsarrina",
-    "custom": "",
+    "custom": "Тсаррына",
     "en": "Tsarrina",
     "ru": "Тсаррина",
     "bel": "Тсаррына",
@@ -129979,7 +129979,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TunZeeus",
-    "custom": "",
+    "custom": "Тан-Зіус",
     "en": "Tun-Zeeus",
     "ru": "Тан-Зиус",
     "bel": "Тан-Зіус",
@@ -129988,7 +129988,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TunZeeusKey",
-    "custom": "",
+    "custom": "Ключ Тан-Зіуса",
     "en": "Tun-Zeeus' Key",
     "ru": "Ключ Тан-Зиуса",
     "bel": "Ключ Тан-Зіуса",
@@ -129997,7 +129997,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TwoSisters",
-    "custom": "",
+    "custom": "Фракцыя \"Дзве Сястры\"",
     "en": "Two Sisters Faction",
     "ru": "Фракция \"Две Сестры\"",
     "bel": "Фракцыя \"Дзве Сястры\"",
@@ -130006,7 +130006,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TyrelliusLogellus",
-    "custom": "",
+    "custom": "Турэліус Лагелус",
     "en": "Tyrellius Logellus",
     "ru": "Туреллиус Логеллус",
     "bel": "Турэліус Лагелус",
@@ -130015,7 +130015,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_TyrelliusLogellusOffDuty",
-    "custom": "",
+    "custom": "Турэліус Лагелус",
     "en": "Tyrellius Logellus",
     "ru": "Туреллиус Логеллус",
     "bel": "Турэліус Лагелус",
@@ -130024,7 +130024,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UlenAthram",
-    "custom": "",
+    "custom": "Улен Атрам",
     "en": "Ulen Athram",
     "ru": "Улен Атрам",
     "bel": "Улен Атрам",
@@ -130033,7 +130033,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UleneHlervu",
-    "custom": "",
+    "custom": "Улен Хлерву",
     "en": "Ulene Hlervu",
     "ru": "Улен Хлерву",
     "bel": "Улен Хлерву",
@@ -130042,7 +130042,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UlfgarFACTIONPeace",
-    "custom": "",
+    "custom": "Мір фракцыі Ульфгара",
     "en": "Ulfgar FACTION Peace",
     "ru": "Ulfgar FACTION: Мир",
     "bel": "Ulfgar FACTION: Мір",
@@ -130051,7 +130051,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UlfgarFACTIONWar",
-    "custom": "",
+    "custom": "Вайна фракцыі Ульфгара",
     "en": "UlfgarFACTIONWar",
     "ru": "Война UlfgarFACTION.",
     "bel": "Вайна UlfgarFACTION.",
@@ -130060,7 +130060,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UlfgarFogEye",
-    "custom": "",
+    "custom": "Ульфгар Туманны Погляд",
     "en": "Ulfgar Fog-Eye",
     "ru": "Ульфгар Туманный Взор",
     "bel": "Ульфгар Туманны Погляд",
@@ -130069,7 +130069,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UlmuggroCromgog",
-    "custom": "",
+    "custom": "Улмаг гро-Громгог",
     "en": "Ulmug gro-Cromgog",
     "ru": "Улмаг гро-Громгог",
     "bel": "Улмаг гро-Громгог",
@@ -130078,7 +130078,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UmbacanoBribeA1",
-    "custom": "",
+    "custom": "Гатэль \"Тайбер Септым\"? Там дорага.",
     "en": "The Tiber Septim Hotel? Expensive.",
     "ru": "Отель \"Тайбер Септим\"? Там дорого.",
     "bel": "Гатэль \"Тайбер Септым\"? Там дорага.",
@@ -130087,7 +130087,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UmbacanoBribeB1",
-    "custom": "",
+    "custom": "Вось 100 залатых. Выпей за мяне.",
     "en": "Here's 100 gold. Have a drink on me.",
     "ru": "Вот 100 золотых. Выпей за меня.",
     "bel": "Вось 100 залатых. Выпей за мяне.",
@@ -130096,7 +130096,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UmbacanoBribeB2",
-    "custom": "",
+    "custom": "Магчыма, я пачастую цябе ў іншы раз.",
     "en": "Maybe another time I'll treat you.",
     "ru": "Возможно, я угощу тебя в другой раз.",
     "bel": "Магчыма, я пачастую цябе ў іншы раз.",
@@ -130105,7 +130105,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UmbacanoFaction",
-    "custom": "",
+    "custom": "Фракцыя Умбакана",
     "en": "Umbacano Faction",
     "ru": "Фракция Umbacano",
     "bel": "Фракцыя Umbacano",
@@ -130114,7 +130114,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UmbacanoOuterKey",
-    "custom": "",
+    "custom": "Ключ ад асабняка Умбакана",
     "en": "Umbacano Manor Key",
     "ru": "Ключ от особняка Умбакано",
     "bel": "Ключ ад асабняка Умбакана",
@@ -130123,7 +130123,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UmbecanoDisplayCase01",
-    "custom": "",
+    "custom": "Вітрына для айлейдскіх статуй",
     "en": "Ayleid Statue Display",
     "ru": "Витрина для айлейдских статуй",
     "bel": "Вітрына для айлейдскіх статуй",
@@ -130132,7 +130132,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UndenaOrethi",
-    "custom": "",
+    "custom": "Ундэна Арэці",
     "en": "Undena Orethi",
     "ru": "Ундена Орети",
     "bel": "Ундэна Арэці",
@@ -130141,7 +130141,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UndenaOrethiKey",
-    "custom": "",
+    "custom": "Ключ Ундэны Арэці",
     "en": "Undena Orethi's Key",
     "ru": "Ключ Ундены Орети",
     "bel": "Ключ Ундэны Арэці",
@@ -130150,7 +130150,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UnderPallGateKey",
-    "custom": "",
+    "custom": "Ключ ад Андэрпала",
     "en": "Underpall Gate Key",
     "ru": "Ключ от Андерпалла",
     "bel": "Ключ ад Андэрпала",
@@ -130159,7 +130159,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UndercroftGhost",
-    "custom": "",
+    "custom": "Асвячоны мертвяк",
     "en": "Sanctified Dead",
     "ru": "Освященный мертвец",
     "bel": "Асвячоны мертвяк",
@@ -130168,7 +130168,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UndercroftGhostAncient",
-    "custom": "",
+    "custom": "Старажытны асвячоны мертвяк",
     "en": "Ancient Sanctified Dead",
     "ru": "Древний освященный мертвец",
     "bel": "Старажытны асвячоны мертвяк",
@@ -130177,7 +130177,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UndercroftWraith0Faded",
-    "custom": "",
+    "custom": "Старажытны асвячоны прывід",
     "en": "Sanctified Ancient Spectre",
     "ru": "Древний освященный призрак",
     "bel": "Старажытны асвячоны прывід",
@@ -130186,7 +130186,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UndercroftWraith1",
-    "custom": "",
+    "custom": "Старажытны асвячоны прывід",
     "en": "Sanctified Ancient Spectre",
     "ru": "Древний освященный призрак",
     "bel": "Старажытны асвячоны прывід",
@@ -130195,7 +130195,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UndercroftWraith2Gloom",
-    "custom": "",
+    "custom": "Старажытны асвячоны прывід",
     "en": "Sanctified Ancient Spectre",
     "ru": "Древний освященный призрак",
     "bel": "Старажытны асвячоны прывід",
@@ -130204,7 +130204,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UnderpallCave05",
-    "custom": "",
+    "custom": "Андэрпал - Пакой адлюстраванняў",
     "en": "Underpall Reflecting Chamber",
     "ru": "Андерпалл - Комната отражений",
     "bel": "Андэрпал - Пакой адлюстраванняў",
@@ -130213,7 +130213,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UndertowCavern",
-    "custom": "",
+    "custom": "Пячора Сустрэчная Плынь",
     "en": "Undertow Cavern",
     "ru": "Пещера Противотечение",
     "bel": "Пячора Сустрэчная Плынь",
@@ -130222,7 +130222,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UndertowCavern02",
-    "custom": "",
+    "custom": "Пячора Сустрэчная Плынь - Затрымай-сваё-дыханне",
     "en": "Undertow Cavern Hold-Your-Breath",
     "ru": "Пещера Противотечение - Задержи-свое-дыхание",
     "bel": "Пячора Сустрэчная Плынь - Затрымай-сваё-дыханне",
@@ -130231,7 +130231,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Ungolim",
-    "custom": "",
+    "custom": "Ангалім",
     "en": "Ungolim",
     "ru": "Анголим",
     "bel": "Ангалім",
@@ -130240,7 +130240,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UngolimKey",
-    "custom": "",
+    "custom": "Ключ Ангаліма",
     "en": "Ungolim's Key",
     "ru": "Ключ Анголима",
     "bel": "Ключ Ангаліма",
@@ -130249,7 +130249,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueChainBootsMerchant",
-    "custom": "",
+    "custom": "Боты спрытнага гандляра",
     "en": "Boots of the Swift Merchant",
     "ru": "Сапоги проворного торговца",
     "bel": "Боты спрытнага гандляра",
@@ -130258,7 +130258,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueClothingBootsAthlete",
-    "custom": "",
+    "custom": "Боты Ністора",
     "en": "Nistor's Boots",
     "ru": "Ботинки Нистора",
     "bel": "Боты Ністора",
@@ -130267,7 +130267,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueClothingHoodDiplomat",
-    "custom": "",
+    "custom": "Капюшон дарадцы",
     "en": "Councilor's Hood",
     "ru": "Капюшон советника",
     "bel": "Капюшон дарадцы",
@@ -130276,7 +130276,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueClothingHoodGatherer",
-    "custom": "",
+    "custom": "Капюшон лесніка",
     "en": "Mantle of the Woodsman",
     "ru": "Капюшон лесника",
     "bel": "Капюшон лесніка",
@@ -130285,7 +130285,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueClothingHoodSeer",
-    "custom": "",
+    "custom": "Вуаль прарока",
     "en": "Veil of the Seer",
     "ru": "Вуаль пророка",
     "bel": "Вуаль прарока",
@@ -130294,7 +130294,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueClothingPantsSilverTongues",
-    "custom": "",
+    "custom": "Імперскае адзенне",
     "en": "Imperial Breeches",
     "ru": "Имперская одежда",
     "bel": "Імперскае адзенне",
@@ -130303,7 +130303,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueClothingRobeCreativity",
-    "custom": "",
+    "custom": "Роба творчасці",
     "en": "Robe of Creativity",
     "ru": "Роба творчества",
     "bel": "Роба творчасці",
@@ -130312,7 +130312,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueClothingShirtBard",
-    "custom": "",
+    "custom": "Кашуля барда",
     "en": "Vest of the Bard",
     "ru": "Рубашка барда",
     "bel": "Кашуля барда",
@@ -130321,7 +130321,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueClubSubmission",
-    "custom": "",
+    "custom": "Дубінка падпарадкавання",
     "en": "Truncheon of Submission",
     "ru": "Дубинка подчинения",
     "bel": "Дубінка падпарадкавання",
@@ -130330,7 +130330,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueDwarvenCuirassJuggernaut",
-    "custom": "",
+    "custom": "Джагернаўт Дандарана",
     "en": "Dondoran's Juggernaut",
     "ru": "Джаггернаут Дондорана",
     "bel": "Джагернаўт Дандарана",
@@ -130339,7 +130339,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueDwarvenHelmDelver",
-    "custom": "",
+    "custom": "Шлем глыбіннага жыхара",
     "en": "Helm of the Deep Delver",
     "ru": "Шлем глубинного жителя",
     "bel": "Шлем глыбіннага жыхара",
@@ -130348,7 +130348,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueEbonyGauntetsAtronach",
-    "custom": "",
+    "custom": "Рукі атронаха",
     "en": "Hands of the Atronach",
     "ru": "Руки атронаха",
     "bel": "Рукі атронаха",
@@ -130357,7 +130357,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueElvenCuirassLegacy",
-    "custom": "",
+    "custom": "Першародства Асталона",
     "en": "Birthright of Astalon",
     "ru": "Первородство Асталона",
     "bel": "Першародства Асталона",
@@ -130366,7 +130366,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueFurGreavesMonkey",
-    "custom": "",
+    "custom": "Малпавыя штаны",
     "en": "Monkeypants",
     "ru": "Обезьяньи штаны",
     "bel": "Малпавыя штаны",
@@ -130375,7 +130375,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueGlassBootsQuicksilver",
-    "custom": "",
+    "custom": "Ртутныя боты",
     "en": "Quicksilver Boots",
     "ru": "Ртутные сапоги",
     "bel": "Ртутныя боты",
@@ -130384,7 +130384,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueOrcishGaunletsHunger",
-    "custom": "",
+    "custom": "Пальчаткі ненажэрнасці",
     "en": "Gauntlets of Gluttony",
     "ru": "Перчатки ненасытности",
     "bel": "Пальчаткі ненажэрнасці",
@@ -130393,7 +130393,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueRingTransmuter",
-    "custom": "",
+    "custom": "Пярсцёнак ператварэння",
     "en": "Ring of Transmutation",
     "ru": "Кольцо превращения",
     "bel": "Пярсцёнак ператварэння",
@@ -130402,7 +130402,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueRingUnseen",
-    "custom": "",
+    "custom": "Прывідны пярсцёнак",
     "en": "Spectre Ring",
     "ru": "Призрачное кольцо",
     "bel": "Прывідны пярсцёнак",
@@ -130411,7 +130411,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueRingWortcraft",
-    "custom": "",
+    "custom": "Пярсцёнак траўніка",
     "en": "Ring of Wortcraft",
     "ru": "Кольцо травника",
     "bel": "Пярсцёнак траўніка",
@@ -130420,7 +130420,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueScrollFireNexus",
-    "custom": "",
+    "custom": "Аналы вогненных путаў",
     "en": "Annal of the Fire Nexus",
     "ru": "Анналы огненных уз",
     "bel": "Аналы вогненных путаў",
@@ -130429,7 +130429,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueScrollPurileBanter",
-    "custom": "",
+    "custom": "Запіс жартаўніка",
     "en": "Document of Purile Banter",
     "ru": "Запись шутника",
     "bel": "Запіс жартаўніка",
@@ -130438,7 +130438,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueScrollSacrifice",
-    "custom": "",
+    "custom": "Хронікі ахвярапрынашэння",
     "en": "Chronicle of Sacrifice",
     "ru": "Хроники жертвоприношения",
     "bel": "Хронікі ахвярапрынашэння",
@@ -130447,7 +130447,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueScrollStorms",
-    "custom": "",
+    "custom": "Скрутак громавага ўдару",
     "en": "Stormrider Scroll",
     "ru": "Свиток громовержца",
     "bel": "Скрутак громавага ўдару",
@@ -130456,7 +130456,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueSteelGauntletsRasheedasSpecial",
-    "custom": "",
+    "custom": "Пальчаткі Рашэды",
     "en": "Rasheda's Special",
     "ru": "Перчатки Рашеды",
     "bel": "Пальчаткі Рашэды",
@@ -130465,7 +130465,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueWeapAcid",
-    "custom": "",
+    "custom": "Акаварскі клінок",
     "en": "Akavari Sunderblade",
     "ru": "Акаварский клинок",
     "bel": "Акаварскі клінок",
@@ -130474,7 +130474,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueWeapAkavari",
-    "custom": "",
+    "custom": "Ваенны акаварскі клінок",
     "en": "Akavari Warblade",
     "ru": "Военный акаварский клинок",
     "bel": "Ваенны акаварскі клінок",
@@ -130483,7 +130483,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueWeapBlindness",
-    "custom": "",
+    "custom": "Лук пакут",
     "en": "Bow of Infliction",
     "ru": "Лук страданий",
     "bel": "Лук пакут",
@@ -130492,7 +130492,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueWeapCleaver",
-    "custom": "",
+    "custom": "Сякера Дэстарына",
     "en": "Destarine's Cleaver",
     "ru": "Секач Дестарина",
     "bel": "Сякера Дэстарына",
@@ -130501,7 +130501,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UniqueWeapHatred",
-    "custom": "",
+    "custom": "Сякера нянавісці",
     "en": "Battleaxe of Hatred",
     "ru": "Секира ненависти",
     "bel": "Сякера нянавісці",
@@ -130510,7 +130510,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UnmarkedCave",
-    "custom": "",
+    "custom": "Безназоўная пячора",
     "en": "Unmarked Cave",
     "ru": "Безымянная пещера",
     "bel": "Безназоўная пячора",
@@ -130519,7 +130519,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UnmarkedCave01",
-    "custom": "",
+    "custom": "Неадзначаная пячора",
     "en": "Unmarked Cave",
     "ru": "Неотмеченная пещера",
     "bel": "Неадзначаная пячора",
@@ -130528,7 +130528,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UnmarkedCave01b",
-    "custom": "",
+    "custom": "Неадзначаная пячора - Лабірынт",
     "en": "Unmarked Cave Mazeway",
     "ru": "Неотмеченная пещера - Лабиринт",
     "bel": "Неадзначаная пячора - Лабірынт",
@@ -130537,7 +130537,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UnmarkedCave01c",
-    "custom": "",
+    "custom": "Неадзначаная пячора - Зала Чорнай каралевы",
     "en": "Unmarked Cave Black Queen's Hall",
     "ru": "Неотмеченная пещера - Зал Черной королевы",
     "bel": "Неадзначаная пячора - Зала Чорнай каралевы",
@@ -130546,7 +130546,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UntrappableSpell",
-    "custom": "",
+    "custom": "Неблакіруемае заклінанне",
     "en": "Untrappable Spell",
     "ru": "Неблокируемое заклинание",
     "bel": "Неблакіруемае заклінанне",
@@ -130555,7 +130555,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UnusualRoot",
-    "custom": "",
+    "custom": "Незвычайны корань",
     "en": "Unusual Root",
     "ru": "Необычный корень",
     "bel": "Необычайны корань",
@@ -130564,7 +130564,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperClassPlanter01",
-    "custom": "",
+    "custom": "Кветкавы гаршчок",
     "en": "Planter",
     "ru": "Цветочный горшок",
     "bel": "Кветкавы гаршчок",
@@ -130573,7 +130573,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperClassPlanter02",
-    "custom": "",
+    "custom": "Кветкавы гаршчок",
     "en": "Planter",
     "ru": "Цветочный горшок",
     "bel": "Кветкавы гаршчок",
@@ -130582,7 +130582,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperClassPlanter03",
-    "custom": "",
+    "custom": "Кветкавы гаршчок",
     "en": "Planter",
     "ru": "Цветочный горшок",
     "bel": "Кветкавы гаршчок",
@@ -130591,7 +130591,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperClassPlanter04",
-    "custom": "",
+    "custom": "Кветкавы гаршчок",
     "en": "Planter",
     "ru": "Цветочный горшок",
     "bel": "Кветкавы гаршчок",
@@ -130600,7 +130600,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperClassPlanter05",
-    "custom": "",
+    "custom": "Кветкавы гаршчок",
     "en": "Planter",
     "ru": "Цветочный горшок",
     "bel": "Кветкавы гаршчок",
@@ -130609,7 +130609,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperClassPlanter06",
-    "custom": "",
+    "custom": "Кветкавы гаршчок",
     "en": "Planter",
     "ru": "Цветочный горшок",
     "bel": "Кветкавы гаршчок",
@@ -130618,7 +130618,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperCupCeramic01",
-    "custom": "",
+    "custom": "Керамічная чашка",
     "en": "Ceramic Cup",
     "ru": "Керамическая чашка",
     "bel": "Керамічная чашка",
@@ -130627,7 +130627,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperGobletCeramic01",
-    "custom": "",
+    "custom": "Керамічны кубак",
     "en": "Ceramic Goblet",
     "ru": "Керамический кубок",
     "bel": "Керамічны кубак",
@@ -130636,7 +130636,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperPants06",
-    "custom": "",
+    "custom": "Сіняе шаўковае адзенне",
     "en": "Blue Silks",
     "ru": "Синяя шелковая одежда",
     "bel": "Сіняе шаўковае адзенне",
@@ -130645,7 +130645,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperRobe01",
-    "custom": "",
+    "custom": "Белая роба мага",
     "en": "White Mage's Robes",
     "ru": "Белая роба мага",
     "bel": "Белая роба мага",
@@ -130654,7 +130654,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperRobe02",
-    "custom": "",
+    "custom": "Чырвоная шаўковая роба",
     "en": "Red Silk Robes",
     "ru": "Красная шелковая роба",
     "bel": "Чырвоная шаўковая роба",
@@ -130663,7 +130663,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperRobe03",
-    "custom": "",
+    "custom": "Зялёная шаўковая роба",
     "en": "Aqua Silk Robes",
     "ru": "Зеленая шелковая роба",
     "bel": "Зялёная шаўковая роба",
@@ -130672,7 +130672,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperRobe03hood",
-    "custom": "",
+    "custom": "Зялёны шаўковы капюшон",
     "en": "Aqua Silk Hood",
     "ru": "Зеленый шелковый капюшон",
     "bel": "Зялёны шаўковы капюшон",
@@ -130681,7 +130681,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperScaleWeight01",
-    "custom": "",
+    "custom": "Вага",
     "en": "Weight",
     "ru": "Гиря",
     "bel": "Гіра",
@@ -130690,7 +130690,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperScales01",
-    "custom": "",
+    "custom": "Луска",
     "en": "Scales",
     "ru": "Весы",
     "bel": "Шалі",
@@ -130699,7 +130699,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperShirt01",
-    "custom": "",
+    "custom": "Зялёны парчовы дублет",
     "en": "Green Brocade Doublet",
     "ru": "Зеленый парчовый дублет",
     "bel": "Зялёны парчовы дублет",
@@ -130708,7 +130708,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperShirt02",
-    "custom": "",
+    "custom": "Чорна-чырвоны ўбор",
     "en": "Black & Burgundy Outfit",
     "ru": "Черно-красный наряд",
     "bel": "Чорна-чырвоны ўбор",
@@ -130717,7 +130717,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperShirt03",
-    "custom": "",
+    "custom": "Сіні аксамітны ўбор",
     "en": "Blue Velvet Outfit",
     "ru": "Синий бархатный наряд",
     "bel": "Сіні аксамітны ўбор",
@@ -130726,7 +130726,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperShirt04",
-    "custom": "",
+    "custom": "Чырвоны аксамітны блузон",
     "en": "Red Velvet Blouse",
     "ru": "Красный бархатный блузон",
     "bel": "Чырвоны аксамітны блузон",
@@ -130735,7 +130735,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperShirt05",
-    "custom": "",
+    "custom": "Чырвоны аксамітны ўбор",
     "en": "Red Velvet Outfit",
     "ru": "Красный бархатный наряд",
     "bel": "Чырвоны аксамітны ўбор",
@@ -130744,7 +130744,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperShirt06",
-    "custom": "",
+    "custom": "Сіняя шаўковая кашуля",
     "en": "Blue Silk Shirt",
     "ru": "Синяя шелковая рубашка",
     "bel": "Сіняя шаўковая кашуля",
@@ -130753,7 +130753,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperShirt07",
-    "custom": "",
+    "custom": "Кашуля разбойніка",
     "en": "Highwayman's Shirt",
     "ru": "Рубашка разбойника",
     "bel": "Кашуля разбойніка",
@@ -130762,7 +130762,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperShoes01",
-    "custom": "",
+    "custom": "Сінія аксамітныя туфлі",
     "en": "Green Velvet  Shoes",
     "ru": "Синие бархатные туфли",
     "bel": "Сінія аксамітныя туфлі",
@@ -130771,7 +130771,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperShoes02",
-    "custom": "",
+    "custom": "Шытыя золатам туфлі",
     "en": "Gold Trimmed Shoes",
     "ru": "Шитые золотом туфли",
     "bel": "Шытыя золатам туфлі",
@@ -130780,7 +130780,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperShoes03",
-    "custom": "",
+    "custom": "Сінія замшавыя туфлі",
     "en": "Blue Suede Shoes",
     "ru": "Синие замшевые туфли",
     "bel": "Сінія замшавыя туфлі",
@@ -130789,7 +130789,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperShoes04",
-    "custom": "",
+    "custom": "Белыя туфлі мага",
     "en": "White Mage's Shoes",
     "ru": "Белые туфли мага",
     "bel": "Белыя туфлі мага",
@@ -130798,7 +130798,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperSilverBowl01",
-    "custom": "",
+    "custom": "Срэбная міска",
     "en": "Silver Bowl",
     "ru": "Серебряная миска",
     "bel": "Срэбная міска",
@@ -130807,7 +130807,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperSilverBowl02",
-    "custom": "",
+    "custom": "Срэбраная міска",
     "en": "Silver Bowl",
     "ru": "Серебряная миска",
     "bel": "Срэбраная міска",
@@ -130816,7 +130816,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperSilverFork01",
-    "custom": "",
+    "custom": "Срэбны відэлец",
     "en": "Silver Fork",
     "ru": "Серебряная вилка",
     "bel": "Срэбны відэлец",
@@ -130825,7 +130825,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperSilverPlate01",
-    "custom": "",
+    "custom": "Срэбраная талерка",
     "en": "Silver Plate",
     "ru": "Серебряная тарелка",
     "bel": "Срэбраная талерка",
@@ -130834,7 +130834,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperSilverSpoon01",
-    "custom": "",
+    "custom": "Срэбраная лыжка",
     "en": "Silver Spoon",
     "ru": "Серебряная ложка",
     "bel": "Срэбраная лыжка",
@@ -130843,7 +130843,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperSilverTankard01",
-    "custom": "",
+    "custom": "Срэбраны піўны куфаль",
     "en": "Silver Tankard",
     "ru": "Серебряная пивная кружка",
     "bel": "Срэбраны піўны куфаль",
@@ -130852,7 +130852,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperSilverUrn01",
-    "custom": "",
+    "custom": "Срэбраная урна",
     "en": "Silver Urn",
     "ru": "Серебряная урна",
     "bel": "Срэбраная урна",
@@ -130861,7 +130861,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperSilverUrn02",
-    "custom": "",
+    "custom": "Срэбраная урна",
     "en": "Silver Urn",
     "ru": "Серебряная урна",
     "bel": "Срэбраная урна",
@@ -130870,7 +130870,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperSilverVase01",
-    "custom": "",
+    "custom": "Срэбраная ваза",
     "en": "Silver Vase",
     "ru": "Серебряная ваза",
     "bel": "Срэбраная ваза",
@@ -130879,7 +130879,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UpperTankardCeramic01",
-    "custom": "",
+    "custom": "Керамічны піўны куфаль",
     "en": "Ceramic Tankard",
     "ru": "Керамическая пивная кружка",
     "bel": "Керамічны піўны куфаль",
@@ -130888,7 +130888,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UrasekGuardSack",
-    "custom": "",
+    "custom": "Мяшок вартаўніка",
     "en": "Guard's Sack",
     "ru": "Мешок стражника",
     "bel": "Мяшок вартаўніка",
@@ -130897,7 +130897,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Urjabhi",
-    "custom": "",
+    "custom": "Урджабі",
     "en": "Urjabhi",
     "ru": "Урджаби",
     "bel": "Урджабі",
@@ -130906,7 +130906,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UrsanneLoche",
-    "custom": "",
+    "custom": "Урсанна Лок",
     "en": "Ursanne Loche",
     "ru": "Урсанна Лок",
     "bel": "Урсанна Лок",
@@ -130915,7 +130915,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Usheeja",
-    "custom": "",
+    "custom": "Ушыжа",
     "en": "Usheeja",
     "ru": "Ушижа",
     "bel": "Ушыжа",
@@ -130924,7 +130924,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UsheejaKey",
-    "custom": "",
+    "custom": "Ключ ад дома Ушыжы",
     "en": "Usheeja's House Key",
     "ru": "Ключ от дома Ушижи",
     "bel": "Ключ ад дома Ушыжы",
@@ -130933,7 +130933,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UurasKey",
-    "custom": "",
+    "custom": "Ключ Ураса",
     "en": "Uuras' Key",
     "ru": "Ключ Ураса",
     "bel": "Ключ Ураса",
@@ -130942,7 +130942,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UurasSheepRam",
-    "custom": "",
+    "custom": "Авечка",
     "en": "Sheep",
     "ru": "Баран",
     "bel": "Баран",
@@ -130951,7 +130951,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_UurastheShepherd",
-    "custom": "",
+    "custom": "Урас Пастух",
     "en": "Uuras the Shepherd",
     "ru": "Урас Пастух",
     "bel": "Урас Пастух",
@@ -130960,7 +130960,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Uurwen",
-    "custom": "",
+    "custom": "Урвен",
     "en": "Uurwen",
     "ru": "Урвен",
     "bel": "Урвен",
@@ -130969,7 +130969,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VaerminasShrine",
-    "custom": "",
+    "custom": "Свяцілішча Вэрміны",
     "en": "Vaermina's Shrine",
     "ru": "Святилище Вермины",
     "bel": "Свяцілішча Верміны",
@@ -130978,7 +130978,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Vahtacen",
-    "custom": "",
+    "custom": "Ватакен",
     "en": "Vahtacen",
     "ru": "Ватакен",
     "bel": "Ватакен",
@@ -130987,7 +130987,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Vahtacen02",
-    "custom": "",
+    "custom": "Ватакен Лорсель",
     "en": "Vahtacen Lorsel",
     "ru": "Ватакен Лорсель",
     "bel": "Ватакен Лорсель",
@@ -130996,7 +130996,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VahtacenKey",
-    "custom": "",
+    "custom": "Ключ ад Ватакена",
     "en": "Vahtacen Ruins Key",
     "ru": "Ключ от Ватакена",
     "bel": "Ключ ад Ватакена",
@@ -131005,7 +131005,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VahtacenTopic",
-    "custom": "",
+    "custom": "Ватакен",
     "en": "Vahtacen",
     "ru": "Ватакен",
     "bel": "Ватакен",
@@ -131014,7 +131014,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Vajhira",
-    "custom": "",
+    "custom": "Ваджыра",
     "en": "Vajhira",
     "ru": "Ваджира",
     "bel": "Ваджыра",
@@ -131023,7 +131023,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ValenDrethFaction",
-    "custom": "",
+    "custom": "EEEVIL фракцыя Валена Дрэта",
     "en": "Valen Dreth's EEEVIL faction",
     "ru": "Злобная фракция VALEN DRETH.",
     "bel": "Злосная фракцыя VALEN DRETH.",
