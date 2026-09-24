@@ -131032,7 +131032,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ValleyViewCamp",
-    "custom": "",
+    "custom": "Лагер Даліны",
     "en": "Valley View Camp",
     "ru": "Лагерь «Valley View»",
     "bel": "Лагер «Valley View»",
@@ -131041,7 +131041,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ValusOdiil",
-    "custom": "",
+    "custom": "Валус Одзіл",
     "en": "Valus Odiil",
     "ru": "Валус Одил",
     "bel": "Валус Одзіл",
@@ -131050,7 +131050,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ValusOdiilKey",
-    "custom": "",
+    "custom": "Ключ Валуса Одзіла",
     "en": "Valus Odiil's Key",
     "ru": "Ключ Валуса Одила",
     "bel": "Ключ Валуса Одзіла",
@@ -131059,7 +131059,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ValusOdiilOrag",
-    "custom": "",
+    "custom": "Валус Одііл",
     "en": "Valus Odiil",
     "ru": "Валус Одиил",
     "bel": "Валус Одііл",
@@ -131068,7 +131068,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ValusOdiilTopic",
-    "custom": "",
+    "custom": "Валус Одзіл",
     "en": "Valus Odiil",
     "ru": "Валус Одил",
     "bel": "Валус Одзіл",
@@ -131077,7 +131077,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampDisease",
-    "custom": "",
+    "custom": "Парфірынавая гемафілія",
     "en": "Porphyric Hemophilia",
     "ru": "Порфириновая гемофилия",
     "bel": "Парфірынавая гемафілія",
@@ -131086,7 +131086,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Vampire",
-    "custom": "",
+    "custom": "Што кажуць табе NPC, калі ты вампір",
     "en": "what NPCs say to you when you are vampire",
     "ru": "Что говорят тебе NPC, когда ты вампир",
     "bel": "Што кажуць табе NPC, калі ты вампір",
@@ -131095,7 +131095,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Vampire100TestActivator",
-    "custom": "",
+    "custom": "Клікніце, каб атрымаць поўны вампірызм",
     "en": "Click to add full vampirism",
     "ru": "Кликните, чтобы получить полный вампиризм",
     "bel": "Клікніце, каб атрымаць поўны вампірызм",
@@ -131104,7 +131104,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireAgent2",
-    "custom": "",
+    "custom": "Вампір-агент",
     "en": "Vampire Agent",
     "ru": "Вампир-агент",
     "bel": "Вампір-агент",
@@ -131113,7 +131113,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireAgent3",
-    "custom": "",
+    "custom": "Вампір-агент",
     "en": "Vampire Agent",
     "ru": "Вампир-агент",
     "bel": "Вампір-агент",
@@ -131122,7 +131122,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireAgent4",
-    "custom": "",
+    "custom": "Вампір-агент",
     "en": "Vampire Agent",
     "ru": "Вампир-агент",
     "bel": "Вампір-агент",
@@ -131131,7 +131131,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireAshTopic",
-    "custom": "",
+    "custom": "Порах вампіра",
     "en": "Vampire Ash",
     "ru": "Прах вампира",
     "bel": "Порах вампіра",
@@ -131140,7 +131140,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireAssassin2",
-    "custom": "",
+    "custom": "Вампір-асасін",
     "en": "Vampire Assassin",
     "ru": "Вампир-ассасин",
     "bel": "Вампір-асасін",
@@ -131149,7 +131149,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireAssassin3",
-    "custom": "",
+    "custom": "Вампір-асасін",
     "en": "Vampire Assassin",
     "ru": "Вампир-ассасин",
     "bel": "Вампір-асасін",
@@ -131158,7 +131158,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireAssassin4",
-    "custom": "",
+    "custom": "Вампір-асасін",
     "en": "Vampire Assassin",
     "ru": "Вампир-ассасин",
     "bel": "Вампір-асасін",
@@ -131167,7 +131167,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireBattlemage2",
-    "custom": "",
+    "custom": "Вампір-баявы маг",
     "en": "Vampire Battlemage",
     "ru": "Вампир - боевой маг",
     "bel": "Вампір - баявы маг",
@@ -131176,7 +131176,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireBattlemage3",
-    "custom": "",
+    "custom": "Вампір-баявы маг",
     "en": "Vampire Battlemage",
     "ru": "Вампир - боевой маг",
     "bel": "Вампір - баявы маг",
@@ -131185,7 +131185,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireDust",
-    "custom": "",
+    "custom": "Попел вампіра",
     "en": "Vampire Dust",
     "ru": "Прах вампира",
     "bel": "Порах вампіра",
@@ -131194,7 +131194,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireHuntersSight",
-    "custom": "",
+    "custom": "Зрок паляўнічага",
     "en": "Hunter's Sight",
     "ru": "Зрение охотника",
     "bel": "Зрок паляўнічага",
@@ -131203,7 +131203,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireNightblade2",
-    "custom": "",
+    "custom": "Вампір - клінок ночы",
     "en": "Vampire Nightblade",
     "ru": "Вампир - клинок ночи",
     "bel": "Вампір - клінок ночы",
@@ -131212,7 +131212,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireNightblade3",
-    "custom": "",
+    "custom": "Вампір - клінок ночы",
     "en": "Vampire Nightblade",
     "ru": "Вампир - клинок ночи",
     "bel": "Вампір - клінок ночы",
@@ -131221,7 +131221,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireNightblade4",
-    "custom": "",
+    "custom": "Вампір - клінок ночы",
     "en": "Vampire Nightblade",
     "ru": "Вампир - клинок ночи",
     "bel": "Вампір - клінок ночы",
@@ -131230,7 +131230,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireReignofTerror",
-    "custom": "",
+    "custom": "Царства жаху",
     "en": "Reign of Terror",
     "ru": "Царство ужаса",
     "bel": "Царства жаху",
@@ -131239,7 +131239,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireRogue2",
-    "custom": "",
+    "custom": "Вампір-валацуга",
     "en": "Vampire Rogue",
     "ru": "Вампир-бродяга",
     "bel": "Вампір-валацуга",
@@ -131248,7 +131248,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireRogue3",
-    "custom": "",
+    "custom": "Вампір-валацуга",
     "en": "Vampire Rogue",
     "ru": "Вампир-бродяга",
     "bel": "Вампір-валацуга",
@@ -131257,7 +131257,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireRogue4",
-    "custom": "",
+    "custom": "Вампір-валацуга",
     "en": "Vampire Rogue",
     "ru": "Вампир-бродяга",
     "bel": "Вампір-валацуга",
@@ -131266,7 +131266,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireSpellsword2",
-    "custom": "",
+    "custom": "Вампір - воін-маг",
     "en": "Vampire Spellsword",
     "ru": "Вампир - воин-маг",
     "bel": "Вампір - воін-маг",
@@ -131275,7 +131275,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireSpellsword3",
-    "custom": "",
+    "custom": "Вампір - воін-маг",
     "en": "Vampire Spellsword",
     "ru": "Вампир - воин-маг",
     "bel": "Вампір - воін-маг",
@@ -131284,7 +131284,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireSpellsword4",
-    "custom": "",
+    "custom": "Вампір - воін-маг",
     "en": "Vampire Spellsword",
     "ru": "Вампир - воин-маг",
     "bel": "Вампір - воін-маг",
@@ -131293,7 +131293,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireTestActivator",
-    "custom": "",
+    "custom": "Клікніце, каб стаць вампірам!",
     "en": "Click me to become a vampire!",
     "ru": "Кликните, чтобы стать вампиром!",
     "bel": "Клікніце, каб стаць вампірам!",
@@ -131302,7 +131302,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireThief2",
-    "custom": "",
+    "custom": "Вампір-зладзей",
     "en": "Vampire Thief",
     "ru": "Вампир-вор",
     "bel": "Вампір-зладзей",
@@ -131311,7 +131311,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireThief3",
-    "custom": "",
+    "custom": "Вампір-зладзей",
     "en": "Vampire Thief",
     "ru": "Вампир-вор",
     "bel": "Вампір-зладзей",
@@ -131320,7 +131320,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireThief4",
-    "custom": "",
+    "custom": "Вампір-зладзей",
     "en": "Vampire Thief",
     "ru": "Вампир-вор",
     "bel": "Вампір-зладзей",
@@ -131329,7 +131329,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireTopic",
-    "custom": "",
+    "custom": "Вампір",
     "en": "Vampire",
     "ru": "Вампиры",
     "bel": "Вампіры",
@@ -131338,7 +131338,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireWitchhunter2",
-    "custom": "",
+    "custom": "Вампір - паляўнічы на ведзьмаў",
     "en": "Vampire Witchhunter",
     "ru": "Вампир - охотник на ведьм",
     "bel": "Вампір - паляўнічы на ведзьмаў",
@@ -131347,7 +131347,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireWitchhunter3",
-    "custom": "",
+    "custom": "Вампір - паляўнічы на ведзьмаў",
     "en": "Vampire Witchhunter",
     "ru": "Вампир - охотник на ведьм",
     "bel": "Вампір - паляўнічы на ведзьмаў",
@@ -131356,7 +131356,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VampireWitchhunter4",
-    "custom": "",
+    "custom": "Вампір - паляўнічы на ведзьмаў",
     "en": "Vampire Witchhunter",
     "ru": "Вампир - охотник на ведьм",
     "bel": "Вампір - паляўнічы на ведзьмаў",
@@ -131365,7 +131365,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VandorallenTrebatius",
-    "custom": "",
+    "custom": "Вандараллен Трэбаціус",
     "en": "Vandorallen Trebatius",
     "ru": "Вандораллен Требатиус",
     "bel": "Вандараллен Трэбаціус",
@@ -131374,7 +131374,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Varnado",
-    "custom": "",
+    "custom": "Варнадо",
     "en": "Varnado",
     "ru": "Варнадо",
     "bel": "Варнадо",
@@ -131383,7 +131383,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Varondo02",
-    "custom": "",
+    "custom": "Варондо Белдастар",
     "en": "Varondo Beldastare",
     "ru": "Варондо Белдастар",
     "bel": "Варондо Белдастар",
@@ -131392,7 +131392,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Varondo03",
-    "custom": "",
+    "custom": "Варондо Варласель",
     "en": "Varondo Varlasel",
     "ru": "Варондо Варласель",
     "bel": "Варондо Варласель",
@@ -131401,7 +131401,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VelusHosidius",
-    "custom": "",
+    "custom": "Велус Хасідзіус",
     "en": "Velus Hosidius",
     "ru": "Велус Хосидиус",
     "bel": "Велус Хасідзіус",
@@ -131410,7 +131410,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VenaPetilius",
-    "custom": "",
+    "custom": "Вена Пеціліус",
     "en": "Vena Petilius",
     "ru": "Вена Петилиус",
     "bel": "Вена Пеціліус",
@@ -131419,7 +131419,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VeyondArgBossFemale1",
-    "custom": "",
+    "custom": "Аргоніанін-правадыр",
     "en": "Argonian Chieftain",
     "ru": "Аргонианин-вождь",
     "bel": "Аргоніанін-правадыр",
@@ -131428,7 +131428,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VeyondArgBossFemale2",
-    "custom": "",
+    "custom": "Аргоніанін-правадыр",
     "en": "Argonian Chieftain",
     "ru": "Аргонианин-вождь",
     "bel": "Аргоніанін-правадыр",
@@ -131437,7 +131437,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VeyondArgBossMale1",
-    "custom": "",
+    "custom": "Аргоніанін-правадыр",
     "en": "Argonian Chieftain",
     "ru": "Аргонианин-вождь",
     "bel": "Аргоніанін-правадыр",
@@ -131446,7 +131446,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VeyondArgBossMale2",
-    "custom": "",
+    "custom": "Аргоніанін-правадыр",
     "en": "Argonian Chieftain",
     "ru": "Аргонианин-вождь",
     "bel": "Аргоніанін-правадыр",
@@ -131455,7 +131455,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VeyondArgFemale2Blademaster",
-    "custom": "",
+    "custom": "Аргоніанін - член племені",
     "en": "Argonian Tribesman",
     "ru": "Аргонианин - член племени",
     "bel": "Аргоніанін - член племені",
@@ -131464,7 +131464,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VeyondArgFemale3Assassin",
-    "custom": "",
+    "custom": "Аргоніанін - член племені",
     "en": "Argonian Tribesman",
     "ru": "Аргонианин - член племени",
     "bel": "Аргоніанін - член племені",
@@ -131473,7 +131473,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VeyondArgFemale3Monk",
-    "custom": "",
+    "custom": "Аргоніанін - член племені",
     "en": "Argonian Tribesman",
     "ru": "Аргонианин - член племени",
     "bel": "Аргоніанін - член племені",
@@ -131482,7 +131482,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VeyondArgFemale4Nightblade",
-    "custom": "",
+    "custom": "Аргоніанін - член племені",
     "en": "Argonian Tribesman",
     "ru": "Аргонианин - член племени",
     "bel": "Аргоніанін - член племені",
@@ -131491,7 +131491,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VeyondArgFemale4Scout",
-    "custom": "",
+    "custom": "Аргоніанін - член племені",
     "en": "Argonian Tribesman",
     "ru": "Аргонианин - член племени",
     "bel": "Аргоніанін - член племені",
@@ -131500,7 +131500,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VeyondArgMale2Blademaster",
-    "custom": "",
+    "custom": "Аргоніанін - член племені",
     "en": "Argonian Tribesman",
     "ru": "Аргонианин - член племени",
     "bel": "Аргоніанін - член племені",
@@ -131509,7 +131509,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VeyondArgMale3Nightblade",
-    "custom": "",
+    "custom": "Аргоніанін - член племені",
     "en": "Argonian Tribesman",
     "ru": "Аргонианин - член племени",
     "bel": "Аргоніанін - член племені",
@@ -131518,7 +131518,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VeyondArgMale3Scout",
-    "custom": "",
+    "custom": "Аргоніанін - член племені",
     "en": "Argonian Tribesman",
     "ru": "Аргонианин - член племени",
     "bel": "Аргоніанін - член племені",
@@ -131527,7 +131527,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VeyondArgMale4Assassin",
-    "custom": "",
+    "custom": "Аргоніанін - член племені",
     "en": "Argonian Tribesman",
     "ru": "Аргонианин - член племени",
     "bel": "Аргоніанін - член племені",
@@ -131536,7 +131536,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VeyondArgMale4Monk",
-    "custom": "",
+    "custom": "Аргоніанін - член племені",
     "en": "Argonian Tribesman",
     "ru": "Аргонианин - член племени",
     "bel": "Аргоніанін - член племені",
@@ -131545,7 +131545,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VeyondArgShamanFemale3A",
-    "custom": "",
+    "custom": "Аргоніанін-шаман",
     "en": "Argonian Shaman",
     "ru": "Аргонианин-шаман",
     "bel": "Аргоніанін-шаман",
@@ -131554,7 +131554,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VeyondArgShamanFemale4A",
-    "custom": "",
+    "custom": "Аргоніанін-шаман",
     "en": "Argonian Shaman",
     "ru": "Аргонианин-шаман",
     "bel": "Аргоніанін-шаман",
@@ -131563,7 +131563,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VeyondArgShamanMale2",
-    "custom": "",
+    "custom": "Аргоніанін-шаман",
     "en": "Argonian Shaman",
     "ru": "Аргонианин-шаман",
     "bel": "Аргоніанін-шаман",
@@ -131572,7 +131572,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VeyondArgShamanMale3B",
-    "custom": "",
+    "custom": "Аргоніанін-шаман",
     "en": "Argonian Shaman",
     "ru": "Аргонианин-шаман",
     "bel": "Аргоніанін-шаман",
@@ -131581,7 +131581,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VeyondCave",
-    "custom": "",
+    "custom": "Пячора Вейонд",
     "en": "Veyond Cave",
     "ru": "Пещера Вейонд",
     "bel": "Пячора Вейонд",
@@ -131590,7 +131590,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VeyondCave02",
-    "custom": "",
+    "custom": "Вейонд - Чорная вада",
     "en": "Veyond Black Waters",
     "ru": "Вейонд - Черная вода",
     "bel": "Вейонд - Чорная вада",
@@ -131599,7 +131599,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VeyondCave03",
-    "custom": "",
+    "custom": "Вейонд - Мора Цемры",
     "en": "Veyond Sea of Darkness",
     "ru": "Вейонд - Море Тьмы",
     "bel": "Вейонд - Мора Цемры",
@@ -131608,7 +131608,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VeyondCave04",
-    "custom": "",
+    "custom": "Вейонд - Вялікая Дрыгва",
     "en": "Veyond Great Sump",
     "ru": "Вейонд - Великая Топь",
     "bel": "Вейонд - Вялікая Дрыгва",
@@ -131617,7 +131617,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VeyondCaveBandits",
-    "custom": "",
+    "custom": "Вейондскія Бандыты",
     "en": "Veyond Bandits",
     "ru": "Вейондские Бандиты",
     "bel": "Вейондскія Бандыты",
@@ -131626,7 +131626,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ViatorAccius",
-    "custom": "",
+    "custom": "Віатар Аккіус",
     "en": "Viator Accius",
     "ru": "Виатор Аккиус",
     "bel": "Віатар Аккіус",
@@ -131635,7 +131635,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VicenteValtieri",
-    "custom": "",
+    "custom": "Вінцэнт Вальцьеры",
     "en": "Vicente Valtieri",
     "ru": "Винсент Вальтиери",
     "bel": "Вінцэнт Вальцьеры",
@@ -131644,7 +131644,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ViggetheCautious",
-    "custom": "",
+    "custom": "Вігг Асцярожны",
     "en": "Vigge the Cautious",
     "ru": "Вигг Осторожный",
     "bel": "Вігг Асцярожны",
@@ -131653,7 +131653,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VilenaDonton",
-    "custom": "",
+    "custom": "Вілена Донтан",
     "en": "Vilena Donton",
     "ru": "Вилена Донтон",
     "bel": "Вілена Донтан",
@@ -131662,7 +131662,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VilenaDontonKey",
-    "custom": "",
+    "custom": "Ключ Вілены Донтан",
     "en": "Vilena Donton's Key",
     "ru": "Ключ Вилены Донтон",
     "bel": "Ключ Вілены Донтан",
@@ -131671,7 +131671,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VilenaDontonTOPIC",
-    "custom": "",
+    "custom": "Вілена Донтан",
     "en": "Vilena Donton",
     "ru": "Вилена Донтон",
     "bel": "Вілена Донтан",
@@ -131680,7 +131680,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Vilverin04",
-    "custom": "",
+    "custom": "Вілверын Сель Санкрэмаці",
     "en": "Vilverin Sel Sancremathi",
     "ru": "Вилверин Сель Санкремати",
     "bel": "Вілверын Сель Санкрэмаці",
@@ -131698,7 +131698,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VilverinKey",
-    "custom": "",
+    "custom": "Ключ ад чартогоў Вілверына",
     "en": "Vilverin Chamber Key",
     "ru": "Ключ от чертогов Вилверина",
     "bel": "Ключ ад чартогоў Вілверына",
@@ -131707,7 +131707,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VincentGalien",
-    "custom": "",
+    "custom": "Вінцэнт Гальен",
     "en": "Vincent Galien",
     "ru": "Винсент Гальен",
     "bel": "Вінцэнт Гальен",
@@ -131716,7 +131716,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ViniciaMelissaeia",
-    "custom": "",
+    "custom": "Вінісія Мелісея",
     "en": "Vinicia Melissaeia",
     "ru": "Винисия Мелиссея",
     "bel": "Вінісія Мелісея",
@@ -131725,7 +131725,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VipersBugloss",
-    "custom": "",
+    "custom": "Сіняк звычайны",
     "en": "Viper's Bugloss",
     "ru": "Синяк обыкновенный",
     "bel": "Сіняк звычайны",
@@ -131734,7 +131734,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VipersBuglossLeaves",
-    "custom": "",
+    "custom": "Лісце сіняка звычайнага",
     "en": "Viper's Bugloss Leaves",
     "ru": "Листья синяка обыкновенного",
     "bel": "Лісце сіняка звычайнага",
@@ -131743,7 +131743,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ViranusDonton",
-    "custom": "",
+    "custom": "Віранус Донтан",
     "en": "Viranus Donton",
     "ru": "Виранус Донтон",
     "bel": "Віранус Донтан",
@@ -131752,7 +131752,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ViranusDontonTOPIC",
-    "custom": "",
+    "custom": "Віранус Донтан",
     "en": "Viranus Donton",
     "ru": "Виранус Донтон",
     "bel": "Віранус Донтан",
@@ -131761,7 +131761,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VitellusDontonTOPIC",
-    "custom": "",
+    "custom": "Вітэлус Донтан",
     "en": "Vitellus Donton",
     "ru": "Вителлус Донтон",
     "bel": "Вітэлус Донтан",
@@ -131770,7 +131770,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Vitharnghost",
-    "custom": "",
+    "custom": "Вітарнскі прывід",
     "en": "Vitharn ghost",
     "ru": "Витарнский призрак",
     "bel": "Вітарнскі прывід",
@@ -131779,7 +131779,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VlanarusKvinchal",
-    "custom": "",
+    "custom": "Вланарус Квінчал",
     "en": "Vlanarus Kvinchal",
     "ru": "Вланарус Квинчал",
     "bel": "Вланарус Квінчал",
@@ -131788,7 +131788,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VlarimilOrius",
-    "custom": "",
+    "custom": "Вларыміл Орыус",
     "en": "Vlarimil Orius",
     "ru": "Вларимил Ориус",
     "bel": "Вларыміл Орыус",
@@ -131797,7 +131797,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VoidSalts",
-    "custom": "",
+    "custom": "Солі Пустаты",
     "en": "Void Salts",
     "ru": "Соли пустоты",
     "bel": "Солі пустэчы",
@@ -131806,7 +131806,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Volanaro",
-    "custom": "",
+    "custom": "Воланаро",
     "en": "Volanaro",
     "ru": "Воланаро",
     "bel": "Воланаро",
@@ -131815,7 +131815,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_VolanaroDead",
-    "custom": "",
+    "custom": "Воланаро",
     "en": "Volanaro",
     "ru": "Воланаро",
     "bel": "Воланаро",
@@ -131824,7 +131824,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WABR",
-    "custom": "",
+    "custom": "Воднае дыханне",
     "en": "Water Breathing",
     "ru": "Водное дыхание",
     "bel": "Воднае дыханне",
@@ -131833,7 +131833,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WKDI",
-    "custom": "",
+    "custom": "Уразлівасць да хвароб",
     "en": "Weakness to Disease",
     "ru": "Уязвим. к болезням",
     "bel": "Уразл. да хвароб",
@@ -131842,7 +131842,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WKFI",
-    "custom": "",
+    "custom": "Уразлівасць да агню",
     "en": "Weakness to Fire",
     "ru": "Уязвим. к огню",
     "bel": "Уразл. да агню",
@@ -131851,7 +131851,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WKFR",
-    "custom": "",
+    "custom": "Уразлівасць да холаду",
     "en": "Weakness to Frost",
     "ru": "Уязвим. к холоду",
     "bel": "Уразл. да холаду",
@@ -131860,7 +131860,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WKMA",
-    "custom": "",
+    "custom": "Уразл. да магіі",
     "en": "Weakness to Magic",
     "ru": "Уязвим. к магии",
     "bel": "Уразл. да магіі",
@@ -131869,7 +131869,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WKNW",
-    "custom": "",
+    "custom": "Уразлівасць да звычайнай зброі",
     "en": "Weakness to Normal Weapons",
     "ru": "Уязвим. к обычн. оружию",
     "bel": "Уразл. да звыч. зброі",
@@ -131878,7 +131878,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WKPO",
-    "custom": "",
+    "custom": "Уразлівасць да яду",
     "en": "Weakness to Poison",
     "ru": "Уязвим. к яду",
     "bel": "Уразл. да яду",
@@ -131887,7 +131887,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WKSH",
-    "custom": "",
+    "custom": "Уразлівасць да электрычнасці",
     "en": "Weakness to Shock",
     "ru": "Уязвим. к эл-ву",
     "bel": "Уразл. да эл-ва",
@@ -131896,7 +131896,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Wabbajack",
-    "custom": "",
+    "custom": "Вабаджэк",
     "en": "Wabbajack",
     "ru": "Ваббаджек",
     "bel": "Ваббаджэк",
@@ -131905,7 +131905,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WabbajackHole",
-    "custom": "",
+    "custom": "Схованка для мэты Вабаджака",
     "en": "Hidey-hole for Wabbajack target",
     "ru": "Укромное местечко для цели ВАББАДЖЕКА.",
     "bel": "Утульнае месцейка для мэты ВАББАДЖЭКА.",
@@ -131914,7 +131914,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WabbajackSpell",
-    "custom": "",
+    "custom": "Заклён Ваббаджэка",
     "en": "Wabbajack Spell",
     "ru": "Заклинание Ваббаджека",
     "bel": "Заклён Ваббаджэка",
@@ -131923,7 +131923,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Wallace",
-    "custom": "",
+    "custom": "Валас",
     "en": "Wallace",
     "ru": "Валлас",
     "bel": "Валас",
@@ -131932,7 +131932,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WareHouseLowerClass",
-    "custom": "",
+    "custom": "Склад розных тавараў ніжэйшай якасці",
     "en": "Lower Class Clutter Warehouse",
     "ru": "Склад разных товаров низшего качества",
     "bel": "Склад розных тавараў ніжэйшай якасці",
@@ -131941,7 +131941,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WarehouseActivator",
-    "custom": "",
+    "custom": "Склад - тэставанне актыватараў",
     "en": "Activator Testing Warehouse",
     "ru": "Склад - тестирование активаторов",
     "bel": "Склад - тэставанне актыватараў",
@@ -131950,7 +131950,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WarehouseArmor",
-    "custom": "",
+    "custom": "Склад даспехаў",
     "en": "Armor Warehouse",
     "ru": "Склад брони",
     "bel": "Склад броні",
@@ -131959,7 +131959,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WarehouseCaveBandit",
-    "custom": "",
+    "custom": "Універсальная крама бандытаў",
     "en": "One Stop Bandit Shop",
     "ru": "Универсальный магазин бандитов",
     "bel": "Універсальная крама бандытаў",
@@ -131968,7 +131968,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WarehouseCaveEntrance",
-    "custom": "",
+    "custom": "Уваходы ў пячору звонку",
     "en": "Cave Exterior entrances",
     "ru": "Входы в пещеру снаружи",
     "bel": "Уваходы ў пячору звонку",
@@ -131977,7 +131977,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WarehouseCaveTombNecro",
-    "custom": "",
+    "custom": "Склад пячорнага склепа",
     "en": "Cave Tomb Warehouse",
     "ru": "Склад пещерной гробницы",
     "bel": "Склад пячорнага склепа",
@@ -131986,7 +131986,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WarehouseCombatAI",
-    "custom": "",
+    "custom": "Склад баявога штучнага інтэлекту",
     "en": "Combat AI Warehouse",
     "ru": "Склад боевого ИИ (Combat AI Warehouse)",
     "bel": "Склад баявога ІІ (Combat AI Warehouse)",
@@ -131995,7 +131995,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WarehouseCombatHall",
-    "custom": "",
+    "custom": "Зала Баявой Славы",
     "en": "Hall of Combat",
     "ru": "Зал Боевой Славы",
     "bel": "Зала Баявой Славы",
@@ -132004,7 +132004,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WarehouseContainer",
-    "custom": "",
+    "custom": "Склад для тэставання кантэйнераў",
     "en": "Container Testing Warehouse",
     "ru": "Склад для тестирования контейнеров",
     "bel": "Склад для тэставання кантэйнераў",
@@ -132013,7 +132013,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WarehouseCreatures",
-    "custom": "",
+    "custom": "Выпрабавальны пакой для істот",
     "en": "Creature Testing Hall",
     "ru": "Испытательный зал для существ",
     "bel": "Выпрабавальны пакой для істот",
@@ -132022,7 +132022,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WarehouseFortRuinsxxxCLUTTER",
-    "custom": "",
+    "custom": "Маўзалей Хламуса Руін Форта",
     "en": "Fort Ruins Clutter Mausoleum",
     "ru": "Руины форта заполнили мавзолей.",
     "bel": "Руіны форта запоўнілі маўзалей.",
@@ -132031,7 +132031,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WarehouseFortRuinsxxxCLUTTERarrCrates",
-    "custom": "",
+    "custom": "Скрыні і скрынкі",
     "en": "Clutter Crates and Boxes",
     "ru": "Ящики и коробки",
     "bel": "Скрыні і скрынкі",
@@ -132040,7 +132040,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WarehouseLight",
-    "custom": "",
+    "custom": "Аптовы склад асвятляльных прыбораў",
     "en": "Lighting Warehouse",
     "ru": "Оптовый склад осветительных приборов",
     "bel": "Аптовы склад асвятляльных прыбораў",
@@ -132049,7 +132049,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WarehouseMagicArmor",
-    "custom": "",
+    "custom": "Склад даспехаў",
     "en": "Armor Warehouse",
     "ru": "Склад брони",
     "bel": "Склад броні",
@@ -132058,7 +132058,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WarehouseMiddleClass",
-    "custom": "",
+    "custom": "Склад розных тавараў сярэдняй якасці",
     "en": "Middle Class Clutter Warehouse",
     "ru": "Склад разных товаров среднего качества",
     "bel": "Склад розных тавараў сярэдняй якасці",
@@ -132067,7 +132067,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WarehouseMisc",
-    "custom": "",
+    "custom": "Склад - рознае",
     "en": "Misc Clutter Warehouse",
     "ru": "Склад - разное",
     "bel": "Склад - рознае",
@@ -132076,7 +132076,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WarehouseNPCCombatAI",
-    "custom": "",
+    "custom": "Склад ІІ NPC для бою",
     "en": "NPC Combat AI Warehouse",
     "ru": "Склад ИИ NPC для боя",
     "bel": "Склад ІІ NPC для бою",
@@ -132085,7 +132085,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WarehouseObjectAvoid",
-    "custom": "",
+    "custom": "Склад для пазбягання сутыкненняў з аб'ектамі",
     "en": "Object Avoidance Warehouse",
     "ru": "Склад для избежания столкновений с объектами",
     "bel": "Склад для пазбягання сутыкненняў з аб'ектамі",
@@ -132094,7 +132094,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WarehousePathgrids",
-    "custom": "",
+    "custom": "Склад - тэставанне шляхоў",
     "en": "Pathgrid Testing Warehouse",
     "ru": "Склад - тестирование путей",
     "bel": "Склад - тэставанне шляхоў",
@@ -132103,7 +132103,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WarehouseSEClutter",
-    "custom": "",
+    "custom": "Склад розных тавараў сярэдняй якасці",
     "en": "Middle Class Clutter Warehouse",
     "ru": "Склад разных товаров среднего качества",
     "bel": "Склад розных тавараў сярэдняй якасці",
@@ -132112,7 +132112,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WarehouseTrespass",
-    "custom": "",
+    "custom": "Склад для праверкі пранікнення",
     "en": "Trespass Test Warehouse",
     "ru": "Склад для проверки проникновения",
     "bel": "Склад для праверкі пранікнення",
@@ -132121,7 +132121,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WarehouseUpperClass",
-    "custom": "",
+    "custom": "Склад розных тавараў вышэйшай якасці",
     "en": "Upper Class Clutter Warehouse",
     "ru": "Склад разных товаров высшего качества",
     "bel": "Склад розных тавараў вышэйшай якасці",
@@ -132130,7 +132130,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WarehouseWeapons",
-    "custom": "",
+    "custom": "Склад зброі",
     "en": "Weapons Warehouse",
     "ru": "Склад оружия",
     "bel": "Склад зброі",
@@ -132139,7 +132139,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Warlock",
-    "custom": "",
+    "custom": "Чарнакніжнік",
     "en": "Warlock",
     "ru": "Чернокнижник",
     "bel": "Чарнакніжнік",
@@ -132148,7 +132148,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WarlocksLuckKey",
-    "custom": "",
+    "custom": "Ключ ад \"Шчасця чарнакніжніка\"",
     "en": "A Warlock's Luck Key",
     "ru": "Ключ от \"Счастья чернокнижника\"",
     "bel": "Ключ ад \"Шчасця чарнакніжніка\"",
@@ -132166,7 +132166,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WaterHealing",
-    "custom": "",
+    "custom": "Лячэнне вадой",
     "en": "Water Healing",
     "ru": "Водное исцеление",
     "bel": "Воднае вылячэнне",
@@ -132175,7 +132175,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WaterfrontRaid",
-    "custom": "",
+    "custom": "ПрыбярэжныНалёт",
     "en": "WaterfrontRaid",
     "ru": "ПрибрежныйНалёт",
     "bel": "ПрыбярэжныНалёт",
@@ -132184,7 +132184,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WaterfrontRegion",
-    "custom": "",
+    "custom": "Партовы раён",
     "en": "Waterfront",
     "ru": "Портовый район",
     "bel": "Партовы раён",
@@ -132193,7 +132193,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WaterfrontSewersKey",
-    "custom": "",
+    "custom": "Ключ ад каналізацыі Порта",
     "en": "Waterfront Sewers Key",
     "ru": "Ключ от канализации Порта",
     "bel": "Ключ ад каналізацыі Порта",
@@ -132202,7 +132202,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WatersEdge",
-    "custom": "",
+    "custom": "Водная Мяжа",
     "en": "Water's Edge",
     "ru": "Водная Грань",
     "bel": "Водная Мяжа",
@@ -132211,7 +132211,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WatersEdgeBieneAmelionsHouse",
-    "custom": "",
+    "custom": "Дом Б'ен Амеліён",
     "en": "Biene Amelion's House",
     "ru": "Дом Бьен Амелион",
     "bel": "Дом Б'ен Амеліён",
@@ -132220,7 +132220,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WatersEdgeEduardRetienesHouse",
-    "custom": "",
+    "custom": "Дом Эдуарда Рэцьена",
     "en": "Eduard Retiene's House",
     "ru": "Дом Эдуарда Ретьена",
     "bel": "Дом Эдуарда Рэцьена",
@@ -132229,7 +132229,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WatersEdgeMarieAlouettesHouse",
-    "custom": "",
+    "custom": "Дом Мары Алуэтт",
     "en": "Marie Alouette's House",
     "ru": "Дом Мари Алуэтт",
     "bel": "Дом Мары Алуэтт",
@@ -132238,7 +132238,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WatersEdgeRegion",
-    "custom": "",
+    "custom": "Паселішча-каля-Вады",
     "en": "Water's Edge",
     "ru": "Поселение-у-Воды",
     "bel": "Паселішча-каля-Вады",
@@ -132247,7 +132247,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WatersEdgeTOPIC",
-    "custom": "",
+    "custom": "Паселішча-каля-Вады",
     "en": "Waters Edge",
     "ru": "Поселение-у-Воды",
     "bel": "Паселішча-каля-Вады",
@@ -132256,7 +132256,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WawnetInn",
-    "custom": "",
+    "custom": "Карчма Ваўнет",
     "en": "Wawnet Inn",
     "ru": "\"Трактир «Узел Вавнета»\"",
     "bel": "\"Карчма «Вузел Ваўнета»\"",
@@ -132265,7 +132265,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WawnetInnRegion",
-    "custom": "",
+    "custom": "Карчма Ваўнет",
     "en": "Wawnet Inn",
     "ru": "Таверна 'Ваунет'",
     "bel": "Карчма 'Ваўнет'",
@@ -132274,7 +132274,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarAkatosh01",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Акатоша",
     "en": "Wayshrine of Akatosh",
     "ru": "Дорожное святилище Акатоша",
     "bel": "Дарожнае свяцілішча Акатоша",
@@ -132283,7 +132283,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarAkatosh02",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Акатоша",
     "en": "Wayshrine of Akatosh",
     "ru": "Дорожное святилище Акатоша",
     "bel": "Дарожнае свяцілішча Акатоша",
@@ -132292,7 +132292,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarAkatosh03",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Акатоша",
     "en": "Wayshrine of Akatosh",
     "ru": "Дорожное святилище Акатоша",
     "bel": "Дарожнае свяцілішча Акатоша",
@@ -132301,7 +132301,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarAkatosh04",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Акатоша",
     "en": "Wayshrine of Akatosh",
     "ru": "Дорожное святилище Акатоша",
     "bel": "Дарожнае свяцілішча Акатоша",
@@ -132310,7 +132310,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarArkay01",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Аркея",
     "en": "Wayshrine of Arkay",
     "ru": "Дорожное святилище Аркея",
     "bel": "Дарожнае свяцілішча Аркея",
@@ -132319,7 +132319,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarArkay02",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Аркея",
     "en": "Wayshrine of Arkay",
     "ru": "Дорожное святилище Аркея",
     "bel": "Дарожнае свяцілішча Аркея",
@@ -132328,7 +132328,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarArkay03",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Аркея",
     "en": "Wayshrine of Arkay",
     "ru": "Дорожное святилище Аркея",
     "bel": "Дарожнае свяцілішча Аркея",
@@ -132337,7 +132337,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarDibella01",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Дыбелы",
     "en": "Wayshrine of Dibella",
     "ru": "Дорожное святилище Дибеллы",
     "bel": "Дарожнае свяцілішча Дыбелы",
@@ -132346,7 +132346,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarDibella02",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Дыбелы",
     "en": "Wayshrine of Dibella",
     "ru": "Дорожное святилище Дибеллы",
     "bel": "Дарожнае свяцілішча Дыбелы",
@@ -132355,7 +132355,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarDibella03",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Дыбелы",
     "en": "Wayshrine of Dibella",
     "ru": "Дорожное святилище Дибеллы",
     "bel": "Дарожнае свяцілішча Дыбелы",
@@ -132364,7 +132364,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarJulianos01",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Джуліянаса",
     "en": "Wayshrine of Julianos",
     "ru": "Дорожное святилище Джулианоса",
     "bel": "Дарожнае свяцілішча Джуліянаса",
@@ -132373,7 +132373,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarJulianos02",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Джуліянаса",
     "en": "Wayshrine of Julianos",
     "ru": "Дорожное святилище Джулианоса",
     "bel": "Дарожнае свяцілішча Джуліянаса",
@@ -132382,7 +132382,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarJulianos03",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Джуліянаса",
     "en": "Wayshrine of Julianos",
     "ru": "Дорожное святилище Джулианоса",
     "bel": "Дарожнае свяцілішча Джуліянаса",
@@ -132391,7 +132391,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarJulianos04",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Джуліянаса",
     "en": "Wayshrine of Julianos",
     "ru": "Дорожное святилище Джулианоса",
     "bel": "Дарожнае свяцілішча Джуліянаса",
@@ -132400,7 +132400,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarKynareth01",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Кінарэт",
     "en": "Wayshrine of Kynareth",
     "ru": "Дорожное святилище Кинарет",
     "bel": "Дарожнае свяцілішча Кінарэт",
@@ -132409,7 +132409,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarKynareth02",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Кінарэт",
     "en": "Wayshrine of Kynareth",
     "ru": "Дорожное святилище Кинарет",
     "bel": "Дарожнае свяцілішча Кінарэт",
@@ -132418,7 +132418,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarKynareth03",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Кінарэт",
     "en": "Wayshrine of Kynareth",
     "ru": "Дорожное святилище Кинарет",
     "bel": "Дарожнае свяцілішча Кінарэт",
@@ -132427,7 +132427,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarMara01",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Мары",
     "en": "Wayshrine of Mara",
     "ru": "Дорожное святилище Мары",
     "bel": "Дарожнае свяцілішча Мары",
@@ -132436,7 +132436,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarMara02",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Мары",
     "en": "Wayshrine of Mara",
     "ru": "Дорожное святилище Мары",
     "bel": "Дарожнае свяцілішча Мары",
@@ -132445,7 +132445,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarMara03",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Мары",
     "en": "Wayshrine of Mara",
     "ru": "Дорожное святилище Мары",
     "bel": "Дарожнае свяцілішча Мары",
@@ -132454,7 +132454,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarStendarr01",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Стэндара",
     "en": "Wayshrine of Stendarr",
     "ru": "Дорожное святилище Стендарра",
     "bel": "Дарожнае свяцілішча Стэндара",
@@ -132463,7 +132463,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarStendarr02",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Стэндара",
     "en": "Wayshrine of Stendarr",
     "ru": "Дорожное святилище Стендарра",
     "bel": "Дарожнае свяцілішча Стэндара",
@@ -132472,7 +132472,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarStendarr03",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Стэндара",
     "en": "Wayshrine of Stendarr",
     "ru": "Дорожное святилище Стендарра",
     "bel": "Дарожнае свяцілішча Стэндара",
@@ -132481,7 +132481,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarTiberSeptim01",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Таласа",
     "en": "Wayshrine of Talos",
     "ru": "Дорожное святилище Талоса",
     "bel": "Дарожнае свяцілішча Таласа",
@@ -132490,7 +132490,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarTiberSeptim02",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Таласа",
     "en": "Wayshrine of Talos",
     "ru": "Дорожное святилище Талоса",
     "bel": "Дарожнае свяцілішча Таласа",
@@ -132499,7 +132499,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarTiberSeptim03",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Таласа",
     "en": "Wayshrine of Talos",
     "ru": "Дорожное святилище Талоса",
     "bel": "Дарожнае свяцілішча Таласа",
@@ -132508,7 +132508,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarZenithar01",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Зенітара",
     "en": "Wayshrine of Zenithar",
     "ru": "Дорожное святилище Зенитара",
     "bel": "Дарожнае свяцілішча Зенітара",
@@ -132517,7 +132517,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarZenithar02",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Зенітара",
     "en": "Wayshrine of Zenithar",
     "ru": "Дорожное святилище Зенитара",
     "bel": "Дарожнае свяцілішча Зенітара",
@@ -132526,7 +132526,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WayshrineAltarZenithar03",
-    "custom": "",
+    "custom": "Дарожнае свяцілішча Зенітара",
     "en": "Wayshrine of Zenithar",
     "ru": "Дорожное святилище Зенитара",
     "bel": "Дарожнае свяцілішча Зенітара",
@@ -132535,7 +132535,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapAkaviriLongSword2H",
-    "custom": "",
+    "custom": "Акавірская дайкатана",
     "en": "Akaviri Dai-Katana",
     "ru": "Акавирская дайкатана",
     "bel": "Акавірская дайкатана",
@@ -132544,7 +132544,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapDaedricBattleAxe",
-    "custom": "",
+    "custom": "Дэйдрычная сякера",
     "en": "Daedric Battle-Axe",
     "ru": "Дэйдрическая секира",
     "bel": "Дэйдрычная сякера",
@@ -132553,7 +132553,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapDaedricBow",
-    "custom": "",
+    "custom": "Дэйдрычны лук",
     "en": "Daedric Bow",
     "ru": "Дэйдрический лук",
     "bel": "Дэйдрычны лук",
@@ -132562,7 +132562,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapDaedricClaymore",
-    "custom": "",
+    "custom": "Дэйдрычная клеймора",
     "en": "Daedric Claymore",
     "ru": "Дэйдрическая клеймора",
     "bel": "Дэйдрычная клеймора",
@@ -132571,7 +132571,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapDaedricDagger",
-    "custom": "",
+    "custom": "Дэйдрычны кінжал",
     "en": "Daedric Dagger",
     "ru": "Дэйдрический кинжал",
     "bel": "Дэйдрычны кінжал",
@@ -132580,7 +132580,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapDaedricLongsword",
-    "custom": "",
+    "custom": "Дэйдрычны доўгі меч",
     "en": "Daedric Longsword",
     "ru": "Дэйдрический длинный меч",
     "bel": "Дэйдрычны доўгі меч",
@@ -132589,7 +132589,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapDaedricMace",
-    "custom": "",
+    "custom": "Дэйдрычная булава",
     "en": "Daedric Mace",
     "ru": "Дэйдрическая булава",
     "bel": "Дэйдрычная булава",
@@ -132598,7 +132598,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapDaedricShortsword",
-    "custom": "",
+    "custom": "Дэйдрычны кароткі меч",
     "en": "Daedric Shortsword",
     "ru": "Дэйдрический короткий меч",
     "bel": "Дэйдрычны кароткі меч",
@@ -132607,7 +132607,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapDaedricWarAxe",
-    "custom": "",
+    "custom": "Дэйдрычная сякера",
     "en": "Daedric War Axe",
     "ru": "Дэйдрический топор",
     "bel": "Дэйдрычны тапор",
@@ -132616,7 +132616,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapDaedricWarHammer",
-    "custom": "",
+    "custom": "Дэйдрычны баявы молат",
     "en": "Daedric Warhammer",
     "ru": "Дэйдрический боевой молот",
     "bel": "Дэйдрычны баявы молат",
@@ -132625,7 +132625,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapDwarvenBattleAxe",
-    "custom": "",
+    "custom": "Двэмерская сякера",
     "en": "Dwarven Battle-Axe",
     "ru": "Двемерская секира",
     "bel": "Двэмерская сякера",
@@ -132634,7 +132634,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapDwarvenBow",
-    "custom": "",
+    "custom": "Дзвемерскі лук",
     "en": "Dwarven Bow",
     "ru": "Двемерский лук",
     "bel": "Двэмерскі лук",
@@ -132643,7 +132643,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapDwarvenClaymore",
-    "custom": "",
+    "custom": "Дзвемерская клеймора",
     "en": "Dwarven Claymore",
     "ru": "Двемерская клеймора",
     "bel": "Двэмерская клеймора",
@@ -132652,7 +132652,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapDwarvenDagger",
-    "custom": "",
+    "custom": "Двэмерскі кінжал",
     "en": "Dwarven Dagger",
     "ru": "Двемерский кинжал",
     "bel": "Двэмерскі кінжал",
@@ -132661,7 +132661,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapDwarvenLongSword",
-    "custom": "",
+    "custom": "Дзвемерскі доўгі меч",
     "en": "Dwarven Longsword",
     "ru": "Двемерский длинный меч",
     "bel": "Двэмерскі доўгі меч",
@@ -132670,7 +132670,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapDwarvenMace",
-    "custom": "",
+    "custom": "Двэмерская булава",
     "en": "Dwarven Mace",
     "ru": "Двемерская булава",
     "bel": "Двэмерская булава",
@@ -132679,7 +132679,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapDwarvenShortSword",
-    "custom": "",
+    "custom": "Двэмерскі кароткі меч",
     "en": "Dwarven Shortsword",
     "ru": "Двемерский короткий меч",
     "bel": "Двэмерскі кароткі меч",
@@ -132688,7 +132688,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapDwarvenWarAxe",
-    "custom": "",
+    "custom": "Двэмерскі тапор",
     "en": "Dwarven War Axe",
     "ru": "Двемерский топор",
     "bel": "Двэмерскі тапор",
@@ -132697,7 +132697,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapDwarvenWarHammer",
-    "custom": "",
+    "custom": "Двэмерскі баявы молат",
     "en": "Dwarven Warhammer",
     "ru": "Двемерский боевой молот",
     "bel": "Двэмерскі баявы молат",
@@ -132706,7 +132706,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapEbonyBattleAxe",
-    "custom": "",
+    "custom": "Эбонітавая сякера",
     "en": "Ebony Battle-Axe",
     "ru": "Эбонитовая секира",
     "bel": "Эбонітавая сякера",
@@ -132715,7 +132715,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapEbonyBow",
-    "custom": "",
+    "custom": "Эбанітавы лук",
     "en": "Ebony Bow",
     "ru": "Эбонитовый лук",
     "bel": "Эбонітавы лук",
@@ -132724,7 +132724,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapEbonyClaymore",
-    "custom": "",
+    "custom": "Эбонітавая клеймора",
     "en": "Ebony Claymore",
     "ru": "Эбонитовая клеймора",
     "bel": "Эбонітавая клеймора",
@@ -132733,7 +132733,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapEbonyDagger",
-    "custom": "",
+    "custom": "Эбонітавы кінжал",
     "en": "Ebony Dagger",
     "ru": "Эбонитовый кинжал",
     "bel": "Эбонітавы кінжал",
@@ -132742,7 +132742,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapEbonyWarAxe",
-    "custom": "",
+    "custom": "Эбанітавая сякера",
     "en": "Ebony War Axe",
     "ru": "Эбонитовый топор",
     "bel": "Эбонітавы тапор",
@@ -132751,7 +132751,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapEbonyWarHammer",
-    "custom": "",
+    "custom": "Эбонітавы баявы молат",
     "en": "Ebony Warhammer",
     "ru": "Эбонитовый боевой молот",
     "bel": "Эбонітавы баявы молат",
@@ -132760,7 +132760,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapElvenBattleAxe",
-    "custom": "",
+    "custom": "Эльфійская сякера",
     "en": "Elven Battle-Axe",
     "ru": "Эльфийская секира",
     "bel": "Эльфійская сякера",
@@ -132769,7 +132769,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapElvenClaymore",
-    "custom": "",
+    "custom": "Эльфійская клеймора",
     "en": "Elven Claymore",
     "ru": "Эльфийская клеймора",
     "bel": "Эльфійская клеймора",
@@ -132778,7 +132778,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapElvenWarAxe",
-    "custom": "",
+    "custom": "Эльфійскі тапор",
     "en": "Elven War Axe",
     "ru": "Эльфийский топор",
     "bel": "Эльфійскі тапор",
@@ -132787,7 +132787,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapElvenWarHammer",
-    "custom": "",
+    "custom": "Эльфійскі баявы молат",
     "en": "Elven Warhammer",
     "ru": "Эльфийский боевой молот",
     "bel": "Эльфійскі баявы молат",
@@ -132796,7 +132796,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapGlassBattleAxe",
-    "custom": "",
+    "custom": "Шкляная сякера",
     "en": "Glass Battle-Axe",
     "ru": "Стеклянная секира",
     "bel": "Шкляная сякера",
@@ -132805,7 +132805,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapGlassClaymore",
-    "custom": "",
+    "custom": "Шкляная клеймора",
     "en": "Glass Claymore",
     "ru": "Стеклянная клеймора",
     "bel": "Шкляная клеймора",
@@ -132814,7 +132814,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapGlassWarAxe",
-    "custom": "",
+    "custom": "Шкляны тапор",
     "en": "Glass War Axe",
     "ru": "Стеклянный топор",
     "bel": "Шкляны тапор",
@@ -132823,7 +132823,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapGlassWarHammer",
-    "custom": "",
+    "custom": "Шкляны баявы молат",
     "en": "Glass Warhammer",
     "ru": "Стеклянный боевой молот",
     "bel": "Шкляны баявы молат",
@@ -132832,7 +132832,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapIronBattleAxe",
-    "custom": "",
+    "custom": "Жалезная сякера",
     "en": "Iron Battle-Axe",
     "ru": "Железная секира",
     "bel": "Жалезная сякера",
@@ -132841,7 +132841,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapIronBattleAxeFine",
-    "custom": "",
+    "custom": "Добрая жалезная сякера",
     "en": "Fine Iron Battle-Axe",
     "ru": "Хорошая железная секира",
     "bel": "Добрая жалезная сякера",
@@ -132850,7 +132850,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapIronClaymore",
-    "custom": "",
+    "custom": "Жалезная клеймора",
     "en": "Iron Claymore",
     "ru": "Железная клеймора",
     "bel": "Жалезная клеймора",
@@ -132859,7 +132859,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapIronClaymoreFine",
-    "custom": "",
+    "custom": "Добрая жалезная клеймора",
     "en": "Fine Iron Claymore",
     "ru": "Хорошая железная клеймора",
     "bel": "Добрая жалезная клеймора",
@@ -132868,7 +132868,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapIronWarAxe",
-    "custom": "",
+    "custom": "Жалезная сякера",
     "en": "Iron War Axe",
     "ru": "Железный топор",
     "bel": "Жалезны тапор",
@@ -132877,7 +132877,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapIronWarAxeFine",
-    "custom": "",
+    "custom": "Добры жалезны тапор",
     "en": "Fine Iron War Axe",
     "ru": "Хороший железный топор",
     "bel": "Добры жалезны тапор",
@@ -132886,7 +132886,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapIronWarAxeRusty",
-    "custom": "",
+    "custom": "Іржавы жалезны тапор",
     "en": "Rusty Iron War Axe",
     "ru": "Ржавый железный топор",
     "bel": "Іржавы жалезны тапор",
@@ -132895,7 +132895,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapSilverBattleAxe",
-    "custom": "",
+    "custom": "Срэбная сякера",
     "en": "Silver BattleAxe",
     "ru": "Серебряная секира",
     "bel": "Срэбраная сякера",
@@ -132904,7 +132904,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapSilverBow",
-    "custom": "",
+    "custom": "Срэбны лук",
     "en": "Silver Bow",
     "ru": "Серебряный лук",
     "bel": "Срэбраны лук",
@@ -132913,7 +132913,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapSilverClaymore",
-    "custom": "",
+    "custom": "Срэбраная клеймора",
     "en": "Silver Claymore",
     "ru": "Серебряная клеймора",
     "bel": "Срэбраная клеймора",
@@ -132922,7 +132922,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapSilverDagger",
-    "custom": "",
+    "custom": "Срэбраны кінжал",
     "en": "Silver Dagger",
     "ru": "Серебряный кинжал",
     "bel": "Срэбраны кінжал",
@@ -132931,7 +132931,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapSilverLongsword",
-    "custom": "",
+    "custom": "Срэбны доўгі меч",
     "en": "Silver Longsword",
     "ru": "Серебряный длинный меч",
     "bel": "Срэбраны доўгі меч",
@@ -132940,7 +132940,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapSilverMace",
-    "custom": "",
+    "custom": "Срэбная булава",
     "en": "Silver Mace",
     "ru": "Серебряная булава",
     "bel": "Срэбраная булава",
@@ -132949,7 +132949,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapSilverShortsword",
-    "custom": "",
+    "custom": "Срэбны кароткі меч",
     "en": "Silver Shortsword",
     "ru": "Серебряный короткий меч",
     "bel": "Срэбраны кароткі меч",
@@ -132958,7 +132958,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapSilverWarAxe",
-    "custom": "",
+    "custom": "Срэбраны тапор",
     "en": "Silver War Axe",
     "ru": "Серебряный топор",
     "bel": "Срэбраны тапор",
@@ -132967,7 +132967,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapSilverWarhammer",
-    "custom": "",
+    "custom": "Срэбраны баявы молат",
     "en": "Silver Warhammer",
     "ru": "Серебряный боевой молот",
     "bel": "Срэбраны баявы молат",
@@ -132976,7 +132976,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapSteelBattleAxe",
-    "custom": "",
+    "custom": "Сталёвая сякера",
     "en": "Steel Battle-Axe",
     "ru": "Стальная секира",
     "bel": "Сталёвая сякера",
@@ -132985,7 +132985,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapSteelBattleAxeFine",
-    "custom": "",
+    "custom": "Добрая сталёвая сякера",
     "en": "Fine Steel Battle-Axe",
     "ru": "Хорошая стальная секира",
     "bel": "Добрая сталёвая сякера",
@@ -132994,7 +132994,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapSteelClaymore",
-    "custom": "",
+    "custom": "Сталёвая клеймора",
     "en": "Steel Claymore",
     "ru": "Стальная клеймора",
     "bel": "Сталёвая клеймора",
@@ -133003,7 +133003,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapSteelClaymoreFine",
-    "custom": "",
+    "custom": "Добрая сталёвая клеймора",
     "en": "Fine Steel Claymore",
     "ru": "Хорошая стальная клеймора",
     "bel": "Добрая сталёвая клеймора",
@@ -133012,7 +133012,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapSteelCutlass",
-    "custom": "",
+    "custom": "Сталёвая абардажная шабля",
     "en": "Steel Cutlass",
     "ru": "Стальная абордажная сабля",
     "bel": "Сталёвая абардажная шабля",
@@ -133021,7 +133021,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapSteelCutlassMaster",
-    "custom": "",
+    "custom": "Якасная сталёвая шабля",
     "en": "Masterforge Steel Cutlass",
     "ru": "Качественная стальная сабля",
     "bel": "Якасная сталёвая шабля",
@@ -133030,7 +133030,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapSteelCutlassSuperb",
-    "custom": "",
+    "custom": "Раскошная сталёвая шабля",
     "en": "Superb Steel Cutlass",
     "ru": "Роскошная стальная  сабля",
     "bel": "Раскошная сталёвая шабля",
@@ -133039,7 +133039,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapSteelWarAxe",
-    "custom": "",
+    "custom": "Сталёвы тапор",
     "en": "Steel War Axe",
     "ru": "Стальной топор",
     "bel": "Сталёвы тапор",
@@ -133048,7 +133048,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapSteelWarAxeFine",
-    "custom": "",
+    "custom": "Добры сталёвы тапор",
     "en": "Fine Steel War Axe",
     "ru": "Хороший стальной топор",
     "bel": "Добры сталёвы тапор",
@@ -133057,7 +133057,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeapSteelWarhammer",
-    "custom": "",
+    "custom": "Стальны баявы молат",
     "en": "Steel Warhammer",
     "ru": "Стальной боевой молот",
     "bel": "Сталёвы баявы молат",
@@ -133066,7 +133066,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeatherResponses",
-    "custom": "",
+    "custom": "РэакцыіНаНадвор'е",
     "en": "WeatherResponses",
     "ru": "РеакцииНаПогоду",
     "bel": "РэакцыіНаНадвор'е",
@@ -133075,7 +133075,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Weatherleah",
-    "custom": "",
+    "custom": "Везерлех",
     "en": "Weatherleah",
     "ru": "Везерлех",
     "bel": "Везерлех",
@@ -133084,7 +133084,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeatherleahInterior",
-    "custom": "",
+    "custom": "Везерлех",
     "en": "Weatherleah",
     "ru": "Везерлех",
     "bel": "Везерлех",
@@ -133093,7 +133093,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeatherleahInterior02",
-    "custom": "",
+    "custom": "Везерлех",
     "en": "Weatherleah",
     "ru": "Везерлех",
     "bel": "Везерлех",
@@ -133102,7 +133102,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeatherleahRegion",
-    "custom": "",
+    "custom": "Везерлех",
     "en": "Weatherleah",
     "ru": "Везерлех",
     "bel": "Везерлех",
@@ -133111,7 +133111,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeatherleahTopic",
-    "custom": "",
+    "custom": "Везерлех",
     "en": "Weatherleah",
     "ru": "Везерлех",
     "bel": "Везерлех",
@@ -133120,7 +133120,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeeklySchedule",
-    "custom": "",
+    "custom": "Штотыднёвы расклад",
     "en": "Weekly Schedule",
     "ru": "Еженедельное расписание",
     "bel": "Штотыднёвы расклад",
@@ -133129,7 +133129,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Welke",
-    "custom": "",
+    "custom": "Велке",
     "en": "Welke",
     "ru": "Велке",
     "bel": "Велке",
@@ -133138,7 +133138,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Welke02",
-    "custom": "",
+    "custom": "Велке Сейедэ",
     "en": "Welke Ceyede",
     "ru": "Велке Сейеде",
     "bel": "Велке Сейедэ",
@@ -133147,7 +133147,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Welke03",
-    "custom": "",
+    "custom": "Велке Эдэсель",
     "en": "Welke Edesel",
     "ru": "Велке Эдесель",
     "bel": "Велке Эдэсель",
@@ -133156,7 +133156,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WelkyndStone",
-    "custom": "",
+    "custom": "Велкіндскі камень",
     "en": "Welkynd Stone",
     "ru": "Велкиндский камень",
     "bel": "Вэлкіндскі камень",
@@ -133165,7 +133165,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WelkyndstoneGive",
-    "custom": "",
+    "custom": "Дамовіліся.",
     "en": "It's a deal.",
     "ru": "По рукам.",
     "bel": "Па руках.",
@@ -133174,7 +133174,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WelkyndstoneNotReady",
-    "custom": "",
+    "custom": "Я пакуль не гатовы мець з гэтым справу.",
     "en": "I'm not ready to deal yet.",
     "ru": "Я еще не готов заключать сделки.",
     "bel": "Я яшчэ не гатовы заключаць здзелкі.",
@@ -133183,7 +133183,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WelkyndstoneTopic",
-    "custom": "",
+    "custom": "Вэлкіндскі камень",
     "en": "Welkynd stone",
     "ru": "Велкиндский камень",
     "bel": "Вэлкіндскі камень",
@@ -133192,7 +133192,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WellspringCave",
-    "custom": "",
+    "custom": "Пячора Невычэрпная Крыніца",
     "en": "Wellspring Cave",
     "ru": "Пещера Неистощимый Источник",
     "bel": "Пячора Невычэрпная Крыніца",
@@ -133201,7 +133201,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WellspringCaveKey",
-    "custom": "",
+    "custom": "Ключ ад Невычэрпнай Крыніцы",
     "en": "Wellspring Cave Key",
     "ru": "Ключ от Неистощимого Источника",
     "bel": "Ключ ад Невычэрпнай Крыніцы",
@@ -133210,7 +133210,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Wendelbek",
-    "custom": "",
+    "custom": "Вендэлбек",
     "en": "Wendelbek",
     "ru": "Венделбек",
     "bel": "Вендэлбек",
@@ -133219,7 +133219,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Wendelbek02",
-    "custom": "",
+    "custom": "Вендэлбек Альдмерысель",
     "en": "Wendelbek Aldmerisel",
     "ru": "Венделбек Альдмерисель",
     "bel": "Вендэлбек Альдмерысель",
@@ -133228,7 +133228,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Wendelbek03",
-    "custom": "",
+    "custom": "Вендэлбек Сель Аран Матмедлі",
     "en": "Wendelbek Sel Aran Mathmedli",
     "ru": "Венделбек Сель Аран Матмедли",
     "bel": "Вендэлбек Сель Аран Матмедлі",
@@ -133237,7 +133237,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Wendelbek04",
-    "custom": "",
+    "custom": "Вендэлбек Сіласелі",
     "en": "Wendelbek Silaseli",
     "ru": "Венделбек Силасели",
     "bel": "Вендэлбек Сіласелі",
@@ -133246,7 +133246,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Wendir02",
-    "custom": "",
+    "custom": "Вендзір Нагасель",
     "en": "Wendir Nagasel",
     "ru": "Вендир Нагасель",
     "bel": "Вендзір Нагасель",
@@ -133255,7 +133255,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeoweyouadebtofthanksYouhavesucceededwherewecouldn",
-    "custom": "",
+    "custom": "Мы павінны падзякаваць табе. Табе ўдалося тое, што не змаглі мы",
     "en": "We owe you a debt of thanks. You have succeeded where we could n",
     "ru": "Мы должны поблагодарить тебя. Тебе удалось то, что не смогли мы.",
     "bel": "Мы павінны падзякаваць табе. Табе ўдалося тое, што не змаглі мы.",
@@ -133264,7 +133264,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WestWealdInn",
-    "custom": "",
+    "custom": "Заезд Заходняга Вельда (Скінград)",
     "en": "West Weald Inn (Skingrad)",
     "ru": "Западная корчма \"West Weald Inn\" (Скинград)",
     "bel": "Заходняя карчма \"West Weald Inn\" (Скінград)",
@@ -133273,7 +133273,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WestWealdInnKey",
-    "custom": "",
+    "custom": "Ключ ад \"Заходняга вельда\"",
     "en": "West Weald Inn Key",
     "ru": "Ключ от \"Западного вельда\"",
     "bel": "Ключ ад \"Заходняга вельда\"",
@@ -133282,7 +133282,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WestWealdSubRegion01",
-    "custom": "",
+    "custom": "Заходні вельд",
     "en": "The West Weald",
     "ru": "Западный вельд",
     "bel": "Заходні вельд",
@@ -133291,7 +133291,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WestWealdSubRegion02",
-    "custom": "",
+    "custom": "Заходні вельд",
     "en": "The West Weald",
     "ru": "Западный вельд",
     "bel": "Заходні вельд",
@@ -133300,7 +133300,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WestWealdSubRegion03",
-    "custom": "",
+    "custom": "Заходні вельд",
     "en": "The West Weald",
     "ru": "Западный вельд",
     "bel": "Заходні вельд",
@@ -133309,7 +133309,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeynonPriory",
-    "custom": "",
+    "custom": "Прыёрат Вейнон",
     "en": "Weynon Priory",
     "ru": "Вейнонский приорат",
     "bel": "Вейнонскі прыярат",
@@ -133318,7 +133318,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeynonPrioryChapel",
-    "custom": "",
+    "custom": "Прыёрат Вейнон",
     "en": "Weynon Priory",
     "ru": "Приорат Вейнон",
     "bel": "Прыярат Вейнон",
@@ -133327,7 +133327,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeynonPrioryFaction",
-    "custom": "",
+    "custom": "Грамадзянін манастыра Вейнон",
     "en": "Weynon Priory Citizen",
     "ru": "Гражданин монастыря Вейнон",
     "bel": "Грамадзянін манастыра Вейнон",
@@ -133336,7 +133336,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeynonPrioryHouse",
-    "custom": "",
+    "custom": "Вейнон - Дом",
     "en": "Weynon House",
     "ru": "Вейнон - Дом",
     "bel": "Вейнон - Дом",
@@ -133345,7 +133345,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeynonPrioryLodge",
-    "custom": "",
+    "custom": "Сядзіба Вейнон",
     "en": "Weynon Lodge",
     "ru": "Усадьба Вейнон",
     "bel": "Сядзіба Вейнон",
@@ -133354,7 +133354,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeynonPriorySheepRam",
-    "custom": "",
+    "custom": "Авечка",
     "en": "Sheep",
     "ru": "Баран",
     "bel": "Баран",
@@ -133363,7 +133363,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WeynonPrioryTopic",
-    "custom": "",
+    "custom": "Прыёрат Вейнон",
     "en": "Weynon Priory",
     "ru": "Приорат Вейнон",
     "bel": "Прыярат Вейнон",
@@ -133372,7 +133372,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WheatStalk",
-    "custom": "",
+    "custom": "Пшаніца",
     "en": "Wheat Stalk",
     "ru": "Пшеница",
     "bel": "Пшаніца",
@@ -133381,7 +133381,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WhiteStallionLodge",
-    "custom": "",
+    "custom": "Беласнежны Лодж «Белы Жарабец»",
     "en": "White Stallion Lodge",
     "ru": "Белоснежный Лодж «Белый Жеребец»",
     "bel": "Беласнежны Лодж «Белы Жарабец»",
@@ -133390,7 +133390,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WhiteStallionLodgeInterior",
-    "custom": "",
+    "custom": "Рэзідэнцыя \"Белы жарабец\"",
     "en": "White Stallion Lodge",
     "ru": "Резиденция \"Белый жеребец\"",
     "bel": "Рэзідэнцыя \"Белы жарабец\"",
@@ -133399,7 +133399,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WhiteStallionLodgeKey",
-    "custom": "",
+    "custom": "Ключ ад \"Белага жарабца\"",
     "en": "White Stallion Lodge Key",
     "ru": "Ключ от \"Белого жеребца\"",
     "bel": "Ключ ад \"Белага жарабца\"",
@@ -133408,7 +133408,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WhiteStallionLodgeRegion",
-    "custom": "",
+    "custom": "Рэзідэнцыя 'Белы жарабец'",
     "en": "White Stallion Lodge",
     "ru": "Резиденция 'Белый жеребец'",
     "bel": "Рэзідэнцыя 'Белы жарабец'",
@@ -133417,7 +133417,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WhitmondFarm",
-    "custom": "",
+    "custom": "Вітмонд",
     "en": "Whitmond",
     "ru": "Витмонд",
     "bel": "Вітмонд",
@@ -133426,7 +133426,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WhitmondFarmKey",
-    "custom": "",
+    "custom": "Ключ ад фермы Вітмонд",
     "en": "Whitmond Farm Key",
     "ru": "Ключ от фермы Витмонд",
     "bel": "Ключ ад фермы Вітмонд",
@@ -133435,7 +133435,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WhitmondRegion",
-    "custom": "",
+    "custom": "Вітмонд",
     "en": "Whitmond",
     "ru": "Витмонд",
     "bel": "Вітмонд",
@@ -133444,7 +133444,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Wilbur",
-    "custom": "",
+    "custom": "Вілбур",
     "en": "Wilbur",
     "ru": "Вилбур",
     "bel": "Вілбур",
@@ -133453,7 +133453,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WildernessChestFortFacianEEgg01",
-    "custom": "",
+    "custom": "Скрынка для ўпрыгожванняў",
     "en": "Jewelry Box",
     "ru": "Шкатулка для драгоценностей",
     "bel": "Шкатулка для каштоўнасцей",
@@ -133462,7 +133462,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WildernessChestFortVareilaEEgg01",
-    "custom": "",
+    "custom": "Скрынка для ўпрыгожванняў",
     "en": "Jewelry Box",
     "ru": "Шкатулка для драгоценностей",
     "bel": "Шкатулка для каштоўнасцей",
@@ -133471,7 +133471,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WildeyeStables",
-    "custom": "",
+    "custom": "Стайні «Дзікі погляд»",
     "en": "Wildeye Stables",
     "ru": "Конюшни Wildeye",
     "bel": "Стайні Wildeye",
@@ -133480,7 +133480,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Willet",
-    "custom": "",
+    "custom": "Вілет",
     "en": "Willet",
     "ru": "Виллет",
     "bel": "Вілет",
@@ -133489,7 +133489,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WillowBankFaction",
-    "custom": "",
+    "custom": "Прыбярэжная вярба Чэйдынхола",
     "en": "Cheydinhal Willow Bank",
     "ru": "Прибрежная ива Чейдинхола",
     "bel": "Прыбярэжная вярба Чэйдынхола",
@@ -133498,7 +133498,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WillowBankKey",
-    "custom": "",
+    "custom": "Ключ ад Вярбовага берага",
     "en": "Willow Bank Key",
     "ru": "Ключ от Ивового берега",
     "bel": "Ключ ад Вярбовага берага",
@@ -133507,7 +133507,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WindCave",
-    "custom": "",
+    "custom": "Ветраная пячора",
     "en": "Wind Cave",
     "ru": "Ветряная пещера",
     "bel": "Ветраная пячора",
@@ -133516,7 +133516,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WindCave02",
-    "custom": "",
+    "custom": "Ветраная пячора - Вялікі грот",
     "en": "Wind Cave Great Pit",
     "ru": "Ветряная пещера - Большой грот",
     "bel": "Ветраная пячора - Вялікі грот",
@@ -133525,7 +133525,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WindCave03",
-    "custom": "",
+    "custom": "Ветраная пячора - Ход Чорнага пацука",
     "en": "Wind Cave Black Rat Ramble",
     "ru": "Ветряная пещера - Ход Черной крысы",
     "bel": "Ветраная пячора - Ход Чорнага пацука",
@@ -133534,7 +133534,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WindRangeCamp",
-    "custom": "",
+    "custom": "Ветралагер Далёкага Дзеяння",
     "en": "Wind Range Camp",
     "ru": "Ветролагерь Дальнего Действия",
     "bel": "Ветралагер Далёкага Дзеяння",
@@ -133543,7 +133543,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Winson",
-    "custom": "",
+    "custom": "Вінсан",
     "en": "Winson",
     "ru": "Винсон",
     "bel": "Вінсан",
@@ -133552,7 +133552,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WispStalkCaps",
-    "custom": "",
+    "custom": "Шапкі гіфаломы",
     "en": "Wisp Stalk Caps",
     "ru": "Шляпки гифоломы",
     "bel": "Шапкі гіфаломы",
@@ -133561,7 +133561,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WispStalkCluster01",
-    "custom": "",
+    "custom": "Гіфалома",
     "en": "Wisp Stalks",
     "ru": "Гифолома",
     "bel": "Гіфалома",
@@ -133570,7 +133570,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WispStalkCluster02",
-    "custom": "",
+    "custom": "Гіфалома",
     "en": "Wisp Stalks",
     "ru": "Гифолома",
     "bel": "Гіфалома",
@@ -133579,7 +133579,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WispStalkCluster03",
-    "custom": "",
+    "custom": "Гіфалома",
     "en": "Wisp Stalks",
     "ru": "Гифолома",
     "bel": "Гіфалома",
@@ -133588,7 +133588,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WispStalkCluster04",
-    "custom": "",
+    "custom": "Гіфалома",
     "en": "Wisp Stalks",
     "ru": "Гифолома",
     "bel": "Гіфалома",
@@ -133597,7 +133597,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WispStalkCluster05",
-    "custom": "",
+    "custom": "Гіфалома",
     "en": "Wisp Stalks",
     "ru": "Гифолома",
     "bel": "Гіфалома",
@@ -133606,7 +133606,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Witchhunter",
-    "custom": "",
+    "custom": "Інквізітар",
     "en": "Witchhunter",
     "ru": "Инквизитор",
     "bel": "Інквізітар",
@@ -133615,7 +133615,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Witseidutsei",
-    "custom": "",
+    "custom": "Вітсідутсі",
     "en": "Witseidutsei",
     "ru": "Витсидутси",
     "bel": "Вітсідутсі",
@@ -133624,7 +133624,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WolfPelt01",
-    "custom": "",
+    "custom": "Скура воўка",
     "en": "Wolf Pelt",
     "ru": "Шкура волка",
     "bel": "Скура воўка",
@@ -133633,7 +133633,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WoodElfFringes",
-    "custom": "",
+    "custom": "Вузел са шпількамі",
     "en": "Stick Twist",
     "ru": "Узел со шпильками",
     "bel": "Вузел са шпількамі",
@@ -133642,7 +133642,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WoodlandGrace",
-    "custom": "",
+    "custom": "Літасць лясоў",
     "en": "Woodland Grace",
     "ru": "Лесная Благодать",
     "bel": "Лясная Ласка",
@@ -133651,7 +133651,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Worktodo",
-    "custom": "",
+    "custom": "Праца, якую трэба зрабіць",
     "en": "Work to do",
     "ru": "Дел невпроворот.",
     "bel": "Спраў не ўпроворот.",
@@ -133660,7 +133660,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WormAnchorite",
-    "custom": "",
+    "custom": "Анахарэт Чарвяка",
     "en": "Worm Anchorite",
     "ru": "Анахорет Червя",
     "bel": "Анахарэт Чарвяка",
@@ -133669,7 +133669,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WormAnchoriteFaction",
-    "custom": "",
+    "custom": "Фракцыя Чарвяточнага Пустэльніка",
     "en": "Worm Anchorite Faction",
     "ru": "Фракция Червоточного Отшельника",
     "bel": "Фракцыя Чарвяточнага Пустэльніка",
@@ -133678,7 +133678,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Wrath",
-    "custom": "",
+    "custom": "Люты",
     "en": "Wrath",
     "ru": "Яростный",
     "bel": "Люты",
@@ -133687,7 +133687,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WrathofSithis1",
-    "custom": "",
+    "custom": "Лютасць Сіціса",
     "en": "Wrath of Sithis",
     "ru": "Ярость Ситиса",
     "bel": "Лютасць Сіціса",
@@ -133696,7 +133696,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WrathofSithis2",
-    "custom": "",
+    "custom": "Лютасць Сіціса",
     "en": "Wrath of Sithis",
     "ru": "Ярость Ситиса",
     "bel": "Лютасць Сіціса",
@@ -133705,7 +133705,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WrathofSithis3",
-    "custom": "",
+    "custom": "Лютасць Сіціса",
     "en": "Wrath of Sithis",
     "ru": "Ярость Ситиса",
     "bel": "Лютасць Сіціса",
@@ -133714,7 +133714,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_WreckedSILoadDoor",
-    "custom": "",
+    "custom": "Прабіты корпус карабля",
     "en": "Broken Hull",
     "ru": "Пробитый корпус корабля",
     "bel": "Прабіты корпус карабля",
@@ -133723,7 +133723,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPAichan01",
-    "custom": "",
+    "custom": "Падзямелле Айчана",
     "en": "Aichan Prison",
     "ru": "Подземелье Айчана",
     "bel": "Падзямелле Айчана",
@@ -133732,7 +133732,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPBlackrootLair01",
-    "custom": "",
+    "custom": "Логва Чарнарута",
     "en": "Blackroot Lair",
     "ru": "Черное логово",
     "bel": "Чорнае логава",
@@ -133741,7 +133741,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPBlackrootLair02",
-    "custom": "",
+    "custom": "Чорнае логава - Знешні лагер",
     "en": "Blackroot Lair, Outer Encampment",
     "ru": "Черное логово - Внешний лагерь",
     "bel": "Чорнае логава - Знешні лагер",
