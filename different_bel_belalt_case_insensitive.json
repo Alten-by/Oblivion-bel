@@ -87139,7 +87139,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE03SyndelShockStaff04",
-    "custom": "",
+    "custom": "Грамавержац Сіндэла",
     "en": "Syndel's Boltcaster",
     "ru": "Громовержец Синдела",
     "bel": "Грамавержац Сіндэла",
@@ -87148,7 +87148,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE03TeleportationPad01",
-    "custom": "",
+    "custom": "Тэлепартатар",
     "en": "Teleportation Pad",
     "ru": "Телепортатор",
     "bel": "Тэлепартатар",
@@ -87157,7 +87157,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE03TeleporterGate",
-    "custom": "",
+    "custom": "Металічная брама",
     "en": "Metal Gate",
     "ru": "Металлические ворота",
     "bel": "Металічныя вароты",
@@ -87166,7 +87166,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE03TestKey",
-    "custom": "",
+    "custom": "ВЯЛІЗНЫ КЛЮЧ",
     "en": "GIANT KEY",
     "ru": "ОГРОМНЫЙ КЛЮЧ",
     "bel": "ВЯЛІЗНЫ КЛЮЧ",
@@ -87175,7 +87175,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE03TuningFork",
-    "custom": "",
+    "custom": "Судзілішчны атэнюатар",
     "en": "Attenuator of Judgment",
     "ru": "Судный аттенюатор",
     "bel": "Судзілішчны атэнюатар",
@@ -87184,7 +87184,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE03XedChallengeCreatures",
-    "custom": "",
+    "custom": "Істоты з XedilianChallenge",
     "en": "XedilianChallengeCreatures",
     "ru": "Существа из XedilianChallenge",
     "bel": "Істоты з XedilianChallenge",
@@ -87193,7 +87193,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE03Xedilian",
-    "custom": "",
+    "custom": "Чаму Зедыліян?",
     "en": "Why Xedilian?",
     "ru": "Почему Зедилиан?",
     "bel": "Чаму Зедыліян?",
@@ -87202,7 +87202,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE03XedilianFaction",
-    "custom": "",
+    "custom": "Фракцыя Ксэдыліяна",
     "en": "Xedilian Faction",
     "ru": "Фракция Xedilian",
     "bel": "Фракцыя Xedilian",
@@ -87211,7 +87211,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE03XedilianFaction_LEVEL0_M",
-    "custom": "",
+    "custom": "Вартаўнік Зедыліяна",
     "en": "Xedilian Caretaker",
     "ru": "Хранитель Зедилиана",
     "bel": "Вартаўнік Зедыліяна",
@@ -87220,7 +87220,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE03XedilianTopic",
-    "custom": "",
+    "custom": "Зедыліян",
     "en": "Xedilian",
     "ru": "Зедилиан",
     "bel": "Зедыліян",
@@ -87229,7 +87229,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04",
-    "custom": "",
+    "custom": "Прыстрасць",
     "en": "Addiction",
     "ru": "Пристрастие",
     "bel": "Прыстрасць",
@@ -87238,7 +87238,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04Audience",
-    "custom": "",
+    "custom": "Аўдыенцыя ў лэдзі Сіл",
     "en": "Audience with Lady Syl",
     "ru": "Аудиенция у леди Сил",
     "bel": "Аўдыенцыя ў лэдзі Сіл",
@@ -87247,7 +87247,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04Chalice",
-    "custom": "",
+    "custom": "Чаша Інверсіі",
     "en": "Chalice of Reversal",
     "ru": "Чаша Инверсии",
     "bel": "Чаша Інверсіі",
@@ -87256,7 +87256,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04ChaliceNo",
-    "custom": "",
+    "custom": "Не.",
     "en": "No, I haven't.",
     "ru": "Нет.",
     "bel": "Не.",
@@ -87265,7 +87265,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04ChaliceYes",
-    "custom": "",
+    "custom": "Так, ёсць.",
     "en": "Yes, I have.",
     "ru": "Да.",
     "bel": "Так.",
@@ -87274,7 +87274,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04DoIKnowHer",
-    "custom": "",
+    "custom": "Я ведаю яе?",
     "en": "Do I know her?",
     "ru": "Я знаю ее?",
     "bel": "Я ведаю яе?",
@@ -87283,7 +87283,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04Felldew",
-    "custom": "",
+    "custom": "Фелдью",
     "en": "Felldew",
     "ru": "Феллдью",
     "bel": "Фелдью",
@@ -87292,7 +87292,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04FelldewAddict01",
-    "custom": "",
+    "custom": "Аматар Фелдью",
     "en": "Felldew Addict",
     "ru": "Любитель Феллдью",
     "bel": "Аматар Фелдью",
@@ -87301,7 +87301,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04FelldewAddict02",
-    "custom": "",
+    "custom": "Аматар Фелдью",
     "en": "Felldew Addict",
     "ru": "Любитель Феллдью",
     "bel": "Аматар Фелдью",
@@ -87310,7 +87310,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04FelldewAddict03",
-    "custom": "",
+    "custom": "Джуфі Карычневы",
     "en": "Joofy the Brown",
     "ru": "Джуфи Коричневый",
     "bel": "Джуфі Карычневы",
@@ -87319,7 +87319,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04FelldewAddicts",
-    "custom": "",
+    "custom": "Наркаманы Фельдзью",
     "en": "Felldew Addicts",
     "ru": "Наркоманы Felldew",
     "bel": "Наркаманы Felldew",
@@ -87328,7 +87328,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04FelldewElytra1",
-    "custom": "",
+    "custom": "Элітра-дзіцяня",
     "en": "Elytra Hatchling",
     "ru": "Элитра-детеныш",
     "bel": "Элітра-дзіцяня",
@@ -87337,7 +87337,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04FelldewElytra2",
-    "custom": "",
+    "custom": "Элітра-труцень",
     "en": "Elytra Drone",
     "ru": "Элитра-трутень",
     "bel": "Элітра-труцень",
@@ -87346,7 +87346,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04FelldewElytra3",
-    "custom": "",
+    "custom": "Элітра-салдат",
     "en": "Elytra Soldier",
     "ru": "Элитра-солдат",
     "bel": "Элітра-салдат",
@@ -87355,7 +87355,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04FelldewElytra4",
-    "custom": "",
+    "custom": "Элітра-правадыр",
     "en": "Elytra Noble",
     "ru": "Элитра-вожак",
     "bel": "Элітра-правадыр",
@@ -87364,7 +87364,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04FelldewElytra5",
-    "custom": "",
+    "custom": "Элітра-матка",
     "en": "Elytra Matron",
     "ru": "Элитра-матка",
     "bel": "Элітра-матка",
@@ -87373,7 +87373,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04FelldewElytra5Boss",
-    "custom": "",
+    "custom": "Элітра-матка",
     "en": "Elytra Matron",
     "ru": "Элитра-матка",
     "bel": "Элітра-матка",
@@ -87382,7 +87382,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04FelldewElytraSPECIAL",
-    "custom": "",
+    "custom": "Элітра-дзіцяня",
     "en": "Elytra Hatchling",
     "ru": "Элитра-детеныш",
     "bel": "Элітра-дзіцяня",
@@ -87391,7 +87391,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04FelldewEuphoria1",
-    "custom": "",
+    "custom": "Эйфарыя Фелдью",
     "en": "Felldew Euphoria",
     "ru": "Эйфория Феллдью",
     "bel": "Эйфарыя Фелдью",
@@ -87400,7 +87400,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04FelldewEuphoria2",
-    "custom": "",
+    "custom": "Эйфарыя Фелдью",
     "en": "Felldew Euphoria",
     "ru": "Эйфория Феллдью",
     "bel": "Эйфарыя Фелдью",
@@ -87409,7 +87409,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04FelldewEuphoria3",
-    "custom": "",
+    "custom": "Эйфарыя Фелдью",
     "en": "Felldew Euphoria",
     "ru": "Эйфория Феллдью",
     "bel": "Эйфарыя Фелдью",
@@ -87418,7 +87418,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04FelldewSelfCast",
-    "custom": "",
+    "custom": "Эйфарыя Фелдью",
     "en": "Felldew Euphoria",
     "ru": "Эйфория Феллдью",
     "bel": "Эйфарыя Фелдью",
@@ -87427,7 +87427,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04FelldewWithdrawl",
-    "custom": "",
+    "custom": "Спыненне дзеяння Фелдью",
     "en": "Felldew Withdrawal",
     "ru": "Прекращение действия Феллдью",
     "bel": "Спыненне дзеяння Фелдью",
@@ -87436,7 +87436,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04FelldewWithdrawl2",
-    "custom": "",
+    "custom": "Хваравітае спыненне дзеяння Фелдью",
     "en": "Painful Felldew Withdrawal",
     "ru": "Болезненное прекращение действия Феллдью",
     "bel": "Хваравітае спыненне дзеяння Фелдью",
@@ -87445,7 +87445,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04FelldewWithdrawl3",
-    "custom": "",
+    "custom": "Ранячае спыненне дзеяння Фелдью",
     "en": "Wounding Felldew Withdrawal",
     "ru": "Ранящее прекращение действия Феллдью",
     "bel": "Ранячае спыненне дзеяння Фелдью",
@@ -87454,7 +87454,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04FelldewWithdrawl4",
-    "custom": "",
+    "custom": "Траўматычнае спыненне дзеяння Фелдью",
     "en": "Crippling Felldew Withdrawal",
     "ru": "Травматическое прекращение действия Феллдью",
     "bel": "Траўматычнае спыненне дзеяння Фелдью",
@@ -87463,7 +87463,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04FelldewWithdrawl5",
-    "custom": "",
+    "custom": "Разбуральнае спыненне дзеяння Фелдью",
     "en": "Ruinous Felldew Withdrawal",
     "ru": "Разрушительное прекращение действия Феллдью",
     "bel": "Разбуральнае спыненне дзеяння Фелдью",
@@ -87472,7 +87472,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04Fin",
-    "custom": "",
+    "custom": "SE04 Пасля задання",
     "en": "SE04 Post Quest",
     "ru": "SE04 После задания",
     "bel": "SE04 Пасля задання",
@@ -87481,7 +87481,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04GreymarchTopic",
-    "custom": "",
+    "custom": "Шэры марш",
     "en": "Greymarch",
     "ru": "Серый марш",
     "bel": "Шэры марш",
@@ -87499,7 +87499,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04Shell",
-    "custom": "",
+    "custom": "Спасціжэнне шаленства",
     "en": "Understanding Madness",
     "ru": "Постижение безумия",
     "bel": "Спасціжэнне шаленства",
@@ -87508,7 +87508,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04SheoIntro2",
-    "custom": "",
+    "custom": "Што такое Шэры марш?",
     "en": "What is the Greymarch?",
     "ru": "Что такое Серый марш?",
     "bel": "Што такое Шэры марш?",
@@ -87517,7 +87517,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04SheoKnights",
-    "custom": "",
+    "custom": "Мяне атакавалі рыцары...",
     "en": "I was attacked by Knights...",
     "ru": "Меня атаковали рыцари...",
     "bel": "Мяне атакавалі рыцары...",
@@ -87526,7 +87526,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04SheoLearnWhat",
-    "custom": "",
+    "custom": "Вывучыць? Што вывучыць?",
     "en": "Learn? Learn what?",
     "ru": "Изучить? Что изучить?",
     "bel": "Вывучыць? Што вывучыць?",
@@ -87535,7 +87535,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04SheoWhatNow",
-    "custom": "",
+    "custom": "Дык што вы просіце мяне зрабіць?",
     "en": "What would You ask of me now?",
     "ru": "Так что вы просите меня сделать?",
     "bel": "Дык што вы просіце мяне зрабіць?",
@@ -87544,7 +87544,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04TempBarrier",
-    "custom": "",
+    "custom": "Бар'ер",
     "en": "Barrier Membrane",
     "ru": "Барьер",
     "bel": "Бар'ер",
@@ -87553,7 +87553,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04TrophyChalice",
-    "custom": "",
+    "custom": "Чаша Інверсіі",
     "en": "Chalice of Reversal",
     "ru": "Чаша Инверсии",
     "bel": "Чаша Інверсіі",
@@ -87562,7 +87562,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04XedilianChoice",
-    "custom": "",
+    "custom": "Зедыліян функцыянуе зноў.",
     "en": "Xedilian functions once more.",
     "ru": "Зедилиан функционирует вновь.",
     "bel": "Зедыліян функцыянуе зноў.",
@@ -87571,7 +87571,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE04YouMeanSyl",
-    "custom": "",
+    "custom": "Дык гэта Сіл!",
     "en": "You mean Syl!",
     "ru": "Так это Сил!",
     "bel": "Дык гэта Сіл!",
@@ -87580,7 +87580,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05Accuse",
-    "custom": "",
+    "custom": "Я затрымліваю цябе для допыту.",
     "en": "You will be held for questioning.",
     "ru": "Я задерживаю тебя для допроса.",
     "bel": "Я затрымліваю цябе для допыту.",
@@ -87589,7 +87589,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05AccuseNM",
-    "custom": "",
+    "custom": "Можаш вяртацца да сваіх спраў.",
     "en": "You may go about your business.",
     "ru": "Можешь возвращаться к своим делам.",
     "bel": "Можаш вяртацца да сваіх спраў.",
@@ -87598,7 +87598,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05AlasonInterr",
-    "custom": "",
+    "custom": "Допыт SE05Alason",
     "en": "SE05AlasonInterrogation",
     "ru": "Допрос SE05Alason",
     "bel": "Допыт SE05Alason",
@@ -87607,7 +87607,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05AnyaWhat",
-    "custom": "",
+    "custom": "Пра што ты кажаш?",
     "en": "What are you talking about?",
     "ru": "О чем ты говоришь?",
     "bel": "Пра што ты гаворыш?",
@@ -87616,7 +87616,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05AnyaWho",
-    "custom": "",
+    "custom": "Хто падыходзіў да цябе? Адказвай!",
     "en": "Who approached you? Tell me at once!",
     "ru": "Кто подходил к тебе? Отвечай!",
     "bel": "Хто падыходзіў да цябе? Адказвай!",
@@ -87625,7 +87625,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05Bow",
-    "custom": "",
+    "custom": "Край Пагібелі",
     "en": "Ruin's Edge",
     "ru": "Гибельная Грань",
     "bel": "Згубная Граніца",
@@ -87634,7 +87634,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05BreviArrest",
-    "custom": "",
+    "custom": "Арышт SE05Brevi",
     "en": "SE05BreviArrest",
     "ru": "Арест SE05Brevi",
     "bel": "Арышт SE05Brevi",
@@ -87643,7 +87643,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05BreviCrazy",
-    "custom": "",
+    "custom": "Гэта вар'яцтва.",
     "en": "This is all crazy.",
     "ru": "Это сумасшествие.",
     "bel": "Гэта вар'яцтва.",
@@ -87652,7 +87652,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05BreviNM",
-    "custom": "",
+    "custom": "Забудзь.",
     "en": "Nevermind.",
     "ru": "Забудь.",
     "bel": "Забудзь.",
@@ -87661,7 +87661,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05BreviProceed",
-    "custom": "",
+    "custom": "Што мне цяпер рабіць?",
     "en": "What do I do now?",
     "ru": "Что мне теперь делать?",
     "bel": "Што мне цяпер рабіць?",
@@ -87670,7 +87670,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05DaggerBurdenSpell",
-    "custom": "",
+    "custom": "Згубная ноша",
     "en": "Ruin's Burden",
     "ru": "Гибельная обуза",
     "bel": "Згубная ноша",
@@ -87679,7 +87679,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05DaggerDemoralizeSpell",
-    "custom": "",
+    "custom": "Згубны страх",
     "en": "Ruin's Fear",
     "ru": "Гибельный страх",
     "bel": "Згубны страх",
@@ -87688,7 +87688,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05DaggerFrenzySpell",
-    "custom": "",
+    "custom": "Згубная лютасць",
     "en": "Ruin's Fury",
     "ru": "Гибельная ярость",
     "bel": "Згубная лютасць",
@@ -87697,7 +87697,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05DaggerParalyzeStrongSpell",
-    "custom": "",
+    "custom": "Згубны параліч",
     "en": "Ruin's Paralysis",
     "ru": "Гибельный паралич",
     "bel": "Згубны параліч",
@@ -87706,7 +87706,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05DaggerParalyzeWeakSpell",
-    "custom": "",
+    "custom": "Згубны параліч",
     "en": "Ruin's Paralysis",
     "ru": "Гибельный паралич",
     "bel": "Згубны параліч",
@@ -87715,7 +87715,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05DaggerSilenceSpell",
-    "custom": "",
+    "custom": "Згубная цішыня",
     "en": "Ruin's Silence",
     "ru": "Гибельная тишина",
     "bel": "Згубная цішыня",
@@ -87724,7 +87724,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05EavesDropDetected",
-    "custom": "",
+    "custom": "SE05EavesDropDetected выяўлена",
     "en": "SE05EavesDropDetected",
     "ru": "SE05EavesDropDetected обнаружено",
     "bel": "SE05EavesDropDetected выяўлена",
@@ -87733,7 +87733,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05Eavesdrop",
-    "custom": "",
+    "custom": "SE05Eavesdrop",
     "en": "SE05Eavesdrop",
     "ru": "SE05Eavesdrop<cf>Подслушивание",
     "bel": "SE05Eavesdrop<cf>Падслухоўванне",
@@ -87742,7 +87742,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05FlameSpell",
-    "custom": "",
+    "custom": "Пякучыя катаванні",
     "en": "Burning Torture",
     "ru": "Обжигающая пытка",
     "bel": "Пякучыя катаванні",
@@ -87751,7 +87751,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05HaskillHerdir",
-    "custom": "",
+    "custom": "Хердзір",
     "en": "Herdir",
     "ru": "Хердир",
     "bel": "Хердзір",
@@ -87760,7 +87760,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05HaskillMuurine",
-    "custom": "",
+    "custom": "М'юрын",
     "en": "Muurine",
     "ru": "Мьюрин",
     "bel": "М'юрын",
@@ -87769,7 +87769,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05HaskillNelrene",
-    "custom": "",
+    "custom": "Нельрын",
     "en": "Nelrene",
     "ru": "Нельрин",
     "bel": "Нельрын",
@@ -87778,7 +87778,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05HaskillSyl",
-    "custom": "",
+    "custom": "Сіл",
     "en": "Syl",
     "ru": "Сил",
     "bel": "Сіл",
@@ -87787,7 +87787,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05HaskillWhatNow",
-    "custom": "",
+    "custom": "Што мне зараз трэба зрабіць?",
     "en": "What should I do now?",
     "ru": "Что мне сейчас нужно сделать?",
     "bel": "Што мне зараз трэба зрабіць?",
@@ -87796,7 +87796,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05HerdirGreetChoice3",
-    "custom": "",
+    "custom": "Нічога, прабач.",
     "en": "Nothing, excuse me.",
     "ru": "Ничего, извини.",
     "bel": "Нічога, прабач.",
@@ -87805,7 +87805,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05HerdirInvestigateCurrentTask",
-    "custom": "",
+    "custom": "Што мне зараз рабіць?",
     "en": "What's my current task?",
     "ru": "Что мне сейчас делать?",
     "bel": "Што мне зараз рабіць?",
@@ -87814,7 +87814,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05HerdirInvestigateWhatNext",
-    "custom": "",
+    "custom": "Што будзем рабіць далей?",
     "en": "What should we do next?",
     "ru": "Что будем делать дальше?",
     "bel": "Што будзем рабіць далей?",
@@ -87823,7 +87823,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05HerdirInvestigateWho",
-    "custom": "",
+    "custom": "Хто будзе нашай наступнай мэтай?",
     "en": "Who should we be looking for now?",
     "ru": "Кто будет нашей следующей целью?",
     "bel": "Хто будзе нашай наступнай мэтай?",
@@ -87832,7 +87832,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05HerdirNevermind",
-    "custom": "",
+    "custom": "Давай пагаворым пра іншае.",
     "en": "Let's discuss other things.",
     "ru": "Давай поговорим о другом.",
     "bel": "Давай пагаворым пра іншае.",
@@ -87841,7 +87841,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05HerdirReturn",
-    "custom": "",
+    "custom": "Вяртайся ў Палац.",
     "en": "Return to the palace.",
     "ru": "Возвращайся во Дворец.",
     "bel": "Вяртайся ў Палац.",
@@ -87850,7 +87850,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05HerdirSpy1NotTelling",
-    "custom": "",
+    "custom": "Я нічога не скажу.",
     "en": "I'm not telling you anything.",
     "ru": "Я ничего не скажу.",
     "bel": "Я нічога не скажу.",
@@ -87859,7 +87859,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05HerdirTortureSpell1",
-    "custom": "",
+    "custom": "Пакутлівы боль",
     "en": "Torturous Pain",
     "ru": "Страшная боль",
     "bel": "Страшны боль",
@@ -87868,7 +87868,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05HerdirWhat",
-    "custom": "",
+    "custom": "І што цяпер?",
     "en": "What happens now?",
     "ru": "Что сейчас происходит?",
     "bel": "Што зараз адбываецца?",
@@ -87877,7 +87877,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05HerdirWho",
-    "custom": "",
+    "custom": "Хто ты?",
     "en": "Who are you?",
     "ru": "Кто вы?",
     "bel": "Хто вы?",
@@ -87886,7 +87886,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05Interrogate1",
-    "custom": "",
+    "custom": "Допыт SE05Interrogate1",
     "en": "SE05Interrogate1",
     "ru": "Допрос SE05Interrogate1",
     "bel": "Допыт SE05Interrogate1",
@@ -87895,7 +87895,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05Interrogate2",
-    "custom": "",
+    "custom": "Допыт SE05Interrogate2",
     "en": "SE05Interrogate2",
     "ru": "Допрос SE05Interrogate2",
     "bel": "Допыт SE05Interrogate2",
@@ -87904,7 +87904,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05Interrogate3",
-    "custom": "",
+    "custom": "Допыт SE05Interrogate3",
     "en": "SE05Interrogate3",
     "ru": "Допрос SE05Interrogate3",
     "bel": "Допыт SE05Interrogate3",
@@ -87913,7 +87913,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05Interrogate4",
-    "custom": "",
+    "custom": "Допыт SE05Interrogate4",
     "en": "SE05Interrogate4",
     "ru": "Допрос SE05Interrogate4",
     "bel": "Допыт SE05Interrogate4",
@@ -87922,7 +87922,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05Key",
-    "custom": "",
+    "custom": "Ключ ад буфета Ма'задды",
     "en": "Ma'zaddha's Cupboard Key",
     "ru": "Ключ от буфета Ма'задды",
     "bel": "Ключ ад буфета Ма'задды",
@@ -87940,7 +87940,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05MazaddhaSawYou",
-    "custom": "",
+    "custom": "Было чуваць, вы размаўлялі з Нельрын.",
     "en": "I heard you talking to Nelrene.",
     "ru": "Слышно было, вы говорили с Нельрин.",
     "bel": "Было чуваць, вы размаўлялі з Нельрын.",
@@ -87949,7 +87949,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05MazaddhaSpare1",
-    "custom": "",
+    "custom": "Я не магу даць такое абяцанне.",
     "en": "I'll make no such promise.",
     "ru": "Я не могу дать такое обещание.",
     "bel": "Я не магу даць такое абяцанне.",
@@ -87958,7 +87958,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05MazaddhaSpare2",
-    "custom": "",
+    "custom": "Добра. Здабудзь мне імёны.",
     "en": "Very well. Bring me names.",
     "ru": "Хорошо. Раздобудь мне имена.",
     "bel": "Добра. Здабудзь мне імёны.",
@@ -87967,7 +87967,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05MazaddhaWhoElse",
-    "custom": "",
+    "custom": "Хто яшчэ ўцягнуты?",
     "en": "Who else is involved?",
     "ru": "Кто еще вовлечен?",
     "bel": "Хто яшчэ ўцягнуты?",
@@ -87976,7 +87976,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05MazaddhaWhy",
-    "custom": "",
+    "custom": "Чаму вы спрабуеце забіць лэдзі Сіл?",
     "en": "Why are you trying to kill Lady Syl?",
     "ru": "Почему вы пытаетесь убить леди Сил?",
     "bel": "Чаму вы спрабуеце забіць лэдзі Сіл?",
@@ -87985,7 +87985,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05Muurine",
-    "custom": "",
+    "custom": "М'юрын.",
     "en": "Muurine.",
     "ru": "Мьюрин.",
     "bel": "М'юрын.",
@@ -87994,7 +87994,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05MuurineFaction",
-    "custom": "",
+    "custom": "Сямейная фракцыя Муурына",
     "en": "Muurine Family Faction",
     "ru": "Фракция семьи Muurine",
     "bel": "Фракцыя сям'і Muurine",
@@ -88003,7 +88003,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05Nelrene",
-    "custom": "",
+    "custom": "Нельрын.",
     "en": "Nelrene.",
     "ru": "Нельрин.",
     "bel": "Нельрын.",
@@ -88012,7 +88012,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05NelreneHaveProof",
-    "custom": "",
+    "custom": "У мяне твой цырыманіяльны меч.",
     "en": "I have your ceremonial sword.",
     "ru": "У меня твой церемониальный меч.",
     "bel": "У мяне твой цырыманіяльны меч.",
@@ -88021,7 +88021,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05NelreneSawYou",
-    "custom": "",
+    "custom": "Вы размаўлялі з Ма'заддай. Я ведаю гэта.",
     "en": "I heard you talking to Ma'zaddha.",
     "ru": "Вы говорили с Ма'заддой. Я знаю это.",
     "bel": "Вы размаўлялі з Ма'заддай. Я ведаю гэта.",
@@ -88030,7 +88030,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05Note",
-    "custom": "",
+    "custom": "Змятая запіска Ма'задды",
     "en": "Ma'zaddha's Crinkled Note",
     "ru": "Мятая записка Ма'задды",
     "bel": "Змятая запіска Ма'задды",
@@ -88039,7 +88039,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05PostTortureGreet",
-    "custom": "",
+    "custom": "Сардэчна запрашаем пасля катаванняў",
     "en": "SE05PostTortureGreet",
     "ru": "Добро пожаловать после пыток.",
     "bel": "Сардэчна запрашаем пасля катаванняў.",
@@ -88048,7 +88048,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05ShockSpell",
-    "custom": "",
+    "custom": "Смерць ад электрычнасці",
     "en": "Shocking Death",
     "ru": "Смерть от электричества",
     "bel": "Смерць ад электрычнасці",
@@ -88057,7 +88057,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05Shortsword",
-    "custom": "",
+    "custom": "Цырыманіяльны меч Нельрын",
     "en": "Nelrene's Ceremonial Shortsword",
     "ru": "Церемониальный меч Нельрин",
     "bel": "Цырыманіяльны меч Нельрын",
@@ -88066,7 +88066,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05Spy1",
-    "custom": "",
+    "custom": "[Хлусня] Вы злавілі мяне. Я шпіён.",
     "en": "[Lie] You got me. I'm a spy.",
     "ru": "[Ложь] Вы поймали меня. Я шпион.",
     "bel": "[Хлусня] Вы злавілі мяне. Я шпіён.",
@@ -88075,7 +88075,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05Spy2",
-    "custom": "",
+    "custom": "Калі я прызнаю гэта, то змагу сысці?",
     "en": "If I admit it, will you let me go?",
     "ru": "Если я признаю это, то смогу уйти?",
     "bel": "Калі я прызнаю гэта, то змагу сысці?",
@@ -88084,7 +88084,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05SylEndSpeech",
-    "custom": "",
+    "custom": "Прамова SE05SylEnd",
     "en": "SE05SylEndSpeech",
     "ru": "Речь SE05SylEnd",
     "bel": "Прамова SE05SylEnd",
@@ -88093,7 +88093,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05SylExcuseMe",
-    "custom": "",
+    "custom": "Шкадую. Прашу прабачэння.",
     "en": "I'm sorry. Excuse me.",
     "ru": "Сожалею. Прошу прощения.",
     "bel": "Шкадую. Прашу прабачэння.",
@@ -88102,7 +88102,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05SylFindYou",
-    "custom": "",
+    "custom": "Мне было загадана знайсці цябе.",
     "en": "I was told to find you.",
     "ru": "Мне было велено найти тебя.",
     "bel": "Мне было загадана знайсці цябе.",
@@ -88111,7 +88111,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05SylHelpNo",
-    "custom": "",
+    "custom": "Дапамагчы вам? Няма жадання.",
     "en": "Help you? I don't think so.",
     "ru": "Помочь вам? Нет желания.",
     "bel": "Дапамагчы вам? Няма жадання.",
@@ -88120,7 +88120,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05SylKill",
-    "custom": "",
+    "custom": "Чаму б проста не забіць іх?",
     "en": "Why not just have them all killed?",
     "ru": "Почему бы просто не убить их?",
     "bel": "Чаму б проста не забіць іх?",
@@ -88129,7 +88129,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05SylMuurine",
-    "custom": "",
+    "custom": "За гэтым стаяла М'юрын.",
     "en": "Muurine was behind it.",
     "ru": "За этим стояла Мьюрин.",
     "bel": "За гэтым стаяла М'юрын.",
@@ -88138,7 +88138,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05SylNoSpy",
-    "custom": "",
+    "custom": "Тут няма шпіёнаў. Сакрэт у бяспецы.",
     "en": "There is no spy. Your secret is safe.",
     "ru": "Тут нет шпионов. Секрет в безопасности",
     "bel": "Тут няма шпіёнаў. Сакрэт у бяспецы.",
@@ -88147,7 +88147,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05SylSpyNotYet",
-    "custom": "",
+    "custom": "Не, яшчэ не.",
     "en": "No, not yet.",
     "ru": "Нет, пока нет.",
     "bel": "Не, пакуль не.",
@@ -88156,7 +88156,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05SylWho",
-    "custom": "",
+    "custom": "Хто сочыць за табой?",
     "en": "Who's spying on you?",
     "ru": "Кто следит за тобой?",
     "bel": "Хто сочыць за табой?",
@@ -88165,7 +88165,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05SylYouAre",
-    "custom": "",
+    "custom": "Ты шпіёніш!",
     "en": "You are the spy!",
     "ru": "Ты шпионишь!",
     "bel": "Ты шпіёніш!",
@@ -88183,7 +88183,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05TortureChoice1F",
-    "custom": "",
+    "custom": "Хлусня! Хердзір, катуй яе.",
     "en": "Liar! Herdir, torture her.",
     "ru": "Ложь! Хердир, пытай ее.",
     "bel": "Хлусня! Хердзір, катуй яе.",
@@ -88192,7 +88192,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05TortureChoice1M",
-    "custom": "",
+    "custom": "Хлусня! Хердзір, катуй яго.",
     "en": "Liar. Herdir, torture him!",
     "ru": "Ложь! Хердир, пытай его.",
     "bel": "Хлусня! Хердзір, катуй яго.",
@@ -88201,7 +88201,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05TortureChoice2F",
-    "custom": "",
+    "custom": "Усё роўна. Хердзір, катуй яе.",
     "en": "I don't care. Herdir, torture her.",
     "ru": "Не волнует. Хердир, пытай ее.",
     "bel": "Усё роўна. Хердзір, катуй яе.",
@@ -88210,7 +88210,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05TortureChoice2M",
-    "custom": "",
+    "custom": "Усё роўна. Хердзір, катуй яго.",
     "en": "I don't care. Herdir, torture him.",
     "ru": "Не волнует. Хердир, пытай его.",
     "bel": "Усё роўна. Хердзір, катуй яго.",
@@ -88219,7 +88219,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE05TortureChoice3",
-    "custom": "",
+    "custom": "Выдатна. Цябе пашкадуюць.",
     "en": "Very well. You shall be spared.",
     "ru": "Отлично. Тебя пощадят.",
     "bel": "Выдатна. Цябе пашкадуюць.",
@@ -88228,7 +88228,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06ArctusGreetA",
-    "custom": "",
+    "custom": "Я схіляюся да Маніі...",
     "en": "I'm thinking about Mania, actually...",
     "ru": "Я склоняюсь к Мании...",
     "bel": "Я схіляюся да Маніі...",
@@ -88237,7 +88237,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06Battle",
-    "custom": "",
+    "custom": "Бітва пры Сайларне",
     "en": "Cylarne battle",
     "ru": "Битва при Сайларне",
     "bel": "Бітва пры Сайларне",
@@ -88246,7 +88246,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06CylarneKey",
-    "custom": "",
+    "custom": "Ключ ад Сайларна",
     "en": "Cylarne Key",
     "ru": "Ключ от Сайларна",
     "bel": "Ключ ад Сайларна",
@@ -88255,7 +88255,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06DSWardenGreet1",
-    "custom": "",
+    "custom": "Я тут па загадзе Шэагарата.",
     "en": "I am here on Sheogorath's business.",
     "ru": "Я здесь по приказу Шеогората.",
     "bel": "Я тут па загадзе Шэагарата.",
@@ -88264,7 +88264,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06DSWardenGreet2",
-    "custom": "",
+    "custom": "Гэта мая справа, сабака.",
     "en": "My business is my own, dog.",
     "ru": "Это мое дело, собака.",
     "bel": "Гэта мая справа, сабака.",
@@ -88273,7 +88273,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06DSWardenGreet3",
-    "custom": "",
+    "custom": "Лепей я пайду тады.",
     "en": "I'd best be going then.",
     "ru": "Лучше я пойду тогда.",
     "bel": "Лепей я пайду тады.",
@@ -88282,7 +88282,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06DarkSeducerFaction",
-    "custom": "",
+    "custom": "Мазкен",
     "en": "Mazken",
     "ru": "Грубиян",
     "bel": "Хам",
@@ -88291,7 +88291,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06DarkSeducerWarden",
-    "custom": "",
+    "custom": "Вайка",
     "en": "Vika",
     "ru": "Вайка",
     "bel": "Вайка",
@@ -88300,7 +88300,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06DerveninGreetA",
-    "custom": "",
+    "custom": "Я схіляюся да Дэменцыі...",
     "en": "I was leaning towards Dementia...",
     "ru": "Я склоняюсь к Деменции...",
     "bel": "Я схіляюся да Дэменцыі...",
@@ -88309,7 +88309,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06GSWardenGreet1",
-    "custom": "",
+    "custom": "Адыдзі ўбок. Шэагарат паслаў мяне.",
     "en": "Stand aside. Sheogorath sent me.",
     "ru": "Шаг в сторону. Шеогорат послал меня.",
     "bel": "Адыдзі ўбок. Шэагарат паслаў мяне.",
@@ -88318,7 +88318,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06GSWardenGreet2",
-    "custom": "",
+    "custom": "Згінь, жалюгідная дэйдра.",
     "en": "Out of my way, daedra scum.",
     "ru": "Сгинь, жалкая дэйдра.",
     "bel": "Згінь, жалюгідная дэйдра.",
@@ -88327,7 +88327,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06GSWardenGreet3",
-    "custom": "",
+    "custom": "А, не зважай увагі.",
     "en": "Ah, never mind then.",
     "ru": "А, не обращай внимания.",
     "bel": "А, не зважай увагі.",
@@ -88336,7 +88336,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06GoldenSaintFaction",
-    "custom": "",
+    "custom": "Аўрыл",
     "en": "Aureal",
     "ru": "Аурил",
     "bel": "Аўрыл",
@@ -88345,7 +88345,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06GoldenSaintFaction_LEVEL1_F",
-    "custom": "",
+    "custom": "Аўрэдэл",
     "en": "Auredel",
     "ru": "Ауредел",
     "bel": "Аўрэдэл",
@@ -88354,7 +88354,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06GoldenSaintFaction_LEVEL1_M",
-    "custom": "",
+    "custom": "Аўрэдэл",
     "en": "Auredel",
     "ru": "Ауредел",
     "bel": "Аўрэдэл",
@@ -88363,7 +88363,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06GoldenSaintFaction_LEVEL3_F",
-    "custom": "",
+    "custom": "Аўрмокел",
     "en": "Aurmokel",
     "ru": "Аурмокел",
     "bel": "Аўрмокел",
@@ -88372,7 +88372,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06GoldenSaintFaction_LEVEL3_M",
-    "custom": "",
+    "custom": "Аўрмокел",
     "en": "Aurmokel",
     "ru": "Аурмокел",
     "bel": "Аўрмокел",
@@ -88381,7 +88381,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06GoldenSaintFaction_LEVEL6_F",
-    "custom": "",
+    "custom": "Пелаўрыг",
     "en": "Pelaurig",
     "ru": "Пелауриг",
     "bel": "Пелаўрыг",
@@ -88390,7 +88390,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06GoldenSaintFaction_LEVEL6_M",
-    "custom": "",
+    "custom": "Пелаўрыг",
     "en": "Pelaurig",
     "ru": "Пелауриг",
     "bel": "Пелаўрыг",
@@ -88399,7 +88399,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06GoldenSaintWarden",
-    "custom": "",
+    "custom": "Чуна",
     "en": "Chuna",
     "ru": "Чуна",
     "bel": "Чуна",
@@ -88408,7 +88408,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06GreymarchTopic",
-    "custom": "",
+    "custom": "Шэры марш",
     "en": "Greymarch",
     "ru": "Серый марш",
     "bel": "Шэры марш",
@@ -88417,7 +88417,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06HelpAttack",
-    "custom": "",
+    "custom": "Планы бітвы",
     "en": "Battle plans",
     "ru": "Планы сражения",
     "bel": "Планы бітвы",
@@ -88426,7 +88426,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06HelpAttackA1",
-    "custom": "",
+    "custom": "Што наконт Андэрдыпа?",
     "en": "What about the Underdeep?",
     "ru": "Что насчет Андердипа?",
     "bel": "Што наконт Андэрдыпа?",
@@ -88435,7 +88435,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06HelpAttackA2",
-    "custom": "",
+    "custom": "Я дапамагу вам. Ідзем.",
     "en": "I'll help you. Let's go.",
     "ru": "Я помогу вам. Идем.",
     "bel": "Я дапамагу вам. Ідзем.",
@@ -88444,7 +88444,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06HelpAttackA3",
-    "custom": "",
+    "custom": "Так, але выкарыстоўваем Андэрдып.",
     "en": "Yes, but use the Underdeep.",
     "ru": "Да, но используем Андердип.",
     "bel": "Так, але выкарыстоўваем Андэрдып.",
@@ -88453,7 +88453,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06HelpAttackA3B1",
-    "custom": "",
+    "custom": "Андэрдып пад невялікай аховай.",
     "en": "The Underdeep is lightly defended.",
     "ru": "Андердип под небольшой охраной.",
     "bel": "Андэрдып пад невялікай аховай.",
@@ -88462,7 +88462,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06HelpAttackA3B2",
-    "custom": "",
+    "custom": "Андэрдып не ахоўваецца. [Хлусня]",
     "en": "The Underdeep is undefended. [Lie]",
     "ru": "Андердип не охраняется. [Ложь]",
     "bel": "Андэрдып не ахоўваецца. [Хлусня]",
@@ -88471,7 +88471,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06HelpAttackA3B3",
-    "custom": "",
+    "custom": "Добра, твой план - найлепшы.",
     "en": "Never mind, your plan is the best.",
     "ru": "Ладно, твой план - лучший.",
     "bel": "Добра, твой план - найлепшы.",
@@ -88480,7 +88480,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06HelpAttackA3C3",
-    "custom": "",
+    "custom": "Упэўненасці няма. Трэба падумаць.",
     "en": "I'm not sure. Let me think.",
     "ru": "Уверенности нет. Нужно подумать.",
     "bel": "Упэўненасці няма. Трэба падумаць.",
@@ -88489,7 +88489,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06HelpAttackA4",
-    "custom": "",
+    "custom": "Я разведаю пазіцыі спакуснікаў.",
     "en": "I'll scout the Dark Seducer position.",
     "ru": "Я разведаю позиции соблазнителей.",
     "bel": "Я разведаю пазіцыі спакуснікаў.",
@@ -88498,7 +88498,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06HelpAttackA5",
-    "custom": "",
+    "custom": "Я не хачу ўмешвацца.",
     "en": "I don't want to get involved.",
     "ru": "Я не хочу вмешиваться.",
     "bel": "Я не хачу ўмешвацца.",
@@ -88507,7 +88507,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06HelpDefend",
-    "custom": "",
+    "custom": "Планы бітвы",
     "en": "Battle plans",
     "ru": "Планы сражения",
     "bel": "Планы бітвы",
@@ -88516,7 +88516,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06HelpDefendA1",
-    "custom": "",
+    "custom": "Я дапамагу вам абараніць алтар.",
     "en": "I'll help you defend the Altar.",
     "ru": "Я помогу вам защитить алтарь.",
     "bel": "Я дапамагу вам абараніць алтар.",
@@ -88525,7 +88525,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06HelpDefendA2",
-    "custom": "",
+    "custom": "Я павяду святых у атаку.",
     "en": "I'll lead the Saints into an ambush.",
     "ru": "Я поведу святых в атаку.",
     "bel": "Я павяду святых у атаку.",
@@ -88534,7 +88534,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06HelpDefendA3",
-    "custom": "",
+    "custom": "Спачатку я хачу пагаварыць са святымі.",
     "en": "Let me talk to the Saints first.",
     "ru": "Вначале я хочу поговорить со святыми.",
     "bel": "Спачатку я хачу пагаварыць са святымі.",
@@ -88543,7 +88543,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06HelpDefendA4",
-    "custom": "",
+    "custom": "Я не хачу ўмешвацца.",
     "en": "I don't want to get involved.",
     "ru": "Я не хочу вмешиваться.",
     "bel": "Я не хачу ўмешвацца.",
@@ -88552,7 +88552,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06KanehFinalA",
-    "custom": "",
+    "custom": "Што мы плануем рабіць?",
     "en": "What are you going to do?",
     "ru": "Что мы планируем делать?",
     "bel": "Што мы плануем рабіць?",
@@ -88561,7 +88561,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06KanehFinalB",
-    "custom": "",
+    "custom": "Дзякуй за дапамогу.",
     "en": "Thanks for your help.",
     "ru": "Спасибо за помощь.",
     "bel": "Дзякуй за дапамогу.",
@@ -88570,7 +88570,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06KanehGreetA",
-    "custom": "",
+    "custom": "Шэагарат паслаў мяне. Мне патрэбна дапамога.",
     "en": "Sheogorath sent me. I need your help.",
     "ru": "Шеогорат послал меня. Мне нужна помощь",
     "bel": "Шэагарат паслаў мяне. Мне патрэбна дапамога",
@@ -88579,7 +88579,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06KanehTopic",
-    "custom": "",
+    "custom": "Канэ",
     "en": "Kaneh",
     "ru": "Канэ",
     "bel": "Канэ",
@@ -88588,7 +88588,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06MaikiChoiceA",
-    "custom": "",
+    "custom": "Чаму Канэ не слухае?",
     "en": "Why won't Kaneh listen?",
     "ru": "Почему Канэ не слушает?",
     "bel": "Чаму Канэ не слухае?",
@@ -88597,7 +88597,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06MaikiChoiceB",
-    "custom": "",
+    "custom": "Ты маеш рацыю. Я сведчу гэта.",
     "en": "You're right. I've scouted it myself.",
     "ru": "Ты прав. Я свидетельствую это.",
     "bel": "Ты маеш рацыю. Я сведчу гэта.",
@@ -88606,7 +88606,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06PriestGreetA",
-    "custom": "",
+    "custom": "Я запалю для вас Вялікі факел.",
     "en": "I'll light the Great Torch for you.",
     "ru": "Я зажгу для вас Великий факел.",
     "bel": "Я запалю для вас Вялікі факел.",
@@ -88615,7 +88615,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06PriestGreetB",
-    "custom": "",
+    "custom": "Мне трэба падумаць аб гэтым.",
     "en": "Let me think about it.",
     "ru": "Мне нужно подумать об этом.",
     "bel": "Мне трэба падумаць аб гэтым.",
@@ -88624,7 +88624,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06PriestsOrderTopic",
-    "custom": "",
+    "custom": "Жрацы Парадку",
     "en": "Priests of Order",
     "ru": "Жрецы Порядка",
     "bel": "Жрацы Парадку",
@@ -88633,7 +88633,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06RuinsGATEclosed",
-    "custom": "",
+    "custom": "Металічная брама",
     "en": "Metal Gate",
     "ru": "Металлические ворота",
     "bel": "Металічныя вароты",
@@ -88642,7 +88642,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06SheoIntro2",
-    "custom": "",
+    "custom": "Як я магу быць дэйдраўскім прынцам?",
     "en": "How can I be a Daedric Prince?",
     "ru": "Как могу я быть дэйдрическим принцем?",
     "bel": "Як я магу быць дэйдраўскім прынцам?",
@@ -88651,7 +88651,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06SheoIntro4",
-    "custom": "",
+    "custom": "Дзе вы будзеце?",
     "en": "Where will you be?",
     "ru": "Где вы будете?",
     "bel": "Дзе вы будзеце?",
@@ -88660,7 +88660,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06ShoutBetrayal",
-    "custom": "",
+    "custom": "Здрадніцкі Крык SE06ShoutBetrayal",
     "en": "SE06ShoutBetrayal",
     "ru": "Предательский Крик SE06ShoutBetrayal",
     "bel": "Здрадніцкі Крык SE06ShoutBetrayal",
@@ -88669,7 +88669,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06ShoutDefendAltar",
-    "custom": "",
+    "custom": "Абараняйце алтар",
     "en": "SE06ShoutDefendAltar",
     "ru": "Защищайте алтарь!",
     "bel": "Абараняйце алтар!",
@@ -88678,7 +88678,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06ShoutStartCombat",
-    "custom": "",
+    "custom": "Пачаць баявы крык SE06",
     "en": "SE06ShoutStartCombat",
     "ru": "Начать боевой крик SE06.",
     "bel": "Пачаць баявы крык SE06.",
@@ -88687,7 +88687,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06SidePassage",
-    "custom": "",
+    "custom": "Андэрдып",
     "en": "The Underdeep",
     "ru": "Андердип",
     "bel": "Андэрдып",
@@ -88696,7 +88696,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06StelaGreetA1",
-    "custom": "",
+    "custom": "Мне трэба пагаварыць з Улфры.",
     "en": "I need to speak to Ulfri.",
     "ru": "Мне нужно поговорить с Улфри.",
     "bel": "Мне трэба пагаварыць з Улфры.",
@@ -88705,7 +88705,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06StelaGreetA2",
-    "custom": "",
+    "custom": "Я тут па загадзе Шэагарата.",
     "en": "I am here on Sheogorath's business.",
     "ru": "Я здесь по приказу Шеогората.",
     "bel": "Я тут па загадзе Шэагарата.",
@@ -88714,7 +88714,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06StelaGreetA3",
-    "custom": "",
+    "custom": "Гэты ключ дае мне права праходу.",
     "en": "This key grants me passage.",
     "ru": "Этот ключ дает мне право прохода.",
     "bel": "Гэты ключ дае мне права праходу.",
@@ -88732,7 +88732,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06TrophyDSHelmet",
-    "custom": "",
+    "custom": "Шлем Улфры",
     "en": "Ulfri's Helmet",
     "ru": "Шлем Улфри",
     "bel": "Шлем Улфры",
@@ -88741,7 +88741,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06TrophyGSHelmet",
-    "custom": "",
+    "custom": "Шлем Канэ",
     "en": "Kaneh's Helmet",
     "ru": "Шлем Канэ",
     "bel": "Шлем Канэ",
@@ -88750,7 +88750,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06UlfriFinalA",
-    "custom": "",
+    "custom": "Ахвяраваць сабой? Што гэта значыць?",
     "en": "Sacrifice yourself? What do you mean?",
     "ru": "Пожертвовать собой? Что это значит?",
     "bel": "Ахвяраваць сабой? Што гэта значыць?",
@@ -88759,7 +88759,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06UlfriFinalB",
-    "custom": "",
+    "custom": "Няўжо гэта адзіны шлях?",
     "en": "Is this really the only way?",
     "ru": "Неужто это единственный путь?",
     "bel": "Няўжо гэта адзіны шлях?",
@@ -88768,7 +88768,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06UlfriFinalC",
-    "custom": "",
+    "custom": "Проста запалі Полымя Агнона.",
     "en": "Just get the Flame of Agnon lit.",
     "ru": "Просто зажги Пламя Агнона.",
     "bel": "Проста запалі Полымя Агнона.",
@@ -88777,7 +88777,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06UlfriGreetA1",
-    "custom": "",
+    "custom": "Вашай ахвярай?",
     "en": "Your prey?",
     "ru": "Вашей жертвой?",
     "bel": "Вашай ахвярай?",
@@ -88786,7 +88786,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE06UlfriTopic",
-    "custom": "",
+    "custom": "Улфры",
     "en": "Ulfri",
     "ru": "Улфри",
     "bel": "Улфры",
@@ -88795,7 +88795,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07",
-    "custom": "",
+    "custom": "Рытуал каранацыі",
     "en": "Ritual of Accession",
     "ru": "Ритуал коронации",
     "bel": "Рытуал каранацыі",
@@ -88804,7 +88804,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07AAnyaHelp",
-    "custom": "",
+    "custom": "Мне трэба падабрацца да яе бліжэй.",
     "en": "I need to get close to her.",
     "ru": "Мне нужно подобраться к ней ближе.",
     "bel": "Мне трэба падабрацца да яе бліжэй.",
@@ -88813,7 +88813,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ADarkSeducerEliteBodyguard",
-    "custom": "",
+    "custom": "Цёмны спакуснік - палацавы вартаўнік",
     "en": "Dark Seducer Royal Guard",
     "ru": "Темный соблазнитель - дворцовый страж",
     "bel": "Цёмны спакуснік - палацавы вартаўнік",
@@ -88822,7 +88822,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ADarkSeducerEliteChambersGuard01",
-    "custom": "",
+    "custom": "Цёмны спакуснік - палацавы вартаўнік",
     "en": "Dark Seducer Royal Guard",
     "ru": "Темный соблазнитель - дворцовый страж",
     "bel": "Цёмны спакуснік - палацавы вартаўнік",
@@ -88831,7 +88831,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ADarkSeducerEliteChambersGuard02",
-    "custom": "",
+    "custom": "Цёмны спакуснік - палацавы вартаўнік",
     "en": "Dark Seducer Royal Guard",
     "ru": "Темный соблазнитель - дворцовый страж",
     "bel": "Цёмны спакуснік - палацавы вартаўнік",
@@ -88840,7 +88840,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ADarkSeducerEliteHelmet",
-    "custom": "",
+    "custom": "Элітны шлем спакуснікаў",
     "en": "Dark Seducer Elite Helmet",
     "ru": "Элитный шлем соблазнителей",
     "bel": "Элітны шлем спакуснікаў",
@@ -88849,7 +88849,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ADarkSeducerEliteQuartersGuard01",
-    "custom": "",
+    "custom": "Цёмны спакуснік - палацавы вартаўнік",
     "en": "Dark Seducer Royal Guard",
     "ru": "Темный соблазнитель - дворцовый страж",
     "bel": "Цёмны спакуснік - палацавы вартаўнік",
@@ -88858,7 +88858,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ADarkSeducerEliteQuartersGuard02",
-    "custom": "",
+    "custom": "Цёмны спакуснік - палацавы вартаўнік",
     "en": "Dark Seducer Royal Guard",
     "ru": "Темный соблазнитель - дворцовый страж",
     "bel": "Цёмны спакуснік - палацавы вартаўнік",
@@ -88867,7 +88867,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07AKithlanHelp",
-    "custom": "",
+    "custom": "Можаш дапамагчы мне падабрацца да яе?",
     "en": "Can you get me close to her?",
     "ru": "Можешь помочь мне подобраться к ней?",
     "bel": "Можаш дапамагчы мне падабрацца да яе?",
@@ -88876,7 +88876,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07AReplace",
-    "custom": "",
+    "custom": "Зрух",
     "en": "Replaced",
     "ru": "Смещение",
     "bel": "Зрух",
@@ -88948,7 +88948,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ARuler",
-    "custom": "",
+    "custom": "Як скажаце.",
     "en": "If you say so.",
     "ru": "Как скажете.",
     "bel": "Як скажаце.",
@@ -88957,7 +88957,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ASESylDouble",
-    "custom": "",
+    "custom": "Сіл",
     "en": "Syl",
     "ru": "Сил",
     "bel": "Сіл",
@@ -88966,7 +88966,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ASheoShout",
-    "custom": "",
+    "custom": "Крык SE07ASheo",
     "en": "SE07ASheoShout",
     "ru": "Крик SE07ASheo",
     "bel": "Крык SE07ASheo",
@@ -88975,7 +88975,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ASheoShout02",
-    "custom": "",
+    "custom": "Выкрык SE07ASheoShout02",
     "en": "SE07ASheoShout02",
     "ru": "Выкрик SE07ASheoShout02",
     "bel": "Выкрык SE07ASheoShout02",
@@ -88984,7 +88984,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ASheoShout03",
-    "custom": "",
+    "custom": "Вокліч Шэа",
     "en": "SE07ASheoShout03",
     "ru": "Возглас Шeo.",
     "bel": "Вокліч Шэа.",
@@ -88993,7 +88993,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ASlain",
-    "custom": "",
+    "custom": "Яна пераможана мною",
     "en": "I've slain her",
     "ru": "Она повержена мною.",
     "bel": "Яна пераможана мною.",
@@ -89002,7 +89002,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ASyl",
-    "custom": "",
+    "custom": "Сіл",
     "en": "Syl",
     "ru": "Сил",
     "bel": "Сіл",
@@ -89011,7 +89011,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ASylFaction",
-    "custom": "",
+    "custom": "Асаблівыя спакуснікі для SE07A",
     "en": "Special Seducers for SE07A",
     "ru": "Особенные обольстители для SE07A.",
     "bel": "Асаблівыя спакуснікі для SE07A.",
@@ -89020,7 +89020,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ASylFaction_LEVEL0_F",
-    "custom": "",
+    "custom": "Блаэтта",
     "en": "Blahette",
     "ru": "Блаэтта",
     "bel": "Блаэтта",
@@ -89029,7 +89029,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ASylFaction_LEVEL0_M",
-    "custom": "",
+    "custom": "Бла-бла",
     "en": "Blah",
     "ru": "Бла-бла.",
     "bel": "Бла-бла.",
@@ -89038,7 +89038,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07AThadonShout",
-    "custom": "",
+    "custom": "Крык SE07AThadon",
     "en": "SE07AThadonShout",
     "ru": "Крик SE07AThadon",
     "bel": "Крык SE07AThadon",
@@ -89047,7 +89047,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07BDose",
-    "custom": "",
+    "custom": "Лячэнне [даць зялёны пылок]",
     "en": "A lovely treat [give Greenmote]",
     "ru": "Лечение [дать зеленую пыльцу]",
     "bel": "Лячэнне [даць зялёны пылок]",
@@ -89128,7 +89128,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07BGreenmote",
-    "custom": "",
+    "custom": "Зялёны пылок",
     "en": "Greenmote",
     "ru": "Зеленая пыльца",
     "bel": "Зялёны пылок",
@@ -89137,7 +89137,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07BPleasures",
-    "custom": "",
+    "custom": "Задавальненні?",
     "en": "Pleasures?",
     "ru": "Удовольствия?",
     "bel": "Задавальненні?",
@@ -89209,7 +89209,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07BRitual",
-    "custom": "",
+    "custom": "Рытуал мной выкананы",
     "en": "I've completed the Ritual",
     "ru": "Ритуал мной исполнен.",
     "bel": "Рытуал мной выкананы.",
@@ -89218,7 +89218,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07BRoutine",
-    "custom": "",
+    "custom": "Распарадак дня",
     "en": "Daily Routine",
     "ru": "Распорядок дня",
     "bel": "Распарадак дня",
@@ -89227,7 +89227,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07BRuler",
-    "custom": "",
+    "custom": "Як скажаце.",
     "en": "If you say so.",
     "ru": "Как скажете.",
     "bel": "Як скажаце.",
@@ -89236,7 +89236,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07BSheoShout",
-    "custom": "",
+    "custom": "Кліч SE07BSheoShout",
     "en": "SE07BSheoShout",
     "ru": "Клич SE07BSheoShout",
     "bel": "Кліч SE07BSheoShout",
@@ -89245,7 +89245,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07BSheoShout02",
-    "custom": "",
+    "custom": "Крык SE07BSheoShout02",
     "en": "SE07BSheoShout02",
     "ru": "Крик SE07BSheoShout02",
     "bel": "Крык SE07BSheoShout02",
@@ -89254,7 +89254,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07BSheoShout03",
-    "custom": "",
+    "custom": "Крычаць SE07BSheoShout03",
     "en": "SE07BSheoShout03",
     "ru": "Кричать SE07BSheoShout03",
     "bel": "Крычаць SE07BSheoShout03",
@@ -89263,7 +89263,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07BSylLeaves",
-    "custom": "",
+    "custom": "Апалае лісце SE07BSyl",
     "en": "SE07BSylLeaves",
     "ru": "Опавшие листья SE07BSyl",
     "bel": "Апалае лісце SE07BSyl",
@@ -89272,7 +89272,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07BSylShout",
-    "custom": "",
+    "custom": "Грамагласны рык SE07BSyl",
     "en": "SE07BSylShout",
     "ru": "ГромогласныйрёвSE07BSyl",
     "bel": "Грамагласны рык SE07BSyl",
@@ -89281,7 +89281,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07BTempGreenmoteBarrel",
-    "custom": "",
+    "custom": "Кантэйнер з зялёным пылком",
     "en": "Greenmote Temp Container",
     "ru": "Контейнер с зеленой пыльцой",
     "bel": "Кантэйнер з зялёным пылком",
@@ -89290,7 +89290,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07BThadon",
-    "custom": "",
+    "custom": "Тэйдан",
     "en": "Thadon",
     "ru": "Тейдон",
     "bel": "Тэйдан",
@@ -89299,7 +89299,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07BThadonDeathSpeech01",
-    "custom": "",
+    "custom": "SE07BThadonDeathSpeech01",
     "en": "SE07BThadonDeathSpeech01",
     "ru": "СЕ07BThadonDeathSpeech01",
     "bel": "СЕ07BThadonDeathSpeech01",
@@ -89308,7 +89308,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07BThadonDeathSpeech03",
-    "custom": "",
+    "custom": "Прамова Тадона аб смерці SE07BThadonDeathSpeech03",
     "en": "SE07BThadonDeathSpeech03",
     "ru": "Речь Тадона о смерти SE07BThadonDeathSpeech03",
     "bel": "Прамова Тадона аб смерці SE07BThadonDeathSpeech03",
@@ -89317,7 +89317,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07BThadonDeathSpeech04",
-    "custom": "",
+    "custom": "SE07BThadonDeathSpeech04",
     "en": "SE07BThadonDeathSpeech04",
     "ru": "СЕ07БТадонпредсмертнаяРечь04",
     "bel": "СЕ07БТадонперадсмяротнаяПрамова04",
@@ -89326,7 +89326,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07BThadonDeathSpeech05",
-    "custom": "",
+    "custom": "Смерць Тадона, прамова 05",
     "en": "SE07BThadonDeathSpeech05",
     "ru": "Смерть Тадона, речь 05",
     "bel": "Смерць Тадона, прамова 05",
@@ -89335,7 +89335,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07BYes",
-    "custom": "",
+    "custom": "Так, і я нясу дар",
     "en": "Yes, and I bring a gift",
     "ru": "Да, и я несу дар.",
     "bel": "Так, і я нясу дар.",
@@ -89344,7 +89344,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07Become",
-    "custom": "",
+    "custom": "Змена герцага",
     "en": "Replacing a Duke",
     "ru": "Смена герцога",
     "bel": "Змена герцага",
@@ -89353,7 +89353,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ChMania",
-    "custom": "",
+    "custom": "Я выбіраю Тэйдана, герцага Маніі.",
     "en": "I choose Thadon, Duke of Mania.",
     "ru": "Я выбираю Тейдона, герцога Мании.",
     "bel": "Я выбіраю Тэйдана, герцага Маніі.",
@@ -89362,7 +89362,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ChNotYet",
-    "custom": "",
+    "custom": "Я ўсё яшчэ не магу выбраць.",
     "en": "I am not ready to choose.",
     "ru": "Я все еще не могу выбрать.",
     "bel": "Я ўсё яшчэ не магу выбраць.",
@@ -89371,7 +89371,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07DementiaHouseFaction",
-    "custom": "",
+    "custom": "Фракцыя \"Дом шаленства\"",
     "en": "House of Dementia Faction",
     "ru": "Фракция \"Дом умопомрачения\"",
     "bel": "Фракцыя \"Дом шаленства\"",
@@ -89380,7 +89380,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07DementiaHouseFaction_LEVEL0_F",
-    "custom": "",
+    "custom": "Член дома",
     "en": "Memberette",
     "ru": "Член дома",
     "bel": "Член дома",
@@ -89389,7 +89389,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07DementiaHouseFaction_LEVEL0_M",
-    "custom": "",
+    "custom": "Удзельнік",
     "en": "Member",
     "ru": "Член дома",
     "bel": "Член дома",
@@ -89398,7 +89398,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07DementiaKey",
-    "custom": "",
+    "custom": "Ключ ад Дома Дэменцыі",
     "en": "House Dementia Key",
     "ru": "Ключ от Дома Деменции",
     "bel": "Ключ ад Дома Дэменцыі",
@@ -89407,7 +89407,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07Displeased",
-    "custom": "",
+    "custom": "Ці не будуць незадаволеныя герцагі?",
     "en": "Won't the Dukes be displeased?",
     "ru": "Не будут ли недовольны герцоги?",
     "bel": "Ці не будуць незадаволеныя герцагі?",
@@ -89416,7 +89416,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07Greenmote",
-    "custom": "",
+    "custom": "Зялёны пылок",
     "en": "Greenmote",
     "ru": "Зеленая пыльца",
     "bel": "Зялёны пылок",
@@ -89425,7 +89425,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07GreenmoteControl",
-    "custom": "",
+    "custom": "Зялёнамохавы Экстаз",
     "en": "Greenmote Rapture",
     "ru": "Наслаждение зеленой пыльцой",
     "bel": "Насалода зялёным пылком",
@@ -89434,7 +89434,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07GreenmotePile01",
-    "custom": "",
+    "custom": "Куча зялёнага пылку",
     "en": "Greenmote Pile",
     "ru": "Куча зеленой пыльцы",
     "bel": "Куча зялёнага пылку",
@@ -89443,7 +89443,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07GreenmoteRapture",
-    "custom": "",
+    "custom": "Зялёнамохавы Экстаз",
     "en": "Greenmote Rapture",
     "ru": "Наслаждение зеленой пыльцой",
     "bel": "Насалода зялёным пылком",
@@ -89452,7 +89452,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07GreenmoteSiloFaction",
-    "custom": "",
+    "custom": "Фракцыя: Сілас Грынмоўт",
     "en": "Greenmote Silo Faction",
     "ru": "Фракция: Силос Гринмоут",
     "bel": "Фракцыя: Сілас Грынмоўт",
@@ -89461,7 +89461,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07GreenmoteSiloFaction_LEVEL0_F",
-    "custom": "",
+    "custom": "Ключніца",
     "en": "Siloite",
     "ru": "Ключница",
     "bel": "Ключніца",
@@ -89470,7 +89470,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07GreenmoteSiloFaction_LEVEL0_M",
-    "custom": "",
+    "custom": "Ключнік",
     "en": "Siloite",
     "ru": "Ключник",
     "bel": "Ключнік",
@@ -89479,7 +89479,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07GreenmoteTopic",
-    "custom": "",
+    "custom": "Зялёны пылок",
     "en": "Greenmote",
     "ru": "Зеленая пыльца",
     "bel": "Зялёны пылок",
@@ -89488,7 +89488,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07GreymarchTopic",
-    "custom": "",
+    "custom": "Шэры марш",
     "en": "Greymarch",
     "ru": "Серый марш",
     "bel": "Шэры марш",
@@ -89497,7 +89497,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07HaskillAsk",
-    "custom": "",
+    "custom": "Якога ўладара мне выбраць?",
     "en": "Which leader should I choose?",
     "ru": "Какого властителя мне выбрать?",
     "bel": "Якога ўладара мне выбраць?",
@@ -89506,7 +89506,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ManiaHouseFaction_LEVEL0_F",
-    "custom": "",
+    "custom": "Член дома",
     "en": "Memberette",
     "ru": "Член дома",
     "bel": "Член дома",
@@ -89515,7 +89515,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ManiaHouseFaction_LEVEL0_M",
-    "custom": "",
+    "custom": "Удзельнік",
     "en": "Member",
     "ru": "Член дома",
     "bel": "Член дома",
@@ -89524,7 +89524,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ManiaKey",
-    "custom": "",
+    "custom": "Ключ ад Дома Маніі",
     "en": "House Mania Key",
     "ru": "Ключ от Дома Мании",
     "bel": "Ключ ад Дома Маніі",
@@ -89533,7 +89533,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07Nerveshatter01",
-    "custom": "",
+    "custom": "Расхіствальнік нерваў",
     "en": "Nerveshatter",
     "ru": "Расшатыватель нервов",
     "bel": "Расхіствальнік нерваў",
@@ -89542,7 +89542,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07Nerveshatter05",
-    "custom": "",
+    "custom": "Расхіствальнік нерваў",
     "en": "Nerveshatter",
     "ru": "Расшатыватель нервов",
     "bel": "Расхіствальнік нерваў",
@@ -89551,7 +89551,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07Nerveshatter10",
-    "custom": "",
+    "custom": "Расхіствальнік нерваў",
     "en": "Nerveshatter",
     "ru": "Расшатыватель нервов",
     "bel": "Расхіствальнік нерваў",
@@ -89560,7 +89560,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07Nerveshatter15",
-    "custom": "",
+    "custom": "Расхіствальнік нерваў",
     "en": "Nerveshatter",
     "ru": "Расшатыватель нервов",
     "bel": "Расхіствальнік нерваў",
@@ -89569,7 +89569,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07Nerveshatter20",
-    "custom": "",
+    "custom": "Расхіствальнік нерваў",
     "en": "Nerveshatter",
     "ru": "Расшатыватель нервов",
     "bel": "Расхіствальнік нерваў",
@@ -89578,7 +89578,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07Nerveshatter25",
-    "custom": "",
+    "custom": "Расхіствальнік нерваў",
     "en": "Nerveshatter",
     "ru": "Расшатыватель нервов",
     "bel": "Расхіствальнік нерваў",
@@ -89587,7 +89587,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07Nerveshatter30",
-    "custom": "",
+    "custom": "Расхіствальнік нерваў",
     "en": "Nerveshatter",
     "ru": "Расшатыватель нервов",
     "bel": "Расхіствальнік нерваў",
@@ -89596,7 +89596,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07RendilsUnrefinedGreenmote",
-    "custom": "",
+    "custom": "Неачышчаны зялёны пылок",
     "en": "Unrefined Greenmote",
     "ru": "Неочищенная зеленая пыльца",
     "bel": "Неачышчаны зялёны пылок",
@@ -89605,7 +89605,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07Ritual",
-    "custom": "",
+    "custom": "Рытуал каранацыі",
     "en": "Ritual of Accession",
     "ru": "Ритуал коронации",
     "bel": "Рытуал каранацыі",
@@ -89614,7 +89614,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07RitualNoD",
-    "custom": "",
+    "custom": "Скажы мне, што трэба зрабіць.",
     "en": "Tell me what to do.",
     "ru": "Скажи мне, что нужно сделать.",
     "bel": "Скажы мне, што трэба зрабіць.",
@@ -89623,7 +89623,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07RitualNoM",
-    "custom": "",
+    "custom": "Скажы мне, што трэба зрабіць.",
     "en": "Tell me what to do.",
     "ru": "Скажи мне, что нужно сделать.",
     "bel": "Скажы мне, што трэба зрабіць.",
@@ -89632,7 +89632,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07RitualYesD",
-    "custom": "",
+    "custom": "Раскажы пра гісторыю Рытуалу.",
     "en": "Please, explain the Ritual's history.",
     "ru": "Расскажи об истории Ритуала.",
     "bel": "Раскажы пра гісторыю Рытуалу.",
@@ -89641,7 +89641,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07RitualYesM",
-    "custom": "",
+    "custom": "Раскажы пра гісторыю Рытуалу.",
     "en": "Describe the Ritual's history.",
     "ru": "Расскажи об истории Ритуала.",
     "bel": "Раскажы пра гісторыю Рытуалу.",
@@ -89650,7 +89650,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07RitualYesM02",
-    "custom": "",
+    "custom": "Гэта не выглядае смяротна небяспечным.",
     "en": "This hardly sounds lethal.",
     "ru": "Это не выглядит смертельно опасным.",
     "bel": "Гэта не выглядае смяротна небяспечным.",
@@ -89659,7 +89659,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07SacellumAltarBlessing",
-    "custom": "",
+    "custom": "Благаславенне Ардэн-Сула",
     "en": "Blessing of Arden-Sul",
     "ru": "Благословение Арден-Сула",
     "bel": "Благаславенне Ардэн-Сула",
@@ -89668,7 +89668,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07SeducerSpell",
-    "custom": "",
+    "custom": "Выклік цёмнага спакусніка",
     "en": "Summon Dark Seducer",
     "ru": "Вызов темного соблазнителя",
     "bel": "Выклік цёмнага спакусніка",
@@ -89677,7 +89677,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07SheoIntro1",
-    "custom": "",
+    "custom": "Зэканоміць ваш час?",
     "en": "Save you time?",
     "ru": "Сэкономить ваше время?",
     "bel": "Зэканоміць ваш час?",
@@ -89686,7 +89686,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07SheoIntro2",
-    "custom": "",
+    "custom": "Я змагу спыніць Шэры марш?",
     "en": "I can stop the Greymarch?",
     "ru": "Я смогу остановить Серый марш?",
     "bel": "Я змагу спыніць Шэры марш?",
@@ -89695,7 +89695,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07SheoIntro3",
-    "custom": "",
+    "custom": "Што цяпер?",
     "en": "What now?",
     "ru": "Что теперь?",
     "bel": "Што цяпер?",
@@ -89704,7 +89704,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07SpecialChest",
-    "custom": "",
+    "custom": "Цёмны куфар з дзівосамі",
     "en": "Dark Chest of Wonders",
     "ru": "Темный сундук с диковинами",
     "bel": "Цёмны куфар з дзівосамі",
@@ -89713,7 +89713,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07SylHeart",
-    "custom": "",
+    "custom": "Сэрца Сіл",
     "en": "Syl's Heart",
     "ru": "Сердце Сил",
     "bel": "Сэрца Сіл",
@@ -89722,7 +89722,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ThadonBlood",
-    "custom": "",
+    "custom": "Кроў Тэйдана",
     "en": "Thadon's Blood",
     "ru": "Кровь Тейдона",
     "bel": "Кроў Тэйдана",
@@ -89731,7 +89731,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ThadonMealPreDrug",
-    "custom": "",
+    "custom": "Ежа Тэйдана",
     "en": "Thadon's Meal",
     "ru": "Пища Тейдона",
     "bel": "Ежа Тэйдана",
@@ -89740,7 +89740,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ThadonMealPreDrugWine",
-    "custom": "",
+    "custom": "Віно Тэйдана",
     "en": "Thadon's Wine",
     "ru": "Вино Тейдона",
     "bel": "Віно Тэйдана",
@@ -89749,7 +89749,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ThadonMealSpiked",
-    "custom": "",
+    "custom": "Ежа Тэйдана",
     "en": "Thadon's Meal",
     "ru": "Пища Тейдона",
     "bel": "Ежа Тэйдана",
@@ -89758,7 +89758,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ThadonWineSpiked",
-    "custom": "",
+    "custom": "Віно Тэйдана",
     "en": "Thadon's Wine",
     "ru": "Вино Тейдона",
     "bel": "Віно Тэйдана",
@@ -89767,7 +89767,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ThadonsCrown01",
-    "custom": "",
+    "custom": "Карона эйфарыі",
     "en": "Diadem of Euphoria",
     "ru": "Корона эйфории",
     "bel": "Карона эйфарыі",
@@ -89776,7 +89776,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ThadonsCrown05",
-    "custom": "",
+    "custom": "Карона эйфарыі",
     "en": "Diadem of Euphoria",
     "ru": "Корона эйфории",
     "bel": "Карона эйфарыі",
@@ -89785,7 +89785,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ThadonsCrown10",
-    "custom": "",
+    "custom": "Карона эйфарыі",
     "en": "Diadem of Euphoria",
     "ru": "Корона эйфории",
     "bel": "Карона эйфарыі",
@@ -89794,7 +89794,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ThadonsCrown15",
-    "custom": "",
+    "custom": "Карона эйфарыі",
     "en": "Diadem of Euphoria",
     "ru": "Корона эйфории",
     "bel": "Карона эйфарыі",
@@ -89803,7 +89803,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ThadonsCrown20",
-    "custom": "",
+    "custom": "Карона эйфарыі",
     "en": "Diadem of Euphoria",
     "ru": "Корона эйфории",
     "bel": "Карона эйфарыі",
@@ -89812,7 +89812,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ThadonsCrown25",
-    "custom": "",
+    "custom": "Карона эйфарыі",
     "en": "Diadem of Euphoria",
     "ru": "Корона эйфории",
     "bel": "Карона эйфарыі",
@@ -89821,7 +89821,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07ThadonsCrown30",
-    "custom": "",
+    "custom": "Карона эйфарыі",
     "en": "Diadem of Euphoria",
     "ru": "Корона эйфории",
     "bel": "Карона эйфарыі",
@@ -89830,7 +89830,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07TheFringeTopic",
-    "custom": "",
+    "custom": "А Мяжа?",
     "en": "And the Fringe?",
     "ru": "А Предел?",
     "bel": "А Мяжа?",
@@ -89839,7 +89839,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07TrophyBlood",
-    "custom": "",
+    "custom": "Кроў Тэйдана",
     "en": "Thadon's Blood",
     "ru": "Кровь Тейдона",
     "bel": "Кроў Тэйдана",
@@ -89848,7 +89848,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07TrophyHeart",
-    "custom": "",
+    "custom": "Сэрца Сіл",
     "en": "Syl's Heart",
     "ru": "Сердце Сил",
     "bel": "Сэрца Сіл",
@@ -89857,7 +89857,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07Xirethard01DarkSeducerMissile01",
-    "custom": "",
+    "custom": "Цёмны спакуснік - лучнік",
     "en": "Dark Seducer Archer",
     "ru": "Темный соблазнитель - лучник",
     "bel": "Цёмны спакуснік - лучнік",
@@ -89866,7 +89866,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07Xirethard01DarkSeducerMissile02",
-    "custom": "",
+    "custom": "Цёмны спакуснік - лучнік",
     "en": "Dark Seducer Archer",
     "ru": "Темный соблазнитель - лучник",
     "bel": "Цёмны спакуснік - лучнік",
@@ -89875,7 +89875,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07Xirethard02DarkSeducerMissile01",
-    "custom": "",
+    "custom": "Цёмны спакуснік - лучнік",
     "en": "Dark Seducer Archer",
     "ru": "Темный соблазнитель - лучник",
     "bel": "Цёмны спакуснік - лучнік",
@@ -89884,7 +89884,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07Xirethard02DarkSeducerMissile02",
-    "custom": "",
+    "custom": "Цёмны спакуснік - лучнік",
     "en": "Dark Seducer Archer",
     "ru": "Темный соблазнитель - лучник",
     "bel": "Цёмны спакуснік - лучнік",
@@ -89893,7 +89893,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07XirethardDarkSeducerPatrol01",
-    "custom": "",
+    "custom": "Цёмны спакуснік - маг",
     "en": "Dark Seducer Mage",
     "ru": "Темный соблазнитель - маг",
     "bel": "Цёмны спакуснік - маг",
@@ -89902,7 +89902,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07XirethardDarkSeducerPatrol02",
-    "custom": "",
+    "custom": "Цёмны спакуснік - лучнік",
     "en": "Dark Seducer Archer",
     "ru": "Темный соблазнитель - лучник",
     "bel": "Цёмны спакуснік - лучнік",
@@ -89911,7 +89911,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE07XirethardDarkSeducerPatrol04",
-    "custom": "",
+    "custom": "Цёмны спакуснік - лучнік",
     "en": "Dark Seducer Archer",
     "ru": "Темный соблазнитель - лучник",
     "bel": "Цёмны спакуснік - лучнік",
@@ -89920,7 +89920,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE08",
-    "custom": "",
+    "custom": "Вяртанне Мяжы",
     "en": "Retaking The Fringe",
     "ru": "Возврат Предела",
     "bel": "Вяртанне Мяжы",
@@ -89929,7 +89929,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE08Ally01Tactic1",
-    "custom": "",
+    "custom": "Вазьмі лук і займі пазіцыю ззаду.",
     "en": "Ready your bow and head to the rear.",
     "ru": "Возьми лук и займи позицию сзади.",
     "bel": "Вазьмі лук і займі пазіцыю ззаду.",
@@ -89938,7 +89938,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE08Ally01Tactic2",
-    "custom": "",
+    "custom": "Вазьмі меч і заходзь з флангу.",
     "en": "Ready a sword and outflank them.",
     "ru": "Возьми меч и заходи с фланга.",
     "bel": "Вазьмі меч і заходзь з флангу.",
@@ -89947,7 +89947,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE08Ally01Tactic3",
-    "custom": "",
+    "custom": "Вазьмі сякеру і трымай абарону.",
     "en": "Ready an axe and hold your ground.",
     "ru": "Возьми топор и держи оборону.",
     "bel": "Вазьмі сякеру і трымай абарону.",
@@ -89956,7 +89956,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE08Ally02Tactic1",
-    "custom": "",
+    "custom": "Вазьмі лук і займі пазіцыю ззаду.",
     "en": "Ready your bow and head to the rear.",
     "ru": "Возьми лук и займи позицию сзади.",
     "bel": "Вазьмі лук і займі пазіцыю ззаду.",
@@ -89965,7 +89965,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE08Ally02Tactic2",
-    "custom": "",
+    "custom": "Вазьмі меч і заходзь з флангу.",
     "en": "Ready a sword and outflank them.",
     "ru": "Возьми меч и заходи с фланга.",
     "bel": "Вазьмі меч і заходзь з флангу.",
@@ -89974,7 +89974,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE08Ally02Tactic3",
-    "custom": "",
+    "custom": "Вазьмі сякеру і трымай абарону.",
     "en": "Ready an axe and hold your ground.",
     "ru": "Возьми топор и держи оборону.",
     "bel": "Вазьмі сякеру і трымай абарону.",
@@ -89983,7 +89983,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE08Ally03Tactic1",
-    "custom": "",
+    "custom": "Вазьмі лук і займі пазіцыю ззаду.",
     "en": "Ready your bow and head to the rear.",
     "ru": "Возьми лук и займи позицию сзади.",
     "bel": "Вазьмі лук і займі пазіцыю ззаду.",
@@ -89992,7 +89992,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE08Ally03Tactic2",
-    "custom": "",
+    "custom": "Вазьмі меч і заходзь з флангу.",
     "en": "Ready a sword and outflank them.",
     "ru": "Возьми меч и заходи с фланга.",
     "bel": "Вазьмі меч і заходзь з флангу.",
@@ -90001,7 +90001,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE08Ally03Tactic3",
-    "custom": "",
+    "custom": "Вазьмі сякеру і трымай абарону.",
     "en": "Ready an axe and hold your ground.",
     "ru": "Возьми топор и держи оборону.",
     "bel": "Вазьмі сякеру і трымай абарону.",
@@ -90010,7 +90010,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE08Ally04Tactic1",
-    "custom": "",
+    "custom": "Вазьмі лук і займі пазіцыю ззаду.",
     "en": "Ready your bow and head to the rear.",
     "ru": "Возьми лук и займи позицию сзади.",
     "bel": "Вазьмі лук і займі пазіцыю ззаду.",
@@ -90019,7 +90019,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE08Ally04Tactic2",
-    "custom": "",
+    "custom": "Вазьмі меч і заходзь з флангу.",
     "en": "Ready a sword and outflank them.",
     "ru": "Возьми меч и заходи с фланга.",
     "bel": "Вазьмі меч і заходзь з флангу.",
@@ -90028,7 +90028,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE08Ally04Tactic3",
-    "custom": "",
+    "custom": "Вазьмі сякеру і трымай абарону.",
     "en": "Ready an axe and hold your ground.",
     "ru": "Возьми топор и держи оборону.",
     "bel": "Вазьмі сякеру і трымай абарону.",
@@ -90037,7 +90037,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE08Ally05Tactic1",
-    "custom": "",
+    "custom": "Вазьмі лук і займі пазіцыю ззаду.",
     "en": "Ready your bow and head to the rear.",
     "ru": "Возьми лук и займи позицию сзади.",
     "bel": "Вазьмі лук і займі пазіцыю ззаду.",
@@ -90046,7 +90046,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE08Ally05Tactic2",
-    "custom": "",
+    "custom": "Вазьмі меч і заходзь з флангу.",
     "en": "Ready a sword and outflank them.",
     "ru": "Возьми меч и заходи с фланга.",
     "bel": "Вазьмі меч і заходзь з флангу.",
@@ -90055,7 +90055,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE08Ally05Tactic3",
-    "custom": "",
+    "custom": "Вазьмі сякеру і будзь напагатове.",
     "en": "Ready an axe and meet the charge.",
     "ru": "Возьми топор и будь наготове.",
     "bel": "Вазьмі сякеру і будзь напагатове.",
@@ -90064,7 +90064,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SE08Ally06Tactic1",
-    "custom": "",
+    "custom": "Вазьмі лук і займі пазіцыю ззаду.",
     "en": "Ready your bow and head to the rear.",
     "ru": "Возьми лук и займи позицию сзади.",
     "bel": "Вазьмі лук і займі пазіцыю ззаду.",
