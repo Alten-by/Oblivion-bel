@@ -567,6 +567,37 @@ Compass, Crimes, Dialogue, Diseases і інш.)
   падобныя атрыбуты ўнутры тэга -- лацінскія літары ў імі id, што
   супадае з `en` літаральна.
 
+## Дадаткова (Крок 4a, порцыя 5) - школы магіі (Mysticism, Restoration,
+Destruction), рухавыя навыкі (Swimming, Yielding, Melee/Ranged Attacks,
+Persuasion, Haggling, Lockpicking)
+
+- Знойдзены і выпраўлены ненакончаныя пераклады загалоўкаў эфектаў у
+  доўгіх апісаннях школ магіі -- у чарнавіку засталіся ангельскія
+  назвы замест перакладу: SchoolOfMysticism (DISPEL -> РАССЕЙВАННЕ,
+  SOUL TRAP -> ПАСТКА ДУШЫ, TELEKINESIS -> ТЭЛЕКІНЭЗ, SPELL ABSORPTION
+  -> ПАГЛЫНАННЕ ЗАКЛІНАННЯЎ, REFLECT -> АДЛЮСТРАВАННЕ, CLAIRVOYANCE ->
+  ЯСНАБАЧАННЕ), SchoolOfRestoration (ABSORB -> ПАГЛЫНАННЕ, CURE ->
+  ЛЯЧЭННЕ, RESTORE -> АДНАЎЛЕННЕ, FORTIFY -> УМАЦАВАННЕ, RESIST ->
+  СУПРАЦІЎЛЕННЕ; таксама "Vitals/Skills/Attributes" сярод тэксту ->
+  "Жыццёвыя паказчыкі/Навыкі/Атрыбуты"). Аналагічна прыбраны рэшткавыя
+  ангельскія словы ў дужках: "навыкаў (Skills)" -> "навыкаў" (Staves),
+  "здароўе (Health)" -> "здароўе" (Swimming).
+- Выпраўлены апечаткі рускай арфаграфіі: "Атрибуты" -> "Атрыбуты"
+  (SchoolOfDestruction, паўторна сустрэта пасля порцыі 4), "Велкинд" ->
+  "Велкінд" (MagicItems), лацінская "i" замест кірылічнай "і" ў слове
+  "стомiцеся" -> "стоміцеся" (Vitals).
+- `Help_EntryDescription_Diseases`: чарнавік `bel` змяшчаў незапоўненую
+  заўвагу перакладчыка `<какім чынам>` проста ўнутры сказа -- выдалена,
+  сказ склеены карэктна.
+- У шэрагу доўгіх Help_EntryContent-тэкстаў (Haggling, Lockpicking,
+  LockpickingController, Persuasion, RangedAttacks, SpellCasting,
+  MeleeAttacks, Yielding) menavita `bel` меў лішні/недахопны тэг
+  `<RT_BlueMed>`/`</>`  адносна `en`, а `bel_alt` (з `<cf>` замест
+  `<lf>`) дакладна супадаў па колькасці тэгаў -- у такіх выпадках
+  абраны `bel_alt` з выпраўленым `<cf>` -> `<lf>`.
+- "HUD" пакінута лацінкай як міжнародная абрэвіятура (як і ў іншых
+  лакалізацыях).
+
 ## Расы (Races)
 
 | en | bel | крыніца |
