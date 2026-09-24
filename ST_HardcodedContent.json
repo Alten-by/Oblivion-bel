@@ -6145,7 +6145,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_SkillLevel_sSkillLevelMaster",
-    "custom": "",
+    "custom": "Майстар",
     "en": "Master",
     "ru": "Мастер",
     "bel": "Майстар",
@@ -6153,7 +6153,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_SkillLevel_sSkillLevelNovice",
-    "custom": "",
+    "custom": "Пачатковец",
     "en": "Novice",
     "ru": "Новичок",
     "bel": "Пачатковец",
@@ -6161,7 +6161,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sDayFredas",
-    "custom": "",
+    "custom": "Фрэдас",
     "en": "Fredas",
     "ru": "Фредас",
     "bel": "Фрэдас",
@@ -6169,7 +6169,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sDayLoredas",
-    "custom": "",
+    "custom": "Лорэдас",
     "en": "Loredas",
     "ru": "Лоредас",
     "bel": "Лорэдас",
@@ -6177,7 +6177,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sDayMiddas",
-    "custom": "",
+    "custom": "Мідас",
     "en": "Middas",
     "ru": "Миддас",
     "bel": "Мідас",
@@ -6185,7 +6185,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sDayMorndas",
-    "custom": "",
+    "custom": "Морндас",
     "en": "Morndas",
     "ru": "Морндас",
     "bel": "Морндас",
@@ -6193,7 +6193,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sDaySundas",
-    "custom": "",
+    "custom": "Сандас",
     "en": "Sundas",
     "ru": "Сандас",
     "bel": "Сандас",
@@ -6201,7 +6201,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sDayTirdas",
-    "custom": "",
+    "custom": "Тырдас",
     "en": "Tirdas",
     "ru": "Тирдас",
     "bel": "Тырдас",
@@ -6209,7 +6209,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sDayTurdas",
-    "custom": "",
+    "custom": "Турдас",
     "en": "Turdas",
     "ru": "Турдас",
     "bel": "Турдас",
@@ -6217,7 +6217,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sHolidayEmperorsBirthday",
-    "custom": "",
+    "custom": "Дзень нараджэння Імператара",
     "en": "Emperor's Birthday",
     "ru": "День рождения Императора",
     "bel": "Дзень нараджэння Імператара",
@@ -6225,7 +6225,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sHolidayFirstPlanting",
-    "custom": "",
+    "custom": "Першая пасадка",
     "en": "First Planting",
     "ru": "Первая посадка",
     "bel": "Першая пасадка",
@@ -6233,7 +6233,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sHolidayHarvestsEnd",
-    "custom": "",
+    "custom": "Канец Жніва",
     "en": "Harvest's End",
     "ru": "Конец Жатвы",
     "bel": "Канец Жніва",
@@ -6241,7 +6241,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sHolidayJestersDay",
-    "custom": "",
+    "custom": "Дзень жартаўніка",
     "en": "Jester's Day",
     "ru": "День шутника",
     "bel": "Дзень жартаўніка",
@@ -6249,7 +6249,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sHolidayMerchantsFestival",
-    "custom": "",
+    "custom": "Фестываль Гандляроў",
     "en": "Merchant's Festival",
     "ru": "Фестиваль Торговцев",
     "bel": "Фестываль Гандляроў",
@@ -6257,7 +6257,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sHolidayMidYearCelebration",
-    "custom": "",
+    "custom": "Святкаванне сярэдзіны года",
     "en": "Mid Year Celebration",
     "ru": "Празднование середины года",
     "bel": "Святкаванне сярэдзіны года",
@@ -6265,7 +6265,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sHolidayNewLifeFestival",
-    "custom": "",
+    "custom": "Фестываль Новага Жыцця",
     "en": "New Life Festival",
     "ru": "Фестиваль Новой Жизни",
     "bel": "Фестываль Новага Жыцця",
@@ -6273,7 +6273,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sHolidayNorthWindsPrayer",
-    "custom": "",
+    "custom": "Малітва Паўночнага Ветра",
     "en": "North Wind's Prayer",
     "ru": "Молитва Северного Ветра",
     "bel": "Малітва Паўночнага Ветра",
@@ -6281,7 +6281,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sHolidayOldLifeFestival",
-    "custom": "",
+    "custom": "Фестываль Старога Жыцця",
     "en": "Old Life Festival",
     "ru": "Фестиваль Старой Жизни",
     "bel": "Фестываль Старога Жыцця",
@@ -6289,7 +6289,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sHolidaySecondPlanting",
-    "custom": "",
+    "custom": "Другая пасадка",
     "en": "Second Planting",
     "ru": "Вторая посадка",
     "bel": "Другая пасадка",
@@ -6297,7 +6297,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sHolidaySouthWindsPrayer",
-    "custom": "",
+    "custom": "Малітва Паўднёвага Ветра",
     "en": "South Wind's Prayer",
     "ru": "Молитва Южного Ветра",
     "bel": "Малітва Паўднёвага Ветра",
@@ -6305,7 +6305,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sHolidaySunsRest",
-    "custom": "",
+    "custom": "Прытулак Сонца",
     "en": "Sun's Rest",
     "ru": "Приют Солнца",
     "bel": "Прытулак Сонца",
@@ -6313,7 +6313,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sHolidayTalesAndTallows",
-    "custom": "",
+    "custom": "Казкі і Сальныя свечкі",
     "en": "Tales and Tallows",
     "ru": "Сказки и Сальные свечи",
     "bel": "Казкі і Сальныя свечкі",
@@ -6321,7 +6321,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sHolidayWarriorsFestival",
-    "custom": "",
+    "custom": "Фестываль Воіна",
     "en": "Warrior's Festival",
     "ru": "Фестиваль Воина",
     "bel": "Фестываль Воіна",
@@ -6329,7 +6329,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sHolidayWitchesFestival",
-    "custom": "",
+    "custom": "Фестываль ведзьмаў",
     "en": "Witches' Festival",
     "ru": "Фестиваль ведьм",
     "bel": "Фестываль ведзьмаў",
@@ -6337,7 +6337,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sMonthEveningStar",
-    "custom": "",
+    "custom": "Вячэрняя Зорка",
     "en": "Evening Star",
     "ru": "Вечерняя Звезда",
     "bel": "Вячэрняя Зорка",
@@ -6345,7 +6345,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sMonthFirstSeed",
-    "custom": "",
+    "custom": "Першае Насенне",
     "en": "First Seed",
     "ru": "Первое Семя",
     "bel": "Першае Насенне",
@@ -6353,7 +6353,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sMonthFrostFall",
-    "custom": "",
+    "custom": "Ледапад",
     "en": "Frost Fall",
     "ru": "Ледопад",
     "bel": "Ледапад",
@@ -6361,7 +6361,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sMonthHeartFire",
-    "custom": "",
+    "custom": "Сэрца Агню",
     "en": "Heart Fire",
     "ru": "Сердце Огня",
     "bel": "Сэрца Агню",
@@ -6369,7 +6369,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sMonthLastSeed",
-    "custom": "",
+    "custom": "Апошняе насенне",
     "en": "Last Seed",
     "ru": "Последнее семя",
     "bel": "Апошняе насенне",
@@ -6377,7 +6377,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sMonthMidYear",
-    "custom": "",
+    "custom": "Сярэдзіна года",
     "en": "Mid Year",
     "ru": "Середина года",
     "bel": "Сярэдзіна года",
@@ -6385,7 +6385,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sMonthMorningStar",
-    "custom": "",
+    "custom": "Ранішняя зорка",
     "en": "Morning Star",
     "ru": "Утренняя звезда",
     "bel": "Ранішняя зорка",
@@ -6393,7 +6393,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sMonthRainsHand",
-    "custom": "",
+    "custom": "Далонь Дажджу",
     "en": "Rains Hand",
     "ru": "Длань Дождя",
     "bel": "Далонь Дажджу",
@@ -6401,7 +6401,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sMonthSecondSeed",
-    "custom": "",
+    "custom": "Другое Пасеянае Зерне",
     "en": "Second Seed",
     "ru": "Второе Посеянное Зерно",
     "bel": "Другое Пасеянае Зерне",
@@ -6409,7 +6409,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sMonthSunsDawn",
-    "custom": "",
+    "custom": "Узыход Сонца",
     "en": "Sun's Dawn",
     "ru": "Восход Солнца",
     "bel": "Узыход Сонца",
@@ -6417,7 +6417,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sMonthSunsDusk",
-    "custom": "",
+    "custom": "Сонцастаянне",
     "en": "Sun's Dusk",
     "ru": "Солнцеворот",
     "bel": "Сонцастаянне",
@@ -6425,7 +6425,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sMonthSunsHeight",
-    "custom": "",
+    "custom": "Вышыня Сонца",
     "en": "Sun's Height",
     "ru": "Высота Солнца",
     "bel": "Вышыня Сонца",
@@ -6433,7 +6433,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sSeasonFall",
-    "custom": "",
+    "custom": "Падзенне",
     "en": "Fall",
     "ru": "Падение",
     "bel": "Падзенне",
@@ -6441,7 +6441,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sSeasonSpring",
-    "custom": "",
+    "custom": "Вясна",
     "en": "Spring",
     "ru": "Весна",
     "bel": "Вясна",
@@ -6449,7 +6449,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sSeasonSummer",
-    "custom": "",
+    "custom": "Лета",
     "en": "Summer",
     "ru": "Лето",
     "bel": "Лета",
@@ -6457,7 +6457,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESCalendar_sSeasonWinter",
-    "custom": "",
+    "custom": "Зіма",
     "en": "Winter",
     "ru": "Зима",
     "bel": "Зіма",
@@ -6465,7 +6465,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESFlora_sFloraFailureMessage",
-    "custom": "",
+    "custom": "Вы не знаходзіце нічога карыснага.",
     "en": "You find nothing of use.",
     "ru": "Ты не находишь ничего полезного.",
     "bel": "Ты не знаходзіш нічога карыснага.",
@@ -6473,7 +6473,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESFlora_sFloraSuccessMessage",
-    "custom": "",
+    "custom": "Вы паспяхова сабралі {0}.",
     "en": "You successfully harvest {0}.",
     "ru": "Вы успешно собрали {0}.",
     "bel": "Вы паспяхова сабралі {0}.",
@@ -6481,7 +6481,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESObjectARMO_sArmorWeightHeavy",
-    "custom": "",
+    "custom": "Цяжкі",
     "en": "Heavy",
     "ru": "Тяжёлый",
     "bel": "Цяжкі",
@@ -6489,7 +6489,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESObjectARMO_sArmorWeightLight",
-    "custom": "",
+    "custom": "Святло",
     "en": "Light",
     "ru": "Свет",
     "bel": "Святло",
@@ -6497,7 +6497,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESObjectCELL_sDefaultCellName",
-    "custom": "",
+    "custom": "Глуш",
     "en": "Wilderness",
     "ru": "Глушь",
     "bel": "Глуш",
@@ -6505,7 +6505,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESObjectDOOR_sRandomDoorTeleportFailureMessage",
-    "custom": "",
+    "custom": "Гэтыя дзверы вядуць у нікуды.",
     "en": "This door leads nowhere.",
     "ru": "Эта дверь ведёт в никуда.",
     "bel": "Гэтыя дзверы вядуць у нікуды.",
@@ -6513,7 +6513,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESSkill_sNoviceSkillLevelText",
-    "custom": "",
+    "custom": "У вас ёсць базавае разуменне гэтага навыку.",
     "en": "You have a basic understanding of this skill.",
     "ru": "У вас есть базовое понимание этого навыка.",
     "bel": "У вас ёсць базавае разуменне гэтага навыку.",
@@ -6521,7 +6521,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESSkill_sSpecNameCombat",
-    "custom": "",
+    "custom": "Бой",
     "en": "Combat",
     "ru": "Бой",
     "bel": "Бой",
@@ -6529,7 +6529,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESSkill_sSpecNameMagic",
-    "custom": "",
+    "custom": "Магія",
     "en": "Magic",
     "ru": "Магия",
     "bel": "Магія",
@@ -6537,7 +6537,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESSkill_sSpecNameStealth",
-    "custom": "",
+    "custom": "Утоенность",
     "en": "Stealth",
     "ru": "Скрытность",
     "bel": "Утоенность",
@@ -6545,7 +6545,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESSoulGem_sSoulLevelNameCommon",
-    "custom": "",
+    "custom": "Звычайны",
     "en": "Common",
     "ru": "Обычный",
     "bel": "Звычайны",
@@ -6553,7 +6553,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESSoulGem_sSoulLevelNameGrand",
-    "custom": "",
+    "custom": "Грандыёзны",
     "en": "Grand",
     "ru": "Грандиозный",
     "bel": "Грандыёзны",
@@ -6561,7 +6561,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESSoulGem_sSoulLevelNameGreater",
-    "custom": "",
+    "custom": "Большы",
     "en": "Greater",
     "ru": "Бо́льший",
     "bel": "Большы",
@@ -6569,7 +6569,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESSoulGem_sSoulLevelNameLesser",
-    "custom": "",
+    "custom": "Меншы",
     "en": "Lesser",
     "ru": "Меньший",
     "bel": "Меншы",
@@ -6577,7 +6577,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_TESSoulGem_sSoulLevelNamePetty",
-    "custom": "",
+    "custom": "Дробны",
     "en": "Petty",
     "ru": "Мелочный",
     "bel": "Дробны",
@@ -6585,7 +6585,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_VideoMenu_sAntiAliasing",
-    "custom": "",
+    "custom": "Згладжванне",
     "en": "Anti-aliasing",
     "ru": "Сглаживание",
     "bel": "Згладжванне",
@@ -6593,7 +6593,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_VideoMenu_sBloom",
-    "custom": "",
+    "custom": "Цвіценне",
     "en": "Bloom",
     "ru": "Цветение",
     "bel": "Цвіценне",
@@ -6601,7 +6601,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_VideoMenu_sHDR",
-    "custom": "",
+    "custom": "HDR",
     "en": "HDR",
     "ru": "HDR",
     "bel": "HDR",
@@ -6609,7 +6609,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_VideoMenu_sNormal",
-    "custom": "",
+    "custom": "Нармальна",
     "en": "Normal",
     "ru": "Нормально",
     "bel": "Нармальна",
@@ -6617,7 +6617,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_VideoMenu_sNotSupported",
-    "custom": "",
+    "custom": "не падтрымліваецца, калі",
     "en": "is not supported when",
     "ru": "не поддерживается, когда",
     "bel": "не падтрымліваецца, калі",
@@ -6625,7 +6625,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_VideoMenu_sTurnedOn",
-    "custom": "",
+    "custom": "Уключаны.",
     "en": "is turned on",
     "ru": "Включён.",
     "bel": "Уключаны.",
