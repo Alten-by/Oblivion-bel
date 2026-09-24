@@ -1765,7 +1765,7 @@
   },
   {
     "key": "ST_BookContent/LOC_BK_ClutterPotionRecipe02",
-    "custom": "",
+    "custom": "<FONT face=5>Каб стварыць настойку Лячэння хваробы, здрабніце кіпцюры Кланфіра і корань Мандрагоры ў дробны парашок, выкарыстоўваючы ступку. Ён застанецца некалькі крупчастым. Яго можна змешваць амаль з любой вадкасцю, але звычайная чыстая вада самая бяспечная.",
     "en": "<FONT face=5>For a potion of Cure Disease, grind Clannfear Claws and Mandrake root into a fine powder using a mortar and pestle. It will remain somewhat gritty. It can be mixed in with almost any liquid, but ordinary clear water is safest.",
     "ru": "<FONT face=5>Чтобы создать зелье, исцеляющее болезни, растолките в ступке когти кланфира и корень мандрагоры. Порошок получится немного зернистый. Его можно растворить практически в любой жидкости, но самый безопасный метод - растворить в обычной чистой воде.",
     "bel": "<FONT face=5>Каб стварыць настойку Лячэння хваробы, здрабніце кіпцюры Кланфіра і корань Мандрагоры ў дробны парашок, выкарыстоўваючы ступку. Ён застанецца некалькі крупчастым. Яго можна змешваць амаль з любой вадкасцю, але звычайная чыстая вада самая бяспечная.",
@@ -1774,7 +1774,7 @@
   },
   {
     "key": "ST_BookContent/LOC_BK_ClutterPotionRecipe03",
-    "custom": "",
+    "custom": "<FONT face=5>Каб стварыць настойку Лячэння атручвання, змяшайце Жэньшэнь і Кветку Чырвонца ў роўных частках. Павольна здрабніце іх разам у ступцы. Жэньшэнь можа пакінуць ліпкі асадак. Дадайце вады для лёгкага глытання.",
     "en": "<FONT face=5>To create a potion of Cure Poison, mix Ginseng and Redwort Flower in equal portions. Slowly grind them together with a mortar and pestle. The ginseng may leave a sticky residue. Add water for easy swallowing.",
     "ru": "<FONT face=5>Чтобы создать противоядие, смешайте равные части женьшеня и цветков редворта. Медленно растолките их в ступке. Возможно, женьшень превратится в клейкую массу. Добавьте воды, чтобы смесь можно было легко проглотить.",
     "bel": "<FONT face=5>Каб стварыць настойку Лячэння атручвання, змяшайце Жэньшэнь і Кветку Чырвонца ў роўных частках. Павольна здрабніце іх разам у ступцы. Жэньшэнь можа пакінуць ліпкі асадак. Дадайце вады для лёгкага глытання.",
@@ -1783,7 +1783,7 @@
   },
   {
     "key": "ST_BookContent/LOC_BK_ClutterPotionRecipe04",
-    "custom": "",
+    "custom": "<FONT face=5>Для малой настойкі Аднаўлення здароўя раскрошыце трохі шапкі Баравіка Кэрна на смажанае мяса дзіка. Дробна нарэжце і змяшайце разам у ступцы. Дадайце вады, каб стварыць раствор, які можна выпіць.",
     "en": "<FONT face=5>For a minor Restore Health potion, crumble some Cairn Bolete cap over roasted Boar Meat. Chop finely and mix together with a mortar and pestle. Add water to create a solution that can be drunk.",
     "ru": "<FONT face=5>Чтобы создать зелье малого восстановления здоровья, растолките шляпку каменного гриба с жареным мясом кабана. Порубите на мелкие кусочки и тщательно растолките, чтобы получился порошок. Добавьте воды, чтобы смесь можно было пить.",
     "bel": "<FONT face=5>Для малой настойкі Аднаўлення здароўя раскрошыце трохі шапкі Баравіка Кэрна на смажанае мяса дзіка. Дробна нарэжце і змяшайце разам у ступцы. Дадайце вады, каб стварыць раствор, які можна выпіць.",
@@ -1792,7 +1792,7 @@
   },
   {
     "key": "ST_BookContent/LOC_BK_ClutterPotionRecipe05",
-    "custom": "",
+    "custom": "<FONT face=5>Настойка аднаўлення сілы волі робіцца шляхам награвання Рога Мінатаўра і Лісця Першацвета. Здрабніце вынік разам у ступцы. Дадайце вады, каб стварыць вадкасць, прыдатную для піцця.",
     "en": "<FONT face=5>A potion of Restore Willpower is made by heating Minotaur Horn and Primrose Leaves. Grind the results together with a mortar and pestle. Add water to create a drinkable fluid.",
     "ru": "<FONT face=5>Чтобы создать зелье, восстанавливающее силу воли, нагрейте рог минотавра и листья примулы. Растолките полученную смесь в ступке. Добавьте воды, чтобы смесь можно было легко проглотить.",
     "bel": "<FONT face=5>Настойка аднаўлення сілы волі робіцца шляхам награвання Рога Мінатаўра і Лісця Першацвета. Здрабніце вынік разам у ступцы. Дадайце вады, каб стварыць вадкасць, прыдатную для піцця.\"",
@@ -1801,7 +1801,7 @@
   },
   {
     "key": "ST_BookContent/LOC_BK_ClutterShoppingList01",
-    "custom": "",
+    "custom": "<FONT face=5>Піва, шмат піва<lf> Новыя куфлі<lf> Дастаткова садавіны для 12 гасцей<lf> 8 боханаў хлеба<lf> Смажаны дзік<lf> ",
     "en": "<FONT face=5>Beer, lots of beer<lf> New mugs<lf> Enough fruit for 12 guests<lf> 8 loaves of bread<lf> Roast boar<lf> ",
     "ru": "<FONT face=5>Пиво, много пива <lf>Новые кружки<lf>Фрукты на 12 гостей<lf>8 буханок хлеба<lf>Жареный кабан<lf>",
     "bel": "<FONT face=5>Піва, шмат піва<cf> Новыя куфлі<cf> Дастаткова садавіны для 12 гасцей<cf> 8 боханаў хлеба<cf> Смажаны дзік<cf>",
@@ -1810,7 +1810,7 @@
   },
   {
     "key": "ST_BookContent/LOC_BK_ClutterShoppingList02",
-    "custom": "",
+    "custom": "<FONT face=5>Новая кашуля<lf> Боты<lf> Мятла<lf> Дзве відэльцы<lf> ",
     "en": "<FONT face=5>New shirt<lf> Boots<lf> Broom<lf> Two forks<lf> ",
     "ru": "<FONT face=5>Новая рубашка<lf>Башмаки<lf>Метла<lf>Две вилки<lf>",
     "bel": "<FONT face=5>Новая кашуля<cf> Боты<cf> Мятла<cf> Дзве відэльцы<cf>",
@@ -1819,7 +1819,7 @@
   },
   {
     "key": "ST_BookContent/LOC_BK_ClutterShoppingList03",
-    "custom": "",
+    "custom": "<FONT face=5>Яблыкі<lf> Цыбуля<lf> Смалец<lf> Сыр<lf> Малако<lf> ",
     "en": "<FONT face=5>Apples<lf> Onions<lf> Lard<lf> Cheese<lf> Milk<lf> ",
     "ru": "<FONT face=5>Яблоки<lf>Луковицы<lf>Сало<lf>Сыр<lf>Молоко<lf>",
     "bel": "<FONT face=5>Яблыкі<cf> Цыбуля<cf> Смалец<cf> Сыр<cf> Малако<cf>",
@@ -1828,7 +1828,7 @@
   },
   {
     "key": "ST_BookContent/LOC_BK_ClutterShoppingList04",
-    "custom": "",
+    "custom": "<FONT face=5>Папера, якасны пергамент<lf> Чарніла, чырвоныя і чорныя<lf> Клей для пераплёту<lf> Два новыя пёры<lf> ",
     "en": "<FONT face=5>Paper, quality vellum<lf> Ink, red and black<lf> Binding glue<lf> Two new quills<lf> ",
     "ru": "<FONT face=5>Тонкий пергамент<lf>Чернила, красные и черные<lf>Клей<lf>Два новых пера<lf>",
     "bel": "<FONT face=5>Папера, якасны пергамент<cf> Чарніла, чырвоныя і чорныя<cf> Клей для пераплёту<cf> Два новыя пёры<cf>",
@@ -1837,7 +1837,7 @@
   },
   {
     "key": "ST_BookContent/LOC_BK_ClutterShoppingList05",
-    "custom": "",
+    "custom": "<FONT face=5>Бок ялавічыны<lf> Цыбуля<lf> Кукуруза<lf> Мядовуха<lf> 3 боханы хлеба<lf> ",
     "en": "<FONT face=5>Side of beef<lf> Onions<lf> Corn<lf> Mead<lf> 3 loaves of bread<lf> ",
     "ru": "<FONT face=5>Говяжий бок<lf>Луковицы<lf>Кукуруза<lf>Мед<lf>3 буханки хлеба<lf>",
     "bel": "<FONT face=5>Бок ялавічыны<cf> Цыбуля<cf> Кукуруза<cf> Мядовуха<cf> 3 боханы хлеба<cf>",
@@ -1846,7 +1846,7 @@
   },
   {
     "key": "ST_BookContent/LOC_BK_ClutterShoppingList06",
-    "custom": "",
+    "custom": "<FONT face=5>Пшанічная мука<lf> Цукар<lf> Малако<lf> Эстрагон<lf> Перац<lf> Соль<lf> ",
     "en": "<FONT face=5>Wheat flour<lf> Sugar<lf> Milk<lf> Tarragon<lf> Pepper<lf> Salt<lf> ",
     "ru": "<FONT face=5>Пшеничная мука<lf>Сахар<lf>Молоко<lf>Эстрагон<lf>Перец<lf>Соль<lf>",
     "bel": "<FONT face=5>Пшанічная мука<cf> Цукар<cf> Малако<cf> Эстрагон<cf> Перац<cf> Соль<cf>",
@@ -1855,7 +1855,7 @@
   },
   {
     "key": "ST_BookContent/LOC_BK_ClutterShoppingList07",
-    "custom": "",
+    "custom": "<FONT face=5>Ямс<lf> Бульба<lf> Морква<lf> Садавіна (любыя)<lf> Палова бохана хлеба<lf> ",
     "en": "<FONT face=5>Yams<lf> Potatoes<lf> Carrots<lf> Fruit (any kind)<lf> Half loaf of bread<lf> ",
     "ru": "<FONT face=5>Ямс<lf>Картофель<lf>Морковь<lf>Фрукты (любые)<lf>Полбуханки хлеба<lf>",
     "bel": "<FONT face=5>Ямс<cf> Бульба<cf> Морква<cf> Садавіна (любыя)<cf> Палова бохана хлеба<cf>",
@@ -1864,7 +1864,7 @@
   },
   {
     "key": "ST_BookContent/LOC_BK_ClutterShoppingList08",
-    "custom": "",
+    "custom": "<FONT face=5>Крывавая трава<lf> Харада<lf> Шапка Губачніка<lf> Арэхі Жалезнага дрэва<lf> Шапка Смярдзючніка<lf> ",
     "en": "<FONT face=5>Bloodgrass<lf> Harrada<lf> Tinder Polypore Cap<lf> Ironwood nuts<lf> Stinkhorn cap<lf> ",
     "ru": "<FONT face=5>Кровавая трава<lf>Харрада<lf>Шляпка гриба-трутовика<lf>Орехи железного дерева<lf>Шляпка веселки<lf>",
     "bel": "<FONT face=5>Крывавая трава<cf> Харада<cf> Шапка Губачніка<cf> Арэхі Жалезнага дрэва<cf> Шапка Смярдзючніка<cf>",
@@ -1873,7 +1873,7 @@
   },
   {
     "key": "ST_BookContent/LOC_BK_ClutterSkingradShop01",
-    "custom": "",
+    "custom": "Коні! Коні! Коні! Вы ведаеце, што хочаце аднаго. Прыходзьце ў «Стайні Шчодрага Перавала» і выберыце сабе аднаго сёння. Усе коні прызначаны толькі для язды. «Стайні Шчодрага Перавала» ні ў якім разе не дапускаюць продажу коней на ежу.",
     "en": "Horses! Horses! Horses! You know you want one. Come to the Grateful Pass Stables and pick one out today. All horses are for riding only. Grateful Pass Stables does not condone selling horses for food under any circumstances.",
     "ru": "Лошади! Лошади! Лошади! Вы же знаете, что вам нужна лошадь. Сегодня же приходите в конюшню \"Приятное путешествие\" и выберите себе лошадь. Все лошади только для верховой езды. Конюшня \"Приятное путешествие\" не одобряет употребление лошадей в пищу ни при каких обстоятельствах.",
     "bel": "Коні! Коні! Коні! Вы ведаеце, што хочаце аднаго. Прыходзьце ў «Стайні Шчодрага Перавала» і выберыце сабе аднаго сёння. Усе коні прызначаны толькі для язды. «Стайні Шчодрага Перавала» ні ў якім разе не дапускаюць продажу коней на ежу.",
@@ -1882,7 +1882,7 @@
   },
   {
     "key": "ST_BookContent/LOC_BK_ClutterSkingradShop02",
-    "custom": "",
+    "custom": "Бясплатная ванна з кожным начлегам! Толькі ў гатэлі \"Дзве сястры\". Ежа і напоі за дадатковую плату.",
     "en": "A free bath with every night's stay! Only at the Two Sisters Lodge. Meals and drinks are extra.",
     "ru": "Только на постоялом дворе \"Две сестры\"! За каждую ночь пребывания - бесплатное купание в ванне! Еда и напитки - за отдельную плату.",
     "bel": "Бясплатная ванна з кожным начлегам! Толькі ў гатэлі \"Дзве сястры\". Ежа і напоі за дадатковую плату.",
@@ -1891,7 +1891,7 @@
   },
   {
     "key": "ST_BookContent/LOC_BK_ClutterSkingradShop03",
-    "custom": "",
+    "custom": "Вытанчаная кухня - рэдкі досвед, калі вы не ясьце ў гасцініцы «Заходні Вельд». Мы выкарыстоўваем толькі самыя свежыя труфелі, а наш ёгурт з казінага малака лічыцца лепшым у Сірадзііле.",
     "en": "Fine dining is a rare experience, unless you eat at the West Weald Inn. We use only the freshest truffles, and our goat's milk yogurt is considered the best in Cyrodiil.",
     "ru": "Хороший обед - редкость, если только вы не обедаете в таверне \"Западный вельд\". Мы используем только самые свежие трюфели, а наш йогурт из козьего молока считается лучшим во всем Сиродиле.",
     "bel": "Вытанчаная кухня - рэдкі досвед, калі вы не ясьце ў гасцініцы «Заходні Вельд». Мы выкарыстоўваем толькі самыя свежыя труфелі, а наш ёгурт з казінага малака лічыцца лепшым у Сірадзііле.",
@@ -1900,7 +1900,7 @@
   },
   {
     "key": "ST_BookContent/LOC_BK_ClutterSkingradShop04",
-    "custom": "",
+    "custom": "Калавіянскія гандляры. У нас ёсць тавары з-за Чорных Балот. Мы купляем і прадаем амаль усё. Наведвальнікам заўсёды рады.",
     "en": "Colovian Traders. We have goods from beyond Black Marsh. We buy and sell almost anything. Browsers are always welcome.",
     "ru": "Коловианские торговцы. У нас есть товары из-за пределов Чернотопья. Мы покупаем и продаем почти все. Мы рады всем посетителям.",
     "bel": "Калавіянскія гандляры. У нас ёсць тавары з-за Чорных Балот. Мы купляем і прадаем амаль усё. Наведвальнікам заўсёды рады.",
@@ -1909,7 +1909,7 @@
   },
   {
     "key": "ST_BookContent/LOC_BK_ClutterSkingradShop05",
-    "custom": "",
+    "custom": "Патрэбна свежая крывавая трава? Скончылася харада? Мы трымаем іх у запасе. Муж храпе па начах? У нас ёсць і зеллі цішыні. «Усё для алхіміка». Адзіная крама зелляў і рэдкіх траў.",
     "en": "Need fresh Bloodgrass? Out of Harrada? We keep them in stock. Husband snores at night? We have silence potions as well. All Things Alchemical. The only shop for potions and rare herbs.",
     "ru": "Вам нужна кровавая трава? Закончилась харрада? У нас они есть. Муж храпит по ночам? У наc есть и зелья безмолвия. \"Все для алхимика\". Лучший магазин, в котором продаются зелья и редкие травы.",
     "bel": "Патрэбна свежая крывавая трава? Скончылася харада? Мы трымаем іх у запасе. Муж храпе па начах? У нас ёсць і зеллі цішыні. «Усё для алхіміка». Адзіная крама зелляў і рэдкіх траў.",
@@ -1918,7 +1918,7 @@
   },
   {
     "key": "ST_BookContent/LOC_BK_ClutterSkingradShop06",
-    "custom": "",
+    "custom": "«Молат і абцугі» працуюць ужо 87 гадоў. Сем пакаленняў кавалёў перадалі свае сакрэты Агнетэ. Калі яна не можа гэта выкаваць, вам трэба пагаварыць з Апошнім Гномам.",
     "en": "Hammer and Tongs has been in business for 87 years. Seven generations of smiths have passed down their secrets to Agnete. If he can't forge it, you need to talk to the Last Dwarf.",
     "ru": "Магазин \"Молот и клещи\" работает уже 87 лет. Семь поколений кузнецов передали Агнетте свой опыт и секреты. Если она не сможет выковать то, что вам нужно, то вам придется идти к Последнему из Дварфов.",
     "bel": "«Молат і абцугі» працуюць ужо 87 гадоў. Сем пакаленняў кавалёў перадалі свае сакрэты Агнетэ. Калі яна не можа гэта выкаваць, вам трэба пагаварыць з Апошнім Гномам.",
@@ -1927,7 +1927,7 @@
   },
   {
     "key": "ST_BookContent/LOC_BK_CrumpledPaperReadableBlank01",
-    "custom": "",
+    "custom": "[пусты, змяты кавалак паперы]",
     "en": "[blank crumpled piece of paper]",
     "ru": "[чистый смятый клочок бумаги]",
     "bel": "[пусты, змяты кавалак паперы]",
@@ -1936,7 +1936,7 @@
   },
   {
     "key": "ST_BookContent/LOC_BK_CrumpledPaperReadableBlank02",
-    "custom": "",
+    "custom": "[пусты, змяты кавалак паперы]",
     "en": "[blank crumpled piece of paper]",
     "ru": "[чистый смятый клочок бумаги]",
     "bel": "[пусты, змяты кавалак паперы]",
