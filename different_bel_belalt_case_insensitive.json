@@ -57214,7 +57214,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LecternClutter01",
-    "custom": "",
+    "custom": "Пюпітр",
     "en": "Lectern",
     "ru": "Пюпитр",
     "bel": "Пюпітр",
@@ -57223,7 +57223,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Leek",
-    "custom": "",
+    "custom": "Цыбуля-порей",
     "en": "Leek",
     "ru": "Лук-порей",
     "bel": "Цыбуля-порей",
@@ -57232,7 +57232,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeekPlant",
-    "custom": "",
+    "custom": "Цыбуля-порей",
     "en": "Leek Plant",
     "ru": "Лук-порей",
     "bel": "Цыбуля-порей",
@@ -57241,7 +57241,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LegionBoots",
-    "custom": "",
+    "custom": "Боты Легіёна",
     "en": "Legion Boots",
     "ru": "Сапоги Легиона",
     "bel": "Боты Легіёна",
@@ -57250,7 +57250,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LegionGauntlets",
-    "custom": "",
+    "custom": "Пальчаткі Легіёна",
     "en": "Legion Gauntlets",
     "ru": "Перчатки Легиона",
     "bel": "Пальчаткі Легіёна",
@@ -57259,7 +57259,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LegionGreaves",
-    "custom": "",
+    "custom": "Нажныя латы Легіёна",
     "en": "Legion Greaves",
     "ru": "Поножи Легиона",
     "bel": "Нажныя латы Легіёна",
@@ -57268,7 +57268,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LellesKey",
-    "custom": "",
+    "custom": "Ключ ад \"Тавараў Лелеса\"",
     "en": "Lelles' Quality Mercandise Key",
     "ru": "Ключ от \"Товаров Леллеса\"",
     "bel": "Ключ ад \"Тавараў Лелеса\"",
@@ -57277,7 +57277,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LellesQuailityMerchandiseBasement",
-    "custom": "",
+    "custom": "\"Якасныя тавары Лелеса\" - Падвал",
     "en": "Lelles' Quality Merchandise Basement",
     "ru": "\"Качественные товары Леллеса\" - Подвал",
     "bel": "\"Якасныя тавары Лелеса\" - Падвал",
@@ -57286,7 +57286,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LerexusCallidus",
-    "custom": "",
+    "custom": "Лерэксус Калідус",
     "en": "Lerexus Callidus",
     "ru": "Лерексус Каллидус",
     "bel": "Лерэксус Калідус",
@@ -57295,7 +57295,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Lettuce",
-    "custom": "",
+    "custom": "Салата-латук",
     "en": "Lettuce",
     "ru": "Салат-латук",
     "bel": "Салата-латук",
@@ -57304,7 +57304,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LettucePlant",
-    "custom": "",
+    "custom": "Салата-латук",
     "en": "Lettuce Plant",
     "ru": "Салат-латук",
     "bel": "Салата-латук",
@@ -57313,7 +57313,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Leyawiin",
-    "custom": "",
+    "custom": "Лейавін",
     "en": "Leyawiin",
     "ru": "Лейавин",
     "bel": "Лейавін",
@@ -57322,7 +57322,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinAhdarjisHouse",
-    "custom": "",
+    "custom": "Дом Адарджы",
     "en": "Ahdarji's House",
     "ru": "Дом Адарджи",
     "bel": "Дом Адарджы",
@@ -57331,7 +57331,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinAhdarjisHouse2ndFloorEast",
-    "custom": "",
+    "custom": "Дом Адарджы - 2-гі паверх, усходняя частка",
     "en": "Ahdarji's House 2nd Floor East",
     "ru": "Дом Адарджи - 2-й этаж, восточная часть",
     "bel": "Дом Адарджы - 2-гі паверх, усходняя частка",
@@ -57340,7 +57340,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinAhdarjisHouse2ndFloorWest",
-    "custom": "",
+    "custom": "Дом Адарджы - 2-гі паверх, заходняя частка",
     "en": "Ahdarji's House 2nd Floor West",
     "ru": "Дом Адарджи - 2-й этаж, западная часть",
     "bel": "Дом Адарджы - 2-гі паверх, заходняя частка",
@@ -57358,7 +57358,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinAlvalUvanisHouse2ndFloor",
-    "custom": "",
+    "custom": "Дом Алвала Увані - 2-гі паверх",
     "en": "Alval Uvani's House 2nd Floor",
     "ru": "Дом Алвала Увани - 2-й этаж",
     "bel": "Дом Алвала Увані - 2-гі паверх",
@@ -57367,7 +57367,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinBeggars",
-    "custom": "",
+    "custom": "Лейавінскія жабракі",
     "en": "Leyawiin Beggars",
     "ru": "Лейавинские нищие",
     "bel": "Лейавінскія жабракі",
@@ -57376,7 +57376,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinBeggars_LEVEL0_M",
-    "custom": "",
+    "custom": "Жабрак",
     "en": "Beggar",
     "ru": "Нищий",
     "bel": "Жабруючы",
@@ -57385,7 +57385,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinBestGoodsAndGuarantees",
-    "custom": "",
+    "custom": "\"Тавары з гарантыяй\"",
     "en": "Best Goods and Guarantees",
     "ru": "\"Товары с гарантией\"",
     "bel": "\"Тавары з гарантыяй\"",
@@ -57394,7 +57394,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinBestGoodsAndGuaranteesFactions",
-    "custom": "",
+    "custom": "Найлепшыя тавары і гарантыі гандляроў",
     "en": "Best Goods and Guarantees Merchants",
     "ru": "Лучшие товары и гарантии торговцев",
     "bel": "Найлепшыя тавары і гарантыі гандляроў",
@@ -57403,7 +57403,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinBettoPlotiusHouse",
-    "custom": "",
+    "custom": "Дом Бета Плотыўса",
     "en": "Betto Plotius' House",
     "ru": "Дом Бетто Плотиуса",
     "bel": "Дом Бета Плотыўса",
@@ -57412,7 +57412,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinBlackwoodCompanyHall",
-    "custom": "",
+    "custom": "Зала кампаніі \"Чорны лес\"",
     "en": "Blackwood Company Hall",
     "ru": "Холл компании \"Черный лес\"",
     "bel": "Зала кампаніі \"Чорны лес\"",
@@ -57421,7 +57421,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinBlackwoodCompanyTrainingHall",
-    "custom": "",
+    "custom": "Трэніровачная зала кампаніі \"Чорны лес\"",
     "en": "Blackwood Company Training Hall",
     "ru": "Тренировочный зал компании \"Черный лес\"",
     "bel": "Трэніровачная зала кампаніі \"Чорны лес\"",
@@ -57430,7 +57430,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinBlackwoodRoom01",
-    "custom": "",
+    "custom": "Пакой Джытум-Зэ",
     "en": "Jeetum Ze's Room",
     "ru": "Комната Джитум-Зе",
     "bel": "Пакой Джытум-Зэ",
@@ -57439,7 +57439,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinBlackwoodTreeRoom",
-    "custom": "",
+    "custom": "Кампанія \"Чорны лес\" - Падвал",
     "en": "Blackwood Company Hall Basement",
     "ru": "Компания \"Черный лес\" - Подвал",
     "bel": "Кампанія \"Чорны лес\" - Падвал",
@@ -57457,7 +57457,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinCastle",
-    "custom": "",
+    "custom": "Лейавін - Замак",
     "en": "Leyawiin - Castle",
     "ru": "Лейавин - Замок",
     "bel": "Лейавін - Замак",
@@ -57466,7 +57466,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinCastleBasement",
-    "custom": "",
+    "custom": "Замак Лейавін - Падвал",
     "en": "Castle Leyawiin Basement",
     "ru": "Замок Лейавин - Подвал",
     "bel": "Замак Лейавін - Падвал",
@@ -57475,7 +57475,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinCastleCountyHall",
-    "custom": "",
+    "custom": "Замак Лейавін - Вялікая зала",
     "en": "Castle Leyawiin County Hall",
     "ru": "Замок Лейавин - Большой зал",
     "bel": "Замак Лейавін - Вялікая зала",
@@ -57493,7 +57493,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinCastleExteriorKey",
-    "custom": "",
+    "custom": "Ключ ад замка Лейавін",
     "en": "Castle Leyawiin Key",
     "ru": "Ключ от замка Лейавин",
     "bel": "Ключ ад замка Лейавін",
@@ -57502,7 +57502,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinCastleFaction",
-    "custom": "",
+    "custom": "Фракцыя замка Лейавін",
     "en": "Leyawiin Castle Faction",
     "ru": "Фракция замка Лейавин",
     "bel": "Фракцыя замка Лейавін",
@@ -57511,7 +57511,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinCastleInteriorKey",
-    "custom": "",
+    "custom": "Унутр. памяшканні замка Лейавін",
     "en": "Castle Leyawiin Interior Key",
     "ru": "Внутр. помещения замка Лейавин",
     "bel": "Унутр. памяшканні замка Лейавін",
@@ -57520,7 +57520,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinCastlePrivateQuarters",
-    "custom": "",
+    "custom": "Прыватныя пакоі графа",
     "en": "Lords' Manor Private Quarters",
     "ru": "Личные покои графа",
     "bel": "Прыватныя пакоі графа",
@@ -57529,7 +57529,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinCastleSecretRoomKey",
-    "custom": "",
+    "custom": "Ключ ад тайнага пакоя Лейавіна",
     "en": "Leyawiin Secret Room Key",
     "ru": "Ключ от тайной комнаты Лейавина",
     "bel": "Ключ ад тайнага пакоя Лейавіна",
@@ -57538,7 +57538,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinCastleServantsQuarters",
-    "custom": "",
+    "custom": "Замак Лейавін - Пакоі прыслугі",
     "en": "Castle Leyawiin Servants' Quarters",
     "ru": "Замок Лейавин - Комнаты прислуги",
     "bel": "Замак Лейавін - Пакоі прыслугі",
@@ -57547,7 +57547,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinCastleStewardsHealersPrivateQuarters",
-    "custom": "",
+    "custom": "Пакоі кіраўніцы і лекара",
     "en": "Steward's and Healer's Private Quarters",
     "ru": "Комнаты управляющей и лекаря",
     "bel": "Пакоі кіраўніцы і лекара",
@@ -57556,7 +57556,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinChapelKey",
-    "custom": "",
+    "custom": "Ключ ад капліцы Лейавіна",
     "en": "Leyawiin Chapel Key",
     "ru": "Ключ от часовни Лейавина",
     "bel": "Ключ ад капліцы Лейавіна",
@@ -57565,7 +57565,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinChapelOfZenithar",
-    "custom": "",
+    "custom": "Вялікая капліца Зэнітара",
     "en": "The Great Chapel of Zenithar",
     "ru": "Великая часовня Зенитара",
     "bel": "Вялікая капліца Зэнітара",
@@ -57574,7 +57574,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinChapelUndercroft",
-    "custom": "",
+    "custom": "Крыпта капліцы",
     "en": "Chapel Undercroft",
     "ru": "Подвал часовни",
     "bel": "Падвал капліцы",
@@ -57583,7 +57583,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinCityWatchBarracks",
-    "custom": "",
+    "custom": "Казармы гарадской варты",
     "en": "City Watch Barracks",
     "ru": "Казармы городской стражи",
     "bel": "Казармы гарадской варты",
@@ -57592,7 +57592,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinCoastGuardStation",
-    "custom": "",
+    "custom": "Прыбярэжны вартавы пост",
     "en": "Coast Guard Station",
     "ru": "Прибрежный сторожевой пост",
     "bel": "Прыбярэжны вартавы пост",
@@ -57601,7 +57601,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinDarJeesHouse",
-    "custom": "",
+    "custom": "Дом Дар-Джы",
     "en": "Dar Jee's House",
     "ru": "Дом Дар-Джи",
     "bel": "Дом Дар-Джы",
@@ -57610,7 +57610,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinDungeonKey",
-    "custom": "",
+    "custom": "Ключ ад цямніцы Лейавіна",
     "en": "Leyawiin Dungeon Key",
     "ru": "Ключ от темницы Лейавина",
     "bel": "Ключ ад цямніцы Лейавіна",
@@ -57619,7 +57619,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinFaction",
-    "custom": "",
+    "custom": "Фракцыя Лейавіна",
     "en": "Leyawiin Faction",
     "ru": "Фракция Лейавина",
     "bel": "Фракцыя Лейавіна",
@@ -57628,7 +57628,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinFightersGuild",
-    "custom": "",
+    "custom": "Гільдыя байцоў Лейавіна",
     "en": "Fighter's Guild",
     "ru": "Гильдия бойцов Лейавина",
     "bel": "Гільдыя байцоў Лейавіна",
@@ -57637,7 +57637,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinFightersGuildBasement",
-    "custom": "",
+    "custom": "Гільдыя байцоў - Падвал",
     "en": "Fighter's Guild Basement",
     "ru": "Гильдия бойцов - Подвал",
     "bel": "Гільдыя байцоў - Падвал",
@@ -57646,7 +57646,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinFightersGuildRoom01",
-    "custom": "",
+    "custom": "Гільдыя байцоў - 2-гі паверх (захад)",
     "en": "Fighter's Guild 2nd Floor West",
     "ru": "Гильдия бойцов - 2-й этаж (запад)",
     "bel": "Гільдыя байцоў - 2-гі паверх (захад)",
@@ -57655,7 +57655,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinFightersGuildRoom02",
-    "custom": "",
+    "custom": "Гільдыя байцоў - 3-ці паверх (захад)",
     "en": "Fighter's Guild 3rd Floor West",
     "ru": "Гильдия бойцов - 3-й этаж (запад)",
     "bel": "Гільдыя байцоў - 3-ці паверх (захад)",
@@ -57664,7 +57664,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinFightersGuildTraining",
-    "custom": "",
+    "custom": "Гільдыя байцоў - 2-гі паверх (усход)",
     "en": "Fighter's Guild 2nd Floor East",
     "ru": "Гильдия бойцов - 2-й этаж (восток)",
     "bel": "Гільдыя байцоў - 2-гі паверх (усход)",
@@ -57673,7 +57673,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinFiveClawsLodge",
-    "custom": "",
+    "custom": "Заезны двор \"Пяць кіпцюроў\"",
     "en": "Five Claws Lodge",
     "ru": "Постоялый двор \"Пять когтей\"",
     "bel": "Заезны двор \"Пяць кіпцюроў\"",
@@ -57682,7 +57682,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinFiveRidersStable",
-    "custom": "",
+    "custom": "Стайня \"Пяць вершнікаў\"",
     "en": "Five Riders Stable",
     "ru": "Конюшня \"Пять всадников\"",
     "bel": "Стайня \"Пяць вершнікаў\"",
@@ -57691,7 +57691,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinGateDoor",
-    "custom": "",
+    "custom": "Брама Лейавіна",
     "en": "Leyawiin Gate Door",
     "ru": "Ворота Лейавина",
     "bel": "Брама Лейавіна",
@@ -57700,7 +57700,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinGuardCastlePostDay01",
-    "custom": "",
+    "custom": "Вартаўнік Лейавіна",
     "en": "Leyawiin Guard",
     "ru": "Стражник Лейавина",
     "bel": "Вартаўнік Лейавіна",
@@ -57709,7 +57709,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinGuardCastlePostDay02",
-    "custom": "",
+    "custom": "Вартаўнік Лейавіна",
     "en": "Leyawiin Guard",
     "ru": "Стражник Лейавина",
     "bel": "Вартаўнік Лейавіна",
@@ -57718,7 +57718,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinGuardCastlePostNight01",
-    "custom": "",
+    "custom": "Вартаўнік Лейавіна",
     "en": "Leyawiin Guard",
     "ru": "Стражник Лейавина",
     "bel": "Вартаўнік Лейавіна",
@@ -57727,7 +57727,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinGuardCastlePostNight02",
-    "custom": "",
+    "custom": "Вартаўнік Лейавіна",
     "en": "Leyawiin Guard",
     "ru": "Стражник Лейавина",
     "bel": "Вартаўнік Лейавіна",
@@ -57736,7 +57736,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinGuardCastleSanguine",
-    "custom": "",
+    "custom": "Вартаўнік Лейавіна",
     "en": "Leyawiin Guard",
     "ru": "Стражник Лейавина",
     "bel": "Вартаўнік Лейавіна",
@@ -57862,7 +57862,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinGuardJailorDay",
-    "custom": "",
+    "custom": "Турэмшчык Лейавіна",
     "en": "Leyawiin Jailor",
     "ru": "Тюремщик Лейавина",
     "bel": "Турэмшчык Лейавіна",
@@ -57871,7 +57871,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinGuardJailorNight",
-    "custom": "",
+    "custom": "Турэмшчык Лейавіна",
     "en": "Leyawiin Jailor",
     "ru": "Тюремщик Лейавина",
     "bel": "Турэмшчык Лейавіна",
@@ -57880,7 +57880,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinGuardKey",
-    "custom": "",
+    "custom": "Ключ гарадск. варты Лейавіна",
     "en": "Leyawiin City Watch Key",
     "ru": "Ключ город. стражи Лейавина",
     "bel": "Ключ гарадск. варты Лейавіна",
@@ -57889,7 +57889,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinGuards",
-    "custom": "",
+    "custom": "Варта Лейавіна",
     "en": "Leyawiin Guard faction",
     "ru": "Стража Лейавина",
     "bel": "Варта Лейавіна",
@@ -57898,7 +57898,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinJBarisHouse",
-    "custom": "",
+    "custom": "Дом Дж'бары",
     "en": "J'Bari's House",
     "ru": "Дом Дж'бари",
     "bel": "Дом Дж'бары",
@@ -57907,7 +57907,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinJBarisHouse2ndFloorEast",
-    "custom": "",
+    "custom": "Дом Дж'бары - 2-гі паверх (усход)",
     "en": "J'Bari's House 2nd Floor East",
     "ru": "Дом Дж'бари - 2-й этаж (восток)",
     "bel": "Дом Дж'бары - 2-гі паверх (усход)",
@@ -57916,7 +57916,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinJBarisHouse2ndFloorWest",
-    "custom": "",
+    "custom": "Дом Дж'бары - 2-гі паверх (захад)",
     "en": "J'Bari's House 2nd Floor West",
     "ru": "Дом Дж'бари - 2-й этаж (запад)",
     "bel": "Дом Дж'бары - 2-гі паверх (захад)",
@@ -57925,7 +57925,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinMagesGuild",
-    "custom": "",
+    "custom": "Гільдыя магаў Лейавіна",
     "en": "Leyawiin Mages Guild",
     "ru": "Гильдия магов Лейавина",
     "bel": "Гільдыя магаў Лейавіна",
@@ -57934,7 +57934,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinMagesGuildBasement",
-    "custom": "",
+    "custom": "Падвал Гільдыі магаў",
     "en": "Mages Guild Basement",
     "ru": "Гильдия магов - Подвал",
     "bel": "Гільдыя магаў - Падвал",
@@ -57943,7 +57943,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinMagesGuildLaboratory",
-    "custom": "",
+    "custom": "Гільдыя магаў - 2-гі паверх (захад)",
     "en": "Mages Guild 2nd Floor West",
     "ru": "Гильдия магов - 2-й этаж (запад)",
     "bel": "Гільдыя магаў - 2-гі паверх (захад)",
@@ -57952,7 +57952,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinMagesGuildLibrary",
-    "custom": "",
+    "custom": "Гільдыя магаў - 2-гі паверх (усход)",
     "en": "Mages Guild 2nd Floor East",
     "ru": "Гильдия магов - 2-й этаж (восток)",
     "bel": "Гільдыя магаў - 2-гі паверх (усход)",
@@ -57961,7 +57961,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinMagesGuildPrivateQuarter",
-    "custom": "",
+    "custom": "Гільдыя магаў - 3-ці паверх (усход)",
     "en": "Mages Guild 3rd Floor East",
     "ru": "Гильдия магов - 3-й этаж (восток)",
     "bel": "Гільдыя магаў - 3-ці паверх (усход)",
@@ -57970,7 +57970,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinMaheisHouse",
-    "custom": "",
+    "custom": "Дом Махая",
     "en": "Mahei's House",
     "ru": "Дом Махая",
     "bel": "Дом Махая",
@@ -57979,7 +57979,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinMaheisHouse2ndFloorEast",
-    "custom": "",
+    "custom": "Дом Махая - 2-гі паверх (усход)",
     "en": "Mahei's House 2nd Floor East",
     "ru": "Дом Махая - 2-й этаж (восток)",
     "bel": "Дом Махая - 2-гі паверх (усход)",
@@ -57988,7 +57988,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinMaheisHouse2ndFloorWest",
-    "custom": "",
+    "custom": "Дом Махая - 2-гі паверх (захад)",
     "en": "Mahei's House 2nd Floor West",
     "ru": "Дом Махая - 2-й этаж (запад)",
     "bel": "Дом Махая - 2-гі паверх (захад)",
@@ -57997,7 +57997,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinMargartesHouse",
-    "custom": "",
+    "custom": "Дом Маргарты",
     "en": "Margarte's House",
     "ru": "Дом Маргарты",
     "bel": "Дом Маргарты",
@@ -58006,7 +58006,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinNQDQuestionResponses",
-    "custom": "",
+    "custom": "ВарыянтыАдказаўНаПытаннеLeyawiinNQD",
     "en": "LeyawiinNQDQuestionResponses",
     "ru": "ВариантыОтветовНаВопросLeyawiinNQD",
     "bel": "ВарыянтыАдказаўНаПытаннеLeyawiinNQD",
@@ -58015,7 +58015,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinNQDResponses",
-    "custom": "",
+    "custom": "Адказ LeyawiinNQD",
     "en": "LeyawiinNQDResponse",
     "ru": "Ответ LeyawiinNQD",
     "bel": "Адказ LeyawiinNQD",
@@ -58024,7 +58024,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinNobleFaction",
-    "custom": "",
+    "custom": "Людзі, якія жывуць у прыватных пакоях",
     "en": "People who live in the Private Quarters",
     "ru": "Люди, живущие в Private Quarters.",
     "bel": "Людзі, якія жывуць у Private Quarters.",
@@ -58033,7 +58033,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinNorthEastGate",
-    "custom": "",
+    "custom": "Лейавін – Паўночна-ўсходняя брама",
     "en": "Leyawiin - North East Gate",
     "ru": "Лейавин – Северо-восточные врата",
     "bel": "Лейавін – Паўночна-ўсходняя брама",
@@ -58042,7 +58042,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinRosentiaGallenusHouse",
-    "custom": "",
+    "custom": "Дом Розентыі Галленус",
     "en": "Rosentia Gallenus's House",
     "ru": "Дом Розентии Галленус",
     "bel": "Дом Розентыі Галленус",
@@ -58051,7 +58051,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinRosentiaGallenusHouse2ndFloor",
-    "custom": "",
+    "custom": "Дом Розентыі Галленус - 2-гі паверх",
     "en": "Rosentia Gallenus's House 2nd Floor",
     "ru": "Дом Розентии Галленус - 2-й этаж",
     "bel": "Дом Розентыі Галленус - 2-гі паверх",
@@ -58060,7 +58060,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinSouthernBooks",
-    "custom": "",
+    "custom": "\"Паўднёвыя кнігі\"",
     "en": "Southern Books",
     "ru": "\"Южные книги\"",
     "bel": "\"Паўднёвыя кнігі\"",
@@ -58069,7 +58069,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinSouthernBooks2ndFloor",
-    "custom": "",
+    "custom": "\"Паўднёвыя кнігі\" - 2-гі паверх",
     "en": "Southern Books 2nd Floor",
     "ru": "\"Южные книги\" - 2-й этаж",
     "bel": "\"Паўднёвыя кнігі\" - 2-гі паверх",
@@ -58078,7 +58078,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinStable",
-    "custom": "",
+    "custom": "Лейавін - Стайні",
     "en": "Leyawiin - Stables",
     "ru": "Лейавин - Конюшни",
     "bel": "Лейавін - Стайні",
@@ -58087,7 +58087,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTheDividingLine",
-    "custom": "",
+    "custom": "\"Лінія Падзелу\"",
     "en": "The Dividing Line",
     "ru": "\"Линия Раздела\"",
     "bel": "\"Лінія Падзелу\"",
@@ -58096,7 +58096,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTheDividingLineFaction",
-    "custom": "",
+    "custom": "Уладальнік і супрацоўнік «Лініі падзелу»",
     "en": "Owner and Employee of The Dividing Line",
     "ru": "Владелец и сотрудник The Dividing Line.",
     "bel": "Уладальнік і супрацоўнік The Dividing Line.",
@@ -58105,7 +58105,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinThreeSistersInn",
-    "custom": "",
+    "custom": "Таверна \"Тры сястры\"",
     "en": "Three Sisters' Inn",
     "ru": "Таверна \"Три сестры\"",
     "bel": "Таверна \"Тры сястры\"",
@@ -58114,7 +58114,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinThreeSistersInnBasement",
-    "custom": "",
+    "custom": "Таверна \"Тры сястры\" - Падвал",
     "en": "Three Sisters' Inn Basement",
     "ru": "Таверна \"Три сестры\" - Подвал",
     "bel": "Таверна \"Тры сястры\" - Падвал",
@@ -58123,7 +58123,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinThreeSistersInnRoom01",
-    "custom": "",
+    "custom": "Таверна \"Тры сястры\" - 2-гі паверх (захад)",
     "en": "Three Sister's Inn 2nd Floor West",
     "ru": "Таверна \"Три сестры\" - 2-й этаж (запад)",
     "bel": "Таверна \"Тры сястры\" - 2-гі паверх (захад)",
@@ -58132,7 +58132,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinThreeSistersInnRoom02",
-    "custom": "",
+    "custom": "Таверна \"Тры сястры\" - 2-гі паверх (усход)",
     "en": "Three Sister's Inn 2nd Floor East",
     "ru": "Таверна \"Три сестры\" - 2-й этаж (восток)",
     "bel": "Таверна \"Тры сястры\" - 2-гі паверх (усход)",
@@ -58141,7 +58141,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinThreesistersInnRoom03",
-    "custom": "",
+    "custom": "Таверна \"Тры сястры\" - 3-ці паверх (захад)",
     "en": "Three Sister's Inn 3rd Floor West",
     "ru": "Таверна \"Три сестры\" - 3-й этаж (запад)",
     "bel": "Таверна \"Тры сястры\" - 3-ці паверх (захад)",
@@ -58150,7 +58150,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinThreesistersInnRoom04",
-    "custom": "",
+    "custom": "Таверна \"Тры сястры\" - 3-ці паверх (усход)",
     "en": "Three Sister's Inn 3rd Floor East",
     "ru": "Таверна \"Три сестры\" - 3-й этаж (восток)",
     "bel": "Таверна \"Тры сястры\" - 3-ці паверх (усход)",
@@ -58159,7 +58159,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTopic",
-    "custom": "",
+    "custom": "Лейавін",
     "en": "Leyawiin",
     "ru": "Лейавин",
     "bel": "Лейавін",
@@ -58168,7 +58168,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTopic01",
-    "custom": "",
+    "custom": "А што тут такога?",
     "en": "What's wrong with that?",
     "ru": "А что тут такого?",
     "bel": "А што тут такога?",
@@ -58177,7 +58177,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTopicDarJee02",
-    "custom": "",
+    "custom": "Давай.",
     "en": "Go ahead.",
     "ru": "Давай.",
     "bel": "Давай.",
@@ -58186,7 +58186,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTopicDarJee03",
-    "custom": "",
+    "custom": "Гэты жарт усе чулі сто разоў.",
     "en": "I heard that one.",
     "ru": "Эту шутку все слышали сто раз.",
     "bel": "Гэты жарт усе чулі сто разоў.",
@@ -58195,7 +58195,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTopicDarJee05",
-    "custom": "",
+    "custom": "Гэта я ўжо чуў.",
     "en": "I heard that one.",
     "ru": "Это я уже слышал.",
     "bel": "Гэта я ўжо чуў.",
@@ -58204,7 +58204,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTopicDarJee06",
-    "custom": "",
+    "custom": "Не думаю.",
     "en": "I don't think so.",
     "ru": "Не думаю.",
     "bel": "Не думаю.",
@@ -58213,7 +58213,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTopicDarJee07",
-    "custom": "",
+    "custom": "Я не ўпэўнены. Скажы мне адзін прыклад.",
     "en": "I'm not sure. Tell me one.",
     "ru": "Я не уверен. Скажи мне один пример.",
     "bel": "Я не ўпэўнены. Скажы мне адзін прыклад.",
@@ -58222,7 +58222,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTopicDarJee08",
-    "custom": "",
+    "custom": "Гэта я ўжо чуў.",
     "en": "I heard that one.",
     "ru": "Это я уже слышал.",
     "bel": "Гэта я ўжо чуў.",
@@ -58231,7 +58231,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTopicDarJee12",
-    "custom": "",
+    "custom": "Гэта я ўжо чуў.",
     "en": "I heard that one.",
     "ru": "Это я уже слышал.",
     "bel": "Гэта я ўжо чуў.",
@@ -58240,7 +58240,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTopicDarJee15",
-    "custom": "",
+    "custom": "Ну... Мабыць, так.",
     "en": "Well... I suppose so.",
     "ru": "Ну... Пожалуй, да.",
     "bel": "Ну... Мабыць, так.",
@@ -58249,7 +58249,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTopicDarJee16",
-    "custom": "",
+    "custom": "Чую.",
     "en": "Heard it.",
     "ru": "Слышал.",
     "bel": "Чую.",
@@ -58258,7 +58258,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTopicDarJee16a",
-    "custom": "",
+    "custom": "Чую.",
     "en": "Heard it.",
     "ru": "Слышал.",
     "bel": "Чую.",
@@ -58267,7 +58267,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTopicDarJee17",
-    "custom": "",
+    "custom": "Раскажы.",
     "en": "Tell me.",
     "ru": "Расскажи.",
     "bel": "Раскажы.",
@@ -58276,7 +58276,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTopicDarJee18",
-    "custom": "",
+    "custom": "Толькі не гэта, Багі.",
     "en": "Please, Gods, no.",
     "ru": "Только не это, Боги.",
     "bel": "Толькі не гэта, Багі.",
@@ -58285,7 +58285,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTopicDarJee20",
-    "custom": "",
+    "custom": "Чую.",
     "en": "Heard it.",
     "ru": "Слышал.",
     "bel": "Чую.",
@@ -58294,7 +58294,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTopicDarJee21",
-    "custom": "",
+    "custom": "Ну... Мяркую, што так.",
     "en": "Well... I suppose so.",
     "ru": "Ну... Полагаю, что да.",
     "bel": "Ну... Мяркую, што так.",
@@ -58303,7 +58303,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTopicDecentius01",
-    "custom": "",
+    "custom": "Ты расказваў.",
     "en": "You did, actually.",
     "ru": "Ты рассказывал.",
     "bel": "Ты расказваў.",
@@ -58312,7 +58312,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTopicDecentius02",
-    "custom": "",
+    "custom": "Не, і мне гэта не цікава.",
     "en": "No, and I'm not interested.",
     "ru": "Нет, и мне это не интересно.",
     "bel": "Не, і мне гэта не цікава.",
@@ -58321,7 +58321,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTopicDecentius03",
-    "custom": "",
+    "custom": "Не. Раскажы мне.",
     "en": "No. Tell me all about it.",
     "ru": "Нет. Расскажи мне.",
     "bel": "Не. Раскажы мне.",
@@ -58330,7 +58330,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTopicShuravi04",
-    "custom": "",
+    "custom": "Якія-небудзь праблемы ў горадзе?",
     "en": "Any problems in town?",
     "ru": "Какие-нибудь проблемы в городе?",
     "bel": "Якія-небудзь праблемы ў горадзе?",
@@ -58339,7 +58339,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTopicTunZeeus02",
-    "custom": "",
+    "custom": "Працягвай...",
     "en": "Go on...",
     "ru": "Давай же...",
     "bel": "Давай жа...",
@@ -58348,7 +58348,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTopicTunZeeus03",
-    "custom": "",
+    "custom": "Ды колькі можна!",
     "en": "Enough, already!",
     "ru": "Да сколько можно!",
     "bel": "Ды колькі можна!",
@@ -58357,7 +58357,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTopicTunZeeus04",
-    "custom": "",
+    "custom": "Працягвай...",
     "en": "Go on...",
     "ru": "Ну же...",
     "bel": "Ну ж...",
@@ -58366,7 +58366,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTopicTunZeeus05",
-    "custom": "",
+    "custom": "Якая цудоўная гісторыя…",
     "en": "What a charming little story...",
     "ru": "Какая прелестная история…",
     "bel": "Якая цудоўная гісторыя…",
@@ -58375,7 +58375,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTopicTunZeeus06",
-    "custom": "",
+    "custom": "Гэтаму анекдоту трэба крыху дапрацоўкі.",
     "en": "That ancedote needs a little work.",
     "ru": "Этому анекдоту нужно немного доработки.",
     "bel": "Гэтаму анекдоту трэба крыху дапрацоўкі.",
@@ -58384,7 +58384,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinTopicWitseidutsei04",
-    "custom": "",
+    "custom": "Ведаеш якія-небудзь святыні Дэйдра?",
     "en": "Know any Daedric shrines?",
     "ru": "Знаешь какие-нибудь святилища Дэйдра?",
     "bel": "Ведаеш якія-небудзь святыні Дэйдра?",
@@ -58393,7 +58393,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinWestGate",
-    "custom": "",
+    "custom": "Лейавін – Заходняя Брама",
     "en": "Leyawiin - West Gate",
     "ru": "Лейавин – Западные Врата",
     "bel": "Лейавін – Заходняя Брама",
@@ -58402,7 +58402,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LeyawiinWorld",
-    "custom": "",
+    "custom": "Лейавін",
     "en": "Leyawiin",
     "ru": "Лейавин",
     "bel": "Лейавін",
@@ -58411,7 +58411,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LilyoftheValley",
-    "custom": "",
+    "custom": "Канвалія",
     "en": "Lily of the Valley",
     "ru": "Ландыш",
     "bel": "Канвалія",
@@ -58420,7 +58420,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LiminalBridgesBaurus",
-    "custom": "",
+    "custom": "Памежныя масты",
     "en": "Liminal Bridges",
     "ru": "Пограничные мосты",
     "bel": "Памежныя масты",
@@ -58429,7 +58429,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LiminalBridgesGive",
-    "custom": "",
+    "custom": "Дай кнігу.",
     "en": "Give book.",
     "ru": "Дай книгу.",
     "bel": "Дай кнігу.",
@@ -58438,7 +58438,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LiminalBridgesHold",
-    "custom": "",
+    "custom": "Адмовіцца.",
     "en": "Refuse.",
     "ru": "Отказать.",
     "bel": "Адмовіць.",
@@ -58447,7 +58447,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LiminalBridgesMachNa",
-    "custom": "",
+    "custom": "Памежныя Масты",
     "en": "Liminal Bridges",
     "ru": "Предельные Мосты",
     "bel": "Памежныя Масты",
@@ -58456,7 +58456,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Lindai",
-    "custom": "",
+    "custom": "Ліндаі",
     "en": "Lindai",
     "ru": "Линдаи",
     "bel": "Ліндаі",
@@ -58465,7 +58465,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Lindai01",
-    "custom": "",
+    "custom": "Ліндаі",
     "en": "Lindai",
     "ru": "Линдаи",
     "bel": "Ліндаі",
@@ -58474,7 +58474,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Lindai02",
-    "custom": "",
+    "custom": "Ліндаі - Пахаванні",
     "en": "Lindai Inner Tombs",
     "ru": "Линдаи - Захоронения",
     "bel": "Ліндаі - Пахаванні",
@@ -58483,7 +58483,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LionHide01",
-    "custom": "",
+    "custom": "Львіная шкура",
     "en": "Lion Pelt",
     "ru": "Шкура пумы",
     "bel": "Шкура пумы",
@@ -58492,7 +58492,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LipsandTarn02",
-    "custom": "",
+    "custom": "Ліпсанд Тарн Лорсель",
     "en": "Lipsand Tarn Lorsel",
     "ru": "Липсанд Тарн Лорсель",
     "bel": "Ліпсанд Тарн Лорсель",
@@ -58501,7 +58501,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LirrianFamilyFaction",
-    "custom": "",
+    "custom": "Ліррыянская сям'я ў Bruma",
     "en": "Lirrian family in Bruma",
     "ru": "Лиррианская семья в Bruma",
     "bel": "Ліррыянская сям'я ў Bruma",
@@ -58510,7 +58510,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LirrianKey",
-    "custom": "",
+    "custom": "Ключ Ліррыяна",
     "en": "Lirrians' Key",
     "ru": "Ключ Лирриана",
     "bel": "Ключ Ліррыяна",
@@ -58519,7 +58519,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Lithnilian",
-    "custom": "",
+    "custom": "Летніліян",
     "en": "Lithnilian",
     "ru": "Летнилиан",
     "bel": "Летніліян",
@@ -58528,7 +58528,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LitteFamily",
-    "custom": "",
+    "custom": "Маленькая сям'я",
     "en": "Litte Family",
     "ru": "Маленькая семья",
     "bel": "Маленькая сям'я",
@@ -58537,7 +58537,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LocheFaction",
-    "custom": "",
+    "custom": "Сямейства Лохаў з Бравіла",
     "en": "Bravil Loche family",
     "ru": "Семейство Лохов из Бравила.",
     "bel": "Сямейства Лохаў з Бравіла.",
@@ -58546,7 +58546,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LocheKey",
-    "custom": "",
+    "custom": "Ключ ад дома Лока",
     "en": "Loche's House Key",
     "ru": "Ключ от дома Лока",
     "bel": "Ключ ад дома Лока",
@@ -58555,7 +58555,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Logvaar",
-    "custom": "",
+    "custom": "Логвар",
     "en": "Logvaar",
     "ru": "Логвар",
     "bel": "Логвар",
@@ -58564,7 +58564,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LonelySuitorFaction",
-    "custom": "",
+    "custom": "Бравіл - фракцыя \"Lodge Адзінокага Жаніха\"",
     "en": "Bravil - Lonely Suitor Lodge faction",
     "ru": "Бравил - фракция \"Lodge Одинокого Жениха\"",
     "bel": "Бравіл - фракцыя \"Lodge Адзінокага Жаніха\"",
@@ -58573,7 +58573,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LongtoothCamp",
-    "custom": "",
+    "custom": "Лагер Доўгага Клыка",
     "en": "Longtooth Camp",
     "ru": "Лагерь Длинного Клыка",
     "bel": "Лагер Доўгага Клыка",
@@ -58582,7 +58582,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LongtoothCampRegion",
-    "custom": "",
+    "custom": "Лагер Доўгага Зуба",
     "en": "Longtooth Camp",
     "ru": "Лагерь Длинного Зуба",
     "bel": "Лагер Доўгага Зуба",
@@ -58591,7 +58591,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Loose",
-    "custom": "",
+    "custom": "Натуральныя",
     "en": "Natural",
     "ru": "Натуральные",
     "bel": "Натуральныя",
@@ -58600,7 +58600,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LootBag",
-    "custom": "",
+    "custom": "Мяшок з здабычай",
     "en": "Loot Bag",
     "ru": "Мешок с добычей",
     "bel": "Мяшок з здабычай",
@@ -58609,7 +58609,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LordDradFaction",
-    "custom": "",
+    "custom": "Фракцыя лорда Драда",
     "en": "Lord Drad Faction",
     "ru": "Фракция Лорда Drad.",
     "bel": "Фракцыя Лорда Drad.",
@@ -58618,7 +58618,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LordDradsEstate",
-    "custom": "",
+    "custom": "Маёнтак лорда Драда",
     "en": "Lord Drad's Estate",
     "ru": "Имение Лорда Драда.",
     "bel": "Маёнтак Лорда Драда.",
@@ -58627,7 +58627,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LordDradsSlaveQuarters01",
-    "custom": "",
+    "custom": "Памяшканні рабоў",
     "en": "Slave Quarters",
     "ru": "Помещения рабов",
     "bel": "Памяшканні рабоў",
@@ -58636,7 +58636,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LordDradsSlaveQuarters02",
-    "custom": "",
+    "custom": "Памяшканні рабоў",
     "en": "Slave Quarters",
     "ru": "Помещения рабов",
     "bel": "Памяшканні рабоў",
@@ -58645,7 +58645,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LordLovidicus",
-    "custom": "",
+    "custom": "Лорд Ловідзікус",
     "en": "Lord Lovidicus",
     "ru": "Лорд Ловидикус",
     "bel": "Лорд Ловідзікус",
@@ -58654,7 +58654,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LordRugdumph",
-    "custom": "",
+    "custom": "Лорд Ругдумф гро-Шургак",
     "en": "Lord Rugdumph gro-Shurgak",
     "ru": "Лорд Ругдумф гро-Шургак",
     "bel": "Лорд Ругдумф гро-Шургак",
@@ -58663,7 +58663,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LordRugdumphEstate",
-    "custom": "",
+    "custom": "Маёнтак лорда Ругдумпфа",
     "en": "Lords Rugdumph's Estate",
     "ru": "Поместье лорда Ругдумфа",
     "bel": "Маёнтак лорда Ругдумфа",
@@ -58672,7 +58672,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LordRugdumphServants",
-    "custom": "",
+    "custom": "Пакоі слуг",
     "en": "Servant's Quarters",
     "ru": "Комнаты слуг",
     "bel": "Пакоі слуг",
@@ -58681,7 +58681,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LordRugdumphTOPIC",
-    "custom": "",
+    "custom": "Лорд Ругдумпф",
     "en": "Lord Rugdumph",
     "ru": "Лорд Ругдумф",
     "bel": "Лорд Ругдумф",
@@ -58690,7 +58690,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LordRugdumphsEstate",
-    "custom": "",
+    "custom": "Маёнтак лорда Ругдумпфа",
     "en": "Lord Rugdumph's Estate",
     "ru": "Имение Лорда Rugdumph'а",
     "bel": "Маёнтак Лорда Rugdumph'а",
@@ -58699,7 +58699,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LordRugdumphsEstateRegion",
-    "custom": "",
+    "custom": "Маёнтак лорда Ругдумфа",
     "en": "Lord Rugdumph's Estate",
     "ru": "Поместье лорда Ругдумфа",
     "bel": "Маёнтак лорда Ругдумфа",
@@ -58708,7 +58708,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LoreResponses",
-    "custom": "",
+    "custom": "Адказы аб гісторыі свету",
     "en": "LoreResponses",
     "ru": "Ответы об истории мира",
     "bel": "Адказы аб гісторыі свету",
@@ -58717,7 +58717,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LorgrenBenirus",
-    "custom": "",
+    "custom": "Лоргрэн Бенірус",
     "en": "Lorgren Benirus",
     "ru": "Лоргрен Бенирус",
     "bel": "Лоргрен Бенірус",
@@ -58726,7 +58726,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LorgrenBenirusNPC",
-    "custom": "",
+    "custom": "Лоргрэн Бенірус",
     "en": "Lorgren Benirus",
     "ru": "Лоргрен Бенирус",
     "bel": "Лоргрен Бенірус",
@@ -58735,7 +58735,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LorgrenLichSpeech",
-    "custom": "",
+    "custom": "Прамова Лоргрена-Ліча",
     "en": "LorgrenLichSpeech",
     "ru": "Речь Лоргрена-Лича",
     "bel": "Прамова Лоргрена-Ліча",
@@ -58744,7 +58744,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LorgrenSpeech",
-    "custom": "",
+    "custom": "Прамова Лоргрена",
     "en": "LorgrenSpeech",
     "ru": "Речь Лоргрена",
     "bel": "Прамова Лоргрена",
@@ -58753,7 +58753,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Lost",
-    "custom": "",
+    "custom": "Згублены",
     "en": "Lost",
     "ru": "Потерян",
     "bel": "Згублены",
@@ -58762,7 +58762,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LostBoyCavern",
-    "custom": "",
+    "custom": "Пячора Згубленага Хлопчыка",
     "en": "Lost Boy Cavern",
     "ru": "Пещера Заблудшего Мальчика",
     "bel": "Пячора Зблуднага Хлопчыка",
@@ -58771,7 +58771,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LostBoyCavern001",
-    "custom": "",
+    "custom": "Змяты кавалак паперы",
     "en": "Crumpled Piece of Paper",
     "ru": "Мятый клочок бумаги",
     "bel": "Змяты клачок паперы",
@@ -58780,7 +58780,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LostBoyCaverns000",
-    "custom": "",
+    "custom": "Патрапаны дзённік",
     "en": "Weathered Journal",
     "ru": "Потрепанный дневник",
     "bel": "Патрапаны дзённік",
@@ -58789,7 +58789,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LostBoyCaverns002",
-    "custom": "",
+    "custom": "Змяты кавалак паперы",
     "en": "Crumpled Piece of Paper",
     "ru": "Мятый клочок бумаги",
     "bel": "Змяты клачок паперы",
@@ -58798,7 +58798,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LostBoyCaverns003",
-    "custom": "",
+    "custom": "Складзеная старонка",
     "en": "Folded Page",
     "ru": "Сложенная страница",
     "bel": "Складзеная старонка",
@@ -58807,7 +58807,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LostBoyCaverns02",
-    "custom": "",
+    "custom": "Згублены Хлопчык - Каньён",
     "en": "Lost Boy Canyon",
     "ru": "Потерянный Мальчик - Каньон",
     "bel": "Згублены Хлопчык - Каньён",
@@ -58816,7 +58816,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LostBoyCaverns03",
-    "custom": "",
+    "custom": "Згублены Хлопчык - Залы пазяхання",
     "en": "Lost Boy's Yawning Halls",
     "ru": "Потерянный Мальчик - Залы зевоты",
     "bel": "Згублены Хлопчык - Залы пазяхання",
@@ -58825,7 +58825,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LostBoyCaverns05",
-    "custom": "",
+    "custom": "Згублены Хлопчык - Схаваны бастыён",
     "en": "Lost Boy's Hidden Bastion",
     "ru": "Потерянный Мальчик - Скрытый бастион",
     "bel": "Згублены Хлопчык - Схаваны бастыён",
@@ -58834,7 +58834,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LostBoyKey",
-    "custom": "",
+    "custom": "Ключ ад Згубленага Хлопчыка",
     "en": "Lost Boy's Key",
     "ru": "Ключ от Потерянного Мальчика",
     "bel": "Ключ ад Згубленага Хлопчыка",
@@ -58843,7 +58843,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LostTimeCamp",
-    "custom": "",
+    "custom": "Лагер «Згублены Час»",
     "en": "Lost Time Camp",
     "ru": "Лагерь «Потерянное Время»",
     "bel": "Лагер «Згублены Час»",
@@ -58852,7 +58852,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LostTimeCampRegion",
-    "custom": "",
+    "custom": "Лагер Згубленага Часу",
     "en": "Lost Time Camp",
     "ru": "Лагерь Потерянного Времени",
     "bel": "Лагер Згубленага Часу",
@@ -58861,7 +58861,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LoveSoft",
-    "custom": "",
+    "custom": "Як шкада.",
     "en": "That's too bad,",
     "ru": "Как жаль.",
     "bel": "Як шкада.",
@@ -58870,7 +58870,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LoveTough",
-    "custom": "",
+    "custom": "Сапраўдныя оркі не ныюць.",
     "en": "Real orcs don't whine.",
     "ru": "Настоящие орки не ноют.",
     "bel": "Сапраўдныя оркі не ныюць.",
@@ -58879,7 +58879,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerClassLadel01",
-    "custom": "",
+    "custom": "Чэрпак",
     "en": "Ladle",
     "ru": "Ковшик",
     "bel": "Чэрпак",
@@ -58888,7 +58888,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerClassStallDoor01",
-    "custom": "",
+    "custom": "Дзверы",
     "en": "Stall Door",
     "ru": "Дверь",
     "bel": "Дзверы",
@@ -58897,7 +58897,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerClassStallDoor02",
-    "custom": "",
+    "custom": "Дзверы",
     "en": "Stall Door",
     "ru": "Дверь",
     "bel": "Дзверы",
@@ -58906,7 +58906,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerCoveredPot01",
-    "custom": "",
+    "custom": "Накрыты гаршчок",
     "en": "Covered Pot",
     "ru": "Закрытый горшок",
     "bel": "Закрыты гаршчок",
@@ -58915,7 +58915,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerCoveredPot02",
-    "custom": "",
+    "custom": "Накрыты гаршчок",
     "en": "Covered Pot",
     "ru": "Закрытый горшок",
     "bel": "Закрыты гаршчок",
@@ -58924,7 +58924,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerJugTan01",
-    "custom": "",
+    "custom": "Карычневы збанок",
     "en": "Tan Jug",
     "ru": "Коричневый кувшинчик",
     "bel": "Карычневы збанок",
@@ -58933,7 +58933,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerJugTan02",
-    "custom": "",
+    "custom": "Карычневы збанок",
     "en": "Tan Jug",
     "ru": "Коричневый кувшинчик",
     "bel": "Карычневы збанок",
@@ -58942,7 +58942,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerJugTan03",
-    "custom": "",
+    "custom": "Карычневы збанок",
     "en": "Tan Jug",
     "ru": "Коричневый кувшинчик",
     "bel": "Карычневы збанок",
@@ -58951,7 +58951,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerJugTan04",
-    "custom": "",
+    "custom": "Карычневы збанок",
     "en": "Tan Jug",
     "ru": "Коричневый кувшинчик",
     "bel": "Карычневы збанок",
@@ -58960,7 +58960,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerJugTan05",
-    "custom": "",
+    "custom": "Карычневы збанок",
     "en": "Tan Jug",
     "ru": "Коричневый кувшинчик",
     "bel": "Карычневы збанок",
@@ -58969,7 +58969,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerJugTan06",
-    "custom": "",
+    "custom": "Карычневы збанок",
     "en": "Tan Jug",
     "ru": "Коричневый кувшинчик",
     "bel": "Карычневы збанок",
@@ -58978,7 +58978,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerMugTan01",
-    "custom": "",
+    "custom": "Карычневы кубак",
     "en": "Tan Mug",
     "ru": "Коричневая кружка",
     "bel": "Карычневы кубак",
@@ -58987,7 +58987,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerPants02",
-    "custom": "",
+    "custom": "Вышытыя скураныя штаны",
     "en": "Laced Leather Pants",
     "ru": "Расшитые кожаные штаны",
     "bel": "Вышытыя скураныя штаны",
@@ -58996,7 +58996,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerPants03",
-    "custom": "",
+    "custom": "Паляўнічыя скураныя штаны",
     "en": "Huntsman Leather Pants",
     "ru": "Охотничьи кожаные штаны",
     "bel": "Паляўнічыя скураныя штаны",
@@ -59005,7 +59005,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerPants04",
-    "custom": "",
+    "custom": "Грубая вопратка",
     "en": "Coarse Linens",
     "ru": "Грубая одежда",
     "bel": "Грубая вопратка",
@@ -59014,7 +59014,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerPants05",
-    "custom": "",
+    "custom": "Штаны з мешкавіны",
     "en": "Sack Cloth Pants",
     "ru": "Штаны из мешковины",
     "bel": "Штаны з мешкавіны",
@@ -59023,7 +59023,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerPants06",
-    "custom": "",
+    "custom": "Зялёнае суконнае адзенне",
     "en": "Green Felt Linens",
     "ru": "Зеленая суконная одежда",
     "bel": "Зялёнае суконнае адзенне",
@@ -59032,7 +59032,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerPants07",
-    "custom": "",
+    "custom": "Простае адзенне",
     "en": "Breeches",
     "ru": "Простая одежда",
     "bel": "Простае адзенне",
@@ -59041,7 +59041,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerPants08",
-    "custom": "",
+    "custom": "Адзенне з поясам",
     "en": "Belted Braies",
     "ru": "Одежда с поясом",
     "bel": "Адзенне з поясам",
@@ -59050,7 +59050,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerPitcherTan01",
-    "custom": "",
+    "custom": "Карычневы збан",
     "en": "Tan Pitcher",
     "ru": "Коричневый кувшин",
     "bel": "Карычневы збан",
@@ -59059,7 +59059,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerRobe01white",
-    "custom": "",
+    "custom": "Белая роба манаха",
     "en": "White Monk Robe",
     "ru": "Белая роба монаха",
     "bel": "Белая роба манаха",
@@ -59068,7 +59068,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerRobe02hood",
-    "custom": "",
+    "custom": "Шэры капюшон",
     "en": "Grey Robe Hood",
     "ru": "Серый капюшон",
     "bel": "Шэры капюшон",
@@ -59077,7 +59077,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerRobe03hood",
-    "custom": "",
+    "custom": "Карычневы капюшон",
     "en": "Tan Robe Hood",
     "ru": "Коричневый капюшон",
     "bel": "Карычневы капюшон",
@@ -59086,7 +59086,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerRobe04hood",
-    "custom": "",
+    "custom": "Зялёны капюшон",
     "en": "Green Robe Hood",
     "ru": "Зеленый капюшон",
     "bel": "Зялёны капюшон",
@@ -59095,7 +59095,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerRobe05",
-    "custom": "",
+    "custom": "Паношаная роба",
     "en": "Tattered Robe",
     "ru": "Поношенная роба",
     "bel": "Паношаная роба",
@@ -59104,7 +59104,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerRobe05hood",
-    "custom": "",
+    "custom": "Паношаны капюшон",
     "en": "Tattered Robe Hood",
     "ru": "Поношенный капюшон",
     "bel": "Паношаны капюшон",
@@ -59113,7 +59113,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerShirt03",
-    "custom": "",
+    "custom": "Паляўнічы камізэлька",
     "en": "Huntsman Vest",
     "ru": "Охотничий жилет",
     "bel": "Паляўнічы камізэлька",
@@ -59122,7 +59122,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerShirt05",
-    "custom": "",
+    "custom": "Кашуля з мешкавіны",
     "en": "Sack Cloth Shirt",
     "ru": "Рубашка из мешковины",
     "bel": "Кашуля з мешкавіны",
@@ -59131,7 +59131,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerShirt07",
-    "custom": "",
+    "custom": "Кашуля з завязкамі",
     "en": "Shirt with Suspenders",
     "ru": "Рубашка с завязками",
     "bel": "Кашуля з завязкамі",
@@ -59140,7 +59140,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerShirt08",
-    "custom": "",
+    "custom": "Блуза з поясам",
     "en": "Belted Vest",
     "ru": "Блуза с поясом",
     "bel": "Блуза з поясам",
@@ -59149,7 +59149,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerShirt09",
-    "custom": "",
+    "custom": "Рыбацкі камбінезон",
     "en": "Fishing Waders",
     "ru": "Рыбацкий комбинезон",
     "bel": "Рыбацкі камбінезон",
@@ -59158,7 +59158,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerShirt10",
-    "custom": "",
+    "custom": "Заштопаная блуза",
     "en": "Patched Vest",
     "ru": "Заштопанная блуза",
     "bel": "Заштопаная блуза",
@@ -59167,7 +59167,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerShirt12",
-    "custom": "",
+    "custom": "Аліўкавая блуза",
     "en": "Olive  Vest",
     "ru": "Оливковая блуза",
     "bel": "Аліўкавая блуза",
@@ -59176,7 +59176,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerShirt13",
-    "custom": "",
+    "custom": "Адстрочаная зялёная кашуля",
     "en": "Stitched Green Shirt",
     "ru": "Отстроченная зеленая рубашка",
     "bel": "Адстрочаная зялёная кашуля",
@@ -59185,7 +59185,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerShirt14",
-    "custom": "",
+    "custom": "Блуза з рагожкі",
     "en": "Burlap Vest",
     "ru": "Блуза из рогожки",
     "bel": "Блуза з рагожкі",
@@ -59194,7 +59194,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerShoes02",
-    "custom": "",
+    "custom": "Адстрочаныя скураныя чаравікі",
     "en": "Stitched Leather Shoes",
     "ru": "Отстроченные кожаные туфли",
     "bel": "Адстрочаныя скураныя чаравікі",
@@ -59203,7 +59203,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerShoes03",
-    "custom": "",
+    "custom": "Паляўнічыя макасіны",
     "en": "Huntsman Moccasin",
     "ru": "Охотничьи мокасины",
     "bel": "Паляўнічыя макасіны",
@@ -59212,7 +59212,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerShoes04",
-    "custom": "",
+    "custom": "Прамасленыя льняныя чаравікі",
     "en": "Oiled Linen Shoes",
     "ru": "Промасленные льняные туфли",
     "bel": "Прамасленыя льняныя чаравікі",
@@ -59221,7 +59221,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerShoes05",
-    "custom": "",
+    "custom": "Сандалі з мешкавіны",
     "en": "Sack Cloth Sandals",
     "ru": "Сандалии из мешковины",
     "bel": "Сандалі з мешкавіны",
@@ -59230,7 +59230,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerShoes06",
-    "custom": "",
+    "custom": "Чаравікі з спражкамі",
     "en": "Buckled Shoes",
     "ru": "Туфли с пряжками",
     "bel": "Чаравікі з спражкамі",
@@ -59239,7 +59239,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LowerShoes07",
-    "custom": "",
+    "custom": "Сабо",
     "en": "Clogs",
     "ru": "Сабо",
     "bel": "Сабо",
@@ -59248,7 +59248,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LpAtronachFrostBolt",
-    "custom": "",
+    "custom": "Страла марозу атронаха",
     "en": "Atronach Frostbolt",
     "ru": "Стрела мороза атронаха",
     "bel": "Страла марозу атронаха",
@@ -59257,7 +59257,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LpAtronachFrostHeal",
-    "custom": "",
+    "custom": "Лекаванне марозам",
     "en": "Freezing Heal",
     "ru": "Лечение морозом",
     "bel": "Лекаванне марозам",
@@ -59266,7 +59266,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LpAtronachFrostTouch",
-    "custom": "",
+    "custom": "Марозны дотык",
     "en": "Freezing Touch",
     "ru": "Замораживающее касание",
     "bel": "Замарожваючы дотык",
@@ -59275,7 +59275,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LpAtronachShockTouch",
-    "custom": "",
+    "custom": "Электрычны дотык",
     "en": "Shocking Touch",
     "ru": "Электрическое прикосновение",
     "bel": "Электрычны дотык",
@@ -59284,7 +59284,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LpBoundArmorMaceMD",
-    "custom": "",
+    "custom": "Прызваныя даспехі і булава Міфічнага світанку",
     "en": "Mythic Dawn Bound Armor and Mace",
     "ru": "Призванные доспехи и булава Мифического Рассвета",
     "bel": "Прызваныя даспехі і булава Міфічнага світанку",
@@ -59293,7 +59293,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LpBoundArmorSwordMD",
-    "custom": "",
+    "custom": "Прызваныя даспехі і меч Міфічнага світанку",
     "en": "Mythic Dawn Bound Armor and Sword",
     "ru": "Призванные доспехи и меч Мифического Рассвета",
     "bel": "Прызваныя даспехі і меч Міфічнага світанку",
@@ -59302,7 +59302,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LpBoundDagger",
-    "custom": "",
+    "custom": "Прызваны кінжал",
     "en": "Bound Dagger",
     "ru": "Призванный кинжал",
     "bel": "Прызваны кінжал",
@@ -59311,7 +59311,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LpDaedrothBarrier",
-    "custom": "",
+    "custom": "Шчыт дэйдрота",
     "en": "Daedroth Shield",
     "ru": "Щит дэйдрота",
     "bel": "Шчыт дэйдрота",
@@ -59320,7 +59320,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LpGhostAncientFrostDamageTarget",
-    "custom": "",
+    "custom": "Ледзяны зарад",
     "en": "Icy Blast",
     "ru": "Ледяной заряд",
     "bel": "Ледзяны зарад",
@@ -59329,7 +59329,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LpGhostFrostDamageTarget",
-    "custom": "",
+    "custom": "Сняжок",
     "en": "Snowball",
     "ru": "Снежок",
     "bel": "Сняжок",
@@ -59338,7 +59338,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LpLandDreugh",
-    "custom": "",
+    "custom": "Электрызуючы дотык",
     "en": "Shocking Touch",
     "ru": "Электризующее касание",
     "bel": "Электрызуючы дотык",
@@ -59347,7 +59347,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LpScampFireball",
-    "custom": "",
+    "custom": "Вогненны шар скампа",
     "en": "Scamp Fireball",
     "ru": "Огненный шар скампа",
     "bel": "Вогненны шар скампа",
@@ -59356,7 +59356,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LpSpiderDaedraPoison",
-    "custom": "",
+    "custom": "Ядавіты плявок",
     "en": "Poison spit",
     "ru": "Ядовитый плевок",
     "bel": "Ядавіты плявок",
@@ -59365,7 +59365,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LpSpiderDaedraSpiderling",
-    "custom": "",
+    "custom": "Выклік павучка",
     "en": "Summon Spiderling",
     "ru": "Вызов паучка",
     "bel": "Выклік павучка",
@@ -59374,7 +59374,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LpSpiderlingPoison",
-    "custom": "",
+    "custom": "Ядавіты плявок",
     "en": "Poison spit",
     "ru": "Ядовитый плевок",
     "bel": "Ядавіты плявок",
@@ -59383,7 +59383,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LpWelkyndStone",
-    "custom": "",
+    "custom": "Заклён вэлкіндскага каменя",
     "en": "Welkynd Stone Spell",
     "ru": "Заклинание велкиндского камня",
     "bel": "Заклён велкиндскага каменя",
@@ -59392,7 +59392,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LpWillOWispAttack",
-    "custom": "",
+    "custom": "Адплата",
     "en": "Wrack",
     "ru": "Возмездие",
     "bel": "Адплата",
@@ -59401,7 +59401,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LpWraithFadedCurse",
-    "custom": "",
+    "custom": "Праклён туманнага прывіда",
     "en": "Faded Wraith's Curse",
     "ru": "Проклятие туманного привидения",
     "bel": "Праклён туманнага прывіда",
@@ -59410,7 +59410,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LpWraithGloomCurse",
-    "custom": "",
+    "custom": "Праклён цёмнага прывіда",
     "en": "Gloom Wraith's Curse",
     "ru": "Проклятие темного привидения",
     "bel": "Праклён цёмнага прывіда",
@@ -59419,7 +59419,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LucianaGalena",
-    "custom": "",
+    "custom": "Люсіяна Галена",
     "en": "Luciana Galena",
     "ru": "Люсиана Галена",
     "bel": "Люсіяна Галена",
@@ -59428,7 +59428,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LucianaGalenaKey",
-    "custom": "",
+    "custom": "Ключ Люсіяны Галены",
     "en": "Luciana Galena's Key",
     "ru": "Ключ Люсианы Галены",
     "bel": "Ключ Люсіяны Галены",
@@ -59437,7 +59437,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LucienLachanceDungeon",
-    "custom": "",
+    "custom": "Фракцыя «Падзямелле Лашанса»",
     "en": "Lachance Dungeon Faction",
     "ru": "Фракция «Подземелье Лашанса»",
     "bel": "Фракцыя «Падзямелле Лашанса»",
@@ -59446,7 +59446,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LuckyOldLady",
-    "custom": "",
+    "custom": "Шчаслівая Пажылая Лэдзі",
     "en": "The Lucky Old Lady",
     "ru": "Счастливая Пожилая Леди",
     "bel": "Шчаслівая пажылая лэдзі",
@@ -59455,7 +59455,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LumdumgroGolpok",
-    "custom": "",
+    "custom": "Ламдум гро-Голпок",
     "en": "Lumdum gro-Golpok",
     "ru": "Ламдум гро-Голпок",
     "bel": "Ламдум гро-Голпок",
@@ -59464,7 +59464,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LumgroBaroth",
-    "custom": "",
+    "custom": "Лам гро-Барот",
     "en": "Lum gro-Baroth",
     "ru": "Лам гро-Барот",
     "bel": "Лам гро-Барот",
@@ -59473,7 +59473,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LurioMaenius",
-    "custom": "",
+    "custom": "Лурыё Мэніус",
     "en": "Lurio Maenius",
     "ru": "Лурио Мэниус",
     "bel": "Лурыё Мэніус",
@@ -59482,7 +59482,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LuronkFriends",
-    "custom": "",
+    "custom": "Сябры Луронка",
     "en": "LuronkFriends",
     "ru": "LuronkFriends",
     "bel": "LuronkFriends",
@@ -59491,7 +59491,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LutherBroadBoardingHouseFaction",
-    "custom": "",
+    "custom": "Фракцыя пансіёна \"Дом адпачынку Лютэра Брода\"",
     "en": "Luther Broad Boarding House Faction",
     "ru": "Фракция пансиона \"Дом отдыха Лютера Брода\"",
     "bel": "Фракцыя пансіёна \"Дом адпачынку Лютэра Брода\"",
@@ -59500,7 +59500,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LutherBroadsBoardingHouse",
-    "custom": "",
+    "custom": "Пансіён Лютэра Брода",
     "en": "Luther Broad's Boarding House",
     "ru": "Пансион Лютера Брода",
     "bel": "Пансіён Лютэра Брода",
@@ -59509,7 +59509,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LyraRosentia",
-    "custom": "",
+    "custom": "Ліра Розенція",
     "en": "Lyra Rosentia",
     "ru": "Лира Розентия",
     "bel": "Ліра Розенція",
@@ -59518,7 +59518,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LyraRosentiaKey",
-    "custom": "",
+    "custom": "Ключ Ліры Розенціі",
     "en": "Lyra Rosentia's Key",
     "ru": "Ключ Лиры Розентии",
     "bel": "Ключ Ліры Розенціі",
@@ -59527,7 +59527,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_LythandasFaction",
-    "custom": "",
+    "custom": "Сям'я Літандас",
     "en": "Lythandas Family",
     "ru": "Семья Lythandas.",
     "bel": "Сям'я Lythandas.",
@@ -59536,7 +59536,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG00General",
-    "custom": "",
+    "custom": "Дыялогі без заданняў і Conv Гільдыі Магаў",
     "en": "Mages Guild Non-Quest Dialogue and Conv",
     "ru": "Диалоги без заданий и Conv Гильдии Магов",
     "bel": "Дыялогі без заданняў і Conv Гільдыі Магаў",
@@ -59545,7 +59545,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG00Join",
-    "custom": "",
+    "custom": "Уступленне ў Гільдыю магаў",
     "en": "Join the Mages Guild",
     "ru": "Вступление в Гильдию магов",
     "bel": "Уступленне ў Гільдыю магаў",
@@ -59554,7 +59554,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG00JoinB",
-    "custom": "",
+    "custom": "Я не зацікаўлены.",
     "en": "I'm not interested.",
     "ru": "Мне это не интересно.",
     "bel": "Мне гэта не цікава.",
@@ -59563,7 +59563,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG01AdrienneConv",
-    "custom": "",
+    "custom": "Размова з MG01AdrienneConv",
     "en": "MG01AdrienneConv",
     "ru": "Разговор с MG01AdrienneConv",
     "bel": "Размова з MG01AdrienneConv",
@@ -59572,7 +59572,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG01Choice1A",
-    "custom": "",
+    "custom": "Так, я зраблю гэта.",
     "en": "Yes, I'll do it.",
     "ru": "Да, я сделаю это.",
     "bel": "Так, я зраблю гэта.",
@@ -59581,7 +59581,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG01Choice2A",
-    "custom": "",
+    "custom": "Дамовіліся.",
     "en": "It's a deal.",
     "ru": "Договорились.",
     "bel": "Дамовіліся.",
@@ -59590,7 +59590,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG01Choice3B",
-    "custom": "",
+    "custom": "Ты сам знойдзеш шлях назад.",
     "en": "Find your own way back.",
     "ru": "Ты сам найдешь путь назад.",
     "bel": "Ты сам знойдзеш шлях назад.",
@@ -59599,7 +59599,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG01Destruct",
-    "custom": "",
+    "custom": "Рэкамендацыя ад Скінграда",
     "en": "Skingrad Recommendation",
     "ru": "Рекомендация от Скинграда",
     "bel": "Рэкамендацыя ад Скінграда",
@@ -59608,7 +59608,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG01ErthorTopic",
-    "custom": "",
+    "custom": "Тэма MG01Erthor",
     "en": "MG01ErthorTopic",
     "ru": "Тема MG01Erthor",
     "bel": "Тэма MG01Erthor",
@@ -59617,7 +59617,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG01SulinusConv",
-    "custom": "",
+    "custom": "Перакананне MG01Sulinus",
     "en": "MG01SulinusConv",
     "ru": "Убеждение MG01Sulinus",
     "bel": "Перакананне MG01Sulinus",
@@ -59626,7 +59626,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG01Zombie2",
-    "custom": "",
+    "custom": "Ашалелы зомбі",
     "en": "Deranged Zombie",
     "ru": "Обезумевший зомби",
     "bel": "Ашалелы зомбі",
@@ -59635,7 +59635,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG01Zombie4",
-    "custom": "",
+    "custom": "Ашалелы зомбі",
     "en": "Deranged Zombie",
     "ru": "Обезумевший зомби",
     "bel": "Ашалелы зомбі",
@@ -59644,7 +59644,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG01Zombie6",
-    "custom": "",
+    "custom": "Ашалелы зомбі",
     "en": "Deranged Zombie",
     "ru": "Обезумевший зомби",
     "bel": "Ашалелы зомбі",
@@ -59653,7 +59653,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG01ZombieHeadless10",
-    "custom": "",
+    "custom": "Ашалелы зомбі",
     "en": "Deranged Zombie",
     "ru": "Обезумевший зомби",
     "bel": "Ашалелы зомбі",
@@ -59662,7 +59662,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG01ZombieHeadless12",
-    "custom": "",
+    "custom": "Ашалелы зомбі",
     "en": "Deranged Zombie",
     "ru": "Обезумевший зомби",
     "bel": "Ашалелы зомбі",
@@ -59671,7 +59671,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG01ZombieHeadless14",
-    "custom": "",
+    "custom": "Ашалелы зомбі",
     "en": "Deranged Zombie",
     "ru": "Обезумевший зомби",
     "bel": "Ашалелы зомбі",
@@ -59680,7 +59680,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG01ZombieHeadless8",
-    "custom": "",
+    "custom": "Ашалелы зомбі",
     "en": "Deranged Zombie",
     "ru": "Обезумевший зомби",
     "bel": "Ашалелы зомбі",
@@ -59689,7 +59689,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG01ZombieTemplate",
-    "custom": "",
+    "custom": "Ашалелы зомбі",
     "en": "Deranged Zombie",
     "ru": "Обезумевший зомби",
     "bel": "Ашалелы зомбі",
@@ -59698,7 +59698,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG02Alter",
-    "custom": "",
+    "custom": "Рэкамендацыя ад Чэйдынхола",
     "en": "Cheydinhal Recommendation",
     "ru": "Рекомендация от Чейдинхола",
     "bel": "Рэкамендацыя ад Чэйдынхола",
@@ -59707,7 +59707,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG02BlackSoulgGem",
-    "custom": "",
+    "custom": "Чорны камень душ Фалькара",
     "en": "Falcar's Black Soul Gem",
     "ru": "Чёрный камень душ Фалькара",
     "bel": "Чорны камень душ Фалькара",
@@ -59716,7 +59716,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG02Choice1A",
-    "custom": "",
+    "custom": "Так. Што трэба зрабіць?",
     "en": "Yes, I'm ready.",
     "ru": "Да. Что нужно сделать?",
     "bel": "Так. Што трэба зрабіць?",
@@ -59725,7 +59725,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG02Choice1B",
-    "custom": "",
+    "custom": "Не, яшчэ не.",
     "en": "No, not yet.",
     "ru": "Нет, не сейчас.",
     "bel": "Не, не зараз.",
@@ -59743,7 +59743,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG02RingofBurden",
-    "custom": "",
+    "custom": "Пярсцёнак цяжкай ношы",
     "en": "Ring of Burden",
     "ru": "Кольцо тяжелой ноши",
     "bel": "Пярсцёнак цяжкай ношы",
@@ -59770,7 +59770,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG03BeguileScroll",
-    "custom": "",
+    "custom": "Падман",
     "en": "Beguile",
     "ru": "Обман",
     "bel": "Падман",
@@ -59779,7 +59779,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG03Charm",
-    "custom": "",
+    "custom": "Палон",
     "en": "Captivate",
     "ru": "Пленение",
     "bel": "Палон",
@@ -59788,7 +59788,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG03Choice1A",
-    "custom": "",
+    "custom": "Так, вядома.",
     "en": "I'm ready.",
     "ru": "Да, конечно.",
     "bel": "Так, вядома.",
@@ -59797,7 +59797,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG03Choice1B",
-    "custom": "",
+    "custom": "Не зараз.",
     "en": "I'm not ready yet.",
     "ru": "Не сейчас.",
     "bel": "Не зараз.",
@@ -59806,7 +59806,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG03Choice2A",
-    "custom": "",
+    "custom": "Дамовіліся.",
     "en": "It's a deal.",
     "ru": "Договорились.",
     "bel": "Дамовіліся.",
@@ -59815,7 +59815,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG03Illusion",
-    "custom": "",
+    "custom": "Рэкамендацыя ад Бравіла",
     "en": "Bravil Recommendation",
     "ru": "Рекомендация от Бравила",
     "bel": "Рэкамендацыя ад Бравіла",
@@ -59824,7 +59824,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG03Staff",
-    "custom": "",
+    "custom": "Магічны посаг",
     "en": "Mages Staff",
     "ru": "Магический посох",
     "bel": "Магічны посаг",
@@ -59842,7 +59842,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG04Choice1A",
-    "custom": "",
+    "custom": "Так. Якое заданне?",
     "en": "Yes, I'm ready.",
     "ru": "Да. Каково задание?",
     "bel": "Так. Якое заданне?",
@@ -59851,7 +59851,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG04Choice1B",
-    "custom": "",
+    "custom": "Не, яшчэ не.",
     "en": "No, not yet.",
     "ru": "Нет, не сейчас.",
     "bel": "Не, не зараз.",
@@ -59860,7 +59860,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG04Choice2A",
-    "custom": "",
+    "custom": "Я гандлюю рознымі таварамі.",
     "en": "I'm a merchant.",
     "ru": "Я торгую разными товарами.",
     "bel": "Я гандлюю рознымі таварамі.",
@@ -59869,7 +59869,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG04Choice2B",
-    "custom": "",
+    "custom": "Я ўстрымаюся ад адказу на гэтае пытанне.",
     "en": "I'd rather not say.",
     "ru": "Я воздержусь от ответа на этот вопрос.",
     "bel": "Я ўстрымаюся ад адказу на гэтае пытанне.",
@@ -59878,7 +59878,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG04Choice3A",
-    "custom": "",
+    "custom": "Я вазьму гэта.",
     "en": "I'll take it.",
     "ru": "Да, нужна.",
     "bel": "Так, патрэбна.",
@@ -59887,7 +59887,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG04Choice4A",
-    "custom": "",
+    "custom": "Так, гэта так.",
     "en": "Yes, that's right.",
     "ru": "Да, это так.",
     "bel": "Так, гэта так.",
@@ -59896,7 +59896,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG04Choice4B",
-    "custom": "",
+    "custom": "Не, толькі не я.",
     "en": "No, not me.",
     "ru": "Нет, только не я.",
     "bel": "Не, толькі не я.",
@@ -59905,7 +59905,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG04ChoiceCarahilDangerous",
-    "custom": "",
+    "custom": "Ці небяспечна гэтае даручэнне?",
     "en": "Isn't that dangerous?",
     "ru": "Не опасно ли это поручение?",
     "bel": "Ці небяспечна гэтае даручэнне?",
@@ -59914,7 +59914,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG04Restore",
-    "custom": "",
+    "custom": "Рэкамендацыя ад Анвіла",
     "en": "Anvil Recommendation",
     "ru": "Рекомендация от Анвила",
     "bel": "Рэкамендацыя ад Анвіла",
@@ -59923,7 +59923,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG05AChoice1A",
-    "custom": "",
+    "custom": "Кніга аддадзена Тыкіусу.",
     "en": "I gave the book to Teekeeus.",
     "ru": "Книга отдана Тикиусу.",
     "bel": "Кніга аддадзена Тыкіусу.",
@@ -59932,7 +59932,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG05AChoice1B",
-    "custom": "",
+    "custom": "Кніга аддадзена Іране.",
     "en": "I gave the book to Earana.",
     "ru": "Книга отдана Иране.",
     "bel": "Кніга аддадзена Іране.",
@@ -59941,7 +59941,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG05AChoice2A",
-    "custom": "",
+    "custom": "Я пайду і вазьму яе.",
     "en": "I'll go get it.",
     "ru": "Я пойду и возьму ее.",
     "bel": "Я пайду і вазьму яе.",
@@ -59950,7 +59950,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG05AChoice2B",
-    "custom": "",
+    "custom": "Не, я не буду рабіць гэтага.",
     "en": "No, I won't do that.",
     "ru": "Нет, я не буду делать этого.",
     "bel": "Не, я не буду рабіць гэтага.",
@@ -59959,7 +59959,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG05Choice1A",
-    "custom": "",
+    "custom": "Так, мне гэта цікава.",
     "en": "Yes, I'm interested.",
     "ru": "Да, мне это интересно.",
     "bel": "Так, мне гэта цікава.",
@@ -59968,7 +59968,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG05Choice2B",
-    "custom": "",
+    "custom": "У мяне гэтага няма.",
     "en": "I don't have it.",
     "ru": "У меня нет ее.",
     "bel": "У мяне няма яе.",
@@ -59977,7 +59977,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG05Fingers",
-    "custom": "",
+    "custom": "Рэкамендацыя ад Корала",
     "en": "Chorrol Recommendation",
     "ru": "Пальцы горы",
     "bel": "Пальцы гары",
@@ -59986,7 +59986,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG05FingersScroll",
-    "custom": "",
+    "custom": "Запіска Іраны",
     "en": "Earana's Notes",
     "ru": "Записка Ираны",
     "bel": "Запіска Іраны",
@@ -59995,7 +59995,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG06Bruma",
-    "custom": "",
+    "custom": "Рэкамендацыя ад Брумы",
     "en": "Bruma Recommendation",
     "ru": "Рекомендация от Брумы",
     "bel": "Рэкамендацыя ад Брумы",
@@ -60004,7 +60004,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG06Choice1A",
-    "custom": "",
+    "custom": "Добра. Што там у цябе?",
     "en": "Okay. What is it?",
     "ru": "Хорошо. Что там у тебя?",
     "bel": "Добра. Што там у цябе?",
@@ -60031,7 +60031,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG06ManualSpellcraft",
-    "custom": "",
+    "custom": "Кіраўніцтва па чараўніцтве",
     "en": "Manual of Spellcraft",
     "ru": "Руководство по искусству магии",
     "bel": "Кіраўніцтва па мастацтве магіі",
@@ -60040,7 +60040,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG06UnLockSpell",
-    "custom": "",
+    "custom": "Малы ўзлом засоў",
     "en": "Minor Latch Crack",
     "ru": "Малый взлом засовов",
     "bel": "Малы ўзлом засоў",
@@ -60049,7 +60049,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG07Choice1B",
-    "custom": "",
+    "custom": "Не, не думаю.",
     "en": "No, I don't think so.",
     "ru": "Нет, не думаю.",
     "bel": "Не, не думаю.",
@@ -60058,7 +60058,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG07ChoiceKaltharWhat",
-    "custom": "",
+    "custom": "Што ты тут робіш?",
     "en": "What are you doing here?",
     "ru": "Что ты делаешь здесь?",
     "bel": "Што ты робіш тут?",
@@ -60067,7 +60067,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG07ChoiceKaltharWhy",
-    "custom": "",
+    "custom": "Навошта табе гэты амулет?",
     "en": "Why do you want the amulet?",
     "ru": "Зачем тебе этот амулет?",
     "bel": "Навошта табе гэты амулет?",
@@ -60076,7 +60076,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG07DagailConv",
-    "custom": "",
+    "custom": "Размова MG07DagailConv",
     "en": "MG07DagailConv",
     "ru": "Беседа MG07DagailConv",
     "bel": "Размова MG07DagailConv",
@@ -60085,7 +60085,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG07Leyawiin",
-    "custom": "",
+    "custom": "Рэкамендацыя ад Лейавіна",
     "en": "Leyawiin Recommendation",
     "ru": "Рекомендация от Лейавина",
     "bel": "Рэкамендацыя ад Лейавіна",
@@ -60094,7 +60094,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG07MarauderBoss",
-    "custom": "",
+    "custom": "Ваеначальнік Марадзёраў",
     "en": "Marauder Warlord",
     "ru": "Мародер-военачальник",
     "bel": "Марадзёр-ваяўнік",
@@ -60103,7 +60103,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MG07MarauderMageFemale1",
-    "custom": "",
+    "custom": "Марадзёр-баявы маг",
     "en": "Marauder Battlemage",
     "ru": "Мародер - боевой маг",
     "bel": "Марадзёр - баявы маг",
