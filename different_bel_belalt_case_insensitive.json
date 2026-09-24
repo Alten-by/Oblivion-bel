@@ -39268,7 +39268,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingFortifyMysticismGold",
-    "custom": "",
+    "custom": "Звычайны пярсцёнак містыцызму",
     "en": "Base Ring of Mysticism",
     "ru": "Обычное кольцо мистицизма",
     "bel": "Звычайны пярсцёнак містыцызму",
@@ -39277,7 +39277,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingFortifyMysticismGoldEmerald",
-    "custom": "",
+    "custom": "Вялікі пярсцёнак містыцызму",
     "en": "Grand Ring of Mysticism",
     "ru": "Великое кольцо мистицизма",
     "bel": "Вялікі пярсцёнак містыцызму",
@@ -39286,7 +39286,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingFortifyRestorationJade",
-    "custom": "",
+    "custom": "Звычайны пярсцёнак аднаўлення",
     "en": "Base Ring of Restoration",
     "ru": "Обычное кольцо восстановления",
     "bel": "Звычайны пярсцёнак аднаўлення",
@@ -39295,7 +39295,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingFortifySecurityCopper",
-    "custom": "",
+    "custom": "Звычайны пярсцёнак ўзлому",
     "en": "Base Ring of Security",
     "ru": "Обычное кольцо взлома",
     "bel": "Звычайны пярсцёнак ўзлому",
@@ -39304,7 +39304,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingFortifySecurityCopperPearl",
-    "custom": "",
+    "custom": "Пярсцёнак ўзлому",
     "en": "Ring of Security",
     "ru": "Кольцо взлома",
     "bel": "Пярсцёнак ўзлому",
@@ -39313,7 +39313,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingFortifySecurityCopperTopaz",
-    "custom": "",
+    "custom": "Вялікі пярсцёнак ўзлому",
     "en": "Grand Ring of Security",
     "ru": "Великое кольцо взлома",
     "bel": "Вялікі пярсцёнак ўзлому",
@@ -39322,7 +39322,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingFortifySneakCopper",
-    "custom": "",
+    "custom": "Звычайны пярсцёнак утоенасці",
     "en": "Base Ring of Sneak",
     "ru": "Обычное кольцо скрытности",
     "bel": "Звычайны пярсцёнак утоенасці",
@@ -39331,7 +39331,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingFortifySneakCopperPearl",
-    "custom": "",
+    "custom": "Пярсцёнак утоенасці",
     "en": "Ring of Sneak",
     "ru": "Кольцо скрытности",
     "bel": "Пярсцёнак утоенасці",
@@ -39340,7 +39340,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingFortifySneakCopperTopaz",
-    "custom": "",
+    "custom": "Вялікі пярсцёнак утоенасці",
     "en": "Grand Ring of Sneak",
     "ru": "Великое кольцо скрытности",
     "bel": "Вялікі пярсцёнак утоенасці",
@@ -39349,7 +39349,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingFrost",
-    "custom": "",
+    "custom": "Пярсцёнак марозу",
     "en": "Frost Ring",
     "ru": "Кольцо мороза",
     "bel": "Пярсцёнак марозу",
@@ -39358,7 +39358,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingFrostShieldSilver",
-    "custom": "",
+    "custom": "Звычайны пярсцёнак марознага шчыта",
     "en": "Base Ring of Frost Shield",
     "ru": "Обычное кольцо морозного щита",
     "bel": "Звычайны пярсцёнак марознага шчыта",
@@ -39367,7 +39367,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingLightCopper",
-    "custom": "",
+    "custom": "Звычайны пярсцёнак святла",
     "en": "Base Ring of Light",
     "ru": "Обычное кольцо света",
     "bel": "Звычайны пярсцёнак святла",
@@ -39376,7 +39376,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingMundane",
-    "custom": "",
+    "custom": "Зямны пярсцёнак",
     "en": "Mundane Ring",
     "ru": "Земное кольцо",
     "bel": "Зямны пярсцёнак",
@@ -39385,7 +39385,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingNighteyeBrassTopaz",
-    "custom": "",
+    "custom": "Звычайны пярсцёнак начнога зроку",
     "en": "Base Ring of Nighteye",
     "ru": "Обычное кольцо ночного зрения",
     "bel": "Звычайны пярсцёнак начнога зроку",
@@ -39394,7 +39394,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingNighteyeCopperTopaz",
-    "custom": "",
+    "custom": "Пярсцёнак начнога зроку",
     "en": "Ring of Nighteye",
     "ru": "Кольцо ночного зрения",
     "bel": "Пярсцёнак начнога зроку",
@@ -39403,7 +39403,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingNighteyeJadeTopaz",
-    "custom": "",
+    "custom": "Вялікі пярсцёнак начнога зроку",
     "en": "Grand Ring of Nighteye",
     "ru": "Великое кольцо ночного зрения",
     "bel": "Вялікі пярсцёнак начнога зроку",
@@ -39412,7 +39412,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingReflectDamageGold",
-    "custom": "",
+    "custom": "Звычайны пярсцёнак адплаты",
     "en": "Base Ring of Retribution",
     "ru": "Обычное кольцо возмездия",
     "bel": "Звычайны пярсцёнак адплаты",
@@ -39421,7 +39421,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingResistDiseaseJade",
-    "custom": "",
+    "custom": "Звычайны пярсцёнак стойкасці",
     "en": "Base Ring of Fortitude",
     "ru": "Обычное кольцо стойкости",
     "bel": "Звычайны пярсцёнак стойкасці",
@@ -39430,7 +39430,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingResistDiseaseJadeRuby",
-    "custom": "",
+    "custom": "Вялікі пярсцёнак стойкасці",
     "en": "Grand Ring of Fortitude",
     "ru": "Великое кольцо стойкости",
     "bel": "Вялікі пярсцёнак стойкасці",
@@ -39439,7 +39439,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingResistFireBrass",
-    "custom": "",
+    "custom": "Звычайны пярсцёнак хаджэння па агні",
     "en": "Base Ring of Firewalking",
     "ru": "Обычное кольцо хождения по огню",
     "bel": "Звычайны пярсцёнак хаджэння па агні",
@@ -39448,7 +39448,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingResistFireBrassTopaz",
-    "custom": "",
+    "custom": "Вялікі пярсцёнак хаджэння па агні",
     "en": "Grand Ring of Firewalking",
     "ru": "Великое кольцо хождения по огню",
     "bel": "Вялікае кальцо хаджэння па агню",
@@ -39457,7 +39457,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingResistFrostSilver",
-    "custom": "",
+    "custom": "Звычайны пярсцёнак поўначы",
     "en": "Base Ring of the North",
     "ru": "Обычное кольцо севера",
     "bel": "Звычайнае кальцо поўначы",
@@ -39466,7 +39466,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingResistFrostSilverRuby",
-    "custom": "",
+    "custom": "Пярсцёнак поўначы",
     "en": "Ring of the North",
     "ru": "Кольцо севера",
     "bel": "Кальцо поўначы",
@@ -39475,7 +39475,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingResistFrostSilverSapphire",
-    "custom": "",
+    "custom": "Вялікі пярсцёнак поўначы",
     "en": "Grand Ring of the North",
     "ru": "Великое кольцо севера",
     "bel": "Вялікае кальцо поўначы",
@@ -39484,7 +39484,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingResistMagickaEbony",
-    "custom": "",
+    "custom": "Звычайны пярсцёнак нігілізму",
     "en": "Base Ring of Nihilism",
     "ru": "Обычное кольцо нигилизма",
     "bel": "Звычайнае кальцо нігілізму",
@@ -39493,7 +39493,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingResistMagickaEbonyDiamond",
-    "custom": "",
+    "custom": "Вялікі пярсцёнак нігілізму",
     "en": "Grand Ring of Nihilism",
     "ru": "Великое кольцо нигилизма",
     "bel": "Вялікае кальцо нігілізму",
@@ -39502,7 +39502,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingResistMagickaEbonyEmerald",
-    "custom": "",
+    "custom": "Пярсцёнак нігілізму",
     "en": "Ring of Nihilism",
     "ru": "Кольцо нигилизма",
     "bel": "Кальцо нігілізму",
@@ -39511,7 +39511,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingResistNormalWeaponsGold",
-    "custom": "",
+    "custom": "Звычайны пярсцёнак стальной скуры",
     "en": "Base Ring of Steelskin",
     "ru": "Обычное кольцо стальной кожи",
     "bel": "Звычайнае кальцо стальной скуры",
@@ -39520,7 +39520,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingResistNormalWeaponsGoldEmerald",
-    "custom": "",
+    "custom": "Вялікі пярсцёнак стальной скуры",
     "en": "Grand Ring of Steelskin",
     "ru": "Великое кольцо стальной кожи",
     "bel": "Вялікае кальцо стальной скуры",
@@ -39529,7 +39529,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingResistNormalWeaponsGoldSapphire",
-    "custom": "",
+    "custom": "Пярсцёнак сталёвай скуры",
     "en": "Ring of Steelskin",
     "ru": "Кольцо стальной кожи",
     "bel": "Кальцо стальной скуры",
@@ -39538,7 +39538,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingResistParalysisGoldSapphire",
-    "custom": "",
+    "custom": "Вялікае кальцо свабоды",
     "en": "Grand Ring of Freedom",
     "ru": "Великое кольцо свободы",
     "bel": "Вялікае кальцо свабоды",
@@ -39547,7 +39547,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingResistParalysisJadeSapphire",
-    "custom": "",
+    "custom": "Звычайнае кальцо свабоды",
     "en": "Base Ring of Freedom",
     "ru": "Обычное кольцо свободы",
     "bel": "Звычайнае кальцо свабоды",
@@ -39556,7 +39556,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingResistParalysisSilverSapphire",
-    "custom": "",
+    "custom": "Кальцо свабоды",
     "en": "Ring of Freedom",
     "ru": "Кольцо свободы",
     "bel": "Кальцо свабоды",
@@ -39565,7 +39565,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingResistPoisonEbonyEmerald",
-    "custom": "",
+    "custom": "Вялікае кальцо гадзюкі",
     "en": "Grand Ring of the Viper",
     "ru": "Великое кольцо гадюки",
     "bel": "Вялікае кальцо гадзюкі",
@@ -39574,7 +39574,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingResistPoisonGoldEmerald",
-    "custom": "",
+    "custom": "Кальцо гадзюкі",
     "en": "Ring of the Viper",
     "ru": "Кольцо гадюки",
     "bel": "Кальцо гадзюкі",
@@ -39583,7 +39583,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingResistPoisonSilverEmerald",
-    "custom": "",
+    "custom": "Звычайнае кальцо гадзюкі",
     "en": "Base Ring of the Viper",
     "ru": "Обычное кольцо гадюки",
     "bel": "Звычайнае кальцо гадзюкі",
@@ -39592,7 +39592,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingResistShockCopper",
-    "custom": "",
+    "custom": "Звычайнае кальцо навальніц",
     "en": "Base Ring of Storms",
     "ru": "Обычное кольцо гроз",
     "bel": "Звычайнае кальцо навальніц",
@@ -39601,7 +39601,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingResistShockCopperPearl",
-    "custom": "",
+    "custom": "Кальцо навальніц",
     "en": "Ring of Storms",
     "ru": "Кольцо гроз",
     "bel": "Кальцо навальніц",
@@ -39610,7 +39610,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingResistShockCopperTopaz",
-    "custom": "",
+    "custom": "Вялікае кальцо навальніц",
     "en": "Grand Ring of Storms",
     "ru": "Великое кольцо гроз",
     "bel": "Вялікае кальцо навальніц",
@@ -39619,7 +39619,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingShieldCopper",
-    "custom": "",
+    "custom": "Звычайнае кальцо эгіды",
     "en": "Base Ring of Aegis",
     "ru": "Обычное кольцо эгиды",
     "bel": "Звычайнае кальцо эгіды",
@@ -39628,7 +39628,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingShieldCopperPearl",
-    "custom": "",
+    "custom": "Кальцо эгіды",
     "en": "Ring of Aegis",
     "ru": "Кольцо эгиды",
     "bel": "Кальцо эгіды",
@@ -39637,7 +39637,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingShieldCopperTopaz",
-    "custom": "",
+    "custom": "Вялікае кальцо эгіды",
     "en": "Grand Ring of Aegis",
     "ru": "Великое кольцо эгиды",
     "bel": "Вялікае кальцо эгіды",
@@ -39646,7 +39646,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingShockShieldCopper",
-    "custom": "",
+    "custom": "Звычайнае кальцо шчыта маланкі",
     "en": "Base Ring of Shock Shield",
     "ru": "Обычное кольцо щита молний",
     "bel": "Звычайнае кальцо шчыта маланкі",
@@ -39655,7 +39655,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingShockShieldCopperPearl",
-    "custom": "",
+    "custom": "Кальцо шчыта маланкі",
     "en": "Ring of Shock Shield",
     "ru": "Кольцо щита молний",
     "bel": "Кальцо шчыта маланкі",
@@ -39664,7 +39664,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingShockShieldCopperTopaz",
-    "custom": "",
+    "custom": "Вялікае кальцо шчыта маланкі",
     "en": "Grand Ring of Shock Shield",
     "ru": "Великое кольцо щита молний",
     "bel": "Вялікае кальцо шчыта маланкі",
@@ -39673,7 +39673,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingSorcerers",
-    "custom": "",
+    "custom": "Кальцо чарадзея",
     "en": "Sorcerer's Ring",
     "ru": "Кольцо чародея",
     "bel": "Кальцо чарадзея",
@@ -39682,7 +39682,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingStorm",
-    "custom": "",
+    "custom": "Навальнічнае кальцо",
     "en": "Storm Ring",
     "ru": "Грозовое кольцо",
     "bel": "Навальнічнае кальцо",
@@ -39691,7 +39691,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingofPerfection",
-    "custom": "",
+    "custom": "Пярсцёнак завершанасці",
     "en": "Ring of Perfection",
     "ru": "Кольцо завершенности",
     "bel": "Пярсцёнак завершанасці",
@@ -39700,7 +39700,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingofStamina",
-    "custom": "",
+    "custom": "Пярсцёнак стойкасці",
     "en": "Ring of Stamina",
     "ru": "Кольцо стойкости",
     "bel": "Пярсцёнак стойкасці",
@@ -39709,7 +39709,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingofThieves",
-    "custom": "",
+    "custom": "Пярсцёнак злодзеяў",
     "en": "Ring of Thieves",
     "ru": "Кольцо воров",
     "bel": "Пярсцёнак злодзеяў",
@@ -39718,7 +39718,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingofTreachery",
-    "custom": "",
+    "custom": "Пярсцёнак вераломства",
     "en": "Ring of Treachery",
     "ru": "Кольцо вероломства",
     "bel": "Пярсцёнак вераломства",
@@ -39727,7 +39727,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchRingofWizardry",
-    "custom": "",
+    "custom": "Пярсцёнак чараў",
     "en": "Ring of Wizardry",
     "ru": "Кольцо чар",
     "bel": "Пярсцёнак чараў",
@@ -39736,7 +39736,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverBattleAxeDispel",
-    "custom": "",
+    "custom": "Сякера рассейвання",
     "en": "Battle-Axe of Dispel",
     "ru": "Секира рассеивания",
     "bel": "Сякера рассейвання",
@@ -39745,7 +39745,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverBattleAxeDraMagicka",
-    "custom": "",
+    "custom": "Сякера высушвання",
     "en": "Battle-Axe of Sapping",
     "ru": "Секира иссушения",
     "bel": "Сякера высушвання",
@@ -39754,7 +39754,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverBattleaxeAbsMagicka",
-    "custom": "",
+    "custom": "Сякера знясілення",
     "en": "Battle-Axe of Depletion",
     "ru": "Секира истощения",
     "bel": "Сякера знясілення",
@@ -39763,7 +39763,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverBattleaxeDamMagicka",
-    "custom": "",
+    "custom": "Сякера сурокаў",
     "en": "Battle-Axe of Jinxing",
     "ru": "Секира сглаза",
     "bel": "Сякера сурокаў",
@@ -39772,7 +39772,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverClaymoreAbsMagicka",
-    "custom": "",
+    "custom": "Клеймора знясілення",
     "en": "Claymore of Depletion",
     "ru": "Клеймора истощения",
     "bel": "Клеймора знясілення",
@@ -39781,7 +39781,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverClaymoreDamMagicka",
-    "custom": "",
+    "custom": "Клеймора сурокаў",
     "en": "Claymore of Jinxing",
     "ru": "Клеймора сглаза",
     "bel": "Клеймора сурокаў",
@@ -39790,7 +39790,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverClaymoreDispel",
-    "custom": "",
+    "custom": "Клеймора рассейвання",
     "en": "Claymore of Dispel",
     "ru": "Клеймора рассеивания",
     "bel": "Клеймора рассейвання",
@@ -39799,7 +39799,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverClaymoreDraMagicka",
-    "custom": "",
+    "custom": "Клеймора высушвання",
     "en": "Claymore of Sapping",
     "ru": "Клеймора иссушения",
     "bel": "Клеймора высушвання",
@@ -39808,7 +39808,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverDaggerAbsMagicka",
-    "custom": "",
+    "custom": "Кінжал знясілення",
     "en": "Dagger of Depletion",
     "ru": "Кинжал истощения",
     "bel": "Кінжал знясілення",
@@ -39817,7 +39817,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverDaggerDamMagicka",
-    "custom": "",
+    "custom": "Кінжал сурокаў",
     "en": "Dagger of Jinxing",
     "ru": "Кинжал сглаза",
     "bel": "Кінжал сурокаў",
@@ -39826,7 +39826,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverDaggerDispel",
-    "custom": "",
+    "custom": "Кінжал рассейвання",
     "en": "Dagger of Dispel",
     "ru": "Кинжал рассеивания",
     "bel": "Кінжал рассейвання",
@@ -39835,7 +39835,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverDaggerDraMagicka",
-    "custom": "",
+    "custom": "Кінжал высушвання",
     "en": "Dagger of Sapping",
     "ru": "Кинжал иссушения",
     "bel": "Кінжал высушвання",
@@ -39844,7 +39844,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverLongswordDamMagicka",
-    "custom": "",
+    "custom": "Доўгі меч сурокаў",
     "en": "Longsword of Jinxing",
     "ru": "Длинный меч сглаза",
     "bel": "Доўгі меч сурокаў",
@@ -39853,7 +39853,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverLongswordDraMagicka",
-    "custom": "",
+    "custom": "Доўгі меч высушвання",
     "en": "Longsword of Sapping",
     "ru": "Длинный меч иссушения",
     "bel": "Доўгі меч высушвання",
@@ -39862,7 +39862,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverMaceDamMagicka",
-    "custom": "",
+    "custom": "Булава сурокаў",
     "en": "Mace of Jinxing",
     "ru": "Булава сглаза",
     "bel": "Булава сурокаў",
@@ -39871,7 +39871,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverMaceDraMagicka",
-    "custom": "",
+    "custom": "Булава высушвання",
     "en": "Mace of Sapping",
     "ru": "Булава иссушения",
     "bel": "Булава высушвання",
@@ -39880,7 +39880,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverShortswordDamMagicka",
-    "custom": "",
+    "custom": "Кароткі меч сурокаў",
     "en": "Shortsword of Jinxing",
     "ru": "Короткий меч сглаза",
     "bel": "Кароткі меч сурокаў",
@@ -39889,7 +39889,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverShortswordDispel",
-    "custom": "",
+    "custom": "Кароткі меч рассейвання",
     "en": "Shortsword of Dispel",
     "ru": "Короткий меч рассеивания",
     "bel": "Кароткі меч рассейвання",
@@ -39898,7 +39898,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverShortswordDraMagicka",
-    "custom": "",
+    "custom": "Кароткі меч высушвання",
     "en": "Shortsword of Sapping",
     "ru": "Короткий меч иссушения",
     "bel": "Кароткі меч высушвання",
@@ -39907,7 +39907,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverWarAxeDispel",
-    "custom": "",
+    "custom": "Сякера рассейвання",
     "en": "War Axe of Dispel",
     "ru": "Топор рассеивания",
     "bel": "Сякера рассейвання",
@@ -39916,7 +39916,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverWarAxeGhost",
-    "custom": "",
+    "custom": "Прывідная сякера",
     "en": "Ghost Axe",
     "ru": "Призрачный топор",
     "bel": "Прывідная сякера",
@@ -39925,7 +39925,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverWaraxeAbsMagicka",
-    "custom": "",
+    "custom": "Сякера знясілення",
     "en": "War Axe of Depletion",
     "ru": "Топор истощения",
     "bel": "Сякера знясілення",
@@ -39934,7 +39934,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverWaraxeDamMagicka",
-    "custom": "",
+    "custom": "Сякера сурокаў",
     "en": "War Axe of Jinxing",
     "ru": "Топор сглаза",
     "bel": "Сякера сурокаў",
@@ -39943,7 +39943,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverWaraxeDraMagicka",
-    "custom": "",
+    "custom": "Сякера высушвання",
     "en": "War Axe of Sapping",
     "ru": "Топор иссушения",
     "bel": "Сякера высушвання",
@@ -39952,7 +39952,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverWarhammerAbsMagicka",
-    "custom": "",
+    "custom": "Баявы молат знясілення",
     "en": "Warhammer of Depletion",
     "ru": "Боевой молот истощения",
     "bel": "Баявы молат знясілення",
@@ -39961,7 +39961,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverWarhammerDamMagicka",
-    "custom": "",
+    "custom": "Баявы молат сурокаў",
     "en": "Warhammer of Jinxing",
     "ru": "Боевой молот сглаза",
     "bel": "Баявы молат сурокаў",
@@ -39970,7 +39970,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverWarhammerDispel",
-    "custom": "",
+    "custom": "Баявы молат рассейвання",
     "en": "Warhammer of Dispel",
     "ru": "Боевой молот рассеивания",
     "bel": "Баявы молат рассейвання",
@@ -39979,7 +39979,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSilverWarhammerDraMagicka",
-    "custom": "",
+    "custom": "Баявы молат высушвання",
     "en": "Warhammer of Sapping",
     "ru": "Боевой молот иссушения",
     "bel": "Баявы молат высушвання",
@@ -39988,7 +39988,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelBattleAxeDraEndurance",
-    "custom": "",
+    "custom": "Сякера памяншэння",
     "en": "Battle-Axe of Diminishing",
     "ru": "Секира уменьшения",
     "bel": "Сякера памяншэння",
@@ -39997,7 +39997,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelBattleAxeEmber",
-    "custom": "",
+    "custom": "Якасная сякера тлення",
     "en": "Quality Battle-Axe Ember",
     "ru": "Качественная секира тления",
     "bel": "Якасная сякера тлення",
@@ -40006,7 +40006,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelBattleAxeShiver",
-    "custom": "",
+    "custom": "Якасная сякера дрыжыкаў",
     "en": "Quality Battle-Axe Shiver",
     "ru": "Качественная секира дрожи",
     "bel": "Якасная сякера дрыжыкаў",
@@ -40015,7 +40015,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelBattleAxeSoulTrap",
-    "custom": "",
+    "custom": "Якасная сякера пасткі душ",
     "en": "Quality Battle-Axe Soul Trap",
     "ru": "Качественная секира ловушки душ",
     "bel": "Якасная сякера пасткі душ",
@@ -40024,7 +40024,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelBattleAxeSpark",
-    "custom": "",
+    "custom": "Якасная сякера іскраў",
     "en": "Quality Battle-Axe Spark",
     "ru": "Качественная секира искр",
     "bel": "Якасная сякера іскраў",
@@ -40033,7 +40033,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelBootsFeather",
-    "custom": "",
+    "custom": "Боты палягчэння цяжару",
     "en": "Boots of the Unburdened",
     "ru": "Сапоги облегчения бремени",
     "bel": "Боты палягчэння цяжару",
@@ -40042,7 +40042,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelBootsFortAthletics",
-    "custom": "",
+    "custom": "Боты вястуна",
     "en": "Boots of the Harbinger",
     "ru": "Сапоги вестника",
     "bel": "Боты вястуна",
@@ -40051,7 +40051,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelBowSpark",
-    "custom": "",
+    "custom": "Лук страсянення",
     "en": "Bow of Jolts",
     "ru": "Лук встряски",
     "bel": "Лук страсянення",
@@ -40060,7 +40060,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelClaymoreEmber",
-    "custom": "",
+    "custom": "Клеймора гарэння",
     "en": "Claymore of Burning",
     "ru": "Клеймора горения",
     "bel": "Клеймора гарэння",
@@ -40069,7 +40069,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelClaymoreShiver",
-    "custom": "",
+    "custom": "Клеймора здранцвення",
     "en": "Claymore of Numbing",
     "ru": "Клеймора онемения",
     "bel": "Клеймора здранцвення",
@@ -40078,7 +40078,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelClaymoreSpark",
-    "custom": "",
+    "custom": "Клеймора страсянення",
     "en": "Claymore of Jolts",
     "ru": "Клеймора встряски",
     "bel": "Клеймора страсянення",
@@ -40087,7 +40087,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelCuirassFortEndurance",
-    "custom": "",
+    "custom": "Кіраса аднаўлення",
     "en": "Cuirass of Resilience",
     "ru": "Кираса восстановления",
     "bel": "Кіраса аднаўлення",
@@ -40096,7 +40096,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelCuirassFortHealth",
-    "custom": "",
+    "custom": "Кіраса герольда",
     "en": "Cuirass of the Herald",
     "ru": "Кираса герольда",
     "bel": "Кіраса герольда",
@@ -40105,7 +40105,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelCuirassResistNormalWeapons",
-    "custom": "",
+    "custom": "Кіраса пасла",
     "en": "Ambassador's Cuirass",
     "ru": "Кираса посла",
     "bel": "Кіраса пасла",
@@ -40114,7 +40114,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelDaggerDraIntelligence",
-    "custom": "",
+    "custom": "Кінжал памяншэння",
     "en": "Dagger of Diminishing",
     "ru": "Кинжал уменьшения",
     "bel": "Кінжал памяншэння",
@@ -40123,7 +40123,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelDaggerSpark",
-    "custom": "",
+    "custom": "Кінжал страсянення",
     "en": "Dagger of Jolts",
     "ru": "Кинжал встряски",
     "bel": "Кінжал страсянення",
@@ -40132,7 +40132,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelGauntletsDetectLife",
-    "custom": "",
+    "custom": "Пячаткі паляўнічага на злодзеяў",
     "en": "Thiefhunter's Gauntlets",
     "ru": "Перчатки охотника на воров",
     "bel": "Пячаткі паляўнічага на злодзеяў",
@@ -40141,7 +40141,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelGauntletsFortArmorer",
-    "custom": "",
+    "custom": "Пячаткі майстра-каваля",
     "en": "Forgemaster's Gauntlets",
     "ru": "Перчатки мастера-кузнеца",
     "bel": "Пячаткі майстра-каваля",
@@ -40150,7 +40150,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelGauntletsFortHandtoHand",
-    "custom": "",
+    "custom": "Пячаткі гладыятара",
     "en": "Gauntlets of the Gladiator",
     "ru": "Перчатки гладиатора",
     "bel": "Пячаткі гладыятара",
@@ -40159,7 +40159,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelGauntletsFortStrength",
-    "custom": "",
+    "custom": "Пячаткі магутнасці",
     "en": "Gauntlets of Potence",
     "ru": "Перчатки могущества",
     "bel": "Пячаткі магутнасці",
@@ -40168,7 +40168,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelGauntletsResistFrost",
-    "custom": "",
+    "custom": "Пячаткі поўначы",
     "en": "Gauntlets of the North",
     "ru": "Перчатки севера",
     "bel": "Пячаткі поўначы",
@@ -40177,7 +40177,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelGauntletsWeaponmaster",
-    "custom": "",
+    "custom": "Пячаткі збройніка",
     "en": "Gauntlets of the Weaponmaster",
     "ru": "Перчатки оружейника",
     "bel": "Пячаткі збройніка",
@@ -40186,7 +40186,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelGreavesResistFire",
-    "custom": "",
+    "custom": "Нажныя латы полымя",
     "en": "Greaves of the Flame",
     "ru": "Поножи пламени",
     "bel": "Нажныя латы полымя",
@@ -40195,7 +40195,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelHelmetFortMagicka",
-    "custom": "",
+    "custom": "Шлем улады",
     "en": "Helmet of Power",
     "ru": "Шлем власти",
     "bel": "Шлем улады",
@@ -40204,7 +40204,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelHelmetWaterbreathing",
-    "custom": "",
+    "custom": "Шлем глыбінь",
     "en": "Helmet of the Deep",
     "ru": "Шлем глубин",
     "bel": "Шлем глыбінь",
@@ -40213,7 +40213,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelLongswordSpark",
-    "custom": "",
+    "custom": "Доўгі меч страсянення",
     "en": "Longsword of Jolts",
     "ru": "Длинный меч встряски",
     "bel": "Доўгі меч страсянення",
@@ -40222,7 +40222,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelMaceBurden",
-    "custom": "",
+    "custom": "Булава нагрузкі",
     "en": "Mace of Strain",
     "ru": "Булава нагрузки",
     "bel": "Булава нагрузкі",
@@ -40231,7 +40231,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelMaceDraWillpower",
-    "custom": "",
+    "custom": "Булава памяншэння",
     "en": "Mace of Diminishing",
     "ru": "Булава уменьшения",
     "bel": "Булава памяншэння",
@@ -40240,7 +40240,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelMaceSpark",
-    "custom": "",
+    "custom": "Булава страсянення",
     "en": "Mace of Jolts",
     "ru": "Булава встряски",
     "bel": "Булава страсянення",
@@ -40249,7 +40249,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelMaceTurnUndead",
-    "custom": "",
+    "custom": "Булава абярэга",
     "en": "Mace of Warding",
     "ru": "Булава оберега",
     "bel": "Булава абярэга",
@@ -40258,7 +40258,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelShieldFireShield",
-    "custom": "",
+    "custom": "Шчыт гашэння агню",
     "en": "Extinguishing Shield",
     "ru": "Щит гашения огня",
     "bel": "Шчыт гашэння агню",
@@ -40267,7 +40267,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelShieldReflectDamage",
-    "custom": "",
+    "custom": "Шчыт боства",
     "en": "Shield of the Divine",
     "ru": "Щит божества",
     "bel": "Шчыт боства",
@@ -40276,7 +40276,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelShieldReflectSpell",
-    "custom": "",
+    "custom": "Шчыт інквізітара",
     "en": "Witchfinder's Shield",
     "ru": "Щит инквизитора",
     "bel": "Шчыт інквізітара",
@@ -40285,7 +40285,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelShieldShield",
-    "custom": "",
+    "custom": "Шчыт непераможнасці",
     "en": "Shield of the Undefeated",
     "ru": "Щит непобедимости",
     "bel": "Шчыт непераможнасці",
@@ -40294,7 +40294,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelShortswordSpark",
-    "custom": "",
+    "custom": "Кароткі меч страсянення",
     "en": "Shortsword of Jolts",
     "ru": "Короткий меч встряски",
     "bel": "Кароткі меч страсянення",
@@ -40303,7 +40303,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelWarAxeDraLuck",
-    "custom": "",
+    "custom": "Сякера памяншэння",
     "en": "War Axe of Diminishing",
     "ru": "Топор уменьшения",
     "bel": "Сякера памяншэння",
@@ -40312,7 +40312,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelWarAxeEmber",
-    "custom": "",
+    "custom": "Сякера гарэння",
     "en": "War Axe of Burning",
     "ru": "Топор горения",
     "bel": "Сякера гарэння",
@@ -40321,7 +40321,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelWarAxeShiver",
-    "custom": "",
+    "custom": "Сякера здранцвення",
     "en": "War Axe of Numbing",
     "ru": "Топор онемения",
     "bel": "Сякера здранцвення",
@@ -40330,7 +40330,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelWarAxeSoulTrap",
-    "custom": "",
+    "custom": "Сякера спакусы",
     "en": "War Axe of Seduction",
     "ru": "Топор обольщения",
     "bel": "Сякера спакусы",
@@ -40339,7 +40339,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelWarAxeSpark",
-    "custom": "",
+    "custom": "Сякера страсянення",
     "en": "War Axe of Jolts",
     "ru": "Топор встряски",
     "bel": "Сякера страсянення",
@@ -40348,7 +40348,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelWarhammerBurden",
-    "custom": "",
+    "custom": "Баявы молат нагрузкі",
     "en": "Warhammer of Strain",
     "ru": "Боевой молот нагрузки",
     "bel": "Баявы молат нагрузкі",
@@ -40357,7 +40357,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelWarhammerDraStrength",
-    "custom": "",
+    "custom": "Баявы молат памяншэння",
     "en": "Warhammer of Diminishing",
     "ru": "Боевой молот уменьшения",
     "bel": "Баявы молат памяншэння",
@@ -40366,7 +40366,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelWarhammerEmber",
-    "custom": "",
+    "custom": "Баявы молат гарэння",
     "en": "Warhammer of Burning",
     "ru": "Боевой молот горения",
     "bel": "Баявы молат гарэння",
@@ -40375,7 +40375,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelWarhammerShiver",
-    "custom": "",
+    "custom": "Баявы молат здранцвення",
     "en": "Warhammer of Numbing",
     "ru": "Боевой молот онемения",
     "bel": "Баявы молат здранцвення",
@@ -40384,7 +40384,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelWarhammerSpark",
-    "custom": "",
+    "custom": "Баявы молат страсянення",
     "en": "Warhammer of Jolts",
     "ru": "Боевой молот встряски",
     "bel": "Баявы молат страсянення",
@@ -40393,7 +40393,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnchSteelWarhammerTurnUndead",
-    "custom": "",
+    "custom": "Баявы молат абярэга",
     "en": "Warhammer of Warding",
     "ru": "Боевой молот оберега",
     "bel": "Баявы молат абярэга",
@@ -40402,7 +40402,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EndgameBattle",
-    "custom": "",
+    "custom": "Статуя ўвасаблення Акатоша",
     "en": "Statue of the Avatar of Akatosh",
     "ru": "Статуя воплощения Акатоша",
     "bel": "Статуя ўвасаблення Акатоша",
@@ -40411,7 +40411,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EnilrothFaction",
-    "custom": "",
+    "custom": "Кавалі - фракцыя аматараў Enilroth'а",
     "en": "Anvil - Enilroth lovers faction",
     "ru": "Кузнецы - фракция любителей Enilroth'а",
     "bel": "Кавалі - фракцыя аматараў Enilroth'а",
@@ -40420,7 +40420,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Enthrall",
-    "custom": "",
+    "custom": "Паняволенне",
     "en": "Enthrall",
     "ru": "Порабощение",
     "bel": "Паняволенне",
@@ -40429,7 +40429,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ErTeeus",
-    "custom": "",
+    "custom": "Эр-Тыус",
     "en": "Er-Teeus",
     "ru": "Эр-Тиус",
     "bel": "Эр-Тыус",
@@ -40438,7 +40438,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ErTeeusSOUL",
-    "custom": "",
+    "custom": "Душа Эр-Тыуса",
     "en": "Soul of Er-Teeus",
     "ru": "Душа Эр-Тиуса",
     "bel": "Душа Эр-Тыуса",
@@ -40447,7 +40447,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ErinaJeranus",
-    "custom": "",
+    "custom": "Эрына Джеранус",
     "en": "Erina Jeranus",
     "ru": "Эрина Джеранус",
     "bel": "Эрына Джеранус",
@@ -40456,7 +40456,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ErissareArenim",
-    "custom": "",
+    "custom": "Эрысара Аренім",
     "en": "Erissare Arenim",
     "ru": "Эриссара Ареним",
     "bel": "Эрысара Аренім",
@@ -40465,7 +40465,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ErlineLirrian",
-    "custom": "",
+    "custom": "Эрлін Ліррыян",
     "en": "Erline Lirrian",
     "ru": "Эрлин Лирриан",
     "bel": "Эрлін Ліррыян",
@@ -40474,7 +40474,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ErnestShirt",
-    "custom": "",
+    "custom": "Найлепшая кашуля Эрнэста",
     "en": "Ernest's Best Shirt",
     "ru": "Лучшая рубашка Эрнеста",
     "bel": "Найлепшая кашуля Эрнэста",
@@ -40483,7 +40483,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Errandil",
-    "custom": "",
+    "custom": "Эрандзіл",
     "en": "Errandil",
     "ru": "Эррандил",
     "bel": "Эранділ",
@@ -40492,7 +40492,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EstelleRenoit",
-    "custom": "",
+    "custom": "Эстэль Ренуа",
     "en": "Estelle Renoit",
     "ru": "Эстелль Ренуа",
     "bel": "Эстэль Ренуа",
@@ -40501,7 +40501,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EstelleRenoitKey",
-    "custom": "",
+    "custom": "Ключ Эстэль Ренуа",
     "en": "Estelle Renoit's Key",
     "ru": "Ключ Эстелль Ренуа",
     "bel": "Ключ Эстэль Ренуа",
@@ -40510,7 +40510,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EugalBelette",
-    "custom": "",
+    "custom": "Эугал Белетт",
     "en": "Eugal Belette",
     "ru": "Эугал Белетт",
     "bel": "Эугал Белетт",
@@ -40519,7 +40519,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EugalBeletteKey",
-    "custom": "",
+    "custom": "Ключ Эугала Белетта",
     "en": "Eugal Belette's Key",
     "ru": "Ключ Эугала Белетта",
     "bel": "Ключ Эугала Белетта",
@@ -40528,7 +40528,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EulogyArgonian",
-    "custom": "",
+    "custom": "Элегія Аргоніяніну",
     "en": "EulogyArgonian",
     "ru": "ПоминальнаяРечьАргонианина",
     "bel": "ПамінальнаяПрамоваАргоніаніна",
@@ -40537,7 +40537,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EulogyBreton",
-    "custom": "",
+    "custom": "Элегія Брэтонцу",
     "en": "EulogyBreton",
     "ru": "ПохвальноеСловоBreton",
     "bel": "ПахвальнаеСловаBreton",
@@ -40546,7 +40546,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EulogyDarkElf",
-    "custom": "",
+    "custom": "Элегія Цёмнаму Эльфу",
     "en": "EulogyDarkElf",
     "ru": "ТемныйЭльфEulogy",
     "bel": "ЦёмныЭльфEulogy",
@@ -40555,7 +40555,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EulogyHighElf",
-    "custom": "",
+    "custom": "Элегія Высокаму Эльфу",
     "en": "EulogyHighElf",
     "ru": "ПохвалаEulogyHighElf",
     "bel": "ПахвалаEulogyHighElf",
@@ -40564,7 +40564,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EulogyImperial",
-    "custom": "",
+    "custom": "Элегія Імперцу",
     "en": "EulogyImperial",
     "ru": "ПанегирикEulogyImperial",
     "bel": "ПанегірыкEulogyImperial",
@@ -40573,7 +40573,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EulogyKhajiit",
-    "custom": "",
+    "custom": "Элегія Хаджыту",
     "en": "EulogyKhajiit",
     "ru": "ПанихидаKhajiit",
     "bel": "ПаніхідаKhajiit",
@@ -40582,7 +40582,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EulogyNord",
-    "custom": "",
+    "custom": "Элегія Норду",
     "en": "EulogyNord",
     "ru": "ПохороннаяРечьNord",
     "bel": "ПахавальнаяПрамоваNord",
@@ -40591,7 +40591,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EulogyOrc",
-    "custom": "",
+    "custom": "Элегія Орку",
     "en": "EulogyOrc",
     "ru": "ПанихидаОрка",
     "bel": "ПаніхідаОрка",
@@ -40600,7 +40600,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EulogyRedguard",
-    "custom": "",
+    "custom": "Элегія Рэдгарду",
     "en": "EulogyRedguard",
     "ru": "ПанихидаRedguard",
     "bel": "ПаніхідаRedguard",
@@ -40609,7 +40609,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EulogyWoodElf",
-    "custom": "",
+    "custom": "Элегія Лясному Эльфу",
     "en": "EulogyWoodElf",
     "ru": "ПанегирикЛесномуЭльфу",
     "bel": "ПанегірыкЛясномуЭльфу",
@@ -40618,7 +40618,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EvangelineBeanique",
-    "custom": "",
+    "custom": "Евангеліна Беанік",
     "en": "Evangeline Beanique",
     "ru": "Евангелина Беаник",
     "bel": "Евангеліна Беанік",
@@ -40627,7 +40627,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EverscampFaction",
-    "custom": "",
+    "custom": "Фракцыя Everscamp",
     "en": "Everscamp Faction",
     "ru": "Фракция Everscamp",
     "bel": "Фракцыя Everscamp",
@@ -40636,7 +40636,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EverscampFaction_LEVEL0_F",
-    "custom": "",
+    "custom": "Сябар-жартаўнік",
     "en": "Scamp Friend",
     "ru": "Друг-проказник",
     "bel": "Сябар-жартаўнік",
@@ -40645,7 +40645,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EverscampFaction_LEVEL0_M",
-    "custom": "",
+    "custom": "Прыяцель-жартаўнік",
     "en": "Scamp Friend",
     "ru": "Приятель-проказник",
     "bel": "Прыяцель-жартаўнік",
@@ -40654,7 +40654,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EvilSolo",
-    "custom": "",
+    "custom": "Зло -- без сувязяў",
     "en": "Evil -- no affiliation",
     "ru": "Зло -- без связей",
     "bel": "Зло -- без сувязяў",
@@ -40663,7 +40663,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ExaltedPain",
-    "custom": "",
+    "custom": "Узвышаны Боль",
     "en": "Exalted Pain",
     "ru": "Возвышенная Боль",
     "bel": "Узвышаны Боль",
@@ -40672,7 +40672,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ExhaustedMine",
-    "custom": "",
+    "custom": "Выпрацаваная шахта",
     "en": "Exhausted Mine",
     "ru": "Выработанная шахта",
     "bel": "Выпрацаваная шахта",
@@ -40681,7 +40681,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ExhaustedMine02",
-    "custom": "",
+    "custom": "Выпрацаваная шахта - Пустая парода",
     "en": "Exhausted Mine Spent Works",
     "ru": "Выработанная шахта - Пустая порода",
     "bel": "Выпрацаваная шахта - Пустая парода",
@@ -40690,7 +40690,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ExhaustedMine03",
-    "custom": "",
+    "custom": "Выпрацаваная шахта - Ніжняя частка",
     "en": "Exhausted Mine Bottom Section",
     "ru": "Выработанная шахта - Нижняя часть",
     "bel": "Выпрацаваная шахта - Ніжняя частка",
@@ -40699,7 +40699,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ExtremeCalm",
-    "custom": "",
+    "custom": "Абсалютны спакой",
     "en": "Extreme Calm",
     "ru": "Абсолютное спокойствие",
     "bel": "Абсалютны спакой",
@@ -40708,7 +40708,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EyeGoldenSaint",
-    "custom": "",
+    "custom": "Залатая Святая",
     "en": "GoldenSaint",
     "ru": "Золотой святоша",
     "bel": "Залаты святоша",
@@ -40717,7 +40717,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EyeofNocturnalTOPIC",
-    "custom": "",
+    "custom": "Вока Накцюрнал",
     "en": "Eye of Nocturnal",
     "ru": "Глаз Ноктюрнал",
     "bel": "Вока Накцюрнал",
@@ -40726,7 +40726,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Eyja",
-    "custom": "",
+    "custom": "Эйджа",
     "en": "Eyja",
     "ru": "Эйджа",
     "bel": "Эйджа",
@@ -40735,7 +40735,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EyjaTopic",
-    "custom": "",
+    "custom": "Эйджа",
     "en": "Eyja",
     "ru": "Эйджа",
     "bel": "Эйджа",
@@ -40744,7 +40744,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FG00Expulsion",
-    "custom": "",
+    "custom": "Выгнанне з Гільдыі байцоў",
     "en": "Expelled from the Fighters Guild",
     "ru": "Изгнание из Гильдии бойцов",
     "bel": "Выгнанне з Гільдыі байцоў",
@@ -40753,7 +40753,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FG0xxxImpFluid",
-    "custom": "",
+    "custom": "Флюіды чорта",
     "en": "Imp Fluid",
     "ru": "Флюиды беса",
     "bel": "Флюіды чорта",
@@ -40762,7 +40762,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC01Choice1",
-    "custom": "",
+    "custom": "Там была пума.",
     "en": "It was a mountain lion.",
     "ru": "Там была пума.",
     "bel": "Там была пума.",
@@ -40771,7 +40771,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC01Choice3",
-    "custom": "",
+    "custom": "За гэтым стаіць Куіл-Вів.",
     "en": "Quill-Weave was behind it.",
     "ru": "За этим стоит Куилл-Вив.",
     "bel": "За гэтым стаіць Куіл-Вів.",
@@ -40780,7 +40780,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC01Choice4",
-    "custom": "",
+    "custom": "Яна не мае да гэтага дачынення.",
     "en": "She had nothing to do with it.",
     "ru": "Она не имеет к этому отношения.",
     "bel": "Яна не мае да гэтага дачынення.",
@@ -40789,7 +40789,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC01MountainLion",
-    "custom": "",
+    "custom": "Галодная пума",
     "en": "Starving Mountain Lion",
     "ru": "Голодная пума",
     "bel": "Галодная пума",
@@ -40798,7 +40798,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC01MountainLion2",
-    "custom": "",
+    "custom": "Галодная пума",
     "en": "Starving Mountain Lion",
     "ru": "Голодная пума",
     "bel": "Галодная пума",
@@ -40807,7 +40807,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC01MountainLion3",
-    "custom": "",
+    "custom": "Галодная пума",
     "en": "Starving Mountain Lion",
     "ru": "Голодная пума",
     "bel": "Галодная пума",
@@ -40816,7 +40816,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC02Protect",
-    "custom": "",
+    "custom": "Няўдалы гандляр",
     "en": "The Unfortunate Shopkeeper",
     "ru": "Неудачливый торговец",
     "bel": "Няўдалы гандляр",
@@ -40825,7 +40825,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC03Choice1",
-    "custom": "",
+    "custom": "Пачакай тут.",
     "en": "Wait here.",
     "ru": "Жди здесь.",
     "bel": "Чакай тут.",
@@ -40834,7 +40834,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC03Flagon",
-    "custom": "",
+    "custom": "Графін Ньюхейма",
     "en": "Newheim's Flagon",
     "ru": "Графин Ньюхейма",
     "bel": "Графін Ньюхейма",
@@ -40843,7 +40843,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC03HrotaThieves",
-    "custom": "",
+    "custom": "FGC03: Зладзеі з Хроты",
     "en": "FGC03 Hrota Thieves",
     "ru": "FGC03 Hrota Thieves -> FGC03: Воры из Хроты",
     "bel": "FGC03 Hrota Thieves -> FGC03: Зладзеі з Хроты",
@@ -40852,7 +40852,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC03NewheimBeer",
-    "custom": "",
+    "custom": "Асаблівае варыва Ньюхейма",
     "en": "Newheim's Special Brew",
     "ru": "Особое варево Ньюхейма",
     "bel": "Асаблівае варыва Ньюхейма",
@@ -40861,7 +40861,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC03Tankard",
-    "custom": "",
+    "custom": "Фамільны скарб Ньюхейма",
     "en": "Newheim's Heirloom",
     "ru": "Фамильное сокровище Ньюхейма",
     "bel": "Фамільны скарб Ньюхейма",
@@ -40870,7 +40870,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC03Thieves",
-    "custom": "",
+    "custom": "Берлога злодзеяў",
     "en": "Den of Thieves",
     "ru": "Логово воров",
     "bel": "Берлога злодзеяў",
@@ -40879,7 +40879,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC06Courier",
-    "custom": "",
+    "custom": "Запушчаная шахта",
     "en": "The Desolate Mine",
     "ru": "Запущенная шахта",
     "bel": "Запушчаная шахта",
@@ -40888,7 +40888,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC06DeadMiner1",
-    "custom": "",
+    "custom": "Рудакоп",
     "en": "Miner",
     "ru": "Рудокоп",
     "bel": "Рудакоп",
@@ -40897,7 +40897,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC06DeadMiner2",
-    "custom": "",
+    "custom": "Рудакоп",
     "en": "Miner",
     "ru": "Рудокоп",
     "bel": "Рудакоп",
@@ -40906,7 +40906,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC06Goblin",
-    "custom": "",
+    "custom": "Люты гоблін",
     "en": "Savage Goblin",
     "ru": "Свирепый гоблин",
     "bel": "Люты гоблін",
@@ -40915,7 +40915,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC06GoblinBoss",
-    "custom": "",
+    "custom": "Люты гоблін",
     "en": "Savage Goblin",
     "ru": "Свирепый гоблин",
     "bel": "Люты гоблін",
@@ -40924,7 +40924,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC06WeapSteelBow",
-    "custom": "",
+    "custom": "Сталёвы лук",
     "en": "Steel Bow",
     "ru": "Стальной лук",
     "bel": "Стальны лук",
@@ -40933,7 +40933,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC06WeapSteelLongsword",
-    "custom": "",
+    "custom": "Сталёвы доўгі меч",
     "en": "Steel Longsword",
     "ru": "Стальной длинный меч",
     "bel": "Стальны доўгі меч",
@@ -40942,7 +40942,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC06WeapSteelWarhammer",
-    "custom": "",
+    "custom": "Стальны баявы молат",
     "en": "Steel Warhammer",
     "ru": "Стальной боевой молот",
     "bel": "Стальны баявы молат",
@@ -40951,7 +40951,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC07AmelionBoots",
-    "custom": "",
+    "custom": "Боты Брузефа Амеліёна",
     "en": "Brusef Amelion's Boots",
     "ru": "Сапоги Брюзефа Амелиона",
     "bel": "Боты Брузефа Амеліёна",
@@ -40960,7 +40960,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC07AmelionCuirass",
-    "custom": "",
+    "custom": "Кіраса Брузефа Амеліёна",
     "en": "Brusef Amelion's Cuirass",
     "ru": "Кираса Брюзефа Амелиона",
     "bel": "Кіраса Брузефа Амеліёна",
@@ -40969,7 +40969,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC07AmelionGauntlets",
-    "custom": "",
+    "custom": "Рукавіцы Брузефа Амеліёна",
     "en": "Brusef Amelion's Gauntlets",
     "ru": "Перчатки Брюзефа Амелиона",
     "bel": "Рукавіцы Брузефа Амеліёна",
@@ -40978,7 +40978,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC07AmelionGreaves",
-    "custom": "",
+    "custom": "Нагавіцы Брузефа Амеліёна",
     "en": "Brusef Amelion's Greaves",
     "ru": "Поножи Брюзефа Амелиона",
     "bel": "Нагавіцы Брузефа Амеліёна",
@@ -40987,7 +40987,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC07AmelionHelmet",
-    "custom": "",
+    "custom": "Шлем Брузефа Амеліёна",
     "en": "Brusef Amelion's Helmet",
     "ru": "Шлем Брюзефа Амелиона",
     "bel": "Шлем Брузефа Амеліёна",
@@ -40996,7 +40996,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC07AmelionShield",
-    "custom": "",
+    "custom": "Шчыт Брузефа Амеліёна",
     "en": "Brusef Amelion's Shield",
     "ru": "Щит Брюзефа Амелиона",
     "bel": "Шчыт Брузефа Амеліёна",
@@ -41005,7 +41005,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC07AmelionSword",
-    "custom": "",
+    "custom": "Меч Брузефа Амеліёна",
     "en": "Brusef Amelion's Sword",
     "ru": "Меч Брюзефа Амелиона",
     "bel": "Меч Брузефа Амеліёна",
@@ -41014,7 +41014,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC07Choice2",
-    "custom": "",
+    "custom": "Які памер доўгу?",
     "en": "How much is the debt?",
     "ru": "Каков размер долга?",
     "bel": "Які памер доўгу?",
@@ -41023,7 +41023,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC07Choice3",
-    "custom": "",
+    "custom": "Дзе знаходзяцца гэты меч і даспехі?",
     "en": "Where are the sword and armor?",
     "ru": "Где находятся эти меч и доспехи?",
     "bel": "Дзе знаходзяцца гэты меч і даспехі?",
@@ -41032,7 +41032,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC07Choice4",
-    "custom": "",
+    "custom": "Вазьмі гэтыя грошы, каб аддаць даўгі.",
     "en": "Take this money for your debt.",
     "ru": "Возьми эти деньги, чтобы отдать долги.",
     "bel": "Вазьмі гэтыя грошы, каб аддаць даўгі.",
@@ -41041,7 +41041,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC07Choice6",
-    "custom": "",
+    "custom": "Вазьмі гэтыя грошы, каб аддаць даўгі.",
     "en": "Take this money for your debt.",
     "ru": "Возьми эти деньги, чтобы отдать долги.",
     "bel": "Вазьмі гэтыя грошы, каб аддаць даўгі.",
@@ -41059,7 +41059,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC09Ogres",
-    "custom": "",
+    "custom": "Дачка арыстакрата",
     "en": "The Noble's Daughter",
     "ru": "Дочь аристократа",
     "bel": "Дачка арыстакрата",
@@ -41068,7 +41068,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC10HarlunRing10",
-    "custom": "",
+    "custom": "Пярсцёнак душы і цела",
     "en": "Mind and Body Ring",
     "ru": "Кольцо души и тела",
     "bel": "Пярсцёнак душы і цела",
@@ -41077,7 +41077,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC10HarlunRing20",
-    "custom": "",
+    "custom": "Пярсцёнак душы і цела",
     "en": "Mind and Body Ring",
     "ru": "Кольцо души и тела",
     "bel": "Пярсцёнак душы і цела",
@@ -41086,7 +41086,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC10HarlunRing30",
-    "custom": "",
+    "custom": "Пярсцёнак душы і цела",
     "en": "Mind and Body Ring",
     "ru": "Кольцо души и тела",
     "bel": "Пярсцёнак душы і цела",
@@ -41095,7 +41095,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGC10Swamp",
-    "custom": "",
+    "custom": "Таямніца заставы Харлана",
     "en": "Mystery at Harlun's Watch",
     "ru": "Тайна заставы Харлана",
     "bel": "Таямніца заставы Харлана",
@@ -41104,7 +41104,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGChampion",
-    "custom": "",
+    "custom": "Чэмпіён",
     "en": "Champion",
     "ru": "Воитель",
     "bel": "Ваяр",
@@ -41113,7 +41113,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD00JoinFG",
-    "custom": "",
+    "custom": "Уступ у Гільдыю байцоў",
     "en": "Join the Fighters Guild",
     "ru": "Вступление в Гильдию бойцов",
     "bel": "Уступ у Гільдыю байцоў",
@@ -41122,7 +41122,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD00PostQuest",
-    "custom": "",
+    "custom": "Завяршэнне FG PostQuest",
     "en": "FG PostQuest",
     "ru": "Завершение FG PostQuest",
     "bel": "Завяршэнне FG PostQuest",
@@ -41131,7 +41131,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD01Choice1",
-    "custom": "",
+    "custom": "Я скажу яму, што ты выканаў працу.",
     "en": "I'll tell him you did the job.",
     "ru": "Я скажу ему, что ты выполнил работу.",
     "bel": "Я скажу яму, што ты выканаў працу.",
@@ -41140,7 +41140,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD01Choice2",
-    "custom": "",
+    "custom": "Мне давядзецца далажыць аб тваім правале.",
     "en": "I'll need to report your failure.",
     "ru": "Мне придется доложить о твоем провале.",
     "bel": "Мне давядзецца далажыць аб тваім правале.",
@@ -41149,7 +41149,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD01Default",
-    "custom": "",
+    "custom": "Незакончаная справа",
     "en": "Unfinished Business",
     "ru": "Незаконченное дело",
     "bel": "Незакончаная справа",
@@ -41158,7 +41158,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD02Choice1",
-    "custom": "",
+    "custom": "Ты і твае людзі мусяць спыніцца.",
     "en": "You and your men must stop.",
     "ru": "Ты и твои люди должны прекратить.",
     "bel": "Ты і твае людзі мусяць спыніцца.",
@@ -41167,7 +41167,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD02Choice2",
-    "custom": "",
+    "custom": "Вам трэба працаваць, а не гультаяваць.",
     "en": "You need work to keep busy.",
     "ru": "Вам нужно работать, не бездельничать.",
     "bel": "Вам трэба працаваць, а не гультаяваць.",
@@ -41176,7 +41176,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD02Choice3",
-    "custom": "",
+    "custom": "Мне давядзецца далажыць пра гэта Арэйну.",
     "en": "Then I must report this to Oreyn.",
     "ru": "Мне придется доложить об этом Орейну.",
     "bel": "Мне давядзецца далажыць пра гэта Арэйну.",
@@ -41185,7 +41185,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD02DandD",
-    "custom": "",
+    "custom": "П'яныя і буйныя",
     "en": "Drunk and Disorderly",
     "ru": "Пьяные и буйные",
     "bel": "П'яныя і буйныя",
@@ -41194,7 +41194,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD02Insults",
-    "custom": "",
+    "custom": "Абразы FGD02",
     "en": "FGD02Insults",
     "ru": "Оскорбления FGD02",
     "bel": "Абразы FGD02",
@@ -41203,7 +41203,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD03BWCBlade",
-    "custom": "",
+    "custom": "Зламаны меч",
     "en": "Broken Sword",
     "ru": "Сломанный меч",
     "bel": "Зламаны меч",
@@ -41212,7 +41212,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD03Choice1",
-    "custom": "",
+    "custom": "Пара. Мы мусім адпраўляцца ў дарогу.",
     "en": "No time. We've got to go.",
     "ru": "Пора. Мы должны отправляться в путь.",
     "bel": "Пара. Мы мусім адпраўляцца ў дарогу.",
@@ -41221,7 +41221,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD03Choice3",
-    "custom": "",
+    "custom": "Там унутры былі істоты.",
     "en": "There were creatures inside.",
     "ru": "Там внутри были твари.",
     "bel": "Там унутры былі істоты.",
@@ -41230,7 +41230,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD03Choice4",
-    "custom": "",
+    "custom": "Гэты шчыт ляжаў побач з яго целам.",
     "en": "I found this shield near the corpse.",
     "ru": "Этот щит лежал рядом с его телом.",
     "bel": "Гэты шчыт ляжаў побач з яго целам.",
@@ -41239,7 +41239,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD03Choice6",
-    "custom": "",
+    "custom": "Што-небудзь яшчэ?",
     "en": "Anything else?",
     "ru": "Что-нибудь еще?",
     "bel": "Што-небудзь яшчэ?",
@@ -41248,7 +41248,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD03Viranus",
-    "custom": "",
+    "custom": "Сын кіраўніка Гільдыі",
     "en": "The Master's Son",
     "ru": "Сын главы Гильдии",
     "bel": "Сын кіраўніка Гільдыі",
@@ -41257,7 +41257,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD04Choice1",
-    "custom": "",
+    "custom": "Гэтую працу трэба выканаць.",
     "en": "The job needs to be completed.",
     "ru": "Эту работу нужно выполнить.",
     "bel": "Гэтую працу трэба выканаць.",
@@ -41266,7 +41266,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD04Choice2",
-    "custom": "",
+    "custom": "У цябе няма гонару.",
     "en": "You are without honor.",
     "ru": "У тебя нет чести.",
     "bel": "У цябе няма гонару.",
@@ -41275,7 +41275,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD04Choice3",
-    "custom": "",
+    "custom": "Раскажы пра кампанію \"Чорны лес\"",
     "en": "Talk about Blackwood Company",
     "ru": "Расскажи о компании \"Черный лес\"",
     "bel": "Раскажы пра кампанію \"Чорны лес\"",
@@ -41284,7 +41284,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD04Defector",
-    "custom": "",
+    "custom": "Яшчэ адна незакончаная справа",
     "en": "More Unfinished Business",
     "ru": "Еще одно незаконченное дело",
     "bel": "Яшчэ адна незакончаная справа",
@@ -41293,7 +41293,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD04ShieldRing10",
-    "custom": "",
+    "custom": "Пярсцёнак шчыта",
     "en": "Shield Ring",
     "ru": "Кольцо щита",
     "bel": "Пярсцёнак шчыта",
@@ -41302,7 +41302,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD04ShieldRing20",
-    "custom": "",
+    "custom": "Пярсцёнак шчыта",
     "en": "Shield Ring",
     "ru": "Кольцо щита",
     "bel": "Пярсцёнак шчыта",
@@ -41311,7 +41311,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD04ShieldRing30",
-    "custom": "",
+    "custom": "Пярсцёнак шчыта",
     "en": "Shield Ring",
     "ru": "Кольцо щита",
     "bel": "Пярсцёнак шчыта",
@@ -41320,7 +41320,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD04ShrineTEMP",
-    "custom": "",
+    "custom": "ЧАСОВАЯ СВЯТЫНЯ",
     "en": "TEMP SHRINE",
     "ru": "Временный SHRINE",
     "bel": "Часовы SHRINE",
@@ -41329,7 +41329,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD05AzaniRing",
-    "custom": "",
+    "custom": "Пярсцёнак Чарнасэрцага",
     "en": "Blackheart's Ring",
     "ru": "Кольцо Азани",
     "bel": "Пярсцёнак Азані",
@@ -41338,7 +41338,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD05BlackheartSword",
-    "custom": "",
+    "custom": "Павук Граху",
     "en": "Sinweaver",
     "ru": "Паук Греха",
     "bel": "Павук Граху",
@@ -41347,7 +41347,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD05Choice1",
-    "custom": "",
+    "custom": "І чаму ў іх усё так добра атрымліваецца?",
     "en": "Why are they so effective?",
     "ru": "И почему у них все так хорошо выходит?",
     "bel": "І чаму ў іх усё так добра атрымліваецца?",
@@ -41356,7 +41356,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD05Choice2",
-    "custom": "",
+    "custom": "Чаму мы не спыняем іх?",
     "en": "Why haven't we stopped them?",
     "ru": "Почему мы не останавливаем их?",
     "bel": "Чаму мы не спыняем іх?",
@@ -41365,7 +41365,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD05Choice3",
-    "custom": "",
+    "custom": "А кампанія \"Чорны лес\"...?",
     "en": "And the Blackwood Company...?",
     "ru": "А компания \"Черный лес\"...?",
     "bel": "А кампанія \"Чорны лес\"...?",
@@ -41374,7 +41374,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD05Choice4",
-    "custom": "",
+    "custom": "І што цяпер?",
     "en": "So, what now?",
     "ru": "И что теперь?",
     "bel": "І што цяпер?",
@@ -41383,7 +41383,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD05Choice5",
-    "custom": "",
+    "custom": "Я ў справе.",
     "en": "I'm in.",
     "ru": "Я в деле.",
     "bel": "Я ў справе.",
@@ -41392,7 +41392,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD05Choice6",
-    "custom": "",
+    "custom": "Я не буду рабіць гэтага.",
     "en": "I won't do it.",
     "ru": "Я не буду делать этого.",
     "bel": "Я не буду рабіць гэтага.",
@@ -41401,7 +41401,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD05Choice7",
-    "custom": "",
+    "custom": "Усё гатова. Пойдзем.",
     "en": "I'm ready. Let's go.",
     "ru": "Все готово. Пойдем.",
     "bel": "Усё гатова. Пойдзем.",
@@ -41410,7 +41410,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD05Choice9",
-    "custom": "",
+    "custom": "Што мы будзем рабіць цяпер?",
     "en": "What do we do now?",
     "ru": "Что мы будем делать теперь?",
     "bel": "Што мы будзем рабіць цяпер?",
@@ -41419,7 +41419,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD05Oreyn",
-    "custom": "",
+    "custom": "Азані Чарнасэрдны",
     "en": "Azani Blackheart",
     "ru": "Азани Черное Сердце",
     "bel": "Азані Чорнае Сэрца",
@@ -41428,7 +41428,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD06DeadGuy03",
-    "custom": "",
+    "custom": "Каргас Лафтрыус",
     "en": "Cargas Laftrius",
     "ru": "Каргас Лафтриус",
     "bel": "Каргас Лафтрыус",
@@ -41437,7 +41437,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD06DeadGuy05",
-    "custom": "",
+    "custom": "Арыента",
     "en": "Ariente",
     "ru": "Ариента",
     "bel": "Арыента",
@@ -41446,7 +41446,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD06ViranusJournal",
-    "custom": "",
+    "custom": "Акрываўлены дзённік",
     "en": "A Bloody Journal",
     "ru": "Окровавленный дневник",
     "bel": "Акрываўлены дзённік",
@@ -41455,7 +41455,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD07Choice2",
-    "custom": "",
+    "custom": "Наколькі вялікая кампанія \"Чорны лес\"?",
     "en": "How large is the Blackwood Company?",
     "ru": "Как велика компания \"Черный лес\"?",
     "bel": "Наколькі вялікая кампанія \"Чорны лес\"?",
@@ -41464,7 +41464,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD07Choice3",
-    "custom": "",
+    "custom": "Хто ўзначальвае кампанію \"Чорны лес\"?",
     "en": "Who leads the Blackwood Company?",
     "ru": "Кто возглавляет компанию \"Черный лес\"?",
     "bel": "Хто ўзначальвае кампанію \"Чорны лес\"?",
@@ -41473,7 +41473,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD07Choice4",
-    "custom": "",
+    "custom": "Раскажы мне пра сакрэт вашай сілы.",
     "en": "Tell me the secret of your strength.",
     "ru": "Расскажи мне о секрете вашей силы.",
     "bel": "Раскажы мне пра сакрэт вашай сілы.",
@@ -41482,7 +41482,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD07FireRing",
-    "custom": "",
+    "custom": "Пярсцёнак маўчання Чорнага Лесу",
     "en": "Blackwood Ring of Silence",
     "ru": "Кольцо безмолвия Черного Леса",
     "bel": "Пярсцёнак маўчання Чорнага Лесу",
@@ -41491,7 +41491,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD07InterrogationAmulet3",
-    "custom": "",
+    "custom": "Вялікі амулет допыту",
     "en": "Greater Amulet of Interrogation",
     "ru": "Великий амулет допроса",
     "bel": "Вялікі амулет допыту",
@@ -41500,7 +41500,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD08BWCTalk",
-    "custom": "",
+    "custom": "Размова з FGD08BWC",
     "en": "FGD08BWCTalk",
     "ru": "Разговор с FGD08BWC",
     "bel": "Размова з FGD08BWC",
@@ -41509,7 +41509,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD08Choice1",
-    "custom": "",
+    "custom": "У Гільдыі няма працы.",
     "en": "No jobs with the Guild.",
     "ru": "В Гильдии нет работы.",
     "bel": "У Гільдыі няма працы.",
@@ -41518,7 +41518,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD08Choice2",
-    "custom": "",
+    "custom": "Кажуць, у вас добра плацяць.",
     "en": "I heard the money is good.",
     "ru": "Говорят, у вас хорошо платят.",
     "bel": "Кажуць, у вас добра плацяць.",
@@ -41527,7 +41527,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD08Choice4",
-    "custom": "",
+    "custom": "Вы кантрабандай увозіце жывіцу хіста?",
     "en": "You smuggle Hist Sap?",
     "ru": "Вы контрабандой ввозите живицу хиста?",
     "bel": "Вы кантрабандай увозіце жывіцу хіста?",
@@ -41536,7 +41536,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD08Choice6",
-    "custom": "",
+    "custom": "Што тут здарылася?",
     "en": "What happened here?",
     "ru": "Что здесь произошло?",
     "bel": "Што тут адбылося?",
@@ -41545,7 +41545,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD08HistSap01",
-    "custom": "",
+    "custom": "Жывіца хіста",
     "en": "Hist Sap",
     "ru": "Живица хиста",
     "bel": "Жывіца хіста",
@@ -41554,7 +41554,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD08Infiltration",
-    "custom": "",
+    "custom": "Укараненне",
     "en": "Infiltration",
     "ru": "Внедрение",
     "bel": "Укараненне",
@@ -41563,7 +41563,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD08JeetumSpeech",
-    "custom": "",
+    "custom": "Прамова FGD08Jeetum",
     "en": "FGD08JeetumSpeech",
     "ru": "Речь FGD08Jeetum",
     "bel": "Прамова FGD08Jeetum",
@@ -41572,7 +41572,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD09BearclawHelm",
-    "custom": "",
+    "custom": "Шлем Арэйна Мядзведжы Кіпцюр",
     "en": "Helm of Oreyn Bearclaw",
     "ru": "Шлем Орейна Медвежий Коготь",
     "bel": "Шлем Арэйна Мядзведжы Кіпцюр",
@@ -41581,7 +41581,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD09Choice1",
-    "custom": "",
+    "custom": "Мы працавалі разам з Модрынам Арэйнам.",
     "en": "I worked with Modryn Oreyn.",
     "ru": "Мы работали вместе с Модрином Орейном.",
     "bel": "Мы працавалі разам з Модрынам Арэйнам.",
@@ -41590,7 +41590,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD09Choice2",
-    "custom": "",
+    "custom": "Так, усё зроблена мной асабіста.",
     "en": "I did it on my own.",
     "ru": "Да, все сделано мной лично.",
     "bel": "Так, усё зроблена мной асабіста.",
@@ -41599,7 +41599,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD09Choice3",
-    "custom": "",
+    "custom": "Зрабіць цябе сваім намеснікам.",
     "en": "Make you my second-in-command.",
     "ru": "Сделать тебя своим заместителем.",
     "bel": "Зрабіць цябе сваім намеснікам.",
@@ -41608,7 +41608,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD09Hist",
-    "custom": "",
+    "custom": "Хіст",
     "en": "The Hist",
     "ru": "Хист",
     "bel": "Хіст",
@@ -41617,7 +41617,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD09HistTreeTEMP",
-    "custom": "",
+    "custom": "ЧАСОВЫ ГІСТ",
     "en": "TEMP HIST",
     "ru": "Временная история",
     "bel": "Часовая гісторыя",
@@ -41626,7 +41626,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD09JaFazirKey",
-    "custom": "",
+    "custom": "Ключ ад пакоя Джытум-Зэ",
     "en": "Jeetum Ze's Room Key",
     "ru": "Ключ от комнаты Джитум-Зе",
     "bel": "Ключ ад пакоя Джытум-Зэ",
@@ -41635,7 +41635,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGD09RiZakarKey",
-    "custom": "",
+    "custom": "Ключ ад склепа \"Чорнага Лесу\"",
     "en": "Blackwood Co. Basement Key",
     "ru": "Ключ от подвала \"Черного Леса\"",
     "bel": "Ключ ад склепа \"Чорнага Лесу\"",
@@ -41644,7 +41644,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGDPost1",
-    "custom": "",
+    "custom": "Засяродзься на найме рэкрутаў.",
     "en": "Focus on recruitment.",
     "ru": "Сосредоточься на найме рекрутов.",
     "bel": "Засяродзься на найме рэкрутаў.",
@@ -41653,7 +41653,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGDPost2",
-    "custom": "",
+    "custom": "Засяродзься на атрыманні кантрактаў.",
     "en": "Focus on getting contracts.",
     "ru": "Сосредоточься на получении контрактов.",
     "bel": "Засяродзься на атрыманні кантрактаў.",
@@ -41662,7 +41662,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGDPost3",
-    "custom": "",
+    "custom": "Займіся і тым, і іншым.",
     "en": "Focus on both equally.",
     "ru": "Займись и тем, и другим.",
     "bel": "Займіся і тым, і іншым.",
@@ -41671,7 +41671,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGDefault1",
-    "custom": "",
+    "custom": "Ён выканаў працу. Вось дзённік.",
     "en": "He didn't default. Here's the journal.",
     "ru": "Он выполнил работу. Вот дневник.",
     "bel": "Ён выканаў працу. Вось дзённік.",
@@ -41680,7 +41680,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGDefault2",
-    "custom": "",
+    "custom": "Заданне мной выканана. Вось дзённік.",
     "en": "I completed the task. Here's the journal.",
     "ru": "Задание мной выполнено. Вот дневник.",
     "bel": "Заданне мной выканана. Вось дзённік.",
@@ -41689,7 +41689,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGDrillmaster",
-    "custom": "",
+    "custom": "Інструктар",
     "en": "Drillmaster",
     "ru": "Инструктор",
     "bel": "Інструктар",
@@ -41707,7 +41707,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGGuardPorterAnvil",
-    "custom": "",
+    "custom": "Брамнік Гільдыі байцоў",
     "en": "Fighters Guild Porter",
     "ru": "Привратник Гильдии бойцов",
     "bel": "Брамнік Гільдыі байцоў",
@@ -41716,7 +41716,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGGuardPorterBravil",
-    "custom": "",
+    "custom": "Брамнік Гільдыі байцоў",
     "en": "Fighters Guild Porter",
     "ru": "Привратник Гильдии бойцов",
     "bel": "Брамнік Гільдыі байцоў",
@@ -41725,7 +41725,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGGuardPorterBruma",
-    "custom": "",
+    "custom": "Брамнік Гільдыі байцоў",
     "en": "Fighters Guild Porter",
     "ru": "Привратник Гильдии бойцов",
     "bel": "Брамнік Гільдыі байцоў",
@@ -41734,7 +41734,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGGuardPorterCheydinhal",
-    "custom": "",
+    "custom": "Брамнік Гільдыі байцоў",
     "en": "Fighters Guild Porter",
     "ru": "Привратник Гильдии бойцов",
     "bel": "Брамнік Гільдыі байцоў",
@@ -41743,7 +41743,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGGuardPorterChorrol",
-    "custom": "",
+    "custom": "Брамнік Гільдыі байцоў",
     "en": "Fighters Guild Porter",
     "ru": "Привратник Гильдии бойцов",
     "bel": "Брамнік Гільдыі байцоў",
@@ -41752,7 +41752,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGGuardPorterLeyawiin",
-    "custom": "",
+    "custom": "Брамнік Гільдыі байцоў",
     "en": "Fighters Guild Porter",
     "ru": "Привратник Гильдии бойцов",
     "bel": "Брамнік Гільдыі байцоў",
@@ -41761,7 +41761,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGGuardPorterSkingrad",
-    "custom": "",
+    "custom": "Брамнік Гільдыі байцоў",
     "en": "Fighters Guild Porter",
     "ru": "Привратник Гильдии бойцов",
     "bel": "Брамнік Гільдыі байцоў",
@@ -41770,7 +41770,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGHistHaze",
-    "custom": "",
+    "custom": "Дымка хіста",
     "en": "Hist Haze",
     "ru": "Дымка хиста",
     "bel": "Дымка хіста",
@@ -41779,7 +41779,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGJoin1",
-    "custom": "",
+    "custom": "Так. Прыміце мяне.",
     "en": "Yes. Sign me up.",
     "ru": "Да. Примите меня.",
     "bel": "Так. Прыміце мяне.",
@@ -41788,7 +41788,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGJoin2",
-    "custom": "",
+    "custom": "Я не зацікаўлены.",
     "en": "I'm not interested.",
     "ru": "Мне это не интересно.",
     "bel": "Мне гэта не цікава.",
@@ -41797,7 +41797,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGMastersChest",
-    "custom": "",
+    "custom": "Скрыня майстра Гільдыі",
     "en": "Guildmaster's Chest",
     "ru": "Сундук мастера Гильдии",
     "bel": "Скрыня майстра Гільдыі",
@@ -41806,7 +41806,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FGMastersKey",
-    "custom": "",
+    "custom": "Ключ майстра Гільдыі",
     "en": "Fighters Guildmaster's Key",
     "ru": "Ключ мастера Гильдии",
     "bel": "Ключ майстра Гільдыі",
@@ -41815,7 +41815,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FIDG",
-    "custom": "",
+    "custom": "Урон агнём",
     "en": "Fire Damage",
     "ru": "Урон огнем",
     "bel": "Урон агнём",
@@ -41824,7 +41824,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FOAT",
-    "custom": "",
+    "custom": "Павышэнне атрыбута",
     "en": "Fortify Attribute",
     "ru": "Повышение атрибута",
     "bel": "Павышэнне атрыбута",
@@ -41833,7 +41833,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FOFA",
-    "custom": "",
+    "custom": "Павышэнне запасу сіл",
     "en": "Fortify Fatigue",
     "ru": "Повышение запаса сил",
     "bel": "Павышэнне запасу сіл",
@@ -41842,7 +41842,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FOHE",
-    "custom": "",
+    "custom": "Павышэнне здароўя",
     "en": "Fortify Health",
     "ru": "Повышение здоровья",
     "bel": "Павышэнне здароўя",
@@ -41851,7 +41851,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FOSK",
-    "custom": "",
+    "custom": "Павышэнне навыку",
     "en": "Fortify Skill",
     "ru": "Повышение навыка",
     "bel": "Павышэнне навыку",
@@ -41869,7 +41869,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FRDG",
-    "custom": "",
+    "custom": "Урон холадам",
     "en": "Frost Damage",
     "ru": "Урон холодом",
     "bel": "Урон холадам",
@@ -41878,7 +41878,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FRNZ",
-    "custom": "",
+    "custom": "Шаленства",
     "en": "Frenzy",
     "ru": "Бешенство",
     "bel": "Шалёнства",
@@ -41887,7 +41887,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FTHR",
-    "custom": "",
+    "custom": "Пярынка",
     "en": "Feather",
     "ru": "Перышко",
     "bel": "Пярынка",
@@ -41896,7 +41896,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FadusCalidius",
-    "custom": "",
+    "custom": "Фадус Калідыус",
     "en": "Fadus Calidius",
     "ru": "Фадус Калидиус",
     "bel": "Фадус Калідыус",
@@ -41905,7 +41905,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Faelian",
-    "custom": "",
+    "custom": "Фэліан",
     "en": "Faelian",
     "ru": "Фэлиан",
     "bel": "Фэліан",
@@ -41914,7 +41914,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FaelianTopic",
-    "custom": "",
+    "custom": "Фэліан",
     "en": "Faelian",
     "ru": "Фэлиан",
     "bel": "Фэліан",
@@ -41923,7 +41923,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Fain",
-    "custom": "",
+    "custom": "Фэйн",
     "en": "Fain",
     "ru": "Ладно.",
     "bel": "Добра.",
@@ -41932,7 +41932,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FairDealKey",
-    "custom": "",
+    "custom": "Ключ ад \"Сумленнай здзелкі\"",
     "en": "The Fair Deal Key",
     "ru": "Ключ от \"Честной сделки\"",
     "bel": "Ключ ад \"Сумленнай здзелкі\"",
@@ -41941,7 +41941,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FalanuHlaaluKey",
-    "custom": "",
+    "custom": "Ключ Фалану Хлаалу",
     "en": "Flanau Hlaalu's Key",
     "ru": "Ключ Фалану Хлаалу",
     "bel": "Ключ Фалану Хлаалу",
@@ -41950,7 +41950,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FallenRockCave",
-    "custom": "",
+    "custom": "Пячора Упалая Скала",
     "en": "Fallen Rock Cave",
     "ru": "Пещера Упавшая Скала",
     "bel": "Пячора Упалая Скала",
@@ -41959,7 +41959,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FalseCabinetDoor01",
-    "custom": "",
+    "custom": "Дзверцы шафы",
     "en": "Cabinet Door",
     "ru": "Дверца шкафа",
     "bel": "Дзверцы шафы",
@@ -41968,7 +41968,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FalseCabinetDoor02",
-    "custom": "",
+    "custom": "Дзверцы шафы",
     "en": "Cabinet Door",
     "ru": "Дверца шкафа",
     "bel": "Дзверцы шафы",
@@ -41977,7 +41977,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FaregylInn",
-    "custom": "",
+    "custom": "Карчма Фарэгіл",
     "en": "Faregyl Inn",
     "ru": "Трактир \"Фарегил\"",
     "bel": "Трактир \"Фарэгіл\"",
@@ -41986,7 +41986,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FaregylInnKey",
-    "custom": "",
+    "custom": "Ключ ад карчмы \"Фарэгіл\"",
     "en": "Faregyl Inn Key",
     "ru": "Ключ от таверны \"Фарегил\"",
     "bel": "Ключ ад карчмы \"Фарэгіл\"",
