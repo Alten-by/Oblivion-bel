@@ -5633,7 +5633,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Onboarding_Footer_Skip",
-    "custom": "",
+    "custom": "Прапусціць",
     "en": "Skip",
     "ru": "Пропустить",
     "bel": "Прапусціць",
@@ -5641,7 +5641,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Onboarding_Footer_SkipOnboarding",
-    "custom": "",
+    "custom": "Прапусціць навучанне",
     "en": "Skip Onboarding",
     "ru": "Пропустить Onboarding",
     "bel": "Прапусціць Onboarding",
@@ -5649,7 +5649,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Onboarding_Title_GameplayDualsense",
-    "custom": "",
+    "custom": "Геймплэй і бесправадны кантролер DualSense®",
     "en": "Gameplay & DualSense® wireless controller",
     "ru": "Геймплей и беспроводной контроллер DualSense®.",
     "bel": "Геймплэй і бесправадны кантролер DualSense®.",
@@ -5657,7 +5657,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_PS5_Activity_Info_Name",
-    "custom": "",
+    "custom": "Чэмпіён Сірадыіла",
     "en": "Champion of Cyrodiil",
     "ru": "Чемпион Cyrodiil'а",
     "bel": "Чэмпіён Cyrodiil'а",
@@ -5665,7 +5665,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_PS5_Activity_Info_Step_1",
-    "custom": "",
+    "custom": "Уцячыце з імперскай турмы.",
     "en": "Escape the Imperial Prison",
     "ru": "Сбегите из имперской тюрьмы.",
     "bel": "Уцячыце з імперскай турмы.",
@@ -5673,7 +5673,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_PS5_Activity_Info_Step_10",
-    "custom": "",
+    "custom": "Узначальце абарону Брумы.",
     "en": "Lead the defense of Bruma",
     "ru": "Возглавьте оборону Брумы.",
     "bel": "Узначальце абарону Брумы.",
@@ -5681,7 +5681,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_PS5_Activity_Info_Step_11",
-    "custom": "",
+    "custom": "Вярнуць кроў боскага",
     "en": "Recover blood of a Divine",
     "ru": "Восстановить кровь Divine",
     "bel": "Аднавіць кроў Divine",
@@ -5689,7 +5689,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_PS5_Activity_Info_Step_12",
-    "custom": "",
+    "custom": "Знайсці вялікі камень Вялкінда",
     "en": "Find a Great Welkynd Stone",
     "ru": "Найдите отличный Welkynd Stone.",
     "bel": "Знайдзіце выдатны Welkynd Stone.",
@@ -5697,7 +5697,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_PS5_Activity_Info_Step_13",
-    "custom": "",
+    "custom": "Падрыхтавацца да штурму.",
     "en": "Prepare the assault",
     "ru": "Приготовиться к штурму.",
     "bel": "Падрыхтавацца да штурму.",
@@ -5705,7 +5705,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_PS5_Activity_Info_Step_14",
-    "custom": "",
+    "custom": "Знайсці вялікі камень Сігіл",
     "en": "Retrieve a Great Sigil Stone",
     "ru": "Заберите Great Sigil Stone.",
     "bel": "Забярыце Great Sigil Stone.",
@@ -5713,7 +5713,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_PS5_Activity_Info_Step_15",
-    "custom": "",
+    "custom": "Увайсці ў Рай Манкара",
     "en": "Enter Mankar's Paradise",
     "ru": "Войти в Рай Манкара",
     "bel": "Увайсці ў Рай Манкара",
@@ -5721,7 +5721,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_PS5_Activity_Info_Step_16",
-    "custom": "",
+    "custom": "Запаліце Драконавы агні.",
     "en": "Light the Dragonfires",
     "ru": "Зажгите Драконьи огни.",
     "bel": "Запаліце Драконавы агні.",
@@ -5729,7 +5729,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_PS5_Activity_Info_Step_17",
-    "custom": "",
+    "custom": "Атрымайце Імперскую браню дракона.",
     "en": "Receive the Imperial Dragon Armor",
     "ru": "Получите Имперскую броню дракона.",
     "bel": "Атрымайце Імперскую браню дракона.",
@@ -5737,7 +5737,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_PS5_Activity_Info_Step_2",
-    "custom": "",
+    "custom": "Даставіць Амулет",
     "en": "Deliver the Amulet",
     "ru": "Доставьте Амулет",
     "bel": "Даставіць Амулет",
@@ -5745,7 +5745,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_PS5_Activity_Info_Step_3",
-    "custom": "",
+    "custom": "Знайсці сапраўднага Наследніка.",
     "en": "Find the true Heir",
     "ru": "Найти истинного Наследника.",
     "bel": "Знайсці сапраўднага Наследніка.",
@@ -5753,7 +5753,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_PS5_Activity_Info_Step_4",
-    "custom": "",
+    "custom": "Зніміце аблогу Кватча.",
     "en": "Break the Siege of Kvatch",
     "ru": "Снимите осаду Кватча.",
     "bel": "Зніміце аблогу Кватча.",
@@ -5761,7 +5761,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_PS5_Activity_Info_Step_5",
-    "custom": "",
+    "custom": "Вярніцеся ў Вейнонскі манастыр.",
     "en": "Return to Weynon Priory",
     "ru": "Вернитесь в Вейнонский монастырь.",
     "bel": "Вярніцеся ў Вейнонскі манастыр.",
@@ -5769,7 +5769,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_PS5_Activity_Info_Step_6",
-    "custom": "",
+    "custom": "Вярніце Амулет Каралёў.",
     "en": "Recover the Amulet of Kings",
     "ru": "Верните Амулет Королей.",
     "bel": "Вярніце Амулет Каралёў.",
@@ -5777,7 +5777,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_PS5_Activity_Info_Step_7",
-    "custom": "",
+    "custom": "Укараніцца ў \"Міфічны Рассвет\".",
     "en": "Infiltrate the Mythic Dawn",
     "ru": "Внедриться в \"Мифический Рассвет\".",
     "bel": "Укараніцца ў \"Міфічны Рассвет\".",
@@ -5785,7 +5785,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_PS5_Activity_Info_Step_8",
-    "custom": "",
+    "custom": "Ліквідуйце шпіёнаў.",
     "en": "Eliminate the spies",
     "ru": "Устраните шпионов.",
     "bel": "Ліквідуйце шпіёнаў.",
@@ -5793,7 +5793,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_PS5_Activity_Info_Step_9",
-    "custom": "",
+    "custom": "Знайсці даэдраўскі артэфакт",
     "en": "Find a Daedric artefact",
     "ru": "Отыщи Daedric артефакт.",
     "bel": "Адшукайце Daedric артэфакт.",
@@ -5801,7 +5801,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_PS5_Activity_Info_Tag",
-    "custom": "",
+    "custom": "Асноўны квэст",
     "en": "Main quest",
     "ru": "Основной квест",
     "bel": "Асноўны квэст",
@@ -5809,7 +5809,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_PS5_Trophies_Info_PlatinumDescription",
-    "custom": "",
+    "custom": "Станьце найвялікшым героем Сайрадыла",
     "en": "Become Cyrodiil's greatest hero",
     "ru": "Стань величайшим героем Cyrodiil'а.",
     "bel": "Станьце найвялікшым героем Cyrodiil'а.",
@@ -5817,7 +5817,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_PS5_Trophies_Info_PlatinumName",
-    "custom": "",
+    "custom": "Свецкі бог",
     "en": "Worldly God",
     "ru": "Мирской бог",
     "bel": "Свецкі бог",
@@ -5825,7 +5825,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Persuasion_Footer_Choose",
-    "custom": "",
+    "custom": "Выбраць",
     "en": "Choose",
     "ru": "Выбрать",
     "bel": "Выбраць",
@@ -5833,7 +5833,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Persuasion_Footer_ChooseAction",
-    "custom": "",
+    "custom": "Выберыце дзеянне",
     "en": "Choose Action",
     "ru": "Выберите действие",
     "bel": "Выберыце дзеянне",
@@ -5841,7 +5841,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Persuasion_Footer_Confirm",
-    "custom": "",
+    "custom": "Пацвердзіць",
     "en": "Confirm",
     "ru": "Подтвердить",
     "bel": "Пацвердзіць",
@@ -5849,7 +5849,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Persuasion_Footer_RotateIntensity",
-    "custom": "",
+    "custom": "Круціць інтэнсіўнасць",
     "en": "Rotate Intensity",
     "ru": "Вращать интенсивность",
     "bel": "Круціць інтэнсіўнасць",
@@ -5857,7 +5857,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Persuasion_Notification_BribeValueCost",
-    "custom": "",
+    "custom": " <img id=\"Disposition\"/>  +{Disposition} размяшчэння<lf> <img id=\"ArrowRight\"/> {Cost}",
     "en": " <img id=\"Disposition\"/>  +{Disposition} disposition<lf> <img id=\"ArrowRight\"/> {Cost}",
     "ru": "<img id=\"Disposition\"/> +{Disposition} к расположению<lf> <img id=\"ArrowRight\"/> {Cost}",
     "bel": "<img id=\"Disposition\"/> +{Disposition} да размяшчэння<lf> <img id=\"ArrowRight\"/> {Cost}",
@@ -5865,7 +5865,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Persuasion_Notification_MaximumDisposition",
-    "custom": "",
+    "custom": "Вы дасягнулі максімальнага размяшчэння для гэтага персанажа.",
     "en": "You have reached the maximum disposition for this character",
     "ru": "Вы достигли максимального расположения для этого персонажа.",
     "bel": "Вы дасягнулі максімальнага размяшчэння для гэтага персанажа.",
@@ -5873,7 +5873,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Quantity_Title_HowMany",
-    "custom": "",
+    "custom": "Колькі?",
     "en": "How many?",
     "ru": "Сколько?",
     "bel": "Колькі?",
@@ -5881,7 +5881,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Quests_Button_ActivateQuest",
-    "custom": "",
+    "custom": "Актываваць заданне.",
     "en": "Activate Quest",
     "ru": "Активировать задание.",
     "bel": "Актываваць заданне.",
@@ -5889,7 +5889,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Quests_Button_Completed",
-    "custom": "",
+    "custom": "Завершана",
     "en": "Completed",
     "ru": "Завершено",
     "bel": "Завершана",
@@ -5897,7 +5897,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Quests_Button_Inspect",
-    "custom": "",
+    "custom": "Агледзець",
     "en": "Inspect",
     "ru": "Осмотреть",
     "bel": "Агледзець",
@@ -5905,7 +5905,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Quests_Button_OpenInMap",
-    "custom": "",
+    "custom": "Адкрыць на карце",
     "en": "Open In Map",
     "ru": "Открыть на карте",
     "bel": "Адкрыць на карце",
@@ -5913,7 +5913,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Quests_Button_PinQuest",
-    "custom": "",
+    "custom": "Адзначыць Квэст",
     "en": "Pin Quest",
     "ru": "Отметить Квест",
     "bel": "Адзначыць Квэст",
@@ -5921,7 +5921,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Quests_Footer_PinQuest",
-    "custom": "",
+    "custom": "Адзначыць Квэст",
     "en": "Pin Quest",
     "ru": "Отметить Квест",
     "bel": "Адзначыць Квэст",
@@ -5929,7 +5929,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Quests_Footer_SkipToCurrentQuest",
-    "custom": "",
+    "custom": "Перайсці да бягучага кроку",
     "en": "Skip to Current Step",
     "ru": "Перейти к текущему шагу",
     "bel": "Перайсці да бягучага кроку",
@@ -5937,7 +5937,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Quests_Title_CompletedQuests",
-    "custom": "",
+    "custom": "Завершаныя квэсты",
     "en": "Completed Quests",
     "ru": "Завершённые квесты",
     "bel": "Завершаныя квэсты",
@@ -5945,7 +5945,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Quests_Title_LastEntry",
-    "custom": "",
+    "custom": "Апошні запіс:",
     "en": "Last Entry:",
     "ru": "Последняя запись:",
     "bel": "Апошні запіс:",
@@ -5953,7 +5953,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Quests_Title_Quests",
-    "custom": "",
+    "custom": "Квэсты",
     "en": "Quests",
     "ru": "Квесты",
     "bel": "Квэсты",
@@ -5961,7 +5961,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Recharge_Footer_RechargeAll",
-    "custom": "",
+    "custom": "Перазарадзіць усё",
     "en": "Recharge All",
     "ru": "Перезарядить всё",
     "bel": "Перазарадзіць усё",
@@ -5969,7 +5969,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Repair_BodyText_Price",
-    "custom": "",
+    "custom": "Кошт",
     "en": "Price",
     "ru": "Цена",
     "bel": "Кошт",
@@ -5977,7 +5977,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Repair_BodyText_RepairAll",
-    "custom": "",
+    "custom": "Паправіць усё",
     "en": "Repair All",
     "ru": "Починить всё",
     "bel": "Паправіць усё",
@@ -5985,7 +5985,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Repair_Button_Repair",
-    "custom": "",
+    "custom": "Папраўка",
     "en": "Repair",
     "ru": "Починка",
     "bel": "Папраўка",
@@ -5993,7 +5993,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Repair_Title_Gear",
-    "custom": "",
+    "custom": "Экіпіроўка",
     "en": "Gear",
     "ru": "Снаряжение",
     "bel": "Экіпіроўка",
@@ -6009,7 +6009,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Save_Footer_OverwriteSave",
-    "custom": "",
+    "custom": "Перазапісаць захаванне",
     "en": "Overwrite Save",
     "ru": "Перезаписать сохранение",
     "bel": "Перазапісаць захаванне",
@@ -6017,7 +6017,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_BodyText_NotRunningOnSSD",
-    "custom": "",
+    "custom": "Гульня не запушчана на SSD!",
     "en": "Game is not running on SSD!",
     "ru": "Игра не запускается на SSD!",
     "bel": "Гульня не запускаецца на SSD!",
@@ -6025,7 +6025,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_BodyText_RecompileShaderText",
-    "custom": "",
+    "custom": "Вы хочаце перасабраць шэйдары ўручную? <lf>Вам спатрэбіцца перазапусціць гульню пасля завяршэння працэсу",
     "en": "Do you want to rebuild shaders manually? <lf>You need to restart the game after finishing the process",
     "ru": "Вы хотите пересобрать шейдеры вручную? <lf>Вам потребуется перезапустить игру после завершения процесса",
     "bel": "Вы хочаце перасабраць шэйдары ўручную? <lf>Вам спатрэбіцца перазапусціць гульню пасля завяршэння працэсу",
@@ -6033,7 +6033,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_BodyText_SaveChanges",
-    "custom": "",
+    "custom": "Вы хочаце захаваць бягучыя змены?",
     "en": "Do you want to save your current changes?",
     "ru": "Вы хотите сохранить текущие изменения?",
     "bel": "Вы хочаце захаваць бягучыя змены?",
@@ -6041,7 +6041,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_BodyText_SaveChangesTimer",
-    "custom": "",
+    "custom": "Вы хочаце захаваць бягучыя змены?<lf>Вашы змены будуць адменены, калі таймер скончыцца",
     "en": "Do you want to save your current changes?<lf>Your changes will be cancelled when the timer ends",
     "ru": "Вы хотите сохранить текущие изменения?<lf>Ваши изменения будут отменены, когда таймер закончится",
     "bel": "Вы хочаце захаваць бягучыя змены?<lf>Вашы змены будуць адменены, калі таймер скончыцца",
@@ -6049,7 +6049,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_ButtonTitle_Autoset",
-    "custom": "",
+    "custom": "Выявіць Зараз",
     "en": "Detect Now",
     "ru": "Обнаружить Сейчас",
     "bel": "Выявіць Зараз",
@@ -6057,7 +6057,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_ButtonTitle_Discard",
-    "custom": "",
+    "custom": "Скінуць",
     "en": "Discard",
     "ru": "Сбросить",
     "bel": "Скінуць",
@@ -6065,7 +6065,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_Footer_ApplyChanges",
-    "custom": "",
+    "custom": "Прымяніць змены",
     "en": "Apply Changes",
     "ru": "Применить изменения",
     "bel": "Прымяніць змены",
@@ -6073,7 +6073,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_Footer_Rebind",
-    "custom": "",
+    "custom": "Пераназначыць",
     "en": "Rebind",
     "ru": "Переназначить",
     "bel": "Пераназначыць",
@@ -6081,7 +6081,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_Notification_WarningBinding",
-    "custom": "",
+    "custom": "У вас ёсць непрызначаная прывязка клавіш.",
     "en": "You have an unassigned binding.",
     "ru": "У вас есть неназначенная привязка клавиш.",
     "bel": "У вас ёсць непрызначаная прывязка клавіш.",
@@ -6089,7 +6089,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingCategory_Controller",
-    "custom": "",
+    "custom": "Кантролер",
     "en": "Controller",
     "ru": "Контроллер",
     "bel": "Кантролер",
@@ -6097,7 +6097,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingCategory_Gameplay",
-    "custom": "",
+    "custom": "Гульнявы працэс",
     "en": "Gameplay",
     "ru": "Игровой процесс",
     "bel": "Гульнявы працэс",
@@ -6105,7 +6105,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingCategory_Graphics",
-    "custom": "",
+    "custom": "Графіка",
     "en": "Graphics",
     "ru": "Графика",
     "bel": "Графіка",
@@ -6113,7 +6113,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingCategory_Interfaces",
-    "custom": "",
+    "custom": "Інтэрфейс",
     "en": "Interface",
     "ru": "Интерфейс",
     "bel": "Інтэрфейс",
@@ -6121,7 +6121,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingCategory_Keyboard&Mouse",
-    "custom": "",
+    "custom": "Клавіятура і мыш",
     "en": "Keyboard & Mouse",
     "ru": "Клавиатура и мышь",
     "bel": "Клавіятура і мыш",
@@ -6129,7 +6129,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingCategory_Save&Load",
-    "custom": "",
+    "custom": "Захаваць і Загрузіць",
     "en": "Save & Load",
     "ru": "Сохранить и Загрузить",
     "bel": "Захаваць і Загрузіць",
@@ -6137,7 +6137,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingCategory_Sound",
-    "custom": "",
+    "custom": "Гук",
     "en": "Sound",
     "ru": "Звук",
     "bel": "Гук",
@@ -6145,7 +6145,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_AimAssist",
-    "custom": "",
+    "custom": "Уключае і выключае функцыю дапамогі ў прыцэльванні.",
     "en": "Toggles the activation of aim assist features.",
     "ru": "Включает и отключает функцию помощи в прицеливании.",
     "bel": "Уключае і выключае функцыю дапамогі ў прыцэльванні.",
@@ -6153,7 +6153,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_AmbienceVolume",
-    "custom": "",
+    "custom": "Рэгулюе гучнасць навакольных гукаў.",
     "en": "Adjusts the volume of ambient sounds.",
     "ru": "Регулирует громкость окружающих звуков.",
     "bel": "Рэгулюе гучнасць навакольных гукаў.",
@@ -6161,7 +6161,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_AntiAliasing",
-    "custom": "",
+    "custom": "Пераключае паміж даступнымі рэжымамі згладжвання. Гэтая опцыя будзе неактыўная, калі ўключана любая тэхналогія павышэння раздзялення. <lf><lf>FXAA: Хуткае прыблізнае згладжванне.<lf><lf>TAA: Часовае згладжванне.<lf><lf>TSR: Часовае суперразрозненне.",
     "en": "Toggles between applicable anti-aliasing modes. This option will be inactive when any Upscaling Technique is enabled.<lf><lf>FXAA: Fast Approximate Anti-Aliasing.<lf><lf>TAA: Temporal Anti-Aliasing.<lf><lf>TSR: Temporal Super Resolution.",
     "ru": "Переключает между доступными режимами сглаживания. Эта опция будет неактивна, когда включена любая технология Upscaling. <lf><lf>FXAA: Быстрое приблизительное сглаживание.<lf><lf>TAA: Временное сглаживание.<lf><lf>TSR: Временное суперразрешение.",
     "bel": "Пераключае паміж даступнымі рэжымамі згладжвання. Гэтая опцыя будзе неактыўная, калі ўключана любая тэхналогія Upscaling. <lf><lf>FXAA: Хуткае прыблізнае згладжванне.<lf><lf>TAA: Часовае згладжванне.<lf><lf>TSR: Часовае суперразрозненне.",
@@ -6169,7 +6169,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_AudioMode",
-    "custom": "",
+    "custom": "Выбірае пераважнае гукавое мікшаванне.",
     "en": "Selects your preferred audio mix.",
     "ru": "Выбирает предпочитаемое звуковое микширование.",
     "bel": "Выбірае пераважнае гукавое мікшаванне.",
@@ -6177,7 +6177,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_AudioOutput",
-    "custom": "",
+    "custom": "Выбірае тып вываду для вашай аўдыёпрылады.",
     "en": "Selects the output type for your audio device.",
     "ru": "Выбирает тип вывода для вашего аудиоустройства.",
     "bel": "Выбірае тып вываду для вашай аўдыёпрылады.",
@@ -6185,7 +6185,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_AutosaveDuringLoadingScreens",
-    "custom": "",
+    "custom": "Уключае/выключае актывацыю аўтазахаванняў падчас загрузачных экранаў.",
     "en": "Toggles the activation of autosaves during loading screens.",
     "ru": "Включает/выключает активацию автосохранений во время загрузочных экранов.",
     "bel": "Уключае/выключае актывацыю аўтазахаванняў падчас загрузачных экранаў.",
@@ -6193,7 +6193,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_AutosaveOnFastTravel",
-    "custom": "",
+    "custom": "Пераключае актывацыю аўтазахаванняў пры хуткім перамяшчэнні.",
     "en": "Toggles the activation of autosaves on fast travel.",
     "ru": "Переключает активацию автосохранений при быстром перемещении.",
     "bel": "Пераключае актывацыю аўтазахаванняў пры хуткім перамяшчэнні.",
@@ -6201,7 +6201,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_AutosaveOnRest",
-    "custom": "",
+    "custom": "Уключае/выключае актывацыю аўтазахаванняў пры адпачынку.",
     "en": "Toggles the activation of autosaves on rest.",
     "ru": "Включает/выключает активацию автосохранений при отдыхе.",
     "bel": "Уключае/выключае актывацыю аўтазахаванняў пры адпачынку.",
@@ -6209,7 +6209,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_AutosaveOnWait",
-    "custom": "",
+    "custom": "Уключае і выключае актывацыю аўтазахаванняў падчас чакання.",
     "en": "Toggles the activation of autosaves on wait.",
     "ru": "Включает и отключает активацию автосохранений во время ожидания.",
     "bel": "Уключае і выключае актывацыю аўтазахаванняў падчас чакання.",
@@ -6217,7 +6217,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_AutosetQuality",
-    "custom": "",
+    "custom": "Скідвае налады якасці і ўключае аўтаматычную наладу якасці па змаўчанні.",
     "en": "Resets quality settings and enables default autoset qualities.",
     "ru": "Сбрасывает настройки качества и включает автоматическую настройку качества по умолчанию.",
     "bel": "Скідвае налады якасці і ўключае аўтаматычную наладу якасці па змаўчанні.",
@@ -6225,7 +6225,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_BloodFXVisibility",
-    "custom": "",
+    "custom": "Уключае/выключае адлюстраванне пырскаў крыві.",
     "en": "Toggles the display of blood splatters.",
     "ru": "Включает/выключает отображение брызг крови.",
     "bel": "Уключае/выключае адлюстраванне пырскаў крыві.",
@@ -6233,7 +6233,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_BloodVignetteVisibility",
-    "custom": "",
+    "custom": "Пераключае адлюстраванне крыві на HUD, калі ваша здароўе нізкае.",
     "en": "Toggles the display of blood on the HUD when your health is low.",
     "ru": "Переключает отображение крови на HUD, когда у вас мало здоровья.",
     "bel": "Пераключае адлюстраванне крыві на HUD, калі ў вас мала здароўя.",
@@ -6241,7 +6241,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_BrightnessIntensity",
-    "custom": "",
+    "custom": "Наладзьце яркасць гульні да таго часу, пакуль сімвал не стане ледзь бачным. (Гэта не ўплывае на элементы UI)",
     "en": "Adjusts the game brightness until the symbol is barely visible. (It does not affect the UI elements)",
     "ru": "Настройте яркость игры до тех пор, пока символ не станет едва различимым. (Это не влияет на элементы UI)",
     "bel": "Наладзьце яркасць гульні да таго часу, пакуль сімвал не стане ледзь бачным. (Гэта не ўплывае на элементы UI)",
@@ -6249,7 +6249,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_CameraAimFocusSensitivityMultiplierController",
-    "custom": "",
+    "custom": "Налады адчувальнасці памнажаюцца на гэта значэнне, калі гулец факусуецца падчас прыцэльвання. Значэнне 100 азначае адсутнасць зніжэння адчувальнасці пры факусіроўцы.",
     "en": "Sensitivity settings are multiplied by this value when the player is focusing while aiming. A value of 100 means no sensitivity decrease when focusing.",
     "ru": "Настройки чувствительности умножаются на это значение, когда игрок фокусируется во время прицеливания. Значение 100 означает отсутствие снижения чувствительности при фокусировке.",
     "bel": "Налады адчувальнасці памнажаюцца на гэта значэнне, калі гулец факусуецца падчас прыцэльвання. Значэнне 100 азначае адсутнасць зніжэння адчувальнасці пры факусіроўцы.",
@@ -6257,7 +6257,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_CameraAimFocusSensitivityMultiplierPC",
-    "custom": "",
+    "custom": "Настройкі адчувальнасці мышы памнажаюцца на гэтае значэнне, калі гулец факусуецца падчас прыцэльвання. Значэнне 100 азначае адсутнасць зніжэння адчувальнасці пры факусіроўцы.",
     "en": "Mouse sensitivity settings are multiplied by this value when the player focuses while aiming. A value of 100 means no sensitivity decrease when focusing.",
     "ru": "Настройки чувствительности мыши умножаются на это значение, когда игрок фокусируется во время прицеливания. Значение 100 означает отсутствие снижения чувствительности при фокусировке.",
     "bel": "Настройкі адчувальнасці мышы памнажаюцца на гэтае значэнне, калі гулец факусуецца падчас прыцэльвання. Значэнне 100 азначае адсутнасць зніжэння адчувальнасці пры факусіроўцы.",
@@ -6265,7 +6265,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_CameraAimSensitivityMultiplierController",
-    "custom": "",
+    "custom": "Настройкі адчувальнасці памнажаюцца на гэтае значэнне, калі гулец прыцэльваецца. Значэнне 100 азначае адсутнасць зніжэння адчувальнасці пры прыцэльванні.",
     "en": "Sensitivity settings are multiplied by this value when the player is aiming. A value of 100 means no sensitivity decrease when aiming.",
     "ru": "Настройки чувствительности умножаются на это значение, когда игрок прицеливается. Значение 100 означает отсутствие снижения чувствительности при прицеливании.",
     "bel": "Настройкі адчувальнасці памнажаюцца на гэтае значэнне, калі гулец прыцэльваецца. Значэнне 100 азначае адсутнасць зніжэння адчувальнасці пры прыцэльванні.",
@@ -6273,7 +6273,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_CameraAimSensitivityMultiplierPC",
-    "custom": "",
+    "custom": "Настройкі адчувальнасці мышы памнажаюцца на гэтае значэнне, калі гулец цэліцца. Значэнне 100 азначае адсутнасць зніжэння адчувальнасці пры прыцэльванні.",
     "en": "Mouse sensitivity settings are multiplied by this value when the player is aiming. A value of 100 means no sensitivity decrease when aiming.",
     "ru": "Настройки чувствительности мыши умножаются на это значение, когда игрок целится. Значение 100 означает отсутствие снижения чувствительности при прицеливании.",
     "bel": "Настройкі адчувальнасці мышы памнажаюцца на гэтае значэнне, калі гулец цэліцца. Значэнне 100 азначае адсутнасць зніжэння адчувальнасці пры прыцэльванні.",
@@ -6281,7 +6281,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_CameraMotion",
-    "custom": "",
+    "custom": "Пераключае актывацыю руху камеры, таксама вядомага як \"трасянка камеры\".",
     "en": "Toggles the activation of camera motion, also known as \"head bobbing\".",
     "ru": "Переключает активацию движения камеры, также известного как \"тряска камеры\".",
     "bel": "Пераключае актывацыю руху камеры, таксама вядомага як \"трасянка камеры\".",
@@ -6289,7 +6289,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_CameraSensitivityHorizontalController",
-    "custom": "",
+    "custom": "Наладжвае адчувальнасць камеры па гарызантальнай восі. Чым вышэй значэнне, тым хутчэй камера будзе круціцца ўлева і ўправа.",
     "en": "Adjusts the camera sensitivity on the horizontal axis. The higher the value, the faster the camera will rotate left and right.",
     "ru": "Настраивает чувствительность камеры по горизонтальной оси. Чем выше значение, тем быстрее камера будет вращаться влево и вправо.",
     "bel": "Наладжвае адчувальнасць камеры па гарызантальнай восі. Чым вышэй значэнне, тым хутчэй камера будзе круціцца ўлева і ўправа.",
@@ -6297,7 +6297,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_CameraSensitivityHorizontalPC",
-    "custom": "",
+    "custom": "Рэгулюе адчувальнасць камеры па гарызантальнай восі пры выкарыстанні мышы. Чым вышэй значэнне, тым хутчэй камера будзе круціцца ўлева і ўправа.",
     "en": "Adjusts the camera sensitivity on the horizontal axis when using a mouse. The higher the value, the faster the camera will rotate left and right.",
     "ru": "Регулирует чувствительность камеры по горизонтальной оси при использовании мыши. Чем выше значение, тем быстрее камера будет вращаться влево и вправо.",
     "bel": "Рэгулюе адчувальнасць камеры па гарызантальнай восі пры выкарыстанні мышы. Чым вышэй значэнне, тым хутчэй камера будзе круціцца ўлева і ўправа.",
@@ -6305,7 +6305,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_CameraSensitivityVerticalController",
-    "custom": "",
+    "custom": "Рэгулюе адчувальнасць камеры па вертыкальнай восі. Чым вышэй значэнне, тым хутчэй камера будзе круціцца ўверх і ўніз.",
     "en": "Adjusts the camera sensitivity on the vertical axis. The higher the value, the faster the camera will rotate up and down.",
     "ru": "Регулирует чувствительность камеры по вертикальной оси. Чем выше значение, тем быстрее камера будет вращаться вверх и вниз.",
     "bel": "Рэгулюе адчувальнасць камеры па вертыкальнай восі. Чым вышэй значэнне, тым хутчэй камера будзе круціцца ўверх і ўніз.",
@@ -6313,7 +6313,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_CameraSensitivityVerticalPC",
-    "custom": "",
+    "custom": "Рэгулюе адчувальнасць камеры па вертыкальнай восі пры выкарыстанні мышы. Чым вышэй значэнне, тым хутчэй камера будзе круціцца ўверх і ўніз.",
     "en": "Adjusts the camera sensitivity on the vertical axis when using a mouse. The higher the value, the faster the camera will rotate up and down.",
     "ru": "Регулирует чувствительность камеры по вертикальной оси при использовании мыши. Чем выше значение, тем быстрее камера будет вращаться вверх и вниз.",
     "bel": "Рэгулюе адчувальнасць камеры па вертыкальнай восі пры выкарыстанні мышы. Чым вышэй значэнне, тым хутчэй камера будзе круціцца ўверх і ўніз.",
@@ -6321,7 +6321,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_CameraZoomDuringDialogue",
-    "custom": "",
+    "custom": "Рэгулюе паводзіны камеры пры пачатку дыялогу. <lf>Уключэнне гэтай налады плаўна наблізіць камеру, а пры адключэнні будзе выкарыстоўвацца стандартная камера.",
     "en": "Adjusts camera behavior when entering dialogue. <lf>Turning this setting On will smoothly zoom, while Off will keep the standard camera.",
     "ru": "Регулирует поведение камеры при начале диалога. <lf>Включение этой настройки плавно приблизит камеру, а при отключении будет использоваться стандартная камера.",
     "bel": "Рэгулюе паводзіны камеры пры пачатку дыялогу. <lf>Уключэнне гэтай налады плаўна наблізіць камеру, а пры адключэнні будзе выкарыстоўвацца стандартная камера.",
@@ -6329,7 +6329,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_ClothQuality",
-    "custom": "",
+    "custom": "Рэгулюе якасць фізікі тканіны.",
     "en": "Adjusts the cloth physics quality.",
     "ru": "Регулирует качество физики ткани.",
     "bel": "Рэгулюе якасць фізікі тканіны.",
@@ -6337,7 +6337,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_ColorblindMode",
-    "custom": "",
+    "custom": "Наладжвае колеры на альтэрнатывы, прыдатныя для дальнатонікаў.",
     "en": "Adjusts the colors to color-blind friendly alternatives.",
     "ru": "Настраивает цвета на альтернативы, подходящие для дальтоников.",
     "bel": "Наладжвае колеры на альтэрнатывы, прыдатныя для дальнатонікаў.",
@@ -6345,7 +6345,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_ColorblindStrength",
-    "custom": "",
+    "custom": "Наладжвае інтэнсіўнасць рэжыму для дальнатонікаў.",
     "en": "Adjusts the color blind mode intensity.",
     "ru": "Настраивает интенсивность режима для дальтоников.",
     "bel": "Наладжвае інтэнсіўнасць рэжыму для дальнатонікаў.",
@@ -6353,7 +6353,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_CompassStatesVisibility",
-    "custom": "",
+    "custom": "Пераключае бачнасць станаў компаса.",
     "en": "Toggles the visibility of the compass states.",
     "ru": "Переключает видимость состояний компаса.",
     "bel": "Пераключае бачнасць станаў компаса.",
@@ -6361,7 +6361,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_CompassVisibility",
-    "custom": "",
+    "custom": "Пераключае бачнасць компаса HUD.",
     "en": "Toggles the visibility of the HUD compass.",
     "ru": "Включает и выключает видимость компаса HUD.",
     "bel": "Уключае і выключае бачнасць компаса HUD.",
@@ -6369,7 +6369,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_ConstrainOnUltraWide",
-    "custom": "",
+    "custom": "Пераключае абмежаванне інтэрфейсу для HUD на ультрашырокіх дысплеях.",
     "en": "Toggles the constraint of UI for the HUD on ultrawide displays.",
     "ru": "Переключает ограничение UI для HUD на ультрашироких дисплеях.",
     "bel": "Пераключае абмежаванне UI для HUD на ультрашырокіх дысплеях.",
@@ -6377,7 +6377,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_ContextualActionsVisibility",
-    "custom": "",
+    "custom": "Пераключае бачнасць кантэкстных падказак дзеянняў.",
     "en": "Toggles the visibility of contextual action hints.",
     "ru": "Переключает видимость контекстных подсказок действий.",
     "bel": "Пераключае бачнасць кантэкстных падказак дзеянняў.",
@@ -6385,7 +6385,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_CrosshairColor",
-    "custom": "",
+    "custom": "Наладжвае колер прыцэла HUD.",
     "en": "Adjusts the color of the HUD crosshair.",
     "ru": "Изменяет цвет прицела HUD.",
     "bel": "Змяняе колер прыцэла HUD.",
@@ -6393,7 +6393,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_CrosshairSize",
-    "custom": "",
+    "custom": "Наладжвае памер прыцэла HUD.",
     "en": "Adjusts the size of the HUD crosshair.",
     "ru": "Настраивает размер прицела HUD.",
     "bel": "Наладжвае памер прыцэла HUD.",
@@ -6401,7 +6401,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_CursorColor",
-    "custom": "",
+    "custom": "Наладжвае колер курсора інтэрфейсу.",
     "en": "Adjusts the color of the interface cursor.",
     "ru": "Настраивает цвет курсора интерфейса.",
     "bel": "Наладжвае колер курсора інтэрфейсу.",
@@ -6409,7 +6409,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_CursorSize",
-    "custom": "",
+    "custom": "Змяняе памер курсора інтэрфейсу.",
     "en": "Adjusts the size of the interface cursor.",
     "ru": "Изменяет размер курсора интерфейса.",
     "bel": "Змяняе памер курсора інтэрфейсу.",
@@ -6417,7 +6417,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_DLSSFrameGeneration",
-    "custom": "",
+    "custom": "Уключае генерацыю цэлых кадраў ІІ для павышэння частаты кадраў.",
     "en": "Enables AI generation of entire frames to boost framerate.",
     "ru": "Включает генерацию целых кадров ИИ для повышения частоты кадров.",
     "bel": "Уключае генерацыю цэлых кадраў ІІ для павышэння частаты кадраў.",
@@ -6425,7 +6425,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_DLSSMode",
-    "custom": "",
+    "custom": "Наладжвае базавае разрозненне рэндэрынгу перад маштабаваннем ІІ, каб аддаць перавагу якасці малюнка або частаце кадраў. <lf><lf>Патрабуецца відэакарта NVIDIA.",
     "en": "Adjusts base render resolution before AI upscaling to favor image quality or framerate. <lf><lf>Requires an NVIDIA graphics card.",
     "ru": "Настраивает базовое разрешение рендеринга перед масштабированием ИИ, чтобы отдать предпочтение качеству изображения или частоте кадров. <lf><lf>Требуется видеокарта NVIDIA.",
     "bel": "Наладжвае базавае разрозненне рэндэрынгу перад маштабаваннем ІІ, каб аддаць перавагу якасці малюнка або частаце кадраў. <lf><lf>Патрабуецца відэакарта NVIDIA.",
@@ -6433,7 +6433,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingDescription_DLSSSharpness",
-    "custom": "",
+    "custom": "Рэгулюе выразнасць маштабаванага кадра.",
     "en": "Adjusts the sharpness of the upscaled frame.",
     "ru": "Регулирует резкость масштабированного кадра.",
     "bel": "Рэгулюе выразнасць маштабаванага кадра.",
