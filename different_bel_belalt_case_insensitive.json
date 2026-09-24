@@ -74764,7 +74764,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MurgakhgroUshagKey",
-    "custom": "",
+    "custom": "Ключ Мургака гро-Ушага",
     "en": "Murgakh gro-Ushag's Key",
     "ru": "Ключ Мургака гро-Ушага",
     "bel": "Ключ Мургака гро-Ушага",
@@ -74773,7 +74773,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MyCheydinhalHouse",
-    "custom": "",
+    "custom": "Мой дом у Чэйдынхоле",
     "en": "My Cheydinhal House",
     "ru": "Мой дом в Чейдинхоле",
     "bel": "Мой дом у Чэйдынхоле",
@@ -74782,7 +74782,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MyChorrolHouse",
-    "custom": "",
+    "custom": "Мой дом - Арборвотч",
     "en": "Arborwatch - My House",
     "ru": "Мой дом - Арборвотч",
     "bel": "Мой дом - Арборвотч",
@@ -74791,7 +74791,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MySkingradHouse",
-    "custom": "",
+    "custom": "Мой дом - Роўзторн-Хол",
     "en": "Rosethorn Hall - My House",
     "ru": "Мой дом - Розеторн-Холл",
     "bel": "Мой дом - Роўзторн-Хол",
@@ -74800,7 +74800,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MyWordsEnemy",
-    "custom": "",
+    "custom": "\"Я служу Ворагу.\"",
     "en": "\"I serve the Enemy.\"",
     "ru": "Я служу Врагу.",
     "bel": "Я служу Ворагу.",
@@ -74809,7 +74809,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MyWordsObey",
-    "custom": "",
+    "custom": "Слухаю і павінуюся, о Госпадзе.",
     "en": "I hear and I obey, O Lord.",
     "ru": "Слушаю и повинуюсь, о Господь.",
     "bel": "Слухаю і павінуюся, о Госпадзе.",
@@ -74818,7 +74818,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MyWordsSilent",
-    "custom": "",
+    "custom": "Стайце ціха.",
     "en": "Stand silent.",
     "ru": "Стойте тихо.",
     "bel": "Стайце ціха.",
@@ -74827,7 +74827,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MyWordsSurviveDUPLICATE000",
-    "custom": "",
+    "custom": "МаеСловыВыжывуць",
     "en": "MyWordsSurvive",
     "ru": "МоиСловаВыживут",
     "bel": "МаеСловыВыжывуць",
@@ -74836,7 +74836,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MyWordsYours",
-    "custom": "",
+    "custom": "\"Я твой, мой лорд.\"",
     "en": "\"I am yours, My Lord.\"",
     "ru": "Я твой, мой Лорд.",
     "bel": "Я твой, мой Лорд.",
@@ -74845,7 +74845,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MysteriumXarxes",
-    "custom": "",
+    "custom": "Містэрыум Заркса",
     "en": "Mysterium Xarxes",
     "ru": "Мистериум Заркса",
     "bel": "Містэрыум Заркса",
@@ -74854,7 +74854,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MysticEmporiumKey",
-    "custom": "",
+    "custom": "Ключ ад Міст. эмпорыума",
     "en": "Mystic Emporium Key",
     "ru": "Ключ от Мист. эмпориума",
     "bel": "Ключ ад Міст. эмпорыума",
@@ -74863,7 +74863,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MythicDawn",
-    "custom": "",
+    "custom": "Міфічны Рассвет",
     "en": "Mythic Dawn",
     "ru": "Мифический Рассвет",
     "bel": "Міфічны Рассвет",
@@ -74872,7 +74872,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MythicDawnAdept",
-    "custom": "",
+    "custom": "Адэпт Міфічнага Рассвета",
     "en": "Mythic Dawn Adept",
     "ru": "Адепт Мифического Рассвета",
     "bel": "Адэпт Міфічнага Рассвета",
@@ -74890,7 +74890,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MythicDawnAssassin",
-    "custom": "",
+    "custom": "Асасін Міфічнага Рассвета",
     "en": "Mythic Dawn Assassin",
     "ru": "Ассасин Мифического Рассвета",
     "bel": "Асасін Міфічнага Рассвета",
@@ -74899,7 +74899,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MythicDawnAssassins",
-    "custom": "",
+    "custom": "Фракцыя для вандроўных MD-забойцаў",
     "en": "Faction for roving MD assassins",
     "ru": "Фракция для странствующих MD-убийц",
     "bel": "Фракцыя для вандроўных MD-забойцаў",
@@ -74908,7 +74908,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MythicDawnBaurus",
-    "custom": "",
+    "custom": "Міфічны Рассвет",
     "en": "Mythic Dawn",
     "ru": "Мифический рассвет",
     "bel": "Міфічны Рассвет",
@@ -74917,7 +74917,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MythicDawnCG",
-    "custom": "",
+    "custom": "Міфічны Рассвет для CG",
     "en": "Mythic Dawn for CG",
     "ru": "Мифический Рассвет для CG",
     "bel": "Міфічны Рассвет для CG",
@@ -74926,7 +74926,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MythicDawnCGAssassin",
-    "custom": "",
+    "custom": "Фракцыя для фінальнага MD забойцы ў CG",
     "en": "Faction for final MD assassin in CG",
     "ru": "Фракция для финального MD убийцы в CG",
     "bel": "Фракцыя для фінальнага MD забойцы ў CG",
@@ -74944,7 +74944,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MythicDawnPostulatesBelette",
-    "custom": "",
+    "custom": "Ад Эугала Белетта.",
     "en": "From Eugal Belette.",
     "ru": "От Eugal Belette.",
     "bel": "Ад Eugal Belette.",
@@ -74953,7 +74953,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MythicDawnPostulatesBook",
-    "custom": "",
+    "custom": "Гэта ўсяго толькі кніга, якую я знайшоў.",
     "en": "It's just a book I found.",
     "ru": "Это всего лишь книга, которую я нашел.",
     "bel": "Гэта ўсяго толькі кніга, якую я знайшоў.",
@@ -74962,7 +74962,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MythicDawnPostulatesCampsite",
-    "custom": "",
+    "custom": "З лагера ўнутры Санкрэ Тор.",
     "en": "From a campsite inside Sancre Tor.",
     "ru": "Из лагеря внутри Sancre Tor.",
     "bel": "З лагера ўнутры Sancre Tor.",
@@ -74971,7 +74971,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MythicDawnPostulatesTopic",
-    "custom": "",
+    "custom": "Пастулаты Mythic Dawn",
     "en": "Mythic Dawn Postulates",
     "ru": "Постулаты Mythic Dawn",
     "bel": "Пастулаты Mythic Dawn",
@@ -74980,7 +74980,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MythicDawnPrisoner",
-    "custom": "",
+    "custom": "Фракцыя зняволеных \"Міфічнага Рассвета\"",
     "en": "Mythic Dawn prisoner faction",
     "ru": "Фракция заключённых \"Мифического Рассвета\"",
     "bel": "Фракцыя зняволеных \"Міфічнага Рассвета\"",
@@ -74989,7 +74989,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MythicDawnRobe",
-    "custom": "",
+    "custom": "Роба Міфічнага Рассвета",
     "en": "Mythic Dawn Robe",
     "ru": "Роба Мифического Рассвета",
     "bel": "Роба Міфічнага Рассвета",
@@ -74998,7 +74998,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MythicDawnRobeHood",
-    "custom": "",
+    "custom": "Капюшон Міфічнага Рассвета",
     "en": "Mythic Dawn Hood",
     "ru": "Капюшон Мифического Рассвета",
     "bel": "Капюшон Міфічнага Рассвета",
@@ -75007,7 +75007,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MythicDawnTopic",
-    "custom": "",
+    "custom": "Міфічны Рассвет",
     "en": "Mythic Dawn",
     "ru": "Мифический Рассвет",
     "bel": "Міфічны Рассвет",
@@ -75016,7 +75016,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MythicDawn_LEVEL1_F",
-    "custom": "",
+    "custom": "Служыцель",
     "en": "Acolyte",
     "ru": "Служитель",
     "bel": "Служыцель",
@@ -75025,7 +75025,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MythicDawn_LEVEL1_M",
-    "custom": "",
+    "custom": "Служыцель",
     "en": "Acolyte",
     "ru": "Служитель",
     "bel": "Служыцель",
@@ -75034,7 +75034,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MythicDawnoperations",
-    "custom": "",
+    "custom": "Аперацыі Mythic Dawn",
     "en": "Mythic Dawn operations",
     "ru": "Операции Mythic Dawn",
     "bel": "Аперацыі Mythic Dawn",
@@ -75043,7 +75043,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_MyvrynaArano",
-    "custom": "",
+    "custom": "Міўрына Арано",
     "en": "Myvryna Arano",
     "ru": "Миврина Арано",
     "bel": "Міўрына Арано",
@@ -75052,7 +75052,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND",
-    "custom": "",
+    "custom": "Няма дадзеных",
     "en": "ND",
     "ru": "Нет данных.",
     "bel": "Няма дадзеных.",
@@ -75061,7 +75061,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND00",
-    "custom": "",
+    "custom": "Агульны дыялог пра Дзевяць Багоў",
     "en": "Nine Divines general dialogue",
     "ru": "Общий диалог о Девяти Божествах.",
     "bel": "Агульны дыялог пра Дзевяць Багоў.",
@@ -75070,7 +75070,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND01",
-    "custom": "",
+    "custom": "Магіла Крыжаносца",
     "en": "The Shrine of the Crusader",
     "ru": "Гробница Крестоносца",
     "bel": "Магіла Крыжаносца",
@@ -75088,7 +75088,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND01ActArmorHelmet",
-    "custom": "",
+    "custom": "Шлем Крыжака",
     "en": "Helm of the Crusader",
     "ru": "Шлем Крестоносца",
     "bel": "Шлем Крыжаносца",
@@ -75097,7 +75097,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND01PelinalGhost",
-    "custom": "",
+    "custom": "Пелінал Вайтстрэйк",
     "en": "Pelinal Whitestrake",
     "ru": "Пелинал Вайтстрейк",
     "bel": "Пелінал Вайтстрэйк",
@@ -75106,7 +75106,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND01SirAmielsJournal",
-    "custom": "",
+    "custom": "Дзённік сэра Аміэля",
     "en": "Sir Amiel's Journal",
     "ru": "Дневник сэра Амиэля",
     "bel": "Дзённік сэра Аміэля",
@@ -75115,7 +75115,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND02",
-    "custom": "",
+    "custom": "Прыёрат Дзевяці",
     "en": "Priory of the Nine",
     "ru": "Приорат Девяти",
     "bel": "Прыёрат Дзевяці",
@@ -75124,7 +75124,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND02ActArmorCuirass",
-    "custom": "",
+    "custom": "Кіраса Крыжака",
     "en": "Cuirass of the Crusader",
     "ru": "Кираса Крестоносца",
     "bel": "Кіраса Крыжаносца",
@@ -75133,7 +75133,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND02PrioryKey",
-    "custom": "",
+    "custom": "Ключ ад прыёрата Дзевяці",
     "en": "Priory of the Nine Key",
     "ru": "Ключ от приората Девяти",
     "bel": "Ключ ад прыёрата Дзевяці",
@@ -75142,7 +75142,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND02SirAmielBattleCall",
-    "custom": "",
+    "custom": "Баявы кліч ND02SirAmiel",
     "en": "ND02SirAmielBattleCall",
     "ru": "Боевой клич ND02SirAmiel",
     "bel": "Баявы кліч ND02SirAmiel",
@@ -75151,7 +75151,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND03AltarofKynareth",
-    "custom": "",
+    "custom": "Алтар Кінарэт",
     "en": "Altar of Kynareth",
     "ru": "Алтарь Кинарет",
     "bel": "Алтарь Кінарэт",
@@ -75160,7 +75160,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND03Bear",
-    "custom": "",
+    "custom": "Лясны вартаўнік",
     "en": "Forest Guardian",
     "ru": "Лесной страж",
     "bel": "Лясны вартаўнік",
@@ -75169,7 +75169,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND03ReadyForTest",
-    "custom": "",
+    "custom": "Выдатна. Я прайду гэтае выпрабаванне.",
     "en": "Very well. I shall take this test.",
     "ru": "Отлично. Я пройду это испытание.",
     "bel": "Выдатна. Я прайду гэтае выпрабаванне.",
@@ -75178,7 +75178,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND03RespectNature",
-    "custom": "",
+    "custom": "Баяцца і паважаць Прыроду?",
     "en": "Fear and Respect Nature?",
     "ru": "Бояться и уважать Природу?",
     "bel": "Баяцца і паважаць Прыроду?",
@@ -75187,7 +75187,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND03TellMeMore",
-    "custom": "",
+    "custom": "Працягвай расказ.",
     "en": "Tell me more.",
     "ru": "Продолжай рассказ.",
     "bel": "Працягвай расказ.",
@@ -75196,7 +75196,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND03TestNo",
-    "custom": "",
+    "custom": "Я не буду праходзіць ніякіх выпрабаванняў.",
     "en": "I'm not taking any test.",
     "ru": "Я не буду проходить никаких испытаний.",
     "bel": "Я не буду праходзіць ніякіх выпрабаванняў.",
@@ -75205,7 +75205,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND03TestQuestion",
-    "custom": "",
+    "custom": "Выпрабаванне? Якое?",
     "en": "Test? What test?",
     "ru": "Испытание? Какое?",
     "bel": "Выпрабаванне? Якое?",
@@ -75214,7 +75214,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND03TestofKynareth",
-    "custom": "",
+    "custom": "Выпрабаванне Кінарэт",
     "en": "Test of Kynareth",
     "ru": "Испытание Кинарет",
     "bel": "Выпрабаванне Кінарэт",
@@ -75268,7 +75268,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND04CarodusGreeting1",
-    "custom": "",
+    "custom": "Так, гэта я. А хто ты?",
     "en": "Yes, I am. And who are you?",
     "ru": "Да, это я. А кто ты?",
     "bel": "Так, гэта я. А хто ты?",
@@ -75277,7 +75277,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND04CarodusGreeting2",
-    "custom": "",
+    "custom": "Я проста служыцель Дзевяці.",
     "en": "I am merely a servant of the Nine.",
     "ru": "Я просто служитель Девяти.",
     "bel": "Я проста служыцель Дзевяці.",
@@ -75286,7 +75286,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND04CarodusGreetingAbout",
-    "custom": "",
+    "custom": "А што ты? Якая твая гісторыя?",
     "en": "What about you? What's your story?",
     "ru": "А что ты? Какова твоя история?",
     "bel": "А што ты? Якая твая гісторыя?",
@@ -75295,7 +75295,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND04CarodusGreetingEND",
-    "custom": "",
+    "custom": "Мне трэба ісці.",
     "en": "I have to go.",
     "ru": "Мне нужно идти.",
     "bel": "Мне трэба ісці.",
@@ -75304,7 +75304,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND04CarodusGreetingMace",
-    "custom": "",
+    "custom": "Што можаш расказаць мне пра Булаву?",
     "en": "What can you tell me about the mace?",
     "ru": "Что можешь рассказать мне о Булаве?",
     "bel": "Што можаш расказаць мне пра Булаву?",
@@ -75313,7 +75313,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND04CarodusGreetingZenithar",
-    "custom": "",
+    "custom": "Раскажы мне пра Зенітара.",
     "en": "Tell me about your views on Zenithar.",
     "ru": "Расскажи мне о Зенитаре.",
     "bel": "Раскажы мне пра Зенітара.",
@@ -75322,7 +75322,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND04CarodusPostBattle01",
-    "custom": "",
+    "custom": "Будзе гонарам прыняць цябе.",
     "en": "It will be an honor to have you.",
     "ru": "Будет честью принять тебя.",
     "bel": "Будзе гонарам прыняць цябе.",
@@ -75331,7 +75331,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND04CarodusPostBattle02",
-    "custom": "",
+    "custom": "Ты ўпэўнены, што гатовы?",
     "en": "Are you sure that you are ready?",
     "ru": "Ты уверен, что готов?",
     "bel": "Ты ўпэўнены, што гатовы?",
@@ -75349,7 +75349,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND04SirRalvasGreeting01",
-    "custom": "",
+    "custom": "Як ты пацярпеў няўдачу?",
     "en": "How did you fail?",
     "ru": "Как ты потерпел неудачу?",
     "bel": "Як ты пацярпеў няўдачу?",
@@ -75358,7 +75358,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND04SirRalvasGreeting02",
-    "custom": "",
+    "custom": "Што мне трэба зрабіць?",
     "en": "What must I do?",
     "ru": "Что мне нужно сделать?",
     "bel": "Што мне трэба зрабіць?",
@@ -75367,7 +75367,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND04SirRalvasGreeting03",
-    "custom": "",
+    "custom": "Мая вера пакажа мне шлях?",
     "en": "My faith will guide me?",
     "ru": "Моя вера укажет мне путь?",
     "bel": "Мая вера пакажа мне шлях?",
@@ -75376,7 +75376,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND04SirRalvasGreetingEnd",
-    "custom": "",
+    "custom": "Зараз у мяне няма часу на гэта.",
     "en": "I don't have time for this now.",
     "ru": "Сейчас у меня нет времени на это.",
     "bel": "Зараз у мяне няма часу на гэта.",
@@ -75394,7 +75394,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND05FortBulwarkTopic",
-    "custom": "",
+    "custom": "Форт Булварк",
     "en": "Fort Bulwark",
     "ru": "Форт Булворк",
     "bel": "Форт Булварк",
@@ -75403,7 +75403,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND05FortKey",
-    "custom": "",
+    "custom": "Ключ ад форта Булварк",
     "en": "Fort Bulwark Key",
     "ru": "Ключ от форта Булворк",
     "bel": "Ключ ад форта Булварк",
@@ -75475,7 +75475,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND05MiscGem",
-    "custom": "",
+    "custom": "Каштоўнасць Родгара",
     "en": "Rodgar's Gem",
     "ru": "Драгоценность Родгара",
     "bel": "Каштоўнасць Родгара",
@@ -75511,7 +75511,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND05ThedretPhrase",
-    "custom": "",
+    "custom": "Што табе вядома?",
     "en": "What do you know?",
     "ru": "Что тебе известно?",
     "bel": "Што табе вядома?",
@@ -75520,7 +75520,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND05ThedretWhat",
-    "custom": "",
+    "custom": "Што ты тут робіш?",
     "en": "What are you doing here?",
     "ru": "Что ты здесь делаешь?",
     "bel": "Што ты тут робіш?",
@@ -75529,7 +75529,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND05WhatDoYouMean",
-    "custom": "",
+    "custom": "Што вы маеце на ўвазе?",
     "en": "What do you mean?",
     "ru": "Что ты имеешь в виду?",
     "bel": "Што ты маеш на ўвазе?",
@@ -75538,7 +75538,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND06CasimirGauntlets",
-    "custom": "",
+    "custom": "Што наконт пальчатак?",
     "en": "What about the Gauntlets?",
     "ru": "Что насчет Перчаток?",
     "bel": "Што наконт пальчатак?",
@@ -75547,7 +75547,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND06CasimirHurryUp",
-    "custom": "",
+    "custom": "Да справы.",
     "en": "Get to the point.",
     "ru": "К делу.",
     "bel": "Да справы.",
@@ -75556,7 +75556,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND06CasimirStory1",
-    "custom": "",
+    "custom": "Калі ласка, раскажы.",
     "en": "Please, tell me.",
     "ru": "Прошу, расскажи.",
     "bel": "Калі ласка, раскажы.",
@@ -75565,7 +75565,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND06CasimirStoryCurse",
-    "custom": "",
+    "custom": "Пракляты? Што ты маеш на ўвазе?",
     "en": "Cursed? What do you mean?",
     "ru": "Проклят? Что ты имеешь в виду?",
     "bel": "Пракляты? Што ты маеш на ўвазе?",
@@ -75574,7 +75574,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND06Curse",
-    "custom": "",
+    "custom": "Праклён аслабленага",
     "en": "Curse of the Consumed",
     "ru": "Проклятье ослабленного",
     "bel": "Праклён аслабленага",
@@ -75583,7 +75583,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND06KellenRumors",
-    "custom": "",
+    "custom": "Чуткі пра ND06Kellen",
     "en": "ND06KellenRumors",
     "ru": "Слухи об ND06Kellen",
     "bel": "Чуткі пра ND06Kellen",
@@ -75592,7 +75592,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND06KellenShouts",
-    "custom": "",
+    "custom": "Келен крычыць, як парэзаны",
     "en": "ND06KellenShouts",
     "ru": "Келлен кричит, как резаный.",
     "bel": "Келен крычыць, як парэзаны.",
@@ -75601,7 +75601,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND06LayHands",
-    "custom": "",
+    "custom": "Ускласці рукі",
     "en": "Lay Hands",
     "ru": "Наложение рук",
     "bel": "Ускладанне рук",
@@ -75610,7 +75610,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND06Story",
-    "custom": "",
+    "custom": "Мне хацелася б даведацца іх гісторыю.",
     "en": "I'd like to know their story.",
     "ru": "Мне хотелось бы узнать их историю.",
     "bel": "Мне хацелася б даведацца іх гісторыю.",
@@ -75619,7 +75619,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND06StoryDontCare",
-    "custom": "",
+    "custom": "Мне ўсё роўна. Яны патрэбныя мне.",
     "en": "I don't care. I want them.",
     "ru": "Мне все равно. Они нужны мне.",
     "bel": "Мне ўсё роўна. Яны патрэбныя мне.",
@@ -75628,7 +75628,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND06TellKellenLie",
-    "custom": "",
+    "custom": "[Хлусня] Цябе не выратаваць.",
     "en": "[Lie] There's no way to save you.",
     "ru": "[Ложь] Тебя не спасти.",
     "bel": "[Хлусня] Цябе не выратаваць.",
@@ -75637,7 +75637,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND06WantGauntlets",
-    "custom": "",
+    "custom": "Я планую забраць іх.",
     "en": "I've come to retrieve them.",
     "ru": "Я планирую забрать их.",
     "bel": "Я планую забраць іх.",
@@ -75646,7 +75646,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND06WhatTalking",
-    "custom": "",
+    "custom": "Пра што ты кажаш?",
     "en": "What are you talking about?",
     "ru": "О чем ты говоришь?",
     "bel": "Пра што ты кажаш?",
@@ -75655,7 +75655,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND07LathonGreetB1",
-    "custom": "",
+    "custom": "Пячора Андэрпал? Знаёмае месца.",
     "en": "Underpall Cave? I've been there.",
     "ru": "Пещера Андерпалл? Знакомое место.",
     "bel": "Пячора Андэрпал? Знаёмае месца.",
@@ -75664,7 +75664,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND07LathonGreetB2",
-    "custom": "",
+    "custom": "Няма сумневаў, што ён загінуў годна.",
     "en": "I'm sure he died well.",
     "ru": "Нет сомнений, что он погиб достойно.",
     "bel": "Няма сумневаў, што ён загінуў годна.",
@@ -75673,7 +75673,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND07LathonGreetC1",
-    "custom": "",
+    "custom": "Ты ведаеш, дзе Рэліквіі?",
     "en": "You know where the Relics are?",
     "ru": "Ты знаешь, где Реликвии?",
     "bel": "Ты ведаеш, дзе Рэліквіі?",
@@ -75682,7 +75682,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND07LathonGreetD1",
-    "custom": "",
+    "custom": "А Меч? Што стала з ім?",
     "en": "And the Sword? What happened to it?",
     "ru": "А Меч? Что стало с ним?",
     "bel": "А Меч? Што стала з ім?",
@@ -75691,7 +75691,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND07LathonGreetD2A",
-    "custom": "",
+    "custom": "Супакойся. Зараз ты ў бяспецы.",
     "en": "Take it easy. You're safe now.",
     "ru": "Успокойся. Теперь ты в безопасности.",
     "bel": "Супакойся. Зараз ты ў бяспецы.",
@@ -75700,7 +75700,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND07LathonGreetE1",
-    "custom": "",
+    "custom": "Ты малайчына, Латон.",
     "en": "You did well, Lathon.",
     "ru": "Ты молодец, Латон.",
     "bel": "Ты малайчына, Латон.",
@@ -75709,7 +75709,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND07LathonGreetE2",
-    "custom": "",
+    "custom": "Я адпомшчу за сэра Родэрыка.",
     "en": "I will avenge Sir Roderic.",
     "ru": "Я отомщу за сэра Родерика.",
     "bel": "Я адпомшчу за сэра Родэрыка.",
@@ -75718,7 +75718,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND07LathonGreetF1",
-    "custom": "",
+    "custom": "Вітаем, сэр Латон.",
     "en": "Rise, Sir Lathon.",
     "ru": "Добро пожаловать, сэр Латон.",
     "bel": "Вітаем, сэр Латон.",
@@ -75727,7 +75727,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND07LathonGreetF2",
-    "custom": "",
+    "custom": "Яшчэ не. Пакуль рана.",
     "en": "Not yet. You're not ready.",
     "ru": "Еще нет. Пока рано.",
     "bel": "Яшчэ не. Пакуль рана.",
@@ -75790,7 +75790,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND08OhtesseDead",
-    "custom": "",
+    "custom": "Отэса",
     "en": "Ohtesse",
     "ru": "Отесса",
     "bel": "Отэса",
@@ -75799,7 +75799,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND08Tomb",
-    "custom": "",
+    "custom": "Магіла лорда Вліндрэла",
     "en": "Tomb of Lord Vlindrel",
     "ru": "Гробница лорда Влиндрела",
     "bel": "Магіла лорда Вліндрэла",
@@ -75808,7 +75808,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND08TombDELETEME",
-    "custom": "",
+    "custom": "Магіла лорда Вліндрэла",
     "en": "Tomb of Lord Vlindrel",
     "ru": "Гробница лорда Влиндрела",
     "bel": "Магіла лорда Вліндрэла",
@@ -75817,7 +75817,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND08Wraith1",
-    "custom": "",
+    "custom": "Лорд Берык Вліндрэл",
     "en": "Lord Berich Vlindrel",
     "ru": "Лорд Берик Влиндрел",
     "bel": "Лорд Берык Вліндрэл",
@@ -75826,7 +75826,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND08Wraith2",
-    "custom": "",
+    "custom": "Лорд Берык Вліндрэл",
     "en": "Lord Berich Vlindrel",
     "ru": "Лорд Берик Влиндрел",
     "bel": "Лорд Берык Вліндрэл",
@@ -75835,7 +75835,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND08Wraith3",
-    "custom": "",
+    "custom": "Лорд Берык Вліндрэл",
     "en": "Lord Berich Vlindrel",
     "ru": "Лорд Берик Влиндрел",
     "bel": "Лорд Берык Вліндрэл",
@@ -75844,7 +75844,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND08Wraith4",
-    "custom": "",
+    "custom": "Лорд Берык Вліндрэл",
     "en": "Lord Berich Vlindrel",
     "ru": "Лорд Берик Влиндрел",
     "bel": "Лорд Берык Вліндрэл",
@@ -75853,7 +75853,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND08Wraith5",
-    "custom": "",
+    "custom": "Лорд Берык Вліндрэл",
     "en": "Lord Berich Vlindrel",
     "ru": "Лорд Берик Влиндрел",
     "bel": "Лорд Берык Вліндрэл",
@@ -75862,7 +75862,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND09ProphetGreeting01",
-    "custom": "",
+    "custom": "Значыць, падрыхтоўка завершана?",
     "en": "I am ready then?",
     "ru": "Значит, подготовка завершена?",
     "bel": "Значыць, падрыхтоўка завершана?",
@@ -75871,7 +75871,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND09ProphetGreeting02C",
-    "custom": "",
+    "custom": "Тады як знішчыць Умарыла?",
     "en": "How do I destroy Umaril, then?",
     "ru": "Тогда как уничтожить Умарила?",
     "bel": "Тады як знішчыць Умарыла?",
@@ -75880,7 +75880,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND09ProphetGreeting02a",
-    "custom": "",
+    "custom": "Вы маеце на ўвазе Таласа?",
     "en": "You mean Talos?",
     "ru": "Вы имеете в виду Талоса?",
     "bel": "Вы маеце на ўвазе Таласа?",
@@ -75889,7 +75889,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND09ProphetGreeting03",
-    "custom": "",
+    "custom": "Што дае благаслаўленне?",
     "en": "What does the Blessing do?",
     "ru": "Что дает благословение?",
     "bel": "Што дае благаслаўленне?",
@@ -75898,7 +75898,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND09ProphetQuestions",
-    "custom": "",
+    "custom": "У мяне яшчэ ёсць пытанні.",
     "en": "I have more questions.",
     "ru": "У меня еще есть вопросы.",
     "bel": "У мяне яшчэ ёсць пытанні.",
@@ -75907,7 +75907,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND09ProphetQuestions01",
-    "custom": "",
+    "custom": "Раскажы мне пра гэты артэфакт.",
     "en": "Tell me about this artifact.",
     "ru": "Расскажи мне об этом артефакте.",
     "bel": "Раскажы мне пра гэты артэфакт.",
@@ -75916,7 +75916,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND09ProphetQuestions02",
-    "custom": "",
+    "custom": "Я хачу даведацца пра духа Умарыла.",
     "en": "I want to know about Umaril's spirit.",
     "ru": "Я хочу узнать о духе Умарила.",
     "bel": "Я хачу даведацца пра духа Умарыла.",
@@ -75925,7 +75925,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND09ProphetQuestionsEnd",
-    "custom": "",
+    "custom": "Вось і ўсё. Мне пара.",
     "en": "That's all. I'm ready.",
     "ru": "Вот и все. Мне пора.",
     "bel": "Вось і ўсё. Мне пара.",
@@ -75934,7 +75934,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND09ProphetSermon01",
-    "custom": "",
+    "custom": "Казанне ND09ProphetSermon01",
     "en": "ND09ProphetSermon01",
     "ru": "Проповедь ND09ProphetSermon01",
     "bel": "Казанне ND09ProphetSermon01",
@@ -75943,7 +75943,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND09ProphetSermon02",
-    "custom": "",
+    "custom": "Казанне ND09ProphetSermon02",
     "en": "ND09ProphetSermon02",
     "ru": "Проповедь ND09ProphetSermon02",
     "bel": "Казанне ND09ProphetSermon02",
@@ -75952,7 +75952,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND09ProphetSermon03",
-    "custom": "",
+    "custom": "Казанне ND09ProphetSermon03",
     "en": "ND09ProphetSermon03",
     "ru": "Проповедь ND09ProphetSermon03",
     "bel": "Казанне ND09ProphetSermon03",
@@ -75961,7 +75961,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10",
-    "custom": "",
+    "custom": "Умарыл Неапярённы",
     "en": "Umaril the Unfeathered",
     "ru": "Умарил Неоперенный",
     "bel": "Умарыл Неапярённы",
@@ -76015,7 +76015,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10BattleTrigger01",
-    "custom": "",
+    "custom": "Націснуць блок",
     "en": "Push Block",
     "ru": "Толкнуть блок",
     "bel": "Штурхнуць блок",
@@ -76024,7 +76024,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10BattleTrigger02",
-    "custom": "",
+    "custom": "Націснуць блок",
     "en": "Push Block",
     "ru": "Толкнуть блок",
     "bel": "Штурхнуць блок",
@@ -76033,7 +76033,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10FIN",
-    "custom": "",
+    "custom": "ND10 Сцэна пасля квэста",
     "en": "ND10 Post-Quest Scene",
     "ru": "ND10 Post-Quest Scene<cf>ND10: Сцена после квеста",
     "bel": "ND10 Post-Quest Scene<cf>ND10: Сцэна пасля квэста",
@@ -76042,7 +76042,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10FinThedretGreeting01",
-    "custom": "",
+    "custom": "Шматлікія цуды напагатове ў Дзевяці.",
     "en": "The wonders of the Nine are many.",
     "ru": "Множество чудес припасено Девятью.",
     "bel": "Шматлікія цуды напагатове ў Дзевяці.",
@@ -76051,7 +76051,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10FinThedretGreeting01a",
-    "custom": "",
+    "custom": "Нават смерць не спыніць Крыжака.",
     "en": "Even death cannot stop the Crusader.",
     "ru": "Даже смерть не остановит Крестоносца.",
     "bel": "Нават смерць не спыніць Крыжака.",
@@ -76060,7 +76060,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10FinThedretGreeting02",
-    "custom": "",
+    "custom": "Сама яго душа знішчана мною.",
     "en": "I have severed his very soul.",
     "ru": "Сама его душа уничтожена мною.",
     "bel": "Сама яго душа знішчана мною.",
@@ -76069,7 +76069,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10FinThedretGreeting02a",
-    "custom": "",
+    "custom": "Так. Ён знішчаны мною беззваротна.",
     "en": "Of course. I destroyed him utterly.",
     "ru": "Да. Он уничтожен мною безвозвратно.",
     "bel": "Так. Ён знішчаны мною беззваротна.",
@@ -76078,7 +76078,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10GarlasBarrier",
-    "custom": "",
+    "custom": "Таямнічыя вароты",
     "en": "Mystical Gate",
     "ru": "Таинственные врата",
     "bel": "Таямнічыя вароты",
@@ -76087,7 +76087,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10LaunchAttackNo",
-    "custom": "",
+    "custom": "Не. Чакайце майго сігналу.",
     "en": "No. Wait for my signal.",
     "ru": "Нет. Ждите моего сигнала.",
     "bel": "Не. Чакайце майго сігналу.",
@@ -76096,7 +76096,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10SirAmielSpeech01",
-    "custom": "",
+    "custom": "Прамова ND10SirAmielSpeech01",
     "en": "ND10SirAmielSpeech01",
     "ru": "Речь ND10SirAmielSpeech01",
     "bel": "Прамова ND10SirAmielSpeech01",
@@ -76105,7 +76105,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10SirAmielSpeech02",
-    "custom": "",
+    "custom": "Прамова ND10SirAmielSpeech02",
     "en": "ND10SirAmielSpeech02",
     "ru": "Речь ND10SirAmielSpeech02",
     "bel": "Прамова ND10SirAmielSpeech02",
@@ -76114,7 +76114,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10SirAmielSpeech03",
-    "custom": "",
+    "custom": "Прамова ND10SirAmielSpeech03",
     "en": "ND10SirAmielSpeech03",
     "ru": "Речь ND10SirAmielSpeech03",
     "bel": "Прамова ND10SirAmielSpeech03",
@@ -76123,7 +76123,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10SirAmielSpeech04",
-    "custom": "",
+    "custom": "Прамова ND10SirAmielSpeech04",
     "en": "ND10SirAmielSpeech04",
     "ru": "Речь ND10SirAmielSpeech04",
     "bel": "Прамова ND10SirAmielSpeech04",
@@ -76132,7 +76132,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10SirAmielSpeech05",
-    "custom": "",
+    "custom": "Прамова ND10SirAmielSpeech05",
     "en": "ND10SirAmielSpeech05",
     "ru": "Речь ND10SirAmielSpeech05",
     "bel": "Прамова ND10SirAmielSpeech05",
@@ -76141,7 +76141,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10SirAmielSpeech06",
-    "custom": "",
+    "custom": "Прамова ND10SirAmielSpeech06",
     "en": "ND10SirAmielSpeech06",
     "ru": "Речь ND10SirAmielSpeech06",
     "bel": "Прамова ND10SirAmielSpeech06",
@@ -76150,7 +76150,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10SirAmielSpeech07",
-    "custom": "",
+    "custom": "Прамова ND10SirAmielSpeech07",
     "en": "ND10SirAmielSpeech07",
     "ru": "Речь ND10SirAmielSpeech07",
     "bel": "Прамова ND10SirAmielSpeech07",
@@ -76159,7 +76159,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10SirThedretSpeech01",
-    "custom": "",
+    "custom": "Прамова ND10SirThedretSpeech01",
     "en": "ND10SirThedretSpeech01",
     "ru": "Речь ND10SirThedretSpeech01",
     "bel": "Прамова ND10SirThedretSpeech01",
@@ -76168,7 +76168,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10SirThedretSpeech02",
-    "custom": "",
+    "custom": "Прамова ND10SirThedretSpeech02",
     "en": "ND10SirThedretSpeech02",
     "ru": "Речь ND10SirThedretSpeech02",
     "bel": "Прамова ND10SirThedretSpeech02",
@@ -76177,7 +76177,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10SirThedretSpeech03",
-    "custom": "",
+    "custom": "Прамова ND10SirThedretSpeech03",
     "en": "ND10SirThedretSpeech03",
     "ru": "Речь ND10SirThedretSpeech03",
     "bel": "Прамова ND10SirThedretSpeech03",
@@ -76186,7 +76186,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10SirThedretSpeech04",
-    "custom": "",
+    "custom": "Прамова ND10SirThedretSpeech04",
     "en": "ND10SirThedretSpeech04",
     "ru": "Речь ND10SirThedretSpeech04",
     "bel": "Прамова ND10SirThedretSpeech04",
@@ -76195,7 +76195,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10SirThedretSpeech05",
-    "custom": "",
+    "custom": "Прамова ND10SirThedretSpeech05",
     "en": "ND10SirThedretSpeech05",
     "ru": "Речь ND10SirThedretSpeech05",
     "bel": "Прамова ND10SirThedretSpeech05",
@@ -76204,7 +76204,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10SirThedretSpeech06",
-    "custom": "",
+    "custom": "Прамова ND10SirThedretSpeech06",
     "en": "ND10SirThedretSpeech06",
     "ru": "Речь ND10SirThedretSpeech06",
     "bel": "Прамова ND10SirThedretSpeech06",
@@ -76213,7 +76213,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10SmiteItem",
-    "custom": "",
+    "custom": "Знішчыць шар",
     "en": "Destroy Orb",
     "ru": "Уничтожить шар",
     "bel": "Знішчыць шар",
@@ -76222,7 +76222,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10UmarilRealTEMPLATE",
-    "custom": "",
+    "custom": "Умарыл Неапярённы",
     "en": "Umaril the Unfeathered",
     "ru": "Умарил Неоперенный",
     "bel": "Умарыл Неапярённы",
@@ -76231,7 +76231,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10UmarilSpiritTEMPLATE",
-    "custom": "",
+    "custom": "Умарыл Неапярённы",
     "en": "Umaril the Unfeathered",
     "ru": "Умарил Неоперенный",
     "bel": "Умарыл Неапярённы",
@@ -76240,7 +76240,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10UmarilVoice",
-    "custom": "",
+    "custom": "Голас ND10Umaril",
     "en": "ND10UmarilVoice",
     "ru": "Голос ND10Umaril",
     "bel": "Голас ND10Umaril",
@@ -76249,7 +76249,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ND10UmarilVoiceSky",
-    "custom": "",
+    "custom": "Голас ND10UmarilVoiceSky",
     "en": "ND10UmarilVoiceSky",
     "ru": "Голос ND10UmarilVoiceSky",
     "bel": "Голас ND10UmarilVoiceSky",
@@ -76258,7 +76258,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDAbAuroranResist",
-    "custom": "",
+    "custom": "Супраціўленне аўрарыянца",
     "en": "Auroran Resistances",
     "ru": "Сопротивление аврорианца",
     "bel": "Супраціўленне аўрарыянца",
@@ -76267,7 +76267,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDAbGhostResist",
-    "custom": "",
+    "custom": "Эфірная супраціўляльнасць нежыці",
     "en": "Undead Ethereal Resistances",
     "ru": "Иномирное сопротивление нежити",
     "bel": "Іншасветны супраціўленне нежыці",
@@ -76276,7 +76276,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDAbMaceFortBlunt",
-    "custom": "",
+    "custom": "Длань Крыжака",
     "en": "Crusader's Arm",
     "ru": "Длань Крестоносца",
     "bel": "Длань Крыжака",
@@ -76285,7 +76285,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDAbRewardBlessing01",
-    "custom": "",
+    "custom": "Благаслаўленне Стэндара",
     "en": "Stendarr's Blessing",
     "ru": "Благословение Стендарра",
     "bel": "Благаслаўленне Стэндара",
@@ -76294,7 +76294,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDAbRewardBlessing03",
-    "custom": "",
+    "custom": "Благаслаўленне Джуліянаса",
     "en": "Julianos' Blessing",
     "ru": "Благословение Джулианоса",
     "bel": "Благаслаўленне Джуліянаса",
@@ -76303,7 +76303,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDAbRewardBlessing04",
-    "custom": "",
+    "custom": "Благаслаўленне Дзібелы",
     "en": "Dibella's Blessing",
     "ru": "Благословение Дибеллы",
     "bel": "Благаслаўленне Дзібелы",
@@ -76312,7 +76312,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDAbRewardBlessing05",
-    "custom": "",
+    "custom": "Благаслаўленне Кінарэт",
     "en": "Kynareth's Blessing",
     "ru": "Благословение Кинарет",
     "bel": "Благаслаўленне Кінарэт",
@@ -76321,7 +76321,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDAbRewardBlessing07",
-    "custom": "",
+    "custom": "Благаслаўленне Аркея",
     "en": "Arkay's Blessing",
     "ru": "Благословение Аркея",
     "bel": "Благаслаўленне Аркея",
@@ -76330,7 +76330,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDAbRewardBlessing08",
-    "custom": "",
+    "custom": "Благаслаўленне Зенітара",
     "en": "Zenithar's Blessing",
     "ru": "Благословение Зенитара",
     "bel": "Благаслаўленне Зенітара",
@@ -76339,7 +76339,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDAbSpiritNPC",
-    "custom": "",
+    "custom": "Дух Боскага",
     "en": "Spirit of the Divine",
     "ru": "Божественный дух",
     "bel": "Боскі дух",
@@ -76348,7 +76348,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDAbSwordFortBlade",
-    "custom": "",
+    "custom": "Длань Крыжака",
     "en": "Crusader's Arm",
     "ru": "Длань Крестоносца",
     "bel": "Длань Крыжака",
@@ -76357,7 +76357,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDAbUmarilResist",
-    "custom": "",
+    "custom": "Супраціўленне дэмана-айлейда",
     "en": "Ayleid Demon Resistances",
     "ru": "Сопротивление демона-айлейда",
     "bel": "Супраціўленне дэмана-айлейда",
@@ -76366,7 +76366,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDAbUmarilWeakFire",
-    "custom": "",
+    "custom": "Пошасць Крыжака",
     "en": "Crusader's Bane",
     "ru": "Бич Крестоносца",
     "bel": "Пошасць Крыжака",
@@ -76375,7 +76375,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDAbWoodlandGrace",
-    "custom": "",
+    "custom": "Літасць лясоў",
     "en": "Woodland Grace",
     "ru": "Милость лесов",
     "bel": "Літасць лясоў",
@@ -76393,7 +76393,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDAnvilChapel",
-    "custom": "",
+    "custom": "Капліца Анвіла",
     "en": "Anvil Chapel",
     "ru": "Часовня Анвила",
     "bel": "Капліца Анвіла",
@@ -76582,7 +76582,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDArmorStand",
-    "custom": "",
+    "custom": "Стойка для броні",
     "en": "Armor Stand",
     "ru": "Стойка для брони",
     "bel": "Стойка для броні",
@@ -76654,7 +76654,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDAuroranBattleAxe2Steel",
-    "custom": "",
+    "custom": "Грубы айлейдскі сякера",
     "en": "Crude Ayleid Battle-Axe",
     "ru": "Грубый айлейдский топор",
     "bel": "Грубы айлейдскі сякера",
@@ -76663,7 +76663,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDAuroranBattleAxe3Silver",
-    "custom": "",
+    "custom": "Тупы айлейдскі сякера",
     "en": "Dull Ayleid Battle-Axe",
     "ru": "Тупой айлейдский топор",
     "bel": "Тупы айлейдскі сякера",
@@ -76672,7 +76672,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDAuroranBattleAxe4Dwarven",
-    "custom": "",
+    "custom": "Айлейдскі баявы сякера",
     "en": "Ayleid Battle-Axe",
     "ru": "Айлейдский боевой топор",
     "bel": "Айлейдскі баявы сякера",
@@ -76681,7 +76681,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDAuroranBattleAxe5Elven",
-    "custom": "",
+    "custom": "Добры айлейдскі сякера",
     "en": "Fine Ayleid Battle-Axe",
     "ru": "Хороший айлейдский топор",
     "bel": "Добры айлейдскі сякера",
@@ -76690,7 +76690,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDAuroranBattleAxe6Glass",
-    "custom": "",
+    "custom": "Востры айлейдскі сякера",
     "en": "Keen Ayleid Battle-Axe",
     "ru": "Острый айлейдский топор",
     "bel": "Востры айлейдскі сякера",
@@ -76699,7 +76699,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDAuroranBattleAxe7Ebony",
-    "custom": "",
+    "custom": "Выдатны айлейдскі сякера",
     "en": "Superb Ayleid Battle-Axe",
     "ru": "Отличный айлейдский топор",
     "bel": "Выдатны айлейдскі сякера",
@@ -76708,7 +76708,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDAuroranBattleAxe8Daedric",
-    "custom": "",
+    "custom": "Айлейдскі сякера майстра",
     "en": "Master Ayleid Battle-Axe",
     "ru": "Айлейдский топор мастера",
     "bel": "Айлейдскі сякера майстра",
@@ -76717,7 +76717,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDAvitaVesnia",
-    "custom": "",
+    "custom": "Эвіта Веснія",
     "en": "Avita Vesnia",
     "ru": "Эвита Весния",
     "bel": "Эвіта Веснія",
@@ -76726,7 +76726,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDBlessingOfTalos",
-    "custom": "",
+    "custom": "Дабраславенне Таласа",
     "en": "Blessing of Talos",
     "ru": "Благословение Талоса",
     "bel": "Благаславенне Таласа",
@@ -76735,7 +76735,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDBook2ReligiousSongofPelinalV1",
-    "custom": "",
+    "custom": "Песня пра Пелінала, т. 1",
     "en": "The Song of Pelinal, v1",
     "ru": "Песнь о Пелинале, т. 1",
     "bel": "Песня пра Пелінала, т. 1",
@@ -76744,7 +76744,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDBook2ReligiousSongofPelinalV2",
-    "custom": "",
+    "custom": "Песня пра Пелінала, т. 2",
     "en": "The Song of Pelinal, v2",
     "ru": "Песнь о Пелинале, т. 2",
     "bel": "Песня пра Пелінала, т. 2",
@@ -76753,7 +76753,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDBook2ReligiousSongofPelinalV3",
-    "custom": "",
+    "custom": "Песня пра Пелінала, т. 3",
     "en": "The Song of Pelinal, v3",
     "ru": "Песнь о Пелинале, т. 3",
     "bel": "Песня пра Пелінала, т. 3",
@@ -76762,7 +76762,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDBook2ReligiousSongofPelinalV4",
-    "custom": "",
+    "custom": "Песня пра Пелінала, т. 4",
     "en": "The Song of Pelinal, v4",
     "ru": "Песнь о Пелинале, т. 4",
     "bel": "Песня пра Пелінала, т. 4",
@@ -76771,7 +76771,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDBook2ReligiousSongofPelinalV5",
-    "custom": "",
+    "custom": "Песня пра Пелінала, т. 5",
     "en": "The Song of Pelinal, v5",
     "ru": "Песнь о Пелинале, т. 5",
     "bel": "Песня пра Пелінала, т. 5",
@@ -76780,7 +76780,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDBook2ReligiousSongofPelinalV6",
-    "custom": "",
+    "custom": "Песня пра Пелінала, т. 6",
     "en": "The Song of Pelinal, v6",
     "ru": "Песнь о Пелинале, т. 6",
     "bel": "Песня пра Пелінала, т. 6",
@@ -76789,7 +76789,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDBook2ReligiousSongofPelinalV7",
-    "custom": "",
+    "custom": "Песня пра Пелінала, т. 7",
     "en": "The Song of Pelinal, v7",
     "ru": "Песнь о Пелинале, т. 7",
     "bel": "Песня пра Пелінала, т. 7",
@@ -76798,7 +76798,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDBook2ReligiousSongofPelinalV8",
-    "custom": "",
+    "custom": "Песня пра Пелінала, т. 8",
     "en": "The Song of Pelinal, v8",
     "ru": "Песнь о Пелинале, т. 8",
     "bel": "Песня пра Пелінала, т. 8",
@@ -76807,7 +76807,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDBook3ValuableShezarr",
-    "custom": "",
+    "custom": "Шэзар і Багі",
     "en": "Shezarr and the Divines",
     "ru": "Шезарр и Боги",
     "bel": "Шэзар і Багі",
@@ -76816,7 +76816,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDBrellin",
-    "custom": "",
+    "custom": "Брэлін",
     "en": "Brellin",
     "ru": "Бреллин",
     "bel": "Брэлін",
@@ -76825,7 +76825,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDBulwark02DrawBridgeRAISED01",
-    "custom": "",
+    "custom": "Пад'ёмны мост",
     "en": "Drawbridge",
     "ru": "Подъемный мост",
     "bel": "Падымальны мост",
@@ -76834,7 +76834,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDBulwark02SwitchThedretCell",
-    "custom": "",
+    "custom": "Павярнуць ручку",
     "en": "Turn Handle",
     "ru": "Повернуть рукоять",
     "bel": "Павярнуць дзяржальню",
@@ -76843,7 +76843,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDChapelAttackTopic",
-    "custom": "",
+    "custom": "Атака на капліцу Анвіла",
     "en": "Anvil Chapel attack",
     "ru": "Атака на часовню Анвила",
     "bel": "Атака на капліцу Анвіла",
@@ -76861,7 +76861,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDConversations",
-    "custom": "",
+    "custom": "Заданне ND: Размовы",
     "en": "ND Conversations quest",
     "ru": "Задание ND: Разговоры",
     "bel": "Заданне ND: Размовы",
@@ -76870,7 +76870,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDEmilNPC2",
-    "custom": "",
+    "custom": "ND Размова з Хлопцам 2",
     "en": "ND Conversation Guy 2",
     "ru": "ND Разговор с парнем 2",
     "bel": "ND Размова з Хлопцам 2",
@@ -76879,7 +76879,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDEmilNPC3",
-    "custom": "",
+    "custom": "ND Размова з Хлопцам 2",
     "en": "ND Conversation Guy 2",
     "ru": "ND Разговор с парнем 2",
     "bel": "ND Размова з Хлопцам 2",
@@ -76888,7 +76888,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDEmilNPC4",
-    "custom": "",
+    "custom": "ND Размова з Хлопцам 2",
     "en": "ND Conversation Guy 2",
     "ru": "ND Разговор с Парнем 2",
     "bel": "ND Размова з Хлопцам 2",
@@ -76897,7 +76897,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDEmilNPC5",
-    "custom": "",
+    "custom": "ND Размова з Хлопцам 2",
     "en": "ND Conversation Guy 2",
     "ru": "ND Разговор с парнем 2",
     "bel": "ND Размова з Хлопцам 2",
@@ -76906,7 +76906,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDEmilNPC6",
-    "custom": "",
+    "custom": "ND Размова з Персанажам 2",
     "en": "ND Conversation Guy 2",
     "ru": "ND Разговор с персонажем 2",
     "bel": "ND Размова з Персанажам 2",
@@ -76915,7 +76915,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDEmilNPC7",
-    "custom": "",
+    "custom": "ND Размова з Хлопцам 2",
     "en": "ND Conversation Guy 2",
     "ru": "ND Разговор с парнем 2",
     "bel": "ND Размова з Хлопцам 2",
@@ -76924,7 +76924,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDEmilNPC8",
-    "custom": "",
+    "custom": "ND Conversation Guy 2",
     "en": "ND Conversation Guy 2",
     "ru": "ND Conversation Guy 2",
     "bel": "ND Conversation Guy 2",
@@ -76933,7 +76933,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDFortBulwark",
-    "custom": "",
+    "custom": "Форт Булварк",
     "en": "Fort Bulwark",
     "ru": "Форт Булворк",
     "bel": "Форт Булворк",
@@ -76942,7 +76942,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDFortBulwark02",
-    "custom": "",
+    "custom": "Форт Булварк",
     "en": "Fort Bulwark",
     "ru": "Форт Булворк",
     "bel": "Форт Булворк",
@@ -76951,7 +76951,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDFortBulwark03",
-    "custom": "",
+    "custom": "Форт Булварк",
     "en": "Fort Bulwark",
     "ru": "Форт Булворк",
     "bel": "Форт Булворк",
@@ -76969,7 +76969,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDGarlasMalatar02a",
-    "custom": "",
+    "custom": "Гарлас Малатар, Кейсель",
     "en": "Garlas Malatar, Ceysel",
     "ru": "Гарлас Малатар, Кейсель",
     "bel": "Гарлас Малатар, Кейсель",
@@ -76996,7 +76996,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDGreetings",
-    "custom": "",
+    "custom": "Для сусветных прывітанняў і \"добры дзень\".",
     "en": "For world-wide greetings and hellos",
     "ru": "Для всемирных приветствий и \"здравствуй\".",
     "bel": "Для сусветных прывітанняў і \"добры дзень\".",
@@ -77005,7 +77005,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDJoinOrderAccept",
-    "custom": "",
+    "custom": "Сардэчна запрашаем у ордэн.",
     "en": "I accept. Welcome to the Order.",
     "ru": "Добро пожаловать в орден.",
     "bel": "Сардэчна запрашаем у ордэн.",
@@ -77014,7 +77014,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDJoinOrderReject",
-    "custom": "",
+    "custom": "Яшчэ рана.",
     "en": "You are not yet worthy.",
     "ru": "Пока еще рано.",
     "bel": "Яшчэ рана.",
@@ -77023,7 +77023,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDKinther",
-    "custom": "",
+    "custom": "Кінтар",
     "en": "Kinther",
     "ru": "Кинтер",
     "bel": "Кінтар",
@@ -77032,7 +77032,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDKnightStopFollow",
-    "custom": "",
+    "custom": "Вярніцеся да сваіх абавязкаў.",
     "en": "Return to your duties.",
     "ru": "Возвращайся к своим занятиям.",
     "bel": "Вяртайся да сваіх заняткаў.",
@@ -77041,7 +77041,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDKnightTombAmiel",
-    "custom": "",
+    "custom": "Магільня сэра Аміэля",
     "en": "Tomb of Sir Amiel",
     "ru": "Гробница сэра Амиэля",
     "bel": "Магільня сэра Аміэля",
@@ -77050,7 +77050,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDKnightTombCaius",
-    "custom": "",
+    "custom": "Магільня сэра Кая",
     "en": "Tomb of Sir Caius",
     "ru": "Гробница сэра Кая",
     "bel": "Магільня сэра Кая",
@@ -77059,7 +77059,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDKnightTombCasimir",
-    "custom": "",
+    "custom": "Магільня сэра Казіміра",
     "en": "Tomb of Sir Casimir",
     "ru": "Гробница сэра Казимира",
     "bel": "Магільня сэра Казіміра",
@@ -77068,7 +77068,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDKnightTombGregory",
-    "custom": "",
+    "custom": "Магільня сэра Грэгары",
     "en": "Tomb of Sir Gregory",
     "ru": "Гробница сэра Грегори",
     "bel": "Магільня сэра Грэгары",
@@ -77077,7 +77077,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDKnightTombHenrik",
-    "custom": "",
+    "custom": "Магільня сэра Хенрыка",
     "en": "Tomb of Sir Henrik",
     "ru": "Гробница сэра Хенрика",
     "bel": "Магільня сэра Хенрыка",
@@ -77086,7 +77086,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDKnightTombJuncan",
-    "custom": "",
+    "custom": "Магільня сэра Джункана",
     "en": "Tomb of Sir Juncan",
     "ru": "Гробница сэра Джункана",
     "bel": "Магільня сэра Джункана",
@@ -77095,7 +77095,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDKnightTombRalvas",
-    "custom": "",
+    "custom": "Магільня сэра Ралваса",
     "en": "Tomb of Sir Ralvas",
     "ru": "Гробница сэра Ралваса",
     "bel": "Магільня сэра Ралваса",
@@ -77104,7 +77104,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDKnightTombTorolf",
-    "custom": "",
+    "custom": "Магільня сэра Торолфа",
     "en": "Tomb of Sir Torolf",
     "ru": "Гробница сэра Торолфа",
     "bel": "Магільня сэра Торолфа",
@@ -77113,7 +77113,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDKnightsConvSystem",
-    "custom": "",
+    "custom": "Сістэма дыялогаў Knights of the Nine",
     "en": "Knights of the Nine Conversation System",
     "ru": "Система диалогов Knights of the Nine",
     "bel": "Сістэма дыялогаў Knights of the Nine",
@@ -77122,7 +77122,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDKnightsStartCombat",
-    "custom": "",
+    "custom": "Пачатак бою ND08Lathon.",
     "en": "ND08LathonStartCombat",
     "ru": "Начало боя ND08Lathon.",
     "bel": "Пачатак бою ND08Lathon.",
@@ -77131,7 +77131,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDKnightsoftheNine_LEVEL0_F",
-    "custom": "",
+    "custom": "Вандроўны рыцар",
     "en": "Knight Errant",
     "ru": "Странствующий рыцарь",
     "bel": "Вандроўны рыцар",
@@ -77140,7 +77140,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDKnightsoftheNine_LEVEL0_M",
-    "custom": "",
+    "custom": "Вандроўны рыцар",
     "en": "Knight Errant",
     "ru": "Странствующий рыцарь",
     "bel": "Вандроўны рыцар",
@@ -77149,7 +77149,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDKnightsoftheNine_LEVEL1_F",
-    "custom": "",
+    "custom": "Камандзір",
     "en": "Knight Commander",
     "ru": "Командир",
     "bel": "Камандзір",
@@ -77158,7 +77158,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDKnightsoftheNine_LEVEL1_M",
-    "custom": "",
+    "custom": "Камандзір",
     "en": "Knight Commander",
     "ru": "Командир",
     "bel": "Камандзір",
@@ -77167,7 +77167,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDKnightsoftheNine_LEVEL2_F",
-    "custom": "",
+    "custom": "Святы крыжак",
     "en": "Divine Crusader",
     "ru": "Святой крестоносец",
     "bel": "Святы крыжак",
@@ -77176,7 +77176,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDKnightsoftheNine_LEVEL2_M",
-    "custom": "",
+    "custom": "Святы крыжак",
     "en": "Divine Crusader",
     "ru": "Святой крестоносец",
     "bel": "Святы крыжак",
@@ -77185,7 +77185,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDLathonGreetB",
-    "custom": "",
+    "custom": "Ён магутны воін, гэта відаць.",
     "en": "I'm sure he's a mighty warrior.",
     "ru": "Он могучий воин, это видно.",
     "bel": "Ён магутны воін, гэта відаць.",
@@ -77194,7 +77194,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDLpAuroran1ShockDam",
-    "custom": "",
+    "custom": "Святло Папячы",
     "en": "Light that Burns",
     "ru": "Свет Обжигающий",
     "bel": "Святло Папячы",
@@ -77203,7 +77203,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDLpAuroran1ShockShield",
-    "custom": "",
+    "custom": "Святло Абараняе",
     "en": "Light that Protects",
     "ru": "Свет Защищающий",
     "bel": "Святло Абараняе",
@@ -77212,7 +77212,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDLpAuroran2ShockDam",
-    "custom": "",
+    "custom": "Святло Папячы",
     "en": "Light that Burns",
     "ru": "Свет Обжигающий",
     "bel": "Святло Папячы",
@@ -77221,7 +77221,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDLpAuroran2ShockShield",
-    "custom": "",
+    "custom": "Святло Абараняе",
     "en": "Light that Protects",
     "ru": "Свет Защищающий",
     "bel": "Святло Абараняе",
@@ -77230,7 +77230,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDLpAuroran3ShockDam",
-    "custom": "",
+    "custom": "Святло Папячы",
     "en": "Light that Burns",
     "ru": "Свет Обжигающий",
     "bel": "Святло Папячы",
@@ -77239,7 +77239,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDLpAuroran3ShockShield",
-    "custom": "",
+    "custom": "Святло Абараняе",
     "en": "Light that Protects",
     "ru": "Свет Защищающий",
     "bel": "Святло Абараняе",
@@ -77248,7 +77248,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDLpAuroran4ShockDam",
-    "custom": "",
+    "custom": "Святло Папячы",
     "en": "Light that Burns",
     "ru": "Свет Обжигающий",
     "bel": "Святло Папячы",
@@ -77257,7 +77257,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDLpAuroran4ShockShield",
-    "custom": "",
+    "custom": "Святло Абараняе",
     "en": "Light that Protects",
     "ru": "Свет Защищающий",
     "bel": "Святло Абараняе",
@@ -77266,7 +77266,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDLpAuroran5ShockDam",
-    "custom": "",
+    "custom": "Святло Папячы",
     "en": "Light that Burns",
     "ru": "Свет Обжигающий",
     "bel": "Святло Папячы",
@@ -77275,7 +77275,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDLpAuroran5ShockShield",
-    "custom": "",
+    "custom": "Святло Абараняе",
     "en": "Light that Protects",
     "ru": "Свет Защищающий",
     "bel": "Святло Абараняе",
@@ -77284,7 +77284,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDLpGauntletsHealOther",
-    "custom": "",
+    "custom": "Міласэрнае дотык",
     "en": "Merciful Touch",
     "ru": "Милосердное касание",
     "bel": "Міласэрнае дотык",
@@ -77293,7 +77293,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDLpGreavesShieldOther",
-    "custom": "",
+    "custom": "Благаславенне Васьмі",
     "en": "Blessing of the Eight",
     "ru": "Благословение Восьми",
     "bel": "Благаславенне Васьмі",
@@ -77302,7 +77302,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDOriginalKnightsFaction",
-    "custom": "",
+    "custom": "Восем першапачатковых рыцараў пачынаюць у гэтай фракцыі.",
     "en": "The eight original knights start in this faction",
     "ru": "Восемь изначальных рыцарей начинают в этой фракции.",
     "bel": "Восем першапачатковых рыцараў пачынаюць у гэтай фракцыі.",
@@ -77311,7 +77311,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDPredators",
-    "custom": "",
+    "custom": "Фракцыя Драпежніка",
     "en": "Predator Faction",
     "ru": "Фракция Хищника",
     "bel": "Фракцыя Драпежніка",
@@ -77320,7 +77320,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDPredators_LEVEL0_M",
-    "custom": "",
+    "custom": "Яднанне з прыродай.",
     "en": "One with Nature",
     "ru": "Единение с природой.",
     "bel": "Яднанне з прыродай.",
@@ -77329,7 +77329,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDPrioryArmoryChest",
-    "custom": "",
+    "custom": "Арсенал",
     "en": "Armory",
     "ru": "Арсенал",
     "bel": "Арсенал",
@@ -77338,7 +77338,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDPrioryHorseBay",
-    "custom": "",
+    "custom": "Чалая кабыла",
     "en": "Bay Horse",
     "ru": "Чалая лошадь",
     "bel": "Чалая конь",
@@ -77347,7 +77347,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDPrioryHorseChestnut",
-    "custom": "",
+    "custom": "Гнядая кабыла",
     "en": "Chestnut Horse",
     "ru": "Гнедая лошадь",
     "bel": "Гнядая конь",
@@ -77356,7 +77356,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDPrioryHorsePaint",
-    "custom": "",
+    "custom": "Стракаты конь",
     "en": "Paint Horse",
     "ru": "Пегая лошадь",
     "bel": "Стракатая конь",
@@ -77383,7 +77383,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDPrioryUndercroftGate01",
-    "custom": "",
+    "custom": "Старажытная апускная рашотка",
     "en": "Ancient Portcullis",
     "ru": "Древняя опускающаяся решетка",
     "bel": "Старажытная апускная рашотка",
@@ -77401,7 +77401,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDPrioryoftheNineBasement",
-    "custom": "",
+    "custom": "Падвал прыёрата",
     "en": "Priory Basement",
     "ru": "Подвал приората",
     "bel": "Падвал прыёрата",
@@ -77410,7 +77410,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDPrioryoftheNineChapel",
-    "custom": "",
+    "custom": "Капліца прыёрата Дзевяці",
     "en": "Priory of the Nine Chapel",
     "ru": "Часовня приората Девяти",
     "bel": "Капліца прыёрата Дзевяці",
@@ -77419,7 +77419,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDPrioryoftheNineHouse",
-    "custom": "",
+    "custom": "Прыёрат Дзевяці",
     "en": "Priory of the Nine",
     "ru": "Приорат Девяти",
     "bel": "Прыёрат Дзевяці",
@@ -77428,7 +77428,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDPrioryoftheNineUndercroft",
-    "custom": "",
+    "custom": "Крыпта прыёрата",
     "en": "Priory Undercroft",
     "ru": "Крипта приората",
     "bel": "Крыпта прыёрата",
@@ -77437,7 +77437,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDProphetGreetA3",
-    "custom": "",
+    "custom": "Так, я Абаронца Сіродзіла.",
     "en": "Yes, I am the Champion of Cyrodiil.",
     "ru": "Да, я Защитник Сиродила.",
     "bel": "Так, я Абаронца Сіродзіла.",
@@ -77446,7 +77446,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDProphetGreetA4",
-    "custom": "",
+    "custom": "Так, я майстар Гільдыі байцоў.",
     "en": "Yes, I am the Fighter's Guildmaster.",
     "ru": "Да, я мастер Гильдии бойцов.",
     "bel": "Так, я майстар Гільдыі байцоў.",
@@ -77455,7 +77455,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDProphetGreetA7",
-    "custom": "",
+    "custom": "Не, калі толькі Шэры Ліс не рыцар.",
     "en": "Not unless the Gray Fox is a knight.",
     "ru": "Нет, если только Серый Лис не рыцарь.",
     "bel": "Не, калі толькі Шэры Ліс не рыцар.",
@@ -77464,7 +77464,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDProphetGreetA8",
-    "custom": "",
+    "custom": "Не. Я не шукаю славы.",
     "en": "No. I have no claim to fame.",
     "ru": "Нет. Я не ищу славы.",
     "bel": "Не. Я не шукаю славы.",
@@ -77473,7 +77473,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDProphetGreetB1",
-    "custom": "",
+    "custom": "Як я магу знайсці Рэліквіі?",
     "en": "How can I find the Relics?",
     "ru": "Как я могу найти Реликвии?",
     "bel": "Як я магу знайсці Рэліквіі?",
@@ -77482,7 +77482,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDProphetQuest",
-    "custom": "",
+    "custom": "Пошукі Рэліквій",
     "en": "Quest for the Relics",
     "ru": "Поиски Реликвий",
     "bel": "Пошукі Рэліквій",
@@ -77491,7 +77491,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDProphetSpeechAmulet",
-    "custom": "",
+    "custom": "Амулет прарочай прамовы NDProphetSpeechAmulet",
     "en": "NDProphetSpeechAmulet",
     "ru": "Амулет пророческой речи NDProphetSpeechAmulet",
     "bel": "Амулет прарочай прамовы NDProphetSpeechAmulet",
@@ -77500,7 +77500,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDProphetSpeechAmulet2",
-    "custom": "",
+    "custom": "Амулет прароцтва NDProphetSpeechAmulet2",
     "en": "NDProphetSpeechAmulet2",
     "ru": "Амулет пророчества NDProphetSpeechAmulet2",
     "bel": "Амулет прароцтва NDProphetSpeechAmulet2",
@@ -77509,7 +77509,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDProphetSpeechKnights",
-    "custom": "",
+    "custom": "Прароцтва NDProphetSpeechKnights",
     "en": "NDProphetSpeechKnights",
     "ru": "Пророчество NDProphetSpeechKnights",
     "bel": "Прароцтва NDProphetSpeechKnights",
@@ -77518,7 +77518,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDProphetSpeechLoremasters",
-    "custom": "",
+    "custom": "Прамовы прарокаў NDProphetSpeechLoremasters",
     "en": "NDProphetSpeechLoremasters",
     "ru": "Речи пророков NDProphetSpeechLoremasters",
     "bel": "Прамовы прарокаў NDProphetSpeechLoremasters",
@@ -77527,7 +77527,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDProphetSpeechMQ",
-    "custom": "",
+    "custom": "Прамова NDProphetSpeechMQ",
     "en": "NDProphetSpeechMQ",
     "ru": "Речь NDProphetSpeechMQ",
     "bel": "Прамова NDProphetSpeechMQ",
@@ -77536,7 +77536,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDProphetSpeechMQ2",
-    "custom": "",
+    "custom": "Прароцтва NDProphetSpeechMQ2",
     "en": "NDProphetSpeechMQ2",
     "ru": "Пророчество NDProphetSpeechMQ2",
     "bel": "Прароцтва NDProphetSpeechMQ2",
@@ -77545,7 +77545,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDProphetSpeechMQ3",
-    "custom": "",
+    "custom": "Прароцтва NDProphetSpeechMQ3",
     "en": "NDProphetSpeechMQ3",
     "ru": "Пророчество NDProphetSpeechMQ3",
     "bel": "Прароцтва NDProphetSpeechMQ3",
@@ -77554,7 +77554,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDProphetSpeechMQ4",
-    "custom": "",
+    "custom": "Прамова NDProphetSpeechMQ4",
     "en": "NDProphetSpeechMQ4",
     "ru": "Речь NDProphetSpeechMQ4",
     "bel": "Прамова NDProphetSpeechMQ4",
@@ -77563,7 +77563,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDProphetSpeechMain",
-    "custom": "",
+    "custom": "Прароцтва NDProphetSpeechMain",
     "en": "NDProphetSpeechMain",
     "ru": "Пророчество NDProphetSpeechMain",
     "bel": "Прароцтва NDProphetSpeechMain",
@@ -77572,7 +77572,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDProphetSpeechUmaril",
-    "custom": "",
+    "custom": "Прароцтва NDProphetSpeechUmaril",
     "en": "NDProphetSpeechUmaril",
     "ru": "Пророчество NDProphetSpeechUmaril",
     "bel": "Прароцтва NDProphetSpeechUmaril",
@@ -77581,7 +77581,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDProphetSpeechUmaril2",
-    "custom": "",
+    "custom": "Прароцтва NDProphetSpeechUmaril2",
     "en": "NDProphetSpeechUmaril2",
     "ru": "Пророчество NDProphetSpeechUmaril2",
     "bel": "Прароцтва NDProphetSpeechUmaril2",
@@ -77590,7 +77590,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDProphetStartA2",
-    "custom": "",
+    "custom": "Хто такі Пелінал Вайтстрэйк?",
     "en": "Who is Pelinal Whitestrake?",
     "ru": "Кто такой Пелинал Вайтстрейк?",
     "bel": "Хто такі Пелінал Вайтстрэйк?",
@@ -77599,7 +77599,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDProphetStartB1",
-    "custom": "",
+    "custom": "Дык як мы можам спыніць Умарыла?",
     "en": "So how do we stop Umaril?",
     "ru": "Так как мы можем остановить Умарила?",
     "bel": "Дык як мы можам спыніць Умарыла?",
@@ -77608,7 +77608,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDProphetStartC1",
-    "custom": "",
+    "custom": "Я знайду Рэліквіі.",
     "en": "I will quest for the Relics.",
     "ru": "Я найду Реликвии.",
     "bel": "Я знайду Рэліквіі.",
@@ -77617,7 +77617,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDRF1xDoorLeft",
-    "custom": "",
+    "custom": "Драўляныя вароты",
     "en": "Wooden Gate",
     "ru": "Деревянные ворота",
     "bel": "Драўляныя вароты",
@@ -77626,7 +77626,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDRF1xDoorRight",
-    "custom": "",
+    "custom": "Драўляныя вароты",
     "en": "Wooden Gate",
     "ru": "Деревянные ворота",
     "bel": "Драўляныя вароты",
@@ -77635,7 +77635,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDRodericGreetA",
-    "custom": "",
+    "custom": "Так. Я шукаю дзевяць дарожных святыняў.",
     "en": "Yes. I seek the Nine Wayshrines.",
     "ru": "Да. Я ищу девять дорожных святилищ.",
     "bel": "Так. Я шукаю дзевяць дарожных святыняў.",
@@ -77644,7 +77644,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDRodericGreetC",
-    "custom": "",
+    "custom": "Не. Чаму ты пытаешся?",
     "en": "No. Why do you ask?",
     "ru": "Нет. Почему ты спрашиваешь?",
     "bel": "Не. Чаму ты пытаешся?",
@@ -77653,7 +77653,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDRodericGreetD",
-    "custom": "",
+    "custom": "Цябе гэта не датычыцца.",
     "en": "That's none of your concern.",
     "ru": "Тебя это не касается.",
     "bel": "Цябе гэта не датычыцца.",
@@ -77662,7 +77662,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDRumorAttackResponse1",
-    "custom": "",
+    "custom": "АдлюстраваннеNDRumorAttack",
     "en": "NDRumorAttackResponse",
     "ru": "ОтражениеNDRumorAttack",
     "bel": "АдлюстраваннеNDRumorAttack",
@@ -77671,7 +77671,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDRumorAttackResponse2",
-    "custom": "",
+    "custom": "Адказ на чутку NDRumorAttackResponse2",
     "en": "NDRumorAttackResponse2",
     "ru": "Ответ на слух NDRumorAttackResponse2",
     "bel": "Адказ на чутку NDRumorAttackResponse2",
@@ -77680,7 +77680,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDRumorsUmaril",
-    "custom": "",
+    "custom": "Чуткі пра NDRumorsUmaril",
     "en": "NDRumorsUmaril",
     "ru": "Слухи об NDRumorsUmaril",
     "bel": "Чуткі пра NDRumorsUmaril",
@@ -77689,7 +77689,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDSirBerich",
-    "custom": "",
+    "custom": "Сэр Берык",
     "en": "Sir Berich",
     "ru": "Сэр Берик",
     "bel": "Сэр Берык",
@@ -77698,7 +77698,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDSirBerichTopic",
-    "custom": "",
+    "custom": "Сэр Берык",
     "en": "Sir Berich",
     "ru": "Сэр Берик",
     "bel": "Сэр Берык",
@@ -77707,7 +77707,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDSirCaius",
-    "custom": "",
+    "custom": "Сэр Кай",
     "en": "Sir Caius",
     "ru": "Сэр Кай",
     "bel": "Сэр Кай",
@@ -77716,7 +77716,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDSirCaiusTopic",
-    "custom": "",
+    "custom": "Сэр Кай",
     "en": "Sir Caius",
     "ru": "Сэр Кай",
     "bel": "Сэр Кай",
@@ -77725,7 +77725,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDSirRodericFaction",
-    "custom": "",
+    "custom": "Фракцыя Сэра Родэрыка",
     "en": "Sir Roderic's Faction",
     "ru": "Фракция сэра Roderic's.",
     "bel": "Фракцыя сэра Roderic's.",
@@ -77734,7 +77734,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDSirTorolf",
-    "custom": "",
+    "custom": "Сэр Торолф",
     "en": "Sir Torolf",
     "ru": "Сэр Торолф",
     "bel": "Сэр Торолф",
@@ -77743,7 +77743,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDStanet",
-    "custom": "",
+    "custom": "Станецца",
     "en": "Stanet",
     "ru": "Станет",
     "bel": "Станецца",
@@ -77752,7 +77752,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDStartingRumors",
-    "custom": "",
+    "custom": "Раней запускаў чуткі, каб падняць іх на вяршыню STCK.",
     "en": "Used to bring starting rumors to top of stck",
     "ru": "Раньше запускал слухи, чтобы поднять их на вершину STCK.",
     "bel": "Раней запускаў чуткі, каб падняць іх на вяршыню STCK.",
@@ -77761,7 +77761,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalk1",
-    "custom": "",
+    "custom": "Размовы рыцараў9Talk1",
     "en": "Knights9Talk1",
     "ru": "Разговоры рыцарей9Talk1",
     "bel": "Размовы рыцараў9Talk1",
@@ -77770,7 +77770,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalk2",
-    "custom": "",
+    "custom": "Размова з Knights9",
     "en": "Knights9Talk2",
     "ru": "Разговор с Knights9",
     "bel": "Размова з Knights9",
@@ -77779,7 +77779,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalk3",
-    "custom": "",
+    "custom": "РыцарскіяБайкі",
     "en": "Knights9Talk3",
     "ru": "РыцарскиеБайки",
     "bel": "РыцарскіяБайкі",
@@ -77788,7 +77788,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalk4",
-    "custom": "",
+    "custom": "Рыцарская балбатня",
     "en": "Knights9Talk4",
     "ru": "Рыцарская болтовня",
     "bel": "Рыцарская балбатня",
@@ -77797,7 +77797,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalk5",
-    "custom": "",
+    "custom": "Рыцары9Размова5",
     "en": "Knights9Talk5",
     "ru": "Рыцари9Разговор5",
     "bel": "Рыцары9Размова5",
@@ -77806,7 +77806,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalkDeadAreldur1",
-    "custom": "",
+    "custom": "Арэлдур мёртвы.",
     "en": "NDTalkAreldurDead",
     "ru": "Арелдур мёртв.",
     "bel": "Арэлдур мёртвы.",
@@ -77815,7 +77815,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalkDeadAvita1",
-    "custom": "",
+    "custom": "Балбатня Мёртвай Авіты",
     "en": "NDTalkDeadAvita",
     "ru": "Болтовня Мёртвой Авиты",
     "bel": "Балбатня Мёртвай Авіты",
@@ -77824,7 +77824,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalkDeadGeimund1",
-    "custom": "",
+    "custom": "РазмоваNDTalkDeadGeimund1",
     "en": "NDTalkDeadGeimund1",
     "ru": "РазговорNDTalkDeadGeimund1",
     "bel": "РазмоваNDTalkDeadGeimund1",
@@ -77833,7 +77833,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalkDeadGukimir1",
-    "custom": "",
+    "custom": "Кажа мёртвы Гукімір.",
     "en": "NDTalkDeadGukimir1",
     "ru": "Говорит мёртвый Гукимир.",
     "bel": "Кажа мёртвы Гукімір.",
@@ -77842,7 +77842,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalkDeadKnight1",
-    "custom": "",
+    "custom": "Мярцвецкі п'яны рыцар кажа.",
     "en": "NDTalkDeadKnight1",
     "ru": "Мертвецки пьяный рыцарь говорит.",
     "bel": "Мярцвецкі п'яны рыцар кажа.",
@@ -77851,7 +77851,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalkDeadKnight2Female",
-    "custom": "",
+    "custom": "РазмоваМёртвыРыцар2Жанчына",
     "en": "NDTalkDeadKnight2Female",
     "ru": "РазговорМертвыйРыцарь2Женщина",
     "bel": "РазмоваМёртвыРыцар2Жанчына",
@@ -77860,7 +77860,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalkDeadKnight2Male",
-    "custom": "",
+    "custom": "РазмоваМёртвыРыцар2Мужчына",
     "en": "NDTalkDeadKnight2Male",
     "ru": "РазговорМертвыйРыцарь2Мужчина",
     "bel": "РазмоваМёртвыРыцар2Мужчына",
@@ -77869,7 +77869,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalkDeadKnight3",
-    "custom": "",
+    "custom": "NDTalkDeadKnight3 -> NDTalkDeadKnight3",
     "en": "NDTalkDeadKnight3",
     "ru": "NDTalkDeadKnight3 -> NDTalkDeadKnight3",
     "bel": "NDTalkDeadKnight3 -> NDTalkDeadKnight3",
@@ -77878,7 +77878,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalkDeadKnightNothing",
-    "custom": "",
+    "custom": "Балбатня Мёртвага Рыцара 2",
     "en": "NDTalkDeadKnight2",
     "ru": "Болтовня Мёртвого Рыцаря 2",
     "bel": "Балбатня Мёртвага Рыцара 2",
@@ -77887,7 +77887,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalkDeadLathon1",
-    "custom": "",
+    "custom": "БалбатняNDTalkLathon",
     "en": "NDTalkLathon",
     "ru": "БолтовняNDTalkLathon",
     "bel": "БалбатняNDTalkLathon",
@@ -77896,7 +77896,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalkGarlas1",
-    "custom": "",
+    "custom": "Размова NDTalk6",
     "en": "NDTalk6",
     "ru": "Разговор NDTalk6",
     "bel": "Размова NDTalk6",
@@ -77905,7 +77905,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalkGarlas2",
-    "custom": "",
+    "custom": "Размова Garlas2",
     "en": "NDTalkGarlas2",
     "ru": "Разговор Garlas2",
     "bel": "Размова Garlas2",
@@ -77914,7 +77914,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalkGarlas3",
-    "custom": "",
+    "custom": "Дыялог NDTalkGarlas3",
     "en": "NDTalkGarlas3",
     "ru": "Диалог NDTalkGarlas3",
     "bel": "Дыялог NDTalkGarlas3",
@@ -77923,7 +77923,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalkRelics1",
-    "custom": "",
+    "custom": "Рэліквіі NDTalkRelics1",
     "en": "NDTalkRelics1",
     "ru": "Реликвии NDTalkRelics1",
     "bel": "Рэліквіі NDTalkRelics1",
@@ -77932,7 +77932,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalkRelics2",
-    "custom": "",
+    "custom": "Размовы пра рэліквіі NDTalkRelics2",
     "en": "NDTalkRelics2",
     "ru": "Разговоры о реликвиях NDTalkRelics2",
     "bel": "Размовы пра рэліквіі NDTalkRelics2",
@@ -77941,7 +77941,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalkRelics3",
-    "custom": "",
+    "custom": "Размовы пра РэліквііNDTalkRelics3",
     "en": "NDTalkRelics3",
     "ru": "Разговоры о РеликвияхNDTalkRelics3",
     "bel": "Размовы пра РэліквііNDTalkRelics3",
@@ -77950,7 +77950,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalkRelicsBoots",
-    "custom": "",
+    "custom": "Боты для NDTalkBoots",
     "en": "NDTalkBoots",
     "ru": "Сапоги для NDTalkBoots",
     "bel": "Боты для NDTalkBoots",
@@ -77959,7 +77959,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalkRelicsGauntlets",
-    "custom": "",
+    "custom": "Наручы NDTalkRelicsGauntlets",
     "en": "NDTalkRelicsGauntlets",
     "ru": "Наручи NDTalkRelicsGauntlets",
     "bel": "Наручы NDTalkRelicsGauntlets",
@@ -77968,7 +77968,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalkRelicsGreaves",
-    "custom": "",
+    "custom": "NDTalkRelicsGreaves",
     "en": "NDTalkRelicsGreaves",
     "ru": "Находка: {NDTalkRelicsGreaves} поножи",
     "bel": "Знойдзена: {NDTalkRelicsGreaves} нагавіцы",
@@ -77977,7 +77977,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalkRelicsMace",
-    "custom": "",
+    "custom": "РэліквііNDTalkRelicsMace",
     "en": "NDTalkRelicsMace",
     "ru": "РеликвииNDTalkRelicsMace",
     "bel": "РэліквііNDTalkRelicsMace",
@@ -77986,7 +77986,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalkRelicsShield",
-    "custom": "",
+    "custom": "Рэліквія Шчыта NDTalkRelics",
     "en": "NDTalkRelicsShield",
     "ru": "Реликвия Щита NDTalkRelics",
     "bel": "Рэліквія Шчыта NDTalkRelics",
@@ -77995,7 +77995,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalkUmaril1",
-    "custom": "",
+    "custom": "Спытайце Умарыла1",
     "en": "NDTalkUmaril1",
     "ru": "Спросите Умарила1",
     "bel": "Спытайце Умарыла1",
@@ -78004,7 +78004,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalkUmaril3",
-    "custom": "",
+    "custom": "Размова з УмарыламNDTalkUmaril3",
     "en": "NDTalkUmaril3",
     "ru": "Разговор с УмариломNDTalkUmaril3",
     "bel": "Размова з УмарыламNDTalkUmaril3",
@@ -78013,7 +78013,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTalkUmaril4",
-    "custom": "",
+    "custom": "Размова з Умарылам пасля NDTalkUmaril4",
     "en": "NDTalkUmaril4",
     "ru": "Разговор с Умарилом после NDTalkUmaril4",
     "bel": "Размова з Умарылам пасля NDTalkUmaril4",
@@ -78022,7 +78022,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDTombSpeech",
-    "custom": "",
+    "custom": "Прамова NDTombSpeech",
     "en": "NDTombSpeech",
     "ru": "Речь NDTombSpeech",
     "bel": "Прамова NDTombSpeech",
@@ -78031,7 +78031,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDVanua01",
-    "custom": "",
+    "custom": "Забытыя катакомбы",
     "en": "The Lost Catacombs",
     "ru": "Затерянные катакомбы",
     "bel": "Загубленыя катакомбы",
@@ -78040,7 +78040,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDVanua02",
-    "custom": "",
+    "custom": "Свяцілішча Крыжака",
     "en": "The Shrine of the Crusader",
     "ru": "Святилище Крестоносца",
     "bel": "Свяцілішча Крыжака",
@@ -78049,7 +78049,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_NDWait",
-    "custom": "",
+    "custom": "Пачакай тут.",
     "en": "Wait here.",
     "ru": "Жди здесь.",
     "bel": "Чакай тут.",
