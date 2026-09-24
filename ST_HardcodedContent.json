@@ -5337,7 +5337,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sStyle",
-    "custom": "",
+    "custom": "Стыль",
     "en": "Style",
     "ru": "Стиль",
     "bel": "Стыль",
@@ -5345,7 +5345,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSuccessfulSneakAttackEnd",
-    "custom": "",
+    "custom": "X адз. страты!",
     "en": "X damage!",
     "ru": "X ед. урона!",
     "bel": "X адз. страты!",
@@ -5353,7 +5353,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSuccessfulSneakAttackMain",
-    "custom": "",
+    "custom": "Раптоўная атака для",
     "en": "Sneak attack for",
     "ru": "Внезапная атака для",
     "bel": "Раптоўная атака для",
@@ -5361,7 +5361,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSummonedCreatureFit",
-    "custom": "",
+    "custom": "Прызваная істота не можа змясціцца ў вобласці прызыву.",
     "en": "The Summoned Creature is not able to fit in summoned area.",
     "ru": "Призванное существо не может поместиться в области призыва.",
     "bel": "Прызваная істота не можа змясціцца ў вобласці прызыву.",
@@ -5369,7 +5369,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sSwitch",
-    "custom": "",
+    "custom": "Зрабіць гэта маім актыўным заданнем.",
     "en": "Make this my active quest",
     "ru": "Сделать это моим активным заданием.",
     "bel": "Зрабіць гэта маім актыўным заданнем.",
@@ -5377,7 +5377,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTargetRange",
-    "custom": "",
+    "custom": "Мэта",
     "en": "Target",
     "ru": "Цель",
     "bel": "Мэта",
@@ -5385,7 +5385,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTargetTypeActivate",
-    "custom": "",
+    "custom": "Актываваць",
     "en": "Activate",
     "ru": "Активировать",
     "bel": "Актываваць",
@@ -5393,7 +5393,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTargetTypeApply",
-    "custom": "",
+    "custom": "Ужыць",
     "en": "Apply",
     "ru": "Применить",
     "bel": "Ужыць",
@@ -5401,7 +5401,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTargetTypeBrew",
-    "custom": "",
+    "custom": "Зварыць",
     "en": "Brew",
     "ru": "Сварить",
     "bel": "Зварыць",
@@ -5409,7 +5409,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTargetTypeCrown",
-    "custom": "",
+    "custom": "Пагаварыць.",
     "en": "Talk",
     "ru": "Поговорить.",
     "bel": "Пагаварыць.",
@@ -5417,7 +5417,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTargetTypeDrink",
-    "custom": "",
+    "custom": "Піць",
     "en": "Drink",
     "ru": "Пить",
     "bel": "Піць",
@@ -5425,7 +5425,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTargetTypeEat",
-    "custom": "",
+    "custom": "Есці",
     "en": "Eat",
     "ru": "Есть",
     "bel": "Есці",
@@ -5433,7 +5433,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTargetTypeEquip",
-    "custom": "",
+    "custom": "Экіпіраваць",
     "en": "Equip",
     "ru": "Экипировать",
     "bel": "Экіпіраваць",
@@ -5441,7 +5441,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTargetTypeHorse",
-    "custom": "",
+    "custom": "Паехалі",
     "en": "Ride",
     "ru": "Поехали",
     "bel": "Паехалі",
@@ -5449,7 +5449,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTargetTypeOpen",
-    "custom": "",
+    "custom": "Адкрыць",
     "en": "Open",
     "ru": "Открыть",
     "bel": "Адкрыць",
@@ -5457,7 +5457,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTargetTypeOpenDoor",
-    "custom": "",
+    "custom": "Адкрыць",
     "en": "Open",
     "ru": "Открыть",
     "bel": "Адкрыць",
@@ -5465,7 +5465,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTargetTypeRead",
-    "custom": "",
+    "custom": "Чытаць",
     "en": "Read",
     "ru": "Читать",
     "bel": "Чытаць",
@@ -5473,7 +5473,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTargetTypeRecharge",
-    "custom": "",
+    "custom": "Папоўніць",
     "en": "Recharge",
     "ru": "Восполнить",
     "bel": "Папоўніць",
@@ -5481,7 +5481,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTargetTypeRepair",
-    "custom": "",
+    "custom": "Паправіць",
     "en": "Repair",
     "ru": "Починить",
     "bel": "Паправіць",
@@ -5489,7 +5489,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTargetTypeSit",
-    "custom": "",
+    "custom": "Сядзець.",
     "en": "Sit",
     "ru": "Сидеть.",
     "bel": "Сядзець.",
@@ -5497,7 +5497,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTargetTypeSleep",
-    "custom": "",
+    "custom": "Спаць",
     "en": "Sleep",
     "ru": "Спать",
     "bel": "Спаць",
@@ -5505,7 +5505,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTargetTypeTake",
-    "custom": "",
+    "custom": "Узяць",
     "en": "Take",
     "ru": "Взять",
     "bel": "Узяць",
@@ -5513,7 +5513,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTargetTypeTalk",
-    "custom": "",
+    "custom": "Пагаварыць",
     "en": "Talk",
     "ru": "Поговорить",
     "bel": "Пагаварыць",
@@ -5521,7 +5521,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTargetTypeUnequip",
-    "custom": "",
+    "custom": "Зняць",
     "en": "Unequip",
     "ru": "Снять",
     "bel": "Зняць",
@@ -5529,7 +5529,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTargetTypeVampire",
-    "custom": "",
+    "custom": "Узаемадзейнічаць",
     "en": "Interact",
     "ru": "Взаимодействовать",
     "bel": "Узаемадзейнічаць",
@@ -5537,7 +5537,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTheElderScrolls",
-    "custom": "",
+    "custom": "The Elder Scrolls",
     "en": "The Elder Scrolls",
     "ru": "The Elder Scrolls<cf>The Elder Scrolls",
     "bel": "The Elder Scrolls<cf>The Elder Scrolls",
@@ -5545,7 +5545,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTitleText",
-    "custom": "",
+    "custom": "Вы падняліся да ўзроўню {LevelNumber}",
     "en": "You have ascended to level {LevelNumber}",
     "ru": "Вы достигли {LevelNumber} уровня",
     "bel": "Вы дасягнулі {LevelNumber} ўзроўню",
@@ -5553,7 +5553,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTo",
-    "custom": "",
+    "custom": "К",
     "en": "to",
     "ru": "К",
     "bel": "К",
@@ -5561,7 +5561,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTone",
-    "custom": "",
+    "custom": "Тон",
     "en": "Tone",
     "ru": "Тон",
     "bel": "Тон",
@@ -5569,7 +5569,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTopicAddedText",
-    "custom": "",
+    "custom": "Новая тэма",
     "en": "New topic",
     "ru": "Новая тема",
     "bel": "Новая тэма",
@@ -5577,7 +5577,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTouchRange",
-    "custom": "",
+    "custom": "Дакрануцца.",
     "en": "Touch",
     "ru": "Прикоснуться.",
     "bel": "Дакрануцца.",
@@ -5585,7 +5585,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sTravelQuestion",
-    "custom": "",
+    "custom": "Вы хочаце паехаць у",
     "en": "Do you want to travel to",
     "ru": "Ты хочешь отправиться в путешествие в",
     "bel": "Ты хочаш адправіцца ў падарожжа ў",
@@ -5593,7 +5593,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sUnequipItemOnPlayer",
-    "custom": "",
+    "custom": "быў зняты з гульца",
     "en": "was unequipped on the player",
     "ru": "был снят с игрока",
     "bel": "быў зняты з гульца",
@@ -5601,7 +5601,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sVampireFeed",
-    "custom": "",
+    "custom": "Карміць",
     "en": "Feed",
     "ru": "Кормить",
     "bel": "Карміць",
@@ -5609,7 +5609,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sVampireFeedQuestion",
-    "custom": "",
+    "custom": "Што вы хочаце зрабіць з гэтым невінаватым гараджанінам?",
     "en": "What would you like to do with this innocent townsperson?",
     "ru": "Что вы хотите сделать с этим невинным горожанином?",
     "bel": "Што вы хочаце зрабіць з гэтым невінаватым гараджанінам?",
@@ -5617,7 +5617,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sVampireTalk",
-    "custom": "",
+    "custom": "Пагаварыць",
     "en": "Talk",
     "ru": "Поговорить",
     "bel": "Пагаварыць",
@@ -5625,7 +5625,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sVarlaStoneMessage",
-    "custom": "",
+    "custom": "Вы выкарысталі сілу каменя Варла, каб аднавіць зарад вашых зачараваных прадметаў, і цяпер ён знік.",
     "en": "You have used a Varla Stone's power to restore your enchanted items charge, and now it is gone.",
     "ru": "Вы использовали силу камня Варла, чтобы восстановить заряд ваших зачарованных предметов, и теперь он исчез.",
     "bel": "Вы выкарысталі сілу каменя Варла, каб аднавіць зарад вашых зачараваных прадметаў, і цяпер ён знік.",
@@ -5633,7 +5633,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sVideo",
-    "custom": "",
+    "custom": "Відэа",
     "en": "Video",
     "ru": "Видео",
     "bel": "Відэа",
@@ -5641,7 +5641,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sVideoChange",
-    "custom": "",
+    "custom": "Вам неабходна выйсці і перазапусціць Аблівіан, каб новая раздзяляльнасць экрана пачала дзейнічаць.",
     "en": "You must exit and restart Oblivion for the new resolution to take effect.",
     "ru": "Вы должны выйти и перезапустить Oblivion, чтобы новое разрешение вступило в силу.",
     "bel": "Вы павінны выйсці і перазапусціць Oblivion, каб новы дазвол уступіў у сілу.",
@@ -5649,7 +5649,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sViewAll",
-    "custom": "",
+    "custom": "Паглядзець усё",
     "en": "View All",
     "ru": "Посмотреть все",
     "bel": "Паглядзець усё",
@@ -5657,7 +5657,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sWait",
-    "custom": "",
+    "custom": "Пачакаць",
     "en": "Wait",
     "ru": "Подождать",
     "bel": "Пачакаць",
@@ -5665,7 +5665,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sWeaponAboutBreak",
-    "custom": "",
+    "custom": "Ваша зброя вось-вось зламаецца.",
     "en": "Your weapon is about to break.",
     "ru": "Твоё оружие вот-вот сломается.",
     "bel": "Твая зброя вось-вось зламаецца.",
@@ -5673,7 +5673,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sWeaponBreak",
-    "custom": "",
+    "custom": "Ваша зброя зламана.",
     "en": "Your weapon is broken.",
     "ru": "Твоё оружие сломано.",
     "bel": "Твая зброя зламаная.",
@@ -5681,7 +5681,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sWeaponDisarmed",
-    "custom": "",
+    "custom": "Вашая зброя абяззброена.",
     "en": "Your weapon is disarmed.",
     "ru": "Ваше оружие обезоружено.",
     "bel": "Вашая зброя абяззброена.",
@@ -5689,7 +5689,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sWelkyndStoneMessage",
-    "custom": "",
+    "custom": "Вы выкарысталі сілу каменя Велкінда, каб аднавіць сваю магію, і цяпер ён знік.",
     "en": "You have used a Welkynd Stone's power to restore your magicka, and now it is gone.",
     "ru": "Вы использовали силу камня Велкинда, чтобы восстановить свою магию, и теперь он исчез.",
     "bel": "Вы выкарысталі сілу каменя Велкинда, каб аднавіць сваю магію, і цяпер ён знік.",
@@ -5697,7 +5697,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sWillPowerDescription",
-    "custom": "",
+    "custom": "Патрэбна апісанне гульнявога сусвету.",
     "en": "Need a gamesetting description.",
     "ru": "Нужно описание игровой вселенной.",
     "bel": "Патрэбна апісанне гульнявога сусвету.",
@@ -5705,7 +5705,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXBox360Controller",
-    "custom": "",
+    "custom": "Кантролер Xbox 360",
     "en": "Xbox 360 Controller",
     "ru": "Контроллер Xbox 360",
     "bel": "Кантролер Xbox 360",
@@ -5713,7 +5713,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxA",
-    "custom": "",
+    "custom": "Націсніце кнопку A.",
     "en": "press the A button",
     "ru": "Нажмите кнопку A.",
     "bel": "Націсніце кнопку A.",
@@ -5721,7 +5721,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxB",
-    "custom": "",
+    "custom": "націсніце кнопку B",
     "en": "press the B button",
     "ru": "нажмите кнопку B",
     "bel": "націсніце кнопку B",
@@ -5729,7 +5729,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxBack",
-    "custom": "",
+    "custom": "націсніце кнопку Back",
     "en": "press the Back button",
     "ru": "нажмите кнопку Back",
     "bel": "націсніце кнопку Back",
@@ -5737,7 +5737,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxDPadDown",
-    "custom": "",
+    "custom": "нахіліце D-Pad уніз",
     "en": "tilt the D-Pad down",
     "ru": "Наклоните D-Pad вниз.",
     "bel": "Нахіліце D-Pad ўніз.",
@@ -5745,7 +5745,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxDPadLeft",
-    "custom": "",
+    "custom": "нахіліце D-Pad налева",
     "en": "tilt the D-Pad left",
     "ru": "Наклоните D-Pad влево.",
     "bel": "Нахіліце D-Pad налева.",
@@ -5753,7 +5753,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxDPadRight",
-    "custom": "",
+    "custom": "нахіліце D-Pad направа",
     "en": "tilt the D-Pad right",
     "ru": "Наклоните D-Pad вправо.",
     "bel": "Нахіліце D-Pad направа.",
@@ -5761,7 +5761,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxDPadUp",
-    "custom": "",
+    "custom": "нахіліце D-Pad уверх",
     "en": "tilt the D-Pad up",
     "ru": "Наклоните D-Pad вверх.",
     "bel": "Нахіліце D-Pad уверх.",
@@ -5769,7 +5769,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxDPadX",
-    "custom": "",
+    "custom": "нахіліце D-Pad налева або направа",
     "en": "tilt the D-Pad left or right",
     "ru": "Наклоните D-Pad влево или вправо.",
     "bel": "Нахіліце D-Pad налева або направа.",
@@ -5777,7 +5777,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxDPadY",
-    "custom": "",
+    "custom": "нахіліце D-Pad уверх або ўніз",
     "en": "tilt the D-Pad up or down",
     "ru": "Наклоните D-Pad вверх или вниз.",
     "bel": "Нахіліце D-Pad уверх або ўніз.",
@@ -5785,7 +5785,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxLBumper",
-    "custom": "",
+    "custom": "націсніце левы бампер",
     "en": "press the Left Bumper",
     "ru": "нажмите на Left Bumper",
     "bel": "націсніце на Left Bumper",
@@ -5793,7 +5793,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxLThumb",
-    "custom": "",
+    "custom": "націсніце на левы джойсцік",
     "en": "click the Left Stick",
     "ru": "нажмите на Left Stick",
     "bel": "націсніце на Left Stick",
@@ -5801,7 +5801,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxLThumbDown",
-    "custom": "",
+    "custom": "перамясціце левы джойсцік ўніз",
     "en": "move the Left Stick down",
     "ru": "переместите Left Stick вниз",
     "bel": "перамесціце Left Stick ўніз",
@@ -5809,7 +5809,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxLThumbLeft",
-    "custom": "",
+    "custom": "Перамесціце левы стык налева.",
     "en": "move the Left Stick left",
     "ru": "Переместите левый стик влево.",
     "bel": "Перамесціце левы стык налева.",
@@ -5817,7 +5817,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxLThumbRight",
-    "custom": "",
+    "custom": "перамясціце левы джойсцік направа",
     "en": "move the Left Stick right",
     "ru": "Переместите Left Stick вправо.",
     "bel": "Перамесціце Left Stick направа.",
@@ -5825,7 +5825,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxLThumbUp",
-    "custom": "",
+    "custom": "перамясціце левы джойсцік уверх",
     "en": "move the Left Stick up",
     "ru": "переместите Left Stick вверх",
     "bel": "перамесціце Left Stick уверх",
@@ -5833,7 +5833,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxLThumbX",
-    "custom": "",
+    "custom": "перамясціце левы джойсцік налева або направа",
     "en": "move the Left Stick left or right",
     "ru": "двигайте Left Stick влево или вправо",
     "bel": "рухайце Left Stick налева або направа",
@@ -5841,7 +5841,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxLThumbY",
-    "custom": "",
+    "custom": "Перамесціце левы стык уверх або ўніз.",
     "en": "move the Left Stick up or down",
     "ru": "Переместите левый стик вверх или вниз.",
     "bel": "Перамесціце левы стык уверх або ўніз.",
@@ -5849,7 +5849,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxLTrigger",
-    "custom": "",
+    "custom": "Націсніце на Левы Трыгер.",
     "en": "pull the Left Trigger",
     "ru": "Нажмите на Левый Триггер.",
     "bel": "Націсніце на Левы Трыгер.",
@@ -5857,7 +5857,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxNone",
-    "custom": "",
+    "custom": "прызначце кнопку ў меню «Элементы кіравання»",
     "en": "assign a button in the Controls menu",
     "ru": "назначьте кнопку в меню Controls",
     "bel": "прызначце кнопку ў меню Controls",
@@ -5865,7 +5865,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxRBumper",
-    "custom": "",
+    "custom": "націсніце правы бампер",
     "en": "press the Right Bumper",
     "ru": "нажмите на Right Bumper",
     "bel": "націсніце на Right Bumper",
@@ -5873,7 +5873,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxRThumb",
-    "custom": "",
+    "custom": "Націсніце на правы стык.",
     "en": "click the Right Stick",
     "ru": "Нажмите на правый стик.",
     "bel": "Націсніце на правы стык.",
@@ -5881,7 +5881,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxRThumbDown",
-    "custom": "",
+    "custom": "перамясціце правы джойсцік ўніз",
     "en": "move the Right Stick down",
     "ru": "переместите Right Stick вниз",
     "bel": "перамесціце Right Stick ўніз",
@@ -5889,7 +5889,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxRThumbLeft",
-    "custom": "",
+    "custom": "Рухайце правы стык налева.",
     "en": "move the Right Stick left",
     "ru": "Двигайте правый стик влево.",
     "bel": "Рухайце правы стык налева.",
@@ -5897,7 +5897,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxRThumbRight",
-    "custom": "",
+    "custom": "перамясціце правы джойсцік направа",
     "en": "move the Right Stick right",
     "ru": "переместите Right Stick вправо",
     "bel": "перамесціце Right Stick направа",
@@ -5905,7 +5905,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxRThumbUp",
-    "custom": "",
+    "custom": "Перамесціце правы стык уверх.",
     "en": "move the Right Stick up",
     "ru": "Переместите правый стик вверх.",
     "bel": "Перамесціце правы стык уверх.",
@@ -5913,7 +5913,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxRThumbX",
-    "custom": "",
+    "custom": "перамясціце правы джойсцік налева або направа",
     "en": "move the Right Stick left or right",
     "ru": "переместите Right Stick влево или вправо",
     "bel": "перамесціце Right Stick налева або направа",
@@ -5921,7 +5921,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxRThumbY",
-    "custom": "",
+    "custom": "Перамесціце правы стык уверх або ўніз.",
     "en": "move the Right Stick up or down",
     "ru": "Переместите правый стик вверх или вниз.",
     "bel": "Перамесціце правы стык уверх або ўніз.",
@@ -5929,7 +5929,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxRTrigger",
-    "custom": "",
+    "custom": "пацягніце правы трыгер",
     "en": "pull the Right Trigger",
     "ru": "Нажмите на Right Trigger.",
     "bel": "Націсніце на Right Trigger.",
@@ -5937,7 +5937,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxStart",
-    "custom": "",
+    "custom": "націсніце кнопку Start",
     "en": "press the Start button",
     "ru": "нажмите кнопку Start",
     "bel": "націсніце кнопку Start",
@@ -5945,7 +5945,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxX",
-    "custom": "",
+    "custom": "націсніце кнопку X",
     "en": "press the X button",
     "ru": "нажмите кнопку X",
     "bel": "націсніце кнопку X",
@@ -5953,7 +5953,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sXboxY",
-    "custom": "",
+    "custom": "Націсніце кнопку Y.",
     "en": "press the Y button",
     "ru": "Нажмите кнопку Y.",
     "bel": "Націсніце кнопку Y.",
@@ -5969,7 +5969,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sYesRestart",
-    "custom": "",
+    "custom": "Так, перазапусціце гульню.",
     "en": "Yes, restart the game.",
     "ru": "Да, перезапустите игру.",
     "bel": "Так, перазапусціце гульню.",
@@ -5977,7 +5977,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sYieldAccepted",
-    "custom": "",
+    "custom": "Прымае вашу капітуляцыю.",
     "en": "accepts your yield.",
     "ru": "Принимает вашу капитуляцию.",
     "bel": "Прымае вашу капітуляцыю.",
@@ -5985,7 +5985,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sYieldRejected",
-    "custom": "",
+    "custom": "адхіляе тваю даніну!",
     "en": "rejects your yield!",
     "ru": "отклоняет твою дань!",
     "bel": "адхіляе тваю даніну!",
@@ -5993,7 +5993,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sYour",
-    "custom": "",
+    "custom": "Ваш",
     "en": "Your",
     "ru": "Твой",
     "bel": "Твой",
@@ -6001,7 +6001,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MessageHandler_sAbortText",
-    "custom": "",
+    "custom": "Адмена",
     "en": "Abort",
     "ru": "Отмена",
     "bel": "Адмена",
@@ -6009,7 +6009,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MessageHandler_sContinueText",
-    "custom": "",
+    "custom": "Працягнуць выкананне выкананага файла?",
     "en": "Continue Running Executable?",
     "ru": "Продолжить выполнение исполняемого файла?",
     "bel": "Працягнуць выкананне выкананага файла?",
@@ -6017,7 +6017,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MessageHandler_sIgnoreText",
-    "custom": "",
+    "custom": "Ігнараваць",
     "en": "Ignore",
     "ru": "Игнорировать",
     "bel": "Ігнараваць",
@@ -6025,7 +6025,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MessageHandler_sNoText",
-    "custom": "",
+    "custom": "Не",
     "en": "No",
     "ru": "Нет",
     "bel": "Не",
@@ -6033,7 +6033,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MessageHandler_sOKText",
-    "custom": "",
+    "custom": "ОК",
     "en": "OK",
     "ru": "ОК",
     "bel": "ОК",
@@ -6041,7 +6041,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MessageHandler_sRetryText",
-    "custom": "",
+    "custom": "Паўтарыць",
     "en": "Retry",
     "ru": "Повторить",
     "bel": "Паўтарыць",
@@ -6049,7 +6049,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MessageHandler_sYesText",
-    "custom": "",
+    "custom": "Так.",
     "en": "Yes",
     "ru": "Да.",
     "bel": "Так.",
@@ -6057,7 +6057,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MessageHandler_sYesToAllText",
-    "custom": "",
+    "custom": "На ўсё згодзен.",
     "en": "Yes to all",
     "ru": "На всё согласен.",
     "bel": "На ўсё згодзен.",
@@ -6065,7 +6065,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_Package_sCrimeTypeAttack",
-    "custom": "",
+    "custom": "Атакаваць",
     "en": "Attack",
     "ru": "Атаковать",
     "bel": "Атакаваць",
@@ -6073,7 +6073,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_Package_sCrimeTypeMurder",
-    "custom": "",
+    "custom": "Забойства",
     "en": "Murder",
     "ru": "Убийство",
     "bel": "Забойства",
@@ -6081,7 +6081,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_Package_sCrimeTypePickpocket",
-    "custom": "",
+    "custom": "Кішэнны злодзей",
     "en": "Pickpocket",
     "ru": "Карманник",
     "bel": "Кішэнны злодзей",
@@ -6089,7 +6089,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_Package_sCrimeTypeSteal",
-    "custom": "",
+    "custom": "Скрасці",
     "en": "Steal",
     "ru": "Украсть",
     "bel": "Скрасці",
@@ -6097,7 +6097,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_Package_sCrimeTypeStealHorse",
-    "custom": "",
+    "custom": "Выкрасці каня",
     "en": "Steal Horse",
     "ru": "Угнать коня",
     "bel": "Выкрасці каня",
@@ -6105,7 +6105,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_Package_sCrimeTypeTrespass",
-    "custom": "",
+    "custom": "Парушэнне",
     "en": "Trespass",
     "ru": "Нарушение",
     "bel": "Парушэнне",
@@ -6113,7 +6113,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ScreenShot_ScreenShotFile0created",
-    "custom": "",
+    "custom": "Скрыншот: Файл '{0}' створаны.",
     "en": "ScreenShot: File '{0}' created.",
     "ru": "Скриншот: Файл '{0}' создан.",
     "bel": "Скрыншот: Файл '{0}' створаны.",
@@ -6121,7 +6121,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_SkillLevel_sSkillLevelApprentice",
-    "custom": "",
+    "custom": "Вучань",
     "en": "Apprentice",
     "ru": "Ученик",
     "bel": "Вучань",
@@ -6129,7 +6129,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_SkillLevel_sSkillLevelExpert",
-    "custom": "",
+    "custom": "Эксперт",
     "en": "Expert",
     "ru": "Эксперт",
     "bel": "Эксперт",
@@ -6137,7 +6137,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_SkillLevel_sSkillLevelJourneyman",
-    "custom": "",
+    "custom": "Падмайстар",
     "en": "Journeyman",
     "ru": "Подмастерье",
     "bel": "Падмайстар",
