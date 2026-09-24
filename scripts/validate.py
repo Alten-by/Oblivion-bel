@@ -18,7 +18,7 @@ import sys
 from collections import Counter
 
 sys.path.insert(0, __file__.rsplit("/", 1)[0])
-from common import load, extract_tags
+from common import load, extract_tags, ICU_RE, strip_icu
 
 DEFAULT_FILES = [
     "same_bel_belalt_case_insensitive.json",
@@ -53,7 +53,7 @@ def remove_tags(text):
 def check_letters(custom, en, key, errors):
     if custom == en:
         return  # тэхнічны ID або тэкст, аднолькавы з en
-    no_tags = remove_tags(custom)
+    no_tags = remove_tags(strip_icu(custom))
     bad_ru = sorted(set(ch for ch in no_tags if ch in RU_ONLY_LETTERS))
     if bad_ru:
         errors.append(f"{key}: рускія літары {bad_ru} у custom")
@@ -63,11 +63,17 @@ def check_letters(custom, en, key, errors):
 
 
 def check_tags(custom, en, key, errors):
-    en_tags = Counter(extract_tags(en))
-    custom_tags = Counter(extract_tags(custom))
+    en_tags = Counter(extract_tags(strip_icu(en)))
+    custom_tags = Counter(extract_tags(strip_icu(custom)))
     if en_tags != custom_tags:
         errors.append(
             f"{key}: тэгі не супадаюць en={dict(en_tags)} custom={dict(custom_tags)}"
+        )
+    en_icu = len(ICU_RE.findall(en))
+    custom_icu = len(ICU_RE.findall(custom))
+    if bool(en_icu) != bool(custom_icu):
+        errors.append(
+            f"{key}: ICU-канструкцыя plural/ordinal ёсць толькі ў адным з en/custom"
         )
 
 
@@ -81,7 +87,7 @@ def check_whitespace_punct(custom, en, key, errors):
     en_punct = en_last in ".,!?:;…"
     custom_punct = custom_last in ".,!?:;…"
     if en_punct != custom_punct:
-        errors.append(f"{key}: канцавы знак прыпынku не адпавядае en ('{en_last}' vs '{custom_last}')")
+        errors.append(f"{key}: канцавы знак прыпынку не адпавядае en ('{en_last}' vs '{custom_last}')")
 
 
 def validate_file(path):
