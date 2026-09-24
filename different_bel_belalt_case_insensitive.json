@@ -41995,7 +41995,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FaregylInterior",
-    "custom": "",
+    "custom": "\"Фарэгіл\" - Унутраныя памяшканні",
     "en": "Faregyl's Interior",
     "ru": "\"Фарегил\" - Внутренние помещения",
     "bel": "\"Фарэгіл\" - Унутраныя памяшканні",
@@ -42004,7 +42004,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Farewell",
-    "custom": "",
+    "custom": "Бывай",
     "en": "Farewell",
     "ru": "Прощай.",
     "bel": "Бывай.",
@@ -42013,7 +42013,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FatRampCamp",
-    "custom": "",
+    "custom": "Лагер для тлустых рампераў",
     "en": "Fat Ramp Camp",
     "ru": "Лагерь для жирных рамперов",
     "bel": "Лагер для тлустых рампераў",
@@ -42022,7 +42022,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FatbackCave",
-    "custom": "",
+    "custom": "Пячора Фатбэк",
     "en": "Fatback Cave",
     "ru": "Пещера Фатбэк",
     "bel": "Пячора Фатбэк",
@@ -42031,7 +42031,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FatbackCave02",
-    "custom": "",
+    "custom": "Фатбэк - Вялікая зала",
     "en": "Fatback Great Chamber",
     "ru": "Фатбэк - Большой зал",
     "bel": "Фатбэк - Вялікая зала",
@@ -42040,7 +42040,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FatbackCave03",
-    "custom": "",
+    "custom": "Фатбэк - Глыбінны вадаём",
     "en": "Fatback Deep Basins",
     "ru": "Фатбэк - Глубинный водоем",
     "bel": "Фатбэк - Глыбінны вадаём",
@@ -42049,7 +42049,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FathisArensTower",
-    "custom": "",
+    "custom": "Вежа Фаціса Арэна",
     "en": "Fathis Aren's Tower",
     "ru": "Башня Фатиса Арена.",
     "bel": "Вежа Фаціса Арэна.",
@@ -42058,7 +42058,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FathisUlesFaction",
-    "custom": "",
+    "custom": "Фракцыя Fathis Ules",
     "en": "Fathis Ules Faction",
     "ru": "Фракция Fathis Ules",
     "bel": "Фракцыя Fathis Ules",
@@ -42067,7 +42067,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Faurinthil",
-    "custom": "",
+    "custom": "Фарынтыл",
     "en": "Faurinthil",
     "ru": "Форинтил",
     "bel": "Фарынтыл",
@@ -42076,7 +42076,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FearGeneral",
-    "custom": "",
+    "custom": "Усеагульны страх",
     "en": "FearGeneral",
     "ru": "Всеобщий страх",
     "bel": "Усеагульны страх",
@@ -42085,7 +42085,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FeedBagKey",
-    "custom": "",
+    "custom": "Ключ ад \"Кармушкі\"",
     "en": "Feed Bag Key",
     "ru": "Ключ от \"Кормушки\"",
     "bel": "Ключ ад \"Кармушкі\"",
@@ -42094,7 +42094,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FelenRelas",
-    "custom": "",
+    "custom": "Фелен Рэлас",
     "en": "Felen Relas",
     "ru": "Фелен Релас",
     "bel": "Фелен Рэлас",
@@ -42103,7 +42103,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FelgageldtCave",
-    "custom": "",
+    "custom": "Пячора Фелгагелдт",
     "en": "Felgageldt Cave",
     "ru": "Пещера Фелгагелдт",
     "bel": "Пячора Фелгагелдт",
@@ -42112,7 +42112,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FelgageldtCave02",
-    "custom": "",
+    "custom": "Фелгагелдт - склеп",
     "en": "Felgageldt Wishbone Vault",
     "ru": "Фелгагелдт - склеп",
     "bel": "Фелгагелдт - склеп",
@@ -42121,7 +42121,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FelldewEffect",
-    "custom": "",
+    "custom": "Эфект Феллдзью",
     "en": "Felldew Effect",
     "ru": "Эффект Феллдью",
     "bel": "Эфект Феллдзью",
@@ -42130,7 +42130,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Fellmoor",
-    "custom": "",
+    "custom": "Фелмур",
     "en": "Fellmoor",
     "ru": "Феллмур",
     "bel": "Феллмур",
@@ -42139,7 +42139,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FellmoorRegion",
-    "custom": "",
+    "custom": "Фелмур",
     "en": "Fellmoor",
     "ru": "Феллмур",
     "bel": "Феллмур",
@@ -42148,7 +42148,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FemaleFashionModel",
-    "custom": "",
+    "custom": "Бруке",
     "en": "Brooke",
     "ru": "Бруке",
     "bel": "Бруке",
@@ -42157,7 +42157,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FenceGateAnimation",
-    "custom": "",
+    "custom": "Старыя вароты",
     "en": "Old Gate",
     "ru": "Старые ворота",
     "bel": "Старыя вароты",
@@ -42166,7 +42166,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Fences",
-    "custom": "",
+    "custom": "Агароджы",
     "en": "Fences",
     "ru": "Ограды",
     "bel": "Агароджы",
@@ -42175,7 +42175,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FerulRavel",
-    "custom": "",
+    "custom": "Ферун Равел",
     "en": "Ferul Ravel",
     "ru": "Ферун Равел",
     "bel": "Ферун Равел",
@@ -42184,7 +42184,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FetidGrove",
-    "custom": "",
+    "custom": "Смярдзючы Гай",
     "en": "Fetid Grove",
     "ru": "Зловонная Роща",
     "bel": "Смярдзючы Гай",
@@ -42193,7 +42193,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FieldhouseCave",
-    "custom": "",
+    "custom": "Пячора Палявы Дом",
     "en": "Fieldhouse Cave",
     "ru": "Пещера Полевой Дом",
     "bel": "Пячора Палявы Дом",
@@ -42202,7 +42202,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FieldhouseCave02",
-    "custom": "",
+    "custom": "Палявы Дом - Сцёкавая яма",
     "en": "Dust Sumps of Fieldhouse",
     "ru": "Полевой Дом - Сточная яма",
     "bel": "Палявы Дом - Сцёкавая яма",
@@ -42211,7 +42211,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FieldhouseCave03",
-    "custom": "",
+    "custom": "Палявы Дом - Чорныя балконы",
     "en": "Black Balconies of Fieldhouse",
     "ru": "Полевой Дом - Черные балконы",
     "bel": "Палявы Дом - Чорныя балконы",
@@ -42229,7 +42229,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FightersGuildKey",
-    "custom": "",
+    "custom": "Ключ ад Гільдыі байцоў",
     "en": "Fighters Guild Key",
     "ru": "Ключ от Гильдии бойцов",
     "bel": "Ключ ад Гільдыі байцоў",
@@ -42238,7 +42238,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FightersGuild_LEVEL0_F",
-    "custom": "",
+    "custom": "Стажор",
     "en": "Associate",
     "ru": "Стажер",
     "bel": "Стажор",
@@ -42247,7 +42247,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FightersGuild_LEVEL0_M",
-    "custom": "",
+    "custom": "Стажор",
     "en": "Associate",
     "ru": "Стажер",
     "bel": "Стажор",
@@ -42256,7 +42256,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FightersGuild_LEVEL2_F",
-    "custom": "",
+    "custom": "Спецыяліст",
     "en": "Journeyman",
     "ru": "Специалист",
     "bel": "Спецыяліст",
@@ -42265,7 +42265,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FightersGuild_LEVEL2_M",
-    "custom": "",
+    "custom": "Спецыяліст",
     "en": "Journeyman",
     "ru": "Специалист",
     "bel": "Спецыяліст",
@@ -42274,7 +42274,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FightersGuild_LEVEL4_F",
-    "custom": "",
+    "custom": "Пратэктар",
     "en": "Protector",
     "ru": "Протектор",
     "bel": "Пратэктар",
@@ -42283,7 +42283,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FightersGuild_LEVEL4_M",
-    "custom": "",
+    "custom": "Пратэктар",
     "en": "Protector",
     "ru": "Протектор",
     "bel": "Пратэктар",
@@ -42292,7 +42292,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FightersGuild_LEVEL6_F",
-    "custom": "",
+    "custom": "Ахоўнік",
     "en": "Warder",
     "ru": "Охранитель",
     "bel": "Ахоўнік",
@@ -42301,7 +42301,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FightersGuild_LEVEL6_M",
-    "custom": "",
+    "custom": "Ахоўнік",
     "en": "Warder",
     "ru": "Охранитель",
     "bel": "Ахоўнік",
@@ -42310,7 +42310,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FightersGuild_LEVEL7_F",
-    "custom": "",
+    "custom": "Вартавы",
     "en": "Guardian",
     "ru": "Страж",
     "bel": "Вартавы",
@@ -42319,7 +42319,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FightersGuild_LEVEL7_M",
-    "custom": "",
+    "custom": "Вартавы",
     "en": "Guardian",
     "ru": "Страж",
     "bel": "Вартавы",
@@ -42328,7 +42328,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FightersGuild_LEVEL8_F",
-    "custom": "",
+    "custom": "Чэмпіён",
     "en": "Champion",
     "ru": "Воитель",
     "bel": "Ваяр",
@@ -42337,7 +42337,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FightersGuild_LEVEL8_M",
-    "custom": "",
+    "custom": "Чэмпіён",
     "en": "Champion",
     "ru": "Воитель",
     "bel": "Ваяр",
@@ -42346,7 +42346,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FingerbowlCave",
-    "custom": "",
+    "custom": "Пячора Чаша",
     "en": "Fingerbowl Cave",
     "ru": "Пещера Чаша",
     "bel": "Пячора Чаша",
@@ -42355,7 +42355,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FingerbowlCave02",
-    "custom": "",
+    "custom": "Пячора Чаша - Склеп слуг",
     "en": "Fingerbowl Cave - Servant Crypt",
     "ru": "Пещера Чаша - Склеп слуг",
     "bel": "Пячора Чаша - Склеп слуг",
@@ -42364,7 +42364,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FingerbowlCave03",
-    "custom": "",
+    "custom": "Пячора Чаша - Склеп шляхты",
     "en": "Fingerbowl Cave - Noble Crypt",
     "ru": "Пещера Чаша - Склеп знати",
     "bel": "Пячора Чаша - Склеп шляхты",
@@ -42373,7 +42373,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FingerbowlCave04",
-    "custom": "",
+    "custom": "Пячора Чаша - Склеп лорда",
     "en": "Fingerbowl Cave - Lord Crypt",
     "ru": "Пещера Чаша - Склеп лорда",
     "bel": "Пячора Чаша - Склеп лорда",
@@ -42382,7 +42382,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FireSalts",
-    "custom": "",
+    "custom": "Вогненная соль",
     "en": "Fire Salts",
     "ru": "Огненная соль",
     "bel": "Вогненная соль",
@@ -42391,7 +42391,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FirstEditionFaction",
-    "custom": "",
+    "custom": "Фракцыя для NPC з First Edition",
     "en": "Faction for First Edition NPCs",
     "ru": "Фракция для NPC из First Edition",
     "bel": "Фракцыя для NPC з First Edition",
@@ -42400,7 +42400,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FirstEditionKey",
-    "custom": "",
+    "custom": "Ключ ад \"Першага выдання\"",
     "en": "First Edition Key",
     "ru": "Ключ от \"Первого издания\"",
     "bel": "Ключ ад \"Першага выдання\"",
@@ -42409,7 +42409,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FishermansRock",
-    "custom": "",
+    "custom": "Рыбацкая Скала",
     "en": "Fisherman's Rock",
     "ru": "Рыбацкая Скала",
     "bel": "Рыбацкая Скала",
@@ -42418,7 +42418,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FishermansRockFollow",
-    "custom": "",
+    "custom": "Ідзі за мной.",
     "en": "I understand. Follow me.",
     "ru": "Иди за мной.",
     "bel": "Ідзі за мной.",
@@ -42427,7 +42427,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FishermansRockLater",
-    "custom": "",
+    "custom": "Магчыма, пазней.",
     "en": "Maybe later.",
     "ru": "Возможно, позже.",
     "bel": "Магчыма, пазней.",
@@ -42436,7 +42436,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FishermansRockRegion",
-    "custom": "",
+    "custom": "Скала Рыбака",
     "en": "Fisherman's Rock",
     "ru": "Скала Рыбака",
     "bel": "Скала Рыбака",
@@ -42445,7 +42445,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FishermansRockTopic",
-    "custom": "",
+    "custom": "Скала Рыбака",
     "en": "Fisherman's Rock",
     "ru": "Скала Рыбака",
     "bel": "Скала Рыбака",
@@ -42454,7 +42454,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FishermansRockTopicSmashing",
-    "custom": "",
+    "custom": "Пагаварыць, ПОТЫМ біць і сячы?",
     "en": "Talking, THEN smashing and chopping?",
     "ru": "Потолковать, ЗАТЕМ бить и рубить?",
     "bel": "Пагаварыць, ПОТЫМ біць і сячы?",
@@ -42463,7 +42463,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FishermansRockTopicWhy",
-    "custom": "",
+    "custom": "Чаму?",
     "en": "Why?",
     "ru": "Зачем?",
     "bel": "Навошта?",
@@ -42472,7 +42472,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Fithragaer",
-    "custom": "",
+    "custom": "Фітрагэр",
     "en": "Fithragaer",
     "ru": "Фитрагэр",
     "bel": "Фітрагэр",
@@ -42481,7 +42481,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FiveRidersStables",
-    "custom": "",
+    "custom": "Стайні \"Пяць Вершнікаў\"",
     "en": "Five Riders Stables",
     "ru": "Конюшни \"Пять Всадников\"",
     "bel": "Стайні \"Пяць Вершнікаў\"",
@@ -42490,7 +42490,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FlaxSeeds",
-    "custom": "",
+    "custom": "Насенне льну",
     "en": "Flax Seeds",
     "ru": "Семена льна",
     "bel": "Насенне лёну",
@@ -42499,7 +42499,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Flee",
-    "custom": "",
+    "custom": "Бяжыце",
     "en": "Flee",
     "ru": "Бегите.",
     "bel": "Бяжыце.",
@@ -42508,7 +42508,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FloodedCamp",
-    "custom": "",
+    "custom": "Затоплены лагер",
     "en": "Flooded Camp",
     "ru": "Затопленный лагерь",
     "bel": "Затоплены лагер",
@@ -42517,7 +42517,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FloodedCampRegion",
-    "custom": "",
+    "custom": "Затоплены лагер",
     "en": "Flooded Camp",
     "ru": "Затопленный лагерь",
     "bel": "Затоплены лагер",
@@ -42526,7 +42526,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FloodedMine",
-    "custom": "",
+    "custom": "Затопленая шахта",
     "en": "Flooded Mine",
     "ru": "Затопленная шахта",
     "bel": "Затопленая шахта",
@@ -42535,7 +42535,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FlowingBowlFaction",
-    "custom": "",
+    "custom": "Кузня Чаша-вадаспад",
     "en": "Anvil Flowing Bowl",
     "ru": "Кузнечная Чаша-водопад",
     "bel": "Кузня Чаша-вадаспад",
@@ -42544,7 +42544,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FlyAmanitaCap",
-    "custom": "",
+    "custom": "Шапачка мухамора",
     "en": "Fly Amanita Cap",
     "ru": "Шляпка мухомора",
     "bel": "Шапачка мухамора",
@@ -42553,7 +42553,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FocsleFaction",
-    "custom": "",
+    "custom": "Anvil - каманда \"Бак\"",
     "en": "Anvil - Foc'sle faction",
     "ru": "Anvil - команда \"Бак\"",
     "bel": "Anvil - каманда \"Бак\"",
@@ -42562,7 +42562,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FocsleKey",
-    "custom": "",
+    "custom": "Ключ ад \"Кубрыка\"",
     "en": "Fo'c's'le Key",
     "ru": "Ключ от \"Кубрика\"",
     "bel": "Ключ ад \"Кубрыка\"",
@@ -42571,7 +42571,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FoldedCloth01",
-    "custom": "",
+    "custom": "Згорнутая тканіна",
     "en": "Folded Cloth",
     "ru": "Свернутая ткань",
     "bel": "Згорнутая тканіна",
@@ -42580,7 +42580,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FoldedCloth02",
-    "custom": "",
+    "custom": "Згорнутая тканіна",
     "en": "Folded Cloth",
     "ru": "Свернутая ткань",
     "bel": "Згорнутая тканіна",
@@ -42589,7 +42589,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FoldedCloth03",
-    "custom": "",
+    "custom": "Згорнутая тканіна",
     "en": "Folded Cloth",
     "ru": "Свернутая ткань",
     "bel": "Згорнутая тканіна",
@@ -42598,7 +42598,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FoldedCloth04",
-    "custom": "",
+    "custom": "Згорнутая тканіна",
     "en": "Folded Cloth",
     "ru": "Свернутая ткань",
     "bel": "Згорнутая тканіна",
@@ -42607,7 +42607,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FoldedCloth05",
-    "custom": "",
+    "custom": "Згорнутая тканіна",
     "en": "Folded Cloth",
     "ru": "Свернутая ткань",
     "bel": "Згорнутая тканіна",
@@ -42616,7 +42616,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FollowupNegative",
-    "custom": "",
+    "custom": "Адмова",
     "en": "FollowupNegative",
     "ru": "Отказ",
     "bel": "Адмова",
@@ -42625,7 +42625,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FollowupPositive",
-    "custom": "",
+    "custom": "ПрацягУдала",
     "en": "FollowupPositive",
     "ru": "ПродолжениеУспешно",
     "bel": "ПрацягУдала",
@@ -42634,7 +42634,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ForlornWatchman",
-    "custom": "",
+    "custom": "Адзінокі Вартавы",
     "en": "The Forlorn Watchman",
     "ru": "Одинокий Дозорный",
     "bel": "Адзінокі Вартавы",
@@ -42643,7 +42643,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ForlornWatchmanPre",
-    "custom": "",
+    "custom": "Адзінокі Вартавы",
     "en": "The Forlorn Watchman",
     "ru": "Одинокий Дозорный",
     "bel": "Адзінокі Вартавы",
@@ -42652,7 +42652,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Foroch",
-    "custom": "",
+    "custom": "Форок",
     "en": "Foroch",
     "ru": "Форок",
     "bel": "Форок",
@@ -42661,7 +42661,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ForsakenMine02",
-    "custom": "",
+    "custom": "Пакінутая шахта - Забытыя хады",
     "en": "Forsaken Mine Lost Passages",
     "ru": "Оставленная шахта - Забытые ходы",
     "bel": "Пакінутая шахта - Забытыя хады",
@@ -42670,7 +42670,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortAlessia02",
-    "custom": "",
+    "custom": "Форт Алесія - Зала сходаў",
     "en": "Fort Alessia Assembly Hall",
     "ru": "Форт Алессия - Зал собраний",
     "bel": "Форт Алесія - Зала сходаў",
@@ -42679,7 +42679,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortAlessiaCrate",
-    "custom": "",
+    "custom": "Пакамечаны яшчык",
     "en": "A Battered Crate",
     "ru": "Ветхий ящик",
     "bel": "Абвалены яшчык",
@@ -42688,7 +42688,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortAsh02",
-    "custom": "",
+    "custom": "Форт Эш - частакол",
     "en": "Fort Ash Stockade",
     "ru": "Форт Эш - частокол",
     "bel": "Форт Эш - частакол",
@@ -42697,7 +42697,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortBlackBoot",
-    "custom": "",
+    "custom": "Форт Чорнага Бота",
     "en": "Fort Black Boot",
     "ru": "Форт Черного Сапога",
     "bel": "Форт Чорнага Бота",
@@ -42706,7 +42706,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortBlueBlood",
-    "custom": "",
+    "custom": "Форт Блакітнай Крыві",
     "en": "Fort Blueblood",
     "ru": "Форт Голубой Крови",
     "bel": "Форт Блакітнай Крыві",
@@ -42715,7 +42715,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortBlueBlood02",
-    "custom": "",
+    "custom": "Форт Блакітнай Крыві - Залы",
     "en": "Fort Blueblood Halls",
     "ru": "Форт Голубой Крови - Залы",
     "bel": "Форт Блакітнай Крыві - Залы",
@@ -42724,7 +42724,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortBlueBlood02Backup",
-    "custom": "",
+    "custom": "Форт Блакітнай Крыві - Залы",
     "en": "Fort Blueblood Halls",
     "ru": "Форт Голубой Крови - Залы",
     "bel": "Форт Блакітнай Крыві - Залы",
@@ -42733,7 +42733,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortBlueBloodTopic",
-    "custom": "",
+    "custom": "Форт Блакітнай Крыві",
     "en": "Fort BlueBlood",
     "ru": "Форт Голубой Крови",
     "bel": "Форт Блакітнай Крыві",
@@ -42742,7 +42742,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortBlueblood",
-    "custom": "",
+    "custom": "Форт Блакітнай Крыві",
     "en": "Fort Blueblood",
     "ru": "Форт Блудблад",
     "bel": "Форт Блудблад",
@@ -42751,7 +42751,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortBulwark",
-    "custom": "",
+    "custom": "Форт Булварк",
     "en": "Fort Bulwark",
     "ru": "Форт Булварк",
     "bel": "Форт Булварк",
@@ -42760,7 +42760,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortCarmala",
-    "custom": "",
+    "custom": "Форт Кармала",
     "en": "Fort Carmala",
     "ru": "Форт Кармала",
     "bel": "Форт Кармала",
@@ -42769,7 +42769,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortCedrian02",
-    "custom": "",
+    "custom": "Форт Седрыян - Маўзалей",
     "en": "Fort Cedrian Mausoleum",
     "ru": "Форт Седриан - Мавзолей",
     "bel": "Форт Седрыян - Маўзалей",
@@ -42778,7 +42778,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortColdcorn",
-    "custom": "",
+    "custom": "Форт Колдкорн",
     "en": "Fort Coldcorn",
     "ru": "Форт Колдкорн",
     "bel": "Форт Колдкорн",
@@ -42787,7 +42787,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortColdcornKey",
-    "custom": "",
+    "custom": "Ключ ад схаваных скарбаў",
     "en": "Key of Hidden Wealth",
     "ru": "Ключ от спрятанных сокровищ",
     "bel": "Ключ ад схаваных скарбаў",
@@ -42796,7 +42796,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortCuptor",
-    "custom": "",
+    "custom": "Форт Каптор",
     "en": "Fort Cuptor",
     "ru": "Форт Каптор",
     "bel": "Форт Каптор",
@@ -42805,7 +42805,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortCuptor02",
-    "custom": "",
+    "custom": "Форт Каптор - Праходы",
     "en": "Fort Cuptor Battlemains",
     "ru": "Форт Каптор - Проходы",
     "bel": "Форт Каптор - Праходы",
@@ -42814,7 +42814,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortDirich",
-    "custom": "",
+    "custom": "Форт Дырых",
     "en": "Fort Dirich",
     "ru": "Форт Дирих",
     "bel": "Форт Дырых",
@@ -42823,7 +42823,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortDoublecross02",
-    "custom": "",
+    "custom": "Форт Даблкрос - Пячоры",
     "en": "Fort Doublecross Caves",
     "ru": "Форт Даблкросс - Пещеры",
     "bel": "Форт Даблкрос - Пячоры",
@@ -42832,7 +42832,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortDoublecross03",
-    "custom": "",
+    "custom": "Форт Даблкрос - Пакоі баявога мага",
     "en": "Fort Doublecross Battlemage Muster",
     "ru": "Форт Даблкросс - Покои боевого мага",
     "bel": "Форт Даблкрос - Пакоі баявога мага",
@@ -42841,7 +42841,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortEmpire",
-    "custom": "",
+    "custom": "Форт Імперыя",
     "en": "Fort Empire",
     "ru": "Форт Империя",
     "bel": "Форт Імперыя",
@@ -42850,7 +42850,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortEmpire02",
-    "custom": "",
+    "custom": "Форт Імперыя - Казармы",
     "en": "Fort Empire Barracks Block",
     "ru": "Форт Империя - Казармы",
     "bel": "Форт Імперыя - Казармы",
@@ -42859,7 +42859,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortEntius",
-    "custom": "",
+    "custom": "Форт Энцый",
     "en": "Fort Entius",
     "ru": "Форт Энций",
     "bel": "Форт Энцый",
@@ -42868,7 +42868,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortEntius01",
-    "custom": "",
+    "custom": "Форт Энцый",
     "en": "Fort Entius",
     "ru": "Форт Энтиус",
     "bel": "Форт Энціус",
@@ -42877,7 +42877,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortEntius02",
-    "custom": "",
+    "custom": "Форт Энцый - Магільня",
     "en": "Fort Entius Sepulcher",
     "ru": "Форт Энтиус - Гробница",
     "bel": "Форт Энціус - Магільня",
@@ -42886,7 +42886,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortFacian",
-    "custom": "",
+    "custom": "Форт Фасіян",
     "en": "Fort Facian",
     "ru": "Форт Фасиан",
     "bel": "Форт Фасіян",
@@ -42895,7 +42895,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortFacian02",
-    "custom": "",
+    "custom": "Форт Фасіян - Зводы славы",
     "en": "Fort Facian Vaults of Honor",
     "ru": "Форт Фасиан - Своды славы",
     "bel": "Форт Фасіян - Зводы славы",
@@ -42904,7 +42904,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortFlecia",
-    "custom": "",
+    "custom": "Форт Флесія",
     "en": "Fort Flecia",
     "ru": "Форт Флесия",
     "bel": "Форт Флесія",
@@ -42913,7 +42913,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortGoldThroat",
-    "custom": "",
+    "custom": "Форт Залаты-Глоткі",
     "en": "Fort Gold-Throat",
     "ru": "Форт Золотой-Глотки",
     "bel": "Форт Залаты-Глоткі",
@@ -42922,7 +42922,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortGrief",
-    "custom": "",
+    "custom": "Форт Гора",
     "en": "Fort Grief",
     "ru": "Форт Горя",
     "bel": "Форт Гора",
@@ -42931,7 +42931,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortHastrel02",
-    "custom": "",
+    "custom": "Форт Хастрэл - Крэпасць",
     "en": "Fort Hastrel Keep",
     "ru": "Форт Хастрел - Крепость",
     "bel": "Форт Хастрэл - Крэпасць",
@@ -42940,7 +42940,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortHomestead",
-    "custom": "",
+    "custom": "Форт Хомстэд",
     "en": "Fort Homestead",
     "ru": "Форт \"Родной Дом\"",
     "bel": "Форт \"Родны Дом\"",
@@ -42949,7 +42949,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortHomestead02",
-    "custom": "",
+    "custom": "Форт Хомстэд - Тунэлі",
     "en": "Fort Homestead Passages",
     "ru": "Форт Хомстед - Туннели",
     "bel": "Форт Хомстэд - Тунэлі",
@@ -42958,7 +42958,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortHomestead03",
-    "custom": "",
+    "custom": "Форт Хомстэд - Зала герояў",
     "en": "Fort Homestead Heroes' Hall",
     "ru": "Форт Хомстед - Зал героев",
     "bel": "Форт Хомстэд - Зала герояў",
@@ -42967,7 +42967,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortHorunn02",
-    "custom": "",
+    "custom": "Форт Хорун - Зала вечнага агню",
     "en": "Fort Horunn Hall of the Eternal Flame",
     "ru": "Форт Хорунн - Зал вечного огня",
     "bel": "Форт Хорун - Зала вечнага агню",
@@ -42976,7 +42976,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortHorunn03",
-    "custom": "",
+    "custom": "Форт Хорун - Збор легатаў",
     "en": "Fort Horunn Legate Assembly",
     "ru": "Форт Хорунн - Собрание легатов",
     "bel": "Форт Хорун - Збор легатаў",
@@ -42985,7 +42985,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortIrony",
-    "custom": "",
+    "custom": "Форт Іронія",
     "en": "Fort Irony",
     "ru": "Форт Ирония",
     "bel": "Форт Іронія",
@@ -42994,7 +42994,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortIstirus02",
-    "custom": "",
+    "custom": "Форт Істырус - Святыні",
     "en": "Fort Istirus Sanctuaries",
     "ru": "Форт Истирус - Святилища",
     "bel": "Форт Істырус - Святыні",
@@ -43003,7 +43003,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortIstirus03",
-    "custom": "",
+    "custom": "Форт Істырус - Казармы",
     "en": "Fort Istirus Barracks",
     "ru": "Форт Истирус - Казармы",
     "bel": "Форт Істырус - Казармы",
@@ -43012,7 +43012,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortLinchal02",
-    "custom": "",
+    "custom": "Форт Лінчал - Храм Вайны",
     "en": "Fort Linchal Temple of War",
     "ru": "Форт Линчал - Храм Войны",
     "bel": "Форт Лінчал - Храм Вайны",
@@ -43021,7 +43021,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortLinchal03",
-    "custom": "",
+    "custom": "Форт Лінчал - Зала рыцараў",
     "en": "Fort Linchal Hall of Knights",
     "ru": "Форт Линчал - Зал рыцарей",
     "bel": "Форт Лінчал - Зала рыцараў",
@@ -43030,7 +43030,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortMagia02",
-    "custom": "",
+    "custom": "Форт Магія - Мемарыял",
     "en": "Fort Magia Memorials",
     "ru": "Форт Магиа - Мемориал",
     "bel": "Форт Магія - Мемарыял",
@@ -43039,7 +43039,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortMagia03",
-    "custom": "",
+    "custom": "Форт Магія - Гарнізон",
     "en": "Fort Magia Garrison Blocks",
     "ru": "Форт Магиа - Гарнизон",
     "bel": "Форт Магія - Гарнізон",
@@ -43048,7 +43048,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortNikelA",
-    "custom": "",
+    "custom": "Каманда А Форта Нікель",
     "en": "Fort Nikel Team A",
     "ru": "Команда Fort Nikel A",
     "bel": "Каманда Fort Nikel A",
@@ -43057,7 +43057,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortNikelB",
-    "custom": "",
+    "custom": "Каманда Б Форта Нікель",
     "en": "Fort Nikel Team B",
     "ru": "Команда B форта Nikel",
     "bel": "Каманда B форта Nikel",
@@ -43066,7 +43066,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortNomore",
-    "custom": "",
+    "custom": "Форт Номор",
     "en": "Fort Nomore",
     "ru": "Форт Номор",
     "bel": "Форт Номор",
@@ -43075,7 +43075,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortNomore02",
-    "custom": "",
+    "custom": "Форт Номор - Бункер",
     "en": "Fort Nomore Bunker",
     "ru": "Форт Номор - Бункер",
     "bel": "Форт Номор - Бункер",
@@ -43084,7 +43084,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortOntus02",
-    "custom": "",
+    "custom": "Форт Онтус - Падзямеллі",
     "en": "Fort Ontus Understreets",
     "ru": "Форт Онтус - Подземелья",
     "bel": "Форт Онтус - Падзямеллі",
@@ -43093,7 +43093,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortRayles",
-    "custom": "",
+    "custom": "Форт Рейлес",
     "en": "Fort Rayles",
     "ru": "Форт Рейлес",
     "bel": "Форт Рейлес",
@@ -43102,7 +43102,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortRayles02",
-    "custom": "",
+    "custom": "Форт Рейлес - Зімовая зала",
     "en": "Fort Rayles Hall of Winter",
     "ru": "Форт Рейлес - Зимний зал",
     "bel": "Форт Рейлес - Зімовая зала",
@@ -43111,7 +43111,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortRayles02DUPLICATE000",
-    "custom": "",
+    "custom": "Форт Рейлес",
     "en": "Fort Rayles",
     "ru": "Форт Рейлес",
     "bel": "Форт Рейлес",
@@ -43120,7 +43120,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortRedman02",
-    "custom": "",
+    "custom": "Форт Рэдман - Зала правасуддзя",
     "en": "Fort Redman Hall of Judges",
     "ru": "Форт Редман - Зал правосудия",
     "bel": "Форт Рэдман - Зала правасуддзя",
@@ -43129,7 +43129,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortRedwater",
-    "custom": "",
+    "custom": "Форт Чырвоная Вада",
     "en": "Fort Redwater",
     "ru": "Форт Редвотер",
     "bel": "Форт Рэдвотар",
@@ -43138,7 +43138,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortRedwater01",
-    "custom": "",
+    "custom": "Форт Чырвоная Вада",
     "en": "Fort Redwater",
     "ru": "Форт Красная Вода",
     "bel": "Форт Чырвоная Вада",
@@ -43147,7 +43147,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortRedwater02",
-    "custom": "",
+    "custom": "Форт Чырвоная Вада - Залы славы",
     "en": "Fort Redwater Halls of Glory",
     "ru": "Форт Красная Вода - Залы славы",
     "bel": "Форт Чырвоная Вада - Залы славы",
@@ -43156,7 +43156,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortRoebeck",
-    "custom": "",
+    "custom": "Форт Робек",
     "en": "Fort Roebeck",
     "ru": "Форт Roebeck",
     "bel": "Форт Roebeck",
@@ -43165,7 +43165,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortRoebeck01",
-    "custom": "",
+    "custom": "Форт Робек",
     "en": "Fort Roebeck",
     "ru": "Форт Робек",
     "bel": "Форт Робек",
@@ -43174,7 +43174,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortRoebeck02",
-    "custom": "",
+    "custom": "Форт Робек - Зімовы цэнтр",
     "en": "Fort Roebeck Winter Station",
     "ru": "Форт Робек - Зимний центр",
     "bel": "Форт Робек - Зімовы цэнтр",
@@ -43183,7 +43183,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortRoebeck02Key",
-    "custom": "",
+    "custom": "Ключ ад пакоя форта Робек",
     "en": "Roebeck Bridge Room Key",
     "ru": "Ключ от комнаты форта Робек",
     "bel": "Ключ ад пакоя форта Робек",
@@ -43192,7 +43192,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortScinia01",
-    "custom": "",
+    "custom": "Форт Сцынія",
     "en": "Fort Scinia",
     "ru": "Форт Скиния",
     "bel": "Форт Скінія",
@@ -43201,7 +43201,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortScinia01DeadSkeleton",
-    "custom": "",
+    "custom": "Гран Струзер",
     "en": "Gran Struthe",
     "ru": "Гран Струзер",
     "bel": "Гран Струзер",
@@ -43210,7 +43210,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortScinia01Key",
-    "custom": "",
+    "custom": "Ключ ад склепа Скініі",
     "en": "Scinia Crypt Key",
     "ru": "Ключ от склепа Скинии",
     "bel": "Ключ ад склепа Скініі",
@@ -43219,7 +43219,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortScinia02",
-    "custom": "",
+    "custom": "Форт Скінія - Зала легенд",
     "en": "Fort Scinia Hall of Legends",
     "ru": "Форт Скиния - Зал легенд",
     "bel": "Форт Скінія - Зала легенд",
@@ -43228,7 +43228,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortSejanus02",
-    "custom": "",
+    "custom": "Форт Сеянус - Катакомбы",
     "en": "Fort Sejanus Catacombs",
     "ru": "Форт Сеянус - Катакомбы",
     "bel": "Форт Сеянус - Катакомбы",
@@ -43237,7 +43237,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortStrand01",
-    "custom": "",
+    "custom": "Форт Стрэнд",
     "en": "Fort Strand",
     "ru": "Форт Странд",
     "bel": "Форт Странд",
@@ -43246,7 +43246,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortStrand02",
-    "custom": "",
+    "custom": "Форт Странд - Вялікі купал",
     "en": "Fort Strand Great Dome",
     "ru": "Форт Странд - Великий купол",
     "bel": "Форт Странд - Вялікі купал",
@@ -43255,7 +43255,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortSutch",
-    "custom": "",
+    "custom": "Форт Сатч",
     "en": "Fort Sutch",
     "ru": "Форт Сутч",
     "bel": "Форт Сутч",
@@ -43264,7 +43264,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortTeleman02",
-    "custom": "",
+    "custom": "Форт Тэлеман - Ордэн Чорнай ружы",
     "en": "Fort Teleman Order of the Black Rose",
     "ru": "Форт Телеман - Орден Черной розы",
     "bel": "Форт Тэлеман - Ордэн Чорнай ружы",
@@ -43273,7 +43273,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortUrasek02",
-    "custom": "",
+    "custom": "Форт Урасек - Памяшканні асабістага складу",
     "en": "Fort Urasek Company Billets",
     "ru": "Форт Урасек -  Помещения личного состава",
     "bel": "Форт Урасек - Памяшканні асабістага складу",
@@ -43282,7 +43282,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortVariela02",
-    "custom": "",
+    "custom": "Форт Варыела - Памяшканні асабістага складу",
     "en": "Fort Variela Staff Quarters",
     "ru": "Форт Вариела - Помещения личного состава",
     "bel": "Форт Варыела - Памяшканні асабістага складу",
@@ -43291,7 +43291,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortVirtue",
-    "custom": "",
+    "custom": "Форт Дабрачыннасць",
     "en": "Fort Virtue",
     "ru": "Форт Добродетель",
     "bel": "Форт Дабрачыннасць",
@@ -43300,7 +43300,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortWarielKey",
-    "custom": "",
+    "custom": "Ключ ад Варыэля",
     "en": "Wariel's Key",
     "ru": "Ключ от Вариэля",
     "bel": "Ключ ад Варыэля",
@@ -43309,7 +43309,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortWoodenHand",
-    "custom": "",
+    "custom": "Форт Драўлянай Рукі",
     "en": "Fort Wooden Hand",
     "ru": "Деревянная Рука Форт",
     "bel": "Драўляная Рука Форт",
@@ -43318,7 +43318,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortWoodenHand01",
-    "custom": "",
+    "custom": "Форт Драўлянай Рукі",
     "en": "Fort Wooden Hand",
     "ru": "Форт Деревянной Руки",
     "bel": "Форт Драўлянай Рукі",
@@ -43327,7 +43327,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FortWoodenHand02",
-    "custom": "",
+    "custom": "Форт Драўлянай Рукі - частакол",
     "en": "Fort Wooden Hand Stockade",
     "ru": "Форт Деревянной Руки - частокол",
     "bel": "Форт Драўлянай Рукі - частакол",
@@ -43336,7 +43336,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrancineVelain",
-    "custom": "",
+    "custom": "Франсін Велэн",
     "en": "Francine Velain",
     "ru": "Франсин Велэн",
     "bel": "Франсін Велэн",
@@ -43345,7 +43345,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrancoisMotierre",
-    "custom": "",
+    "custom": "Франсуа Моцьер",
     "en": "Francois Motierre",
     "ru": "Франсуа Мотьер",
     "bel": "Франсуа Моцье",
@@ -43354,7 +43354,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrancoisMotierreFaked",
-    "custom": "",
+    "custom": "Франсуа Моцьер",
     "en": "Francois Motierre",
     "ru": "Франсуа Мотьер",
     "bel": "Франсуа Моцье",
@@ -43363,7 +43363,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrancoisMotierreKey",
-    "custom": "",
+    "custom": "Ключ Франсуа Моцьера",
     "en": "Francois Motierre's Key",
     "ru": "Ключ Франсуа Мотьера",
     "bel": "Ключ Франсуа Моцье",
@@ -43372,7 +43372,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrancoisMotierreQuestFaction",
-    "custom": "",
+    "custom": "Фракцыя квэста Франсуа Моцьера",
     "en": "FrancoisMotierreQuestFaction",
     "ru": "Фракция квеста FrancoisMotierreQuestFaction",
     "bel": "Фракцыя квэста FrancoisMotierreQuestFaction",
@@ -43381,7 +43381,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrenziedCamp",
-    "custom": "",
+    "custom": "Вар'яцкі Лагер",
     "en": "Frenzied Camp",
     "ru": "Безумный Лагерь",
     "bel": "Вар'яцкі Лагер",
@@ -43390,7 +43390,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrenziedCampRegion",
-    "custom": "",
+    "custom": "Шалёны лагер",
     "en": "Frenzied Camp",
     "ru": "Бешеный лагерь",
     "bel": "Шалёны лагер",
@@ -43399,7 +43399,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FromTheDead",
-    "custom": "",
+    "custom": "Рэчы памерлых",
     "en": "Taken from the Dead",
     "ru": "Вещи умерших",
     "bel": "Рэчы памерлых",
@@ -43408,7 +43408,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostFireCave",
-    "custom": "",
+    "custom": "Пячора Марознага Агню",
     "en": "Frostfire Cave",
     "ru": "Пещера Морозного Огня",
     "bel": "Пячора Марознага Агню",
@@ -43417,7 +43417,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostSalts",
-    "custom": "",
+    "custom": "Марозныя солі",
     "en": "Frost Salts",
     "ru": "Морозная соль",
     "bel": "Марозная соль",
@@ -43426,7 +43426,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostSaltsTopic",
-    "custom": "",
+    "custom": "Ачышчаная марозная соль",
     "en": "Refined Frost Salts",
     "ru": "Очищенная морозная соль",
     "bel": "Ачышчаная марозная соль",
@@ -43435,7 +43435,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragApparatusReceipt",
-    "custom": "",
+    "custom": "Алхімічная лабараторыя Фросткрага",
     "en": "Frostcrag Alchemy Lab",
     "ru": "Алхимическая лаборатория Frostcrag",
     "bel": "Алхімічная лабараторыя Frostcrag",
@@ -43444,7 +43444,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragAtronachAltar",
-    "custom": "",
+    "custom": "Алтар атронаха",
     "en": "Atronach Altar",
     "ru": "Алтарь Атронахов",
     "bel": "Алтаp Атронахаў",
@@ -43453,7 +43453,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragBedroomAreaReceipt",
-    "custom": "",
+    "custom": "Спальня Фросткрага",
     "en": "Frostcrag Bedroom Area",
     "ru": "Спальня Ледяного Пика",
     "bel": "Спальня Ледзянога Піка",
@@ -43462,7 +43462,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragEnchantingStation",
-    "custom": "",
+    "custom": "Алтар зачаравання",
     "en": "Altar of Enchanting",
     "ru": "Алтарь зачарования",
     "bel": "Алтаp зачаравання",
@@ -43471,7 +43471,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragEnchantingStationBefore",
-    "custom": "",
+    "custom": "Алтар зачаравання",
     "en": "Altar of Enchanting",
     "ru": "Алтарь зачарования",
     "bel": "Алтаp зачаравання",
@@ -43480,7 +43480,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragLibraryAreaReceipt",
-    "custom": "",
+    "custom": "Бібліятэка Фросткрага",
     "en": "Frostcrag Library Area",
     "ru": "Область библиотеки Frostcrag",
     "bel": "Вобласць бібліятэкі Frostcrag",
@@ -43489,7 +43489,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragLpAtronachFireTouchGreater",
-    "custom": "",
+    "custom": "Фросткраг: вялікі марозны атронах, узмоцнены агнявы дотык",
     "en": "Frostcrag Atronach Greater Fire Touch",
     "ru": "Ледяной атронах, Великое огненное касание",
     "bel": "Ледзяны атронах, Вялікае вогненнае датыканне",
@@ -43498,7 +43498,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragLpAtronachFireTouchMajor",
-    "custom": "",
+    "custom": "Фросткраг: вялікі марозны атронах, галоўны агнявы дотык",
     "en": "Frostcrag Atronach Major Fire Touch",
     "ru": "Морозный Атронах Фросткрага: Мощное Огненное Прикосновение",
     "bel": "Марозны Атронах Фросткрага: Моцнае Вогненнае Дакрананне",
@@ -43507,7 +43507,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragLpAtronachFireTouchMinor",
-    "custom": "",
+    "custom": "Фросткраг: вялікі марозны атронах, нязначны агнявы дотык",
     "en": "Frostcrag Atronach Minor Fire Touch",
     "ru": "Ледяной Атронах Фросткрага: Малое Огненное Прикосновение.",
     "bel": "Ледзяны Атронах Фросткрага: Малое Вогненнае Дакрананне.",
@@ -43516,7 +43516,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragLpAtronachFireballGreater",
-    "custom": "",
+    "custom": "Фросткраг: вялікі марозны атронах, узмоцнены агнявы шар",
     "en": "Frostcrag Atronach Greater Fireball",
     "ru": "Ледяной Атронах: Великий Огненный Шар",
     "bel": "Ледзяны Атронах: Вялікі Вогненны Шар",
@@ -43525,7 +43525,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragLpAtronachFireballMajor",
-    "custom": "",
+    "custom": "Фросткраг: вялікі марозны атронах, галоўны агнявы шар",
     "en": "Frostcrag Atronach Major Fireball",
     "ru": "Ледяной атронах Frostcrag, большая огненная сфера",
     "bel": "Ледзяны атронах Frostcrag, вялікая вогненная сфера",
@@ -43534,7 +43534,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragLpAtronachFireballMinor",
-    "custom": "",
+    "custom": "Фросткраг: вялікі марозны атронах, нязначны агнявы шар",
     "en": "Frostcrag Atronach Minor Fireball",
     "ru": "Ледяной Атронах Frostcrag, Малый Огненный Шар",
     "bel": "Ледзяны Атронах Frostcrag, Малы Вогненны Шар",
@@ -43543,7 +43543,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragLpAtronachFrostBoltGrand",
-    "custom": "",
+    "custom": "Фросткраг: вялікі марозны атронах, вялікая марозная страла",
     "en": "Frostcrag Atronach Grand Frostbolt",
     "ru": "Атронах морозного пика, Grand Frostbolt",
     "bel": "Атронах марознага піка, Grand Frostbolt",
@@ -43552,7 +43552,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragLpAtronachFrostBoltGreater",
-    "custom": "",
+    "custom": "Фросткраг: вялікі марозны атронах, узмоцненая марозная страла",
     "en": "Frostcrag Atronach Greater Frostbolt",
     "ru": "Фросткрагский Атронах, Улучшенный морозный шар",
     "bel": "Фросткрагскі Атронах, Палепшаны марозны шар",
@@ -43561,7 +43561,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragLpAtronachFrostBoltMajor",
-    "custom": "",
+    "custom": "Фросткраг: вялікі марозны атронах, галоўная марозная страла",
     "en": "Frostcrag Atronach Major Frostbolt",
     "ru": "Ледяной Атронах Frostcrag, Большой Ледяной Болт",
     "bel": "Ледзяны Атронах Frostcrag, Вялікі Ледзяны Болт",
@@ -43570,7 +43570,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragLpAtronachFrostBoltMinor",
-    "custom": "",
+    "custom": "Фросткраг: вялікі марозны атронах, нязначная марозная страла",
     "en": "Frostcrag Atronach Minor Frostbolt",
     "ru": "Морозный Атронах из Frostcrag, Малый Морозный Разряд.",
     "bel": "Марозны Атронах з Frostcrag, Малы Марозны Разрад.",
@@ -43579,7 +43579,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragLpAtronachFrostTouchGrand",
-    "custom": "",
+    "custom": "Фросткраг: вялікі марозны атронах, вялікі марозны дотык",
     "en": "Frostcrag Atronach Grand Frost Touch",
     "ru": "Великий морозный удар FROSTCRAG Atronach",
     "bel": "Вялікі марозны ўдар FROSTCRAG Atronach",
@@ -43588,7 +43588,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragLpAtronachFrostTouchGreater",
-    "custom": "",
+    "custom": "Фросткраг: вялікі марозны атронах, узмоцнены марозны дотык",
     "en": "Frostcrag Atronach Greater Frost Touch",
     "ru": "Ледяной Атронах из Морозного Пика: Улучшенное Ледяное Прикосновение",
     "bel": "Ледзяны Атронах з Марознага Піка: Палепшанае Ледзяное Дакрананне",
@@ -43597,7 +43597,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragLpAtronachFrostTouchMajor",
-    "custom": "",
+    "custom": "Фросткраг: вялікі марозны атронах, галоўны марозны дотык",
     "en": "Frostcrag Atronach Major Frost Touch",
     "ru": "Обитатель Ледяного Пика Атронах, Мощное Ледяное Прикосновение.",
     "bel": "Жыхар Ледзянога Піка Атронах, Моцнае Ледзяное Дакрананне.",
@@ -43606,7 +43606,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragLpAtronachFrostTouchMinor",
-    "custom": "",
+    "custom": "Фросткраг: вялікі марозны атронах, нязначны марозны дотык",
     "en": "Frostcrag Atronach Minor Frost Touch",
     "ru": "Ледяной атронах из Морозного пика: Малое касание мороза",
     "bel": "Ледзяны атронах з Марознага піка: Малое датыканне марозу",
@@ -43615,7 +43615,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragLpAtronachShockBoltGrand",
-    "custom": "",
+    "custom": "Фросткраг: вялікі марозны атронах, вялікая зарадная страла",
     "en": "Frostcrag Atronach Grand Shock Bolt",
     "ru": "Громадный шоковый разряд Фросткрагского Атронаха",
     "bel": "Громадны шокавы разрад Фросткрагскага Атронаха",
@@ -43624,7 +43624,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragLpAtronachShockBoltGreater",
-    "custom": "",
+    "custom": "Фросткраг: вялікі марозны атронах, узмоцненая зарадная страла",
     "en": "Frostcrag Atronach Greater Shock Bolt",
     "ru": "Морозный Атронах: Усиленный Шок-Разряд",
     "bel": "Марозны Атронах: Узмоцнены Шок-Разрад",
@@ -43633,7 +43633,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragLpAtronachShockBoltMajor",
-    "custom": "",
+    "custom": "Фросткраг: вялікі марозны атронах, галоўная зарадная страла",
     "en": "Frostcrag Atronach Major Shock Bolt",
     "ru": "Ледяной атронах из Frostcrag: основной разряд молнии",
     "bel": "Ледзяны атронах з Frostcrag: асноўны разрад маланкі",
@@ -43642,7 +43642,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragLpAtronachShockBoltMinor",
-    "custom": "",
+    "custom": "Фросткраг: вялікі марозны атронах, нязначная зарадная страла",
     "en": "Frostcrag Atronach Minor Shock Bolt",
     "ru": "Ледяной Атронах Frostcrag: Малый Разряд Молнии",
     "bel": "Ледзяны Атронах Frostcrag: Малы Разрад Маланкі",
@@ -43651,7 +43651,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragLpAtronachShockTouchGrand",
-    "custom": "",
+    "custom": "Фросткраг: вялікі марозны атронах, вялікі зарадны дотык",
     "en": "Frostcrag Atronach Grand Shock Touch",
     "ru": "Великое прикосновение молнии морозного атронаха Крейг.",
     "bel": "Вялікае датыканне маланкі марознага атронаха Крэйг.",
@@ -43660,7 +43660,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragLpAtronachShockTouchGreater",
-    "custom": "",
+    "custom": "Фросткраг: вялікі марозны атронах, узмоцнены зарадны дотык",
     "en": "Frostcrag Atronach Greater Shock Touch",
     "ru": "Морозный Атронах Дрожи, Улучшенный Разряд касанием.",
     "bel": "Марозны Атронах Дрыжыкаў, Палепшаны Разрад датыканнем.",
@@ -43669,7 +43669,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragLpAtronachShockTouchMajor",
-    "custom": "",
+    "custom": "Фросткраг: вялікі марозны атронах, галоўны зарадны дотык",
     "en": "Frostcrag Atronach Major Shock Touch",
     "ru": "Ледяной атронах МОРОЗНЫХ скал: Мощное касание током",
     "bel": "Ледзяны атронах МАРОЗНЫХ скал: Моцнае датыканне токам",
@@ -43678,7 +43678,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragLpAtronachShockTouchMinor",
-    "custom": "",
+    "custom": "Фросткраг: вялікі марозны атронах, нязначны зарадны дотык",
     "en": "Frostcrag Atronach Minor Shock Touch",
     "ru": "Прикосновение малого шока морозного атронаха Крейг.",
     "bel": "Датыканне малога шоку марознага атронаха Крэйг.",
@@ -43687,7 +43687,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragMagetallowCandle",
-    "custom": "",
+    "custom": "Скрынка з магічнымі свечкамі",
     "en": "Magetallow Candles Box",
     "ru": "Коробка свечей Magetallow Candles",
     "bel": "Каробка свечак Magetallow Candles",
@@ -43696,7 +43696,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragRing",
-    "custom": "",
+    "custom": "Пентамагічная пятля",
     "en": "Pentamagic Loop",
     "ru": "Пентамагическая петля",
     "bel": "Пентамагічная пятля",
@@ -43705,7 +43705,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragSpellmakingingStation",
-    "custom": "",
+    "custom": "Алтар стварэння заклінанняў",
     "en": "Altar of Spellmaking",
     "ru": "Алтарь создания заклинаний",
     "bel": "Алтаp стварэння заклінанняў",
@@ -43714,7 +43714,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragSpellmakingingStationBefore",
-    "custom": "",
+    "custom": "Алтар стварэння заклінанняў",
     "en": "Altar of Spellmaking",
     "ru": "Алтарь создания заклинаний",
     "bel": "Алтаp стварэння заклінанняў",
@@ -43723,7 +43723,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragSpire",
-    "custom": "",
+    "custom": "Шпіль Фросткрага",
     "en": "Frostcrag Spire",
     "ru": "Пик Морозного Кряжа",
     "bel": "Пік Марознага Кряжа",
@@ -43732,7 +43732,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragSpire01",
-    "custom": "",
+    "custom": "Галоўны ўзровень шпіля Фросткрага",
     "en": "Frostcrag Spire Main Level",
     "ru": "Главный уровень Frostcrag Spire",
     "bel": "Галоўны ўзровень Frostcrag Spire",
@@ -43741,7 +43741,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragSpire02",
-    "custom": "",
+    "custom": "Жылая зона шпіля Фросткрага",
     "en": "Frostcrag Spire Living Area",
     "ru": "Жилая зона Frostcrag Spire",
     "bel": "Жылая зона Frostcrag Spire",
@@ -43750,7 +43750,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragSpire03",
-    "custom": "",
+    "custom": "Склеп шпіля Фросткрага",
     "en": "Frostcrag Spire Vault",
     "ru": "Хранилище Frostcrag Spire.",
     "bel": "Сховішча Frostcrag Spire.",
@@ -43768,7 +43768,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragSpireAtronachFaction",
-    "custom": "",
+    "custom": "Фракцыя атронахаў шпіля Фросткрага",
     "en": "Frostcrag Spire Atronach Faction",
     "ru": "Фракция атронахов «Шпиля Ледяного Кряжа» (Frostcrag Spire)",
     "bel": "Фракцыя атронахаў «Шпіля Ледзянога Кряжа» (Frostcrag Spire)",
@@ -43777,7 +43777,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragSpireAtronachFaction_LEVEL0_M",
-    "custom": "",
+    "custom": "Фамільяр Атронаха",
     "en": "Atronach Familiar",
     "ru": "Фамильяр Атронаха",
     "bel": "Фамільяр Атронаха",
@@ -43786,7 +43786,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragSpireDeed",
-    "custom": "",
+    "custom": "Дакумент на шпіль Фросткрага",
     "en": "Deed to Frostcrag Spire",
     "ru": "Документ на Шпиль Морозного Кряжа",
     "bel": "Дакумент на Шпіль Марознага Кряжа",
@@ -43795,7 +43795,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragSpireKey",
-    "custom": "",
+    "custom": "Ключ ад шпіля Фросткрага",
     "en": "Frostcrag Spire Key",
     "ru": "Ключ от Пика Морозного Кряжа",
     "bel": "Ключ ад Піка Марознага Кряжа",
@@ -43804,7 +43804,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragSpireMemoirs",
-    "custom": "",
+    "custom": "Мемуары шпіля Фросткрага",
     "en": "Frostcrag Spire Memoirs",
     "ru": "Мемуары Frostcrag Spire",
     "bel": "Мемуары Frostcrag Spire",
@@ -43813,7 +43813,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragSpireTelepad",
-    "custom": "",
+    "custom": "Партал падарожжаў",
     "en": "Travel Portal",
     "ru": "Портал перемещения",
     "bel": "Партал перамяшчэння",
@@ -43822,7 +43822,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragSpireTelepadBruma",
-    "custom": "",
+    "custom": "Партал падарожжаў",
     "en": "Travel Portal",
     "ru": "Транспортный портал",
     "bel": "Транспартны партал",
@@ -43831,7 +43831,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragSpireTelepadKVATCH01",
-    "custom": "",
+    "custom": "Партал падарожжаў у Гільдыю Магаў Кватча",
     "en": "Travel Portal to Kvatch Mages Guild",
     "ru": "Врата перемещения в Гильдию Магов Кватча",
     "bel": "Брама перамяшчэння ў Гільдыю Магаў Кватча",
@@ -43840,7 +43840,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragTestContainer",
-    "custom": "",
+    "custom": "Тэставы кантэйнер Фросткрага",
     "en": "Frostcrag Testing Container",
     "ru": "Контейнер для тестирования Frostcrag",
     "bel": "Кантэйнер для тэставання Frostcrag",
@@ -43849,7 +43849,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostcragVaultAreaReceipt",
-    "custom": "",
+    "custom": "Склеп Фросткрага",
     "en": "Frostcrag Vault Area",
     "ru": "Зона хранилища Frostcrag.",
     "bel": "Зона сховішча Frostcrag.",
@@ -43858,7 +43858,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FrostfireGlade",
-    "custom": "",
+    "custom": "Ледзяны Гай",
     "en": "Frostfire Glade",
     "ru": "Ледяная Роща",
     "bel": "Ледзяны Гай",
@@ -43867,7 +43867,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FurCuirass",
-    "custom": "",
+    "custom": "Футравая кіраса",
     "en": "Fur Cuirass",
     "ru": "Меховая кираса",
     "bel": "Футравая кіраса",
@@ -43876,7 +43876,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FurGreaves",
-    "custom": "",
+    "custom": "Футравыя нагавіцы",
     "en": "Fur Greaves",
     "ru": "Меховые поножи",
     "bel": "Футравыя нагавіцы",
@@ -43885,7 +43885,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FyreLightKeyDUPLICATE000",
-    "custom": "",
+    "custom": "Ключ ад пячоры Вогненнага Святла",
     "en": "Fyre Light Cave Key",
     "ru": "Ключ от пещеры Огненного Света",
     "bel": "Ключ ад пячоры Вогненнага Святла",
@@ -43894,7 +43894,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FyrelightCave",
-    "custom": "",
+    "custom": "Пячора Вогненнага Святла",
     "en": "Fyrelight Cave",
     "ru": "Пещера Огненного Света",
     "bel": "Пячора Вогненнага Святла",
@@ -43903,7 +43903,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FyrelightCave02",
-    "custom": "",
+    "custom": "Вогненнае Святло - Глыбінны каньён",
     "en": "Fyrelight - Deep Canyon",
     "ru": "Огненный Свет - Глубинный каньон",
     "bel": "Вогненнае Святло - Глыбінны каньён",
@@ -43912,7 +43912,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_FyrelightCave03",
-    "custom": "",
+    "custom": "Вогненнае Святло - Забытае балота",
     "en": "Fyrelight - The Lost Sump",
     "ru": "Огненный Свет - Забытое болото",
     "bel": "Вогненнае Святло - Забытае балота",
@@ -43921,7 +43921,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GOODBYE",
-    "custom": "",
+    "custom": "БЫВАЙ",
     "en": "GOODBYE",
     "ru": "ПРОЩАЙ",
     "bel": "БЫВАЙ",
@@ -43930,7 +43930,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GaidenShinjiTopic",
-    "custom": "",
+    "custom": "Гэйдэн Шынджы",
     "en": "Gaiden Shinji",
     "ru": "Гэйден Шинджи",
     "bel": "Гэйдэн Шынджы",
@@ -43939,7 +43939,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GallenusKey",
-    "custom": "",
+    "custom": "Ключ Розентыі Галленус",
     "en": "Gallenus Rosentia's Key",
     "ru": "Ключ Розентии Галленус",
     "bel": "Ключ Розентыі Галленус",
@@ -43948,7 +43948,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Gandalf",
-    "custom": "",
+    "custom": "Раскажы мне ўсё. Я хачу зразумець.",
     "en": "Tell me everything. I want to understand.",
     "ru": "Расскажи мне всё. Я хочу понять.",
     "bel": "Раскажы мне ўсё. Я хачу зразумець.",
@@ -43957,7 +43957,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GardensofFleshandBone",
-    "custom": "",
+    "custom": "Сады Плоці і Костак",
     "en": "Gardens of Flesh and Bone",
     "ru": "Сады Плоти и Костей",
     "bel": "Сады Плоці і Костак",
@@ -43966,7 +43966,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GarlasAgea",
-    "custom": "",
+    "custom": "Гарлас Агея",
     "en": "Garlas Agea",
     "ru": "Гарлас Агея",
     "bel": "Гарлас Агея",
@@ -43975,7 +43975,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GarlicCluster",
-    "custom": "",
+    "custom": "Часнок",
     "en": "Garlic Cluster",
     "ru": "Чеснок",
     "bel": "Часнок",
@@ -43984,7 +43984,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GarnetCamp",
-    "custom": "",
+    "custom": "Гранатовы Лагер",
     "en": "Garnet Camp",
     "ru": "Гранатовый Лагерь",
     "bel": "Гранатовы Лагер",
@@ -43993,7 +43993,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GasparStegine",
-    "custom": "",
+    "custom": "Гаспар Стэгін",
     "en": "Gaspar Stegine",
     "ru": "Гаспар Стегин",
     "bel": "Гаспар Стэгін",
@@ -44002,7 +44002,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GastonSurilie",
-    "custom": "",
+    "custom": "Гастон Сурылі",
     "en": "Gaston Surilie",
     "ru": "Гастон Сурили",
     "bel": "Гастон Сурылі",
@@ -44011,7 +44011,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GastonTussaud",
-    "custom": "",
+    "custom": "Гастон Тусо",
     "en": "Gaston Tussaud",
     "ru": "Гастон Туссо",
     "bel": "Гастон Тусо",
@@ -44020,7 +44020,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Gatekeeperhit",
-    "custom": "",
+    "custom": "Брамнік трапіў",
     "en": "Gatekeeper hit",
     "ru": "Привратник попал.",
     "bel": "Брамнік трапіў.",
@@ -44029,7 +44029,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GatesofMadness",
-    "custom": "",
+    "custom": "Брама Вар'яцтва",
     "en": "Gates of Madness",
     "ru": "Врата Безумия",
     "bel": "Брама Вар'яцтва",
@@ -44038,7 +44038,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GatesofMadnessRegion",
-    "custom": "",
+    "custom": "Брама Вар'яцтва",
     "en": "Gates of Madness",
     "ru": "Врата Безумия",
     "bel": "Брама Вар'яцтва",
@@ -44047,7 +44047,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GatherClues",
-    "custom": "",
+    "custom": "Збор доказаў",
     "en": "Gather Clues",
     "ru": "Сбор улик",
     "bel": "Збор доказаў",
@@ -44056,7 +44056,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Gelebourne",
-    "custom": "",
+    "custom": "Гелебурн",
     "en": "Gelebourne",
     "ru": "Гелебурн",
     "bel": "Гелебурн",
@@ -44065,7 +44065,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Gelephor",
-    "custom": "",
+    "custom": "Гелефлор",
     "en": "Gelephor",
     "ru": "Гелефлор",
     "bel": "Гелефлор",
@@ -44074,7 +44074,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GelliusTerentius",
-    "custom": "",
+    "custom": "Геліус Тэрэнтыус",
     "en": "Gellius Terentius",
     "ru": "Геллиус Терентиус",
     "bel": "Геліус Тэрэнтыус",
@@ -44083,7 +44083,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Gem1PearlFlawed",
-    "custom": "",
+    "custom": "Неякасная жамчужына",
     "en": "Flawed Pearl",
     "ru": "Некачественная жемчужина",
     "bel": "Неякасная жамчужына",
@@ -44092,7 +44092,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Gem1PearlFlawless",
-    "custom": "",
+    "custom": "Бездакорная жамчужына",
     "en": "Flawless Pearl",
     "ru": "Безупречная жемчужина",
     "bel": "Бездакорная жамчужына",
@@ -44101,7 +44101,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Gem2TopazFlawed",
-    "custom": "",
+    "custom": "Неякасны тапаз",
     "en": "Flawed Topaz",
     "ru": "Некачественный топаз",
     "bel": "Неякасны тапаз",
@@ -44110,7 +44110,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Gem3RubyFlawed",
-    "custom": "",
+    "custom": "Неякасны рубін",
     "en": "Flawed Ruby",
     "ru": "Некачественный рубин",
     "bel": "Неякасны рубін",
@@ -44119,7 +44119,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Gem4SapphireFlawed",
-    "custom": "",
+    "custom": "Неякасны сапфір",
     "en": "Flawed Sapphire",
     "ru": "Некачественный сапфир",
     "bel": "Неякасны сапфір",
@@ -44128,7 +44128,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Gem5Emerald",
-    "custom": "",
+    "custom": "Ізумруд",
     "en": "Emerald",
     "ru": "Изумруд",
     "bel": "Ізумруд",
@@ -44137,7 +44137,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Gem5EmeraldFlawed",
-    "custom": "",
+    "custom": "Неякасны ізумруд",
     "en": "Flawed Emerald",
     "ru": "Некачественный изумруд",
     "bel": "Неякасны ізумруд",
@@ -44146,7 +44146,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Gem5EmeraldFlawless",
-    "custom": "",
+    "custom": "Бездакорны ізумруд",
     "en": "Flawless Emerald",
     "ru": "Безупречный изумруд",
     "bel": "Бездакорны ізумруд",
@@ -44155,7 +44155,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Gem6DiamondFlawed",
-    "custom": "",
+    "custom": "Неякасны брыльянт",
     "en": "Flawed Diamond",
     "ru": "Некачественный бриллиант",
     "bel": "Неякасны брыльянт",
@@ -44164,7 +44164,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Gem6DiamondFlawless",
-    "custom": "",
+    "custom": "Бездакорны брыльянт",
     "en": "Flawless Diamond",
     "ru": "Безупречный бриллиант",
     "bel": "Бездакорны брыльянт",
@@ -44173,7 +44173,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GemellusAxius",
-    "custom": "",
+    "custom": "Гемеллус Аксіус",
     "en": "Gemellus Axius",
     "ru": "Гемеллус Аксиус",
     "bel": "Гемеллус Аксіус",
@@ -44182,7 +44182,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Generic",
-    "custom": "",
+    "custom": "Дыялог, які не залежыць ад квэста і месцазнаходжання",
     "en": "Quest and Location Independent Dialogue",
     "ru": "Диалог, не зависящий от квеста и местоположения.",
     "bel": "Дыялог, які не залежыць ад квэста і месцазнаходжання.",
@@ -44191,7 +44191,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GenericArgonian",
-    "custom": "",
+    "custom": "Дыялогі расы Аргоніан",
     "en": "Argonian Race Dialogue",
     "ru": "Диалоги расы Аргониан",
     "bel": "Дыялогі расы Аргоніан",
@@ -44200,7 +44200,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GenericBanditA",
-    "custom": "",
+    "custom": "[Заплаціць 100 залатых.]",
     "en": "[Pay 100 gold.]",
     "ru": "[Заплатить 100 золотых.]",
     "bel": "[Заплаціць 100 залатых.]",
@@ -44209,7 +44209,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GenericBanditB",
-    "custom": "",
+    "custom": "Не. Вазьмі сам, калі зможаш.",
     "en": "No. Take it from me if you can.",
     "ru": "Нет. Возьми сам, если сможешь.",
     "bel": "Не. Вазьмі сам, калі зможаш.",
@@ -44218,7 +44218,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GenericBanditC",
-    "custom": "",
+    "custom": "Прашу, у мяне няма грошай.",
     "en": "Please, I don't have any money.",
     "ru": "Умоляю, у меня нет денег.",
     "bel": "Прашу, у мяне няма грошай.",
@@ -44227,7 +44227,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GenericDremora",
-    "custom": "",
+    "custom": "Тыповы дыялог дрэморы",
     "en": "Generic Dremora dialogue",
     "ru": "Типичный диалог дреморы.",
     "bel": "Тыповы дыялог дрэморы.",
@@ -44236,7 +44236,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GenericFodderCombat",
-    "custom": "",
+    "custom": "Балбатня ў баі NPC-гарматнага мяса",
     "en": "NPC Fodder combat dialogue",
     "ru": "Болтовня в бою NPC-пушечного мяса",
     "bel": "Балбатня ў баі NPC-гарматнага мяса",
@@ -44245,7 +44245,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GenericImperial",
-    "custom": "",
+    "custom": "Імперскі дыялог, заснаваны на расе",
     "en": "Imperial Race Based Dialogue",
     "ru": "Имперский диалог, основанный на расе.",
     "bel": "Імперскі дыялог, заснаваны на расе.",
@@ -44254,7 +44254,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GenericOwner",
-    "custom": "",
+    "custom": "Звычайны ўладальнік",
     "en": "Generic Owner",
     "ru": "Обычный владелец",
     "bel": "Звычайны ўладальнік",
@@ -44263,7 +44263,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GerardMelie",
-    "custom": "",
+    "custom": "Джэрард Мелі",
     "en": "Gerard Melie",
     "ru": "Джерард Мели",
     "bel": "Джэрард Мелі",
@@ -44272,7 +44272,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Giantgate",
-    "custom": "",
+    "custom": "Велізарныя вароты",
     "en": "Giant gate",
     "ru": "Огромные врата",
     "bel": "Велізарныя вароты",
@@ -44281,7 +44281,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GilenNorvalo",
-    "custom": "",
+    "custom": "Гілен Норвало",
     "en": "Gilen Norvalo",
     "ru": "Гилен Норвало",
     "bel": "Гілен Норвало",
@@ -44290,7 +44290,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GilenNorvaloHouse",
-    "custom": "",
+    "custom": "Фракцыя: Дом Гілена Норвало",
     "en": "Gilen Norvalo's House Faction",
     "ru": "Фракция: Дом Гилена Норвало",
     "bel": "Фракцыя: Дом Гілена Норвало",
@@ -44299,7 +44299,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GilenNorvaloKey",
-    "custom": "",
+    "custom": "Ключ Гілена Норвало",
     "en": "Gilen Norvalo's Key",
     "ru": "Ключ Гилена Норвало",
     "bel": "Ключ Гілена Норвало",
@@ -44308,7 +44308,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Gilgondorin",
-    "custom": "",
+    "custom": "Гілгондорын",
     "en": "Gilgondorin",
     "ru": "Гилгондорин",
     "bel": "Гілгондорын",
@@ -44317,7 +44317,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GinWulm",
-    "custom": "",
+    "custom": "Джын-Вульм",
     "en": "Gin-Wulm",
     "ru": "Джин-Вульм",
     "bel": "Джын-Вульм",
@@ -44326,7 +44326,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GinsengRed",
-    "custom": "",
+    "custom": "Жэньшэнь",
     "en": "Ginseng Plant",
     "ru": "Женьшень",
     "bel": "Жэньшэнь",
@@ -44335,7 +44335,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GinsengYellow",
-    "custom": "",
+    "custom": "Жэньшэнь",
     "en": "Ginseng Plant",
     "ru": "Женьшень",
     "bel": "Жэньшэнь",
@@ -44344,7 +44344,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GiovanniCivello",
-    "custom": "",
+    "custom": "Джавані Цывела",
     "en": "Giovanni Civello",
     "ru": "Джованни Цивелло",
     "bel": "Джавані Цывела",
@@ -44353,7 +44353,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GlademistCave",
-    "custom": "",
+    "custom": "Пячора Балотнага Туману",
     "en": "Glademist Cave",
     "ru": "Пещера Болотного Тумана",
     "bel": "Пячора Балотнага Туману",
@@ -44362,7 +44362,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Glarthir",
-    "custom": "",
+    "custom": "Глартыр",
     "en": "Glarthir",
     "ru": "Глартир",
     "bel": "Глартыр",
@@ -44371,7 +44371,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GlarthirFaction",
-    "custom": "",
+    "custom": "Фракцыя Glarthir",
     "en": "Glarthir Faction",
     "ru": "Фракция Glarthir",
     "bel": "Фракцыя Glarthir",
@@ -44380,7 +44380,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GlarthirHatesUs",
-    "custom": "",
+    "custom": "Людзі, якіх ненавідзіць Гларцір",
     "en": "People Glarthir Hates",
     "ru": "Люди, которых ненавидит Glarthir.",
     "bel": "Людзі, якіх ненавідзіць Glarthir.",
@@ -44389,7 +44389,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GlarthirInteriorKey",
-    "custom": "",
+    "custom": "Сакрэтны ключ Глартыра",
     "en": "Glarthir's Secret Key",
     "ru": "Секретный ключ Глартира",
     "bel": "Сакрэтны ключ Глартыра",
@@ -44398,7 +44398,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GlarthirKey",
-    "custom": "",
+    "custom": "Ключ Глартыра",
     "en": "Glarthir's Key",
     "ru": "Ключ Глартира",
     "bel": "Ключ Глартыра",
@@ -44407,7 +44407,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GlarthirTopic",
-    "custom": "",
+    "custom": "Глартыр",
     "en": "Glarthir",
     "ru": "Глартир",
     "bel": "Глартыр",
@@ -44416,7 +44416,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GlassCuirass",
-    "custom": "",
+    "custom": "Шкляная кіраса",
     "en": "Glass Cuirass",
     "ru": "Стеклянная кираса",
     "bel": "Шкляная кіраса",
@@ -44425,7 +44425,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GlassGauntlets",
-    "custom": "",
+    "custom": "Шкляныя пальчаткі",
     "en": "Glass Gauntlets",
     "ru": "Стеклянные перчатки",
     "bel": "Шкляныя пальчаткі",
@@ -44434,7 +44434,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GlassGreaves",
-    "custom": "",
+    "custom": "Шкляныя наговіцы",
     "en": "Glass Greaves",
     "ru": "Стеклянные поножи",
     "bel": "Шкляныя наговіцы",
@@ -44443,7 +44443,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Glistel",
-    "custom": "",
+    "custom": "Глістэл",
     "en": "Glistel",
     "ru": "Глистел",
     "bel": "Глістэл",
@@ -44452,7 +44452,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GlowDust",
-    "custom": "",
+    "custom": "Які свеціцца пыл",
     "en": "Glow Dust",
     "ru": "Светящаяся пыль",
     "bel": "Які свеціцца пыл",
@@ -44461,7 +44461,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GnollMountain",
-    "custom": "",
+    "custom": "Гноллья Гара",
     "en": "Gnoll Mountain",
     "ru": "Гноллья Гора",
     "bel": "Гноллья Гара",
@@ -44470,7 +44470,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GnollMountainRegion",
-    "custom": "",
+    "custom": "Гара Гнолл",
     "en": "Gnoll Mountain",
     "ru": "Гора Гнолл",
     "bel": "Гара Гнолл",
@@ -44479,7 +44479,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GnollsMeetingCamp",
-    "custom": "",
+    "custom": "Лагер зборышча гнолаў",
     "en": "Gnoll's Meeting Camp",
     "ru": "Лагерь сборища гноллов",
     "bel": "Лагер зборышча гнолаў",
@@ -44488,7 +44488,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GoblinCook",
-    "custom": "",
+    "custom": "Гоблін-кухар",
     "en": "Goblin Chef",
     "ru": "Гоблин-повар",
     "bel": "Гоблін-кухар",
@@ -44497,7 +44497,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GoblinCookA",
-    "custom": "",
+    "custom": "Гоблін-кухар (Крывавыя Рукі)",
     "en": "Bloody Hand Chef",
     "ru": "Гоблин-повар (Кровавые Руки)",
     "bel": "Гоблін-кухар (Крывавыя Рукі)",
@@ -44506,7 +44506,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GoblinCookG",
-    "custom": "",
+    "custom": "Гоблін-кухар (Востры Клык)",
     "en": "Sharp Tooth Chef",
     "ru": "Гоблин-повар (Острый клык)",
     "bel": "Гоблін-кухар (Востры Клык)",
@@ -44515,7 +44515,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GoblinJimsCave02",
-    "custom": "",
+    "custom": "Беласкуры горад Гобліна Джыма",
     "en": "Goblin Jim's Whiteskin City",
     "ru": "Белокожий город Гоблина Джима",
     "bel": "Беласкуры горад Гобліна Джыма",
@@ -44524,7 +44524,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GoblinJimsCave03",
-    "custom": "",
+    "custom": "Кладоўка Гобліна Джыма",
     "en": "Goblin Jim's Pantry",
     "ru": "Кладовка Гоблина Джима",
     "bel": "Кладоўка Гобліна Джыма",
@@ -44533,7 +44533,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GoblinRatFarmer",
-    "custom": "",
+    "custom": "Гоблін-пацукавод",
     "en": "Goblin Rat Farmer",
     "ru": "Гоблин-крысовод",
     "bel": "Гоблін-пацукавод",
@@ -44542,7 +44542,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GoblinRegion",
-    "custom": "",
+    "custom": "Гай Гоблінаў",
     "en": "Goblin Grove",
     "ru": "Роща Гоблинов",
     "bel": "Гай Гоблінаў",
@@ -44551,7 +44551,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GoblinShamanStaff",
-    "custom": "",
+    "custom": "Гоблінскі татэмны кій",
     "en": "Goblin Totem Staff",
     "ru": "Гоблинский тотемный посох",
     "bel": "Гоблінскі татэмны кій",
@@ -44560,7 +44560,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GoblinTribeA",
-    "custom": "",
+    "custom": "Племя з трушчобы Расколатага Дрэва",
     "en": "Cracked Wood Hollow tribe",
     "ru": "Племя из Трущобы Расколотого Дерева",
     "bel": "Племя з трушчобы Расколатага Дрэва",
@@ -44569,7 +44569,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GoblinTribeB",
-    "custom": "",
+    "custom": "Племя з пячоры Timberscar Cave",
     "en": "Timberscar Cave tribe",
     "ru": "Племя из пещеры Timberscar Cave",
     "bel": "Племя з пячоры Timberscar Cave",
@@ -44578,7 +44578,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GoblinTribeD",
-    "custom": "",
+    "custom": "Племя Goblin Jim'а",
     "en": "Goblin Jim's tribe",
     "ru": "Племя Goblin Jim'а",
     "bel": "Племя Goblin Jim'а",
@@ -44587,7 +44587,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GoblinTribeF",
-    "custom": "",
+    "custom": "Племя разрабаванай шахты",
     "en": "Pundered Mine tribe",
     "ru": "Племя разграбленной шахты.",
     "bel": "Племя разрабаванай шахты.",
@@ -44596,7 +44596,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GoblinTribeFarmerA",
-    "custom": "",
+    "custom": "Гоблін-пацукавод (Крывавыя Рукі)",
     "en": "Bloody Hand Rat Farmer",
     "ru": "Гоблин-крысовод (Кровавые Руки)",
     "bel": "Гоблін-пацукавод (Крывавыя Рукі)",
@@ -44605,7 +44605,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GoblinTribeGuardA",
-    "custom": "",
+    "custom": "Гоблін (Крывавыя рукі)",
     "en": "Bloody Hand Goblin",
     "ru": "Гоблин (Кровавые руки)",
     "bel": "Гоблін (Крывавыя рукі)",
@@ -44614,7 +44614,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GoblinTribeGuardB",
-    "custom": "",
+    "custom": "Гоблін (Скалягрызы)",
     "en": "Rock Biter Goblin",
     "ru": "Гоблин (Скалогрызы)",
     "bel": "Гоблін (Скалягрызы)",
@@ -44623,7 +44623,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GoblinTribeGuardC",
-    "custom": "",
+    "custom": "Гоблін (Знішчальнікі чарапоў)",
     "en": "Skull Breaker Goblin",
     "ru": "Гоблин (Крушители черепов)",
     "bel": "Гоблін (Знішчальнікі чарапоў)",
@@ -44632,7 +44632,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GoblinTribeGuardD",
-    "custom": "",
+    "custom": "Гоблін (Белая шкура)",
     "en": "White Skin Goblin",
     "ru": "Гоблин (Белая шкура)",
     "bel": "Гоблін (Белая шкура)",
@@ -44641,7 +44641,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GoblinTribeGuardE",
-    "custom": "",
+    "custom": "Гоблін (Пажыральнікі пылу)",
     "en": "Dust Eater Goblin",
     "ru": "Гоблин (Поедатели праха)",
     "bel": "Гоблін (Пажыральнікі пылу)",
@@ -44650,7 +44650,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GoblinTribeGuardF",
-    "custom": "",
+    "custom": "Гоблін (Тры пяра)",
     "en": "Three Feather Goblin",
     "ru": "Гоблин (Три пера)",
     "bel": "Гоблін (Тры пяра)",
@@ -44659,7 +44659,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GoblinTribeGuardG",
-    "custom": "",
+    "custom": "Гоблін (Востры клык)",
     "en": "Sharp Tooth Goblin",
     "ru": "Гоблин (Острый клык)",
     "bel": "Гоблін (Востры клык)",
@@ -44668,7 +44668,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GoblinTribeLeaderA",
-    "custom": "",
+    "custom": "Гоблін-правадыр (Крывавыя рукі)",
     "en": "Bloody Hand Goblin War Chief",
     "ru": "Гоблин-вождь (Кровавые руки)",
     "bel": "Гоблін-правадыр (Крывавыя рукі)",
@@ -44677,7 +44677,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GoblinTribeLeaderB",
-    "custom": "",
+    "custom": "Гоблін-правадыр (Скалягрызы)",
     "en": "Rock Biter Goblin War Chief",
     "ru": "Гоблин-вождь (Скалогрызы)",
     "bel": "Гоблін-правадыр (Скалягрызы)",
@@ -44686,7 +44686,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GoblinTribeLeaderC",
-    "custom": "",
+    "custom": "Гоблін-правадыр (Знішчальнікі чарапоў)",
     "en": "Skull Breaker Goblin War Chief",
     "ru": "Гоблин-вождь (Крушители черепов)",
     "bel": "Гоблін-правадыр (Знішчальнікі чарапоў)",
@@ -44695,7 +44695,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GoblinTribeLeaderD",
-    "custom": "",
+    "custom": "Гоблін-правадыр (Белая шкура)",
     "en": "White Skin Goblin War Chief",
     "ru": "Гоблин-вождь (Белая шкура)",
     "bel": "Гоблін-правадыр (Белая шкура)",
@@ -44704,7 +44704,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_GoblinTribeLeaderE",
-    "custom": "",
+    "custom": "Гоблін-правадыр (Пажыральнікі пылу)",
     "en": "Dust Eater Goblin War Chief",
     "ru": "Гоблин-вождь (Поедатели праха)",
     "bel": "Гоблін-правадыр (Пажыральнікі пылу)",
