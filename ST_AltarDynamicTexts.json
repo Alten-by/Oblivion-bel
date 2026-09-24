@@ -1,7 +1,7 @@
 [
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Alchemy_BodyText_Alembic",
-    "custom": "",
+    "custom": "Перагонны куб <RT_BlueMed>змяншае</> велічыню і працягласць <RT_BlueMed>негатыўных пабочных эфектаў</> у зеллях.",
     "en": "The Alembic <RT_BlueMed>decreases</> the magnitude and duration of <RT_BlueMed>negative side effects</> in potions.",
     "ru": "Перегонный куб<RT_BlueMed>снижает</> величину и длительность <RT_BlueMed>негативных побочных эффектов</> в зельях.",
     "bel": "Перагонны куб <RT_BlueMed>змяншае</> велічыню і працягласць <RT_BlueMed>негатыўных пабочных эфектаў</> у зеллях.",
@@ -9,7 +9,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Alchemy_BodyText_Applied",
-    "custom": "",
+    "custom": "Ужыта: {Value}",
     "en": "Applied: {Value}",
     "ru": "Применено: {Value}",
     "bel": "Ужыта: {Value}",
@@ -17,7 +17,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Alchemy_BodyText_Calcinator",
-    "custom": "",
+    "custom": "Кальцынатар <RT_BlueMed>павялічвае</> велічыню і працягласць <RT_BlueMed>усіх эфектаў</>, як станоўчых, так і адмоўных.",
     "en": "The calcinator <RT_BlueMed>increases</> the magnitude and duration of <RT_BlueMed>all effects</>, both positive and negative.",
     "ru": "Кальцинатор <RT_BlueMed>увеличивает</> величину и длительность <RT_BlueMed>всех эффектов</>, как положительных, так и отрицательных.",
     "bel": "Кальцынатар <RT_BlueMed>павялічвае</> велічыню і працягласць <RT_BlueMed>усіх эфектаў</>, як станоўчых, так і адмоўных.",
@@ -25,7 +25,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Alchemy_BodyText_FiltersApplied",
-    "custom": "",
+    "custom": "Ужыты фільтры: {Value}",
     "en": "Filters Applied: {Value}",
     "ru": "Применены фильтры: {Value}",
     "bel": "Ужыты фільтры: {Value}",
@@ -33,7 +33,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Alchemy_BodyText_MissingApparatus",
-    "custom": "",
+    "custom": "Адсутнічае: {ApparatusName}",
     "en": "Missing: {ApparatusName}",
     "ru": "Отсутствует: {ApparatusName}",
     "bel": "Адсутнічае: {ApparatusName}",
@@ -41,7 +41,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Alchemy_BodyText_MortarPestle",
-    "custom": "",
+    "custom": "Выкарыстоўвайце ступку і песцік, каб змяшаць два ці больш інгрэдыентаў і <RT_BlueMed>стварыць зелле</>.",
     "en": "Use the Mortar and Pestle to combine two or more ingredients to <RT_BlueMed>create a potion</>.",
     "ru": "Используйте ступку и пестик, чтобы смешать два или более ингредиентов и <RT_BlueMed>создать зелье</>.",
     "bel": "Выкарыстоўвайце ступку і песцік, каб змяшаць два ці больш інгрэдыентаў і <RT_BlueMed>стварыць зелле</>.",
@@ -49,7 +49,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Alchemy_BodyText_NoIntegrientWithTheseFilters",
-    "custom": "",
+    "custom": "У вас няма інгрэдыентаў з гэтымі фільтрамі.",
     "en": "No ingredient with these filters in your possession.",
     "ru": "У вас нет ингредиентов с этими фильтрами.",
     "bel": "У вас няма інгрэдыентаў з гэтымі фільтрамі.",
@@ -57,7 +57,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Alchemy_BodyText_Retort",
-    "custom": "",
+    "custom": "Рэторта <RT_BlueMed>павялічвае</> велічыню і працягласць <RT_BlueMed>усіх станоўчых эфектаў</> зелля.",
     "en": "The Retort <RT_BlueMed>increases</> the magnitude and duration of <RT_BlueMed>all positive effects</> of the potion.",
     "ru": "<RT_BlueMed>Ответный удар</> <RT_BlueMed>увеличивает</> силу и длительность <RT_BlueMed>всех положительных эффектов</> зелья.",
     "bel": "<RT_BlueMed>Удар у адказ</> <RT_BlueMed>павялічвае</> сілу і працягласць <RT_BlueMed>усіх станоўчых эфектаў</> зелля.",
@@ -65,7 +65,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Alchemy_Button_AddCustomName",
-    "custom": "",
+    "custom": "Дадаць карыстацкае імя",
     "en": "Add Custom Name",
     "ru": "Добавить пользовательское имя",
     "bel": "Дадаць карыстацкае імя",
@@ -73,7 +73,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Alchemy_Footer_AddToPotion",
-    "custom": "",
+    "custom": "Дадаць у зелле",
     "en": "Add to Potion",
     "ru": "Добавить в зелье",
     "bel": "Дадаць у зелле",
@@ -81,7 +81,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Alchemy_Footer_ToggleFilters",
-    "custom": "",
+    "custom": "Пераключыць фільтры",
     "en": "Toggle Filters",
     "ru": "Переключить фильтры",
     "bel": "Пераключыць фільтры",
@@ -89,7 +89,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Books_Footer_ScrollUpDown",
-    "custom": "",
+    "custom": "Пракруціце ўверх/уніз",
     "en": "Scroll Up/Down",
     "ru": "Прокрутите вверх/вниз",
     "bel": "Пракруціце ўверх/уніз",
@@ -97,7 +97,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Books_Footer_TurnPages",
-    "custom": "",
+    "custom": "Гартаць старонкі",
     "en": "Turn Pages",
     "ru": "Перелистывать страницы",
     "bel": "Гартаць старонкі",
@@ -105,7 +105,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterAttributes_Description_Agility",
-    "custom": "",
+    "custom": "Уплывае на тое, колькі <RT_BlueMed>шкоды</>, вы можаце нанесці <RT_BlueMed>зброяй, якая залежыць ад спрыту</>, такой як кінжалы, кароткія мячы і лукі. Таксама трохі ўплывае на ваш <RT_BlueMed>максімальны запас сіл</>.",
     "en": "Affects how much <RT_BlueMed>damage</> you can deal <RT_BlueMed>with Agility-based weapons</>, such as daggers, shortswords and bows. It also slightly affects your <RT_BlueMed>maximum Fatigue</>.",
     "ru": "Влияет на то, сколько <RT_BlueMed>урона</>, вы можете нанести <RT_BlueMed>оружием, зависящим от ловкости</>, таким как кинжалы, короткие мечи и луки. Также немного влияет на ваш <RT_BlueMed>максимальный запас сил</>.",
     "bel": "Уплывае на тое, колькі <RT_BlueMed>шкоды</>, вы можаце нанесці <RT_BlueMed>зброяй, якая залежыць ад спрыту</>, такой як кінжалы, кароткія мячы і лукі. Таксама трохі ўплывае на ваш <RT_BlueMed>максімальны запас сіл</>.",
@@ -113,7 +113,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterAttributes_Description_Endurance",
-    "custom": "",
+    "custom": "Моцна ўплывае на ваш <RT_BlueMed>максімальны запас здароўя</>.",
     "en": "Greatly affects your <RT_BlueMed>maximum Health</>.",
     "ru": "Сильно влияет на ваш <RT_BlueMed>максимальный запас здоровья</>.",
     "bel": "Моцна ўплывае на ваш <RT_BlueMed>максімальны запас здароўя</>.",
@@ -121,7 +121,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterAttributes_Description_Intelligence",
-    "custom": "",
+    "custom": "Уплывае на ваш <RT_BlueMed>максімум магіі</>.",
     "en": "Affects your <RT_BlueMed>maximum Magicka</>.",
     "ru": "Влияет на ваш <RT_BlueMed>максимум магии</>.",
     "bel": "Уплывае на ваш <RT_BlueMed>максімум магіі</>.",
@@ -129,7 +129,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterAttributes_Description_Luck",
-    "custom": "",
+    "custom": "Удача злёгку ўплывае на <RT_BlueMed>ўсё</>, што ты робіш.",
     "en": "Luck has a slight effect on <RT_BlueMed>everything</> you do.",
     "ru": "Удача слегка влияет на <RT_BlueMed>всё</>, что ты делаешь.",
     "bel": "Удача злёгку ўплывае на <RT_BlueMed>ўсё</>, што ты робіш.",
@@ -137,7 +137,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterAttributes_Description_Personality",
-    "custom": "",
+    "custom": "Уплывае на тое, наколькі вы <RT_BlueMed>падабаецеся</> людзям.",
     "en": "Affects how much people <RT_BlueMed>like</> you.",
     "ru": "Влияет на то, насколько вы <RT_BlueMed>нравитесь</> людям.",
     "bel": "Уплывае на тое, наколькі вы <RT_BlueMed>падабаецеся</> людзям.",
@@ -145,7 +145,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterAttributes_Description_Speed",
-    "custom": "",
+    "custom": "Вызначае, наколькі <RT_BlueMed>хутка</> вы ходзіце, плаваеце, бегаеце і робіце рывок.",
     "en": "Determines how <RT_BlueMed>fast</> you walk, swim, run and sprint.",
     "ru": "Определяет, насколько <RT_BlueMed>быстро</> вы ходите, плаваете, бегаете и совершаете рывок.",
     "bel": "Вызначае, наколькі <RT_BlueMed>хутка</> вы ходзіце, плаваеце, бегаеце і робіце рывок.",
@@ -153,7 +153,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterAttributes_Description_Strength",
-    "custom": "",
+    "custom": "Уплывае на тое, колькі <RT_BlueMed>шкоды</> вы можаце нанесці <RT_BlueMed>зброяй, заснаванай на сіле</>, такой як доўгія мячы і сякеры. Таксама <RT_BlueMed>ўплывае</> на тое, колькі вы можаце <RT_BlueMed>несці</>, і аказвае невялікі ўплыў на ваша <RT_BlueMed>максімальнае здароўе</>.",
     "en": "Affects how much <RT_BlueMed>damage</> you can do <RT_BlueMed>with Strength-based weapons</> such as longswords and axes. It also <RT_BlueMed>affects</> how much you can <RT_BlueMed>carry</>, and it has a small effect on your <RT_BlueMed>maximum Health</>.",
     "ru": "Влияет на то, сколько <RT_BlueMed>урона</> вы можете нанести <RT_BlueMed>оружием, основанным на Силе</>, таким как длинные мечи и топоры. Также <RT_BlueMed>влияет</> на то, сколько вы можете <RT_BlueMed>нести</>, и оказывает небольшое влияние на ваше <RT_BlueMed>максимальное здоровье</>.",
     "bel": "Уплывае на тое, колькі <RT_BlueMed>шкоды</> вы можаце нанесці <RT_BlueMed>зброяй, заснаванай на сіле</>, такой як доўгія мячы і сякеры. Таксама <RT_BlueMed>ўплывае</> на тое, колькі вы можаце <RT_BlueMed>несці</>, і аказвае невялікі ўплыў на ваша <RT_BlueMed>максімальнае здароўе</>.",
@@ -161,7 +161,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterAttributes_Description_Willpower",
-    "custom": "",
+    "custom": "Уплывае на хуткасць <RT_BlueMed>аднаўлення магіі</>, а таксама значна ўплывае на ваш <RT_BlueMed>максімальны запас сіл</>.",
     "en": "Affects how quickly you <RT_BlueMed>regenerate Magicka</>, and greatly affects your <RT_BlueMed>maximum Fatigue</>.",
     "ru": "Влияет на скорость <RT_BlueMed>восстановления магии</>, а также значительно влияет на ваш <RT_BlueMed>максимальный запас сил</>.",
     "bel": "Уплывае на хуткасць <RT_BlueMed>аднаўлення магіі</>, а таксама значна ўплывае на ваш <RT_BlueMed>максімальны запас сіл</>.",
@@ -169,7 +169,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterAttributes_Title_Attributes",
-    "custom": "",
+    "custom": "Атрыбуты",
     "en": "Attributes",
     "ru": "Атрибуты",
     "bel": "Атрыбуты",
@@ -177,7 +177,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_BodyText_ArchetypeAltmer01_Artaeum",
-    "custom": "",
+    "custom": "Нарадзіўшыся на востраве Аўрыдон, вы з гонарам жылі на першым востраве Самэрсэт. Там вы правялі незлічоныя гадзіны, плаваючы ў некранутых водах.",
     "en": "Born on the island of Auridon, you were proud to live on the first island of the Summersets. There, you spent countless hours swimming in the pristine waters.",
     "ru": "Вы родились на острове Ауридон, и вы гордились тем, что жили на первом острове Саммерсета. Там вы провели бесчисленные часы, плавая в кристально чистых водах.",
     "bel": "Вы нарадзіліся на востраве Аўрыдон, і вы ганарыліся тым, што жылі на першым востраве Самерсета. Там вы правялі незлічоныя гадзіны, плаваючы ў крышталёва чыстых водах.",
@@ -185,7 +185,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_BodyText_ArchetypeAltmer02_Alinor",
-    "custom": "",
+    "custom": "Вы выраслі сярод вялікіх вежаў Алінору, якія амаль дакранаюцца да неба. Вы правялі незлічоныя гадзіны, ўзбіраючыся і перамяшчаючыся па залітых сонцам вуліцах сталіцы Самерсэт.",
     "en": "You grew up among the great towers of Alinor that nearly touch the sky. You spent countless hours climbing and navigating the sunlit streets of the Summerset capital.",
     "ru": "Ты рос среди великих башен Алинора, что почти касаются небес. Ты провел бесчисленные часы, взбираясь и перемещаясь по залитым солнцем улицам столицы Саммерсета.",
     "bel": "Ты рос сярод вялікіх вежаў Алінора, якія амаль дакранаюцца да нябёсаў. Ты правёў незлічоныя гадзіны, ўзбіраючыся і перамяшчаючыся па залітых сонцам вуліцах сталіцы Самерсета.",
@@ -193,7 +193,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_BodyText_ArchetypeArgonian01_Shadowfen",
-    "custom": "",
+    "custom": "Вы родам з Арнезіі, дзе рабаўнікі з Моравінду яшчэ актыўныя. Гульня ў хованкі кожны раз, калі быў налёт, зрабіла вас надзвычай хуткім і спрытным.",
     "en": "You hail from Arnesia, where the slavers of Morrowind are still active. The hide and seek everytime there was a raid made you extremely quick and nimble.",
     "ru": "Ты родом из Арнезии, где работорговцы Морровинда всё ещё промышляют. Игра в прятки каждый раз во время набегов сделала тебя чрезвычайно быстрым и ловким.",
     "bel": "Ты родам з Арнезіі, дзе рабагандляры Моравінда ўсё яшчэ прамышляюць. Гульня ў хованкі кожны раз падчас набегаў зрабіла цябе надзвычай хуткім і спрытным.",
@@ -201,7 +201,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_BodyText_ArchetypeArgonian02_Thornmarsh",
-    "custom": "",
+    "custom": "Цёрнмарш, твой родны рэгіён, называюць жамчужынай Усходу. Але за мянушкай хаваецца больш змрочная рэальнасць. Ты займаўся магіяй толькі для таго, каб выжыць, і твая кемлівасць дазволіла табе дажыць да гэтага дня.",
     "en": "Thornmarsh, your birth region, is called the Jewel of the East. But behind the nickname lies a darker reality. You dabbled in magic just to survive, and your quick wits allowed you to live until this day.",
     "ru": "Торнмарш, твой родной регион, называют Жемчужиной Востока. Но за этим прозвищем скрывается мрачная реальность. Ты баловался магией, просто чтобы выжить, и твой острый ум позволил тебе дожить до сегодняшнего дня.",
     "bel": "Торнмарш, твой родны рэгіён, называюць жамчужынай Усходу. Але за гэтай мянушкай хаваецца змрочная рэальнасць. Ты бавіўся магіяй, проста каб выжыць, і твой востры розум дазволіў табе дажыць да сённяшняга дня.",
@@ -209,7 +209,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_BodyText_ArchetypeBosmer01_MalabalTor",
-    "custom": "",
+    "custom": "Вы правялі сваё дзяцінства ў Гратвудзе, недалёка ад рэгіёну, разбуранага Молаг Балам. Брудная энергія ўсё яшчэ застаецца там, і ваша ўстойлівасць вырасла сярод небяспекі.",
     "en": "You spent your childhood in Grahtwood, near the region devastated by Molag Bal. The foul energies still linger there, and your resilience grew amidst the danger.",
     "ru": "Ты провел свое детство в Гратвуде, недалеко от области, опустошенной Молагом Балом. Там до сих пор ощущаются скверные энергии, и твоя стойкость росла среди опасности.",
     "bel": "Ты правёў сваё дзяцінства ў Гратвудзе, недалёка ад вобласці, спустошанай Малагам Балам. Там да гэтага часу адчуваюцца брудныя энергіі, і твая стойкасць расла сярод небяспекі.",
@@ -217,7 +217,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_BodyText_ArchetypeBosmer02_Greenshade",
-    "custom": "",
+    "custom": "Памежная вобласць, дзе ты вырас, пакутуе ад злосці і крыўды пасля стагоддзяў вайны. Ты хутка навучыўся супакойваць людзей і пазбягаць непатрэбных канфліктаў.",
     "en": "The border region that saw you grow is plagued by anger and resentment after centuries of war. You quickly learned how to soothe people and avoid unnecessary conflicts.",
     "ru": "Приграничный регион, в котором ты рос, охвачен гневом и обидой после столетий войн. Ты быстро научился успокаивать людей и избегать ненужных конфликтов.",
     "bel": "Памежны рэгіён, у якім ты рос, ахоплены гневам і крыўдай пасля стагоддзяў войнаў. Ты хутка навучыўся супакойваць людзей і пазбягаць непатрэбных канфліктаў.",
@@ -225,7 +225,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_BodyText_ArchetypeBreton01_Bretony",
-    "custom": "",
+    "custom": "У дзяцінстве вы заўсёды праводзілі час у доках аднаго з астравоў, зарабляючы грошы, дапамагаючы гандлярам пераносіць іх тавары і вучыліся на іх прыгодах.",
     "en": "As a child you were always spending time on the docks of one of the islands, gaining some money by helping merchants carrying their goods and learning from their adventures.",
     "ru": "Будучи ребенком, ты всегда проводил время в доках одного из островов, подрабатывая, помогая купцам переносить их товары, и набираясь опыта из их приключений.",
     "bel": "Будучы дзіцем, ты заўсёды праводзіў час у доках аднаго з астравоў, падпрацоўваючы, дапамагаючы купцам пераносіць іх тавары, і набіраючыся вопыту з іх прыгод.",
@@ -233,7 +233,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_BodyText_ArchetypeBreton02_HighIsles",
-    "custom": "",
+    "custom": "Будучы родам з Хай Рока, вы выраслі на радзіме Брэтонцаў. Наведванне ўсіх вялікіх гарадоў правінцыі зрабіла вас спрытным на нагах.",
     "en": "Being from High Rock, you were raised in the homeland of the Bretons. Going through all the great cities of the province made you quick on your feet.",
     "ru": "Будучи родом из Хай Рока, ты вырос на родине бретонцев. Странствуя по всем великим городам провинции, ты стал проворен.",
     "bel": "Будучы родам з Хай Рока, ты вырас на радзіме брэтонцаў. Вандроўка па ўсіх вялікіх гарадах правінцыі зрабіла цябе спрытным.",
@@ -241,7 +241,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_BodyText_ArchetypeDunmer01_Redoran",
-    "custom": "",
+    "custom": "Вы сапраўднае дзіця Ввардэнфела. Сярод вулканічнай пусткі вас навучылі, што ўстойлівасць - найвялікшая з усіх якасцей Данмера.",
     "en": "You are a true child of Vvardenfell. Amongst the volcanic wasteland you were taught that resilience is the greatest of all Dunmer quality.",
     "ru": "Ты истинное дитя Vvardenfell. Среди вулканической пустоши тебя научили, что стойкость – главное из всех качеств Dunmer.",
     "bel": "Ты сапраўднае дзіця Vvardenfell. Сярод вулканічнай пусткі цябе навучылі, што стойкасць – галоўная з усіх якасцей Dunmer.",
@@ -249,7 +249,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_BodyText_ArchetypeDunmer02_Hlaalu",
-    "custom": "",
+    "custom": "Будучы данмерам на мацерыку, вы выраслі сярод разнастайных гандляроў, вы даведаліся ўсё, што трэба было ведаць пра перамовы і пра тое, як прымусіць людзей рэагаваць так, як вам трэба.",
     "en": "As a Dunmer on the mainland you grew amongst all kind of traders, you learned all there was to know about negotiations and how to can make people react the way you need them to.",
     "ru": "Будучи данмером на материке, ты рос среди всевозможных торговцев, ты узнал всё, что можно было узнать о переговорах, и как заставить людей реагировать так, как тебе нужно.",
     "bel": "Будучы данмерам на мацерыку, ты рос сярод разнастайных гандляроў, ты даведаўся ўсё, што можна было даведацца пра перамовы, і як прымусіць людзей рэагаваць так, як табе трэба.",
@@ -257,7 +257,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_BodyText_ArchetypeImperial01_RimMen",
-    "custom": "",
+    "custom": "Вы сапраўдны імперскі, народжаны ў самым сэрцы Імперыі. Колькасць гарадоў і іх памер прымусілі вас падарожнічаць паспешліва.",
     "en": "You are a true Imperial, born into the heart of the Empire. The number of cities and their size led you to travel hastily.",
     "ru": "Ты истинный Имперец, рождённый в самом сердце Империи. Количество городов и их размер заставили тебя путешествовать в спешке.",
     "bel": "Ты сапраўдны Імперац, народжаны ў самым сэрцы Імперыі. Колькасць гарадоў і іх памер прымусілі цябе падарожнічаць у спешцы.",
@@ -265,7 +265,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_BodyText_ArchetypeImperial02_Heartlander",
-    "custom": "",
+    "custom": "Жыхары Каловіі, такія як вы, вядомыя сваёй аўтаноміяй, у тым ліку ў адносінах да астатняй часткі Імперыі. Вы атрымалі ў спадчыну волю вашых продкаў.",
     "en": "Colovia inhabitants, such as yourself, are known for their autonomy, including toward the rest of the Empire. Your inherited the wilfulness of your forebearers.",
     "ru": "Жители Коловии, такие как вы, известны своей самостоятельностью, в том числе и по отношению к остальной части Империи. Вы унаследовали упрямство своих предков.",
     "bel": "Жыхары Каловіі, такія як вы, вядомыя сваёй самастойнасцю, у тым ліку і ў адносінах да астатняй часткі Імперыі. Вы атрымалі ў спадчыну ўпартасць сваіх продкаў.",
@@ -273,7 +273,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_BodyText_ArchetypeKhajiit01_ReapersMarch",
-    "custom": "",
+    "custom": "Суровы рэгіён, дзе вы жылі і трэніраваліся, загартаваў ваша цела і навучыў вас абараняцца, голымі кулакамі або любой зброяй, якую вы маглі знайсці.",
     "en": "The harsh region where you lived and trained hardened your body and taught you how to defend yourself, with your bare fists or any weapon you could find.",
     "ru": "Суровый край, где ты жил и тренировался, закалил твоё тело и научил тебя защищаться, голыми руками или любым оружием, которое ты мог найти.",
     "bel": "Суровы край, дзе ты жыў і трэніраваўся, загартоўваў тваё цела і навучыў цябе абараняцца, голымі рукамі ці любой зброяй, якую ты мог знайсці.",
@@ -281,7 +281,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_BodyText_ArchetypeKhajiit02_Tenmar",
-    "custom": "",
+    "custom": "Вашы бацькі жылі ў Пеліціне, і вашы дзіцячыя ўспаміны напоўнены гульнямі і бегам па джунглях або на некранутых пляжах.",
     "en": "Your parents lived in Pellitine and your childhood memories are filled playing and running around in the jungles or on the pristine beaches.",
     "ru": "Твои родители жили в Пеллитине, и твои детские воспоминания полны игр и беготни в джунглях или на нетронутых пляжах.",
     "bel": "Твае бацькі жылі ў Пеліціне, і твае дзіцячыя ўспаміны поўныя гульняў і бегатні ў джунглях ці на некранутых пляжах.",
@@ -289,7 +289,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_BodyText_ArchetypeNord01_Solstheim",
-    "custom": "",
+    "custom": "Вы жылі на захадзе Скайрыму, у суровым асяроддзі, напоўненым перасечанай мясцовасцю і небяспечнымі звярамі. Вы падрыхтаваны да выжывання нават у самых складаных кліматычных умовах.",
     "en": "You lived in the west of Skyrim, a rugged environment filled with rough terrain and dangerous beasts. You are prepared to survive in even the most challenging climates.",
     "ru": "Ты жил на западе Скайрима, в суровых краях, полных пересеченной местности и опасных зверей. Ты готов выжить даже в самых сложных климатических условиях.",
     "bel": "Ты жыў на захадзе Скайрыма, у суровых краях, поўных перасечанай мясцовасці і небяспечных звяроў. Ты гатовы выжыць нават у самых складаных кліматычных умовах.",
@@ -297,7 +297,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_BodyText_ArchetypeNord02_Winterhold",
-    "custom": "",
+    "custom": "Ці то з-за моцных снежных бур, Гільдыі магаў, ці проста з-за ўпартасці, людзі ва Усходнім Скайрыме, такія як вы, вядомыя сваёй настойлівасцю і вынаходлівасцю.",
     "en": "Either due to extreme snowstorms, the College of Mages or simply stubbornness, the people of Eastern Skyrim, such as you, are known for their tenacity and resourcefulness.",
     "ru": "Будь то из-за суровых снежных бурь, Коллегии Магов или просто упрямства, жители Восточного Скайрима, такие как ты, известны своей стойкостью и находчивостью.",
     "bel": "Ці то з-за суровых снежных бур, Калегіі Магаў ці проста ўпартасці, жыхары Усходняга Скайрыма, такія як ты, вядомыя сваёй стойкасцю і знаходлівасцю.",
@@ -305,7 +305,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_BodyText_ArchetypeOrc01_Dragontail",
-    "custom": "",
+    "custom": "Ваш лёс быў вырашаны, калі вы нарадзіліся. Як член Цвержы, вы будзеце служыць свайму правадыру з гонарам і зробіце оркаў ганарлівымі. Ваша харызма і ўстойлівасць былі адточаны для таго, калі вы будзеце служыць.",
     "en": "Your fate was decided when you were born. As a member of a Stronghold, you would serve your chieftain with honor and would make the orcs proud. Your Charisma and resilience were honed for when you’d serve.",
     "ru": "Твоя судьба была предрешена с рождения. Как член Крепости, ты будешь служить своему вождю с честью и заставишь орков гордиться тобой. Твоя Харизма и стойкость оттачивались для того времени, когда ты будешь служить.",
     "bel": "Твой лёс быў прадвызначаны з нараджэння. Як член Крэпасці, ты будзеш служыць свайму правадыру з гонарам і прымусіш оркаў ганарыцца табой. Твая Харызма і стойкасць адточваліся для таго часу, калі ты будзеш служыць.",
@@ -313,7 +313,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_BodyText_ArchetypeOrc02_Wrothgarian",
-    "custom": "",
+    "custom": "Вы ганарыцеся тым, што выраслі ў Орсініуме, дзе вас навучылі быць максімальна рознабаковым воінам. Такім чынам, вы лепш валодаеце магіяй, чым большасць іншых оркаў.",
     "en": "You are proud to have been raised in Orsinium where you trained to be as versatile a warrior as possible. As such, you are better with magic than most other Orcs.",
     "ru": "Ты гордишься тем, что вырос в Орсиниуме, где ты тренировался, чтобы стать максимально разносторонним воином. Как таковой, ты лучше владеешь магией, чем большинство других орков.",
     "bel": "Ты ганарышся тым, што вырас у Арсініуме, дзе ты трэніраваўся, каб стаць максімальна рознабаковым воінам. Як такі, ты лепш валодаеш магіяй, чым большасць іншых оркаў.",
@@ -321,7 +321,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_BodyText_ArchetypeRedguard01_Dragontail",
-    "custom": "",
+    "custom": "Ваша паўстанне ў цені горных вяршынь было шчаслівым. Акунуўшыся ў звычаі Рэдгардаў, вы развілі абаянне, розум і здольнасць перайначваць размову.",
     "en": "Your uprising under the shadow of the mountain peaks was a happy one. Immersed in Redguard customs, you developed charm, wit and the ability to turn a conversation around.",
     "ru": "Твоё восстание в тени горных вершин было удачным. Погрузившись в обычаи редгардов, ты развил обаяние, остроумие и умение повернуть разговор вспять.",
     "bel": "Тваё паўстанне ў цені горных вяршыняў было ўдалым. Паглыбіўшыся ў звычаі рэдгардаў, ты развіў абаянне, досціп і ўменне павярнуць размову назад.",
@@ -329,7 +329,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_BodyText_ArchetypeRedguard02_Sentinel",
-    "custom": "",
+    "custom": "У дзяцінстве ў пясках пустыні Алік'р ваша адукацыя круцілася вакол баявой моцы. Вы з'яўляецеся выдатным прыкладам таго, чаму рэдгарды - лепшыя воіны.",
     "en": "As a child in the sands of the Alik’r Desert, your education revolved around martial might. You are a prime example of why Redguards are the best warriors.",
     "ru": "Будучи ребёнком в песках пустыни Алик'р, твоё обучение вращалось вокруг воинского мастерства. Ты — яркий пример того, почему редгарды — лучшие воины.",
     "bel": "Будучы дзіцем у пясках пустыні Алік'р, тваё навучанне круцілася вакол воінскага майстэрства. Ты — яркі прыклад таго, чаму рэдгарды — лепшыя ваяры.",
@@ -337,7 +337,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_ButtonTitle_ArchetypeAltmer01_Artaeum",
-    "custom": "",
+    "custom": "Аўрыдон",
     "en": "Auridon",
     "ru": "Ауридон",
     "bel": "Аўрыдон",
@@ -345,7 +345,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_ButtonTitle_ArchetypeAltmer02_Alinor",
-    "custom": "",
+    "custom": "Самерсетскі востраў",
     "en": "Summerset Isle",
     "ru": "Саммерсетский Остров",
     "bel": "Самерсетскі востраў",
@@ -353,7 +353,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_ButtonTitle_ArchetypeArgonian01_Shadowfen",
-    "custom": "",
+    "custom": "Арнезія",
     "en": "Arnesia",
     "ru": "Арнезия",
     "bel": "Арнезія",
@@ -361,7 +361,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_ButtonTitle_ArchetypeArgonian02_Thornmarsh",
-    "custom": "",
+    "custom": "Цярновыя топі",
     "en": "Thornmarsh",
     "ru": "Терновые топи",
     "bel": "Цярновыя топі",
@@ -369,7 +369,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_ButtonTitle_ArchetypeBosmer01_MalabalTor",
-    "custom": "",
+    "custom": "Гратвуд",
     "en": "Grahtwood",
     "ru": "Гратвуд",
     "bel": "Гратвуд",
@@ -377,7 +377,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_ButtonTitle_ArchetypeBosmer02_Greenshade",
-    "custom": "",
+    "custom": "Жатва Жнея",
     "en": "Reaper's March",
     "ru": "Жатва Жнеца",
     "bel": "Жатва Жнея",
@@ -385,7 +385,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_ButtonTitle_ArchetypeBreton01_Bretony",
-    "custom": "",
+    "custom": "Сёстры",
     "en": "Systres",
     "ru": "Сёстры",
     "bel": "Сёстры",
@@ -393,7 +393,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_ButtonTitle_ArchetypeBreton02_HighIsles",
-    "custom": "",
+    "custom": "Хай Рок",
     "en": "High Rock",
     "ru": "Хай Рок",
     "bel": "Хай Рок",
@@ -401,7 +401,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_ButtonTitle_ArchetypeDunmer01_Redoran",
-    "custom": "",
+    "custom": "Вварденфел",
     "en": "Vvardenfell",
     "ru": "Вварденфелл",
     "bel": "Вварденфел",
@@ -409,7 +409,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_ButtonTitle_ArchetypeDunmer02_Hlaalu",
-    "custom": "",
+    "custom": "Мацярык",
     "en": "Mainland",
     "ru": "Материк",
     "bel": "Мацярык",
@@ -417,7 +417,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_ButtonTitle_ArchetypeImperial01_RimMen",
-    "custom": "",
+    "custom": "Нібенай",
     "en": "Nibenay",
     "ru": "Нибенай",
     "bel": "Нібенай",
@@ -425,7 +425,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_ButtonTitle_ArchetypeImperial02_Heartlander",
-    "custom": "",
+    "custom": "Каловія",
     "en": "Colovia",
     "ru": "Коловия",
     "bel": "Каловія",
@@ -433,7 +433,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_ButtonTitle_ArchetypeKhajiit01_ReapersMarch",
-    "custom": "",
+    "custom": "Анеквіна",
     "en": "Anequina",
     "ru": "Анеквина",
     "bel": "Анеквіна",
@@ -441,7 +441,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_ButtonTitle_ArchetypeKhajiit02_Tenmar",
-    "custom": "",
+    "custom": "Пеліцін",
     "en": "Pellitine",
     "ru": "Пеллитин",
     "bel": "Пеліцін",
@@ -449,7 +449,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_ButtonTitle_ArchetypeNord01_Solstheim",
-    "custom": "",
+    "custom": "Заходні",
     "en": "Western",
     "ru": "Вестерн",
     "bel": "Вестэрн",
@@ -457,7 +457,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_ButtonTitle_ArchetypeNord02_Winterhold",
-    "custom": "",
+    "custom": "Усходні",
     "en": "Eastern",
     "ru": "Восточный",
     "bel": "Усходні",
@@ -465,7 +465,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_ButtonTitle_ArchetypeOrc01_Stronghold",
-    "custom": "",
+    "custom": "Аплот",
     "en": "Stronghold",
     "ru": "Оплот",
     "bel": "Аплот",
@@ -473,7 +473,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_ButtonTitle_ArchetypeOrc02_Wrothgarian",
-    "custom": "",
+    "custom": "Арсініум",
     "en": "Orsinium",
     "ru": "Орсиниум",
     "bel": "Арсініум",
@@ -481,7 +481,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_ButtonTitle_ArchetypeRedguard01_Dragontail",
-    "custom": "",
+    "custom": "Драконавыя горы",
     "en": "Dragontail Mountains",
     "ru": "Драконьи горы",
     "bel": "Драконавыя горы",
@@ -489,7 +489,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_ButtonTitle_ArchetypeRedguard02_Sentinel",
-    "custom": "",
+    "custom": "Пустыня Алік'р",
     "en": "Alik'r Desert",
     "ru": "Пустыня Алик'р",
     "bel": "Пустыня Алік'р",
@@ -497,7 +497,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_Footer_FinishController",
-    "custom": "",
+    "custom": "Скончыць (утрымліваць)",
     "en": "Finish (Hold)",
     "ru": "Закончить (Удерживать)",
     "bel": "Скончыць (Утрымліваць)",
@@ -505,7 +505,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_Altmer_AlinorStrength_01",
-    "custom": "",
+    "custom": "Палепшаная хуткасць",
     "en": "Enhanced Speed",
     "ru": "Улучшенная скорость",
     "bel": "Палепшаная хуткасць",
@@ -513,7 +513,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_Altmer_ArtaeumStrength_01",
-    "custom": "",
+    "custom": "Палепшаная вынослівасць",
     "en": "Improved Endurance",
     "ru": "Улучшенная выносливость",
     "bel": "Палепшаная вынослівасць",
@@ -521,7 +521,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_ArgonianStrength_01",
-    "custom": "",
+    "custom": "Імунітэт да яду",
     "en": "Poison Immunity",
     "ru": "Иммунитет к яду",
     "bel": "Імунітэт да яду",
@@ -529,7 +529,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_ArgonianStrength_02",
-    "custom": "",
+    "custom": "Здольны дыхаць пад вадой",
     "en": "Capable of breathing under water",
     "ru": "Способен дышать под водой.",
     "bel": "Здольны дыхаць пад вадой.",
@@ -537,7 +537,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_ArgonianStrength_03",
-    "custom": "",
+    "custom": "Добра ўзломвае замкі",
     "en": "Good at picking locks",
     "ru": "Ловок в открывании замков.",
     "bel": "Спрытны ва ўзломе замкоў.",
@@ -545,7 +545,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_ArgonianThornmarsh_NordWinterhold_OrcWrothgarian_Strength_01",
-    "custom": "",
+    "custom": "Павышаны інтэлект",
     "en": "Increased Intelligence",
     "ru": "Повышенный интеллект",
     "bel": "Павышаны інтэлект",
@@ -553,7 +553,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_Argonian_ShadowfenStrength_01",
-    "custom": "",
+    "custom": "Павялічаная хуткасць",
     "en": "Increased Speed",
     "ru": "Увеличенная скорость",
     "bel": "Павялічаная хуткасць",
@@ -561,7 +561,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_Bosmer_GreenshadeStrength_01",
-    "custom": "",
+    "custom": "Палепшаная асоба",
     "en": "Improved Personality",
     "ru": "Улучшенная личность",
     "bel": "Палепшаная асоба",
@@ -569,7 +569,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_Bosmer_MalabalTorStrength_01",
-    "custom": "",
+    "custom": "Палепшаная цягавітасць",
     "en": "Improved Endurance",
     "ru": "Улучшенная выносливость.",
     "bel": "Палепшаная вынослівасць.",
@@ -577,7 +577,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_BretonStrength_01",
-    "custom": "",
+    "custom": "Выдатнае разуменне вядзьмарства",
     "en": "Fine grasp of spellcraft",
     "ru": "Отличное владение магией.",
     "bel": "Выдатнае валоданне магіяй.",
@@ -585,7 +585,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_BretonStrength_02",
-    "custom": "",
+    "custom": "Дасведчаны ў магіі выкліку і лекавання",
     "en": "Skilled at summoning and healing magic",
     "ru": "Обладает мастерством призыва и целительной магии.",
     "bel": "Валодае майстэрствам прызыву і гаючай магіі.",
@@ -593,7 +593,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_BretonStrength_03",
-    "custom": "",
+    "custom": "Устойлівасць да магічнай энергіі",
     "en": "Resistance to magical energies",
     "ru": "Сопротивление магическим энергиям.",
     "bel": "Супраціўленне магічным энергіям.",
@@ -601,7 +601,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_Breton_BretonyStrength_01",
-    "custom": "",
+    "custom": "Вынослівасць вышэй",
     "en": "Higher Strength",
     "ru": "Выносливость выше",
     "bel": "Вынослівасць вышэй",
@@ -609,7 +609,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_Breton_HighIslesStrength_01",
-    "custom": "",
+    "custom": "Павялічаная хуткасць",
     "en": "Increased Speed",
     "ru": "Увеличенная скорость",
     "bel": "Павялічаная хуткасць",
@@ -617,7 +617,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_DarkElfStrength_01",
-    "custom": "",
+    "custom": "Дасведчаны як з мячом, так і з лукам",
     "en": "Skilled with both the sword and bow",
     "ru": "Владеет в совершенстве и мечом, и луком.",
     "bel": "Валодае ў дасканаласці і мячом, і лукам.",
@@ -625,7 +625,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_DarkElfStrength_02",
-    "custom": "",
+    "custom": "Супраціўленне агню",
     "en": "Resistance to fire",
     "ru": "Сопротивление огню",
     "bel": "Супраціўленне агню",
@@ -633,7 +633,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_DarkElfStrength_04",
-    "custom": "",
+    "custom": "Дапамога ад духа продкаў",
     "en": "Aided by an ancestral ghost",
     "ru": "С помощью призрака предка.",
     "bel": "З дапамогай прывіда продка.",
@@ -641,7 +641,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_DunmerRedoran_KhajiitTenmar_NordSolstheim_Strength_01",
-    "custom": "",
+    "custom": "Палепшаная цягавітасць",
     "en": "Improved Endurance",
     "ru": "Улучшенная выносливость.",
     "bel": "Палепшаная вынослівасць.",
@@ -649,7 +649,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_Dunmer_HlaaluStrength_01",
-    "custom": "",
+    "custom": "Палепшаная Асоба",
     "en": "Improved Personality",
     "ru": "Улучшенная Личность",
     "bel": "Палепшаная Асоба",
@@ -657,7 +657,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_HighElfStrength_01",
-    "custom": "",
+    "custom": "Надзвычай адораны ў таямнічых мастацтвах",
     "en": "Greatly gifted in the Arcane Arts",
     "ru": "Обладающий огромным даром в Тайных Искусствах.",
     "bel": "Адораны вялікім дарам у Таемных Мастацтвах.",
@@ -665,7 +665,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_HighElfStrength_02",
-    "custom": "",
+    "custom": "Супраціў хваробам",
     "en": "Disease Resistance",
     "ru": "Сопротивление болезням",
     "bel": "Супраціўленне хваробам",
@@ -673,7 +673,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_HighElfStrength_03",
-    "custom": "",
+    "custom": "Стыхійная ўразлівасць",
     "en": "Elemental Weakness",
     "ru": "Стихийная уязвимость",
     "bel": "Стыхійная ўразлівасць",
@@ -681,7 +681,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_ImperialHeartlander_OrcDragontail_Strength_01",
-    "custom": "",
+    "custom": "Узмоцненая сіла волі",
     "en": "Augmented Willpower",
     "ru": "Усиленная сила воли",
     "bel": "Узмоцненая сіла волі",
@@ -689,7 +689,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_ImperialStrength_01",
-    "custom": "",
+    "custom": "Праніклівы дыпламат і гандляр",
     "en": "Shrewd diplomat and trader",
     "ru": "Проницательный дипломат и торговец.",
     "bel": "Праніклівы дыпламат і гандляр.",
@@ -697,7 +697,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_ImperialStrength_02",
-    "custom": "",
+    "custom": "Дасведчаны ў цяжкай броні",
     "en": "Proficient with Heavy armor",
     "ru": "Мастерски владеет Тяжёлой бронёй.",
     "bel": "Майстэрскі валодае Цяжкай бранёй.",
@@ -705,7 +705,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_Imperial_RimMenStrength_01",
-    "custom": "",
+    "custom": "Павялічаная хуткасць",
     "en": "Increased Speed",
     "ru": "Увеличенная скорость",
     "bel": "Павялічаная хуткасць",
@@ -713,7 +713,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_KhajiitReapersMarch_RedguardDragontail_Strength_01",
-    "custom": "",
+    "custom": "Больш Сілы",
     "en": "Higher Strength",
     "ru": "Больше Силы",
     "bel": "Больш Сілы",
@@ -721,7 +721,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_KhajiitStrength_01",
-    "custom": "",
+    "custom": "Разумны, хуткі і спрытны",
     "en": "Intelligent, quick and agile",
     "ru": "Интеллектуальный, быстрый и ловкий.",
     "bel": "Інтэлектуальны, хуткі і спрытны.",
@@ -729,7 +729,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_KhajiitStrength_02",
-    "custom": "",
+    "custom": "Можа напалохаць праціўнікаў",
     "en": "Can scare opponents",
     "ru": "Может напугать противников",
     "bel": "Можа напалохаць праціўнікаў",
@@ -737,7 +737,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_KhajiitStrength_04",
-    "custom": "",
+    "custom": "Бачыць у цемры",
     "en": "Sees in the dark",
     "ru": "Видит в темноте.",
     "bel": "Бачыць у цемры.",
@@ -745,7 +745,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_NordStrength_01",
-    "custom": "",
+    "custom": "Майстар холаду",
     "en": "Master of Cold",
     "ru": "Мастер холода",
     "bel": "Майстар холаду",
@@ -753,7 +753,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_NordStrength_02",
-    "custom": "",
+    "custom": "Вялікая сіла духу",
     "en": "Great fortitude",
     "ru": "Завидная стойкость.",
     "bel": "Зайздросная стойкасць.",
@@ -761,7 +761,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_NordStrength_03",
-    "custom": "",
+    "custom": "Высокаадораны воін",
     "en": "Highly talented warrior",
     "ru": "Высокоодарённый воин",
     "bel": "Высокаадораны воін",
@@ -769,7 +769,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_OrcStrength_01",
-    "custom": "",
+    "custom": "Выдатнае майстэрства даспехаў",
     "en": "Excellent armor craftsmanship",
     "ru": "Превосходное мастерство изготовления брони.",
     "bel": "Выдатнае майстэрства вырабу броні.",
@@ -777,7 +777,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_OrcStrength_02",
-    "custom": "",
+    "custom": "Супраціўленне магіі",
     "en": "Magic Resistance",
     "ru": "Сопротивление магии",
     "bel": "Супраціўленне магіі",
@@ -785,7 +785,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_OrcStrength_03",
-    "custom": "",
+    "custom": "Валодае шаленствам берсерка",
     "en": "Possesses Berserker rage",
     "ru": "Обладает яростью берсерка.",
     "bel": "Валодае лютасцю берсерка.",
@@ -793,7 +793,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_CharacterCreationRace_RaceArchetypeTrait_RedguardStrength_01",
-    "custom": "",
+    "custom": "Уплыў на розныя стылі зброі і даспехаў",
     "en": "Affinities for various weapon and armor styles",
     "ru": "Предрасположенности к различным стилям оружия и брони.",
     "bel": "Схільнасць да розных стыляў зброі і броні.",
