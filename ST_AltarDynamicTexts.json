@@ -8041,7 +8041,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_CameraSensitivityHorizontalPC",
-    "custom": "",
+    "custom": "Адчувальнасць па гарызанталі",
     "en": "Horizontal Sensitivity",
     "ru": "Чувствительность по горизонтали",
     "bel": "Адчувальнасць па гарызанталі",
@@ -8049,7 +8049,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_CameraSensitivityVerticalController",
-    "custom": "",
+    "custom": "Адчувальнасць па вертыкалі",
     "en": "Vertical Sensitivity",
     "ru": "Чувствительность по вертикали",
     "bel": "Адчувальнасць па вертыкалі",
@@ -8057,7 +8057,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_CameraSensitivityVerticalPC",
-    "custom": "",
+    "custom": "Вертыкальная адчувальнасць",
     "en": "Vertical Sensitivity",
     "ru": "Вертикальная чувствительность",
     "bel": "Вертыкальная адчувальнасць",
@@ -8065,7 +8065,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_CameraZoomDuringDialogue",
-    "custom": "",
+    "custom": "Пераход камеры дыялогу",
     "en": "Dialogue Camera Transition",
     "ru": "Переход камеры диалога",
     "bel": "Пераход камеры дыялогу",
@@ -8073,7 +8073,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_CastSpell",
-    "custom": "",
+    "custom": "Ужыць заклён.",
     "en": "Cast Spell",
     "ru": "Применить заклинание.",
     "bel": "Ужыць заклён.",
@@ -8081,7 +8081,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_ChangeView",
-    "custom": "",
+    "custom": "Змяніць выгляд",
     "en": "Change View",
     "ru": "Change View",
     "bel": "Change View",
@@ -8089,7 +8089,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_ClothQuality",
-    "custom": "",
+    "custom": "Якасць тканіны",
     "en": "Cloth Quality",
     "ru": "Качество ткани",
     "bel": "Якасць тканіны",
@@ -8097,7 +8097,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_ColorblindMode",
-    "custom": "",
+    "custom": "Рэжым для дальтанікаў",
     "en": "Color Blind Mode",
     "ru": "Режим для дальтоников",
     "bel": "Рэжым для дальтанікаў",
@@ -8105,7 +8105,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_ColorblindStrength",
-    "custom": "",
+    "custom": "Сіла для дальтанікаў",
     "en": "Color Blind Strength",
     "ru": "Сила для дальтоников",
     "bel": "Сіла для дальтанікаў",
@@ -8113,7 +8113,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_CompassStatesVisibility",
-    "custom": "",
+    "custom": "Станы компаса (Парушэнне межаў, Бой, Утойванне) Бачнасць",
     "en": "Compass States (Trespassing, Fighting, Sneak) Visibility",
     "ru": "Состояния компаса (Нарушение границ, Бой, Скрытность) Видимость",
     "bel": "Станы компаса (Парушэнне межаў, Бой, Утойванне) Бачнасць",
@@ -8121,7 +8121,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_CompassVisibility",
-    "custom": "",
+    "custom": "Бачнасць компаса",
     "en": "Compass Visibility",
     "ru": "Видимость компаса",
     "bel": "Бачнасць компаса",
@@ -8129,7 +8129,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_ConstrainOnUltraWide",
-    "custom": "",
+    "custom": "Абмежаванне на ультрашырокіх экранах",
     "en": "Constrain On Ultrawide",
     "ru": "Ограничить на Ultrawide",
     "bel": "Абмежаваць на Ultrawide",
@@ -8137,7 +8137,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_ContextualActionsVisibility",
-    "custom": "",
+    "custom": "Бачнасць кантэкстных дзеянняў",
     "en": "Contextual Actions Visibility",
     "ru": "Видимость контекстных действий",
     "bel": "Бачнасць кантэкстных дзеянняў",
@@ -8145,7 +8145,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_CrosshairColor",
-    "custom": "",
+    "custom": "Колер перакрыжавання",
     "en": "Crosshair Color",
     "ru": "Цвет перекрестия",
     "bel": "Колер перакрыжавання",
@@ -8153,7 +8153,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_CrosshairSize",
-    "custom": "",
+    "custom": "Памер перакрыжавання",
     "en": "Crosshair Size",
     "ru": "Размер перекрестия",
     "bel": "Памер перакрыжавання",
@@ -8161,7 +8161,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_CursorColor",
-    "custom": "",
+    "custom": "Колер курсора",
     "en": "Cursor Color",
     "ru": "Цвет курсора",
     "bel": "Колер курсора",
@@ -8169,7 +8169,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_CursorSize",
-    "custom": "",
+    "custom": "Памер курсора",
     "en": "Cursor Size",
     "ru": "Размер курсора",
     "bel": "Памер курсора",
@@ -8177,7 +8177,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_DLSSFrameGeneration",
-    "custom": "",
+    "custom": "DLSS - Генерацыя кадраў",
     "en": "DLSS - Frame Generation",
     "ru": "DLSS — Генерация Кадров",
     "bel": "DLSS — Генерацыя кадраў",
@@ -8185,7 +8185,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_DLSSMode",
-    "custom": "",
+    "custom": "DLSS - Рэжым",
     "en": "DLSS - Mode",
     "ru": "DLSS - Режим",
     "bel": "DLSS - Рэжым",
@@ -8193,7 +8193,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_DLSSSharpness",
-    "custom": "",
+    "custom": "DLSS - Рэзкасць",
     "en": "DLSS - Sharpness",
     "ru": "DLSS - Чёткость",
     "bel": "DLSS - Выразнасць",
@@ -8201,7 +8201,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_DLSSStreamlineReflexMode",
-    "custom": "",
+    "custom": "NVIDIA Reflex",
     "en": "NVIDIA Reflex",
     "ru": "NVIDIA Reflex",
     "bel": "NVIDIA Reflex",
@@ -8209,7 +8209,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_DialogueVolume",
-    "custom": "",
+    "custom": "Гучнасць дыялогаў",
     "en": "Dialogue Volume",
     "ru": "Громкость диалогов",
     "bel": "Гучнасць дыялогаў",
@@ -8217,7 +8217,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_DifficultyLevel",
-    "custom": "",
+    "custom": "Узровень складанасці",
     "en": "Difficulty Level",
     "ru": "Уровень сложности",
     "bel": "Узровень складанасці",
@@ -8225,7 +8225,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_DisplayResolution",
-    "custom": "",
+    "custom": "Разрозненне экрана",
     "en": "Display Resolution",
     "ru": "Разрешение экрана",
     "bel": "Разрозненне экрана",
@@ -8233,7 +8233,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_Dodge",
-    "custom": "",
+    "custom": "Ухіленне",
     "en": "Dodge",
     "ru": "Уклонение",
     "bel": "Ухіленне",
@@ -8241,7 +8241,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_EffectsQuality",
-    "custom": "",
+    "custom": "Якасць эфектаў",
     "en": "Effects Quality",
     "ru": "Качество эффектов",
     "bel": "Якасць эфектаў",
@@ -8249,7 +8249,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_EquipmentAndSpellsVisibility",
-    "custom": "",
+    "custom": "Бачнасць рыштунку і заклёнаў.",
     "en": "Equipment & Spells Visibility",
     "ru": "Видимость снаряжения и заклинаний.",
     "bel": "Бачнасць рыштунку і заклёнаў.",
@@ -8257,7 +8257,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_FOV1stPerson",
-    "custom": "",
+    "custom": "FOV ад першай асобы",
     "en": "FOV 1st-Person",
     "ru": "FOV от первого лица",
     "bel": "FOV ад першай асобы",
@@ -8265,7 +8265,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_FOV3rdPerson",
-    "custom": "",
+    "custom": "FOV ад трэцяй асобы",
     "en": "FOV 3rd-Person",
     "ru": "FOV от 3-го лица",
     "bel": "FOV ад 3-й асобы",
@@ -8273,7 +8273,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_FSR3FrameGeneration",
-    "custom": "",
+    "custom": "FSR 3 - Генерацыя кадраў",
     "en": "FSR 3 - Frame Generation",
     "ru": "FSR 3 — Генерация Кадров",
     "bel": "FSR 3 — Генерацыя кадраў",
@@ -8281,7 +8281,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_FSR3Mode",
-    "custom": "",
+    "custom": "FSR 3 - Рэжым",
     "en": "FSR 3 - Mode",
     "ru": "FSR 3 - Режим",
     "bel": "FSR 3 - Рэжым",
@@ -8289,7 +8289,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_FSR3Sharpness",
-    "custom": "",
+    "custom": "FSR 3 - Рэзкасць",
     "en": "FSR 3 - Sharpness",
     "ru": "FSR 3 — Четкость",
     "bel": "FSR 3 — Выразнасць",
@@ -8297,7 +8297,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_FoliageQuality",
-    "custom": "",
+    "custom": "Якасць лістоты",
     "en": "Foliage Quality",
     "ru": "Качество листвы",
     "bel": "Якасць лістоты",
@@ -8305,7 +8305,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_FootstepVolume",
-    "custom": "",
+    "custom": "Гучнасць крокаў",
     "en": "Footstep Volume",
     "ru": "Громкость шагов",
     "bel": "Гучнасць крокаў",
@@ -8313,7 +8313,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_FrameRateLimit",
-    "custom": "",
+    "custom": "Ліміт частаты кадраў",
     "en": "Frame Rate Limit",
     "ru": "Лимит частоты кадров",
     "bel": "Ліміт частаты кадраў",
@@ -8321,7 +8321,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_GlobalIlluminationQuality",
-    "custom": "",
+    "custom": "Якасць глабальнага асвятлення",
     "en": "Global Illumination Quality",
     "ru": "Качество глобального освещения",
     "bel": "Якасць глабальнага асвятлення",
@@ -8329,7 +8329,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_HDR",
-    "custom": "",
+    "custom": "HDR",
     "en": "HDR",
     "ru": "HDR",
     "bel": "HDR",
@@ -8337,7 +8337,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_HDRBlackPoints",
-    "custom": "",
+    "custom": "HDR Чорныя кропкі",
     "en": "HDR Black Points",
     "ru": "Точки черного HDR",
     "bel": "Кропкі чорнага HDR",
@@ -8345,7 +8345,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_HDRBrightness",
-    "custom": "",
+    "custom": "HDR Яркасць",
     "en": "HDR Brightness",
     "ru": "Яркость HDR",
     "bel": "Яркасць HDR",
@@ -8353,7 +8353,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_HDRUIBrightness",
-    "custom": "",
+    "custom": "HDR Яркасць інтэрфейсу",
     "en": "HDR UI Brightness",
     "ru": "Яркость HDR UI",
     "bel": "Яркасць HDR UI",
@@ -8361,7 +8361,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_HDRWhitePoints",
-    "custom": "",
+    "custom": "HDR Белыя кропкі",
     "en": "HDR White Points",
     "ru": "Белые точки HDR",
     "bel": "Белыя кропкі HDR",
@@ -8369,7 +8369,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_HUDCompassMarkerSize",
-    "custom": "",
+    "custom": "Памер маркера компаса інтэрфейсу",
     "en": "HUD Compass Marker Size",
     "ru": "Размер маркера компаса HUD",
     "bel": "Памер маркера компаса HUD",
@@ -8377,7 +8377,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_HUDOpacity",
-    "custom": "",
+    "custom": "Непразрыстасць інтэрфейсу",
     "en": "HUD Opacity",
     "ru": "Прозрачность HUD",
     "bel": "Празрыстасць HUD",
@@ -8385,7 +8385,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_HairQuality",
-    "custom": "",
+    "custom": "Якасць валасоў",
     "en": "Hair Quality",
     "ru": "Качество волос",
     "bel": "Якасць валасоў",
@@ -8393,7 +8393,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_HighlightPlayerWhenObscured",
-    "custom": "",
+    "custom": "Вылучаць гульца, калі бачнасць абцяжарана",
     "en": "Highlight Player When Obscured Visibility",
     "ru": "Выделять игрока, когда видимость затруднена",
     "bel": "Вылучаць гульца, калі бачнасць абцяжарана",
@@ -8401,7 +8401,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_InteractGrabHoldDismountHorseriding",
-    "custom": "",
+    "custom": "Узаемадзейнічаць / Схапіць (Утрымліваць) / Спешыцца",
     "en": "Interact / Grab (Hold) / Dismount",
     "ru": "Взаимодействовать / Схватить (Удерживать) / Спешиться",
     "bel": "Узаемадзейнічаць / Схапіць (Утрымліваць) / Спешыцца",
@@ -8409,7 +8409,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_InterfaceVolume",
-    "custom": "",
+    "custom": "Гучнасць інтэрфейсу",
     "en": "Interface Volume",
     "ru": "Громкость интерфейса",
     "bel": "Гучнасць інтэрфейсу",
@@ -8417,7 +8417,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_InvertLookXAxisController",
-    "custom": "",
+    "custom": "Інвертаваць вось X",
     "en": "Invert X Axis",
     "ru": "Инвертировать ось X",
     "bel": "Інвертаваць вось X",
@@ -8425,7 +8425,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_InvertLookXAxisPC",
-    "custom": "",
+    "custom": "Інвертаваць вось X",
     "en": "Invert X Axis",
     "ru": "Инвертировать ось X",
     "bel": "Інвертаваць вось X",
@@ -8433,7 +8433,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_InvertLookYAxisController",
-    "custom": "",
+    "custom": "Інвертаваць вось Y",
     "en": "Invert Y Axis",
     "ru": "Инвертировать ось Y",
     "bel": "Інвертаваць вось Y",
@@ -8441,7 +8441,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_InvertLookYAxisPC",
-    "custom": "",
+    "custom": "Інвертаваць вось Y",
     "en": "Invert Y Axis",
     "ru": "Инвертировать ось Y",
     "bel": "Інвертаваць вось Y",
@@ -8449,7 +8449,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_ItemRotationInputType",
-    "custom": "",
+    "custom": "Тып уводу для кручэння прадмета",
     "en": "Item Rotation Input Type",
     "ru": "Тип ввода для вращения предмета",
     "bel": "Тып уводу для кручэння прадмета",
@@ -8457,7 +8457,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_Jump",
-    "custom": "",
+    "custom": "Скачок",
     "en": "Jump",
     "ru": "Прыжок",
     "bel": "Скачок",
@@ -8465,7 +8465,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_LevelUpVisibility",
-    "custom": "",
+    "custom": "Павялічце прыкметнасць.",
     "en": "Level-up Visibility",
     "ru": "Повысьте заметность.",
     "bel": "Павялічце прыкметнасць.",
@@ -8473,7 +8473,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_LocationVisibility",
-    "custom": "",
+    "custom": "Бачнасць лакацыі",
     "en": "Location Visibility",
     "ru": "Видимость локации",
     "bel": "Бачнасць лакацыі",
@@ -8481,7 +8481,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_LumenHardwareRT",
-    "custom": "",
+    "custom": "Апаратная трасіроўка прамянёў Lumen",
     "en": "Lumen Hardware RT",
     "ru": "Аппаратная трассировка лучей Lumen",
     "bel": "Апаратная трасіроўка прамянёў Lumen",
@@ -8489,7 +8489,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_LumenHardwareRTLightingMode",
-    "custom": "",
+    "custom": "Рэжым асвятлення апаратнай трасіроўкі прамянёў Lumen",
     "en": "Lumen Hardware RT Lighting Mode",
     "ru": "Режим освещения аппаратной трассировки лучей Lumen",
     "bel": "Рэжым асвятлення апаратнай трасіроўкі прамянёў Lumen",
@@ -8497,7 +8497,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_LumenSoftwareRTQuality",
-    "custom": "",
+    "custom": "Якасць праграмнай трасіроўкі прамянёў Lumen",
     "en": "Lumen Software RT Quality",
     "ru": "Качество RT от Lumen Software",
     "bel": "Якасць RT ад Lumen Software",
@@ -8505,7 +8505,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_MapMarkerSize",
-    "custom": "",
+    "custom": "Памер маркераў на карце",
     "en": "Map Marker Size",
     "ru": "Размер маркеров на карте",
     "bel": "Памер маркераў на карце",
@@ -8513,7 +8513,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_MasterVolume",
-    "custom": "",
+    "custom": "Агульная гучнасць",
     "en": "Master Volume",
     "ru": "Общая громкость",
     "bel": "Агульная гучнасць",
@@ -8521,7 +8521,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_MotionBlur",
-    "custom": "",
+    "custom": "Размыццё ў руху",
     "en": "Motion Blur",
     "ru": "Размытие в движении",
     "bel": "Размыццё ў руху",
@@ -8529,7 +8529,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_MoveBackward",
-    "custom": "",
+    "custom": "Рухацца назад",
     "en": "Move Backward",
     "ru": "Двигаться назад",
     "bel": "Рухацца назад",
@@ -8537,7 +8537,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_MoveForward",
-    "custom": "",
+    "custom": "Рухайцеся наперад.",
     "en": "Move Forward",
     "ru": "Двигайтесь вперёд.",
     "bel": "Рухайцеся наперад.",
@@ -8545,7 +8545,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_MoveLeft",
-    "custom": "",
+    "custom": "Рухацца налева.",
     "en": "Move Left",
     "ru": "Двигаться влево.",
     "bel": "Рухацца налева.",
@@ -8553,7 +8553,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_MoveRight",
-    "custom": "",
+    "custom": "Рухацца направа",
     "en": "Move Right",
     "ru": "Двигаться вправо",
     "bel": "Рухацца направа",
@@ -8561,7 +8561,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_MusicVolume",
-    "custom": "",
+    "custom": "Гучнасць музыкі",
     "en": "Music Volume",
     "ru": "Громкость музыки",
     "bel": "Гучнасць музыкі",
@@ -8569,7 +8569,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_NextMenu",
-    "custom": "",
+    "custom": "Наступнае меню",
     "en": "Next Menu",
     "ru": "Следующее меню",
     "bel": "Наступнае меню",
@@ -8577,7 +8577,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_NextTab",
-    "custom": "",
+    "custom": "Наступная ўкладка",
     "en": "Next Tab",
     "ru": "Следующая вкладка",
     "bel": "Наступная ўкладка",
@@ -8585,7 +8585,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_NotificationsVisibility",
-    "custom": "",
+    "custom": "Бачнасць апавяшчэнняў",
     "en": "Notifications Visibility",
     "ru": "Видимость уведомлений",
     "bel": "Бачнасць апавяшчэнняў",
@@ -8593,7 +8593,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_OpenCloseShortcutWheel",
-    "custom": "",
+    "custom": "Адкрыць хуткі доступ да інтэрфейсу (утрымліваць)",
     "en": "Open HUD Shortcuts (Hold)",
     "ru": "Открыть HUD-ярлыки (Удерживать)",
     "bel": "Адкрыць HUD-ярлыкі (Утрымліваць)",
@@ -8601,7 +8601,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_OpenInventory",
-    "custom": "",
+    "custom": "Адкрыць інвентар",
     "en": "Open Inventory",
     "ru": "Открыть Inventory",
     "bel": "Адкрыць Inventory",
@@ -8609,7 +8609,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_OpenJournal",
-    "custom": "",
+    "custom": "Адкрыць Журнал",
     "en": "Open Journal",
     "ru": "Открыть Журнал",
     "bel": "Адкрыць Журнал",
@@ -8617,7 +8617,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_OpenMap",
-    "custom": "",
+    "custom": "Адкрыць карту",
     "en": "Open Map",
     "ru": "Открыть карту",
     "bel": "Адкрыць карту",
@@ -8625,7 +8625,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_OxygenBarVisibility",
-    "custom": "",
+    "custom": "Бачнасць кіслароднага бара",
     "en": "Oxygen Bar Visibility",
     "ru": "Видимость кислородного бара",
     "bel": "Бачнасць кіслароднага бара",
@@ -8633,7 +8633,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_PerformanceQuality",
-    "custom": "",
+    "custom": "Прадукцыйнасць / Якасць",
     "en": "Performance / Quality",
     "ru": "Производительность / Качество",
     "bel": "Прадукцыйнасць / Якасць",
@@ -8641,7 +8641,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_PostProcessQuality",
-    "custom": "",
+    "custom": "Якасць постапрацоўкі",
     "en": "Post-Processing Quality",
     "ru": "Качество постобработки",
     "bel": "Якасць постапрацоўкі",
@@ -8649,7 +8649,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_PreviousMenu",
-    "custom": "",
+    "custom": "Папярэдняе меню",
     "en": "Previous Menu",
     "ru": "Предыдущее меню",
     "bel": "Папярэдняе меню",
@@ -8657,7 +8657,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_PreviousTab",
-    "custom": "",
+    "custom": "Папярэдняя ўкладка",
     "en": "Previous Tab",
     "ru": "Предыдущая вкладка",
     "bel": "Папярэдняя ўкладка",
@@ -8665,7 +8665,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_QualityLevel",
-    "custom": "",
+    "custom": "Узровень якасці",
     "en": "Quality Level",
     "ru": "Уровень качества",
     "bel": "Узровень якасці",
@@ -8673,7 +8673,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_QuickLoad",
-    "custom": "",
+    "custom": "Хуткая загрузка",
     "en": "Quick Load",
     "ru": "Быстрая загрузка",
     "bel": "Хуткая загрузка",
@@ -8681,7 +8681,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_QuickSave",
-    "custom": "",
+    "custom": "Хуткая загрузка",
     "en": "Quicksave",
     "ru": "Быстрая загрузка",
     "bel": "Хуткая загрузка",
@@ -8689,7 +8689,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_RecompileShaders",
-    "custom": "",
+    "custom": "Перакампіляваць шэйдары",
     "en": "Recompile Shaders",
     "ru": "Перекомпилировать шейдеры",
     "bel": "Перакампіляваць шэйдары",
@@ -8697,7 +8697,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_ReflectionQuality",
-    "custom": "",
+    "custom": "Якасць адлюстраванняў",
     "en": "Reflection Quality",
     "ru": "Качество отражений",
     "bel": "Якасць адлюстраванняў",
@@ -8705,7 +8705,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_ResolutionScale",
-    "custom": "",
+    "custom": "Маштаб разрознення",
     "en": "Resolution Scale",
     "ru": "Масштаб разрешения",
     "bel": "Маштаб разрознення",
@@ -8713,7 +8713,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_SSR",
-    "custom": "",
+    "custom": "Экранныя адлюстраванні",
     "en": "Screen Space Reflections",
     "ru": "Экранные отражения",
     "bel": "Экранныя адлюстраванні",
@@ -8721,7 +8721,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_SelectMonitor",
-    "custom": "",
+    "custom": "Выбраць манітор",
     "en": "Select Monitor",
     "ru": "Выбрать монитор",
     "bel": "Выбраць манітор",
@@ -8729,7 +8729,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_ShadowQuality",
-    "custom": "",
+    "custom": "Якасць ценяў",
     "en": "Shadow Quality",
     "ru": "Качество теней",
     "bel": "Якасць ценяў",
@@ -8737,7 +8737,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_Sheathe",
-    "custom": "",
+    "custom": "У ножны",
     "en": "Sheathe",
     "ru": "В ножны",
     "bel": "У ножны",
@@ -8745,7 +8745,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_ShortcutSlot1",
-    "custom": "",
+    "custom": "Ячэйка хуткага доступу №1",
     "en": "Shortcut Slot n°1",
     "ru": "Ячейка быстрого доступа №1",
     "bel": "Ячэйка хуткага доступу №1",
@@ -8753,7 +8753,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_ShortcutSlot2",
-    "custom": "",
+    "custom": "Ячэйка хуткага доступу №2",
     "en": "Shortcut Slot n°2",
     "ru": "Ячейка быстрого доступа №2",
     "bel": "Ячэйка хуткага доступу №2",
@@ -8761,7 +8761,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_ShortcutSlot3",
-    "custom": "",
+    "custom": "Ячэйка хуткага доступу №3",
     "en": "Shortcut Slot n°3",
     "ru": "Ячейка быстрого доступа №3",
     "bel": "Ячэйка хуткага доступу №3",
@@ -8769,7 +8769,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_ShortcutSlot4",
-    "custom": "",
+    "custom": "Ячэйка хуткага доступу №4",
     "en": "Shortcut Slot n°4",
     "ru": "Ячейка быстрого доступа №4",
     "bel": "Ячэйка хуткага доступу №4",
@@ -8777,7 +8777,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_ShortcutSlot5",
-    "custom": "",
+    "custom": "Ячэйка хуткага доступу №5",
     "en": "Shortcut Slot n°5",
     "ru": "Ячейка быстрого доступа №5",
     "bel": "Ячэйка хуткага доступу №5",
@@ -8785,7 +8785,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_ShortcutSlot6",
-    "custom": "",
+    "custom": "Ячэйка хуткага доступу №6",
     "en": "Shortcut Slot n°6",
     "ru": "Ячейка быстрого доступа №6",
     "bel": "Ячэйка хуткага доступу №6",
@@ -8793,7 +8793,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_ShortcutSlot7",
-    "custom": "",
+    "custom": "Ячэйка хуткага доступу №7",
     "en": "Shortcut Slot n°7",
     "ru": "Ячейка быстрого доступа №7",
     "bel": "Ячэйка хуткага доступу №7",
@@ -8801,7 +8801,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_ShortcutSlot8",
-    "custom": "",
+    "custom": "Ячэйка хуткага доступу №8",
     "en": "Shortcut Slot n°8",
     "ru": "Ячейка быстрого доступа №8",
     "bel": "Ячэйка хуткага доступу №8",
@@ -8809,7 +8809,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_ShortcutWheel",
-    "custom": "",
+    "custom": "Кола хуткага доступу",
     "en": "Shortcut Wheel",
     "ru": "Колесо быстрого доступа",
     "bel": "Кола хуткага доступу",
@@ -8817,7 +8817,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_ShowFPS",
-    "custom": "",
+    "custom": "Паказваць FPS",
     "en": "Show FPS",
     "ru": "Показывать FPS",
     "bel": "Паказваць FPS",
@@ -8825,7 +8825,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_ShowVRAM",
-    "custom": "",
+    "custom": "Паказаць VRAM",
     "en": "Show VRAM",
     "ru": "Показать VRAM",
     "bel": "Паказаць VRAM",
@@ -8833,7 +8833,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Settings_SettingTitle_Sneak",
-    "custom": "",
+    "custom": "Утойванне",
     "en": "Sneak",
     "ru": "Скрытность",
     "bel": "Утойванне",
