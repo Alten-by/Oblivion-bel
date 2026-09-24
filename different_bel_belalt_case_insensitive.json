@@ -106318,7 +106318,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessCuirass2",
-    "custom": "",
+    "custom": "Малы панцыр вар'яцтва",
     "en": "Lesser Madness Cuirass",
     "ru": "Малая кираса безумия",
     "bel": "Малы панцыр вар'яцтва",
@@ -106327,7 +106327,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessCuirass3",
-    "custom": "",
+    "custom": "Кіраса шаленства",
     "en": "Madness Cuirass",
     "ru": "Кираса безумия",
     "bel": "Панцыр вар'яцтва",
@@ -106336,7 +106336,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessCuirass4",
-    "custom": "",
+    "custom": "Добры панцыр вар'яцтва",
     "en": "Fine Madness Cuirass",
     "ru": "Хорошая кираса безумия",
     "bel": "Добры панцыр вар'яцтва",
@@ -106345,7 +106345,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessCuirass5",
-    "custom": "",
+    "custom": "Цудоўны панцыр вар'яцтва",
     "en": "Grand Madness Cuirass",
     "ru": "Великолепная кираса безумия",
     "bel": "Цудоўны панцыр вар'яцтва",
@@ -106354,7 +106354,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessCuirass6",
-    "custom": "",
+    "custom": "Дасканалы панцыр вар'яцтва",
     "en": "Perfect Madness Cuirass",
     "ru": "Совершенная кираса безумия",
     "bel": "Дасканалы панцыр вар'яцтва",
@@ -106363,7 +106363,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessGauntlets1",
-    "custom": "",
+    "custom": "Неякасныя пальчаткі вар'яцтва",
     "en": "Impure Madness Gauntlets",
     "ru": "Некачеств. перчатки безумия",
     "bel": "Неякасныя пальчаткі вар'яцтва",
@@ -106372,7 +106372,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessGauntlets2",
-    "custom": "",
+    "custom": "Малыя пальчаткі вар'яцтва",
     "en": "Lesser Madness Gauntlets",
     "ru": "Малые перчатки безумия",
     "bel": "Малыя пальчаткі вар'яцтва",
@@ -106381,7 +106381,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessGauntlets3",
-    "custom": "",
+    "custom": "Пальчаткі шаленства",
     "en": "Madness Gauntlets",
     "ru": "Перчатки безумия",
     "bel": "Пальчаткі вар'яцтва",
@@ -106390,7 +106390,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessGauntlets4",
-    "custom": "",
+    "custom": "Добрыя пальчаткі вар'яцтва",
     "en": "Fine Madness Gauntlets",
     "ru": "Хорошие перчатки безумия",
     "bel": "Добрыя пальчаткі вар'яцтва",
@@ -106399,7 +106399,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessGauntlets5",
-    "custom": "",
+    "custom": "Цудоўныя пальчаткі вар'яцтва",
     "en": "Grand Madness Gauntlets",
     "ru": "Великолепные перчатки безумия",
     "bel": "Цудоўныя пальчаткі вар'яцтва",
@@ -106408,7 +106408,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessGauntlets6",
-    "custom": "",
+    "custom": "Дасканалыя пальчаткі вар'яцтва",
     "en": "Perfect Madness Gauntlets",
     "ru": "Совершенные перчатки безумия",
     "bel": "Дасканалыя пальчаткі вар'яцтва",
@@ -106417,7 +106417,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessGreaves1",
-    "custom": "",
+    "custom": "Неякасныя нагавіцы вар'яцтва",
     "en": "Impure Madness Greaves",
     "ru": "Некачеств. поножи безумия",
     "bel": "Неякасныя нагавіцы вар'яцтва",
@@ -106426,7 +106426,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessGreaves2",
-    "custom": "",
+    "custom": "Малыя нагавіцы вар'яцтва",
     "en": "Lesser Madness Greaves",
     "ru": "Малые поножи безумия",
     "bel": "Малыя нагавіцы вар'яцтва",
@@ -106435,7 +106435,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessGreaves3",
-    "custom": "",
+    "custom": "Нагавіцы шаленства",
     "en": "Madness Greaves",
     "ru": "Поножи безумия",
     "bel": "Нагавіцы вар'яцтва",
@@ -106444,7 +106444,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessGreaves4",
-    "custom": "",
+    "custom": "Добрыя нагавіцы вар'яцтва",
     "en": "Fine Madness Greaves",
     "ru": "Хорошие поножи безумия",
     "bel": "Добрыя нагавіцы вар'яцтва",
@@ -106453,7 +106453,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessGreaves5",
-    "custom": "",
+    "custom": "Цудоўныя нагавіцы вар'яцтва",
     "en": "Grand Madness Greaves",
     "ru": "Великолепные поножи безумия",
     "bel": "Цудоўныя нагавіцы вар'яцтва",
@@ -106462,7 +106462,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessGreaves6",
-    "custom": "",
+    "custom": "Дасканалыя нагавіцы вар'яцтва",
     "en": "Perfect Madness Greaves",
     "ru": "Совершенные поножи безумия",
     "bel": "Дасканалыя нагавіцы вар'яцтва",
@@ -106471,7 +106471,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessHelmet1",
-    "custom": "",
+    "custom": "Неякасны шлем вар'яцтва",
     "en": "Impure Madness Helmet",
     "ru": "Некачеств. шлем безумия",
     "bel": "Неякасны шлем вар'яцтва",
@@ -106480,7 +106480,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessHelmet2",
-    "custom": "",
+    "custom": "Малы шлем вар'яцтва",
     "en": "Lesser Madness Helmet",
     "ru": "Малый шлем безумия",
     "bel": "Малы шлем вар'яцтва",
@@ -106489,7 +106489,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessHelmet4",
-    "custom": "",
+    "custom": "Добры шлем шаленства",
     "en": "Fine Madness Helmet",
     "ru": "Хороший шлем безумия",
     "bel": "Добры шлем шаленства",
@@ -106498,7 +106498,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessHelmet5",
-    "custom": "",
+    "custom": "Выдатны шлем шаленства",
     "en": "Grand Madness Helmet",
     "ru": "Великолепный шлем безумия",
     "bel": "Выдатны шлем шаленства",
@@ -106507,7 +106507,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessHelmet6",
-    "custom": "",
+    "custom": "Дасканалы шлем шаленства",
     "en": "Perfect Madness Helmet",
     "ru": "Совершенный шлем безумия",
     "bel": "Дасканалы шлем шаленства",
@@ -106516,7 +106516,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicAxe1",
-    "custom": "",
+    "custom": "Сякера вар'яцтва",
     "en": "Madness Axe",
     "ru": "Топор безумия",
     "bel": "Сякера шаленства",
@@ -106525,7 +106525,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicAxe2",
-    "custom": "",
+    "custom": "Добрая сякера вар'яцтва",
     "en": "Fine Madness Axe",
     "ru": "Хороший топор безумия",
     "bel": "Добрая сякера шаленства",
@@ -106534,7 +106534,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicAxe3",
-    "custom": "",
+    "custom": "Вельмі добрая сякера вар'яцтва",
     "en": "Very Fine Madness Axe",
     "ru": "Очень хороший топор безумия",
     "bel": "Вельмі добрая сякера шаленства",
@@ -106543,7 +106543,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicAxe4",
-    "custom": "",
+    "custom": "Цудоўная сякера вар'яцтва",
     "en": "Grand Madness Axe",
     "ru": "Великолепный топор безумия",
     "bel": "Выдатная сякера шаленства",
@@ -106552,7 +106552,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicAxe5",
-    "custom": "",
+    "custom": "Дасканалая сякера вар'яцтва",
     "en": "Perfect Madness Axe",
     "ru": "Совершенный топор безумия",
     "bel": "Дасканалая сякера шаленства",
@@ -106561,7 +106561,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicAxeA",
-    "custom": "",
+    "custom": "Неякасная сякера вар'яцтва",
     "en": "Impure Madness Axe",
     "ru": "Некачеств. топор безумия",
     "bel": "Неякасн. сякера шаленства",
@@ -106570,7 +106570,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicAxeB",
-    "custom": "",
+    "custom": "Непаліраваная сякера вар'яцтва",
     "en": "Unpolished Madness Axe",
     "ru": "Неполированный топор безумия",
     "bel": "Непаліраваная сякера шаленства",
@@ -106579,7 +106579,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicAxeC",
-    "custom": "",
+    "custom": "Малая сякера вар'яцтва",
     "en": "Lesser Madness Axe",
     "ru": "Малый топор безумия",
     "bel": "Малая сякера шаленства",
@@ -106588,7 +106588,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicBoots1",
-    "custom": "",
+    "custom": "Неякасныя боты вар'яцтва",
     "en": "Impure Madness Boots",
     "ru": "Некачеств. сапоги безумия",
     "bel": "Неякасн. боты шаленства",
@@ -106597,7 +106597,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicBoots2",
-    "custom": "",
+    "custom": "Малыя боты вар'яцтва",
     "en": "Lesser Madness Boots",
     "ru": "Малые сапоги безумия",
     "bel": "Малыя боты шаленства",
@@ -106606,7 +106606,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicBoots3",
-    "custom": "",
+    "custom": "Боты вар'яцтва",
     "en": "Madness Boots",
     "ru": "Сапоги безумия",
     "bel": "Боты шаленства",
@@ -106615,7 +106615,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicBoots4",
-    "custom": "",
+    "custom": "Добрыя боты вар'яцтва",
     "en": "Fine Madness Boots",
     "ru": "Хорошие сапоги безумия",
     "bel": "Добрыя боты шаленства",
@@ -106624,7 +106624,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicBoots5",
-    "custom": "",
+    "custom": "Цудоўныя боты вар'яцтва",
     "en": "Grand Madness Boots",
     "ru": "Великолепные сапоги безумия",
     "bel": "Выдатныя боты шаленства",
@@ -106633,7 +106633,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicBoots6",
-    "custom": "",
+    "custom": "Дасканалыя боты вар'яцтва",
     "en": "Perfect Madness Boots",
     "ru": "Совершенные сапоги безумия",
     "bel": "Дасканалыя боты шаленства",
@@ -106642,7 +106642,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicBow1",
-    "custom": "",
+    "custom": "Лук вар'яцтва",
     "en": "Madness Bow",
     "ru": "Лук безумия",
     "bel": "Лук шаленства",
@@ -106651,7 +106651,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicBow2",
-    "custom": "",
+    "custom": "Добры лук вар'яцтва",
     "en": "Fine Madness Bow",
     "ru": "Хороший лук безумия",
     "bel": "Добры лук шаленства",
@@ -106660,7 +106660,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicBow3",
-    "custom": "",
+    "custom": "Вельмі добры лук вар'яцтва",
     "en": "Very Fine Madness Bow",
     "ru": "Очень хороший лук безумия",
     "bel": "Вельмі добры лук шаленства",
@@ -106669,7 +106669,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicBow4",
-    "custom": "",
+    "custom": "Цудоўны лук вар'яцтва",
     "en": "Grand Madness Bow",
     "ru": "Великолепный лук безумия",
     "bel": "Выдатны лук шаленства",
@@ -106678,7 +106678,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicBow5",
-    "custom": "",
+    "custom": "Дасканалы лук вар'яцтва",
     "en": "Perfect Madness Bow",
     "ru": "Совершенный лук безумия",
     "bel": "Дасканалы лук шаленства",
@@ -106687,7 +106687,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicBowA",
-    "custom": "",
+    "custom": "Неякасны лук вар'яцтва",
     "en": "Impure Madness Bow",
     "ru": "Некачеств. лук безумия",
     "bel": "Неякасны лук шаленства",
@@ -106696,7 +106696,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicBowB",
-    "custom": "",
+    "custom": "Непаліраваны лук вар'яцтва",
     "en": "Unpolished Madness Bow",
     "ru": "Неполиров. лук безумия",
     "bel": "Непалір. лук шаленства",
@@ -106705,7 +106705,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicBowC",
-    "custom": "",
+    "custom": "Малы лук вар'яцтва",
     "en": "Lesser Madness Bow",
     "ru": "Малый лук безумия",
     "bel": "Малы лук шаленства",
@@ -106714,7 +106714,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicClaymore1",
-    "custom": "",
+    "custom": "Клеймора вар'яцтва",
     "en": "Madness Claymore",
     "ru": "Клеймора безумия",
     "bel": "Клеймора шаленства",
@@ -106723,7 +106723,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicClaymore2",
-    "custom": "",
+    "custom": "Добрая клеймора вар'яцтва",
     "en": "Fine Madness Claymore",
     "ru": "Хорошая клеймора безумия",
     "bel": "Добрая клеймора шаленства",
@@ -106732,7 +106732,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicClaymore3",
-    "custom": "",
+    "custom": "Вельмі добрая клеймора вар'яцтва",
     "en": "Very Fine Madness Claymore",
     "ru": "Очень хорошая клеймора безумия",
     "bel": "Вельмі добрая клеймора шаленства",
@@ -106741,7 +106741,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicClaymore4",
-    "custom": "",
+    "custom": "Цудоўная клеймора вар'яцтва",
     "en": "Grand Madness Claymore",
     "ru": "Великолепная клеймора безумия",
     "bel": "Выдатная клеймора шаленства",
@@ -106750,7 +106750,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicClaymore5",
-    "custom": "",
+    "custom": "Дасканалая клеймора вар'яцтва",
     "en": "Perfect Madness Claymore",
     "ru": "Совершенная клеймора безумия",
     "bel": "Дасканалая клеймора шаленства",
@@ -106759,7 +106759,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicClaymoreA",
-    "custom": "",
+    "custom": "Неякасная клеймора вар'яцтва",
     "en": "Impure Madness Claymore",
     "ru": "Некачеств. клеймора безумия",
     "bel": "Неякасная клеймора шаленства",
@@ -106768,7 +106768,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicClaymoreB",
-    "custom": "",
+    "custom": "Непаліраваная клеймора вар'яцтва",
     "en": "Unpolished Madness Claymore",
     "ru": "Неполированная клеймора безумия",
     "bel": "Непаліраваная клеймора шаленства",
@@ -106777,7 +106777,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicClaymoreC",
-    "custom": "",
+    "custom": "Малая клеймора вар'яцтва",
     "en": "Lesser Madness Claymore",
     "ru": "Малая клеймора безумия",
     "bel": "Малая клеймора шаленства",
@@ -106786,7 +106786,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicCuirass1",
-    "custom": "",
+    "custom": "Неякасны панцыр вар'яцтва",
     "en": "Impure Madness Cuirass",
     "ru": "Некачеств. кираса безумия",
     "bel": "Неякасны кірас шаленства",
@@ -106795,7 +106795,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicCuirass2",
-    "custom": "",
+    "custom": "Малы кірас шаленства",
     "en": "Lesser Madness Cuirass",
     "ru": "Малая кираса безумия",
     "bel": "Малы кірас шаленства",
@@ -106804,7 +106804,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicCuirass3",
-    "custom": "",
+    "custom": "Кіраса шаленства",
     "en": "Madness Cuirass",
     "ru": "Кираса безумия",
     "bel": "Кірас шаленства",
@@ -106813,7 +106813,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicCuirass4",
-    "custom": "",
+    "custom": "Добры кірас шаленства",
     "en": "Fine Madness Cuirass",
     "ru": "Хорошая кираса безумия",
     "bel": "Добры кірас шаленства",
@@ -106822,7 +106822,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicCuirass5",
-    "custom": "",
+    "custom": "Выдатны кірас шаленства",
     "en": "Grand Madness Cuirass",
     "ru": "Великолепная кираса безумия",
     "bel": "Выдатны кірас шаленства",
@@ -106831,7 +106831,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicCuirass6",
-    "custom": "",
+    "custom": "Дасканалы кірас шаленства",
     "en": "Perfect Madness Cuirass",
     "ru": "Совершенная кираса безумия",
     "bel": "Дасканалы кірас шаленства",
@@ -106840,7 +106840,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicGauntlets1",
-    "custom": "",
+    "custom": "Неякасныя пальчаткі шаленства",
     "en": "Impure Madness Gauntlets",
     "ru": "Некачеств. перчатки безумия",
     "bel": "Неякасныя пальчаткі шаленства",
@@ -106849,7 +106849,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicGauntlets2",
-    "custom": "",
+    "custom": "Малыя пальчаткі шаленства",
     "en": "Lesser Madness Gauntlets",
     "ru": "Малые перчатки безумия",
     "bel": "Малыя пальчаткі шаленства",
@@ -106858,7 +106858,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicGauntlets3",
-    "custom": "",
+    "custom": "Пальчаткі шаленства",
     "en": "Madness Gauntlets",
     "ru": "Перчатки безумия",
     "bel": "Пальчаткі шаленства",
@@ -106867,7 +106867,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicGauntlets4",
-    "custom": "",
+    "custom": "Добрыя пальчаткі шаленства",
     "en": "Fine Madness Gauntlets",
     "ru": "Хорошие перчатки безумия",
     "bel": "Добрыя пальчаткі шаленства",
@@ -106876,7 +106876,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicGauntlets5",
-    "custom": "",
+    "custom": "Выдатныя пальчаткі шаленства",
     "en": "Grand Madness Gauntlets",
     "ru": "Великолепные перчатки безумия",
     "bel": "Выдатныя пальчаткі шаленства",
@@ -106885,7 +106885,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicGauntlets6",
-    "custom": "",
+    "custom": "Дасканалыя пальчаткі шаленства",
     "en": "Perfect Madness Gauntlets",
     "ru": "Совершенные перчатки безумия",
     "bel": "Дасканалыя пальчаткі шаленства",
@@ -106894,7 +106894,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicGreaves1",
-    "custom": "",
+    "custom": "Неякасныя нагавіцы шаленства",
     "en": "Impure Madness Greaves",
     "ru": "Некачеств. поножи безумия",
     "bel": "Неякасныя нагавіцы шаленства",
@@ -106903,7 +106903,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicGreaves2",
-    "custom": "",
+    "custom": "Малыя нагавіцы шаленства",
     "en": "Lesser Madness Greaves",
     "ru": "Малые поножи безумия",
     "bel": "Малыя нагавіцы шаленства",
@@ -106912,7 +106912,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicGreaves3",
-    "custom": "",
+    "custom": "Нагавіцы шаленства",
     "en": "Madness Greaves",
     "ru": "Поножи безумия",
     "bel": "Нагавіцы шаленства",
@@ -106921,7 +106921,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicGreaves4",
-    "custom": "",
+    "custom": "Добрыя нагавіцы шаленства",
     "en": "Fine Madness Greaves",
     "ru": "Хорошие поножи безумия",
     "bel": "Добрыя нагавіцы шаленства",
@@ -106930,7 +106930,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicGreaves5",
-    "custom": "",
+    "custom": "Выдатныя нагавіцы шаленства",
     "en": "Grand Madness Greaves",
     "ru": "Великолепные поножи безумия",
     "bel": "Выдатныя нагавіцы шаленства",
@@ -106939,7 +106939,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicGreaves6",
-    "custom": "",
+    "custom": "Дасканалыя нагавіцы шаленства",
     "en": "Perfect Madness Greaves",
     "ru": "Совершенные поножи безумия",
     "bel": "Дасканалыя нагавіцы шаленства",
@@ -106948,7 +106948,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicHelmet1",
-    "custom": "",
+    "custom": "Неякасны шлем шаленства",
     "en": "Impure Madness Helmet",
     "ru": "Некачеств. шлем безумия",
     "bel": "Неякасны шлем шаленства",
@@ -106957,7 +106957,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicHelmet2",
-    "custom": "",
+    "custom": "Малы шлем шаленства",
     "en": "Lesser Madness Helmet",
     "ru": "Малый шлем безумия",
     "bel": "Малы шлем шаленства",
@@ -106966,7 +106966,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicHelmet3",
-    "custom": "",
+    "custom": "Шлем вар'яцтва",
     "en": "Madness Helmet",
     "ru": "Шлем безумия",
     "bel": "Шлем шаленства",
@@ -106975,7 +106975,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicHelmet4",
-    "custom": "",
+    "custom": "Добры шлем шаленства",
     "en": "Fine Madness Helmet",
     "ru": "Хороший шлем безумия",
     "bel": "Добры шлем шаленства",
@@ -106984,7 +106984,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicHelmet5",
-    "custom": "",
+    "custom": "Выдатны шлем шаленства",
     "en": "Grand Madness Helmet",
     "ru": "Великолепный шлем безумия",
     "bel": "Выдатны шлем шаленства",
@@ -106993,7 +106993,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicHelmet6",
-    "custom": "",
+    "custom": "Дасканалы шлем шаленства",
     "en": "Perfect Madness Helmet",
     "ru": "Совершенный шлем безумия",
     "bel": "Дасканалы шлем шаленства",
@@ -107002,7 +107002,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicShield1",
-    "custom": "",
+    "custom": "Неякасны шчыт шаленства",
     "en": "Impure Madness Shield",
     "ru": "Некачеств. щит безумия",
     "bel": "Неякасны шчыт шаленства",
@@ -107011,7 +107011,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicShield2",
-    "custom": "",
+    "custom": "Малы шчыт шаленства",
     "en": "Lesser Madness Shield",
     "ru": "Малый щит безумия",
     "bel": "Малы шчыт шаленства",
@@ -107020,7 +107020,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicShield3",
-    "custom": "",
+    "custom": "Шчыт шаленства",
     "en": "Madness Shield",
     "ru": "Щит безумия",
     "bel": "Шчыт шаленства",
@@ -107029,7 +107029,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicShield4",
-    "custom": "",
+    "custom": "Добры шчыт шаленства",
     "en": "Fine Madness Shield",
     "ru": "Хороший щит безумия",
     "bel": "Добры шчыт шаленства",
@@ -107038,7 +107038,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicShield5",
-    "custom": "",
+    "custom": "Выдатны шчыт шаленства",
     "en": "Grand Madness Shield",
     "ru": "Великолепный щит безумия",
     "bel": "Выдатны шчыт шаленства",
@@ -107047,7 +107047,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicShield6",
-    "custom": "",
+    "custom": "Дасканалы шчыт шаленства",
     "en": "Perfect Madness Shield",
     "ru": "Совершенный щит безумия",
     "bel": "Дасканалы шчыт шаленства",
@@ -107056,7 +107056,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicSword1",
-    "custom": "",
+    "custom": "Доўгі меч шаленства",
     "en": "Madness Longsword",
     "ru": "Длинный меч безумия",
     "bel": "Доўгі меч шаленства",
@@ -107065,7 +107065,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicSword2",
-    "custom": "",
+    "custom": "Добры доўгі меч шаленства",
     "en": "Fine Madness Longsword",
     "ru": "Хороший длинный меч безумия",
     "bel": "Добры доўгі меч шаленства",
@@ -107074,7 +107074,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicSword3",
-    "custom": "",
+    "custom": "Вельмі добры доўгі меч шаленства",
     "en": "Very Fine Madness Longsword",
     "ru": "Оч. хороший длинный меч безумия",
     "bel": "Вельмі добры доўгі меч шаленства",
@@ -107083,7 +107083,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicSword4",
-    "custom": "",
+    "custom": "Выдатны доўгі меч шаленства",
     "en": "Grand Madness Longsword",
     "ru": "Великолепный длинный меч безумия",
     "bel": "Выдатны доўгі меч шаленства",
@@ -107092,7 +107092,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicSword5",
-    "custom": "",
+    "custom": "Дасканалы доўгі меч шаленства",
     "en": "Perfect Madness Longsword",
     "ru": "Совершенный длинный меч безумия",
     "bel": "Дасканалы доўгі меч шаленства",
@@ -107101,7 +107101,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicSwordA",
-    "custom": "",
+    "custom": "Неякасны доўгі меч шаленства",
     "en": "Impure Madness Longsword",
     "ru": "Некачеств. длинный меч безумия",
     "bel": "Неякасны доўгі меч шаленства",
@@ -107110,7 +107110,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicSwordB",
-    "custom": "",
+    "custom": "Непалір. доўгі меч шаленства",
     "en": "Unpolished Madness Longsword",
     "ru": "Неполиров. длинный меч безумия",
     "bel": "Непалір. доўгі меч шаленства",
@@ -107119,7 +107119,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessMagicSwordC",
-    "custom": "",
+    "custom": "Малы доўгі меч шаленства",
     "en": "Lesser Madness Longsword",
     "ru": "Малый длинный меч безумия",
     "bel": "Малы доўгі меч шаленства",
@@ -107128,7 +107128,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessOre",
-    "custom": "",
+    "custom": "Руда шаленства",
     "en": "Madness Ore",
     "ru": "Руда безумия",
     "bel": "Руда шаленства",
@@ -107137,7 +107137,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessRockDeposit",
-    "custom": "",
+    "custom": "Жыла руды шаленства",
     "en": "Madness Ore Deposit",
     "ru": "Жила руды безумия",
     "bel": "Жыла руды шаленства",
@@ -107146,7 +107146,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessShield1",
-    "custom": "",
+    "custom": "Неякасны шчыт шаленства",
     "en": "Impure Madness Shield",
     "ru": "Некачеств. щит безумия",
     "bel": "Неякасны шчыт шаленства",
@@ -107155,7 +107155,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessShield2",
-    "custom": "",
+    "custom": "Малы шчыт шаленства",
     "en": "Lesser Madness Shield",
     "ru": "Малый щит безумия",
     "bel": "Малы шчыт шаленства",
@@ -107164,7 +107164,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessShield3",
-    "custom": "",
+    "custom": "Шчыт шаленства",
     "en": "Madness Shield",
     "ru": "Щит безумия",
     "bel": "Шчыт шаленства",
@@ -107173,7 +107173,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessShield4",
-    "custom": "",
+    "custom": "Добры шчыт шаленства",
     "en": "Fine Madness Shield",
     "ru": "Хороший щит безумия",
     "bel": "Добры шчыт шаленства",
@@ -107182,7 +107182,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessShield5",
-    "custom": "",
+    "custom": "Выдатны шчыт шаленства",
     "en": "Grand Madness Shield",
     "ru": "Великолепный щит безумия",
     "bel": "Выдатны шчыт шаленства",
@@ -107191,7 +107191,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessShield6",
-    "custom": "",
+    "custom": "Дасканалы шчыт шаленства",
     "en": "Perfect Madness Shield",
     "ru": "Совершенный щит безумия",
     "bel": "Дасканалы шчыт шаленства",
@@ -107200,7 +107200,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessSword1",
-    "custom": "",
+    "custom": "Доўгі меч шаленства",
     "en": "Madness Longsword",
     "ru": "Длинный меч безумия",
     "bel": "Доўгі меч шаленства",
@@ -107209,7 +107209,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessSword2",
-    "custom": "",
+    "custom": "Добры доўгі меч шаленства",
     "en": "Fine Madness Longsword",
     "ru": "Хороший длинный меч безумия",
     "bel": "Добры доўгі меч шаленства",
@@ -107218,7 +107218,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessSword3",
-    "custom": "",
+    "custom": "Вельмі добры доўгі меч шаленства",
     "en": "Very Fine Madness Longsword",
     "ru": "Оч. хороший длинный меч безумия",
     "bel": "Вельмі добры доўгі меч шаленства",
@@ -107227,7 +107227,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessSword4",
-    "custom": "",
+    "custom": "Выдатны доўгі меч шаленства",
     "en": "Grand Madness Longsword",
     "ru": "Великолепный длинный меч безумия",
     "bel": "Выдатны доўгі меч шаленства",
@@ -107236,7 +107236,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessSword5",
-    "custom": "",
+    "custom": "Дасканалы доўгі меч шаленства",
     "en": "Perfect Madness Longsword",
     "ru": "Совершенный длинный меч безумия",
     "bel": "Дасканалы доўгі меч шаленства",
@@ -107245,7 +107245,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessSwordA",
-    "custom": "",
+    "custom": "Неякасны доўгі меч шаленства",
     "en": "Impure Madness Longsword",
     "ru": "Некачеств. длинный меч безумия",
     "bel": "Неякасны доўгі меч шаленства",
@@ -107254,7 +107254,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessSwordB",
-    "custom": "",
+    "custom": "Непалір. доўгі меч шаленства",
     "en": "Unpolished Madness Longsword",
     "ru": "Неполиров. длинный меч безумия",
     "bel": "Непалір. доўгі меч шаленства",
@@ -107263,7 +107263,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMadnessSwordC",
-    "custom": "",
+    "custom": "Малы доўгі меч шаленства",
     "en": "Lesser Madness Longsword",
     "ru": "Малый длинный меч безумия",
     "bel": "Малы доўгі меч шаленства",
@@ -107272,7 +107272,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEManiaCityGate01",
-    "custom": "",
+    "custom": "Гарадская брама",
     "en": "City Gate",
     "ru": "Городские ворота",
     "bel": "Гарадскія вароты",
@@ -107281,7 +107281,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEManiaCityGateInner",
-    "custom": "",
+    "custom": "Гарадская брама",
     "en": "City Gate",
     "ru": "Городские ворота",
     "bel": "Гарадскія вароты",
@@ -107290,7 +107290,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEManiaFaction",
-    "custom": "",
+    "custom": "Фракцыя Маніі",
     "en": "Mania Faction",
     "ru": "Фракция Mania",
     "bel": "Фракцыя Mania",
@@ -107299,7 +107299,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEManiaGarden",
-    "custom": "",
+    "custom": "Сады Маніі",
     "en": "Mania Garden",
     "ru": "Сады Мании",
     "bel": "Сады Маніі",
@@ -107308,7 +107308,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEManiaGardenWeather",
-    "custom": "",
+    "custom": "Кансерваторыя Альцыёны",
     "en": "Halcyon Conservatory",
     "ru": "Консерватория Алкионы",
     "bel": "Кансерваторыя Альцыёны",
@@ -107317,7 +107317,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEManiaLowerShoes01",
-    "custom": "",
+    "custom": "Карычневыя лёгкія туфлі",
     "en": "Brown Loafers",
     "ru": "Коричневые легкие туфли",
     "bel": "Карычневыя лёгкія туфлі",
@@ -107326,7 +107326,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEManiaLowerShoes02",
-    "custom": "",
+    "custom": "Аранжавыя лёгкія туфлі",
     "en": "Orange Loafers",
     "ru": "Оранжевые легкие туфли",
     "bel": "Аранжавыя лёгкія туфлі",
@@ -107335,7 +107335,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEManiaRumorResponses",
-    "custom": "",
+    "custom": "SEManiaRumorResponses",
     "en": "SEManiaRumorResponses",
     "ru": "Слухи о SEMania.",
     "bel": "Чуткі пра SEMania.",
@@ -107344,7 +107344,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEManiaUpperFinery01",
-    "custom": "",
+    "custom": "Раскошны блакітны строй",
     "en": "Light Blue Regalia",
     "ru": "Роскошный голубой наряд",
     "bel": "Раскошны блакітны строй",
@@ -107353,7 +107353,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEManiaUpperFinery02",
-    "custom": "",
+    "custom": "Раскошны зялёны строй",
     "en": "Light Green Regalia",
     "ru": "Роскошный зеленый наряд",
     "bel": "Раскошны зялёны строй",
@@ -107362,7 +107362,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEManiaUpperFinery03",
-    "custom": "",
+    "custom": "Раскошны пурпурны строй",
     "en": "Light Purple Regalia",
     "ru": "Роскошный пурпурный наряд",
     "bel": "Раскошны пурпурны строй",
@@ -107371,7 +107371,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMarkTest1",
-    "custom": "",
+    "custom": "Шалёнасць Шэагората",
     "en": "Sheogorath's Frenzy",
     "ru": "Бешенство Шеогората",
     "bel": "Шалёнасць Шэагората",
@@ -107380,7 +107380,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMarkTest2",
-    "custom": "",
+    "custom": "Шалёнасць Шэагората",
     "en": "Sheogorath's Frenzy",
     "ru": "Бешенство Шеогората",
     "bel": "Шалёнасць Шэагората",
@@ -107389,7 +107389,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMarkTest3",
-    "custom": "",
+    "custom": "Праверыць Шчыт Электрашоку [Mark]",
     "en": "Mark Test Shock Shield",
     "ru": "Протестировать Щит Электрошока [Mark]",
     "bel": "Праверыць Шчыт Электрашоку [Mark]",
@@ -107398,7 +107398,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMarkTest4",
-    "custom": "",
+    "custom": "Тэставая зона Марка",
     "en": "Mark Test Area",
     "ru": "Отметить Test Area",
     "bel": "Адзначыць Test Area",
@@ -107407,7 +107407,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMarkTestButton",
-    "custom": "",
+    "custom": "Зрабіце з Сябе Выпрабавальную Машыну",
     "en": "Make Yourself a Testing Machine",
     "ru": "Сделайте из Себя Испытательную Машину.",
     "bel": "Зрабіце з Сябе Выпрабавальную Машыну.",
@@ -107416,7 +107416,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMazken",
-    "custom": "",
+    "custom": "Мазкен",
     "en": "Mazken",
     "ru": "Мазкен",
     "bel": "Мазкен",
@@ -107425,7 +107425,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMdesi",
-    "custom": "",
+    "custom": "М'дэзі",
     "en": "M'desi",
     "ru": "М'дези",
     "bel": "М'дэзі",
@@ -107434,7 +107434,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMetalGateDoor01",
-    "custom": "",
+    "custom": "Металічная брама",
     "en": "Metal Gate",
     "ru": "Металлические ворота",
     "bel": "Металічныя вароты",
@@ -107443,7 +107443,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMilchar02bSubMinion02",
-    "custom": "",
+    "custom": "Дэйцыд",
     "en": "Deicide",
     "ru": "Дейцид",
     "bel": "Дэйцыд",
@@ -107452,7 +107452,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMilchar02cPatrolTemplate",
-    "custom": "",
+    "custom": "Элітра-дзіцяня",
     "en": "Elytra Hatchling",
     "ru": "Элитра-детеныш",
     "bel": "Элітра-дзіцяня",
@@ -107461,7 +107461,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMilchar02cPatrolTemplate02",
-    "custom": "",
+    "custom": "Элітра-дзіцяня",
     "en": "Elytra Hatchling",
     "ru": "Элитра-детеныш",
     "bel": "Элітра-дзіцяня",
@@ -107470,7 +107470,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMilchar02cPatrolTemplate03",
-    "custom": "",
+    "custom": "Элітра-дзіцяня",
     "en": "Elytra Hatchling",
     "ru": "Элитра-детеныш",
     "bel": "Элітра-дзіцяня",
@@ -107479,7 +107479,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMiriliCreature",
-    "custom": "",
+    "custom": "Ствары Мірылі Ульвен",
     "en": "Mirili Ulven's Creatures",
     "ru": "Твари Mirili Ulven.",
     "bel": "Твары Mirili Ulven.",
@@ -107488,7 +107488,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMiriliGnarl2",
-    "custom": "",
+    "custom": "Гнарл Мірылі",
     "en": "Mirili's Gnarl",
     "ru": "Гнарл Мирили",
     "bel": "Гнарл Мірылі",
@@ -107497,7 +107497,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMiriliHealthBoost",
-    "custom": "",
+    "custom": "Павышэнне здароўя",
     "en": "Fortify Health",
     "ru": "Повышение здоровья",
     "bel": "Павышэнне здароўя",
@@ -107506,7 +107506,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMiriliScalon2",
-    "custom": "",
+    "custom": "Скейлон Мірылі",
     "en": "Mirili's Scalon",
     "ru": "Скейлон Мирили",
     "bel": "Скейлон Мірылі",
@@ -107515,7 +107515,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMiriliUlven",
-    "custom": "",
+    "custom": "Мірылі Улвен",
     "en": "Mirili Ulven",
     "ru": "Мирили Улвен",
     "bel": "Мірылі Улвен",
@@ -107524,7 +107524,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMiriliUlvenGreetA",
-    "custom": "",
+    "custom": "Вядома, што заўгодна.",
     "en": "Sure, whatever.",
     "ru": "Конечно, что угодно.",
     "bel": "Вядома, што заўгодна.",
@@ -107533,7 +107533,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMiriliUlvenGreetB",
-    "custom": "",
+    "custom": "Уражвае. Прашу, працягвай расказ.",
     "en": "Fascinating. Tell me more.",
     "ru": "Впечатляет. Прошу, продолжи рассказ.",
     "bel": "Уражвае. Прашу, працягвай расказ.",
@@ -107542,7 +107542,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMiriliUlvenKey",
-    "custom": "",
+    "custom": "Ключ Мірылі Улвен",
     "en": "Mirili Ulven's Key",
     "ru": "Ключ Мирили Улвен",
     "bel": "Ключ Мірылі Улвен",
@@ -107551,7 +107551,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMiscQuestResponses",
-    "custom": "",
+    "custom": "Адказы на SEMiscQuest",
     "en": "SEMiscQuestResponses",
     "ru": "Ответы на SEMiscQuest",
     "bel": "Адказы на SEMiscQuest",
@@ -107560,7 +107560,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMuurine",
-    "custom": "",
+    "custom": "М'юрын",
     "en": "Muurine",
     "ru": "Мьюрин",
     "bel": "М'юрын",
@@ -107569,7 +107569,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEMuurineKey",
-    "custom": "",
+    "custom": "Ключ М'юрын",
     "en": "Muurine's Key",
     "ru": "Ключ Мьюрин",
     "bel": "Ключ М'юрын",
@@ -107578,7 +107578,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENQDDementia",
-    "custom": "",
+    "custom": "SE Дэменцыя NQD",
     "en": "SE Dementia NQD",
     "ru": "Старческое слабоумие SE Dementia NQD",
     "bel": "Старэчая неразумнасць SE Dementia NQD",
@@ -107587,7 +107587,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENQDDementiaEarilGreeting",
-    "custom": "",
+    "custom": "На агляд?",
     "en": "On display?",
     "ru": "На обозрение?",
     "bel": "На агляд?",
@@ -107596,7 +107596,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENQDDementiaEarilGreeting2",
-    "custom": "",
+    "custom": "Гм... Не, дзякуй...",
     "en": "Uhm... no thank you...",
     "ru": "Хм... Нет, спасибо...",
     "bel": "Гм... Не, дзякуй...",
@@ -107605,7 +107605,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENQDMania",
-    "custom": "",
+    "custom": "SE Mania NQD",
     "en": "SE Mania NQD",
     "ru": "SE Mania NQD",
     "bel": "SE Mania NQD",
@@ -107614,7 +107614,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENQDWilderness",
-    "custom": "",
+    "custom": "Паўднёва-ўсходняя Глуш NQD",
     "en": "SE Wilderness NQD",
     "ru": "Юго-восточная Глушь NQD",
     "bel": "Паўднёва-ўсходняя Глуш NQD",
@@ -107623,7 +107623,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSAmiableFanrienesHouse",
-    "custom": "",
+    "custom": "Дом Прыязны Фанрыен",
     "en": "Amiable Fanriene's House",
     "ru": "Дом Симпатяги Фанриена",
     "bel": "Дом Сімпатяги Фанрыена",
@@ -107632,7 +107632,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSAmiableFanrienesHouseUpstairs",
-    "custom": "",
+    "custom": "Дом Прыязны Фанрыен - Верхні паверх",
     "en": "Amiable Fanriene's House Upstairs",
     "ru": "Дом Симпатяги Фанриена - Верхний этаж",
     "bel": "Дом Сімпатяги Фанрыена - Верхні паверх",
@@ -107641,7 +107641,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSBigHeadsHouse",
-    "custom": "",
+    "custom": "Дом Вялікагаловага",
     "en": "Big Head's House",
     "ru": "Дом Большеголового",
     "bel": "Дом Вялікагаловага",
@@ -107650,7 +107650,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSBigHeadsHouseUpstairs",
-    "custom": "",
+    "custom": "Дом Вялікагаловага - Верхні паверх",
     "en": "Big Head's House Upstairs",
     "ru": "Дом Большеголового - Верхний этаж",
     "bel": "Дом Вялікагаловага - Верхні паверх",
@@ -107659,7 +107659,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSBliss",
-    "custom": "",
+    "custom": "Шчасце",
     "en": "Bliss",
     "ru": "Блисс",
     "bel": "Бліс",
@@ -107668,7 +107668,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSBooksofBliss",
-    "custom": "",
+    "custom": "Кнігі Благаславенства",
     "en": "Books of Bliss",
     "ru": "\"Книги Блисса\"",
     "bel": "\"Кнігі Бліса\"",
@@ -107677,7 +107677,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSBooksofBlissUpstairs",
-    "custom": "",
+    "custom": "\"Кнігі Бліса\" - Верхні паверх",
     "en": "Books of Bliss Upstairs",
     "ru": "\"Книги Блисса\" - Верхний этаж",
     "bel": "\"Кнігі Бліса\" - Верхні паверх",
@@ -107686,7 +107686,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSBrithaursHouse",
-    "custom": "",
+    "custom": "Дом Брайтора",
     "en": "Brithaur's House",
     "ru": "Дом Брайтора",
     "bel": "Дом Брайтора",
@@ -107695,7 +107695,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSBrithaursHouseUpstairs",
-    "custom": "",
+    "custom": "Дом Брайтора - Верхні паверх",
     "en": "Brithaur's House Upstairs",
     "ru": "Дом Брайтора - Верхний этаж",
     "bel": "Дом Брайтора - Верхні паверх",
@@ -107704,7 +107704,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSCaldanaMonirusHouse",
-    "custom": "",
+    "custom": "Дом Калданы Манрыус",
     "en": "Caldana Monrius' House",
     "ru": "Дом Калданы Монриус",
     "bel": "Дом Калданы Манрыус",
@@ -107713,7 +107713,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSCaldanaMonirusHouseUpstairs",
-    "custom": "",
+    "custom": "Дом Калданы Манрыус - Верхні паверх",
     "en": "Caldana Monrius' House Upstairs",
     "ru": "Дом Калданы Монриус - Верхний этаж",
     "bel": "Дом Калданы Манрыус - Верхні паверх",
@@ -107722,7 +107722,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSCastleSheogorath",
-    "custom": "",
+    "custom": "Палац Шэагората",
     "en": "Sheogorath's Palace",
     "ru": "Дворец Шеогората",
     "bel": "Палац Шэагората",
@@ -107731,7 +107731,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSCommonTreasures",
-    "custom": "",
+    "custom": "\"Звычайныя скарбы\"",
     "en": "Common Treasures",
     "ru": "\"Обыкновенные сокровища\"",
     "bel": "\"Звычайныя скарбы\"",
@@ -107740,7 +107740,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSCommonTreasuresUpstairs",
-    "custom": "",
+    "custom": "\"Звычайныя скарбы\" - Верхні паверх",
     "en": "Common Treasures Upstairs",
     "ru": "\"Обыкновенные сокровища\" - Верхний этаж",
     "bel": "\"Звычайныя скарбы\" - Верхні паверх",
@@ -107749,7 +107749,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSCrucible",
-    "custom": "",
+    "custom": "Тыгель",
     "en": "Crucible",
     "ru": "Крусибл",
     "bel": "Крусібл",
@@ -107758,7 +107758,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSCuttersWeapons",
-    "custom": "",
+    "custom": "\"Зброя Разьбяркі\"",
     "en": "Cutter's Weapons",
     "ru": "\"Оружие Резчицы\"",
     "bel": "\"Зброя Разьбяркі\"",
@@ -107767,7 +107767,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSCuttersWeaponsUpstairs",
-    "custom": "",
+    "custom": "\"Зброя Разьбяркі\" - Верхні паверх",
     "en": "Cutter's Weapons Upstairs",
     "ru": "\"Оружие Резчицы\" - Верхний этаж",
     "bel": "\"Зброя Разьбяркі\" - Верхні паверх",
@@ -107776,7 +107776,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSDementiaGraveyardCrypt",
-    "custom": "",
+    "custom": "Крыпта",
     "en": "Crypt",
     "ru": "Крипта",
     "bel": "Крыпта",
@@ -107785,7 +107785,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSEarilsMysteries",
-    "custom": "",
+    "custom": "\"Містэрыі Ірыла\"",
     "en": "Earil's Mysteries",
     "ru": "\"Мистерии Ирила\"",
     "bel": "\"Містэрыі Ірыла\"",
@@ -107794,7 +107794,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSEarilsMysteriesUpstairs",
-    "custom": "",
+    "custom": "\"Містэрыі Ірыла\" - Верхні паверх",
     "en": "Earil's Mysteries Upper Floor",
     "ru": "\"Мистерии Ирила\" - Верхний этаж",
     "bel": "\"Містэрыі Ірыла\" - Верхні паверх",
@@ -107803,7 +107803,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSGreenmoteSilo",
-    "custom": "",
+    "custom": "Сховішча зялёнага пылка",
     "en": "Greenmote Silo",
     "ru": "Хранилище зеленой пыльцы",
     "bel": "Сховішча зялёнага пылка",
@@ -107812,7 +107812,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSHirrusClitumnusHouseUpstairs",
-    "custom": "",
+    "custom": "Дом Хіруса Клутумнуса - Верхні паверх",
     "en": "Hirrus Clutumnus' House Upstairs",
     "ru": "Дом Хирруса Клутумнуса - Верхний этаж",
     "bel": "Дом Хіруса Клутумнуса - Верхні паверх",
@@ -107821,7 +107821,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSMazaddhasHouseUpstairs",
-    "custom": "",
+    "custom": "Дом Ма'задды - Верхні паверх",
     "en": "Ma'zaddha's House Upstairs",
     "ru": "Дом Ма'задды - Верхний этаж",
     "bel": "Дом Ма'задды - Верхні паверх",
@@ -107830,7 +107830,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSMuseumofOddities",
-    "custom": "",
+    "custom": "Кунсткамера",
     "en": "Museum of Oddities",
     "ru": "Кунсткамера",
     "bel": "Кунсткамера",
@@ -107839,7 +107839,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSMuurinesHouse",
-    "custom": "",
+    "custom": "Дом М'юрын",
     "en": "Muurine's House",
     "ru": "Дом Мьюрин",
     "bel": "Дом М'юрын",
@@ -107848,7 +107848,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSMuurinesHouseUpstairs",
-    "custom": "",
+    "custom": "Дом М'юрын - Верхні паверх",
     "en": "Muurine's House Upstairs",
     "ru": "Дом Мьюрин - Верхний этаж",
     "bel": "Дом М'юрын - Верхні паверх",
@@ -107857,7 +107857,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSOrinthalsHouse",
-    "custom": "",
+    "custom": "Дом Арынтала",
     "en": "Orinthal's House",
     "ru": "Дом Оринтала",
     "bel": "Дом Арынтала",
@@ -107866,7 +107866,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSPalace",
-    "custom": "",
+    "custom": "Палац",
     "en": "Palace Grounds",
     "ru": "Дворец",
     "bel": "Палац",
@@ -107875,7 +107875,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSPrison",
-    "custom": "",
+    "custom": "Турэмнае Выпрабаванне",
     "en": "Prison Test",
     "ru": "Тюремное Испытание",
     "bel": "Турэмнае Выпрабаванне",
@@ -107884,7 +107884,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSRendilDrararasHouse",
-    "custom": "",
+    "custom": "Дом Рэндыла Драрары",
     "en": "Rendil Drarara's House",
     "ru": "Дом Рендила Драрары",
     "bel": "Дом Рэндыла Драрары",
@@ -107893,7 +107893,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSRendilDrararasHouseUpstairs",
-    "custom": "",
+    "custom": "Дом Рэндыла Драрары - Верхні паверх",
     "en": "Rendil Drarara's House Upstairs",
     "ru": "Дом Рендила Драрары - Верхний этаж",
     "bel": "Дом Рэндыла Драрары - Верхні паверх",
@@ -107902,7 +107902,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSSacellumArdenSul",
-    "custom": "",
+    "custom": "Капліца Ардэн-Сула",
     "en": "Sacellum Arden-Sul",
     "ru": "Часовня Арден-Сула",
     "bel": "Капліца Ардэн-Сула",
@@ -107911,7 +107911,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSSacellumArdenSulNormalclutter",
-    "custom": "",
+    "custom": "Капліца Ардэн-Сула",
     "en": "Sacellum Arden-Sul",
     "ru": "Часовня Арден-Сула",
     "bel": "Капліца Ардэн-Сула",
@@ -107920,7 +107920,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSSicklyBernicesTaphouse",
-    "custom": "",
+    "custom": "\"Закусачная Хворай Берніс\"",
     "en": "Sickly Bernice's Taphouse",
     "ru": "\"Закусочная Больной Бернис\"",
     "bel": "\"Закусачная Хворай Берніс\"",
@@ -107929,7 +107929,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSSicklyBernicesTaphouseGuestRooms",
-    "custom": "",
+    "custom": "\"Закусачная Хворай Берніс\" - Гал. пакоі",
     "en": "Sickly Bernice's Taphouse Guest Rooms",
     "ru": "\"Закусочная Больной Бернис\" - Гост. комнаты",
     "bel": "\"Закусачная Хворай Берніс\" - Гал. пакоі",
@@ -107938,7 +107938,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSThaedilsHouse",
-    "custom": "",
+    "custom": "Дом Тэйдзіл",
     "en": "Thaedil's House",
     "ru": "Дом Тейдил",
     "bel": "Дом Тэйдзіл",
@@ -107947,7 +107947,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSTheChoosyBeggar",
-    "custom": "",
+    "custom": "\"Прыдзірлівы жабрак\"",
     "en": "The Choosy Beggar",
     "ru": "\"Привередливый нищий\"",
     "bel": "\"Прыдзірлівы жабрак\"",
@@ -107956,7 +107956,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSTheMissingPauldron",
-    "custom": "",
+    "custom": "\"Зніклы наплечнік\"",
     "en": "The Missing Pauldron",
     "ru": "\"Пропавший наплечник\"",
     "bel": "\"Зніклы наплечнік\"",
@@ -107965,7 +107965,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSTheMissingPauldronUpstairs",
-    "custom": "",
+    "custom": "\"Зніклы наплечнік\" - Верхні паверх",
     "en": "The Missing Pauldron Upstairs",
     "ru": "\"Пропавший наплечник\" - Верхний этаж",
     "bel": "\"Зніклы наплечнік\" - Верхні паверх",
@@ -107974,7 +107974,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSThingsFound",
-    "custom": "",
+    "custom": "\"Знахідкі\"",
     "en": "Things Found",
     "ru": "\"Находки\"",
     "bel": "\"Знахідкі\"",
@@ -107983,7 +107983,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSThingsFoundUpstairs",
-    "custom": "",
+    "custom": "\"Знахідкі\" - Верхні паверх",
     "en": "Things Found Upper Floor",
     "ru": "\"Находки\" - Верхний этаж",
     "bel": "\"Знахідкі\" - Верхні паверх",
@@ -107992,7 +107992,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSTovetheUnrestfulsHouse",
-    "custom": "",
+    "custom": "Дом Това Неўгамоннага",
     "en": "Tove the Unrestful's House",
     "ru": "Дом Това Неугомонного",
     "bel": "Дом Това Неўгамоннага",
@@ -108001,7 +108001,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSTovetheUnrestfulsHouseUpstairs",
-    "custom": "",
+    "custom": "Дом Това Неўгамоннага - Верхні паверх",
     "en": "Tove the Unrestful's House Upstairs",
     "ru": "Дом Това Неугомонного - Верхний этаж",
     "bel": "Дом Това Неўгамоннага - Верхні паверх",
@@ -108010,7 +108010,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSUshnargraShadborgobHouse",
-    "custom": "",
+    "custom": "Дом Ушнара гро-Шадборгоба",
     "en": "Ushnar gro- Shadborgob's House",
     "ru": "Дом Ушнара гро-Шадборгоба",
     "bel": "Дом Ушнара гро-Шадборгоба",
@@ -108019,7 +108019,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENSUshnargraShadborgobHouseUpstairs",
-    "custom": "",
+    "custom": "Дом Ушнара - Верхні паверх",
     "en": "Ushnar's House Upstairs",
     "ru": "Дом Ушнара - Верхний этаж",
     "bel": "Дом Ушнара - Верхні паверх",
@@ -108028,7 +108028,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENanetteDon",
-    "custom": "",
+    "custom": "Нанета Дон",
     "en": "Nanette Don",
     "ru": "Нанетта Дон",
     "bel": "Нанета Дон",
@@ -108037,7 +108037,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENanetteDonKey",
-    "custom": "",
+    "custom": "Ключ Нанеты Дон",
     "en": "Nanette Don's Key",
     "ru": "Ключ Нанетты Дон",
     "bel": "Ключ Нанеты Дон",
@@ -108046,7 +108046,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENanetteDonOrdered",
-    "custom": "",
+    "custom": "Нанета Дон",
     "en": "Nanette Don",
     "ru": "Нанетта Дон",
     "bel": "Нанета Дон",
@@ -108055,7 +108055,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENelrene",
-    "custom": "",
+    "custom": "Нельрын",
     "en": "Nelrene",
     "ru": "Нельрин",
     "bel": "Нельрын",
@@ -108064,7 +108064,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENewSheothBliss",
-    "custom": "",
+    "custom": "Шчаслівы грамадзянін",
     "en": "Bliss Citizen",
     "ru": "Счастливый гражданин",
     "bel": "Шчаслівы грамадзянін",
@@ -108073,7 +108073,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENewSheothCrucible",
-    "custom": "",
+    "custom": "Жыхар Плавільні",
     "en": "Crucible Citizen",
     "ru": "Гражданин Crucible",
     "bel": "Грамадзянін Crucible",
@@ -108082,7 +108082,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENewSheothFaction",
-    "custom": "",
+    "custom": "Жыхар Нью-Шэота",
     "en": "Citizen of New Sheoth",
     "ru": "Житель Нью-Шеота",
     "bel": "Жыхар Нью-Шэота",
@@ -108091,7 +108091,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SENewSheothTOPIC",
-    "custom": "",
+    "custom": "Нью-Шэот",
     "en": "New Sheoth",
     "ru": "Нью-Шеот",
     "bel": "Нью-Шэот",
@@ -108334,7 +108334,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEObeliskResponses",
-    "custom": "",
+    "custom": "Адказы SEObelisk'а",
     "en": "SEObeliskResponses",
     "ru": "Ответы SEObelisk'а",
     "bel": "Адказы SEObelisk'а",
@@ -108343,7 +108343,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEOddities",
-    "custom": "",
+    "custom": "Дзівосы",
     "en": "Oddities",
     "ru": "Диковины",
     "bel": "Дзівосы",
@@ -108352,7 +108352,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEOdditiesTourYes",
-    "custom": "",
+    "custom": "Так, хацелася б усё агледзець.",
     "en": "Yes, I'd like a tour.",
     "ru": "Да, хотелось бы все осмотреть.",
     "bel": "Так, хацелася б усё агледзець.",
@@ -108361,7 +108361,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEOrderFaction",
-    "custom": "",
+    "custom": "Загад",
     "en": "Order",
     "ru": "Приказ",
     "bel": "Загад",
@@ -108370,7 +108370,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEOrderKnight0SwordSteel",
-    "custom": "",
+    "custom": "Цьмяны меч Парадку",
     "en": "Tarnished Order Sword",
     "ru": "Тусклый меч Порядка",
     "bel": "Цьмяны меч Парадку",
@@ -108379,7 +108379,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEOrderKnight1SwordSilver",
-    "custom": "",
+    "custom": "Просты меч Парадку",
     "en": "Simple Order Sword",
     "ru": "Простой меч Порядка",
     "bel": "Просты меч Парадку",
@@ -108388,7 +108388,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEOrderKnight2SwordDwarven",
-    "custom": "",
+    "custom": "Стэрыльны меч Парадку",
     "en": "Sterile Order Sword",
     "ru": "Стерильный меч Порядка",
     "bel": "Стэрыльны меч Парадку",
@@ -108397,7 +108397,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEOrderKnight3SwordElven",
-    "custom": "",
+    "custom": "Зыходны меч Парадку",
     "en": "Primal Order Sword",
     "ru": "Исходный меч Порядка",
     "bel": "Зыходны меч Парадку",
@@ -108406,7 +108406,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEOrderKnight4SwordGlass",
-    "custom": "",
+    "custom": "Чысты меч Парадку",
     "en": "Pure Order Sword",
     "ru": "Чистый меч Порядка",
     "bel": "Чысты меч Парадку",
@@ -108415,7 +108415,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEOrderKnight5SwordEbony",
-    "custom": "",
+    "custom": "Бездакорны меч Парадку",
     "en": "Immaculate Order Sword",
     "ru": "Безупречный меч Порядка",
     "bel": "Бездакорны меч Парадку",
@@ -108424,7 +108424,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEOrderKnight6SwordDaedric",
-    "custom": "",
+    "custom": "Дасканалы меч Парадку",
     "en": "Perfect Order Sword",
     "ru": "Совершенный меч Порядка",
     "bel": "Дасканалы меч Парадку",
@@ -108433,7 +108433,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEOrderKnightArmor1Iron",
-    "custom": "",
+    "custom": "Даспехі рыцара Парадку",
     "en": "Knight of Order Armor",
     "ru": "Доспехи рыцаря Порядка",
     "bel": "Даспехі рыцара Парадку",
@@ -108442,7 +108442,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEOrderKnightArmor2Steel",
-    "custom": "",
+    "custom": "Даспехі рыцара Парадку",
     "en": "Knight of Order Armor",
     "ru": "Доспехи рыцаря Порядка",
     "bel": "Даспехі рыцара Парадку",
@@ -108451,7 +108451,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEOrderKnightArmor3Dwarven",
-    "custom": "",
+    "custom": "Даспехі рыцара Парадку",
     "en": "Knight of Order Armor",
     "ru": "Доспехи рыцаря Порядка",
     "bel": "Даспехі рыцара Парадку",
@@ -108460,7 +108460,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEOrderKnightArmor4Orcish",
-    "custom": "",
+    "custom": "Даспехі рыцара Парадку",
     "en": "Knight of Order Armor",
     "ru": "Доспехи рыцаря Порядка",
     "bel": "Даспехі рыцара Парадку",
@@ -108469,7 +108469,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEOrderKnightArmor5Ebony",
-    "custom": "",
+    "custom": "Даспехі рыцара Парадку",
     "en": "Knight of Order Armor",
     "ru": "Доспехи рыцаря Порядка",
     "bel": "Даспехі рыцара Парадку",
@@ -108478,7 +108478,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEOrderKnightArmor6Daedric",
-    "custom": "",
+    "custom": "Даспехі рыцара Парадку",
     "en": "Knight of Order Armor",
     "ru": "Доспехи рыцаря Порядка",
     "bel": "Даспехі рыцара Парадку",
@@ -108487,7 +108487,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEOrderKnightArmorTest",
-    "custom": "",
+    "custom": "Даспехі рыцара Парадку",
     "en": "Knight of Order Armor",
     "ru": "Доспехи рыцаря Порядка",
     "bel": "Даспехі рыцара Парадку",
@@ -108496,7 +108496,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEOrderKnightRespawnFaction",
-    "custom": "",
+    "custom": "Рыцары, здольныя да адраджэння, належаць да гэтай фракцыі",
     "en": "Respawnable knights have this faction",
     "ru": "Рыцари, способные к возрождению, принадлежат к этой фракции.",
     "bel": "Рыцары, здольныя да адраджэння, належаць да гэтай фракцыі.",
@@ -108568,7 +108568,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEOrderPriestFactionA",
-    "custom": "",
+    "custom": "Фракцыя для святароў А",
     "en": "Faction for A priests",
     "ru": "Фракция для A priests",
     "bel": "Фракцыя для A priests",
@@ -108577,7 +108577,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEOrderPriestHood",
-    "custom": "",
+    "custom": "Капюшон жраца Парадку",
     "en": "Order Priest's Hood",
     "ru": "Капюшон жреца Порядка",
     "bel": "Капюшон жраца Парадку",
@@ -108586,7 +108586,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEOrderPriestRobe",
-    "custom": "",
+    "custom": "Роба жраца Парадку",
     "en": "Order Priest's Robe",
     "ru": "Роба жреца Порядка",
     "bel": "Роба жраца Парадку",
@@ -108595,7 +108595,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEOrderPriestWidget",
-    "custom": "",
+    "custom": "Віджэт SE Order (негульнявы)",
     "en": "SE Order Widget (unplayable)",
     "ru": "Виджет SE Order (неиграбельный)",
     "bel": "Віджэт SE Order (негульнявы)",
@@ -108604,7 +108604,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEOrderedChest",
-    "custom": "",
+    "custom": "Крыштальны куфар",
     "en": "Crystal Chest",
     "ru": "Хрустальный сундук",
     "bel": "Крыштальны куфар",
@@ -108613,7 +108613,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEOrinthal",
-    "custom": "",
+    "custom": "Орынтал",
     "en": "Orinthal",
     "ru": "Оринтал",
     "bel": "Орынтал",
@@ -108622,7 +108622,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEOrinthalKey",
-    "custom": "",
+    "custom": "Ключ Орынтал",
     "en": "Orinthal's Key",
     "ru": "Ключ Оринтала",
     "bel": "Ключ Орынтал",
@@ -108631,7 +108631,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEPadEi",
-    "custom": "",
+    "custom": "Пэд-Эй",
     "en": "Pad-Ei",
     "ru": "Пэд-Эй",
     "bel": "Пэд-Эй",
@@ -108640,7 +108640,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEPalaceFont",
-    "custom": "",
+    "custom": "Купель Вар'яцтва",
     "en": "Font of Madness",
     "ru": "Купель Безумия",
     "bel": "Купель шаленства",
@@ -108649,7 +108649,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEPasswallJayredsTent",
-    "custom": "",
+    "custom": "Дом Джэйрыда",
     "en": "Jayred's House",
     "ru": "Дом Джейрида",
     "bel": "Дом Джэйрыда",
@@ -108658,7 +108658,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEPasswallNanettesHouse",
-    "custom": "",
+    "custom": "Дом Нанетты Дон",
     "en": "Nanette Don's House",
     "ru": "Дом Нанетты Дон",
     "bel": "Дом Нанетты Дон",
@@ -108667,7 +108667,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEPasswallNanettesHouseFaction",
-    "custom": "",
+    "custom": "Уладанне для SEPasswallNanettesHouse",
     "en": "ownership for SEPasswallNanettesHouse",
     "ru": "владение для SEPasswallNanettesHouse",
     "bel": "Уладанне для SEPasswallNanettesHouse",
@@ -108676,7 +108676,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEPasswallTheWastrelsPurse",
-    "custom": "",
+    "custom": "\"Кашалёк гулякі\"",
     "en": "The Wastrel's Purse",
     "ru": "\"Кошель гуляки\"",
     "bel": "\"Кашалёк гулякі\"",
@@ -108685,7 +108685,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEPayGoldforCrime",
-    "custom": "",
+    "custom": "Заплаціць штраф",
     "en": "Pay reparations",
     "ru": "Заплатить штраф",
     "bel": "Заплаціць штраф",
@@ -108694,7 +108694,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEPinnacleRockGuard",
-    "custom": "",
+    "custom": "Цёмны спакуснік - вартаўнік",
     "en": "Dark Seducer Guard",
     "ru": "Темный соблазнитель - страж",
     "bel": "Цёмны спакуснік - вартаўнік",
@@ -108703,7 +108703,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEPinnacleRockTopic",
-    "custom": "",
+    "custom": "Вяршыня Скалы",
     "en": "Pinnacle Rock",
     "ru": "Остроконечный утес",
     "bel": "Востраканцовая скала",
@@ -108712,7 +108712,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEPodGlow01",
-    "custom": "",
+    "custom": "Вогненны грыб",
     "en": "Flame Stalk",
     "ru": "Огненный гриб",
     "bel": "Вогненны грыб",
@@ -108721,7 +108721,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEPodGlow02",
-    "custom": "",
+    "custom": "Вогненны грыб",
     "en": "Flame Stalk",
     "ru": "Огненный гриб",
     "bel": "Вогненны грыб",
@@ -108730,7 +108730,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEPoddim01",
-    "custom": "",
+    "custom": "Крычалка",
     "en": "Screaming Maw",
     "ru": "Кричалка",
     "bel": "Крычалка",
@@ -108739,7 +108739,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEPoddim02",
-    "custom": "",
+    "custom": "Крычалка",
     "en": "Screaming Maw",
     "ru": "Кричалка",
     "bel": "Крычалка",
@@ -108748,7 +108748,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEPodwet01",
-    "custom": "",
+    "custom": "Вока вартавога",
     "en": "Watcher's Eye",
     "ru": "Глаз дозорного",
     "bel": "Вока вартавога",
@@ -108757,7 +108757,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEPodwet02",
-    "custom": "",
+    "custom": "Вока вартавога",
     "en": "Watcher's eye",
     "ru": "Глаз дозорного",
     "bel": "Вока вартавога",
@@ -108766,7 +108766,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEPriestBoundDagger",
-    "custom": "",
+    "custom": "Прызваны кінжал",
     "en": "Bound Dagger",
     "ru": "Призванный кинжал",
     "bel": "Прызваны кінжал",
@@ -108775,7 +108775,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEPriestDagger",
-    "custom": "",
+    "custom": "Прызваны кінжал",
     "en": "Bound Dagger",
     "ru": "Призванный кинжал",
     "bel": "Прызваны кінжал",
@@ -108784,7 +108784,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEPrisonChest",
-    "custom": "",
+    "custom": "Абвадраны куфар",
     "en": "Battered Chest",
     "ru": "Ветхий сундук",
     "bel": "Абвадраны куфар",
@@ -108793,7 +108793,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEPrisonSaintFemaleBoss",
-    "custom": "",
+    "custom": "Залаты святы - турэмшчык",
     "en": "Golden Saint Turnkey",
     "ru": "Золотой святой - тюремщик",
     "bel": "Залаты святы - турэмшчык",
@@ -108802,7 +108802,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEPrisonSeducerFemaleBoss",
-    "custom": "",
+    "custom": "Цёмны спакуснік - турэмшчык",
     "en": "Dark Seducer Turnkey",
     "ru": "Темный соблазнитель - тюремщик",
     "bel": "Цёмны спакуснік - турэмшчык",
@@ -108811,7 +108811,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEPwGrummiteHeal",
-    "custom": "",
+    "custom": "Хваля бітвы",
     "en": "Battle Surge",
     "ru": "Волна битвы",
     "bel": "Хваля бітвы",
@@ -108820,7 +108820,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEPwSummonDarkSeducer",
-    "custom": "",
+    "custom": "Выклік цёмнага спакусніка",
     "en": "Summon Dark Seducer",
     "ru": "Вызов темного соблазнителя",
     "bel": "Выклік цёмнага спакусніка",
@@ -108829,7 +108829,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEPwSummonFleshAtronach",
-    "custom": "",
+    "custom": "Выклік атронаха з плоці",
     "en": "Summon Flesh Atronach",
     "ru": "Вызов атронаха из плоти",
     "bel": "Выклік атронаха з плоці",
@@ -108838,7 +108838,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEPwWabbaSummon",
-    "custom": "",
+    "custom": "Выклік Ваббы",
     "en": "Wabba Summon",
     "ru": "Вызов Вабба",
     "bel": "Выклік Ваббы",
@@ -108847,7 +108847,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEPykeZoeMaleneResponses",
-    "custom": "",
+    "custom": "Адказы SEPykeZoeMalene",
     "en": "SEPykeZoeMaleneResponses",
     "ru": "Ответы SEPykeZoeMalene",
     "bel": "Адказы SEPykeZoeMalene",
@@ -108856,7 +108856,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SERanarrJo",
-    "custom": "",
+    "custom": "Рэйнар-Джо",
     "en": "Ranarr-Jo",
     "ru": "Рейнар-Джо",
     "bel": "Рэйнар-Джо",
@@ -108865,7 +108865,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SERavenBiter",
-    "custom": "",
+    "custom": "Лавец Крумкачоў",
     "en": "Raven Biter",
     "ru": "Ловец Ворон",
     "bel": "Лавец Крумкачоў",
@@ -108874,7 +108874,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SERavenBiterFaction",
-    "custom": "",
+    "custom": "Сямейства, якое грызе крумкачоў",
     "en": "Raven-biter household",
     "ru": "Семейство, грызущее ворон.",
     "bel": "Сямейства, якое грызе крумкачоў.",
@@ -108883,7 +108883,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SERelan",
-    "custom": "",
+    "custom": "Рылан",
     "en": "Relan",
     "ru": "Рилан",
     "bel": "Рылан",
@@ -108892,7 +108892,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SERelanKey",
-    "custom": "",
+    "custom": "Ключ Рылана",
     "en": "Relan's Key",
     "ru": "Ключ Рилана",
     "bel": "Ключ Рылана",
@@ -108901,7 +108901,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SERelmynaExperimentSpell",
-    "custom": "",
+    "custom": "Узвышаны Боль",
     "en": "Exalted Pain",
     "ru": "Сильная боль",
     "bel": "Моцны боль",
@@ -108910,7 +108910,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SERelmynaResurrectSpell",
-    "custom": "",
+    "custom": "Уваскрашэнне суб'екта выпрабаванняў",
     "en": "Resurrect Test Subject",
     "ru": "Воскрешение субъекта испытаний",
     "bel": "Уваскрашэнне суб'екта выпрабаванняў",
@@ -108919,7 +108919,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SERelmynaSactumBackdoorFaction",
-    "custom": "",
+    "custom": "Фракцыя, якая дазваляе Relmyna і Nanette Don выкарыстоўваць чорны ход у Xaselm04",
     "en": "Faction to let Relmyna and Nanette Don use the back door to Xaselm04",
     "ru": "Фракция, позволяющая Relmyna и Nanette Don использовать чёрный ход в Xaselm04.",
     "bel": "Фракцыя, якая дазваляе Relmyna і Nanette Don выкарыстоўваць чорны ход у Xaselm04.",
@@ -108928,7 +108928,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SERelmynaSanctumFaction",
-    "custom": "",
+    "custom": "Трэба, каб прайсці праз дзверы ў Xaselm04",
     "en": "needed to get through door into Xaselm04",
     "ru": "Нужно, чтобы пройти через дверь в Xaselm04.",
     "bel": "Трэба, каб прайсці праз дзверы ў Xaselm04.",
@@ -108937,7 +108937,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SERelmynaVerenimKey",
-    "custom": "",
+    "custom": "Ключ ад Цэнтра і Садоў",
     "en": "Key to Sanctum and Gardens",
     "ru": "Ключ от Центра и Садов",
     "bel": "Ключ ад Цэнтра і Садоў",
@@ -108946,7 +108946,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SERendilDrarara",
-    "custom": "",
+    "custom": "Рэндыл Драрара",
     "en": "Rendil Drarara",
     "ru": "Рендил Драрара",
     "bel": "Рэндыл Драрара",
@@ -108955,7 +108955,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SERendilDrararaKey",
-    "custom": "",
+    "custom": "Ключ Рэндыла Драрары",
     "en": "Rendil Drarara's Key",
     "ru": "Ключ Рендила Драрары",
     "bel": "Ключ Рэндыла Драрары",
@@ -108964,7 +108964,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEResistArrest",
-    "custom": "",
+    "custom": "Змагацца з вартай",
     "en": "Fight guards",
     "ru": "Сразиться со стражей",
     "bel": "Змагацца з вартай",
@@ -108973,7 +108973,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SERooftopCheer",
-    "custom": "",
+    "custom": "ДахЛікаванне",
     "en": "SERooftopCheer",
     "ru": "КрышаЛикование",
     "bel": "ДахЛікаванне",
@@ -108982,7 +108982,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SERooftopFight",
-    "custom": "",
+    "custom": "Бітва на даху SERooftopFight",
     "en": "SERooftopFight",
     "ru": "Битва на крыше SERooftopFight",
     "bel": "Бітва на даху SERooftopFight",
@@ -108991,7 +108991,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SERooftopRules",
-    "custom": "",
+    "custom": "Песня дуэлянтаў",
     "en": "Liturgy of the Duelists",
     "ru": "Песнь дуэлянтов",
     "bel": "Песня дуэлянтаў",
@@ -109000,7 +109000,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SERootWisp01",
-    "custom": "",
+    "custom": "Сярэдзіна джгута",
     "en": "Wisp Core",
     "ru": "Сердцевина жгута",
     "bel": "Сярэдзіна джгута",
@@ -109027,7 +109027,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SERottenPatrol01TEMPLATE",
-    "custom": "",
+    "custom": "Узнесены зелот",
     "en": "Ascended Zealot",
     "ru": "Вознесшийся зелот",
     "bel": "Узнесены зелот",
@@ -109108,7 +109108,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SERunsInCircles",
-    "custom": "",
+    "custom": "Бегаючая-Па-Коле",
     "en": "Runs-in-Circles",
     "ru": "Бегающая-Кругами",
     "bel": "Бегаючая-Па-Коле",
@@ -109126,7 +109126,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SERunsInCirclesGreetA",
-    "custom": "",
+    "custom": "Марш адсюль.",
     "en": "Get lost.",
     "ru": "Марш отсюда.",
     "bel": "Марш адсюль.",
@@ -109135,7 +109135,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SERunsInCirclesGreetB",
-    "custom": "",
+    "custom": "Прабач, зараз я не магу дапамагчы табе.",
     "en": "Sorry, I can't help you right now.",
     "ru": "Прости, сейчас не могу тебе помочь.",
     "bel": "Прабач, зараз не магу табе дапамагчы.",
@@ -109144,7 +109144,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SERunsInCirclesGreetG",
-    "custom": "",
+    "custom": "[Даць туфлі]",
     "en": "[Give shoes]",
     "ru": "[Дать туфли]",
     "bel": "[Даць туфлі]",
@@ -109153,7 +109153,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SERunsInCirclesKey",
-    "custom": "",
+    "custom": "Ключ БегаючайПаКоле",
     "en": "Runs In Circles' Key",
     "ru": "Ключ БегающейКругами",
     "bel": "Ключ БегаючайПаКоле",
@@ -109162,7 +109162,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SERunsInCirclesYell",
-    "custom": "",
+    "custom": "Бегае па коле і енчыць",
     "en": "SERunsInCirclesYell",
     "ru": "Бегает кругами и вопит",
     "bel": "Бегае па коле і енчыць",
@@ -109171,7 +109171,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SESacellum",
-    "custom": "",
+    "custom": "Прамовы Sacellum",
     "en": "Sacellum Speeches",
     "ru": "Речи Sacellum",
     "bel": "Прамовы Sacellum",
@@ -109180,7 +109180,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SESacellumGate01",
-    "custom": "",
+    "custom": "Вогненныя вароты",
     "en": "Fire Gate",
     "ru": "Огненные врата",
     "bel": "Вогненныя вароты",
@@ -109189,7 +109189,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEScalonFaction",
-    "custom": "",
+    "custom": "Фракцыя Скелона",
     "en": "Scalon Faction",
     "ru": "Фракция Scalon",
     "bel": "Фракцыя Scalon",
@@ -109198,7 +109198,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEScalonFin",
-    "custom": "",
+    "custom": "Плыўнік скейлона",
     "en": "Scalon Fin",
     "ru": "Плавник скейлона",
     "bel": "Плыўнік скейлона",
@@ -109207,7 +109207,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEServeSentence",
-    "custom": "",
+    "custom": "Ісці з вартаўніком",
     "en": "Go with guard",
     "ru": "Идти со стражем",
     "bel": "Ісці з вартаўніком",
@@ -109216,7 +109216,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEShambleFrostArea",
-    "custom": "",
+    "custom": "Марозны дотык",
     "en": "Frost Touch",
     "ru": "Морозное прикосновение",
     "bel": "Марознае дакрананне",
@@ -109225,7 +109225,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEShambleFrostTouch",
-    "custom": "",
+    "custom": "Марозны дотык",
     "en": "Frost Touch",
     "ru": "Морозное прикосновение",
     "bel": "Марознае дакрананне",
@@ -109234,7 +109234,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEShamblesBomb",
-    "custom": "",
+    "custom": "Выбух гармідару",
     "en": "Shambles Explode",
     "ru": "Взрыв кавардака",
     "bel": "Выбух гармідару",
@@ -109243,7 +109243,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEShamblesBomb2",
-    "custom": "",
+    "custom": "Выбух гармідару",
     "en": "Shambles Explode",
     "ru": "Взрыв кавардака",
     "bel": "Выбух гармідару",
@@ -109252,7 +109252,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEShamblesBomb3",
-    "custom": "",
+    "custom": "Выбух гармідару",
     "en": "Shambles Explode",
     "ru": "Взрыв кавардака",
     "bel": "Выбух гармідару",
@@ -109261,7 +109261,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEShamblesFaction",
-    "custom": "",
+    "custom": "Фракцыя Гармідару",
     "en": "Shambles Faction",
     "ru": "Фракция Беспорядка",
     "bel": "Фракцыя Гармідару",
@@ -109270,7 +109270,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEShamblesSkullClutter",
-    "custom": "",
+    "custom": "Чарап гармідару",
     "en": "Shambles Skull",
     "ru": "Череп кавардака",
     "bel": "Чарап гармідару",
@@ -109279,7 +109279,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SESheerMeedish",
-    "custom": "",
+    "custom": "Багата-Адораная",
     "en": "Sheer Meedish",
     "ru": "Богато-Одаренная",
     "bel": "Багата-Адораная",
@@ -109288,7 +109288,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEShegorathsRegalia",
-    "custom": "",
+    "custom": "Раскошны строй Шэагарата",
     "en": "Shegorath's Regalia",
     "ru": "Роскошный наряд Шеогората",
     "bel": "Раскошны строй Шэагарата",
@@ -109297,7 +109297,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SEShegorathsRegaliaPlain",
-    "custom": "",
+    "custom": "Раскошны строй Шэагарата",
     "en": "Shegorath's Regalia",
     "ru": "Роскошный наряд Шеогората",
     "bel": "Раскошны строй Шэагарата",
@@ -109306,7 +109306,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SESheogorath",
-    "custom": "",
+    "custom": "Шэагорат",
     "en": "Sheogorath",
     "ru": "Шеогорат",
     "bel": "Шэагарат",
@@ -109315,7 +109315,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SESheogorathHitSpell",
-    "custom": "",
+    "custom": "Капрыз Шэагарата",
     "en": "Sheogorath's Whim",
     "ru": "Каприз Шеогората",
     "bel": "Капрыз Шэагарата",
@@ -109324,7 +109324,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SESheogorathHitTalk",
-    "custom": "",
+    "custom": "Фраза SESheogorathHitTalk",
     "en": "SESheogorathHitTalk",
     "ru": "Фраза SESheogorathHitTalk",
     "bel": "Фраза SESheogorathHitTalk",
@@ -109333,7 +109333,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SESheogorathPalaceFaction",
-    "custom": "",
+    "custom": "Фракцыя для ўсіх NPC у палацы Шэагората",
     "en": "Faction for all NPCs in Sheogorath's palace",
     "ru": "Фракция для всех NPC во дворце Шеогората.",
     "bel": "Фракцыя для ўсіх NPC у палацы Шэагарата.",
@@ -109342,7 +109342,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SESheogorathTopic",
-    "custom": "",
+    "custom": "Шэагорат",
     "en": "Sheogorath",
     "ru": "Шеогорат",
     "bel": "Шэагарат",
@@ -109351,7 +109351,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SESicklyBernice",
-    "custom": "",
+    "custom": "Хворая Берніс",
     "en": "Sickly Bernice",
     "ru": "Больная Бернис",
     "bel": "Хворая Берніс",
@@ -109360,7 +109360,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SESkeletalHoundTooth",
-    "custom": "",
+    "custom": "Зуб ганчака",
     "en": "Hound Tooth",
     "ru": "Зуб гончей",
     "bel": "Зуб ганчака",
@@ -109369,7 +109369,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SESmokedBaliwogLeg",
-    "custom": "",
+    "custom": "Вэнджаная нага балівога",
     "en": "Smoked Baliwog Leg",
     "ru": "Копченая нога баливога",
     "bel": "Вэнджаная нага балівога",
@@ -109378,7 +109378,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SESontaire",
-    "custom": "",
+    "custom": "Сонтайр",
     "en": "Sontaire",
     "ru": "Сонтайр",
     "bel": "Сонтайр",
@@ -109387,7 +109387,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SESontaireKey",
-    "custom": "",
+    "custom": "Ключ Сонтайр",
     "en": "Sontaire's Key",
     "ru": "Ключ Сонтайр",
     "bel": "Ключ Сонтайр",
@@ -109396,7 +109396,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SESplitDementia",
-    "custom": "",
+    "custom": "Спліт",
     "en": "Split Dementia",
     "ru": "Сплит",
     "bel": "Спліт",
@@ -109405,7 +109405,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SESplitDementiaHorkvirBearArmsHouse",
-    "custom": "",
+    "custom": "Дом Хорквіра Мядзведжая Лапа",
     "en": "Horkvir Bear-Arm's House",
     "ru": "Дом Хорквира Медвежья Лапа",
     "bel": "Дом Хорквіра Мядзведжая Лапа",
