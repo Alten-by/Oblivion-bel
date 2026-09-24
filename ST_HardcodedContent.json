@@ -153,7 +153,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sDerivedAttributeDescMagicka",
-    "custom": "",
+    "custom": "Апісанне Магіі",
     "en": "Magicka Description",
     "ru": "Описание Магии",
     "bel": "Апісанне Магіі",
@@ -161,7 +161,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sDerivedAttributeNameEncumbrance",
-    "custom": "",
+    "custom": "Перагрузка",
     "en": "Encumbrance",
     "ru": "Переносимый вес",
     "bel": "Пераносім вага",
@@ -169,7 +169,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sDerivedAttributeNameFatigue",
-    "custom": "",
+    "custom": "Стомленасць",
     "en": "Fatigue",
     "ru": "Усталость",
     "bel": "Стомленасць",
@@ -185,7 +185,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sDerivedAttributeNameMagicka",
-    "custom": "",
+    "custom": "Магія",
     "en": "Magicka",
     "ru": "Магия",
     "bel": "Магія",
@@ -497,7 +497,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillNameRestoration",
-    "custom": "",
+    "custom": "Аднаўленне",
     "en": "Restoration",
     "ru": "Восстановление",
     "bel": "Аднаўленне",
@@ -569,7 +569,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sVirtueNameFame",
-    "custom": "",
+    "custom": "Слава",
     "en": "Fame",
     "ru": "Слава",
     "bel": "Слава",
@@ -625,7 +625,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_EffectItemList_sMagicCostliestEffectSkillOf",
-    "custom": "Навык",
+    "custom": " Навык",
     "en": " Skill of",
     "ru": "Навык",
     "bel": "Навык",
@@ -873,7 +873,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicItem_sMagicCastMultipleBoundEffects",
-    "custom": "",
+    "custom": "У вас ужо ёсць прадмет такога тыпу, які з'яўляецца часткай камплекта.",
     "en": "You already have that kind of Bound Item",
     "ru": "У вас уже есть предмет такого типа, являющийся частью комплекта.",
     "bel": "У вас ужо ёсць прадмет такога тыпу, які з'яўляецца часткай камплекта.",
@@ -897,7 +897,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicItem_sMagicCastSilenced",
-    "custom": "",
+    "custom": "Вы зараз заглушаны",
     "en": "You are currently Silenced",
     "ru": "Вы сейчас находитесь под воздействием эффекта Silenced.",
     "bel": "Вы зараз знаходзіцеся пад уздзеяннем эфекту Silenced.",
@@ -1137,7 +1137,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sAddItemtoInventoryText",
-    "custom": "",
+    "custom": "Выдалена з інвентара гульца.",
     "en": "removed from the player's inventory",
     "ru": "Убрано из инвентаря игрока.",
     "bel": "Выдалена з інвентара гульца.",
@@ -1233,7 +1233,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sAreaText",
-    "custom": "",
+    "custom": "Вобласць",
     "en": "Area",
     "ru": "Область",
     "bel": "Вобласць",
@@ -1329,7 +1329,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sBeardcheeks",
-    "custom": "",
+    "custom": "Барада Шчокі Светлы/Цёмны",
     "en": "Beard Cheeks Light/Dark",
     "ru": "Борода Щёки Светлый/Тёмный",
     "bel": "Барада Шчокі Светлы/Цёмны",
@@ -1337,7 +1337,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sBeardcircle",
-    "custom": "",
+    "custom": "Круг Барады Светлы/Цёмны",
     "en": "Beard Circle Light/Dark",
     "ru": "Круг Бороды Светлый/Тёмный",
     "bel": "Круг Барады Светлы/Цёмны",
@@ -1345,7 +1345,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sBeardflushed",
-    "custom": "",
+    "custom": "Барада Пачырванела/Збялела",
     "en": "Beard Flushed/Pale",
     "ru": "Борода Покраснела/Побледнела",
     "bel": "Барада Пачырванела/Збялела",
@@ -1353,7 +1353,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sBeardgoatee",
-    "custom": "",
+    "custom": "Барада-эспадрыль Светлая/Цёмная",
     "en": "Beard Goatee Light/Dark",
     "ru": "Борода-эспаньолка Светлая/Тёмная",
     "bel": "Барада-эспадрыль Светлая/Цёмная",
@@ -1361,7 +1361,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sBeardlight",
-    "custom": "",
+    "custom": "Барада Светлая/Цёмная",
     "en": "Beard Light/Dark",
     "ru": "Борода Светлая/Тёмная",
     "bel": "Барада Светлая/Цёмная",
@@ -1369,7 +1369,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sBeardmoustache",
-    "custom": "",
+    "custom": "Барада Вусы Светлы/Цёмны",
     "en": "Beard Moustache Light/Dark",
     "ru": "Борода Усы Светлый/Тёмный",
     "bel": "Барада Вусы Светлы/Цёмны",
@@ -1377,7 +1377,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sBladeOneHand",
-    "custom": "",
+    "custom": "Клінок - Аднаручны",
     "en": "Blade - One Hand",
     "ru": "Клинок - Одноручный",
     "bel": "Клінок - Аднаручны",
@@ -1385,7 +1385,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sBladeTwoHand",
-    "custom": "",
+    "custom": "Двуручны клінок",
     "en": "Blade - Two Hand",
     "ru": "Двуручный клинок",
     "bel": "Двуручны клінок",
@@ -1393,7 +1393,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sBlue",
-    "custom": "",
+    "custom": "Сіні",
     "en": "Blue",
     "ru": "Синий",
     "bel": "Сіні",
@@ -1401,7 +1401,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sBluntOneHand",
-    "custom": "",
+    "custom": "Драбільнае - Аднаручнае",
     "en": "Blunt - One Hand",
     "ru": "Дробящее - Одноручное",
     "bel": "Драбільнае - Аднаручнае",
@@ -1409,7 +1409,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sBluntTwoHand",
-    "custom": "",
+    "custom": "Драбільнае - Двуручнае",
     "en": "Blunt - Two Hand",
     "ru": "Дробящее - Двуручное",
     "bel": "Драбільнае - Двуручнае",
@@ -1417,7 +1417,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sBow",
-    "custom": "",
+    "custom": "Лук",
     "en": "Bow",
     "ru": "Лук",
     "bel": "Лук",
@@ -1433,7 +1433,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sBrowRidge",
-    "custom": "",
+    "custom": "Высокі/Нізкі Надбрыўны Грэбень",
     "en": "Brow Ridge High/Low",
     "ru": "Высокий/Низкий Надбровный Гребень",
     "bel": "Высокі/Нізкі Надбрыўны Грэбень",
@@ -1441,7 +1441,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sBrowRidgeInner",
-    "custom": "",
+    "custom": "Надбрыўная Дуга Уверх/Уніз",
     "en": "Brow Ridge Inner Up/Down",
     "ru": "Надбровная Дуга Вверх/Вниз",
     "bel": "Надбрыўная Дуга Уверх/Уніз",
@@ -1449,7 +1449,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sBrowRidgeOuter",
-    "custom": "",
+    "custom": "Надбрыўная Дуга Вонкавая Уверх/Уніз",
     "en": "Brow Ridge Outer Up/Down",
     "ru": "Надбровная Дуга Внешняя Вверх/Вниз",
     "bel": "Надбрыўная Дуга Вонкавая Уверх/Уніз",
@@ -1457,7 +1457,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sButton",
-    "custom": "",
+    "custom": "Кнопка",
     "en": "Button",
     "ru": "Кнопка",
     "bel": "Кнопка",
@@ -1465,7 +1465,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sButtonLocked",
-    "custom": "",
+    "custom": "Гэтую кнопку нельга пераназначыць.",
     "en": "That button cannot be remapped",
     "ru": "Эту кнопку нельзя переназначить.",
     "bel": "Гэтую кнопку нельга пераназначыць.",
@@ -1473,7 +1473,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sBuy",
-    "custom": "",
+    "custom": "Купіць",
     "en": "Buy",
     "ru": "Купить",
     "bel": "Купіць",
@@ -1481,7 +1481,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCanNotEquipAlchemy",
-    "custom": "",
+    "custom": "Падчас бою нельга ствараць зелля!",
     "en": "You cannot create potions during combat!",
     "ru": "Во время боя нельзя создавать зелья!",
     "bel": "Падчас бою нельга ствараць зелля!",
@@ -1489,7 +1489,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCanNotEquipQuestArrows",
-    "custom": "",
+    "custom": "Вы не можаце выпусціць гэтыя стрэлы задання.",
     "en": "You can not fire this quest arrows.",
     "ru": "Вы не можете выпустить эти стрелы задания.",
     "bel": "Вы не можаце выпусціць гэтыя стрэлы задання.",
@@ -1497,7 +1497,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCanNotEquipRepairHammer",
-    "custom": "",
+    "custom": "Вы не можаце рамантаваць прадметы падчас бою!",
     "en": "You cannot repair items during combat!",
     "ru": "Вы не можете ремонтировать предметы во время боя!",
     "bel": "Вы не можаце рамантаваць прадметы падчас бою!",
@@ -1505,7 +1505,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCanNotEquipSoulGem",
-    "custom": "",
+    "custom": "Вы не можаце перазараджаць зачараваныя прадметы падчас бою!",
     "en": "You cannot recharge enchanted items during combat!",
     "ru": "Вы не можете перезаряжать зачарованные предметы во время боя!",
     "bel": "Вы не можаце перазараджаць зачараваныя прадметы падчас бою!",
@@ -1513,7 +1513,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCanNotEquipWornEnchantment",
-    "custom": "",
+    "custom": "Вы не можаце экіпіраваць гэты зачараваны прадмет прама зараз.",
     "en": "You cannot equip this enchanted item right now.",
     "ru": "Вы не можете экипировать этот зачарованный предмет прямо сейчас.",
     "bel": "Вы не можаце экіпіраваць гэты зачараваны прадмет прама зараз.",
@@ -1521,7 +1521,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCanNotReadBood",
-    "custom": "",
+    "custom": "Вы не можаце чытаць кнігу/скрутак падчас бою!",
     "en": "You cannot read a book/scroll during combat!",
     "ru": "Вы не можете читать книгу/свиток во время боя!",
     "bel": "Вы не можаце чытаць кнігу/скрутак падчас бою!",
@@ -1529,7 +1529,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCanNotSummonInWater",
-    "custom": "",
+    "custom": "Нельга прызваць у вадзе.",
     "en": "Can't summon while in water",
     "ru": "Нельзя призвать в воде.",
     "bel": "Нельга прызваць у вадзе.",
@@ -1537,7 +1537,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCanNotTrainAnymore",
-    "custom": "",
+    "custom": "Вы дасягнулі мяжы трэніровак для вашага бягучага ўзроўню.",
     "en": "You have reached your training limit for you current level.",
     "ru": "Вы достигли предела тренировок для вашего текущего уровня.",
     "bel": "Вы дасягнулі мяжы трэніровак для вашага бягучага ўзроўню.",
@@ -1545,7 +1545,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCanNotTrainHigher",
-    "custom": "",
+    "custom": "Гэты чалавек не можа дапамагчы вам трэніравацца вышэй.",
     "en": "This person cannot help you train any higher.",
     "ru": "Этот человек не сможет помочь тебе тренироваться дальше.",
     "bel": "Гэты чалавек не зможа дапамагчы табе трэніравацца далей.",
@@ -1553,7 +1553,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCancel",
-    "custom": "",
+    "custom": "Адмена",
     "en": "Cancel",
     "ru": "Отмена",
     "bel": "Адмена",
@@ -1561,7 +1561,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCantChangeResolution",
-    "custom": "",
+    "custom": "Каб змяніць разрозненне, неабходна закрыць бягучую гульню.",
     "en": "You must close your current game to change resolutions.",
     "ru": "Чтобы изменить разрешение, необходимо закрыть текущую игру.",
     "bel": "Каб змяніць разрозненне, неабходна закрыць бягучую гульню.",
@@ -1569,7 +1569,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCantEquipBrokenItem",
-    "custom": "",
+    "custom": "Зламаныя прадметы нельга экіпіраваць, пакуль яны не будуць адрамантаваны.",
     "en": "Broken items cannot be equipped until they have been repaired.",
     "ru": "Сломанные предметы нельзя экипировать, пока они не будут отремонтированы.",
     "bel": "Зламаныя прадметы нельга экіпіраваць, пакуль яны не будуць адрамантаваны.",
@@ -1577,7 +1577,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCantEquipGeneric",
-    "custom": "",
+    "custom": "Вы не можаце экіпіраваць гэты прадмет.",
     "en": "You cannot equip this item.",
     "ru": "Вы не можете экипировать этот предмет.",
     "bel": "Вы не можаце экіпіраваць гэты прадмет.",
@@ -1585,7 +1585,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCantQuickLoad",
-    "custom": "",
+    "custom": "Вы не можаце хутка загружацца, калі гульня на паўзе.",
     "en": "You can't Quickload while the game is paused.",
     "ru": "Нельзя использовать Quickload, когда игра на паузе.",
     "bel": "Нельга выкарыстоўваць Quickload, калі гульня на паўзе.",
@@ -1593,7 +1593,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCantQuickSave",
-    "custom": "",
+    "custom": "Нельга зрабіць Хуткае захаванне, калі гульня на паўзе.",
     "en": "You can't Quicksave while the game is paused.",
     "ru": "Нельзя сделать Быстрое сохранение, когда игра на паузе.",
     "bel": "Нельга зрабіць Хуткае захаванне, калі гульня на паўзе.",
@@ -1601,7 +1601,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCantRaiseAnyAttributes",
-    "custom": "",
+    "custom": "Дасканаласць не мае патрэбы ў дапрацоўках. Вашы атрыбуты дасягнулі свайго максімуму.",
     "en": "Perfection cannot be improved upon. Your attributes are as high as they can go.",
     "ru": "Совершенство не нуждается в доработках. Ваши атрибуты достигли своего максимума.",
     "bel": "Дасканаласць не мае патрэбы ў дапрацоўках. Вашы атрыбуты дасягнулі свайго максімуму.",
@@ -1609,7 +1609,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCantRemoveWornItem",
-    "custom": "",
+    "custom": "Немагчыма зняць зношаны прадмет.",
     "en": "Unable to remove the worn item.",
     "ru": "Невозможно снять изношенный предмет.",
     "bel": "Немагчыма зняць зношаны прадмет.",
@@ -1617,7 +1617,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCantSaveNow",
-    "custom": "",
+    "custom": "Зараз нельга захавацца.",
     "en": "You cannot save right now.",
     "ru": "Сейчас нельзя сохраниться.",
     "bel": "Зараз нельга захавацца.",
@@ -1625,7 +1625,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCantUnequipGeneric",
-    "custom": "",
+    "custom": "Гэты прадмет нельга зняць.",
     "en": "You cannot unequip this item.",
     "ru": "Этот предмет нельзя снять.",
     "bel": "Гэты прадмет нельга зняць.",
@@ -1633,7 +1633,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCheekblush",
-    "custom": "",
+    "custom": "Лёгкі румянец/чырвоны",
     "en": "Cheek Blush Light/Red",
     "ru": "Лёгкий румянец/красный",
     "bel": "Лёгкі румянец/чырвоны",
@@ -1641,7 +1641,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCheekboneslow",
-    "custom": "",
+    "custom": "Скулы Нізкія/Высокія",
     "en": "Cheekbones Low/High",
     "ru": "Скулы Низкие/Высокие",
     "bel": "Скулы Нізкія/Высокія",
@@ -1649,7 +1649,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCheekbonesshallow",
-    "custom": "",
+    "custom": "Скулы Увагнутыя/Выразныя",
     "en": "Cheekbones Shallow/Pronounced",
     "ru": "Скулы Впалые/Выраженные",
     "bel": "Скулы Увагнутыя/Выразныя",
@@ -1657,7 +1657,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCheekbonesthin",
-    "custom": "",
+    "custom": "Скулы Тонкія/Шырокія",
     "en": "Cheekbones Thin/Wide",
     "ru": "Скулы Тонкие/Широкие",
     "bel": "Скулы Тонкія/Шырокія",
@@ -1665,7 +1665,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCheeks",
-    "custom": "",
+    "custom": "Шчокі",
     "en": "Cheeks",
     "ru": "Щёки",
     "bel": "Шчокі",
@@ -1673,7 +1673,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCheeksconcave",
-    "custom": "",
+    "custom": "Шчокі Увагнутыя/Выпуклыя",
     "en": "Cheeks Concave/Convex",
     "ru": "Щёки Впалые/Выпуклые",
     "bel": "Шчокі Увагнутыя/Выпуклыя",
@@ -1681,7 +1681,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCheeksround",
-    "custom": "",
+    "custom": "Шчокі Круглыя/Увагнутыя",
     "en": "Cheeks Round/Gaunt",
     "ru": "Щёки Круглые/Впалые",
     "bel": "Шчокі Круглыя/Увагнутыя",
@@ -1689,7 +1689,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sChin",
-    "custom": "",
+    "custom": "Падбародак",
     "en": "Chin",
     "ru": "Подбородок",
     "bel": "Падбародак",
@@ -1697,7 +1697,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sChinforward",
-    "custom": "",
+    "custom": "Падбародак Наперад/Назад",
     "en": "Chin Forward/Backward",
     "ru": "Подбородок Вперёд/Назад",
     "bel": "Падбародак Наперад/Назад",
@@ -1705,7 +1705,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sChinpronounced",
-    "custom": "",
+    "custom": "Падбародак: выступае/скошаны",
     "en": "Chin Pronounced/Recessed",
     "ru": "Подбородок: выступающий/скошенный",
     "bel": "Падбародак: выступае/скошаны",
@@ -1713,7 +1713,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sChinretracted",
-    "custom": "",
+    "custom": "Падбародак уцягнуты/выдаецца наперад",
     "en": "Chin Retracted/Jutting",
     "ru": "Подбородок втянут/выдается вперед",
     "bel": "Падбародак уцягнуты/выдаецца наперад",
@@ -1721,7 +1721,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sChinshallow",
-    "custom": "",
+    "custom": "Падбародак дробны/глыбокі",
     "en": "Chin Shallow/Deep",
     "ru": "Подбородок мелкий/глубокий",
     "bel": "Падбародак дробны/глыбокі",
@@ -1729,7 +1729,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sChinsmall",
-    "custom": "",
+    "custom": "Падбародак Маленькі/Вялікі",
     "en": "Chin Small/Large",
     "ru": "Подбородок Маленький/Большой",
     "bel": "Падбародак Маленькі/Вялікі",
@@ -1737,7 +1737,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sChintall",
-    "custom": "",
+    "custom": "Падбародак вышэй/ніжэй",
     "en": "Chin Tall/Short",
     "ru": "Подбородок выше/ниже",
     "bel": "Падбародак вышэй/ніжэй",
@@ -1745,7 +1745,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sChinwide",
-    "custom": "",
+    "custom": "Шырокі/Вузкі падбародак",
     "en": "Chin Wide/Thin",
     "ru": "Широкий/Узкий подбородок",
     "bel": "Шырокі/Вузкі падбародак",
@@ -1753,7 +1753,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sChoose",
-    "custom": "",
+    "custom": "Выберыце",
     "en": "Choose",
     "ru": "Выберите",
     "bel": "Выберыце",
@@ -1761,7 +1761,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sClairvoyanceFail",
-    "custom": "",
+    "custom": "Яснабачанне не змагло знайсці шлях.",
     "en": "Clairvoyance could not find a path",
     "ru": "Ясновидение не смогло найти путь.",
     "bel": "Яснабачанне не змагло знайсці шлях.",
@@ -1769,7 +1769,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sClass",
-    "custom": "",
+    "custom": "Клас",
     "en": "class",
     "ru": "Класс",
     "bel": "Клас",
@@ -1777,7 +1777,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sClassMenuPrompt",
-    "custom": "",
+    "custom": "Увядзіце назву для вашага карыстацкага класа:",
     "en": "Enter a name for your custom class:",
     "ru": "Введите название для вашего пользовательского класса:",
     "bel": "Увядзіце назву для вашага карыстацкага класа:",
@@ -1785,7 +1785,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sClassSpecialization",
-    "custom": "",
+    "custom": "Спецыялізацыя:",
     "en": "Specialization:",
     "ru": "Специализация:",
     "bel": "Спецыялізацыя:",
@@ -1793,7 +1793,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCloseButton",
-    "custom": "",
+    "custom": "Закрыць",
     "en": "Close",
     "ru": "Закрыть",
     "bel": "Закрыць",
@@ -1801,7 +1801,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sColor",
-    "custom": "",
+    "custom": "Колер",
     "en": "Color",
     "ru": "Цвет",
     "bel": "Колер",
@@ -1809,7 +1809,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCombatDescription",
-    "custom": "",
+    "custom": "Патрэбна апісанне гульнявога свету.",
     "en": "Need a gamesetting description.",
     "ru": "Нужно описание игрового мира.",
     "bel": "Патрэбна апісанне гульнявога свету.",
@@ -1817,7 +1817,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCombatName",
-    "custom": "",
+    "custom": "Бой",
     "en": "Combat",
     "ru": "Бой",
     "bel": "Бой",
@@ -1825,7 +1825,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sComplexion",
-    "custom": "",
+    "custom": "Колер твару",
     "en": "Complexion",
     "ru": "Цвет лица",
     "bel": "Колер твару",
@@ -1833,7 +1833,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sConfirmBirthsign1",
-    "custom": "",
+    "custom": "Вы ўпэўнены, што хочаце нарадзіцца пад знакам",
     "en": "Are you sure you want to be born under the sign of",
     "ru": "Вы уверены, что хотите родиться под знаком",
     "bel": "Вы ўпэўнены, што хочаце нарадзіцца пад знакам",
@@ -1841,7 +1841,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sConfirmBuySpell",
-    "custom": "",
+    "custom": "Вы ўпэўнены, што хочаце купіць?",
     "en": "Are you sure you want to buy",
     "ru": "Вы уверены, что хотите купить?",
     "bel": "Вы ўпэўнены, што хочаце купіць?",
@@ -1849,7 +1849,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sConfirmChoice1",
-    "custom": "",
+    "custom": "Вы ўпэўнены, што хочаце быць",
     "en": "Are you sure you want to be a",
     "ru": "Ты уверен, что хочешь быть [become_a]?",
     "bel": "Ты ўпэўнены, што хочаш быць [become_a]?",
@@ -1857,7 +1857,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sConfirmChoice2",
-    "custom": "",
+    "custom": "Вы ўпэўнены, што хочаце быць",
     "en": "Are you sure you want to be an",
     "ru": "Ты уверен, что хочешь быть",
     "bel": "Ты ўпэўнены, што хочаш быць",
@@ -1865,7 +1865,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sConfirmRecharge",
-    "custom": "",
+    "custom": "Каб перазарадзіць гэты прадмет, трэба",
     "en": "Recharge this item for",
     "ru": "Чтобы перезарядить этот предмет, нужно",
     "bel": "Каб перазарадзіць гэты прадмет, трэба",
@@ -1873,7 +1873,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sConfirmRepair",
-    "custom": "",
+    "custom": "Парамантаваць гэты прадмет за",
     "en": "Repair this item for",
     "ru": "Починить этот предмет за",
     "bel": "Парамантаваць гэты прадмет за",
@@ -1881,7 +1881,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sConfirmRepairAll",
-    "custom": "",
+    "custom": "Парамантаваць усе прадметы за",
     "en": "Repair all items for",
     "ru": "Починить все предметы за",
     "bel": "Парамантаваць усе прадметы за",
@@ -1889,7 +1889,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sContinue",
-    "custom": "",
+    "custom": "Працягнуць",
     "en": "Continue",
     "ru": "Продолжить",
     "bel": "Працягнуць",
@@ -1897,7 +1897,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sContinueLastSave",
-    "custom": "",
+    "custom": "Працягнуць з апошняга захавання?",
     "en": "Continue from your last saved game?",
     "ru": "Продолжить с последнего сохранения?",
     "bel": "Працягнуць з апошняга захавання?",
@@ -1905,7 +1905,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sContractedDisease",
-    "custom": "",
+    "custom": "Вы заразіліся.",
     "en": "You have contracted",
     "ru": "Вы заразились.",
     "bel": "Вы заразіліся.",
@@ -1913,7 +1913,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sControlsMenuConfirmReset1",
-    "custom": "",
+    "custom": "Скінуць усё",
     "en": "Reset All",
     "ru": "Сбросить всё",
     "bel": "Скінуць усё",
@@ -1921,7 +1921,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sControlsMenuConfirmReset2",
-    "custom": "",
+    "custom": "супастаўлення іх значэнням па змаўчанні",
     "en": "mappings to their default values",
     "ru": "сопоставления их значениям по умолчанию",
     "bel": "супастаўлення іх значэнням па змаўчанні",
@@ -1929,7 +1929,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sControlsMenuInstructions1",
-    "custom": "",
+    "custom": "Націсніце кнопку",
     "en": "Press the",
     "ru": "Нажмите кнопку",
     "bel": "Націсніце кнопку",
@@ -1937,7 +1937,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sControlsMenuInstructions2",
-    "custom": "",
+    "custom": "кнопка, якую вы хочаце прызначыць гэтаму дзеянню.",
     "en": "button you want mapped to this action.",
     "ru": "кнопка, которую вы хотите назначить этому действию.",
     "bel": "кнопка, якую вы хочаце прызначыць гэтаму дзеянню.",
@@ -1945,7 +1945,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCorruptContentMessage",
-    "custom": "",
+    "custom": "Частка загружанага вамі кантэнту пашкоджана і не можа быць загружана.",
     "en": "Some of your downloaded content is corrupt and could not be loaded.",
     "ru": "Часть загруженного вами контента повреждена и не может быть загружена.",
     "bel": "Частка загружанага вамі кантэнту пашкоджана і не можа быць загружана.",
@@ -1953,7 +1953,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCreate",
-    "custom": "",
+    "custom": "Стварыць",
     "en": "Create",
     "ru": "Создать",
     "bel": "Стварыць",
@@ -1961,7 +1961,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCreaturesDontYield",
-    "custom": "",
+    "custom": "Ствары ніколі не здаюцца!",
     "en": "Creatures never accept a yield!",
     "ru": "Твари никогда не сдаются!",
     "bel": "Ствары ніколі не здаюцца!",
@@ -1969,7 +1969,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCurrentSoul",
-    "custom": "",
+    "custom": "Бягучы ўзровень душы",
     "en": "Current Soul Level",
     "ru": "Текущий уровень души",
     "bel": "Бягучы ўзровень душы",
@@ -1977,7 +1977,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCustomClassDefaultName",
-    "custom": "",
+    "custom": "Шукальнік прыгод",
     "en": "Adventurer",
     "ru": "Искатель приключений",
     "bel": "Шукальнік прыгод",
@@ -1985,7 +1985,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sCustomColor",
-    "custom": "",
+    "custom": "Карыстацкі колер.",
     "en": "Custom color",
     "ru": "Пользовательский цвет.",
     "bel": "Карыстацкі колер.",
@@ -1993,7 +1993,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sDefaultMessage",
-    "custom": "",
+    "custom": "Стандартны тэкст паведамлення",
     "en": "DEFAULT MESSAGE TEXT",
     "ru": "Стандартный текст сообщения",
     "bel": "Стандартны тэкст паведамлення",
@@ -2001,7 +2001,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sDeleteSaveGame",
-    "custom": "",
+    "custom": "Вы ўпэўнены, што хочаце выдаліць гэтую захаваную гульню?",
     "en": "Are you sure you want to delete this save game?",
     "ru": "Вы уверены, что хотите удалить эту сохранённую игру?",
     "bel": "Вы ўпэўнены, што хочаце выдаліць гэтую захаваную гульню?",
@@ -2009,7 +2009,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sDeleteSuccessful",
-    "custom": "",
+    "custom": "Захаваная гульня выдалена.",
     "en": "Save game deleted.",
     "ru": "Сохранённая игра удалена.",
     "bel": "Захаваная гульня выдалена.",
@@ -2017,7 +2017,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sDeviceRemoved",
-    "custom": "",
+    "custom": "Абраная вамі прылада захавання больш недаступная. Вам трэба будзе выбраць новую прыладу пры наступным захаванні. Да гэтага моманту аўтазахаванне адключана.",
     "en": "The save device you selected is no longer available. You will need to select a new device the next time you save. Until then, Autosave is disabled.",
     "ru": "Выбранное вами устройство сохранения больше недоступно. Вам нужно будет выбрать новое устройство при следующем сохранении. До этого момента автосохранение отключено.",
     "bel": "Абраная вамі прылада захавання больш недаступная. Вам трэба будзе выбраць новую прыладу пры наступным захаванні. Да гэтага моманту аўтазахаванне адключана.",
@@ -2025,7 +2025,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sDiscoveredText",
-    "custom": "",
+    "custom": "Вы знайшлі",
     "en": "You have discovered",
     "ru": "Вы обнаружили",
     "bel": "Вы знайшлі",
@@ -2033,7 +2033,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sDone",
-    "custom": "",
+    "custom": "Пацвердзіць.",
     "en": "Confirm",
     "ru": "Подтвердить.",
     "bel": "Пацвердзіць.",
@@ -2041,7 +2041,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sDownloads",
-    "custom": "",
+    "custom": "Загрузкі",
     "en": "Downloads",
     "ru": "Загрузки",
     "bel": "Загрузкі",
@@ -2049,7 +2049,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sDownloadsAvailable",
-    "custom": "",
+    "custom": "Даступны новы кантэнт.",
     "en": "New Content Available",
     "ru": "Доступен новый контент.",
     "bel": "Даступны новы кантэнт.",
@@ -3409,7 +3409,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscApprenticeSkills",
-    "custom": "Навыки вучня",
+    "custom": "Навыкі вучня",
     "en": "Apprentice Skills",
     "ru": "Навыки подмастерья",
     "bel": "Навыкі падмайстра",
