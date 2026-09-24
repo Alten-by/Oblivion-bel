@@ -47440,7 +47440,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredAkatoshOldNag",
-    "custom": "",
+    "custom": "Браняваная старая шкапа",
     "en": "Armored Old Nag",
     "ru": "Бронированная старая кляча",
     "bel": "Браняваная старая шкапа",
@@ -47449,7 +47449,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredAkatoshPaintBruma",
-    "custom": "",
+    "custom": "Браняваны Стракаты Конь",
     "en": "Armored Paint Horse",
     "ru": "Бронированный Пегий Конь",
     "bel": "Браняваны Стракаты Конь",
@@ -47458,7 +47458,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredAkatoshPaintLeyawiin",
-    "custom": "",
+    "custom": "Браняваны пэйнтхорс",
     "en": "Armored Paint Horse",
     "ru": "Бронированный пейнтхорс",
     "bel": "Браняваны пэйнтхорс",
@@ -47467,7 +47467,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredAkatoshPaintWeynon",
-    "custom": "",
+    "custom": "Браняваны конь прыёра Маборэля",
     "en": "Prior Maborel' Horse (Armored)",
     "ru": "Бронированный конь приора Мабореля",
     "bel": "Браняваны конь прыёра Маборэля",
@@ -47476,7 +47476,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredAkatoshShadowmere",
-    "custom": "",
+    "custom": "Ценягрыў (у брані)",
     "en": "Shadowmere (Armored)",
     "ru": "Тенегрив (в броне)",
     "bel": "Ценягрыў (у брані)",
@@ -47485,7 +47485,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredAkatoshWhiteAnvil",
-    "custom": "",
+    "custom": "Браняваны Белы Конь",
     "en": "Armored White Horse",
     "ru": "Бронированный Белый Конь",
     "bel": "Браняваны Белы Конь",
@@ -47494,7 +47494,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredElvenBayBravil",
-    "custom": "",
+    "custom": "Браняваны гняды конь",
     "en": "Armored Bay Horse",
     "ru": "Снаряженная чалая лошадь",
     "bel": "Абсталяваная чалая кабыла",
@@ -47503,7 +47503,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredElvenBaySkingrad",
-    "custom": "",
+    "custom": "Браняваны гняды конь",
     "en": "Armored Bay Horse",
     "ru": "Снаряженная чалая лошадь",
     "bel": "Абсталяваная чалая кабыла",
@@ -47512,7 +47512,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredElvenBlackCheydinhal",
-    "custom": "",
+    "custom": "Браняваны Вараны Конь",
     "en": "Armored Black Horse",
     "ru": "Снаряженная вороная лошадь",
     "bel": "Абсталяваная вараная кабыла",
@@ -47521,7 +47521,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredElvenOldNag",
-    "custom": "",
+    "custom": "Абсталяваная старая шкапа",
     "en": "Armored Old Nag",
     "ru": "Снаряженная старая кляча",
     "bel": "Абсталяваная старая шкапа",
@@ -47530,7 +47530,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredElvenPaintBruma",
-    "custom": "",
+    "custom": "Абсталяваная стракатая кабыла",
     "en": "Armored Paint Horse",
     "ru": "Снаряженная пегая лошадь",
     "bel": "Абсталяваная стракатая кабыла",
@@ -47539,7 +47539,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredElvenPaintLeyawiin",
-    "custom": "",
+    "custom": "Абсталяваная стракатая кабыла",
     "en": "Armored Paint Horse",
     "ru": "Снаряженная пегая лошадь",
     "bel": "Абсталяваная стракатая кабыла",
@@ -47548,7 +47548,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredElvenPaintWeynon",
-    "custom": "",
+    "custom": "Конь прыёра Маборэля (абсталяваны)",
     "en": "Prior Maborel's Horse (Armored)",
     "ru": "Лошадь приора Мабореля (снаряженная)",
     "bel": "Конь прыёра Маборэля (абсталяваны)",
@@ -47557,7 +47557,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredElvenShadowmere",
-    "custom": "",
+    "custom": "Ценявая Грыва (абсталяваная)",
     "en": "Shadowmere (Armored)",
     "ru": "Теневая Грива (снаряженная)",
     "bel": "Ценявая Грыва (абсталяваная)",
@@ -47566,7 +47566,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredElvenWhiteAnvil",
-    "custom": "",
+    "custom": "Абсталяваная белая кабыла",
     "en": "Armored White Horse",
     "ru": "Снаряженная белая лошадь",
     "bel": "Абсталяваная белая кабыла",
@@ -47575,7 +47575,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredElvenlChestnutChorrol",
-    "custom": "",
+    "custom": "Браняваны каштанавы конь",
     "en": "Armored Chestnut Horse",
     "ru": "Снаряженная гнедая лошадь",
     "bel": "Абсталяваная гнядая кабыла",
@@ -47584,7 +47584,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredMehrunesBayBravil",
-    "custom": "",
+    "custom": "Браняваны гняды конь",
     "en": "Armored Bay Horse",
     "ru": "Бронированный гнедой конь",
     "bel": "Браняваны гняды конь",
@@ -47593,7 +47593,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredMehrunesBaySkingrad",
-    "custom": "",
+    "custom": "Браняваны гняды конь",
     "en": "Armored Bay Horse",
     "ru": "Бронированный гнедой конь",
     "bel": "Браняваны гняды конь",
@@ -47602,7 +47602,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredMehrunesBlackCheydinhal",
-    "custom": "",
+    "custom": "Браняваны Вараны Конь",
     "en": "Armored Black Horse",
     "ru": "Бронированный вороной конь",
     "bel": "Браняваны вараны конь",
@@ -47611,7 +47611,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredMehrunesChestnutChorrol",
-    "custom": "",
+    "custom": "Браняваны каштанавы конь",
     "en": "Armored Chestnut Horse",
     "ru": "Бронированный Каштановый Конь",
     "bel": "Браняваны Каштанавы Конь",
@@ -47620,7 +47620,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredMehrunesOldNag",
-    "custom": "",
+    "custom": "Браняваная Старая Шкапа",
     "en": "Armored Old Nag",
     "ru": "Бронированная Старая Кляча",
     "bel": "Браняваная Старая Шкапа",
@@ -47629,7 +47629,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredMehrunesPaintBruma",
-    "custom": "",
+    "custom": "Браняваны пегі конь",
     "en": "Armored Paint Horse",
     "ru": "Бронированный Пинто.",
     "bel": "Браняваны Пінта.",
@@ -47638,7 +47638,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredMehrunesPaintLeyawiin",
-    "custom": "",
+    "custom": "Браняваны пегі конь",
     "en": "Armored Paint Horse",
     "ru": "Бронированный пегий конь",
     "bel": "Браняваны пегі конь",
@@ -47647,7 +47647,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredMehrunesPaintWeynon",
-    "custom": "",
+    "custom": "Браняваны конь Прыёра Маборэля",
     "en": "Prior Maborel' Horse (Armored)",
     "ru": "Бронированный конь Приора Мабореля",
     "bel": "Браняваны конь Прыёра Маборэля",
@@ -47656,7 +47656,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredMehrunesShadowmere",
-    "custom": "",
+    "custom": "Ценягрыў (у Брані)",
     "en": "Shadowmere (Armored)",
     "ru": "Тенегрив (в Броне)",
     "bel": "Ценягрыў (у Брані)",
@@ -47665,7 +47665,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredMehrunesWhiteAnvil",
-    "custom": "",
+    "custom": "Браняваны Белы Конь",
     "en": "Armored White Horse",
     "ru": "Бронированный Белый Конь",
     "bel": "Браняваны Белы Конь",
@@ -47674,7 +47674,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredSteelBayBravil",
-    "custom": "",
+    "custom": "Браняваны гняды конь",
     "en": "Armored Bay Horse",
     "ru": "Снаряженная чалая лошадь",
     "bel": "Абсталяваная чалая кабыла",
@@ -47683,7 +47683,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredSteelBaySkingrad",
-    "custom": "",
+    "custom": "Браняваны гняды конь",
     "en": "Armored Bay Horse",
     "ru": "Снаряженная чалая лошадь",
     "bel": "Абсталяваная чалая кабыла",
@@ -47692,7 +47692,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredSteelBlackCheydinhal",
-    "custom": "",
+    "custom": "Браняваны Вараны Конь",
     "en": "Armored Black Horse",
     "ru": "Снаряженная вороная лошадь",
     "bel": "Абсталяваная вараная кабыла",
@@ -47701,7 +47701,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredSteelChestnutChorrol",
-    "custom": "",
+    "custom": "Браняваны каштанавы конь",
     "en": "Armored Chestnut Horse",
     "ru": "Снаряженная гнедая лошадь",
     "bel": "Абсталяваная гнядая кабыла",
@@ -47710,7 +47710,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredSteelOldNag",
-    "custom": "",
+    "custom": "Абсталяваная старая шкапа",
     "en": "Armored Old Nag",
     "ru": "Снаряженная старая кляча",
     "bel": "Абсталяваная старая шкапа",
@@ -47719,7 +47719,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredSteelPaintBruma",
-    "custom": "",
+    "custom": "Абсталяваная стракатая кабыла",
     "en": "Armored Paint Horse",
     "ru": "Снаряженная пегая лошадь",
     "bel": "Абсталяваная стракатая кабыла",
@@ -47728,7 +47728,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredSteelPaintLeyawiin",
-    "custom": "",
+    "custom": "Абсталяваная стракатая кабыла",
     "en": "Armored Paint Horse",
     "ru": "Снаряженная пегая лошадь",
     "bel": "Абсталяваная стракатая кабыла",
@@ -47737,7 +47737,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredSteelPaintWeynon",
-    "custom": "",
+    "custom": "Конь прыёра Маборэля (абсталяваная)",
     "en": "Prior Maborel's Horse (Armored)",
     "ru": "Лошадь приора Мабореля (снаряженная)",
     "bel": "Конь прыёра Маборэля (абсталяваная)",
@@ -47746,7 +47746,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredSteelShadowmere",
-    "custom": "",
+    "custom": "Ценявая Грыва (абсталяваная)",
     "en": "Shadowmere (Armored)",
     "ru": "Теневая Грива (снаряженная)",
     "bel": "Ценявая Грыва (абсталяваная)",
@@ -47755,7 +47755,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCArmoredSteelWhiteAnvil",
-    "custom": "",
+    "custom": "Абсталяваная белая кабыла",
     "en": "Armored White Horse",
     "ru": "Снаряженная белая лошадь",
     "bel": "Абсталяваная белая кабыла",
@@ -47764,7 +47764,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCBayBravil",
-    "custom": "",
+    "custom": "Мая чалая кабыла",
     "en": "My Bay Horse",
     "ru": "Моя чалая лошадь",
     "bel": "Мая чалая кабыла",
@@ -47773,7 +47773,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCBaySkingrad",
-    "custom": "",
+    "custom": "Мая чалая кабыла",
     "en": "My Bay Horse",
     "ru": "Моя чалая лошадь",
     "bel": "Мая чалая кабыла",
@@ -47782,7 +47782,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCBlackCheydinhal",
-    "custom": "",
+    "custom": "Мая вараная кабыла",
     "en": "My Black Horse",
     "ru": "Моя вороная лошадь",
     "bel": "Мая вараная кабыла",
@@ -47791,7 +47791,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCChestnutChorrol",
-    "custom": "",
+    "custom": "Мая гнядая кабыла",
     "en": "My Chestnut Horse",
     "ru": "Моя гнедая лошадь",
     "bel": "Мая гнядая кабыла",
@@ -47800,7 +47800,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCPaintBruma",
-    "custom": "",
+    "custom": "Мая стракатая кабыла",
     "en": "My Paint Horse",
     "ru": "Моя пегая лошадь",
     "bel": "Мая стракатая кабыла",
@@ -47809,7 +47809,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePCPaintLeyawiin",
-    "custom": "",
+    "custom": "Мой пярэсты конь",
     "en": "My Paint Horse",
     "ru": "Моя пегая лошадь",
     "bel": "Мой пярэсты конь",
@@ -47818,7 +47818,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePaint",
-    "custom": "",
+    "custom": "Стракаты конь",
     "en": "Paint Horse",
     "ru": "Пегая лошадь",
     "bel": "Стракатая кабыла",
@@ -47827,7 +47827,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePaint0StayCurrent",
-    "custom": "",
+    "custom": "Стракаты конь",
     "en": "Paint Horse",
     "ru": "Пегая лошадь",
     "bel": "Стракатая кабыла",
@@ -47836,7 +47836,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorsePaint0StayPut",
-    "custom": "",
+    "custom": "Стракаты конь",
     "en": "Paint Horse",
     "ru": "Пегая лошадь",
     "bel": "Стракатая кабыла",
@@ -47845,7 +47845,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorseTooMuchAnvil",
-    "custom": "",
+    "custom": "4000 залатых? Гэта занадта дорага.",
     "en": "4000 gold? That's too much for me.",
     "ru": "4000 золотых? Это слишком дорого.",
     "bel": "4000 залатых? Гэта занадта дорага.",
@@ -47854,7 +47854,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorseTooMuchBravil",
-    "custom": "",
+    "custom": "1000 залатых? Гэта занадта дорага.",
     "en": "1000 gold? I don't have that much.",
     "ru": "1000 золотых? Это слишком дорого.",
     "bel": "1000 залатых? Гэта занадта дорага.",
@@ -47863,7 +47863,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorseTooMuchBruma",
-    "custom": "",
+    "custom": "500 залатых гэта занадта дорага, шкада.",
     "en": "Even 500 gold it too much. I'm sorry.",
     "ru": "500 золотых это слишком дорого, увы.",
     "bel": "500 залатых гэта занадта дорага, шкада.",
@@ -47872,7 +47872,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorseTooMuchCheydinhal",
-    "custom": "",
+    "custom": "5000 залатых? Гэта занадта дорага.",
     "en": "I can't afford 5000 gold for a horse.",
     "ru": "5000 золотых? Это слишком дорого.",
     "bel": "5000 залатых? Гэта занадта дорага.",
@@ -47881,7 +47881,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorseTooMuchChorrol",
-    "custom": "",
+    "custom": "У мяне зараз няма 2500 залатых.",
     "en": "I don't have 2500 gold right now.",
     "ru": "У меня сейчас нет 2500 золотых.",
     "bel": "У мяне зараз няма 2500 залатых.",
@@ -47890,7 +47890,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorseTooMuchLeyawiin",
-    "custom": "",
+    "custom": "Нават 500 залатых - дорага для мяне.",
     "en": "Even 500 gold is too much for me.",
     "ru": "Даже 500 золотых - дорого для меня.",
     "bel": "Нават 500 залатых - дорага для мяне.",
@@ -47899,7 +47899,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorseTooMuchSkingrad",
-    "custom": "",
+    "custom": "1000 залатых? Гэта занадта дорага.",
     "en": "Did you say 1000 gold? Too much.",
     "ru": "1000 золотых? Это слишком дорого.",
     "bel": "1000 залатых? Гэта занадта дорага.",
@@ -47908,7 +47908,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HorseWhispererStables",
-    "custom": "",
+    "custom": "Стайня заклінальніка коней",
     "en": "Horse Whisperer Stables",
     "ru": "Конюшни Horse Whisperer",
     "bel": "Стайні Horse Whisperer",
@@ -47917,7 +47917,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HoundAttack",
-    "custom": "",
+    "custom": "Напад ганчакоў",
     "en": "Hound Attack",
     "ru": "Нападение гончих",
     "bel": "Напад ганчакоў",
@@ -47926,7 +47926,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HoursBlessing",
-    "custom": "",
+    "custom": "Дабраславенне гадзіны",
     "en": "Hour's Blessing",
     "ru": "Час благословения",
     "bel": "Гадзіна блаславення",
@@ -47935,7 +47935,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseBravil",
-    "custom": "",
+    "custom": "Купля дома ў Бравіле",
     "en": "Buying a house in Bravil",
     "ru": "Покупка дома в Бравиле",
     "bel": "Купля дома ў Бравіле",
@@ -47953,7 +47953,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseBravilDiningAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Сталовая",
     "en": "House Dining Area",
     "ru": "Дом: Столовая",
     "bel": "Дом: Сталовая",
@@ -47962,7 +47962,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseBravilKitchenAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Кухня",
     "en": "House Kitchen Area",
     "ru": "Дом: Кухня",
     "bel": "Дом: Кухня",
@@ -47971,7 +47971,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseBravilPaintingsReceipt",
-    "custom": "",
+    "custom": "Дом: Дэкарыраванне сцен",
     "en": "House Wall Hangings",
     "ru": "Дом: Декорирование стен",
     "bel": "Дом: Дэкарыраванне сцен",
@@ -47980,7 +47980,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseBravilRacksReceipt",
-    "custom": "",
+    "custom": "Дом: Паліцы",
     "en": "House Racks Assortment",
     "ru": "Дом: Полки",
     "bel": "Дом: Паліцы",
@@ -47989,7 +47989,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseBravilReadingAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Бібліятэка",
     "en": "House Reading Area",
     "ru": "Дом: Библиотека",
     "bel": "Дом: Бібліятэка",
@@ -47998,7 +47998,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseBravilStorageAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Каморка",
     "en": "House Storage Area",
     "ru": "Дом: Кладовая",
     "bel": "Дом: Каморка",
@@ -48016,7 +48016,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseBrumaBedroomAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Спальня",
     "en": "House Bedroom Area",
     "ru": "Дом: Спальня",
     "bel": "Дом: Спальня",
@@ -48025,7 +48025,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseBrumaDiningAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Сталовая",
     "en": "House Dining Area",
     "ru": "Дом: Столовая",
     "bel": "Дом: Сталовая",
@@ -48034,7 +48034,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseBrumaKitchenAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Кухня",
     "en": "House Kitchen Area",
     "ru": "Дом: Кухня",
     "bel": "Дом: Кухня",
@@ -48043,7 +48043,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseBrumaSittingAreaL2Receipt",
-    "custom": "",
+    "custom": "Дом: Гасцёўня",
     "en": "House Upper Sitting Area",
     "ru": "Дом: Гостиная",
     "bel": "Дом: Гасцёўня",
@@ -48052,7 +48052,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseBrumaStorageAreaL1Receipt",
-    "custom": "",
+    "custom": "Дом: Каморка на ніжнім паверсе",
     "en": "House Lower Storage Area",
     "ru": "Дом: Кладовая на нижнем этаже",
     "bel": "Дом: Каморка на ніжнім паверсе",
@@ -48061,7 +48061,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseBrumaStorageAreaL2Receipt",
-    "custom": "",
+    "custom": "Дом: Каморка на верхнім паверсе",
     "en": "House Upper Storage Area",
     "ru": "Дом: Кладовая на верхнем этаже",
     "bel": "Дом: Каморка на верхнім паверсе",
@@ -48070,7 +48070,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseBrumaStudyAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Кабінет",
     "en": "House Study Area",
     "ru": "Дом: Кабинет",
     "bel": "Дом: Кабінет",
@@ -48079,7 +48079,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseBrumaWallHangL1Receipt",
-    "custom": "",
+    "custom": "Дом: Дэкор. сцен ніжняга паверха",
     "en": "House Lower Wall Hangings",
     "ru": "Дом: Декор. стен нижнего этажа",
     "bel": "Дом: Дэкор. сцен ніжняга паверха",
@@ -48088,7 +48088,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseBrumaWallHangL2Receipt",
-    "custom": "",
+    "custom": "Дом: Дэкор. сцен верхняга паверха",
     "en": "House Upper Wall Hangings",
     "ru": "Дом: Декор. стен верхнего этажа",
     "bel": "Дом: Дэкор. сцен верхняга паверха",
@@ -48097,7 +48097,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseBuyBravil",
-    "custom": "",
+    "custom": "Думаю, 4000 залатых добры кошт.",
     "en": "I think 4000 gold is a fair price.",
     "ru": "Думаю, 4000 золотых хорошая цена.",
     "bel": "Думаю, 4000 залатых добры кошт.",
@@ -48106,7 +48106,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseBuyBruma",
-    "custom": "",
+    "custom": "Я з радасцю заплачу 10,000 залатых.",
     "en": "I'll gladly pay 10,000 gold for it.",
     "ru": "Я с радостью заплачу 10,000 золотых.",
     "bel": "Я з радасцю заплачу 10,000 залатых.",
@@ -48115,7 +48115,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseBuyCheydinhal",
-    "custom": "",
+    "custom": "Усяго 15,000 залатых? Купляю.",
     "en": "Only 15,000 gold? I'll take it.",
     "ru": "Всего 15,000 золотых? Покупаю.",
     "bel": "Усяго 15,000 залатых? Купляю.",
@@ -48124,7 +48124,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseBuyChorrol",
-    "custom": "",
+    "custom": "20,000 залатых? Дамовіліся!",
     "en": "20,000 gold you say? It's a deal.",
     "ru": "20,000 золотых? Договорились!",
     "bel": "20,000 залатых? Дамовіліся!",
@@ -48133,7 +48133,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseBuyImperialCity",
-    "custom": "",
+    "custom": "У мяне якраз ёсць 2000 залатых.",
     "en": "I just happen to have 2000 gold.",
     "ru": "У меня как раз есть 2000 золотых.",
     "bel": "У мяне якраз ёсць 2000 залатых.",
@@ -48142,7 +48142,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseBuyLeyawiin",
-    "custom": "",
+    "custom": "Патрабуецца 7000 залатых? Дамовіліся.",
     "en": "You're asking 7000 gold? Done.",
     "ru": "Требуется 7000 золотых? Договорились.",
     "bel": "Патрабуецца 7000 залатых? Дамовіліся.",
@@ -48151,7 +48151,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseBuySkingrad",
-    "custom": "",
+    "custom": "Выдатная купля за 25,000 залатых.",
     "en": "It's a great deal at 25,000 gold.",
     "ru": "Отличная покупка за 25,000 золотых.",
     "bel": "Выдатная купля за 25,000 залатых.",
@@ -48160,7 +48160,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseCheydinhal",
-    "custom": "",
+    "custom": "Купля дома ў Чэйдынхоле",
     "en": "Buying a house in Cheydinhal",
     "ru": "Покупка дома в Чейдинхоле",
     "bel": "Купля дома ў Чэйдынхоле",
@@ -48178,7 +48178,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseCheydinhalBedroomAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Спальня",
     "en": "House Bedroom Area",
     "ru": "Дом: Спальня",
     "bel": "Дом: Спальня",
@@ -48187,7 +48187,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseCheydinhalDiningAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Сталовая",
     "en": "House Dining Area",
     "ru": "Дом: Столовая",
     "bel": "Дом: Сталовая",
@@ -48196,7 +48196,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseCheydinhalDressingAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Гардэробная",
     "en": "House Dressing Area",
     "ru": "Дом: Гардеробная",
     "bel": "Дом: Гардэробная",
@@ -48205,7 +48205,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseCheydinhalKitchenAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Кухня",
     "en": "House Kitchen Area",
     "ru": "Дом: Кухня",
     "bel": "Дом: Кухня",
@@ -48214,7 +48214,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseCheydinhalSittingAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Гасцёўня",
     "en": "House Sitting Area",
     "ru": "Дом: Гостиная",
     "bel": "Дом: Гасцёўня",
@@ -48223,7 +48223,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseCheydinhalStorageAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Каморка",
     "en": "House Storage Area",
     "ru": "Дом: Кладовая",
     "bel": "Дом: Каморка",
@@ -48232,7 +48232,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseCheydinhalStudyAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Кабінет",
     "en": "House Study Area",
     "ru": "Дом: Кабинет",
     "bel": "Дом: Кабінет",
@@ -48241,7 +48241,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseCheydinhalUpperHallAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Хол на верхнім паверсе",
     "en": "House Upper Hall Area",
     "ru": "Дом: Холл на верхнем этаже",
     "bel": "Дом: Хол на верхнім паверсе",
@@ -48250,7 +48250,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseCheydinhalWallHangL1Receipt",
-    "custom": "",
+    "custom": "Дом: Дэкор. сцен ніжняга паверха",
     "en": "House Lower Wall Hangings",
     "ru": "Дом: Декор. стен нижнего этажа",
     "bel": "Дом: Дэкор. сцен ніжняга паверха",
@@ -48259,7 +48259,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseCheydinhalWallHangL2Receipt",
-    "custom": "",
+    "custom": "Дом: Дэкор. сцен верхняга паверха",
     "en": "House Upper Wall Hangings",
     "ru": "Дом: Декор. стен верхнего этажа",
     "bel": "Дом: Дэкор. сцен верхняга паверха",
@@ -48268,7 +48268,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseChorrol",
-    "custom": "",
+    "custom": "Купля дома ў Кароле",
     "en": "Buying a house in Chorrol",
     "ru": "Покупка дома в Корроле",
     "bel": "Купля дома ў Кароле",
@@ -48286,7 +48286,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseChorrolBedroomAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Спальня",
     "en": "House Bedroom Area",
     "ru": "Дом: Спальня",
     "bel": "Дом: Спальня",
@@ -48295,7 +48295,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseChorrolDiningAddonsAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Сталовая, дапаўненні",
     "en": "House Dining Upgrade",
     "ru": "Дом: Столовая, дополнения",
     "bel": "Дом: Сталовая, дапаўненні",
@@ -48304,7 +48304,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseChorrolDiningAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Сталовая",
     "en": "House Dining Area",
     "ru": "Дом: Столовая",
     "bel": "Дом: Сталовая",
@@ -48313,7 +48313,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseChorrolKitchenAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Кухня",
     "en": "House Kitchen Area",
     "ru": "Дом: Кухня",
     "bel": "Дом: Кухня",
@@ -48322,7 +48322,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseChorrolServantsQuartersReceipt",
-    "custom": "",
+    "custom": "Дом: Пакоі прыслугі",
     "en": "House Servants Quarters",
     "ru": "Дом: Комнаты прислуги",
     "bel": "Дом: Пакоі прыслугі",
@@ -48331,7 +48331,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseChorrolSittingAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Гасцёўня",
     "en": "House Sitting Area",
     "ru": "Дом: Гостиная",
     "bel": "Дом: Гасцёўня",
@@ -48340,7 +48340,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseChorrolStudyAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Кабінет",
     "en": "House Study Area",
     "ru": "Дом: Кабинет",
     "bel": "Дом: Кабінет",
@@ -48349,7 +48349,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseChorrolSuiteAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Гаспадарчая спальня",
     "en": "House Suite Area",
     "ru": "Дом: Господская спальня",
     "bel": "Дом: Гаспадарчая спальня",
@@ -48358,7 +48358,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseChorrolWallHangL1Receipt",
-    "custom": "",
+    "custom": "Дом: Дэкор. сцен ніжняга паверха",
     "en": "House Lower Wall Hangings",
     "ru": "Дом: Декор. стен нижнего этажа",
     "bel": "Дом: Дэкор. сцен ніжняга паверха",
@@ -48367,7 +48367,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseChorrolWallHangL2Receipt",
-    "custom": "",
+    "custom": "Дом: Дэкор. сцен сярэдняга паверха",
     "en": "House Middle Wall Hangings",
     "ru": "Дом: Декор. стен среднего этажа",
     "bel": "Дом: Дэкор. сцен сярэдняга паверха",
@@ -48376,7 +48376,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseChorrolWallHangL3Receipt",
-    "custom": "",
+    "custom": "Дом: Дэкор. сцен верхняга паверха",
     "en": "House Upper Wall Hangings",
     "ru": "Дом: Декор. стен верхнего этажа",
     "bel": "Дом: Дэкор. сцен верхняга паверха",
@@ -48385,7 +48385,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseDecline",
-    "custom": "",
+    "custom": "Цяпер не час для такіх пакупак.",
     "en": "I don't think I'm ready to buy.",
     "ru": "Сейчас не время для таких покупок.",
     "bel": "Цяпер не час для такіх пакупак.",
@@ -48403,7 +48403,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseICDiningAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Сталовая",
     "en": "House Dining Area",
     "ru": "Дом: Столовая",
     "bel": "Дом: Сталовая",
@@ -48412,7 +48412,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseICFireplaceAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Гасцёўня",
     "en": "House Sitting Area",
     "ru": "Дом: Гостиная",
     "bel": "Дом: Гасцёўня",
@@ -48421,7 +48421,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseICKitchenAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Кухня",
     "en": "House Kitchen Area",
     "ru": "Дом: Кухня",
     "bel": "Дом: Кухня",
@@ -48430,7 +48430,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseICPaintingsReceipt",
-    "custom": "",
+    "custom": "Дом: Дэкарыраванне сцен",
     "en": "House Wall Hangings",
     "ru": "Дом: Декорирование стен",
     "bel": "Дом: Дэкарыраванне сцен",
@@ -48439,7 +48439,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseICStorageAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Каморка",
     "en": "House Storage Area",
     "ru": "Дом: Кладовая",
     "bel": "Дом: Каморка",
@@ -48448,7 +48448,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseImperialCity",
-    "custom": "",
+    "custom": "Купля дома ў Імперскім горадзе",
     "en": "Buy a house in the Imperial City",
     "ru": "Покупка дома в Имперском городе",
     "bel": "Купля дома ў Імперскім горадзе",
@@ -48457,7 +48457,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseLeyawiin",
-    "custom": "",
+    "custom": "Купля дома ў Лейавіне",
     "en": "Buying a house in Leyawiin",
     "ru": "Покупка дома в Лейавине",
     "bel": "Купля дома ў Лейавіне",
@@ -48475,7 +48475,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseLeyawiinBedroomAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Спальня",
     "en": "House Bedroom Area",
     "ru": "Дом: Спальня",
     "bel": "Дом: Спальня",
@@ -48484,7 +48484,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseLeyawiinDiningAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Сталовая",
     "en": "House Dining Area",
     "ru": "Дом: Столовая",
     "bel": "Дом: Сталовая",
@@ -48493,7 +48493,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseLeyawiinKitchenAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Кухня",
     "en": "House Kitchen Area",
     "ru": "Дом: Кухня",
     "bel": "Дом: Кухня",
@@ -48502,7 +48502,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseLeyawiinReadingAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Бібліятэка",
     "en": "House Reading Area",
     "ru": "Дом: Библиотека",
     "bel": "Дом: Бібліятэка",
@@ -48511,7 +48511,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseLeyawiinStorageAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Каморка",
     "en": "House Storage Area",
     "ru": "Дом: Кладовая",
     "bel": "Дом: Каморка",
@@ -48520,7 +48520,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseLeyawiinStudyAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Кабінет",
     "en": "House Study Area",
     "ru": "Дом: Кабинет",
     "bel": "Дом: Кабінет",
@@ -48529,7 +48529,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseLeyawiinWallHangReceipt",
-    "custom": "",
+    "custom": "Дом: Дэкарыраванне сцен",
     "en": "House Wall Hangings",
     "ru": "Дом: Декорирование стен",
     "bel": "Дом: Дэкарыраванне сцен",
@@ -48538,7 +48538,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseServant",
-    "custom": "",
+    "custom": "Памочніца",
     "en": "Helping Hands",
     "ru": "Помощница",
     "bel": "Памочніца",
@@ -48547,7 +48547,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseServantDrink",
-    "custom": "",
+    "custom": "Пітво",
     "en": "Drink",
     "ru": "Питье",
     "bel": "Пітво",
@@ -48556,7 +48556,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseServantEyjaYes",
-    "custom": "",
+    "custom": "Гучыць прывабна. Дамовіліся.",
     "en": "Sounds good, I accept.",
     "ru": "Звучит заманчиво. Договорились.",
     "bel": "Гучыць прывабна. Дамовіліся.",
@@ -48565,7 +48565,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseServantMead",
-    "custom": "",
+    "custom": "Мёд Розеторна",
     "en": "Rosethorn Mead",
     "ru": "Мед Розеторна",
     "bel": "Мёд Розеторна",
@@ -48574,7 +48574,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseServantPie",
-    "custom": "",
+    "custom": "Пастуховы пірог",
     "en": "Shepherd's Pie",
     "ru": "Пирог пастуха",
     "bel": "Пірог пастуха",
@@ -48592,7 +48592,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseSkingradBalconyAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Балкон",
     "en": "House Balcony Area",
     "ru": "Дом: Балкон",
     "bel": "Дом: Балкон",
@@ -48601,7 +48601,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseSkingradBalconyUpgradeReceipt",
-    "custom": "",
+    "custom": "Дом: Балкон, дапаўненні",
     "en": "House Balcony Upgrade",
     "ru": "Дом: Балкон, дополнения",
     "bel": "Дом: Балкон, дапаўненні",
@@ -48610,7 +48610,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseSkingradBedroomAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Спальня",
     "en": "House Bedroom Area",
     "ru": "Дом: Спальня",
     "bel": "Дом: Спальня",
@@ -48619,7 +48619,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseSkingradDenAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Пакой на ніжнім паверсе",
     "en": "House Den Area",
     "ru": "Дом: Комната на нижнем этаже",
     "bel": "Дом: Пакой на ніжнім паверсе",
@@ -48628,7 +48628,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseSkingradDiningAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Сталовая",
     "en": "House Dining Area",
     "ru": "Дом: Столовая",
     "bel": "Дом: Сталовая",
@@ -48637,7 +48637,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseSkingradDisplayCaseUpgradeReceipt",
-    "custom": "",
+    "custom": "Дом: Вітрыны",
     "en": "House Display Case Upgrade",
     "ru": "Дом: Витрины",
     "bel": "Дом: Вітрыны",
@@ -48646,7 +48646,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseSkingradKitchenAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Кухня",
     "en": "House Kitchen Area",
     "ru": "Дом: Кухня",
     "bel": "Дом: Кухня",
@@ -48655,7 +48655,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseSkingradOldNote",
-    "custom": "",
+    "custom": "Даўно забытая запіска",
     "en": "Long Forgotten Note",
     "ru": "Давно забытая записка",
     "bel": "Даўно забытая запіска",
@@ -48664,7 +48664,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseSkingradQuest",
-    "custom": "",
+    "custom": "Схованка Розеторна",
     "en": "The Rosethorn Cache",
     "ru": "Тайник Розеторна",
     "bel": "Схованка Розеторна",
@@ -48673,7 +48673,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseSkingradServantsQuartersReceipt",
-    "custom": "",
+    "custom": "Дом: Пакоі прыслугі",
     "en": "House Servants Quarters",
     "ru": "Дом: Комнаты прислуги",
     "bel": "Дом: Пакоі прыслугі",
@@ -48682,7 +48682,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseSkingradSittingAreaL2Receipt",
-    "custom": "",
+    "custom": "Дом: Гасцёўня на верхнім паверсе",
     "en": "House Upper Sitting Area",
     "ru": "Дом: Гостиная на верхнем этаже",
     "bel": "Дом: Гасцёўня на верхнім паверсе",
@@ -48691,7 +48691,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseSkingradSittingAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Гасцёўня",
     "en": "House Sitting Area",
     "ru": "Дом: Гостиная",
     "bel": "Дом: Гасцёўня",
@@ -48700,7 +48700,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseSkingradStorageAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Каморка",
     "en": "House Storage Area",
     "ru": "Дом: Кладовая",
     "bel": "Дом: Каморка",
@@ -48709,7 +48709,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseSkingradStudyAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Кабінет",
     "en": "House Study Area",
     "ru": "Дом: Кабинет",
     "bel": "Дом: Кабінет",
@@ -48718,7 +48718,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseSkingradUpperHallAreaReceipt",
-    "custom": "",
+    "custom": "Дом: Хол на верхнім паверсе",
     "en": "House Upper Hall Area",
     "ru": "Дом: Холл на верхнем этаже",
     "bel": "Дом: Хол на верхнім паверсе",
@@ -48727,7 +48727,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseSkingradWallHangL1Receipt",
-    "custom": "",
+    "custom": "Дом: Дэкор. сцен ніжняга паверха",
     "en": "House Lower Wall Hangings",
     "ru": "Дом: Декор. стен нижнего этажа",
     "bel": "Дом: Дэкор. сцен ніжняга паверха",
@@ -48736,7 +48736,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseSkingradWallHangL2Receipt",
-    "custom": "",
+    "custom": "Дом: Дэкор. сцен верхняга паверха",
     "en": "House Upper Wall Hangings",
     "ru": "Дом: Декор. стен верхнего этажа",
     "bel": "Дом: Дэкор. сцен верхняга паверха",
@@ -48745,7 +48745,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseTooMuchBruma",
-    "custom": "",
+    "custom": "Шкада, 10,000 залатых - гэта дарагавата.",
     "en": "I can't afford 10,000 gold.",
     "ru": "Увы, 10,000 золотых - это дороговато.",
     "bel": "Шкада, 10,000 залатых - гэта дарагавата.",
@@ -48754,7 +48754,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseTooMuchCheydinhal",
-    "custom": "",
+    "custom": "Баюся, 15,000 залатых - занадта шмат.",
     "en": "I'm afraid 15,000 gold is too much.",
     "ru": "Боюсь, 15,000 золотых - слишком много.",
     "bel": "Баюся, 15,000 залатых - занадта шмат.",
@@ -48763,7 +48763,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseTooMuchChorrol",
-    "custom": "",
+    "custom": "Я... мм, у мяне няма 20,000 залатых.",
     "en": "I...um, don't have 20,000 gold.",
     "ru": "Я... мм, у меня нет 20,000 золотых.",
     "bel": "Я... мм, у мяне няма 20,000 залатых.",
@@ -48772,7 +48772,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseTooMuchImperialCity",
-    "custom": "",
+    "custom": "Гэты дом не варты 2000 залатых.",
     "en": "It's not worth 2000 gold to me.",
     "ru": "Этот дом не стоит 2000 золотых.",
     "bel": "Гэты дом не варты 2000 залатых.",
@@ -48781,7 +48781,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseTooMuchLeyawiin",
-    "custom": "",
+    "custom": "7000 залатых занадта шмат для мяне.",
     "en": "7000 gold is too much for me.",
     "ru": "7000 золотых слишком много для меня.",
     "bel": "7000 залатых занадта шмат для мяне.",
@@ -48790,7 +48790,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HouseTooMuchSkingrad",
-    "custom": "",
+    "custom": "25,000 залатых? Не... Крывапіўцы!",
     "en": "25,000 gold is too rich for my blood.",
     "ru": "25,000 золотых? Нет... Кровопийцы!",
     "bel": "25,000 залатых? Не... Крывапіўцы!",
@@ -48799,7 +48799,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HowlingCave",
-    "custom": "",
+    "custom": "Выючая пячора",
     "en": "Howling Cave",
     "ru": "Воющая пещера",
     "bel": "Выючая пячора",
@@ -48808,7 +48808,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HowlingCave02",
-    "custom": "",
+    "custom": "Выючая пячора - Ніжнія тунэлі",
     "en": "Howling Cave Lower Galleries",
     "ru": "Воющая пещера - Нижние туннели",
     "bel": "Выючая пячора - Ніжнія тунэлі",
@@ -48817,7 +48817,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HowlingCaveTOPIC",
-    "custom": "",
+    "custom": "Выючая пячора",
     "en": "Howling Cave",
     "ru": "Воющая пещера",
     "bel": "Выючая пячора",
@@ -48826,7 +48826,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HrormirsIcestaff",
-    "custom": "",
+    "custom": "Ледзяны кій Хрорміра",
     "en": "Hrormir's Icestaff",
     "ru": "Ледяной посох Хрормира",
     "bel": "Ледзяны кій Хрорміра",
@@ -48835,7 +48835,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HrotandaVale",
-    "custom": "",
+    "custom": "Хротанда Вэйл",
     "en": "Hrotanda Vale",
     "ru": "Хротанда Вейл",
     "bel": "Хротанда Вэйл",
@@ -48844,7 +48844,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HrotandaVale02",
-    "custom": "",
+    "custom": "Хротанда Вэйл - Санктум",
     "en": "Hrotanda Vale Sanctum",
     "ru": "Хротанда Вейл - Санктум",
     "bel": "Хротанда Вэйл - Санктум",
@@ -48853,7 +48853,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HumanFringes",
-    "custom": "",
+    "custom": "Распушчаныя",
     "en": "Loose-Combed",
     "ru": "Распущенные",
     "bel": "Распушчаныя",
@@ -48862,7 +48862,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HumilisNonius",
-    "custom": "",
+    "custom": "Хуміліс Ноніус",
     "en": "Humilis Nonius",
     "ru": "Хумилис Нониус",
     "bel": "Хуміліс Ноніус",
@@ -48871,7 +48871,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Hundolin",
-    "custom": "",
+    "custom": "Хандалін",
     "en": "Hundolin",
     "ru": "Хандолин",
     "bel": "Хандалін",
@@ -48880,7 +48880,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HuntersRun01",
-    "custom": "",
+    "custom": "'Бег паляўнічага'",
     "en": "The Hunter's Run",
     "ru": "'Бег охотника'",
     "bel": "'Бег паляўнічага'",
@@ -48889,7 +48889,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_HuntingTail",
-    "custom": "",
+    "custom": "Шукальнік Хвост",
     "en": "Hunting Tail",
     "ru": "Ищущий Хвост",
     "bel": "Шукальнік Хвост",
@@ -48898,7 +48898,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Huurwen",
-    "custom": "",
+    "custom": "Хурвен",
     "en": "Huurwen",
     "ru": "Хурвен",
     "bel": "Хурвен",
@@ -48916,7 +48916,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICAllNQDQuestionResponses",
-    "custom": "",
+    "custom": "Адказы на пытанні ICAllNQD",
     "en": "ICAllNQDQuestionResponses",
     "ru": "Ответы на вопросы ICAllNQD",
     "bel": "Адказы на пытанні ICAllNQD",
@@ -48925,7 +48925,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICAllNQDResponses",
-    "custom": "",
+    "custom": "Адказы ICAllNQD",
     "en": "ICAllNQDResponses",
     "ru": "Ответы ICAllNQD",
     "bel": "Адказы ICAllNQD",
@@ -48934,7 +48934,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICAnnouncer",
-    "custom": "",
+    "custom": "Галашатай IC",
     "en": "ICAnnouncer",
     "ru": "Глашатай IC",
     "bel": "Галошатай IC",
@@ -49069,7 +49069,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArcaneUGuardDay01",
-    "custom": "",
+    "custom": "Баявы маг Імперскага легіёна",
     "en": "Imperial Legion Battlemage",
     "ru": "Боевой маг Имперского легиона",
     "bel": "Баявы маг Імперскага легіёна",
@@ -49078,7 +49078,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArcaneUGuardDay02",
-    "custom": "",
+    "custom": "Баявы маг Імперскага легіёна",
     "en": "Imperial Legion Battlemage",
     "ru": "Боевой маг Имперского легиона",
     "bel": "Баявы маг Імперскага легіёна",
@@ -49087,7 +49087,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArcaneUGuardNight01",
-    "custom": "",
+    "custom": "Баявы маг Імперскага легіёна",
     "en": "Imperial Legion Battlemage",
     "ru": "Боевой маг Имперского легиона",
     "bel": "Баявы маг Імперскага легіёна",
@@ -49096,7 +49096,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArcaneUGuardNight02",
-    "custom": "",
+    "custom": "Баявы маг Імперскага легіёна",
     "en": "Imperial Legion Battlemage",
     "ru": "Боевой маг Имперского легиона",
     "bel": "Баявы маг Імперскага легіёна",
@@ -49105,7 +49105,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArcaneURoomKey",
-    "custom": "",
+    "custom": "Ключ чараўніка Універсітэта",
     "en": "Arcane Univ. Enchanter's Key",
     "ru": "Ключ волшебника Университета",
     "bel": "Ключ чараўніка Універсітэта",
@@ -49123,7 +49123,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArcaneUniversityAlchemyHeadquartersUpstairs",
-    "custom": "",
+    "custom": "Люстраторыум - Верхні ўзровень",
     "en": "Lustratorium Upper Level",
     "ru": "Лустраториум - Верхний уровень",
     "bel": "Люстраторыум - Верхні ўзровень",
@@ -49132,7 +49132,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArcaneUniversityArchMagesQuarters",
-    "custom": "",
+    "custom": "Пакоі архімага",
     "en": "Arch-Mage's Quarters",
     "ru": "Покои архимага",
     "bel": "Пакоі архімага",
@@ -49141,7 +49141,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArcaneUniversityArchMagesTowerCouncil",
-    "custom": "",
+    "custom": "Вежа архімага - Залы Савета",
     "en": "Arch-Mage's Tower Council Chambers",
     "ru": "Башня архимага - Залы Совета",
     "bel": "Вежа архімага - Залы Савета",
@@ -49150,7 +49150,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArcaneUniversityArchMagesTowerLobby",
-    "custom": "",
+    "custom": "Прыёмная архімага",
     "en": "Arch-Mage's Lobby",
     "ru": "Приемная архимага",
     "bel": "Прыёмная архімага",
@@ -49159,7 +49159,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArcaneUniversityEnchantingCenter",
-    "custom": "",
+    "custom": "Хіраназіум",
     "en": "Chironasium",
     "ru": "Хироназиум",
     "bel": "Хіраназіум",
@@ -49168,7 +49168,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArcaneUniversityEnchantingCenterUpstairs",
-    "custom": "",
+    "custom": "Хіраназіум - Верхні ўзровень",
     "en": "Chironasium Upper Level",
     "ru": "Хироназиум - Верхний уровень",
     "bel": "Хіраназіум - Верхні ўзровень",
@@ -49177,7 +49177,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArcaneUniversityImperialOrrery",
-    "custom": "",
+    "custom": "Імперская абсерваторыя",
     "en": "Imperial Orrery",
     "ru": "Имперская обсерватория",
     "bel": "Імперская абсерваторыя",
@@ -49186,7 +49186,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArcaneUniversityImperialWatchtower",
-    "custom": "",
+    "custom": "Імперская вартавая вежа",
     "en": "Imperial Watchtower",
     "ru": "Имперская сторожевая башня",
     "bel": "Імперская вартавая вежа",
@@ -49195,7 +49195,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArcaneUniversityMageQuarters",
-    "custom": "",
+    "custom": "Пакоі магаў",
     "en": "Mage Quarters",
     "ru": "Комнаты магов",
     "bel": "Пакоі магаў",
@@ -49204,7 +49204,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArcaneUniversityMageQuartersBasement",
-    "custom": "",
+    "custom": "Пакоі магаў - Падвал",
     "en": "Mage Quarters Basement",
     "ru": "Комнаты магов - Подвал",
     "bel": "Пакоі магаў - Падвал",
@@ -49213,7 +49213,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArcaneUniversityMageQuartersUpstairs",
-    "custom": "",
+    "custom": "Пакоі магаў - Верхні ўзровень",
     "en": "Mage Quarters Upper Level",
     "ru": "Комнаты магов - Верхний уровень",
     "bel": "Пакоі магаў - Верхні ўзровень",
@@ -49222,7 +49222,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArcaneUniversityMysticArchivesUpstairs",
-    "custom": "",
+    "custom": "Містычныя архівы - Верхні ўзровень",
     "en": "Mystic Archives Upper Level",
     "ru": "Мистические архивы - Верхний уровень",
     "bel": "Містычныя архівы - Верхні ўзровень",
@@ -49231,7 +49231,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArcaneUniversityPracticeRooms",
-    "custom": "",
+    "custom": "Пакоі практычных заняткаў",
     "en": "Practice Rooms",
     "ru": "Комнаты практических занятий",
     "bel": "Пакоі практычных заняткаў",
@@ -49240,7 +49240,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArcaneUniversityPracticeRoomsUpstairs",
-    "custom": "",
+    "custom": "Пакоі практычных заняткаў - Верхні ўзровень",
     "en": "Practice Rooms Upper Level",
     "ru": "Комнаты практических занятий - Верхний уровень",
     "bel": "Пакоі практычных заняткаў - Верхні ўзровень",
@@ -49249,7 +49249,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArcaneUniversitySpellmakerUpstairs",
-    "custom": "",
+    "custom": "Праксаграфічны цэнтр - Верхні ўзровень",
     "en": "Praxographical Center Upper Level",
     "ru": "Праксографический центр - Верхний уровень",
     "bel": "Праксаграфічны цэнтр - Верхні ўзровень",
@@ -49258,7 +49258,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArenaBear",
-    "custom": "",
+    "custom": "Буры мядзведзь",
     "en": "Brown Bear",
     "ru": "Медведь",
     "bel": "Мядзведзь",
@@ -49267,7 +49267,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArenaBloodworks",
-    "custom": "",
+    "custom": "Арэна - Крывавы зал",
     "en": "Arena Bloodworks",
     "ru": "Арена - Кровавый зал",
     "bel": "Арэна - Крывавы зал",
@@ -49294,7 +49294,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArenaDistrict",
-    "custom": "",
+    "custom": "Імперскі горад, Арэна",
     "en": "Imperial City, Arena District",
     "ru": "Имперский город, Арена",
     "bel": "Імперскі горад, Арэна",
@@ -49303,7 +49303,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArenaGoblinBerserker",
-    "custom": "",
+    "custom": "Гоблін-берсерк",
     "en": "Goblin Berserker",
     "ru": "Гоблин-берсерк",
     "bel": "Гоблін-берсерк",
@@ -49312,7 +49312,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArenaGoblinSkirmisher",
-    "custom": "",
+    "custom": "Гоблін-застрэльшчык",
     "en": "Goblin Skirmisher",
     "ru": "Гоблин-пехотинец",
     "bel": "Гоблін-пяхотнік",
@@ -49321,7 +49321,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArenaLandDreugh",
-    "custom": "",
+    "custom": "Сухапутны дрэуг",
     "en": "Land Dreugh",
     "ru": "Дреуг",
     "bel": "Дрэуг",
@@ -49330,7 +49330,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArenaMinotaurLord",
-    "custom": "",
+    "custom": "Мінатаўр-лорд",
     "en": "Minotaur Lord",
     "ru": "Минотавр-лорд",
     "bel": "Мінатаўр-лорд",
@@ -49339,7 +49339,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArenaMountainLion",
-    "custom": "",
+    "custom": "Пума",
     "en": "Mountain Lion",
     "ru": "Пума",
     "bel": "Пума",
@@ -49429,7 +49429,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICArenaWolfTimber",
-    "custom": "",
+    "custom": "Лясны воўк",
     "en": "Timber Wolf",
     "ru": "Лесной волк",
     "bel": "Лясны воўк",
@@ -49438,7 +49438,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICBeggars",
-    "custom": "",
+    "custom": "Жабракі IC",
     "en": "IC Beggars",
     "ru": "Нищие IC",
     "bel": "Жабракі IC",
@@ -49447,7 +49447,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICChestnutHandyStables",
-    "custom": "",
+    "custom": "Стайня «Руды конь»",
     "en": "Chestnut Handy Stables",
     "ru": "Конюшня \"Гнедые лошади\"",
     "bel": "Стайня \"Гнядыя коні\"",
@@ -49465,7 +49465,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensAdrianDecaniusHouse",
-    "custom": "",
+    "custom": "Дом Адрыяна Дэканія",
     "en": "Adrian Decanius' House",
     "ru": "Дом Адриана Деканиуса",
     "bel": "Дом Адрыяна Дэканіуса",
@@ -49474,7 +49474,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensAdrianDecaniusHouseBasement",
-    "custom": "",
+    "custom": "Падвал Адрыяна Дэканіуса",
     "en": "Adrian Decanius' Basement",
     "ru": "Подвал Адриана Деканиуса",
     "bel": "Падвал Адрыяна Дэканіуса",
@@ -49483,7 +49483,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensAdrianDecaniusHouseUpstairs",
-    "custom": "",
+    "custom": "Асабістыя пакоі Адрыяна Дэканіуса",
     "en": "Adrian Decanius' Private Quarters",
     "ru": "Личные покои Адриана Деканиуса",
     "bel": "Асабістыя пакоі Адрыяна Дэканіуса",
@@ -49492,7 +49492,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensCyroninSintavsHouse",
-    "custom": "",
+    "custom": "Дом Кіроніна Сінтава",
     "en": "Cyronin Sintav's House",
     "ru": "Дом Киронина Синтава",
     "bel": "Дом Кіроніна Сінтава",
@@ -49501,7 +49501,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensCyroninSintavsHouseBasement",
-    "custom": "",
+    "custom": "Падвал Кіроніна Сінтава",
     "en": "Cyronin Sintav's Basement",
     "ru": "Подвал Киронина Синтава",
     "bel": "Падвал Кіроніна Сінтава",
@@ -49510,7 +49510,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensCyroninSintavsHouseUpstairs",
-    "custom": "",
+    "custom": "Асабістыя пакоі Кіроніна Сінтава",
     "en": "Cyronin Sintav's Private Quarters",
     "ru": "Личные покои Киронина Синтава",
     "bel": "Асабістыя пакоі Кіроніна Сінтава",
@@ -49519,7 +49519,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensDistrict",
-    "custom": "",
+    "custom": "Імперскі горад, Эльфійскія сады",
     "en": "Imperial City, Elven Gardens District",
     "ru": "Имперский город, Эльфийские сады",
     "bel": "Імперскі горад, Эльфійскія сады",
@@ -49528,7 +49528,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensDovynArensHouseUpstairs",
-    "custom": "",
+    "custom": "Асабістыя пакоі Довіна Арэна",
     "en": "Dovyn Aren's Private Quarters",
     "ru": "Личные покои Довина Арена",
     "bel": "Асабістыя пакоі Довіна Арэна",
@@ -49537,7 +49537,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensDulgroShugsHouse",
-    "custom": "",
+    "custom": "Дом Дула гро-Шага",
     "en": "Dul gro-Shug's House",
     "ru": "Дом Дула гро-Шага",
     "bel": "Дом Дула гро-Шага",
@@ -49546,7 +49546,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensDulgroShugsHouseBasement",
-    "custom": "",
+    "custom": "Падвал Дула гро-Шага",
     "en": "Dul gro-Shug's Basement",
     "ru": "Подвал Дула гро-Шага",
     "bel": "Падвал Дула гро-Шага",
@@ -49555,7 +49555,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensDulgroShugsHouseUpstairs",
-    "custom": "",
+    "custom": "Асабістыя пакоі Дула гро-Шага",
     "en": "Dul gro-Shug's Private Quarters",
     "ru": "Личные покои Дула гро-Шага",
     "bel": "Асабістыя пакоі Дула гро-Шага",
@@ -49564,7 +49564,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensFathisUlesHouseUpstairs",
-    "custom": "",
+    "custom": "Асабістыя пакоі Фаціса Улеса",
     "en": "Fathis Ules' Private Quarters",
     "ru": "Личные покои Фатиса Улеса",
     "bel": "Асабістыя пакоі Фаціса Улеса",
@@ -49573,7 +49573,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensGuardHouse",
-    "custom": "",
+    "custom": "Будынак варты",
     "en": "Guard House",
     "ru": "Здание стражи",
     "bel": "Будынак варты",
@@ -49582,7 +49582,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensGuardHouseBasement",
-    "custom": "",
+    "custom": "Будынак варты - Падвал",
     "en": "Guard House Basement",
     "ru": "Здание стражи - Подвал",
     "bel": "Будынак варты - Падвал",
@@ -49591,7 +49591,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensGuardHouseUpstairs",
-    "custom": "",
+    "custom": "Будынак варты - Прыватныя пакоі",
     "en": "Guard House Private Quarters",
     "ru": "Здание стражи - Личные покои",
     "bel": "Будынак варты - Прыватныя пакоі",
@@ -49600,7 +49600,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensHorse",
-    "custom": "",
+    "custom": "Эльфійскі конь з садоў",
     "en": "Elven Gardens Horse",
     "ru": "Эльфийский конь из садов.",
     "bel": "Эльфійскі конь з садоў.",
@@ -49609,7 +49609,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensIdaVlinormansHouse",
-    "custom": "",
+    "custom": "Дом Іды Влінормана",
     "en": "Ida Vlinorman's House",
     "ru": "Дом Иды Влинорман",
     "bel": "Дом Іды Влінормана",
@@ -49618,7 +49618,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensIdaVlinormansHouseBasement",
-    "custom": "",
+    "custom": "Падвал Іды Влінормана",
     "en": "Ida Vlinorman's Basement",
     "ru": "Подвал Иды Влинорман",
     "bel": "Падвал Іды Влінормана",
@@ -49627,7 +49627,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensIdaVlinormansHouseUpstairs",
-    "custom": "",
+    "custom": "Прыватныя пакоі Іды Влінормана",
     "en": "Ida Vlinorman's Private Quarters",
     "ru": "Личные покои Иды Влинорман",
     "bel": "Прыватныя пакоі Іды Влінормана",
@@ -49636,7 +49636,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensInielSintavsHouse",
-    "custom": "",
+    "custom": "Дом Ініэла Сінтава",
     "en": "Iniel Sintav's House",
     "ru": "Дом Иниэла Синтава",
     "bel": "Дом Ініэла Сінтава",
@@ -49645,7 +49645,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensInielSintavsHouseBasement",
-    "custom": "",
+    "custom": "Падвал Ініэла Сінтава",
     "en": "Iniel Sintav's Basement",
     "ru": "Подвал Иниэла Синтава",
     "bel": "Падвал Ініэла Сінтава",
@@ -49654,7 +49654,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensInielSintavsHouseUpstairs",
-    "custom": "",
+    "custom": "Прыватныя пакоі Ініэла Сінтава",
     "en": "Iniel Sintav's Private Quarters",
     "ru": "Личные покои Иниэла Синтава",
     "bel": "Прыватныя пакоі Ініэла Сінтава",
@@ -49663,7 +49663,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensJastiaSintavsHouse",
-    "custom": "",
+    "custom": "Дом Джастыі Сінтав",
     "en": "Jastia Sintav's House",
     "ru": "Дом Джастии Синтав",
     "bel": "Дом Джастыі Сінтав",
@@ -49672,7 +49672,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensJastiaSintavsHouseBasement",
-    "custom": "",
+    "custom": "Падвал Джастыі Сінтав",
     "en": "Jastia Sintav's Basement",
     "ru": "Подвал Джастии Синтав",
     "bel": "Падвал Джастыі Сінтав",
@@ -49681,7 +49681,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensJastiaSintavsHouseUpstairs",
-    "custom": "",
+    "custom": "Прыватныя пакоі Джастыі Сінтав",
     "en": "Jastia Sintav's Private Quarters",
     "ru": "Личные покои Джастии Синтав",
     "bel": "Прыватныя пакоі Джастыі Сінтав",
@@ -49690,7 +49690,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensLutherBroadsBasement",
-    "custom": "",
+    "custom": "\"Пансіён Лютэра Брода\" - Падвал",
     "en": "Luther Broad's Boarding House Basement",
     "ru": "\"Пансион Лютера Брода\" - Подвал",
     "bel": "\"Пансіён Лютэра Брода\" - Падвал",
@@ -49699,7 +49699,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensLutherBroadsBoardingHouse",
-    "custom": "",
+    "custom": "Пансіён Лютэра Брода",
     "en": "Luther Broad's Boarding House",
     "ru": "Пансион Лютера Брода",
     "bel": "Пансіён Лютэра Брода",
@@ -49708,7 +49708,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensLutherBroadsRooms",
-    "custom": "",
+    "custom": "\"Пансіён Лютэра Брода\" - Пакоі",
     "en": "Luther Broad's Boarding House Rooms",
     "ru": "\"Пансион Лютера Брода\" - Комнаты",
     "bel": "\"Пансіён Лютэра Брода\" - Пакоі",
@@ -49717,7 +49717,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensTertiusFavoniusHouse",
-    "custom": "",
+    "custom": "Дом Тэртыуса Фавоніуса",
     "en": "Tertius Favonius' House",
     "ru": "Дом Тертиуса Фавониуса",
     "bel": "Дом Тэртыуса Фавоніуса",
@@ -49726,7 +49726,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensTertiusFavoniusHouseBasement",
-    "custom": "",
+    "custom": "Падвал Тэртыуса Фавоніуса",
     "en": "Tertius Favonius' Basement",
     "ru": "Подвал Тертиуса Фавониуса",
     "bel": "Падвал Тэртыуса Фавоніуса",
@@ -49735,7 +49735,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensTertiusFavoniusHouseUpstairs",
-    "custom": "",
+    "custom": "Прыватныя пакоі Тэртыуса Фавоніуса",
     "en": "Tertius Favonius' Private Quarters",
     "ru": "Личные покои Тертиуса Фавониуса",
     "bel": "Прыватныя пакоі Тэртыуса Фавоніуса",
@@ -49744,7 +49744,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensTheKingandQueenTavern",
-    "custom": "",
+    "custom": "Таверна \"Кароль і каралева\"",
     "en": "The King and Queen Tavern",
     "ru": "Таверна \"Король и королева\"",
     "bel": "Таверна \"Кароль і каралева\"",
@@ -49753,7 +49753,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensTheKingandQueenTavernBasement",
-    "custom": "",
+    "custom": "Таверна \"Кароль і каралева\" - Падвал",
     "en": "The King and Queen Tavern Basement",
     "ru": "Таверна \"Король и королева\" - Подвал",
     "bel": "Таверна \"Кароль і каралева\" - Падвал",
@@ -49762,7 +49762,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICElvenGardensTheKingandQueenTavernRooms",
-    "custom": "",
+    "custom": "Таверна \"Кароль і каралева\" - Пакоі",
     "en": "The King and Queen Tavern Rooms",
     "ru": "Таверна \"Король и королева\" - Комнаты",
     "bel": "Таверна \"Кароль і каралева\" - Пакоі",
@@ -49915,7 +49915,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICFaction",
-    "custom": "",
+    "custom": "Грамадзяне IC",
     "en": "IC Citizens",
     "ru": "Граждане IC",
     "bel": "Грамадзяне IC",
@@ -49933,7 +49933,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionHQArmory",
-    "custom": "",
+    "custom": "Арсенал",
     "en": "Armory",
     "ru": "Арсенал",
     "bel": "Арсенал",
@@ -49942,7 +49942,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionHQBarracks",
-    "custom": "",
+    "custom": "Імперскі легіён - Казармы",
     "en": "Imperial Legion Barracks",
     "ru": "Имперский легион - Казармы",
     "bel": "Імперскі легіён - Казармы",
@@ -49951,7 +49951,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionHQBasement",
-    "custom": "",
+    "custom": "Імперскі легіён - Падвал",
     "en": "Imperial Legion Basement",
     "ru": "Имперский легион - Подвал",
     "bel": "Імперскі легіён - Падвал",
@@ -49960,7 +49960,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionHQMessHall",
-    "custom": "",
+    "custom": "Імперскі легіён - Рабочыя памяшканні",
     "en": "Imperial Legion Offices",
     "ru": "Имперский легион - Рабочие помещения",
     "bel": "Імперскі легіён - Рабочыя памяшканні",
@@ -49969,7 +49969,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionHQTheBastionTower",
-    "custom": "",
+    "custom": "Бастыённая вежа",
     "en": "The Bastion Tower",
     "ru": "Бастионная башня",
     "bel": "Бастыённая вежа",
@@ -49978,7 +49978,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionWatchTowerN",
-    "custom": "",
+    "custom": "Паўночная вартаўнічая вежа",
     "en": "North Watch Tower",
     "ru": "Северная сторожевая башня",
     "bel": "Паўночная вартаўнічая вежа",
@@ -49987,7 +49987,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionWatchTowerNCaptainsQuarters",
-    "custom": "",
+    "custom": "Паўночная вартаўн. вежа - Пакоі капітана",
     "en": "North Watch Captain's Quarters",
     "ru": "Северная сторож. башня - Покои капитана",
     "bel": "Паўночная вартаўн. вежа - Пакоі капітана",
@@ -49996,7 +49996,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionWatchTowerNE",
-    "custom": "",
+    "custom": "Паўночна-ўсходняя вартаўнічая вежа",
     "en": "Northeast Watch Tower",
     "ru": "Северо-восточная сторожевая башня",
     "bel": "Паўночна-ўсходняя вартаўнічая вежа",
@@ -50005,7 +50005,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionWatchTowerNECaptainsQuarters",
-    "custom": "",
+    "custom": "ПВ вартаўн. вежа - Пакоі капітана",
     "en": "Northeast Watch Captain's Quarters",
     "ru": "СВ сторож. башня - Покои капитана",
     "bel": "ПВ вартаўн. вежа - Пакоі капітана",
@@ -50014,7 +50014,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionWatchTowerNEGuardQuarters",
-    "custom": "",
+    "custom": "ПВ вартаўнічая вежа - Казармы",
     "en": "Northeast Watch Barracks",
     "ru": "СВ сторожевая башня - Казармы",
     "bel": "ПВ вартаўнічая вежа - Казармы",
@@ -50023,7 +50023,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionWatchTowerNETopGuardQuarters",
-    "custom": "",
+    "custom": "ПВ вартаўнічая вежа - Казармы",
     "en": "Northeast Watch Barracks",
     "ru": "СВ сторожевая башня - Казармы",
     "bel": "ПВ вартаўнічая вежа - Казармы",
@@ -50032,7 +50032,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionWatchTowerNGuardQuarters",
-    "custom": "",
+    "custom": "Паўночная вартаўнічая вежа - Казармы",
     "en": "North Watch Barracks",
     "ru": "Северная сторожевая башня - Казармы",
     "bel": "Паўночная вартаўнічая вежа - Казармы",
@@ -50041,7 +50041,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionWatchTowerNTopGuardQuarters",
-    "custom": "",
+    "custom": "Паўночная вартаўнічая вежа - Казармы",
     "en": "North Watch Barracks",
     "ru": "Северная сторожевая башня - Казармы",
     "bel": "Паўночная вартаўнічая вежа - Казармы",
@@ -50050,7 +50050,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionWatchTowerNW",
-    "custom": "",
+    "custom": "Паўночна-заходняя вартаўнічая вежа",
     "en": "Northwest Watch  Tower",
     "ru": "Северо-западная сторожевая башня",
     "bel": "Паўночна-заходняя вартаўнічая вежа",
@@ -50059,7 +50059,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionWatchTowerNWCaptainsQuarters",
-    "custom": "",
+    "custom": "ПЗ вартаўнічая вежа - Пакоі капітана",
     "en": "Northwest Watch Captain's Quarters",
     "ru": "СЗ сторожевая башня - Покои капитана",
     "bel": "ПЗ вартаўнічая вежа - Пакоі капітана",
@@ -50068,7 +50068,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionWatchTowerNWGuardQuarters",
-    "custom": "",
+    "custom": "ПЗ вартаўнічая вежа - Казармы",
     "en": "Northwest Watch Barracks",
     "ru": "СЗ сторожевая башня - Казармы",
     "bel": "ПЗ вартаўнічая вежа - Казармы",
@@ -50077,7 +50077,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionWatchTowerNWTopGuardQuarters",
-    "custom": "",
+    "custom": "ПЗ вартаўнічая вежа - Казармы",
     "en": "Northwest Watch Barracks",
     "ru": "СЗ сторожевая башня - Казармы",
     "bel": "ПЗ вартаўнічая вежа - Казармы",
@@ -50086,7 +50086,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionWatchTowerS",
-    "custom": "",
+    "custom": "Паўднёвая вартаўнічая вежа",
     "en": "South Watch Tower",
     "ru": "Южная сторожевая башня",
     "bel": "Паўднёвая вартаўнічая вежа",
@@ -50095,7 +50095,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionWatchTowerSCaptainsQuarters",
-    "custom": "",
+    "custom": "Паўднёвая вартаўнічая вежа - Пакоі капітана",
     "en": "South Watch Captain's Quarters",
     "ru": "Южная сторожевая башня - Покои капитана",
     "bel": "Паўднёвая вартаўнічая вежа - Пакоі капітана",
@@ -50104,7 +50104,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionWatchTowerSE",
-    "custom": "",
+    "custom": "Паўднёва-ўсходняя вартаўнічая вежа",
     "en": "Southeast Watch Tower",
     "ru": "Юго-восточная сторожевая башня",
     "bel": "Паўднёва-ўсходняя вартаўнічая вежа",
@@ -50113,7 +50113,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionWatchTowerSECaptainsQuarters",
-    "custom": "",
+    "custom": "ПУ вартаўнічая вежа - Пакоі капітана",
     "en": "Southeast Watch Captain's Quarter",
     "ru": "ЮВ сторожевая башня - Покои капитана",
     "bel": "ПУ вартаўнічая вежа - Пакоі капітана",
@@ -50122,7 +50122,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionWatchTowerSEGuardQuarters",
-    "custom": "",
+    "custom": "ПУ вартаўнічая вежа - Казармы",
     "en": "Southeast Watch Barracks",
     "ru": "ЮВ сторожевая башня - Казармы",
     "bel": "ПУ вартаўнічая вежа - Казармы",
@@ -50131,7 +50131,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionWatchTowerSETopGuardQuarters",
-    "custom": "",
+    "custom": "ПУ вартаўнічая вежа - Казармы",
     "en": "Southeast Watch Barracks",
     "ru": "ЮВ сторожевая башня - Казармы",
     "bel": "ПУ вартаўнічая вежа - Казармы",
@@ -50140,7 +50140,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionWatchTowerSGuardQuarters",
-    "custom": "",
+    "custom": "ПУ вартаўнічая вежа - Казармы",
     "en": "Southeast Watch Barracks",
     "ru": "ЮВ сторожевая башня - Казармы",
     "bel": "ПУ вартаўнічая вежа - Казармы",
@@ -50149,7 +50149,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionWatchTowerSTopGuardQuarters",
-    "custom": "",
+    "custom": "Паўднёвая вартаўнічая вежа - Казармы",
     "en": "South Watch Barracks",
     "ru": "Южная сторожевая башня - Казармы",
     "bel": "Паўднёвая вартаўнічая вежа - Казармы",
@@ -50158,7 +50158,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionWatchTowerSW",
-    "custom": "",
+    "custom": "Паўднёва-заходняя вартаўнічая вежа",
     "en": "Southwest Watch Tower",
     "ru": "Юго-западная сторожевая башня",
     "bel": "Паўднёва-заходняя вартаўнічая вежа",
@@ -50167,7 +50167,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionWatchTowerSWCaptainsQuarters",
-    "custom": "",
+    "custom": "ПЗ вартаўнічая вежа - Пакоі капітана",
     "en": "Southwest Watch Captain's Quarters",
     "ru": "ЮЗ сторожевая башня - Покои капитана",
     "bel": "ПЗ вартаўнічая вежа - Пакоі капітана",
@@ -50176,7 +50176,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionWatchTowerSWGuardQuarters",
-    "custom": "",
+    "custom": "ПЗ вартаўнічая вежа - Казармы",
     "en": "Southwest Watch Barracks",
     "ru": "ЮЗ сторожевая башня - Казармы",
     "bel": "ПЗ вартаўнічая вежа - Казармы",
@@ -50185,7 +50185,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialLegionWatchTowerSWTopGuardQuarters",
-    "custom": "",
+    "custom": "ПЗ вартаўнічая вежа - Казармы",
     "en": "Southwest Watch Barracks",
     "ru": "ЮЗ сторожевая башня - Казармы",
     "bel": "ПЗ вартаўнічая вежа - Казармы",
@@ -50194,7 +50194,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialPalace",
-    "custom": "",
+    "custom": "Імп. горад, Зялёная імператарская сцежка",
     "en": "Imperial City, Green Emperor Way",
     "ru": "Имп. город, Зеленая императорская тропа",
     "bel": "Імп. горад, Зялёная імператарская сцежка",
@@ -50203,7 +50203,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialPalaceMQ16",
-    "custom": "",
+    "custom": "Імп. горад, Зялёная імператарская сцежка",
     "en": "Imperial City, Green Emperor Way",
     "ru": "Имп. город, Зеленая императорская тропа",
     "bel": "Імп. горад, Зялёная імператарская сцежка",
@@ -50212,7 +50212,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICImperialPrisonDistrict",
-    "custom": "",
+    "custom": "Імперскі горад, Турма",
     "en": "Imperial City, Prison District",
     "ru": "Имперский город, Тюрьма",
     "bel": "Імперскі горад, Турма",
@@ -50221,7 +50221,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICLighthouseKey",
-    "custom": "",
+    "custom": "Ключ ад маяка Імп. горада",
     "en": "Imperial City Lighthouse Key",
     "ru": "Ключ от маяка Имп. города",
     "bel": "Ключ ад маяка Імп. горада",
@@ -50248,7 +50248,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictAFightingChance",
-    "custom": "",
+    "custom": "\"Салдацкая ўдача\"",
     "en": "A Fighting Chance",
     "ru": "\"Солдатская удача\"",
     "bel": "\"Салдацкая ўдача\"",
@@ -50257,7 +50257,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictAFightingChanceBasement",
-    "custom": "",
+    "custom": "\"Салдацкая ўдача\" - Падвал",
     "en": "A Fighting Chance Basement",
     "ru": "\"Солдатская удача\" - Подвал",
     "bel": "\"Салдацкая ўдача\" - Падвал",
@@ -50266,7 +50266,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictAFightingChanceUpstairs",
-    "custom": "",
+    "custom": "\"Салдацкая ўдача\" - Прыватныя пакоі",
     "en": "A Fighting Chance Private Quarters",
     "ru": "\"Солдатская удача\" - Личные покои",
     "bel": "\"Салдацкая ўдача\" - Прыватныя пакоі",
@@ -50275,7 +50275,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictBlackHorseCourier",
-    "custom": "",
+    "custom": "\"Крумкачоў кур\\'ер\"",
     "en": "Black Horse Courier",
     "ru": "\"Вороной курьер\"",
     "bel": "\"Крумкачоў кур'ер\"",
@@ -50284,7 +50284,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictBlackHorseCourierBasement",
-    "custom": "",
+    "custom": "\"Крумкачоў кур\\'ер\" - Падвал",
     "en": "Black Horse Courier Basement",
     "ru": "\"Вороной курьер\" - Подвал",
     "bel": "\"Крумкачоў кур'ер\" - Падвал",
@@ -50293,7 +50293,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictBlackHorseCourierUpstairs",
-    "custom": "",
+    "custom": "\"Крумкачоў кур\\'ер\" - Верхнія памяшканні",
     "en": "Black Horse Courier Upstairs Offices",
     "ru": "\"Вороной курьер\" - Верхние помещения",
     "bel": "\"Крумкачоў кур'ер\" - Верхнія памяшканні",
@@ -50302,7 +50302,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictDivineElegance",
-    "custom": "",
+    "custom": "\"Боская элегантнасць\"",
     "en": "Divine Elegance",
     "ru": "\"Божественная элегантность\"",
     "bel": "\"Боская элегантнасць\"",
@@ -50311,7 +50311,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictDivineEleganceBasement",
-    "custom": "",
+    "custom": "\"Боская элегантнасць\" - Падвал",
     "en": "Divine Elegance Basement",
     "ru": "\"Божественная элегантность\" - Подвал",
     "bel": "\"Боская элегантнасць\" - Падвал",
@@ -50320,7 +50320,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictDivineEleganceUpstairs",
-    "custom": "",
+    "custom": "\"Боская элегантнасць\" - Прыватныя пакоі",
     "en": "Divine Elegance Private Quarters",
     "ru": "\"Божественная элегантность\" - Личные покои",
     "bel": "\"Боская элегантнасць\" - Прыватныя пакоі",
@@ -50329,7 +50329,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictEdgarsDiscountSpells",
-    "custom": "",
+    "custom": "Ключ ад заклінанняў Эдгара",
     "en": "Edgar's Discount Spells",
     "ru": "\"Дешевые заклинания Эдгара\"",
     "bel": "\"Танныя заклёны Эдгара\"",
@@ -50347,7 +50347,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictFirstEditionBasement",
-    "custom": "",
+    "custom": "\"Першае выданне\" - Падвал",
     "en": "First Edition Basement",
     "ru": "\"Первое издание\" - Подвал",
     "bel": "\"Першае выданне\" - Падвал",
@@ -50356,7 +50356,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictFirstEditionUpstairs",
-    "custom": "",
+    "custom": "\"Першае выданне\" - Прыватныя пакоі",
     "en": "First Edition Private Quarters",
     "ru": "\"Первое издание\" - Личные покои",
     "bel": "\"Першае выданне\" - Прыватныя пакоі",
@@ -50374,7 +50374,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictJensinesGoodasNewMerchandise",
-    "custom": "",
+    "custom": "\"Амаль новыя\" тавары Джэнсін",
     "en": "Jensine's \"Good as New\" Merchandise",
     "ru": "\"Почти новые\" товары Дженсин",
     "bel": "\"Амаль новыя\" тавары Джэнсін",
@@ -50401,7 +50401,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictMysticEmporiumBasement",
-    "custom": "",
+    "custom": "\"Містычны эмпорыум\" - Падвал",
     "en": "Mystic Emporium Basement",
     "ru": "\"Мистический эмпориум\" - Подвал",
     "bel": "\"Містычны эмпорыум\" - Падвал",
@@ -50410,7 +50410,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictMysticEmporiumUpstairs",
-    "custom": "",
+    "custom": "\"Містычны эмпорыум\" - Прыватныя пакоі",
     "en": "Mystic Emporium Private Quarters",
     "ru": "\"Мистический эмпориум\" - Личные покои",
     "bel": "\"Містычны эмпорыум\" - Прыватныя пакоі",
@@ -50419,7 +50419,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictOfficeBasement",
-    "custom": "",
+    "custom": "Палата імперскага гандлю - Падвал",
     "en": "Office of Imperial Commerce Basement",
     "ru": "Палата имперской торговли - Подвал",
     "bel": "Палата імперскага гандлю - Падвал",
@@ -50428,7 +50428,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictOfficeUpstairs",
-    "custom": "",
+    "custom": "Палата імперскага гандлю - Прыватныя пакоі",
     "en": "Office of Imperial Commerce Private Quarters",
     "ru": "Палата имперской торговли - Личные покои",
     "bel": "Палата імперскага гандлю - Прыватныя пакоі",
@@ -50437,7 +50437,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictOfficeofImperialCommerce",
-    "custom": "",
+    "custom": "Палата імперскага гандлю",
     "en": "Office of Imperial Commerce",
     "ru": "Палата имперской торговли",
     "bel": "Палата імперскага гандлю",
@@ -50446,7 +50446,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictRedDiamondJewelry",
-    "custom": "",
+    "custom": "\"Чырвоны алмаз\"",
     "en": "Red Diamond Jewelry",
     "ru": "\"Красный алмаз\"",
     "bel": "\"Чырвоны алмаз\"",
@@ -50455,7 +50455,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictRedDiamondJewelryBasement",
-    "custom": "",
+    "custom": "\"Чырвоны алмаз\" - Падвал",
     "en": "Red Diamond Jewelry Basement",
     "ru": "\"Красный алмаз\" - Подвал",
     "bel": "\"Чырвоны алмаз\" - Падвал",
@@ -50464,7 +50464,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictRedDiamondJewelryUpstairs",
-    "custom": "",
+    "custom": "\"Чырвоны алмаз\" - Прыватныя пакоі",
     "en": "Red Diamond Jewelry Private Quarters",
     "ru": "\"Красный алмаз\" - Личные покои",
     "bel": "\"Чырвоны алмаз\" - Прыватныя пакоі",
@@ -50473,7 +50473,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictRindirsStaffs",
-    "custom": "",
+    "custom": "\"Кіі Рындзіра\"",
     "en": "Rindir's Staffs",
     "ru": "\"Посохи Риндира\"",
     "bel": "\"Кіі Рындзіра\"",
@@ -50482,7 +50482,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictRindirsStaffsBasement",
-    "custom": "",
+    "custom": "Падвал Рындзіра",
     "en": "Rindir's Basement",
     "ru": "Подвал Риндира",
     "bel": "Падвал Рындзіра",
@@ -50491,7 +50491,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictRindirsStaffsUpstairs",
-    "custom": "",
+    "custom": "Прыватныя пакоі Рындзіра",
     "en": "Rindir's Private Quarters",
     "ru": "Личные покои Риндира",
     "bel": "Прыватныя пакоі Рындзіра",
@@ -50500,7 +50500,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictSlashNSmash",
-    "custom": "",
+    "custom": "\"Бей і крушы\"",
     "en": "Slash 'N Smash",
     "ru": "\"Бей и круши\"",
     "bel": "\"Бей і крушы\"",
@@ -50509,7 +50509,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictSlashNSmashBasement",
-    "custom": "",
+    "custom": "\"Бей і крушы\" - Падвал",
     "en": "Slash 'N Smash Basement",
     "ru": "\"Бей и круши\" - Подвал",
     "bel": "\"Бей і крушы\" - Падвал",
@@ -50518,7 +50518,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictSlashNSmashUpstairs",
-    "custom": "",
+    "custom": "\"Бей і крушы\" - Прыватныя пакоі",
     "en": "Slash 'N Smash Private Quarters",
     "ru": "\"Бей и круши\" - Личные покои",
     "bel": "\"Бей і крушы\" - Прыватныя пакоі",
@@ -50527,7 +50527,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictStonewallShields",
-    "custom": "",
+    "custom": "\"Моцны шчыт\"",
     "en": "Stonewall Shields",
     "ru": "\"Крепкий щит\"",
     "bel": "\"Моцны шчыт\"",
@@ -50536,7 +50536,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictStonewallShieldsBasement",
-    "custom": "",
+    "custom": "\"Моцны шчыт\" - Падвал",
     "en": "Stonewall Shields Basement",
     "ru": "\"Крепкий щит\" - Подвал",
     "bel": "\"Моцны шчыт\" - Падвал",
@@ -50545,7 +50545,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictStonewallShieldsUpstairs",
-    "custom": "",
+    "custom": "\"Моцны шчыт\" - Прыватныя пакоі",
     "en": "Stonewall Shields Private Quarters",
     "ru": "\"Крепкий щит\" - Личные покои",
     "bel": "\"Моцны шчыт\" - Прыватныя пакоі",
@@ -50554,7 +50554,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictTheBestDefense",
-    "custom": "",
+    "custom": "\"Найлепшая абарона\"",
     "en": "The Best Defense",
     "ru": "\"Лучшая защита\"",
     "bel": "\"Найлепшая абарона\"",
@@ -50563,7 +50563,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictTheBestDefenseBasement",
-    "custom": "",
+    "custom": "\"Найлепшая абарона\" - Падвал",
     "en": "The Best Defense Basement",
     "ru": "\"Лучшая защита\" - Подвал",
     "bel": "\"Найлепшая абарона\" - Падвал",
@@ -50572,7 +50572,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictTheBestDefenseUpstairs",
-    "custom": "",
+    "custom": "\"Найлепшая абарона\" - Прыватныя пакоі",
     "en": "The Best Defense Private Quarters",
     "ru": "\"Лучшая защита\" - Личные покои",
     "bel": "\"Найлепшая абарона\" - Прыватныя пакоі",
@@ -50581,7 +50581,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictTheCopiousCoinpurse",
-    "custom": "",
+    "custom": "\"Бядонны кашалёк\"",
     "en": "The Copious Coinpurse",
     "ru": "\"Бездонный кошелек\"",
     "bel": "\"Бядонны кашалёк\"",
@@ -50590,7 +50590,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictTheCopiousCoinpurseBasement",
-    "custom": "",
+    "custom": "\"Бядонны кашалёк\" - Падвал",
     "en": "The Copious Coinpurse Basement",
     "ru": "\"Бездонный кошелек\" - Подвал",
     "bel": "\"Бядонны кашалёк\" - Падвал",
@@ -50599,7 +50599,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictTheCopiousCoinpurseUpstairs",
-    "custom": "",
+    "custom": "\"Бядонны кашалёк\" - Прыватныя пакоі",
     "en": "The Copious Coinpurse Private Quarters",
     "ru": "\"Бездонный кошелек\" - Личные покои",
     "bel": "\"Бядонны кашалёк\" - Прыватныя пакоі",
@@ -50608,7 +50608,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictTheFeedBag",
-    "custom": "",
+    "custom": "\"Кармушка\"",
     "en": "The Feed Bag",
     "ru": "\"Кормушка\"",
     "bel": "\"Кармушка\"",
@@ -50617,7 +50617,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictTheFeedBagBasement",
-    "custom": "",
+    "custom": "\"Кармушка\" - Падвал",
     "en": "The Feed Bag Basement",
     "ru": "\"Кормушка\" - Подвал",
     "bel": "\"Кармушка\" - Падвал",
@@ -50626,7 +50626,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictTheFeedBagUpstairs",
-    "custom": "",
+    "custom": "\"Кармушка\" - Прыватныя пакоі",
     "en": "The Feed Bag Private Quarters",
     "ru": "\"Кормушка\" - Личные покои",
     "bel": "\"Кармушка\" - Прыватныя пакоі",
@@ -50635,7 +50635,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictTheGildedCarafe",
-    "custom": "",
+    "custom": "\"Пазалочаны графін\"",
     "en": "The Gilded Carafe",
     "ru": "\"Позолоченный графин\"",
     "bel": "\"Пазалочаны графін\"",
@@ -50644,7 +50644,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictTheGildedCarafeBasement",
-    "custom": "",
+    "custom": "\"Пазалочаны графін\" - Падвал",
     "en": "The Gilded Carafe Basement",
     "ru": "\"Позолоченный графин\" - Подвал",
     "bel": "\"Пазалочаны графін\" - Падвал",
@@ -50653,7 +50653,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ICMarketDistrictTheGildedCarafeUpstairs",
-    "custom": "",
+    "custom": "\"Пазалочаны графін\" - Прыватныя пакоі",
     "en": "The Gilded Carafe Private Quarters",
     "ru": "\"Позолоченный графин\" - Личные покои",
     "bel": "\"Пазалочаны графін\" - Прыватныя пакоі",
