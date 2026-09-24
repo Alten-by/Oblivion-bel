@@ -26839,7 +26839,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark06Choice2B",
-    "custom": "",
+    "custom": "Тссс. Цішэй. Прыйшоў час спаць.",
     "en": "Ssshh. Hush now. It's time to sleep.",
     "ru": "Тссс. Тише. Пришло время спать.",
     "bel": "Тссс. Цішэй. Прыйшоў час спаць.",
@@ -26857,7 +26857,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark06FinChoice1A",
-    "custom": "",
+    "custom": "Так, вядома, бяруся за справу.",
     "en": "Yes, of course I accept.",
     "ru": "Да, конечно, берусь за дело.",
     "bel": "Так, вядома, бяруся за справу.",
@@ -26866,7 +26866,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark06FinChoice1B",
-    "custom": "",
+    "custom": "Я не магу ўзяцца за справу зараз.",
     "en": "I can't accept right now.",
     "ru": "Я не могу взяться за дело сейчас.",
     "bel": "Я не магу ўзяцца за справу зараз.",
@@ -26875,7 +26875,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark06HotelFaction",
-    "custom": "",
+    "custom": "Цёмная фракцыя гатэля Dark06",
     "en": "Dark06 Hotel Faction",
     "ru": "Тёмная фракция отеля Dark06",
     "bel": "Цёмная фракцыя гатэля Dark06",
@@ -26884,7 +26884,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark06WandererFIN",
-    "custom": "",
+    "custom": "Стань ліквідатарам",
     "en": "Enter the Eliminator",
     "ru": "Стань ликвидатором",
     "bel": "Стань ліквідатарам",
@@ -26893,7 +26893,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark07FinChoice1A",
-    "custom": "",
+    "custom": "Так. Раскажы падрабязней.",
     "en": "Yes, I'm ready. Tell me more.",
     "ru": "Да. Расскажи подробнее.",
     "bel": "Так. Раскажы падрабязней.",
@@ -26902,7 +26902,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark07FinChoice1B",
-    "custom": "",
+    "custom": "Не, мне трэба падрыхтавацца.",
     "en": "No, I'm not ready just yet.",
     "ru": "Нет, мне нужно подготовиться.",
     "bel": "Не, мне трэба падрыхтавацца.",
@@ -26911,7 +26911,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark07Medicine",
-    "custom": "",
+    "custom": "Шкодныя лекі",
     "en": "Bad Medicine",
     "ru": "Вредное лекарство",
     "bel": "Шкоднае лекі",
@@ -26920,7 +26920,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark07MedicineCabinet",
-    "custom": "",
+    "custom": "Шафка для лекаў",
     "en": "Medicine Cabinet",
     "ru": "Шкафчик для лекарств",
     "bel": "Шафка для лекаў",
@@ -26929,7 +26929,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark07MedicineFIN",
-    "custom": "",
+    "custom": "Дзіця Маці Ночы",
     "en": "The Night Mother's Child",
     "ru": "Дитя Матери Ночи",
     "bel": "Дзіця Маці Ночы",
@@ -26938,7 +26938,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark07MercConvo",
-    "custom": "",
+    "custom": "Размова Dark07MercConvo",
     "en": "Dark07MercConvo",
     "ru": "Dark07MercConvo",
     "bel": "Dark07MercConvo",
@@ -26947,7 +26947,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark07RoderickPoison",
-    "custom": "",
+    "custom": "Яд для Родэрыка",
     "en": "Roderick's Poison",
     "ru": "Яд для Родерика",
     "bel": "Яд для Родэрыка",
@@ -26974,7 +26974,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark08Choice1B",
-    "custom": "",
+    "custom": "Маё дзіця хворае, а мы так бедныя.",
     "en": "My baby is sick, and we are so poor.",
     "ru": "Мой ребенок болен, а мы так бедны.",
     "bel": "Маё дзіця хворае, а мы так бедныя.",
@@ -26983,7 +26983,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark08Choice1C",
-    "custom": "",
+    "custom": "Я асасін, наняты, каб забіць вас.",
     "en": "I'm an assassin, hired to kill you.",
     "ru": "Я ассасин, нанятый, чтобы убить вас.",
     "bel": "Я асасін, наняты, каб забіць вас.",
@@ -26992,7 +26992,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark08Choice2A",
-    "custom": "",
+    "custom": "Думаю, я лепш пакуль пашукаю ў адзіночку.",
     "en": "I think I'll work by myself for now.",
     "ru": "Думаю, я лучше пока поищу в одиночку.",
     "bel": "Думаю, я лепш пакуль пашукаю ў адзіночку.",
@@ -27001,7 +27001,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark08Choice2B",
-    "custom": "",
+    "custom": "Саюз? Гучыць... спакусліва.",
     "en": "An alliance sounds...perfect.",
     "ru": "Союз? Звучит... заманчиво.",
     "bel": "Саюз? Гучыць... спакусліва.",
@@ -27019,7 +27019,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark08Choice3A",
-    "custom": "",
+    "custom": "А... не, не ведаю. Шукай дзе заўгодна.",
     "en": "Ah... Not really. Search anywhere.",
     "ru": "Ах... нет, не знаю. Ищи где угодно.",
     "bel": "А... не, не ведаю. Шукай дзе заўгодна.",
@@ -27028,7 +27028,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark08Choice3B",
-    "custom": "",
+    "custom": "Паспрабуй пашукаць у падвале.",
     "en": "Try searching down in the basement.",
     "ru": "Попробуй поискать в подвале.",
     "bel": "Паспрабуй пашукаць у падвале.",
@@ -27046,7 +27046,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark08Choice4A",
-    "custom": "",
+    "custom": "Мы павінны дзейнічаць! Заб'ем Нелса!",
     "en": "We must act now! Kill Nels!",
     "ru": "Мы должны действовать! Убьем Нелса!",
     "bel": "Мы павінны дзейнічаць! Заб'ем Нелса!",
@@ -27055,7 +27055,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark08Choice4B",
-    "custom": "",
+    "custom": "Бяжы, мой сябар! Я буду змагацца з Нелсам!",
     "en": "Flee, my friend! I'll confront Nels!",
     "ru": "Беги, мой друг! Я сражусь с Нелсом!",
     "bel": "Бяжы, мой сябар! Я буду змагацца з Нелсам!",
@@ -27073,7 +27073,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark08Choice4CDUPLICATE000",
-    "custom": "",
+    "custom": "Выбар Dark08Choice4C",
     "en": "Dark08Choice4C",
     "ru": "ТёмныйВыбор08Вариант4C",
     "bel": "ЦёмныВыбар08Варыянт4C",
@@ -27082,7 +27082,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark08Choice5B",
-    "custom": "",
+    "custom": "Хутка ўсё гэта скончыцца.",
     "en": "It'll all be over soon enough.",
     "ru": "Скоро все это закончится.",
     "bel": "Хутка ўсё гэта скончыцца.",
@@ -27100,7 +27100,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark08Choice5a",
-    "custom": "",
+    "custom": "Дарагая, табе лепш пайсці адпачыць.",
     "en": "Sweetie, you should go get some rest.",
     "ru": "Дорогая, тебе лучше пойти отдохнуть.",
     "bel": "Дарагая, табе лепш пайсці адпачыць.",
@@ -27109,7 +27109,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark08Choice6A",
-    "custom": "",
+    "custom": "Ён сказаў мне, што ты яму падабаешся!",
     "en": "Not true! He told me he likes you!",
     "ru": "Он сказал мне, что ты ему нравишься!",
     "bel": "Ён сказаў мне, што ты яму падабаешся!",
@@ -27127,7 +27127,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark08Choice7B",
-    "custom": "",
+    "custom": "Не змяняй сваіх паводзін.",
     "en": "Just do what you're doing now.",
     "ru": "Не меняй своего поведения.",
     "bel": "Не змяняй сваіх паводзін.",
@@ -27145,7 +27145,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark08FinChoice1A",
-    "custom": "",
+    "custom": "Гэта будзе гонарам для мяне. Я зраблю.",
     "en": "It would be an honor. I accept.",
     "ru": "Это будет честью для меня. Я сделаю.",
     "bel": "Гэта будзе гонарам для мяне. Я зраблю.",
@@ -27154,7 +27154,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark08FinChoice1B",
-    "custom": "",
+    "custom": "Не, я не магу прыняць яго зараз.",
     "en": "No, I can't accept right now.",
     "ru": "Нет, я не могу выполнить его сейчас.",
     "bel": "Не, я не магу выканаць яго зараз.",
@@ -27163,7 +27163,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark08FinChoice2A",
-    "custom": "",
+    "custom": "Што мне рабіць, Очыва?",
     "en": "What must I do, Ocheeva?",
     "ru": "Что мне следует делать, Очива?",
     "bel": "Што мне рабіць, Очыва?",
@@ -27172,7 +27172,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark08FinChoice2B",
-    "custom": "",
+    "custom": "Я заб'ю гэтую свінню!",
     "en": "I will slay him like the pig he is!",
     "ru": "Я убью эту свинью!",
     "bel": "Я заб'ю гэтую свінню!",
@@ -27217,7 +27217,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark08NelsNevConvo",
-    "custom": "",
+    "custom": "Размова з Dark08NelsNeville",
     "en": "Dark08NelsNevilleConvo",
     "ru": "Разговор с Dark08NelsNeville",
     "bel": "Размова з Dark08NelsNeville",
@@ -27226,7 +27226,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark08SummitmistKey",
-    "custom": "",
+    "custom": "Ключ ад асабняка Самітміст",
     "en": "Summitmist Manor Key",
     "ru": "Ключ от особняка Саммитмист",
     "bel": "Ключ ад асабняка Самітміст",
@@ -27235,7 +27235,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark08Whodunit",
-    "custom": "",
+    "custom": "Хто гэта зрабіў?",
     "en": "Whodunit?",
     "ru": "Детектив",
     "bel": "Дэтэктыў",
@@ -27244,7 +27244,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark08WhodunitFIN",
-    "custom": "",
+    "custom": "Гамбіт асасіна",
     "en": "The Assassin's Gambit",
     "ru": "Гамбит ассасина",
     "bel": "Гамбіт ассасіна",
@@ -27253,7 +27253,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark08WhodunitGuests",
-    "custom": "",
+    "custom": "Запрошаныя госці ў асуджаным доме",
     "en": "The Doomed House Guests",
     "ru": "Званые гости в обреченном доме",
     "bel": "Запрошаныя госці ў асуджаным доме",
@@ -27262,7 +27262,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark09CeremonyGuard",
-    "custom": "",
+    "custom": "Цэнтурыён Імперскага легіёна",
     "en": "Imperial Legion Centurion",
     "ru": "Центурион Имперского легиона",
     "bel": "Цэнтурыён Імперскага легіёна",
@@ -27271,7 +27271,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark09CeremonyGuard2",
-    "custom": "",
+    "custom": "Цэнтурыён Імперскага легіёна",
     "en": "Imperial Legion Centurion",
     "ru": "Центурион Имперского легиона",
     "bel": "Цэнтурыён Імперскага легіёна",
@@ -27280,7 +27280,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark09Choice1A",
-    "custom": "",
+    "custom": "Час памерці, імперская свіння!",
     "en": "Time to die, Imperial pig!",
     "ru": "Время умереть, имперская свинья!",
     "bel": "Час памерці, імперская свіння!",
@@ -27289,7 +27289,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark09Choice1B",
-    "custom": "",
+    "custom": "Сіціс хоча тваю душу, Адамус.",
     "en": "Sithis needs your soul, Adamus.",
     "ru": "Ситис хочет твою душу, Адамус.",
     "bel": "Сіціс хоча тваю душу, Адамус.",
@@ -27316,7 +27316,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark09GateLever",
-    "custom": "",
+    "custom": "Пацягнуць рычаг",
     "en": "Pull Lever",
     "ru": "Рычаг",
     "bel": "Рычаг",
@@ -27325,7 +27325,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark09RetFinChoice1A",
-    "custom": "",
+    "custom": "Я буду служыць табе вечна!",
     "en": "I will serve you for time immemorial!",
     "ru": "Я буду служить тебе вечно!",
     "bel": "Я буду служыць табе вечна!",
@@ -27334,7 +27334,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark09RetFinChoice1B",
-    "custom": "",
+    "custom": "Пачакай, ці не хочаш ты сказаць...",
     "en": "Wait, you can't possibly mean...",
     "ru": "Подожди, не хочешь ли ты сказать...",
     "bel": "Пачакай, ці не хочаш ты сказаць...",
@@ -27352,7 +27352,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark09Retirement",
-    "custom": "",
+    "custom": "Заслужаны адпачынак... навечна",
     "en": "Permanent Retirement",
     "ru": "Заслуженный отдых... навечно",
     "bel": "Заслужаны адпачынак... навечна",
@@ -27361,7 +27361,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark09RetirementFIN",
-    "custom": "",
+    "custom": "Сакрэты і цені",
     "en": "Of Secret And Shadow",
     "ru": "Секреты и тени",
     "bel": "Сакрэты і цені",
@@ -27370,7 +27370,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark09Skeleton01Missile",
-    "custom": "",
+    "custom": "Цёмны вартаўнік",
     "en": "Dark Guardian",
     "ru": "Темный страж",
     "bel": "Цёмны вартаўнік",
@@ -27379,7 +27379,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark09Skeleton02Melee",
-    "custom": "",
+    "custom": "Цёмны вартаўнік",
     "en": "Dark Guardian",
     "ru": "Темный страж",
     "bel": "Цёмны вартаўнік",
@@ -27388,7 +27388,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark09SuicideNote",
-    "custom": "",
+    "custom": "Перадсмяротная запіска",
     "en": "Suicide Note",
     "ru": "Предсмертная записка",
     "bel": "Перадсмяротная запіска",
@@ -27397,7 +27397,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark0Choice1B",
-    "custom": "",
+    "custom": "Выбар Dark0Choice1B",
     "en": "Dark0Choice1B",
     "ru": "Тёмный выбор 1B",
     "bel": "Цёмны выбар 1B",
@@ -27406,7 +27406,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark10Apple",
-    "custom": "",
+    "custom": "Атручанае яблыка",
     "en": "Poisoned Apple",
     "ru": "Отравленное яблоко",
     "bel": "Атручанае яблык",
@@ -27415,7 +27415,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark10Horse",
-    "custom": "",
+    "custom": "Ценявая Грыва",
     "en": "Shadowmere",
     "ru": "Теневая Грива",
     "bel": "Ценявая Грыва",
@@ -27424,7 +27424,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark10SancChoice1B",
-    "custom": "",
+    "custom": "Але... але што мне цяпер рабіць?",
     "en": "But... But what must I now do?",
     "ru": "Но... но что мне теперь делать?",
     "bel": "Але... але што мне цяпер рабіць?",
@@ -27442,7 +27442,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark10SanctuaryFIN",
-    "custom": "",
+    "custom": "Схованка",
     "en": "The Dead Drop",
     "ru": "Тайник",
     "bel": "Схованка",
@@ -27451,7 +27451,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark10SpecialCeledaenJournal",
-    "custom": "",
+    "custom": "Шлях да дасканаласці",
     "en": "The Path of Transcendence",
     "ru": "Путь к превосходству",
     "bel": "Шлях да дасканаласці",
@@ -27460,7 +27460,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark10SpecialHourglass",
-    "custom": "",
+    "custom": "Пясок рашучасці",
     "en": "Sands of Resolve",
     "ru": "Песок Решимости",
     "bel": "Пясок Рашучасці",
@@ -27469,7 +27469,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark10SpecialWhiteRock",
-    "custom": "",
+    "custom": "Пусты камень",
     "en": "Hollowed-Out Rock",
     "ru": "Пустотелый камень",
     "bel": "Пусты камень",
@@ -27478,7 +27478,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark10SpecialWizard",
-    "custom": "",
+    "custom": "Заняткі чараўніка",
     "en": "Affairs of a Wizard",
     "ru": "Занятия волшебника",
     "bel": "Заняткі чараўніка",
@@ -27487,7 +27487,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark11Choice1A",
-    "custom": "",
+    "custom": "Я шукаю тваіх дзяцей.",
     "en": "I'm looking for your children.",
     "ru": "Я ищу твоих детей.",
     "bel": "Я шукаю тваіх дзяцей.",
@@ -27505,7 +27505,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark11Choice2B",
-    "custom": "",
+    "custom": "Прыйшоў час табе памерці, раб Сіціса!",
     "en": "Time to die, slave of Sithis!",
     "ru": "Пришло время тебе умереть, раб Ситиса!",
     "bel": "Прыйшоў час табе памерці, раб Сіціса!",
@@ -27523,7 +27523,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark11Choice3A",
-    "custom": "",
+    "custom": "Наогул-та я тут, каб забіць цябе.",
     "en": "Actually, I'm here to kill you.",
     "ru": "Вообще-то я здесь, чтобы убить тебя.",
     "bel": "Наогул-то я тут, каб забіць цябе.",
@@ -27532,7 +27532,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark11Choice3B",
-    "custom": "",
+    "custom": "Твая маці вішчала, як свіння.",
     "en": "Your mother bled like a pig.",
     "ru": "Твоя мать визжала, как свинья.",
     "bel": "Твая маці вішчала, як свіння.",
@@ -27550,7 +27550,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark11Choice4A",
-    "custom": "",
+    "custom": "Баюся, мне патрэбна ты. Мёртвая.",
     "en": "I'm afraid I need you. Dead.",
     "ru": "Боюсь, мне нужна ты. Мертвая.",
     "bel": "Баюся, мне патрэбна ты. Мёртвая.",
@@ -27559,7 +27559,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark11Choice4B",
-    "custom": "",
+    "custom": "Ты падобная на сваю маці.",
     "en": "You look like your mother.",
     "ru": "Ты похожа на свою мать.",
     "bel": "Ты падобная на сваю маці.",
@@ -27577,7 +27577,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark11ChorrolSack",
-    "custom": "",
+    "custom": "Стары мех",
     "en": "Old Sack",
     "ru": "Старый мешок",
     "bel": "Стары мех",
@@ -27586,7 +27586,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark11FoodCrate",
-    "custom": "",
+    "custom": "Скрыня",
     "en": "Crate",
     "ru": "Ящик",
     "bel": "Яшчык",
@@ -27595,7 +27595,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark11Kin",
-    "custom": "",
+    "custom": "Наступны ў родзе",
     "en": "Next of Kin",
     "ru": "Следующий в роду",
     "bel": "Наступны ў родзе",
@@ -27604,7 +27604,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark11List",
-    "custom": "",
+    "custom": "Спіс падарункаў для Драконісаў",
     "en": "Draconis Gift List",
     "ru": "Список подарков для Драконисов",
     "bel": "Спіс падарункаў для Драканісаў",
@@ -27613,7 +27613,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark12Choice1A",
-    "custom": "",
+    "custom": "У нас ужо праблемы, Дж'Гаста.",
     "en": "We already have a problem, J'Ghasta.",
     "ru": "У нас уже проблемы, Дж'Гаста.",
     "bel": "У нас ужо праблемы, Дж'Гаста.",
@@ -27622,7 +27622,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark12Choice1B",
-    "custom": "",
+    "custom": "Мяне запрасілі. Сіціс запрасіў!",
     "en": "Oh, but I was invited. By Sithis!",
     "ru": "Меня пригласили. Ситис пригласил!",
     "bel": "Мяне запрасілі. Сіціс запрасіў!",
@@ -27640,7 +27640,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark12Harem",
-    "custom": "",
+    "custom": "Парушаныя абяцанні",
     "en": "Broken Vows",
     "ru": "Нарушенные обещания",
     "bel": "Парушаныя абяцанні",
@@ -27649,7 +27649,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark12RottedBox",
-    "custom": "",
+    "custom": "Гнілая скрыня",
     "en": "Rotten Box",
     "ru": "Сгнивший ящик",
     "bel": "Згнілы скрыня",
@@ -27658,7 +27658,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark13Justice",
-    "custom": "",
+    "custom": "Урачыстасць правасуддзя",
     "en": "Final Justice",
     "ru": "Торжество правосудия",
     "bel": "Урачыстасць правасуддзя",
@@ -27667,7 +27667,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark14Honor",
-    "custom": "",
+    "custom": "Справа гонару",
     "en": "A Matter of Honor",
     "ru": "Дело чести",
     "bel": "Справа гонару",
@@ -27676,7 +27676,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark14TreeStump",
-    "custom": "",
+    "custom": "Полы пень",
     "en": "Hollowed-Out Tree Stump",
     "ru": "Полый пень",
     "bel": "Полы пень",
@@ -27685,7 +27685,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark15Chest",
-    "custom": "",
+    "custom": "Патопленая скрыня",
     "en": "Sunken Chest",
     "ru": "Затонувший сундук",
     "bel": "Патопленая скрыня",
@@ -27694,7 +27694,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark15Coldest",
-    "custom": "",
+    "custom": "Скаваны лёдам сон",
     "en": "The Coldest Sleep",
     "ru": "Скованный льдом сон",
     "bel": "Скаваны лёдам сон",
@@ -27703,7 +27703,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark15WolfPet",
-    "custom": "",
+    "custom": "Кусачы",
     "en": "Redmaw",
     "ru": "Кусачий",
     "bel": "Кусачы",
@@ -27712,7 +27712,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark16Choice1A",
-    "custom": "",
+    "custom": "Не! Пра што ты кажаш?",
     "en": "No! What are you talking about?",
     "ru": "Нет! О чем ты говоришь?",
     "bel": "Не! Пра што ты кажаш?",
@@ -27730,7 +27730,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark16Choice2A",
-    "custom": "",
+    "custom": "Я чакаю тваіх загадаў, Прамоўца!",
     "en": "I am yours to command, Speaker!",
     "ru": "Я жду твоих приказов, уведомитель!",
     "bel": "Я чакаю тваіх загадаў, даносчык!",
@@ -27739,7 +27739,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark16Choice2B",
-    "custom": "",
+    "custom": "Дай угадаю. У цябе ёсць план?",
     "en": "Let me guess. You have a plan?",
     "ru": "Дай угадаю. У тебя есть план?",
     "bel": "Дай угадаю. У цябе ёсць план?",
@@ -27757,7 +27757,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark16Kiss",
-    "custom": "",
+    "custom": "Перадсмяротны пацалунак",
     "en": "A Kiss Before Dying",
     "ru": "Предсмертный поцелуй",
     "bel": "Перадсмяротны пацалунак",
@@ -27766,7 +27766,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark17Choice1B",
-    "custom": "",
+    "custom": "Не. Я пакуль не магу.",
     "en": "No. I'm not ready yet.",
     "ru": "Нет. Я пока не могу.",
     "bel": "Не. Я пакуль не магу.",
@@ -27775,7 +27775,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark17Choice2A",
-    "custom": "",
+    "custom": "Раскажы мне пра гэты маяк.",
     "en": "Tell me about this lighthouse.",
     "ru": "Расскажи мне об этом маяке.",
     "bel": "Раскажы мне пра гэты маяк.",
@@ -27784,7 +27784,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark17Choice2B",
-    "custom": "",
+    "custom": "Хлус! Раскажы мне ўсё, ці памрэш!",
     "en": "Liar! Tell me everything, or die!",
     "ru": "Лжец! Расскажи мне все, или умрешь!",
     "bel": "Хлус! Раскажы мне ўсё, ці памрэш!",
@@ -27802,7 +27802,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark17Choice3A",
-    "custom": "",
+    "custom": "Я хачу атрымаць ключ ад падвала.",
     "en": "I want the key to the cellar.",
     "ru": "Я хочу получить ключ от подвала.",
     "bel": "Я хачу атрымаць ключ ад падвала.",
@@ -27811,7 +27811,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark17Choice3B",
-    "custom": "",
+    "custom": "Ключ ад падвала! Хутка!",
     "en": "The key to the cellar! Now!",
     "ru": "Ключ от подвала! Быстро!",
     "bel": "Ключ ад падвала! Хутка!",
@@ -27829,7 +27829,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark17Choice4A",
-    "custom": "",
+    "custom": "Не аддасі, я перарэжу табе глотку.",
     "en": "If you don't, I'll slice your throat.",
     "ru": "Не отдашь, я перережу тебе глотку.",
     "bel": "Не аддасі, я перарэжу табе глотку.",
@@ -27838,7 +27838,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark17Choice4B",
-    "custom": "",
+    "custom": "Ён патрэбен Цёмнаму Брацтву, пёс!",
     "en": "The Dark Brotherhood demands it, dog!",
     "ru": "Он нужен Темному Братству, пес!",
     "bel": "Ён патрэбен Цёмнаму Братэрству, пес!",
@@ -27856,7 +27856,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark17CrazedDog",
-    "custom": "",
+    "custom": "Шалёны пёс",
     "en": "Crazed Dog",
     "ru": "Бешеный пес",
     "bel": "Шалёны пес",
@@ -27865,7 +27865,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark17DogDead",
-    "custom": "",
+    "custom": "Сабака",
     "en": "Dog",
     "ru": "Пес",
     "bel": "Пес",
@@ -27874,7 +27874,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark17Following",
-    "custom": "",
+    "custom": "Пошук здрадніка",
     "en": "Following a Lead",
     "ru": "Поиск предателя",
     "bel": "Пошук здрадніка",
@@ -27883,7 +27883,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark18ArquenPrayer",
-    "custom": "",
+    "custom": "Малітва Аркен Dark18ArquenPrayer",
     "en": "Dark18ArquenPrayer",
     "ru": "Тёмная18ArquenPrayer",
     "bel": "Цёмная18ArquenPrayer",
@@ -27892,7 +27892,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark18ArquenTalk",
-    "custom": "",
+    "custom": "Размова з Аркен Dark18ArquenTalk",
     "en": "Dark18ArquenTalk",
     "ru": "Тёмные разговоры ArquenTalk18",
     "bel": "Цёмныя размовы ArquenTalk18",
@@ -27901,7 +27901,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark18Choice1A",
-    "custom": "",
+    "custom": "Я жыву толькі дзеля служэння Чорнай Руцэ.",
     "en": "I live only to serve the Black Hand.",
     "ru": "Я живу лишь ради служения Черной Руке.",
     "bel": "Я жыву толькі дзеля служэння Чорнай Руцэ.",
@@ -27910,7 +27910,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark18Choice1B",
-    "custom": "",
+    "custom": "Ха! Было асалодай выканаць гэта!",
     "en": "Ha! I reveled in their slaughter!",
     "ru": "Ха! Было наслаждением исполнить это!",
     "bel": "Ха! Было асалодай выканаць гэта!",
@@ -27928,7 +27928,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark18Choice2A",
-    "custom": "",
+    "custom": "Але... але навошта, шаноўная Маці Ночы?",
     "en": "But... But why, honored Night Mother?",
     "ru": "Но... но зачем, уважаемая Мать Ночи?",
     "bel": "Але... але навошта, шаноўная Маці Ночы?",
@@ -27937,7 +27937,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark18Choice2B",
-    "custom": "",
+    "custom": "Значыць, нашы лёсы былі пераплецены?",
     "en": "Then our destinies were...interwoven?",
     "ru": "Значит, наши судьбы были переплетены?",
     "bel": "Значыць, нашы лёсы былі пераплецены?",
@@ -27955,7 +27955,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark18Choice3A",
-    "custom": "",
+    "custom": "І што ж цяпер, Нячыстая Матрона?",
     "en": "So what happens now, Unholy Matron?",
     "ru": "И что же теперь, Нечестивая Матрона?",
     "bel": "І што ж цяпер, Нячыстая Матрона?",
@@ -27964,7 +27964,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark18Choice3B",
-    "custom": "",
+    "custom": "Нарэшце-то! Жаданая ўлада!",
     "en": "Finally, the authority I deserve!",
     "ru": "Наконец-то! Желанная власть!",
     "bel": "Нарэшце-то! Жаданая ўлада!",
@@ -27982,7 +27982,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark18Choice4A",
-    "custom": "",
+    "custom": "Не, крыху пазней.",
     "en": "No. I'll return when I'm ready.",
     "ru": "Нет, немного позже.",
     "bel": "Не, крыху пазней.",
@@ -27991,7 +27991,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark18Choice4B",
-    "custom": "",
+    "custom": "Мне пара. Адпраў мяне ў прытулак.",
     "en": "I'm ready. Send me to the Sanctuary.",
     "ru": "Мне пора. Отправь меня в убежище.",
     "bel": "Мне пара. Адпраў мяне ў прытулак.",
@@ -28000,7 +28000,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark18Mother",
-    "custom": "",
+    "custom": "Шануй Маці сваю",
     "en": "Honor Thy Mother",
     "ru": "Чти Мать свою",
     "bel": "Шануй Маці сваю",
@@ -28009,7 +28009,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark18NightConvo",
-    "custom": "",
+    "custom": "Начная размова Dark18NightConvo",
     "en": "Dark18NightConvo",
     "ru": "Тёмный разговор ночью в 18:00",
     "bel": "Цёмная размова ноччу ў 18:00",
@@ -28018,7 +28018,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark18TraitorTalk",
-    "custom": "",
+    "custom": "Размова са здраднікам Dark18TraitorTalk",
     "en": "Dark18TraitorTalk",
     "ru": "Разговор с предателем Dark18",
     "bel": "Размова са здраднікам Dark18",
@@ -28027,7 +28027,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark19Choice1A",
-    "custom": "",
+    "custom": "Ідзі са мной. Паслужы свайму Слухачу.",
     "en": "Travel with me. Serve your Listener.",
     "ru": "Иди со мной. Послужи своему слушателю.",
     "bel": "Ідзі са мной. Паслужы свайму слухачу.",
@@ -28036,7 +28036,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark19Choice1B",
-    "custom": "",
+    "custom": "Адставіць, забойца.",
     "en": "As you were, Murderer.",
     "ru": "Отставить, убийца.",
     "bel": "Адставіць, забойца.",
@@ -28045,7 +28045,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark19Choice2A",
-    "custom": "",
+    "custom": "Ідзі за мной таемна! Не высоўвайся.",
     "en": "Follow me, but remain hidden!",
     "ru": "Следуй за мной тайно! Не высовывайся.",
     "bel": "Ідзі за мной таемна! Не высоўвайся.",
@@ -28054,7 +28054,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark19Choice2B",
-    "custom": "",
+    "custom": "Ідзі за мной! Хутчэй!",
     "en": "Follow me, with utmost haste!",
     "ru": "Следуй за мной! Быстрее!",
     "bel": "Ідзі за мной! Хутчэй!",
@@ -28063,7 +28063,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark19Choice2C",
-    "custom": "",
+    "custom": "Стой тут, забойца.",
     "en": "Stay here, underling.",
     "ru": "Стой здесь, убийца.",
     "bel": "Стой тут, забойца.",
@@ -28072,7 +28072,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark19Choice2D",
-    "custom": "",
+    "custom": "Сыходзь! Нашы шляхі разыходзяцца!",
     "en": "Begone! I am done with you!",
     "ru": "Уходи! Наши пути расходятся!",
     "bel": "Сыходзь! Нашы шляхі разыходзяцца!",
@@ -28081,7 +28081,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark19Choice2E",
-    "custom": "",
+    "custom": "Ідзі за мной, не адставай.",
     "en": "Follow me, and keep pace.",
     "ru": "Следуй за мной, не отставай.",
     "bel": "Ідзі за мной, не адставай.",
@@ -28090,7 +28090,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark19StatueTalk1",
-    "custom": "",
+    "custom": "Размова са статуяй 1 Dark19StatueTalk1",
     "en": "Dark19StatueTalk1",
     "ru": "Разговор с тёмной статуей19",
     "bel": "Размова з цёмнай статуяй19",
@@ -28099,7 +28099,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark19StatueTalk2",
-    "custom": "",
+    "custom": "Размова са статуяй 2 Dark19StatueTalk2",
     "en": "Dark19StatueTalk2",
     "ru": "Разговор с темной статуей 2.",
     "bel": "Размова з цёмнай статуяй 2.",
@@ -28108,7 +28108,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark19StatueTalk3",
-    "custom": "",
+    "custom": "Размова са статуяй 3 Dark19StatueTalk3",
     "en": "Dark19StatueTalk3",
     "ru": "Разговор с тёмной статуей №3",
     "bel": "Размова з цёмнай статуяй №3",
@@ -28117,7 +28117,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark19StatueTalk4",
-    "custom": "",
+    "custom": "Размова са статуяй 4 Dark19StatueTalk4",
     "en": "Dark19StatueTalk4",
     "ru": "Тёмный19СтатуяРазговор4",
     "bel": "Цёмны19СтатуяРазмова4",
@@ -28126,7 +28126,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dark19Whispers",
-    "custom": "",
+    "custom": "Шэпты смерці",
     "en": "Whispers of Death",
     "ru": "Шепот смерти",
     "bel": "Шэпт смерці",
@@ -28135,7 +28135,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkAndreasGrave",
-    "custom": "",
+    "custom": "Магіла Андрэаса Драконіса",
     "en": "Grave of Andreas Draconis",
     "ru": "Могила Андреаса Дракониса",
     "bel": "Магіла Андрэаса Драканіса",
@@ -28144,7 +28144,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkAntoinettaChest",
-    "custom": "",
+    "custom": "Скрыня Антуанеты Мары",
     "en": "Antoinetta Marie's Chest",
     "ru": "Сундук Антуанетты Мари",
     "bel": "Скрыня Антуанеты Мары",
@@ -28153,7 +28153,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkAntoinettaKey",
-    "custom": "",
+    "custom": "Ключ Антуанеты Мары",
     "en": "Antoinetta Marie's Key",
     "ru": "Ключ Антуанетты Мари",
     "bel": "Ключ Антуанеты Мары",
@@ -28162,7 +28162,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkArcher",
-    "custom": "",
+    "custom": "Стралок Цёмнага Брацтва",
     "en": "Dark Brotherhood Archer",
     "ru": "Лучник Темного Братства",
     "bel": "Стралок Цёмнага Братэрства",
@@ -28171,7 +28171,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkBladeWoe01",
-    "custom": "",
+    "custom": "Клінок Гора",
     "en": "Blade of Woe",
     "ru": "Клинок Горя",
     "bel": "Клінок Гора",
@@ -28180,7 +28180,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkBladeWoe05",
-    "custom": "",
+    "custom": "Клінок Гора",
     "en": "Blade of Woe",
     "ru": "Клинок Горя",
     "bel": "Клінок Гора",
@@ -28189,7 +28189,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkBladeWoe10",
-    "custom": "",
+    "custom": "Клінок Гора",
     "en": "Blade of Woe",
     "ru": "Клинок Горя",
     "bel": "Клінок Гора",
@@ -28198,7 +28198,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkBladeWoe15",
-    "custom": "",
+    "custom": "Клінок Гора",
     "en": "Blade of Woe",
     "ru": "Клинок Горя",
     "bel": "Клінок Гора",
@@ -28207,7 +28207,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkBladeWoe20",
-    "custom": "",
+    "custom": "Клінок Гора",
     "en": "Blade of Woe",
     "ru": "Клинок Горя",
     "bel": "Клінок Гора",
@@ -28216,7 +28216,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkBladeWoe25",
-    "custom": "",
+    "custom": "Клінок Гора",
     "en": "Blade of Woe",
     "ru": "Клинок Горя",
     "bel": "Клінок Гора",
@@ -28225,7 +28225,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkBladeWoe30",
-    "custom": "",
+    "custom": "Клінок Гора",
     "en": "Blade of Woe",
     "ru": "Клинок Горя",
     "bel": "Клінок Гора",
@@ -28234,7 +28234,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkBrotherhoodIntDoor",
-    "custom": "",
+    "custom": "Старажытныя чорныя дзверы",
     "en": "Ancient Black Door",
     "ru": "Древняя черная дверь",
     "bel": "Старажытныя чорныя дзверы",
@@ -28243,7 +28243,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkBrotherhoodLoadDoor01",
-    "custom": "",
+    "custom": "Старажытныя чорныя дзверы",
     "en": "Ancient Black Door",
     "ru": "Древняя черная дверь",
     "bel": "Старажытныя чорныя дзверы",
@@ -28252,7 +28252,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkBrotherhoodNoGuard",
-    "custom": "",
+    "custom": "Цёмнае Брацтва — варту не выклікаць",
     "en": "Dark Brotherhood -- Won't Call Guards",
     "ru": "Тёмное Братство -- Стража не вызывать",
     "bel": "Цёмнае Братэрства -- Варту не выклікаць",
@@ -28261,7 +28261,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkBrotherhood_LEVEL1_F",
-    "custom": "",
+    "custom": "Знішчальніца",
     "en": "Slayer",
     "ru": "Истребитель",
     "bel": "Знішчальнік",
@@ -28270,7 +28270,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkBrotherhood_LEVEL1_M",
-    "custom": "",
+    "custom": "Знішчальнік",
     "en": "Slayer",
     "ru": "Истребитель",
     "bel": "Знішчальнік",
@@ -28279,7 +28279,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkBrotherhood_LEVEL2_F",
-    "custom": "",
+    "custom": "Ліквідатарка",
     "en": "Eliminator",
     "ru": "Ликвидатор",
     "bel": "Ліквідатар",
@@ -28288,7 +28288,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkBrotherhood_LEVEL2_M",
-    "custom": "",
+    "custom": "Ліквідатар",
     "en": "Eliminator",
     "ru": "Ликвидатор",
     "bel": "Ліквідатар",
@@ -28315,7 +28315,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkBrotherhood_LEVEL5_F",
-    "custom": "",
+    "custom": "Душыцелька",
     "en": "Silencer",
     "ru": "Душитель",
     "bel": "Душыцель",
@@ -28324,7 +28324,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkBrotherhood_LEVEL5_M",
-    "custom": "",
+    "custom": "Душыцель",
     "en": "Silencer",
     "ru": "Душитель",
     "bel": "Душыцель",
@@ -28333,7 +28333,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkBrotherhood_LEVEL6_F",
-    "custom": "",
+    "custom": "Прамоўца",
     "en": "Speaker",
     "ru": "Уведомитель",
     "bel": "Даносчык",
@@ -28342,7 +28342,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkBrotherhood_LEVEL6_M",
-    "custom": "",
+    "custom": "Прамоўца",
     "en": "Speaker",
     "ru": "Уведомитель",
     "bel": "Даносчык",
@@ -28351,7 +28351,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkCaeliaGrave",
-    "custom": "",
+    "custom": "Магіла Кейліі Драконіс",
     "en": "Grave of Caelia Draconis",
     "ru": "Могила Кейлии Драконис",
     "bel": "Магіла Кейліі Драконіс",
@@ -28360,7 +28360,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkCaeliaLongsword",
-    "custom": "",
+    "custom": "Сталёвы доўгі меч Кейліі",
     "en": "Caelia's Steel Longsword",
     "ru": "Стальной длинный меч Кейлии",
     "bel": "Сталёвы доўгі меч Кейліі",
@@ -28369,7 +28369,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkCarrot",
-    "custom": "",
+    "custom": "Морква бачанняў",
     "en": "Carrot of Seeing",
     "ru": "Морковь видений",
     "bel": "Морква бачанняў",
@@ -28378,7 +28378,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkCeledaenDie",
-    "custom": "",
+    "custom": "Цёмны кубік Цэледэна",
     "en": "Dark Celedaen Die",
     "ru": "Тёмная Celedaen Die",
     "bel": "Цёмная Celedaen Die",
@@ -28387,7 +28387,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkCeledaenNoSneak",
-    "custom": "",
+    "custom": "Цёмны Цэледэен без падкрадання",
     "en": "Dark Celedaen No Sneakie",
     "ru": "Тёмный Celedaen: Без палева.",
     "bel": "Цёмны Celedaen: Без палева.",
@@ -28396,7 +28396,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkChameleon",
-    "custom": "",
+    "custom": "Шлях пад покрывам",
     "en": "Shroudwalk",
     "ru": "Путь под покровом",
     "bel": "Шлях пад покрывам",
@@ -28405,7 +28405,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkClaudiusChest",
-    "custom": "",
+    "custom": "Скрыня Клаўдзіуса Аркадзія",
     "en": "Claudius Arcadia's Chest",
     "ru": "Сундук Клаудиуса Аркадиа",
     "bel": "Скрыня Клаўдзіуса Аркадзія",
@@ -28414,7 +28414,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkClaudiusHouseNote",
-    "custom": "",
+    "custom": "Афіцыйнае паведамленне",
     "en": "Public Notice",
     "ru": "Официальное извещение",
     "bel": "Афіцыйнае паведамленне",
@@ -28423,7 +28423,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkConvSystem",
-    "custom": "",
+    "custom": "Дынамічныя дыялогі Цёмнага Брацтва",
     "en": "Dark Brotherhood Dynamic Conversations",
     "ru": "Динамические диалоги Тёмного Братства",
     "bel": "Дынамічныя дыялогі Цёмнага Братэрства",
@@ -28432,7 +28432,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkConversations",
-    "custom": "",
+    "custom": "Заскрыптаваныя дыялогі Цёмнага Брацтва",
     "en": "Dark Brotherhood Scripted Conversations",
     "ru": "Заскриптованные диалоги Тёмного Братства",
     "bel": "Заскрыптаваныя дыялогі Цёмнага Братэрства",
@@ -28441,7 +28441,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkDetectPulse",
-    "custom": "",
+    "custom": "Выяўленне пульса",
     "en": "Detect Pulse",
     "ru": "Обнаружение пульса",
     "bel": "Выяўленне пульса",
@@ -28450,7 +28450,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkDetectSuperior",
-    "custom": "",
+    "custom": "Крывавае паляванне",
     "en": "Bloodhunt",
     "ru": "Кровавая охота",
     "bel": "Крывавае паляванне",
@@ -28459,7 +28459,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkDislikePlayer",
-    "custom": "",
+    "custom": "Ненавіджу фракцыю I Hate the Player!",
     "en": "The I Hate the Player Faction!",
     "ru": "Ненавижу фракцию I Hate the Player!",
     "bel": "Ненавіджу фракцыю I Hate the Player!",
@@ -28468,7 +28468,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkDoorSpeak",
-    "custom": "",
+    "custom": "Размова з цёмнымі дзвярыма DarkDoorSpeak",
     "en": "DarkDoorSpeak",
     "ru": "Говорит DarkDoor.",
     "bel": "Гаворыць DarkDoor.",
@@ -28477,7 +28477,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkDoorSpeakNPC",
-    "custom": "",
+    "custom": "Голас з-за дзвярэй прытулку",
     "en": "Sanctuary Door Voice",
     "ru": "Голос из-за двери убежища",
     "bel": "Голас з-за дзвярэй прытулку",
@@ -28486,7 +28486,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkDoorWelcome",
-    "custom": "",
+    "custom": "Вітанне цёмных дзвярэй DarkDoorWelcome",
     "en": "DarkDoorWelcome",
     "ru": "Добро пожаловать в DarkDoor!",
     "bel": "Сардэчна запрашаем у DarkDoor!",
@@ -28495,7 +28495,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkElfFringe",
-    "custom": "",
+    "custom": "Прыдворны стыль",
     "en": "Court",
     "ru": "Придворный стиль",
     "bel": "Прыдворны стыль",
@@ -28504,7 +28504,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkElfMane",
-    "custom": "",
+    "custom": "Паветраныя",
     "en": "Windswept",
     "ru": "Развевающиеся",
     "bel": "Паветраныя",
@@ -28513,7 +28513,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkElfMohawk",
-    "custom": "",
+    "custom": "Іракез",
     "en": "Ridgeback",
     "ru": "Ирокез",
     "bel": "Іракез",
@@ -28522,7 +28522,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkElfTopknot",
-    "custom": "",
+    "custom": "Просты вузел",
     "en": "Quick Knot",
     "ru": "Простой узел",
     "bel": "Просты вузел",
@@ -28531,7 +28531,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkEvil",
-    "custom": "",
+    "custom": "Цёмнае Брацтва, тыповая ліхадзейская фракцыя",
     "en": "Dark Brotherhood Generic Evil Faction",
     "ru": "Тёмное Братство, типичная злодейская фракция.",
     "bel": "Цёмнае Братэрства, тыповая ліхадзейская фракцыя.",
@@ -28540,7 +28540,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkExile",
-    "custom": "",
+    "custom": "Выгнанне з Брацтва",
     "en": "A Dark Exile",
     "ru": "Изгнание из Братства",
     "bel": "Выгнанне з Братэрства",
@@ -28549,7 +28549,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkExile2",
-    "custom": "",
+    "custom": "Паўторнае выгнанне з Брацтва",
     "en": "Another Dark Exile",
     "ru": "Повторное изгнание из Братства",
     "bel": "Паўторнае выгнанне з Братэрства",
@@ -28558,7 +28558,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkExile3",
-    "custom": "",
+    "custom": "Вечнае выгнанне",
     "en": "Eternal Exile",
     "ru": "Вечное изгнание",
     "bel": "Вечнае выгнанне",
@@ -28567,7 +28567,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkExileControl",
-    "custom": "",
+    "custom": "Скрыпт кіравання выгнаннем",
     "en": "Dark Exile Control Script",
     "ru": "Скрипт управления Dark Exile.",
     "bel": "Скрыпт кіравання Dark Exile.",
@@ -28576,7 +28576,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkFinGleam",
-    "custom": "",
+    "custom": "Светлавы плаўнік",
     "en": "Fin Gleam",
     "ru": "Светящийся плавник",
     "bel": "Светлавы плаўнік",
@@ -28585,7 +28585,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkFirstMate",
-    "custom": "",
+    "custom": "Першы памочнік Мальвуліс",
     "en": "First Mate Malvulis",
     "ru": "Первый помощник Мальвулис",
     "bel": "Першы памочнік Мальвуліс",
@@ -28594,7 +28594,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkFissure",
-    "custom": "",
+    "custom": "Цёмная расколіна",
     "en": "Dark Fissure",
     "ru": "Черный Излом",
     "bel": "Чорны Выгіб",
@@ -28603,7 +28603,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkFissure02",
-    "custom": "",
+    "custom": "Цёмная расколіна — тунэлі",
     "en": "Dark Fissure Tunnels",
     "ru": "Черный Излом - Туннели",
     "bel": "Чорны Выгіб - Тунэлі",
@@ -28612,7 +28612,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkFissure03",
-    "custom": "",
+    "custom": "Цёмная расколіна — унутранае свяцілішча",
     "en": "Dark Fissure Inner Sanctum",
     "ru": "Черный Излом - Внутреннее святилище",
     "bel": "Чорны Выгіб - Унутранае свяцілішча",
@@ -28621,7 +28621,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkFissureCell1Key",
-    "custom": "",
+    "custom": "Ключ ад камеры Цёмнай расколіны",
     "en": "Dark Fissure Cell Key",
     "ru": "Ключ от Черного Излома",
     "bel": "Ключ ад Чорнага Выгіба",
@@ -28630,7 +28630,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkGarlic",
-    "custom": "",
+    "custom": "Уразлівасць да часнаку",
     "en": "Weakness to Garlic",
     "ru": "Уязвимость к чесноку",
     "bel": "Уразлівасць да часнаку",
@@ -28639,7 +28639,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkGauntlets",
-    "custom": "",
+    "custom": "Рукі поўначы",
     "en": "Hands of Midnight",
     "ru": "Перчатки полночи",
     "bel": "Пярсцёнкі поўначы",
@@ -28648,7 +28648,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkGhostCell",
-    "custom": "",
+    "custom": "Камера прывіда Перэніі",
     "en": "Perennia's Ghost Holding Cell",
     "ru": "Камера призрака Переннии",
     "bel": "Камера прывіда Перэніі",
@@ -28657,7 +28657,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkGhostRufioSummoned",
-    "custom": "",
+    "custom": "Выкліканы прывід Руфіё",
     "en": "Summoned Ghost of Rufio",
     "ru": "Вызванный призрак Руфио",
     "bel": "Выкліканы прывід Руфіё",
@@ -28666,7 +28666,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkGift",
-    "custom": "",
+    "custom": "Цёмны дар DarkGift",
     "en": "DarkGift",
     "ru": "ТёмныйДар",
     "bel": "ЦёмныДар",
@@ -28675,7 +28675,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkGiftTopic",
-    "custom": "",
+    "custom": "Цёмны дар",
     "en": "Dark Gift",
     "ru": "Темный дар",
     "bel": "Цёмны дар",
@@ -28684,7 +28684,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkGuardianSanctuary",
-    "custom": "",
+    "custom": "Цёмны вартаўнік",
     "en": "Dark Guardian",
     "ru": "Черный страж",
     "bel": "Чорны вартаўнік",
@@ -28693,7 +28693,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkHeal",
-    "custom": "",
+    "custom": "Ласка Маці Ночы",
     "en": "Night Mother's Caress",
     "ru": "Ласка Матери Ночи",
     "bel": "Ласка Маці Ночы",
@@ -28702,7 +28702,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkIce",
-    "custom": "",
+    "custom": "Крывавая ледзяная булька Баронава",
     "en": "Baronoff's Bloody Icicle",
     "ru": "Кровавая сосулька Баронова",
     "bel": "Крывавая ледзяная балюшка Баронава",
@@ -28711,7 +28711,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkInfernalFrost",
-    "custom": "",
+    "custom": "Лук пякельнага холаду",
     "en": "Bow of Infernal Frost",
     "ru": "Лук адского холода",
     "bel": "Лук пякельнага холаду",
@@ -28720,7 +28720,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkInvis",
-    "custom": "",
+    "custom": "Празрыстасць смерці",
     "en": "Deathly Visage",
     "ru": "Прозрачность смерти",
     "bel": "Празрыстасць смерці",
@@ -28729,7 +28729,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkJournalClaudius",
-    "custom": "",
+    "custom": "Дзённік Клаўдзіуса Аркадзія",
     "en": "Journal of Claudius Arcadia",
     "ru": "Дневник Клаудиуса Аркадиа",
     "bel": "Дзённік Клаўдзіуса Аркадзія",
@@ -28738,7 +28738,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkLachanceNote",
-    "custom": "",
+    "custom": "Запячатаная запіска",
     "en": "Sealed Note",
     "ru": "Запечатанная записка",
     "bel": "Запячатаная запіска",
@@ -28747,7 +28747,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkLachanceOrders0",
-    "custom": "",
+    "custom": "Тайны загад №3",
     "en": "Dead Drop Orders #3",
     "ru": "Тайный приказ #3",
     "bel": "Тайны загад #3",
@@ -28756,7 +28756,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkLachanceOrders1",
-    "custom": "",
+    "custom": "Тайны загад №4",
     "en": "Dead Drop Orders #4",
     "ru": "Тайный приказ #4",
     "bel": "Тайны загад #4",
@@ -28765,7 +28765,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkLachanceOrders2",
-    "custom": "",
+    "custom": "Тайны загад №5",
     "en": "Dead Drop Orders #5",
     "ru": "Тайный приказ #5",
     "bel": "Тайны загад #5",
@@ -28774,7 +28774,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkLachanceOrders3",
-    "custom": "",
+    "custom": "Тайны загад №6",
     "en": "Dead Drop Orders #6",
     "ru": "Тайный приказ #6",
     "bel": "Тайны загад #6",
@@ -28783,7 +28783,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkLachanceOrders4",
-    "custom": "",
+    "custom": "Тайны загад №7",
     "en": "Dead Drop Orders #7",
     "ru": "Тайный приказ #7",
     "bel": "Тайны загад #7",
@@ -28792,7 +28792,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkLachanceOrdersBarrel",
-    "custom": "",
+    "custom": "Тайны загад №8",
     "en": "Dead Drop Orders #8",
     "ru": "Тайный приказ #8",
     "bel": "Тайны загад #8",
@@ -28801,7 +28801,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkLachanceOrdersChorrol",
-    "custom": "",
+    "custom": "Тайны загад №2",
     "en": "Dead Drop Orders #2",
     "ru": "Тайный приказ #2",
     "bel": "Сакрэтны загад №2",
@@ -28810,7 +28810,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkLachanceOrdersFirst",
-    "custom": "",
+    "custom": "Тайны загад №1",
     "en": "Dead Drop Orders #1",
     "ru": "Тайный приказ #1",
     "bel": "Сакрэтны загад №1",
@@ -28819,7 +28819,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkLachanceOrdersSealed",
-    "custom": "",
+    "custom": "Загад Люсьена Лашанса",
     "en": "Orders From Lucien Lachance",
     "ru": "Приказ Люсьена Лашанса",
     "bel": "Загад Люсьена Лашанса",
@@ -28828,7 +28828,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkLadyLuck",
-    "custom": "",
+    "custom": "Удача Старой Лэдзі",
     "en": "Old Lady's Luck",
     "ru": "Удача Пожилой Леди",
     "bel": "Удача Старой Лэдзі",
@@ -28837,7 +28837,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkMatthiasGrave",
-    "custom": "",
+    "custom": "Магіла Матыяса Драконіса",
     "en": "Grave of Matthias Draconis",
     "ru": "Могила Маттиаса Дракониса",
     "bel": "Магіла Матыяса Драконіса",
@@ -28846,7 +28846,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkMraajDarKey",
-    "custom": "",
+    "custom": "Ключ М'Радж-Дара",
     "en": "Mraaj-Dar's Key",
     "ru": "Ключ М'Радж-Дара",
     "bel": "Ключ М'Радж-Дара",
@@ -28855,7 +28855,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkNightBless",
-    "custom": "",
+    "custom": "Клінкі, схаванасць, узлом, стральба, акрабатыка +2",
     "en": "Blade, Sneak, Security, Marksman, Acrobatics +2",
     "ru": "Клинки, скрытность, взлом, стрельба, акробатика +2",
     "bel": "Клінкі, схаванасць, узлом, стральба, акрабатыка +2",
@@ -28864,7 +28864,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkNightEyes",
-    "custom": "",
+    "custom": "Начны вартаўнік",
     "en": "Void Gazer",
     "ru": "Ночной смотритель",
     "bel": "Начны вартаўнік",
@@ -28873,7 +28873,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkNightMotherBless",
-    "custom": "",
+    "custom": "Дабраславенне Маці Ночы",
     "en": "Night Mother's Blessing",
     "ru": "Благословение Матери Ночи",
     "bel": "Дабраславеньне Маці Ночы",
@@ -28882,7 +28882,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkOcheevaDoor",
-    "custom": "",
+    "custom": "Дзверы ў апартаменты Очывы",
     "en": "Door to Ocheeva's Quarters",
     "ru": "Дверь в апартаменты Очивы",
     "bel": "Дзверы ў апартаменты Очывы",
@@ -28891,7 +28891,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkOcheevaTelaendrilNote",
-    "custom": "",
+    "custom": "Запіска Очыве ад Целіндрыл",
     "en": "Telaendril's Ocheeva Note",
     "ru": "Записка Очиве от Телиндрил",
     "bel": "Запіска Очыве ад Целіндрыл",
@@ -28900,7 +28900,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkOrcElfConvo",
-    "custom": "",
+    "custom": "Размова Цёмнага Орка з Эльфам DarkOrcElfConvo",
     "en": "DarkOrcElfConvo",
     "ru": "Разговор с ТёмнымОркомЭльфом",
     "bel": "Размова з ЦёмнымОркамЭльфам",
@@ -28909,7 +28909,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkPerdition",
-    "custom": "",
+    "custom": "Пякельная лютасць",
     "en": "Perdition's Wrath",
     "ru": "Адская ярость",
     "bel": "Пякельная лютасць",
@@ -28918,7 +28918,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkPerenniaDog",
-    "custom": "",
+    "custom": "Джэйк",
     "en": "Jake",
     "ru": "Джейк",
     "bel": "Джэйк",
@@ -28927,7 +28927,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkPerenniaGrave",
-    "custom": "",
+    "custom": "Магіла Пераніі Драконіс",
     "en": "Grave of Perennia Draconis",
     "ru": "Могила Переннии Драконис",
     "bel": "Магіла Пераніі Драконіс",
@@ -28936,7 +28936,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkPlayaHata",
-    "custom": "",
+    "custom": "Цёмнае Брацтва — фракцыя, якую гульцы трываць не могуць",
     "en": "Dark Brotherhood Player Hate Faction",
     "ru": "Тёмное Братство — фракция, которую игроки терпеть не могут.",
     "bel": "Цёмнае Брацтва — фракцыя, якую гульцы трываць не могуць.",
@@ -28945,7 +28945,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkPlayer",
-    "custom": "",
+    "custom": "Сакрэтная фракцыя гульца: Цёмнае Брацтва",
     "en": "Dark Brotherhood Player Secret Faction",
     "ru": "Тайная фракция игрока: Тёмное Братство",
     "bel": "Сакрэтная фракцыя гульца: Цёмнае Брацтва",
@@ -28954,7 +28954,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkPlayer_LEVEL0_M",
-    "custom": "",
+    "custom": "Пазначаны смерцю",
     "en": "Marked for Death",
     "ru": "Помечен смертью",
     "bel": "Пазначаны смерцю",
@@ -28963,7 +28963,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkPrisonGuard01",
-    "custom": "",
+    "custom": "Вартаўнік Імперскай турмы",
     "en": "Imperial Prison Guard",
     "ru": "Стражник Имперской тюрьмы",
     "bel": "Вартаўнік Імперскай турмы",
@@ -28972,7 +28972,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkPrisonGuard02",
-    "custom": "",
+    "custom": "Вартаўнік Імперскай турмы",
     "en": "Imperial Prison Guard",
     "ru": "Стражник Имперской тюрьмы",
     "bel": "Вартаўнік Імперскай турмы",
@@ -28981,7 +28981,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkPrisonGuard03",
-    "custom": "",
+    "custom": "Вартаўнік Імперскай турмы",
     "en": "Imperial Prison Guard",
     "ru": "Стражник Имперской тюрьмы",
     "bel": "Вартаўнік Імперскай турмы",
@@ -28990,7 +28990,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkPrisonGuard04",
-    "custom": "",
+    "custom": "Вартаўнік Імперскай турмы",
     "en": "Imperial Prison Guard",
     "ru": "Стражник Имперской тюрьмы",
     "bel": "Вартаўнік Імперскай турмы",
@@ -28999,7 +28999,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkPrisonGuard05",
-    "custom": "",
+    "custom": "Вартаўнік Імперскай турмы",
     "en": "Imperial Prison Guard",
     "ru": "Стражник Имперской тюрьмы",
     "bel": "Вартаўнік Імперскай турмы",
@@ -29008,7 +29008,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkPrisonGuard06",
-    "custom": "",
+    "custom": "Капітан Гепард Мантроз",
     "en": "Captain Gepard Montrose",
     "ru": "Капитан Гепард Монтроз",
     "bel": "Капітан Гепард Мантроз",
@@ -29017,7 +29017,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkPrisonGuardTaunt",
-    "custom": "",
+    "custom": "Вартаўнік Імперскай турмы",
     "en": "Imperial Prison Guard",
     "ru": "Стражник Имперской тюрьмы",
     "bel": "Вартаўнік Імперскай турмы",
@@ -29026,7 +29026,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkRatSchemer",
-    "custom": "",
+    "custom": "Інтрыган",
     "en": "Schemer",
     "ru": "Шемер",
     "bel": "Шемер",
@@ -29035,7 +29035,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkRitualFaction",
-    "custom": "",
+    "custom": "Рытуальная фракцыя Цёмнага Брацтва",
     "en": "DarkBrotherhoodRitualFaction",
     "ru": "РитуальнаяФракцияТёмногоБратства",
     "bel": "РытуальнаяФракцыяЦёмнагаБрацтва",
@@ -29044,7 +29044,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkSancDwellers",
-    "custom": "",
+    "custom": "Жыхары прытулку Цёмнага Брацтва",
     "en": "Dark Brotherhood Sanctuary Dwellers",
     "ru": "Обитатели убежища Тёмного Братства",
     "bel": "Жыхары прытулку Цёмнага Брацтва",
@@ -29053,7 +29053,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkSancTalk1",
-    "custom": "",
+    "custom": "Размова ў прытулку 1 DarkSancTalk1",
     "en": "DarkSancTalk1",
     "ru": "Разговор в DarkSancTalk1",
     "bel": "Размова ў DarkSancTalk1",
@@ -29062,7 +29062,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkSancTalk2",
-    "custom": "",
+    "custom": "Размова ў прытулку 2 DarkSancTalk2",
     "en": "DarkSancTalk2",
     "ru": "DarkSancTalk2",
     "bel": "DarkSancTalk2",
@@ -29071,7 +29071,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkSancTalk3",
-    "custom": "",
+    "custom": "Размова ў прытулку 3 DarkSancTalk3",
     "en": "DarkSancTalk3",
     "ru": "DarkSancTalk3",
     "bel": "DarkSancTalk3",
@@ -29080,7 +29080,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkSancTalk4",
-    "custom": "",
+    "custom": "Размова ў прытулку 4 DarkSancTalk4",
     "en": "DarkSancTalk4",
     "ru": "Разговоры в DarkSancTalk4",
     "bel": "Размовы ў DarkSancTalk4",
@@ -29089,7 +29089,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkSancTalk5",
-    "custom": "",
+    "custom": "Размова ў прытулку 5 DarkSancTalk5",
     "en": "DarkSancTalk5",
     "ru": "Разговор в DarkSancTalk5",
     "bel": "Размова ў DarkSancTalk5",
@@ -29098,7 +29098,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkSancWellKey",
-    "custom": "",
+    "custom": "Ключ ад калодзежа прытулку",
     "en": "Sanctuary Well Key",
     "ru": "Ключ от колодца убежища",
     "bel": "Ключ ад калодзежа прытулку",
@@ -29107,7 +29107,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkSanctuaryDoor",
-    "custom": "",
+    "custom": "Дзверы прытулку",
     "en": "Sanctuary Door",
     "ru": "Дверь убежища",
     "bel": "Дзверы прытулку",
@@ -29116,7 +29116,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkSanctuaryIntDoor1",
-    "custom": "",
+    "custom": "Дзверы прытулку",
     "en": "Sanctuary Door",
     "ru": "Дверь убежища",
     "bel": "Дзверы прытулку",
@@ -29125,7 +29125,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkScales",
-    "custom": "",
+    "custom": "Шалі Бязлітаснага правасуддзя",
     "en": "Scales of Pitiless Justice",
     "ru": "Весы Безжалостного правосудия",
     "bel": "Шалі Бязлітаснага правасуддзя",
@@ -29134,7 +29134,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkScrollRufio",
-    "custom": "",
+    "custom": "Выклік прывіда Руфіё",
     "en": "Summon Rufio's Ghost",
     "ru": "Вызов призрака Руфио",
     "bel": "Выклік прывіда Руфіё",
@@ -29143,7 +29143,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkSecretSafe",
-    "custom": "",
+    "custom": "Замаскіраваны насценны сейф",
     "en": "Hidden Wall Safe",
     "ru": "Замаскированный стенной сейф",
     "bel": "Замаскіраваны насценны сейф",
@@ -29152,7 +29152,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkShadowmereFaction",
-    "custom": "",
+    "custom": "Фракцыя Ценягрыва",
     "en": "Shadowmere's Faction",
     "ru": "Фракция Shadowmere'а",
     "bel": "Фракцыя Shadowmere'а",
@@ -29161,7 +29161,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkShadowmereInvis",
-    "custom": "",
+    "custom": "Нябачнасць Ценявой Грывы",
     "en": "Shadowmere's Invisibility",
     "ru": "Невидимость Теневой Гривы",
     "bel": "Нябачнасць Ценявой Грывы",
@@ -29170,7 +29170,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkShuraviAndCaeliaFaction",
-    "custom": "",
+    "custom": "Фракцыя Шураві і Кейліі",
     "en": "Shuravi and Caelia's Faction",
     "ru": "Фракция Shuravi и Caelia.",
     "bel": "Фракцыя Shuravi і Caelia.",
@@ -29179,7 +29179,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkStandardOpen",
-    "custom": "",
+    "custom": "Няпрошаны госць",
     "en": "The Unwelcome Guest",
     "ru": "Непрошеный гость",
     "bel": "Няпрошаны госць",
@@ -29188,7 +29188,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkTeinaavaChest",
-    "custom": "",
+    "custom": "Скрыня Тэйнавы",
     "en": "Teinaava's Chest",
     "ru": "Сундук Тейнавы",
     "bel": "Скрыня Тэйнавы",
@@ -29197,7 +29197,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkTeinaavaKey",
-    "custom": "",
+    "custom": "Ключ Тэйнавы",
     "en": "Teinaava's Key",
     "ru": "Ключ Тейнавы",
     "bel": "Ключ Тэйнавы",
@@ -29206,7 +29206,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkTelaendrilKey",
-    "custom": "",
+    "custom": "Ключ Целіндрыл",
     "en": "Telaendril's Key",
     "ru": "Ключ Телиндрил",
     "bel": "Ключ Целіндрыл",
@@ -29215,7 +29215,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkUnderling",
-    "custom": "",
+    "custom": "Памагатыя Цёмнага Брацтва",
     "en": "Dark Brotherhood Underlings",
     "ru": "Подручные Тёмного Братства",
     "bel": "Памагатыя Цёмнага Брацтва",
@@ -29224,7 +29224,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkVicenteChest",
-    "custom": "",
+    "custom": "Скрыня Вінсента Вальціеры",
     "en": "Vicente Valtieri's Chest",
     "ru": "Сундук Винсента Вальтиери",
     "bel": "Скрыня Вінсента Вальціеры",
@@ -29233,7 +29233,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkVicenteDesk",
-    "custom": "",
+    "custom": "Пісьмовы стол Вінсента",
     "en": "Vicente Valtieri's Desk",
     "ru": "Письменный стол Винсента",
     "bel": "Пісьмовы стол Вінсента",
@@ -29242,7 +29242,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkVicenteKey",
-    "custom": "",
+    "custom": "Ключ Вальціеры",
     "en": "Valtieri's Key",
     "ru": "Ключ Вальтиери",
     "bel": "Ключ Вальціеры",
@@ -29251,7 +29251,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkVicenteNote",
-    "custom": "",
+    "custom": "Запіска Очыве ад Вінсента",
     "en": "Vicente's Note to Ocheeva",
     "ru": "Записка Очиве от Винсента",
     "bel": "Запіска Очыве ад Вінсента",
@@ -29260,7 +29260,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkWrathFaction",
-    "custom": "",
+    "custom": "Гнеў Сіціса — сакрэтная фракцыя",
     "en": "The Wrath of Sithis Secret Faction",
     "ru": "Гнев тайной фракции СИТИСА",
     "bel": "Гнеў тайнай фракцыі СІТІСА",
@@ -29269,7 +29269,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DarkfathomCave",
-    "custom": "",
+    "custom": "Пячора Чорны Фатом",
     "en": "Darkfathom Cave",
     "ru": "Пещера Черный Фатом",
     "bel": "Пячора Чорны Фатом",
@@ -29278,7 +29278,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DasekMoor",
-    "custom": "",
+    "custom": "Дасекмур",
     "en": "Dasek Moor",
     "ru": "Дасекмур",
     "bel": "Дасекмур",
@@ -29287,7 +29287,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DasekMoor02",
-    "custom": "",
+    "custom": "Дасекмур — магілы",
     "en": "Dasek Moor Tombs",
     "ru": "Дасекмур - Могилы",
     "bel": "Дасекмур - Магілы",
@@ -29296,7 +29296,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DasekMoor03",
-    "custom": "",
+    "custom": "Дасекмур — Малебоге",
     "en": "Dasek Moor Maleboge",
     "ru": "Дасекмур - Злые щели",
     "bel": "Дасекмур - Злыя шчыліны",
@@ -29305,7 +29305,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeadCaptive",
-    "custom": "",
+    "custom": "Мёртвы палонны",
     "en": "Dead Captive",
     "ru": "Мертвый пленник",
     "bel": "Мёртвы палонны",
@@ -29314,7 +29314,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeadCaptive02",
-    "custom": "",
+    "custom": "Мёртвы палонны",
     "en": "Dead Captive",
     "ru": "Мертвый пленник",
     "bel": "Мёртвы палонны",
@@ -29332,7 +29332,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeadCreatureScampStunted",
-    "custom": "",
+    "custom": "Кволы скамп",
     "en": "Stunted Scamp",
     "ru": "Чахлый скамп",
     "bel": "Знясілены скамп",
@@ -29341,7 +29341,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeadDropTopic",
-    "custom": "",
+    "custom": "Схованка",
     "en": "Dead Drop",
     "ru": "Тайник",
     "bel": "Схованка",
@@ -29350,7 +29350,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeadLoverFortNikel",
-    "custom": "",
+    "custom": "Нат Дайер",
     "en": "Nath Dyer",
     "ru": "Нат Дайер",
     "bel": "Нат Дайер",
@@ -29359,7 +29359,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeadMountainLion",
-    "custom": "",
+    "custom": "Пума",
     "en": "Mountain Lion",
     "ru": "Пума",
     "bel": "Пума",
@@ -29368,7 +29368,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeadMudCrab",
-    "custom": "",
+    "custom": "Гразевы краб",
     "en": "Mud Crab",
     "ru": "Грязевой краб",
     "bel": "Брудны краб",
@@ -29377,7 +29377,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeadSlaughterfish",
-    "custom": "",
+    "custom": "Рыба-забойца",
     "en": "Slaughterfish",
     "ru": "Рыба-убийца",
     "bel": "Рыба-забойца",
@@ -29386,7 +29386,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeadZombieCorpse",
-    "custom": "",
+    "custom": "Раскладзены труп",
     "en": "Decomposed Corpse",
     "ru": "Разложившийся труп",
     "bel": "Труп, які раскладаецца",
@@ -29395,7 +29395,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeadZombieHeadless",
-    "custom": "",
+    "custom": "Бязгаловы зомбі",
     "en": "Headless Zombie",
     "ru": "Безголовый зомби",
     "bel": "Бязгаловы зомбі",
@@ -29404,7 +29404,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeadlyPoisonbypassespoisonresistances",
-    "custom": "",
+    "custom": "Смяротны яд (ігнаруе супраціў ядам)",
     "en": "Deadly Poison (bypasses poison resistances)",
     "ru": "Смертельный яд (игнорирует сопротивление ядам)",
     "bel": "Смяротны яд (ігнаруе супраціў ядам)",
@@ -29413,7 +29413,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeathBlast",
-    "custom": "",
+    "custom": "Смяротны выбух",
     "en": "DeathBlast",
     "ru": "Смертельный взрыв.",
     "bel": "Смяротны выбух.",
@@ -29422,7 +29422,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Debt",
-    "custom": "",
+    "custom": "Абавязак",
     "en": "Debt",
     "ru": "Долг",
     "bel": "Абавязак",
@@ -29431,7 +29431,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DecentiusOpsius",
-    "custom": "",
+    "custom": "Дэсентыус Опсіус",
     "en": "Decentius Opsius",
     "ru": "Десентиус Опсиус",
     "bel": "Дэсентыус Опсіус",
@@ -29440,7 +29440,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeepscornBedroomReceipt",
-    "custom": "",
+    "custom": "Глыбокая Пагарда, спальня",
     "en": "Deepscorn Bedroom Area",
     "ru": "Глубокое Презрение, спальня",
     "bel": "Глыбокая Пагарда, спальня",
@@ -29449,7 +29449,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeepscornCellReceipt",
-    "custom": "",
+    "custom": "Глыбокая Пагарда, камера вязня",
     "en": "Deepscorn Cattle Cell",
     "ru": "Глубокое Презрение, камера пленника",
     "bel": "Глыбокая Пагарда, камера вязня",
@@ -29458,7 +29458,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeepscornChestVendorRowley",
-    "custom": "",
+    "custom": "Куфар Роўлі",
     "en": "Rowley's Chest",
     "ru": "Сундук Роули",
     "bel": "Куфар Роўлі",
@@ -29467,7 +29467,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeepscornChestVendorRowleyAddons",
-    "custom": "",
+    "custom": "Другі куфар Роўлі",
     "en": "Rowley's Addons Chest",
     "ru": "Второй сундук Роули",
     "bel": "Другі куфар Роўлі",
@@ -29476,7 +29476,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeepscornDiningReceipt",
-    "custom": "",
+    "custom": "Глыбокая Пагарда, сталовая",
     "en": "Deepscorn Dining Area",
     "ru": "Глубокое Презрение, столовая",
     "bel": "Глыбокая Пагарда, сталовая",
@@ -29485,7 +29485,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeepscornDone",
-    "custom": "",
+    "custom": "Няма патрэбы",
     "en": "I have no need",
     "ru": "Нет надобности",
     "bel": "Няма патрэбы",
@@ -29494,7 +29494,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeepscornHollow",
-    "custom": "",
+    "custom": "Упадзіна Глыбокай Пагарды",
     "en": "Deepscorn Hollow",
     "ru": "Мрачная Лощина",
     "bel": "Змрочная Лагчына",
@@ -29503,7 +29503,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeepscornHollowJournal",
-    "custom": "",
+    "custom": "Журнал Грэйвіна",
     "en": "Greywyn's Journal",
     "ru": "Журнал Грейвина",
     "bel": "Журнал Грэйвіна",
@@ -29512,7 +29512,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeepscornHollowKey",
-    "custom": "",
+    "custom": "Ключ ад Глыбокай Пагарды",
     "en": "Deepscorn Hollow Key",
     "ru": "Ключ от Глубокого Презрения",
     "bel": "Ключ ад Глыбокай Пагарды",
@@ -29521,7 +29521,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeepscornHollowNote",
-    "custom": "",
+    "custom": "Заплямлены крывёю запіс",
     "en": "Bloodstained Note",
     "ru": "Запятнанная кровью записка",
     "bel": "Заплямлены крывёю запіс",
@@ -29530,7 +29530,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeepscornMinionReceipt",
-    "custom": "",
+    "custom": "Глыбокая Пагарда, Цёмны Слуга",
     "en": "Deepscorn Dark Minion",
     "ru": "Глубокое Презрение, Темный Слуга",
     "bel": "Глыбокая Пагарда, Цёмны Слуга",
@@ -29539,7 +29539,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeepscornSlay",
-    "custom": "",
+    "custom": "Забі ў імя Сіціса.",
     "en": "Murder in the name of Sithis.",
     "ru": "Убей во имя Ситиса.",
     "bel": "Забі ў імя Сіціса.",
@@ -29548,7 +29548,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeepscornStorageReceipt",
-    "custom": "",
+    "custom": "Глыбокая Пагарда, склад",
     "en": "Deepscorn Storage Area",
     "ru": "Глубокое Презрение, склад",
     "bel": "Глыбокая Пагарда, склад",
@@ -29557,7 +29557,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeepscornStudyReceipt",
-    "custom": "",
+    "custom": "Глыбокая Пагарда, кабінет",
     "en": "Deepscorn Study Area",
     "ru": "Глубокое Презрение, кабинет",
     "bel": "Глыбокая Пагарда, кабінет",
@@ -29566,7 +29566,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeepscornVenomgrowthReceipt",
-    "custom": "",
+    "custom": "Глыбокая Пагарда, сад",
     "en": "Deepscorn Garden Receipt",
     "ru": "Глубокое Презрение, сад",
     "bel": "Глыбокая Пагарда, сад",
@@ -29575,7 +29575,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Deepwallow",
-    "custom": "",
+    "custom": "Дыпвалоў",
     "en": "Deepwallow",
     "ru": "Дипваллоу",
     "bel": "Дыпвалоў",
@@ -29584,7 +29584,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DeepwallowRegion",
-    "custom": "",
+    "custom": "Дыпвалоў",
     "en": "Deepwallow",
     "ru": "Дипваллоу",
     "bel": "Дыпвалоў",
@@ -29593,7 +29593,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Deetsan",
-    "custom": "",
+    "custom": "Дзітсан",
     "en": "Deetsan",
     "ru": "Дитсан",
     "bel": "Дзітсан",
@@ -29602,7 +29602,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DefaultPlayerSpell",
-    "custom": "",
+    "custom": "Лячэнне лёгкіх раненняў",
     "en": "Heal Minor Wounds",
     "ru": "Лечение легких ранений",
     "bel": "Лячэнне лёгкіх раненняў",
@@ -29611,7 +29611,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DelphineJend",
-    "custom": "",
+    "custom": "Дэльфіна Джэнд",
     "en": "Delphine Jend",
     "ru": "Дельфина Дженд",
     "bel": "Дэльфіна Джэнд",
@@ -29620,7 +29620,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DelphineJendEnemiesExplode",
-    "custom": "",
+    "custom": "Выбух ворагаў",
     "en": "Enemies Explode",
     "ru": "Взрыв врагов",
     "bel": "Выбух ворагаў",
@@ -29629,7 +29629,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DemandFail",
-    "custom": "",
+    "custom": "Правал запыту",
     "en": "DemandFail",
     "ru": "Провал запроса",
     "bel": "Правал запыту",
@@ -29638,7 +29638,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DemandNoMoney",
-    "custom": "",
+    "custom": "Ніякіх грошай",
     "en": "DemandNoMoney",
     "ru": "Никаких денег!",
     "bel": "Ніякіх грошай!",
@@ -29647,7 +29647,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DemandNoMoreCircle",
-    "custom": "",
+    "custom": "Больш ніякіх апраўданняў",
     "en": "DemandNoMoreCircle",
     "ru": "Больше никаких оправданий.",
     "bel": "Больш ніякіх апраўданняў.",
@@ -29656,7 +29656,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DemandSuccess",
-    "custom": "",
+    "custom": "Патрабаванне выканана",
     "en": "DemandSuccess",
     "ru": "ВостребованностьУспеха",
     "bel": "ЗапатрабаванасцьПоспеху",
@@ -29665,7 +29665,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DemoTestToddManDarkElf",
-    "custom": "",
+    "custom": "Албан Джусцініс",
     "en": "Alban Justinius",
     "ru": "Албан Джустинис",
     "bel": "Албан Джусцініс",
@@ -29674,7 +29674,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Denel",
-    "custom": "",
+    "custom": "Дэнэл",
     "en": "Denel",
     "ru": "Денел",
     "bel": "Дэнэл",
@@ -29683,7 +29683,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DerelictMine",
-    "custom": "",
+    "custom": "Пакінутая шахта",
     "en": "Derelict Mine",
     "ru": "Покинутая шахта",
     "bel": "Пакінутая шахта",
@@ -29692,7 +29692,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DerelictMine02",
-    "custom": "",
+    "custom": "Пакінутая шахта — тунэлі",
     "en": "Derelict Mine Tunnels",
     "ru": "Покинутая шахта - Туннели",
     "bel": "Пакінутая шахта - Тунэлі",
@@ -29701,7 +29701,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DerelictMine03",
-    "custom": "",
+    "custom": "Пакінутая шахта",
     "en": "Derelict Mine",
     "ru": "Покинутая шахта",
     "bel": "Пакінутая шахта",
@@ -29710,7 +29710,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DericKey",
-    "custom": "",
+    "custom": "Ключ Дэрыка",
     "en": "Derics' Key",
     "ru": "Ключ Дерика",
     "bel": "Ключ Дэрыка",
@@ -29719,7 +29719,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DerveraRomalen",
-    "custom": "",
+    "custom": "Дэрвера Рамален",
     "en": "Dervera Romalen",
     "ru": "Дервера Ромален",
     "bel": "Дэрвера Рамален",
@@ -29728,7 +29728,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DesertedMine",
-    "custom": "",
+    "custom": "Бязлюдная шахта",
     "en": "Deserted Mine",
     "ru": "Безлюдная шахта",
     "bel": "Бязлюдная шахта",
@@ -29737,7 +29737,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DesertedMine02",
-    "custom": "",
+    "custom": "Бязлюдная шахта — пячоры",
     "en": "Deserted Mine Caverns",
     "ru": "Безлюдная шахта - Пещеры",
     "bel": "Бязлюдная шахта - Пячоры",
@@ -29800,7 +29800,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DesolateMine",
-    "custom": "",
+    "custom": "Закінутая шахта",
     "en": "Desolate Mine",
     "ru": "Запущенная шахта",
     "bel": "Закінутая шахта",
@@ -29809,7 +29809,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dhola",
-    "custom": "",
+    "custom": "Дола",
     "en": "Dhola",
     "ru": "Дола",
     "bel": "Дола",
@@ -29818,7 +29818,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DidierAumilie",
-    "custom": "",
+    "custom": "Дзідзье Амілі",
     "en": "Didier Aumilie",
     "ru": "Дидье Омили",
     "bel": "Дзідзье Амілі",
@@ -29827,7 +29827,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DinnerParty",
-    "custom": "",
+    "custom": "Прыёмны абед",
     "en": "Dinner Party",
     "ru": "Званый обед",
     "bel": "Прыёмны абед",
@@ -29836,7 +29836,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DiramSerethi",
-    "custom": "",
+    "custom": "Дырам Сераці",
     "en": "Diram Serethi",
     "ru": "Дирам Серети",
     "bel": "Дырам Сераці",
@@ -29845,7 +29845,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DireWarren",
-    "custom": "",
+    "custom": "Жудасныя трушчобы",
     "en": "Dire Warren",
     "ru": "Жуткие трущобы",
     "bel": "Жудасныя трушчобы",
@@ -29854,7 +29854,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Directions",
-    "custom": "",
+    "custom": "Напрамкі",
     "en": "Directions",
     "ru": "Интересные места",
     "bel": "Цікавыя мясціны",
@@ -29863,7 +29863,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DirectionsLandmarks",
-    "custom": "",
+    "custom": "Раскажы мне пра арыенціры.",
     "en": "Tell me about landmarks.",
     "ru": "Расскажи мне об ориентирах.",
     "bel": "Раскажы мне пра арыенціры.",
@@ -29872,7 +29872,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DirectionsServices",
-    "custom": "",
+    "custom": "Якія тут аказваюцца паслугі?",
     "en": "Where are the services?",
     "ru": "Какие здесь оказываются услуги?",
     "bel": "Якія тут аказваюцца паслугі?",
@@ -29881,7 +29881,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DirectionsSleep",
-    "custom": "",
+    "custom": "Дзе я магу пераначаваць?",
     "en": "Where can I sleep?",
     "ru": "Где я могу переночевать?",
     "bel": "Дзе я магу пераначаваць?",
