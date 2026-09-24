@@ -1,7 +1,7 @@
 [
   {
     "key": "ST_Descriptions/LOC_DE_ABAT",
-    "custom": "",
+    "custom": "Гэта падрабязнае апісанне для Паглынання атрыбута.",
     "en": "This is the big description for Absorb Attribute.",
     "ru": "Это подробное описание для Absorb Attribute.",
     "bel": "Гэта падрабязнае апісанне для Absorb Attribute.",
@@ -9,7 +9,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_Acrobat",
-    "custom": "",
+    "custom": "Той, хто выкарыстоўвае <RT_BlueMed>спрытнасць і трываласць</> сабе на карысць. Не баіцца скакаць на вялікія адлегласці.",
     "en": "The kind of person that uses <RT_BlueMed>Agility and Endurance</> to their advantage. Unafraid of jumping long distances.",
     "ru": "Они извлекают максимум из природных ловкости и выносливости. Их не испугать трудными прыжками.",
     "bel": "Яны выцягваюць максімум з прыроднай спрытнасці і цягавітасці. Іх не спалохаць цяжкімі скачкамі.",
@@ -18,7 +18,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_Agent",
-    "custom": "",
+    "custom": "<RT_BlueMed>Абаяльныя</>, калі іх заўважаюць, і <RT_BlueMed>амаль незаўважныя</>, калі хаваюцца ў цені.",
     "en": "<RT_BlueMed>Charming</> when they can be seen, and <RT_BlueMed>nearly invisible</> when lurking in the shadows.",
     "ru": "Стоит заметить их, и они очаруют вас, стоит им уйти в тень, и они станут почти невидимы.",
     "bel": "Варта заўважыць іх, і яны зачаруюць вас, варта ім сысці ў цень, і яны стануць амаль нябачнымі.",
@@ -27,7 +27,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_Archer",
-    "custom": "",
+    "custom": "Стралок, <RT_BlueMed>умелы ў баі на вялікіх адлегласцях</>. Здольны зваліць большасць ворагаў перш, чым тыя паспеюць выхапіць меч.",
     "en": "A marksman, <RT_BlueMed>adept at combat at great distances</>. Able to take down most foes before they have a chance to draw sword.",
     "ru": "Приверженцы боя на расстоянии. Они способны поразить большую часть врагов прежде, чем те успеют вытащить мечи из ножен.",
     "bel": "Прыхільнікі бою на адлегласці. Яны здольныя паразіць большую частку ворагаў перш, чым тыя паспеюць выцягнуць мячы з ножнаў.",
@@ -36,7 +36,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_ArenaLoad1",
-    "custom": "",
+    "custom": "Калі вы вырашыце выйсці на Арэну ў якасці байца, вам лепш добра падрыхтавацца. Кожны бой - гэта бітва не на жыццё, а на смерць.",
     "en": "If you decide to enter the Arena as a combatant, you'd better come prepared. Every match is a fight to the death.",
     "ru": "Если вы решитесь выйти на Арену в качестве бойца, вам лучше хорошо подготовиться. Каждый бой - это битва не на жизнь, а на смерть.",
     "bel": "Калі вы вырашыце выйсці на Арэну ў якасці байца, вам лепш добра падрыхтавацца. Кожны бой - гэта бітва не на жыццё, а на смерць.",
@@ -45,7 +45,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_ArenaLoad2",
-    "custom": "",
+    "custom": "Крывавая зала, якая знаходзіцца пад Арэнай, была названа так нездарма. Кроў часта прасочваецца туды праз рашоткі арэны.",
     "en": "The Bloodworks beneath the Arena has been appropriately named. Blood often seeps down through the grate of the fighting pit and into this training area.",
     "ru": "Кровавый зал, находящийся под Ареной, был назван так не зря. Кровь часто просачивается туда через решетки арены.",
     "bel": "Крывавая зала, якая знаходзіцца пад Арэнай, была названа так нездарма. Кроў часта прасочваецца туды праз рашоткі арэны.",
@@ -54,7 +54,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_ArenaLoad3",
-    "custom": "",
+    "custom": "Першым майстрам мяча Арэны быў Гэйдэн Шынджы, воін ордэна Дыягны, нястрашны і доблесны.  ",
     "en": "The first Arena Blademaster was Gaiden Shinji, a fierce and noble warrior of the Order of Diagna.  ",
     "ru": "Первым мастером меча Арены был Гэйден Шинджи, воин ордена Диагны, неустрашимый и доблестный.",
     "bel": "Першым майстрам мяча Арэны быў Гэйдэн Шынджы, воін ордэна Дыягны, нястрашны і доблесны.",
@@ -63,7 +63,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_Argonian",
-    "custom": "",
+    "custom": "Гэтая рэптылападобная раса, добра прыстасаваная да небяспечных балот сваёй радзімы, развіла <RT_BlueMed>прыродны імунітэт да яду</>. Яны могуць <RT_BlueMed>дыхаць пад вадой</> і <RT_BlueMed>умела ўзломваюць замкі</>.",
     "en": "This reptilian race, well-suited for the treacherous swamps of its homeland, has developed <RT_BlueMed>natural immunities to poisons</>. They can <RT_BlueMed>breathe under water</> and are <RT_BlueMed>good at picking locks</>.",
     "ru": "Раса рептилий, прекрасно приспособленная к обитанию в коварных болотах своей родной страны. Они выработали естественный иммунитет к болезням и ядам. Могут дышать под водой и успешно справляются со взломом замков.",
     "bel": "Раса рэптылій, выдатна прыстасаваная да пражывання ў падступных балотах сваёй роднай краіны. Яны выпрацавалі натуральны імунітэт да хвароб і ядаў. Могуць дыхаць пад вадой і паспяхова спраўляюцца са ўзломам замкоў.",
@@ -72,7 +72,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_Assassin",
-    "custom": "",
+    "custom": "<RT_BlueMed>Спрытныя і ціхія</>, яны рухаюцца ў цемры, каб нанесці ўдар нічога не падазраючым. Замкі не спыняць іх.",
     "en": "<RT_BlueMed>Nimble and quiet</>, they move in darkness to strike at the unsuspecting. Locks hold no doors shut for them.",
     "ru": "Ловкие и бесшумные, крадутся они в ночи, чтобы нанести удар ничего не подозревающей жертве. Для них не существует запертых дверей.",
     "bel": "Спрытныя і бясшумныя, крадуцца яны ў ночы, каб нанесці ўдар ахвяры, якая нічога не падазрае. Для іх не існуе замкнёных дзвярэй.",
@@ -81,7 +81,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_Barbarian",
-    "custom": "",
+    "custom": "<RT_BlueMed>Грозныя дзікуны</>, якія ўсяляюць страх і жах у сэрцы сваіх ворагаў. Як бура, <RT_BlueMed>хуткія і магутныя</>. Амаль не карыстаюцца цяжкай бранёй, спадзеючыся ўвагнаць ворагаў у зямлю.",
     "en": "<RT_BlueMed>Fearsome brutes</> who inspire fear and dread in the hearts of their enemies. Like a storm, <RT_BlueMed>swift and powerful</>. Finding little use for heavy armor, they rely on smashing their foes into the ground.",
     "ru": "Могучие и свирепые, они вселяют страх в сердца своих противников. Они, подобно шторму, быстры и неистовы. Мало доверяя тяжелой броне, они предпочитают вбивать врагов в землю",
     "bel": "Магутныя і лютыя, яны ўсяляюць страх у сэрцы сваіх праціўнікаў. Яны, як шторм, хуткія і шалёныя. Мала давяраючы цяжкай брані, яны аддаюць перавагу ўбіваць ворагаў у зямлю.",
@@ -90,7 +90,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_Bard",
-    "custom": "",
+    "custom": "<RT_BlueMed>Разумныя і абаяльныя</>, яны аддаюць перавагу спачатку слову, а потым ужо мечу.",
     "en": "<RT_BlueMed>Intelligent and personable</>, they prefer to accomplish tasks with their words first, and sword second.",
     "ru": "Умные и обаятельные, они предпочитают сначала воспользоваться словом, а уж потом - мечом.",
     "bel": "Разумныя і абаяльныя, яны аддаюць перавагу спачатку скарыстацца словам, а ўжо потым - мячом.",
@@ -99,7 +99,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_Battlemage",
-    "custom": "",
+    "custom": "Здольныя вырашыць большасць канфліктаў і заклёнам, і мечам. Яны — небяспечнае спалучэнне <RT_BlueMed>вучонага і воіна</>.",
     "en": "Able to resolve most conflicts with either spell or sword. They are a deadly mix of <RT_BlueMed>scholar and soldier</>.",
     "ru": "Они способны решать большинство конфликтов с помощью как заклинаний, так и меча. Смертельная комбинация ученого и солдата.",
     "bel": "Яны здольныя вырашаць большасць канфліктаў з дапамогай як загавораў, так і мяча. Смяротная камбінацыя вучонага і салдата.",
@@ -108,7 +108,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_BirthSignApprentice",
-    "custom": "",
+    "custom": "Народжаныя пад знакам Вучня маюць <RT_BlueMed>павялічаны запас магіі</>, але таксама <RT_BlueMed>больш уразлівыя да магічных атак</>.<lf><lf>• <RT_BlueMed>Умацаванне магіі</>: павялічвае магію на 100 адзінак.<lf><lf>• <RT_BlueMed>Слабасць да магіі</>: павялічвае ўразлівасць да магіі на 100%.",
     "en": "Those born under the sign of The Apprentice have an <RT_BlueMed>increased amount of Magicka</>, but are also <RT_BlueMed>more susceptible to magical attacks</>.<lf><lf>• <RT_BlueMed>Fortify Magicka</>: Increases Magicka by 100 points.<lf><lf>• <RT_BlueMed>Weakness to Magic</>: Increases susceptibility to magic by 100%.",
     "ru": "Способность Ученика дает вам прибавку к магии в 100 единиц, но также на 100% повышает уязвимость к магии.",
     "bel": "Здольнасць Вучня дае вам прыбаўку да магіі ў 100 адзінак, але таксама на 100% павышае ўразлівасць да магіі.",
@@ -117,7 +117,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_BirthSignAtronach",
-    "custom": "",
+    "custom": "Народжаныя пад знакам Атронаха <RT_BlueMed>не могуць аднаўляць магію</>, але здольныя <RT_BlueMed>паглынаць</> любую <RT_BlueMed>магію</>, накіраваную на іх.<lf><lf>• <RT_BlueMed>Умацаванне магіі</>: павялічвае магію на 150 адзінак.<lf><lf>• <RT_BlueMed>Паглынанне заклінанняў</>: 50% шанец паглынуць заклінанне, накіраванае на іх.<lf><lf>• <RT_BlueMed>Затрыманая магія</>: аднаўленне магіі спынена.",
     "en": "Those born under the sign of The Atronach <RT_BlueMed>cannot regenerate Magicka</>, but have the ability to <RT_BlueMed>absorb</> any <RT_BlueMed>magic</> cast at them.<lf><lf>• <RT_BlueMed>Fortify Magicka</>: Increases Magicka by 150 points.<lf><lf>• <RT_BlueMed>Spell Absorption</>: 50% chance of absorbing spells cast at them.<lf><lf>• <RT_BlueMed>Stunted Magicka</>: Magicka regeneration is halted.",
     "ru": "Способность Атронаха отнимает у вас возможность восстанавливать свою магическую энергию со временем. Вместо этого вас наделяют 50% поглощением заклинаний, позволяющим пополнять магию, а ваш базовый уровень магии повышается на 150 единиц.",
     "bel": "Здольнасць Атронаха аднімае ў вас магчымасць аднаўляць сваю магічную энергію з часам. Замест гэтага вас надзяляюць 50% паглынаннем заклінанняў, што дазваляе папаўняць магію, а ваш базавы ўзровень магіі павышаецца на 150 адзінак.",
@@ -126,7 +126,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_BirthSignLady",
-    "custom": "",
+    "custom": "Народжаныя пад знакам Лэдзі атрымліваюць павышаныя <RT_BlueMed>сілу волі</> і <RT_BlueMed>трываласць</>.<lf><lf>• <RT_BlueMed>Умацаванне сілы волі</>: павялічвае сілу волі на 10 адзінак.<lf><lf>• <RT_BlueMed>Умацаванне трываласці</>: павялічвае трываласць на 10 адзінак.",
     "en": "Those born under the sign of The Lady benefit from increased <RT_BlueMed>Willpower</> and <RT_BlueMed>Endurance</>.<lf><lf>• <RT_BlueMed>Fortify Willpower</>: Increases Willpower by 10 points.<lf><lf>• <RT_BlueMed>Fortify Endurance</>: Increases Endurance by 10 points.",
     "ru": "Благословение Леди дает вам постоянную прибавку в 10 единиц к силе воли и выносливости.",
     "bel": "Благаславенне Лэдзі дае вам пастаянную прыбаўку ў 10 адзінак да сілы волі і цягавітасці.",
@@ -135,7 +135,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_BirthSignLord",
-    "custom": "",
+    "custom": "Народжаныя пад знакам Лорда <RT_BlueMed>больш устойлівыя да фізічнага і магічнага ўрону</>.<lf><lf>• <RT_BlueMed>Шчыт</>: павялічвае клас брані на 15.<lf><lf>• <RT_BlueMed>Супраціўленне магіі</>: павялічвае супраціўленне магіі на 15%.",
     "en": "Those born under the sign of The Lord are <RT_BlueMed>more resistant to physical and magic damage</>.<lf><lf>• <RT_BlueMed>Shield</>: Increases Armor Rating by 15.<lf><lf>• <RT_BlueMed>Resist Magic</>: Increases magic resistance by 15%.",
     "ru": "Рожденные под знаком Лорда получают способность \"Кровь Севера\", восстанавливающую до 90 единиц здоровья. Впрочем, вы получаете также проклятие троллеподобия - постоянное повышение уязвимости к огню на 25%.",
     "bel": "Народжаныя пад знакам Лорда атрымліваюць здольнасць \"Кроў Поўначы\", якая аднаўляе да 90 адзінак здароўя. Зрэшты, вы атрымліваеце таксама праклён тролепадобнасці - пастаяннае павышэнне ўразлівасці да агню на 25%.",
@@ -144,7 +144,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_BirthSignLover",
-    "custom": "",
+    "custom": "Народжаныя пад знакам Каханка могуць <RT_BlueMed>паралізаваць</> іншых.<lf><lf>• <RT_BlueMed>Пацалунак Каханка (вялікая сіла)</>: паралізуе мэту на 10 секунд і адбірае ў закляналага 120 адзінак стомленасці. Можна выкарыстоўваць раз на дзень.",
     "en": "Those born under the sign of The Lover can <RT_BlueMed>paralyze</> others.<lf><lf>• <RT_BlueMed>Lover's Kiss (greater power)</>: Paralyzes the target for 10 seconds and reduces the caster's fatigue by 120 points. Can be used once per day.",
     "ru": "Вы можете раз в день использовать \"Поцелуй Любовника\", чтобы парализовать противника на 10 секунд за счет 120 единиц вашего запаса сил.",
     "bel": "Вы можаце раз у дзень выкарыстоўваць \"Пацалунак Каханка\", каб паралізаваць праціўніка на 10 секунд за кошт 120 адзінак вашага запасу сіл.",
@@ -153,7 +153,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_BirthSignMage",
-    "custom": "",
+    "custom": "Народжаныя пад знакам Мага маюць <RT_BlueMed>павялічаны запас магіі</>.<lf><lf>• <RT_BlueMed>Умацаванне магіі</>: павялічвае магію на 50 адзінак.",
     "en": "Those born under the sign of The Mage have an <RT_BlueMed>increased amount of Magicka</>.<lf><lf>• <RT_BlueMed>Fortify Magicka</>: Increases Magicka by 50 points.",
     "ru": "Способность Мага дает вам постоянную прибавку в 50 единиц к магии.",
     "bel": "Здольнасць Мага дае вам пастаянную прыбаўку ў 50 адзінак да магіі.",
@@ -162,7 +162,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_BirthSignRitual",
-    "custom": "",
+    "custom": "Народжаныя пад знакам Рытуалу могуць <RT_BlueMed>лячыць</> сябе і <RT_BlueMed>прымушаць нежыць уцякаць у жаху</>.<lf><lf>• <RT_BlueMed>Свяшчэннае слова</>: прымушае нежыць уцякаць у жаху на 30 секунд. Можна выкарыстоўваць некалькі разоў на дзень коштам 40 адзінак магіі за выкарыстанне.<lf><lf>• <RT_BlueMed>Дар Мары (вялікая сіла)</>: аднаўляе 200 адзінак здароўя. Можна выкарыстоўваць раз на дзень.",
     "en": "Those born under the sign of The Ritual can <RT_BlueMed>heal</> themselves and <RT_BlueMed>make the undead flee in horror</>.<lf><lf>• <RT_BlueMed>Blessed Word</>: Forces the undead to flee in horror for 30 seconds. Can be used multiple times per day at a cost of 40 Magicka points per cast.<lf><lf>• <RT_BlueMed>Mara's Gift (greater power)</>: Restores 200 points of health. Can be used once per day.",
     "ru": "Рожденные под знаком Ритуала могут раз в день использовать способность \"Подарок Мары\" для эффективного восстановления собственного здоровья. \"Слово благословения\" может отпугивать нежить.",
     "bel": "Народжаныя пад знакам Рытуалу могуць раз у дзень выкарыстоўваць здольнасць \"Падарунак Мары\" для эфектыўнага аднаўлення ўласнага здароўя. \"Слова благаславення\" можа адпужваць нежыць.",
@@ -171,7 +171,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_BirthSignSerpent",
-    "custom": "",
+    "custom": "Народжаныя пад знакам Змея могуць <RT_BlueMed>атручваць іншых</>, але коштам уласнай стомленасці.<lf><lf>• <RT_BlueMed>Заклён Змея (вялікая сіла)</>: наносіць 3 адзінкі ўрону на працягу 20 секунд. Таксама вылечвае атручэнне, рассейвае 90 адзінак эфектаў і адбірае ў закляналага 100 адзінак стомленасці. Можна выкарыстоўваць раз на дзень.",
     "en": "Those born under the sign of The Serpent can <RT_BlueMed>poison others</>, though it comes at the cost of damaging their own Fatigue.<lf><lf>• <RT_BlueMed>Serpent Spell (greater power)</>: Deal 3 points of damage for 20 seconds. It also cures Poison, dispels 90 points and damage Fatigue 100 points to the caster. Can be used once per day.",
     "ru": "Заклинание Змея наносит врагам урон медленным, но сильнодействующим ядом при касании. Одновременно вы налагаете лечение и рассеивание магии на себя за счет потери 100 единиц вашего запаса сил.",
     "bel": "Заклінанне Змея наносіць ворагам урон павольным, але моцным ядам пры дакрананні. Адначасова вы накладваеце лячэнне і рассейванне магіі на сябе за кошт страты 100 адзінак вашага запасу сіл.",
@@ -180,7 +180,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_BirthSignShadow",
-    "custom": "",
+    "custom": "Народжаныя пад знакам Ценю могуць станавіцца <RT_BlueMed>нябачнымі</>.<lf><lf>• <RT_BlueMed>Месяцовы Цень (вялікая сіла)</>: дае нябачнасць на 60 секунд. Можна выкарыстоўваць раз на дзень.",
     "en": "Those born under the sign of The Shadow can become <RT_BlueMed>invisible</>.<lf><lf>• <RT_BlueMed>Moonshadow (greater power)</>: Grants invisibility for 60 seconds. Can be used once per day.",
     "ru": "Способность \"Лунная Тень\" дарует вам невидимость на 60 секунд. Использовать ее можно один раз в день.",
     "bel": "Здольнасць \"Месяцовы Цень\" дорыць вам нябачнасць на 60 секунд. Выкарыстоўваць яе можна адзін раз у дзень.",
@@ -189,7 +189,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_BirthSignSteed",
-    "custom": "",
+    "custom": "Народжаныя пад знакам Каня могуць <RT_BlueMed>рухацца хутчэй</>.<lf><lf>• <RT_BlueMed>Умацаванне хуткасці</>: павялічвае хуткасць руху на 20 адзінак.",
     "en": "Those born under the sign of The Steed can <RT_BlueMed>move faster</>.<lf><lf>• <RT_BlueMed>Fortify Speed</>: Increases movement speed by 20 points.",
     "ru": "Способность Коня дает вам постоянную прибавку в 20 единиц к скорости.",
     "bel": "Здольнасць Каня дае вам пастаянную прыбаўку ў 20 адзінак да хуткасці.",
@@ -198,7 +198,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_BirthSignThief",
-    "custom": "",
+    "custom": "Народжаныя пад знакам Злодзея атрымліваюць павышаныя <RT_BlueMed>спрытнасць</>, <RT_BlueMed>хуткасць</> і <RT_BlueMed>удачу</>.<lf><lf>• <RT_BlueMed>Умацаванне спрытнасці</>: павялічвае спрытнасць на 10 адзінак.<lf><lf>• <RT_BlueMed>Умацаванне ўдачы</>: павялічвае ўдачу на 10 адзінак.<lf><lf>• <RT_BlueMed>Умацаванне хуткасці</>: павялічвае хуткасць на 10 адзінак.",
     "en": "Those born under the sign of The Thief benefit from increased <RT_BlueMed>Agility</>, <RT_BlueMed>Speed</> and <RT_BlueMed>Luck</>.<lf><lf>• <RT_BlueMed>Fortify Agility</>: Increases Agility by 10 points.<lf><lf>• <RT_BlueMed>Fortify Luck</>: Increases Luck by 10 points.<lf><lf>• <RT_BlueMed>Fortify Speed</>: Increases Speed by 10 points.",
     "ru": "Способность Вора дает вам прибавку в 10 единиц к ловкости, скорости и удаче.",
     "bel": "Здольнасць Зладзея дае вам прыбаўку ў 10 адзінак да спрытнасці, хуткасці і ўдачы.",
@@ -207,7 +207,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_BirthSignTower",
-    "custom": "",
+    "custom": "Народжаныя пад знакам Вежы могуць магічна <RT_BlueMed>адчыняць дзверы</> і <RT_BlueMed>адлюстроўваць урон</> ад сваіх нападнікаў.<lf><lf>• <RT_BlueMed>Ключ Вежы</>: адчыняе замкі сярэдняй складанасці. Можна выкарыстоўваць раз на дзень.<lf><lf>• <RT_BlueMed>Ахоўнік Вежы (вялікая сіла)</>: адлюстроўвае 5% усяго ўваходнага ўрону на працягу 120 секунд. Можна выкарыстоўваць раз на дзень.",
     "en": "Those born under the sign of The Tower can magically <RT_BlueMed>unlock doors</> and <RT_BlueMed>reflect damage</> from their attackers.<lf><lf>• <RT_BlueMed>Tower Key</>: Opens locks of average difficulty. Can be used once per day.<lf><lf>• <RT_BlueMed>Tower Warden (greater power)</>: Reflects 5% of all incoming damage for 120 seconds. Can be used once per day.",
     "ru": "При помощи способности \"Башенный ключ\" вы можете раз в день открыть дверь или сундук, запертые на замок не выше среднего уровня сложности. \"Смотритель Башни\" один раз в день отражает пять единиц урона в течение 120 секунд.",
     "bel": "Пры дапамозе здольнасці \"Вежавы ключ\" вы можаце раз у дзень адкрыць дзверы або куфар, замкнёныя на замок не вышэй сярэдняга ўзроўню складанасці. \"Наглядчык Вежы\" адзін раз у дзень адлюстроўвае пяць адзінак урону на працягу 120 секунд.",
@@ -216,7 +216,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_BirthSignWarrior",
-    "custom": "",
+    "custom": "Народжаныя пад знакам Воіна атрымліваюць павышаныя <RT_BlueMed>сілу</> і <RT_BlueMed>трываласць</>.<lf><lf>• <RT_BlueMed>Умацаванне трываласці</>: павялічвае трываласць на 10 адзінак.<lf><lf>• <RT_BlueMed>Умацаванне сілы</>: павялічвае сілу на 10 адзінак.",
     "en": "Those born under the sign of The Warrior benefit from increased <RT_BlueMed>Strength</> and <RT_BlueMed>Endurance</>.<lf><lf>• <RT_BlueMed>Fortify Endurance</>: Increases Endurance by 10 points.<lf><lf>• <RT_BlueMed>Fortify Strength</>: Increases Strength by 10 points.",
     "ru": "Способность Воина дает вам прибавку в 10 единиц к силе и выносливости.",
     "bel": "Здольнасць Воіна дае вам прыбаўку ў 10 адзінак да сілы і цягавітасці.",
@@ -225,7 +225,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_Breton",
-    "custom": "",
+    "custom": "Акрамя <RT_BlueMed>хуткага і чуйнага разумення чаравання</>, нават самы сціплы брэтонец можа <RT_BlueMed>пахваліцца супраціўленнем магічным энергіям</>. Яны асабліва <RT_BlueMed>ўмелыя ў чарадзействе і гаючай магіі</>.",
     "en": "In addition to their <RT_BlueMed>quick and perceptive grasp of spellcraft</>, even the humblest of Bretons can <RT_BlueMed>boast a resistance to magical energies</>. They are particularly <RT_BlueMed>skilled at summoning and healing magic</>.",
     "ru": "В дополнение к способностям к изучению заклинаний, даже простые бретонцы обладают высоким сопротивлением магическим энергиям. Особенно искусны они в колдовстве, мистицизме и восстановлении.",
     "bel": "У дадатак да здольнасцяў да вывучэння заклінанняў, нават простыя бретонцы валодаюць высокім супрацівам магічным энергіям. Асабліва ўмелыя яны ў чарадзействе, містыцызме і аднаўленні.",
@@ -234,7 +234,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_Chapels01",
-    "custom": "",
+    "custom": "Маліцеся ў капліцах, ля алтароў Дзевяці, каб пазбавіцца ад хвароб.",
     "en": "Pray in chapels at the Altars of the Nine to rid the body of its afflictions.",
     "ru": "Молитесь в часовнях, у алтарей Девяти, чтобы избавиться от недугов.",
     "bel": "Маліцеся ў капліцах, ля алтароў Дзевяці, каб пазбавіцца ад хвароб.",
@@ -243,7 +243,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_Chapels02",
-    "custom": "",
+    "custom": "Праведныя просяць літасці Дзевяці ля алтароў у капліцах.",
     "en": "The righteous seek blessings from the Nine at altars in the chapels.",
     "ru": "Праведные просят милости Девяти у алтарей в часовнях.",
     "bel": "Праведныя просяць літасці Дзевяці ля алтароў у капліцах.",
@@ -252,7 +252,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_Chapels03",
-    "custom": "",
+    "custom": "Дзевяць бажастваў не любяць грэшнікаў і не чуюць іх малітваў ля алтароў капліц.",
     "en": "The Nine love not the wicked, and scorn their prayers at chapel altars.",
     "ru": "Девять божеств не любят грешников и не слышат их молитв у алтарей часовен.",
     "bel": "Дзевяць бажастваў не любяць грэшнікаў і не чуюць іх малітваў ля алтароў капліц.",
@@ -261,7 +261,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_Chapels04",
-    "custom": "",
+    "custom": "Парушальнікі закона! Вашы мальбы ў капліцах аб вылячэнні і зняцці псуты могуць быць адхіленыя з-за вашых грахоў! Аднавіце сваё добрае імя перад законам і маліце аб прабачэнні!",
     "en": "Criminals with bounties! Your prayers at the chapel for healing, curing, and restoration may be denied for your sins! Clear the bounties from your head, and seek forgiveness!",
     "ru": "Нарушители закона! Ваши мольбы в часовнях об исцелении и снятии порчи могут быть отвергнуты из-за ваших грехов! Восстановите свое доброе имя перед законом и молите о прощении!",
     "bel": "Парушальнікі закона! Вашы мальбы ў капліцах аб вылячэнні і зняцці псуты могуць быць адхіленыя з-за вашых грахоў! Аднавіце сваё добрае імя перад законам і маліце аб прабачэнні!",
@@ -270,7 +270,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_Chapels05",
-    "custom": "",
+    "custom": "Багахульнікі і злачынцы! Ведайце, што Дзевяць будуць узважваць вашы добрыя і злыя справы, калі вы моліцеся аб вылячэнні, зняцці псуты і аднаўленні сіл ля алтароў капліц.",
     "en": "Infamous villains! The Nine may balance the fame of good deeds against the shame of your wickedness when you pray for healing, curing, and restoration at their chapel altars.",
     "ru": "Богохульники и преступники! Знайте, что Девять будут взвешивать ваши добрые и злые дела, когда вы молитесь об исцелении, снятии порчи и восстановлении сил у алтарей часовен.",
     "bel": "Багахульнікі і злачынцы! Ведайце, што Дзевяць будуць узважваць вашы добрыя і злыя справы, калі вы моліцеся аб вылячэнні, зняцці псуты і аднаўленні сіл ля алтароў капліц.",
@@ -279,7 +279,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_Charactergen01",
-    "custom": "",
+    "custom": "Нікому не ўдавалася здзейсніць уцёкі з Імперскай турмы за апошнія 40 гадоў, з часоў Джагара Тарна і Імперскага Сімулякра.",
     "en": "No one has escaped from the Imperial Prison in over 40 years, since the days of Jagar Tharn and The Imperial Simulacrum.",
     "ru": "Никому не удавалось совершить побег из Имперской тюрьмы за последние 40 лет, со времен Джагара Тарна и Имперского Симулякра.",
     "bel": "Нікому не ўдавалася здзейсніць уцёкі з Імперскай турмы за апошнія 40 гадоў, з часоў Джагара Тарна і Імперскага Сімулякра.",
@@ -288,7 +288,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_Charactergen02",
-    "custom": "",
+    "custom": "...Дакуль нашчадкі твае будуць насіць Амулет Каралёў, будуць Драконавыя агні гарэць вечным полымем як сімвал вернасці нашай для ўсіх людзей і багоў...",
     "en": "...So long as you and your descendants shall wear the Amulet of Kings, then shall this Dragonfire burn -- an eternal flame -- as a sign to all men and gods of our faithfulness...",
     "ru": "...Доколе наследники твои будут носить Амулет Королей, будут Драконьи огни гореть вечным пламенем как символ верности нашей для всех людей и богов...",
     "bel": "...Дакуль нашчадкі твае будуць насіць Амулет Каралёў, будуць Драконавыя агні гарэць вечным полымем як сімвал вернасці нашай для ўсіх людзей і багоў...",
@@ -297,7 +297,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_Charactergen03",
-    "custom": "",
+    "custom": "Урыэль Сепцім з'яўляецца прамым нашчадкам Тайбера Сепціма, які заваяваў увесь Сіродыл і абвясціў сябе імператарам у 846 годзе Другой эры.",
     "en": "Uriel Septim is a direct descendent of Tiber Septim, who conquered all of Cyrodiil and proclaimed himself Emperor in 2E846.",
     "ru": "Уриэль Септим является прямым потомком Тайбера Септима, завоевавшего весь Сиродил и объявившего себя императором в 846 году Второй эры.",
     "bel": "Урыэль Сепцім з'яўляецца прамым нашчадкам Тайбера Сепціма, які заваяваў увесь Сіродыл і абвясціў сябе імператарам у 846 годзе Другой эры.",
@@ -306,7 +306,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_Crusader",
-    "custom": "",
+    "custom": "Байцы, якія валодаюць <RT_BlueMed>грубай сілай</> і <RT_BlueMed>ведамі ў лекаванні</>. Пазбягаючы смерці пасля кожнага бою, яны спадзяюцца на дасканалыя <RT_BlueMed>веды аднаўлення</>, каб зноў уступіць у бітву.",
     "en": "A combatant who wields the power of <RT_BlueMed>brute strength</> and <RT_BlueMed>medicinal knowledge</>. Cheating death after every fight, they rely on their keen <RT_BlueMed>knowledge of restoration</> to fight yet again.",
     "ru": "Бойцы, владеющие умением использовать как грубую силу, так и знания медицины. Обманывая смерть после каждой битвы, они используют знания школы восстановления, чтобы сражаться снова и снова.",
     "bel": "Байцы, якія валодаюць уменнем выкарыстоўваць як грубую сілу, так і веды медыцыны. Пазбягаючы смерці пасля кожнай бітвы, яны выкарыстоўваюць веды школы аднаўлення, каб змагацца зноў і зноў.",
@@ -315,7 +315,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_DBSanctuary01",
-    "custom": "",
+    "custom": "Пагаворваюць, што граф Чэйдынхола ведае аб існаванні прытулку Цёмнага Братэрства, але хабары і пагрозы зрабілі сваю справу, і ён аддае перавагу трымаць рот на замку.",
     "en": "It is said that the Count of Cheydinhal knows of the existence of the Dark Brotherhood Sanctuary, but bribes and threats of death have done wonders to keep his mouth shut.",
     "ru": "Поговаривают, что граф Чейдинхола знает о существовании убежища Темного Братства, но взятки и угрозы сделали свое дело, и он предпочитает держать  рот на замке.",
     "bel": "Пагаворваюць, што граф Чэйдынхола ведае аб існаванні прытулку Цёмнага Братэрства, але хабары і пагрозы зрабілі сваю справу, і ён аддае перавагу трымаць рот на замку.",
@@ -324,7 +324,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_DBSanctuary02",
-    "custom": "",
+    "custom": "Хто такая Маці Ночы? Некаторыя кажуць, што гэта пажылая жанчына. Іншыя думаюць, што гэта дух ці фантом. А ёсць і такія, хто наогул сумняваецца, што Маці Ночы існуе... ",
     "en": "Just who is the Night Mother? Some say she's an old woman. Others believe she's a spirit or phantom. And there are those still who doubt the Night Mother even exists at all... ",
     "ru": "Кто такая Мать Ночи? Некоторые говорят, что это пожилая женщина. Другие думают, что это дух или фантом. А есть и такие, кто вообще сомневается, что Мать Ночи существует...",
     "bel": "Хто такая Маці Ночы? Некаторыя кажуць, што гэта пажылая жанчына. Іншыя думаюць, што гэта дух ці фантом. А ёсць і такія, хто наогул сумняваецца, што Маці Ночы існуе...",
@@ -333,7 +333,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_DBSanctuary03",
-    "custom": "",
+    "custom": "Прытулак Чэйдынхола - гэта адзін з многіх сакрэтных прытулкаў Цёмнага Братэрства, раскіданых па Імперскай правінцыі. ",
     "en": "The Cheydinhal Sanctuary is but one of many secret Dark Brotherhood safe havens spread across the Imperial Province. ",
     "ru": "Убежище Чейдинхола - это одно из многих секретных убежищ Темного Братства, разбросанных по Имперской провинции.",
     "bel": "Прытулак Чэйдынхола - гэта адзін з многіх сакрэтных прытулкаў Цёмнага Братэрства, раскіданых па Імперскай правінцыі.",
@@ -342,7 +342,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_DL9CommuneLoadDoor",
-    "custom": "",
+    "custom": "Па чутках, застава каля Расколатага Уцёса была пабудавана на руінах Варса Баліма і атрымала ў спадчыну праклён ад гэтага згубленага айлейдскага горада.",
     "en": "Rumour claims that Sundercliff Watch was built on the ruins of Varsa Baalim, and inherited the curse of that forgotten Ayleid City.",
     "ru": "По слухам, застава у Расколотого утеса была построена на руинах Варса Балим и унаследовала проклятье от этого затерянного айлейдского города.",
     "bel": "Па чутках, застава каля Расколатага Уцёса была пабудавана на руінах Варса Баліма і атрымала ў спадчыну праклён ад гэтага згубленага айлейдскага горада.",
@@ -351,7 +351,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_DL9MinesLoadDoor",
-    "custom": "",
+    "custom": "Шахты Расколатага Уцёса славяцца найбагацейшымі ў гарах Валус запасамі жалезнай руды.",
     "en": "The mines at Sundercliff boast the highest concentration of iron ore in the Valus Mountains.",
     "ru": "Шахты Расколотого утеса славятся богатейшими в горах Валус запасами железной руды.",
     "bel": "Шахты Расколатага Уцёса славяцца найбагацейшымі ў гарах Валус запасамі жалезнай руды.",
@@ -360,7 +360,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_DL9VillageLoadDoor",
-    "custom": "",
+    "custom": "Дротмерская армія заснавана і фінансуецца Фратэнам Дротанам, бунтоўным архімагам Вялікага дома Тэлвані.",
     "en": "The Drothmeri Army is founded and funded by Frathen Drothan, a rogue arch-mage of the Great House Telvanni.",
     "ru": "Дротмерская армия основана и финансируется Фратеном Дротаном, мятежным архимагом Великого дома Телванни.",
     "bel": "Дротмерская армія заснавана і фінансуецца Фратэнам Дротанам, бунтоўным архімагам Вялікага дома Тэлвані.",
@@ -369,7 +369,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_DL9extLoadDoor",
-    "custom": "",
+    "custom": "Застава каля Расколатага Уцёса выкарыстоўвалася ў часы Рэманскай дынастыі, але даўно ўжо яна разбурана і забыта.",
     "en": "Sundercliff Watch was once a waystation during the Reman Dynasty, but has long since faded into disrepair and been all but forgotten.",
     "ru": "Застава у Расколотого утеса использовалась во времена Реманской династии, но давно уж она разрушена и забыта.",
     "bel": "Застава каля Расколатага Уцёса выкарыстоўвалася ў часы Рэманскай дынастыі, але даўно ўжо яна разбурана і забыта.",
@@ -378,7 +378,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_DarkElf",
-    "custom": "",
+    "custom": "Таксама вядомыя як «Данмеры» на сваёй радзіме Марровінд, Цёмныя эльфы вылучаюцца <RT_BlueMed>умелым і збалансаваным спалучэннем мяча, лука і магіі разбурэння</>. Яны <RT_BlueMed>ўстойлівыя да агню</> і могуць <RT_BlueMed>прызываць дух продка</> сабе на дапамогу.",
     "en": "Also known as \"Dunmer\" in their homeland of Morrowind, the Dark Elves are noted for their <RT_BlueMed>skilled and balanced integration of the sword, the bow and destruction magic</>. They are <RT_BlueMed>resistant to fire</> and can <RT_BlueMed>summon an ancestral ghost</> for aid.",
     "ru": "Также известные как \"данмеры\" на своей родине, в Морровинде, темные эльфы славятся умениями владеть мечом, луком и магией разрушения. Они обладают сопротивлением огню и могут вызывать себе в помощь духа предков.",
     "bel": "Таксама вядомыя як \"данмеры\" на сваёй радзіме, у Моравіндзе, цёмныя эльфы славяцца ўменнямі валодаць мячом, лукам і магіяй разбурэння. Яны валодаюць супрацівам агню і могуць выклікаць сабе ў дапамогу духа продкаў.",
@@ -387,7 +387,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_FightersGuild01",
-    "custom": "",
+    "custom": "Мара кожнага члена Гільдыі байцоў - даслужыцца да звання ваяра, а пасля і да майстра.",
     "en": "The highest aspiration of a Fighters Guild member is to advance to the rank of Champion, and eventually Master.",
     "ru": "Мечта каждого члена Гильдии бойцов - дослужиться до звания воителя, а впоследствии и до мастера.",
     "bel": "Мара кожнага члена Гільдыі байцоў - даслужыцца да звання ваяра, а пасля і да майстра.",
@@ -396,7 +396,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_FightersGuild02",
-    "custom": "",
+    "custom": "Гільдыя байцоў прад'яўляе мінімальныя патрабаванні да навабранцаў. Для ўступлення ў яе дастаткова не мець праблем з законам.",
     "en": "The Fighters Guild maintains minimum standards of public behavior. You must have a clean criminal record to join.",
     "ru": "Гильдия бойцов предъявляет минимальные требования к новобранцам. Для вступления в нее достаточно не иметь проблем с законом.",
     "bel": "Гільдыя байцоў прад'яўляе мінімальныя патрабаванні да навабранцаў. Для ўступлення ў яе дастаткова не мець праблем з законам.",
@@ -405,7 +405,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_FightersGuild03",
-    "custom": "",
+    "custom": "Згодна з хартыяй Гільдыі байцоў, пры выкананні прыватных кантрактаў павінны выконвацца як агульнаімперскія, так і мясцовыя законы. ",
     "en": "According to the Fighters Guild charter, no private contracts may offend against the laws and customs of the counties and the Imperium. ",
     "ru": "Согласно хартии Гильдии бойцов, при выполнении частных контрактов должны соблюдаться как общеимперские, так и местные законы.",
     "bel": "Згодна з хартыяй Гільдыі байцоў, пры выкананні прыватных кантрактаў павінны выконвацца як агульнаімперскія, так і мясцовыя законы.",
@@ -414,7 +414,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_Guard",
-    "custom": "",
+    "custom": "Стандартны клас гарадскога вартаўніка.",
     "en": "Standard town guard class.",
     "ru": "Стандартный класс городского стражника.",
     "bel": "Стандартны клас гарадскога вартаўніка.",
@@ -423,7 +423,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_GuardBattlemage",
-    "custom": "",
+    "custom": "Стандартны клас гарадскога вартаўніка.",
     "en": "Standard town guard class.",
     "ru": "Стандартный класс городского стражника.",
     "bel": "Стандартны клас гарадскога вартаўніка.",
@@ -432,7 +432,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_Healer",
-    "custom": "",
+    "custom": "Змагары з ядамі і хваробамі. Старажытнае <RT_BlueMed>мастацтва аднаўлення</> — іх саюзнік, а смяротнае <RT_BlueMed>мастацтва разбурэння</> — іх зброя.",
     "en": "Fighters of poison and illness. The ancient <RT_BlueMed>art of restoration</> is their ally, and the deadly <RT_BlueMed>art of destruction</> is their weapon.",
     "ru": "Борцы с ядами и болезнями. Древнее искусство восстановления - их союзник, а смертоносное искусство разрушения - их оружие.",
     "bel": "Змагары з ядамі і хваробамі. Старажытнае мастацтва аднаўлення - іх саюзнік, а смяротнае мастацтва разбурэння - іх зброя.",
@@ -441,7 +441,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_HighElf",
-    "custom": "",
+    "custom": "Таксама вядомыя як «Альтмеры» на сваёй радзіме Востраве Самерсета, Высокія эльфы <RT_BlueMed>надзвычай адораныя ў таемных мастацтвах</>, а таксама <RT_BlueMed>устойлівыя да хвароб</>. Аднак яны крыху <RT_BlueMed>ўразлівыя да агню, марозу і электрычнасці</>.",
     "en": "Also known as \"Altmer\" in their homeland of Summerset Isle, the High Elves are <RT_BlueMed>exceptionally gifted in the arcane arts</>, they also boast <RT_BlueMed>resistance to illness</>. However, they are also somewhat <RT_BlueMed>vulnerable to fire, frost and shock</>.",
     "ru": "Также известные как \"альтмеры\" на своей родине, острове Саммерсет, высокие эльфы обладают значительно большими способностями к тайным искусствам, чем остальные расы. Однако они весьма уязвимы к огню, холоду и электричеству.",
     "bel": "Таксама вядомыя як \"альтмеры\" на сваёй радзіме, востраве Самерсет, высокія эльфы валодаюць значна большымі здольнасцямі да таемных мастацтваў, чым астатнія расы. Аднак яны вельмі ўразлівыя да агню, холаду і электрычнасці.",
@@ -450,7 +450,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_ICPalaceGuard",
-    "custom": "",
+    "custom": "Самыя высакародныя з усіх байцоў. Моцныя як целам, так і духам.",
     "en": "The most noble of all combatants.  Strong in body and in character.",
     "ru": "Самые благородные из всех бойцов.  Сильны как телом, так и духом.",
     "bel": "Самыя высакародныя з усіх байцоў. Моцныя як целам, так і духам.",
@@ -459,7 +459,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_Imperial",
-    "custom": "",
+    "custom": "Карэнныя жыхары цывілізаванай, шматкультурнай правінцыі Сірадыіл, яны зарэкамендавалі сябе як <RT_BlueMed>хітрыя дыпламаты і гандляры</>. Яны <RT_BlueMed>ўмелыя ў цяжкай браніі і сацыяльных навыках</> і схільныя да класаў воінаў.",
     "en": "Natives of the civilized, cosmopolitan province of Cyrodiil, they have proved to be <RT_BlueMed>shrewd diplomats and traders</>. They are <RT_BlueMed>skilled with heavy armor and in the social skills</> and tend to favor the warrior classes.",
     "ru": "Уроженцы культурной многонациональной провинции Сиродил искушены в дипломатии и торговле. Помимо образованности и учтивости, они известны своим умением обращаться с тяжелой броней, что делает из них хороших воинов.",
     "bel": "Ураджэнцы культурнай шматнацыянальнай правінцыі Сірадыл дасведчаныя ў дыпламатыі і гандлі. Акрамя адукаванасці і ветлівасці, яны вядомыя сваім уменнем абыходзіцца з цяжкай бранёй, што робіць з іх добрых воінаў.",
@@ -468,7 +468,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameAnvil01",
-    "custom": "",
+    "custom": "Графіня Анвіла Мілона Умбранокс любіма сваім народам. Шмат гадоў таму яна страціла свайго мужа.",
     "en": "Countess Millona Umbranox of Anvil is well-loved by her people. She lost her husband many years ago.",
     "ru": "Графиня Анвила Миллона Умбранокс любима своим народом. Много лет назад она потеряла своего мужа.",
     "bel": "Графіня Анвіла Мілона Умбранокс любіма сваім народам. Шмат гадоў таму яна страціла свайго мужа.",
@@ -477,7 +477,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameAnvil02",
-    "custom": "",
+    "custom": "Некалькі напаўразбураных закінутых дамоў псуюць цудоўны выгляд Анвіла.",
     "en": "A number of shabby abandoned houses mar the essential beauty of the town of Anvil.",
     "ru": "Несколько полуразвалившихся заброшенных домов портят прекрасный облик Анвила.",
     "bel": "Некалькі напаўразбураных закінутых дамоў псуюць цудоўны выгляд Анвіла.",
@@ -486,7 +486,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameAnvil03",
-    "custom": "",
+    "custom": "Кіраўнік анвільскага аддзялення Гільдыі магаў, Карахіл, з'яўляецца заклятым ворагам некрамантыі і чорнай магіі.",
     "en": "The reputable head of the Anvil Mages Guild, Carahil, is an outspoken enemy of necromancy, summoning, and the dark arts.",
     "ru": "Глава анвильского отделения Гильдии магов, Карахил, является заклятым врагом некромантии и черной магии.",
     "bel": "Кіраўнік анвільскага аддзялення Гільдыі магаў, Карахіл, з'яўляецца заклятым ворагам некрамантыі і чорнай магіі.",
@@ -495,7 +495,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameAnvil04",
-    "custom": "",
+    "custom": "Капліца багіні кахання Дыбелы ў Анвіле даруе вылячэнне, зняцце псуты і аднаўленне страчаных навыкаў набожным пілігрымам, якія моляцца каля алтара Дзевяці.",
     "en": "Anvil's Chapel of Dibella, the goddess of love, grants healing, curing, and restoration of damaged attributes for those good pilgrims who pray at the Altar of the Nine.",
     "ru": "Часовня богини любви Дибеллы в Анвиле дарует исцеление, снятие порчи и восстановление утраченных навыков благочестивым пилигримам, молящимся у алтаря Девяти.",
     "bel": "Капліца багіні кахання Дыбелы ў Анвіле даруе вылячэнне, зняцце псуты і аднаўленне страчаных навыкаў набожным пілігрымам, якія моляцца каля алтара Дзевяці.",
@@ -504,7 +504,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameAnvil05",
-    "custom": "",
+    "custom": "У капліцах святары і лекары прадаюць загаворы школы аднаўлення. Яны таксама прадаюць загаворы і іншых школ, якія нясуць дабро.",
     "en": "Chapel priests and healers sell spells from the College of Restoration. From other colleges, they also offer a few select spells that benefit mankind.",
     "ru": "В часовнях священники и целители продают заклинания школы восстановления. Они также продают заклинания и других школ, несущие добро.",
     "bel": "У капліцах святары і лекары прадаюць загаворы школы аднаўлення. Яны таксама прадаюць загаворы і іншых школ, якія нясуць дабро.",
@@ -513,7 +513,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameAnvil06",
-    "custom": "",
+    "custom": "Пагаворваюць, што некаторыя члены Гільдыі злодзеяў купляюць крадзеныя рэчы. Але афіцыйныя ўлады адмаўляюць само існаванне Гільдыі злодзеяў.",
     "en": "Some say certain members of the Thieves Guild will buy stolen goods. But some officials insist the Thieves Guild doesn't even exist.",
     "ru": "Поговаривают, что некоторые члены Гильдии воров покупают краденые вещи. Но официальные власти отрицают само существование Гильдии воров.",
     "bel": "Пагаворваюць, што некаторыя члены Гільдыі злодзеяў купляюць крадзеныя рэчы. Але афіцыйныя ўлады адмаўляюць само існаванне Гільдыі злодзеяў.",
@@ -522,7 +522,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameAnvil07",
-    "custom": "",
+    "custom": "Сумленных гандляроў не цікавяць крадзеныя рэчы. Такія прадметы нават не з'яўляюцца ў спісе тавараў, якія вы можаце прадаць.",
     "en": "Honest merchants are not interested in stolen goods. Such items do not even appear in the list of goods you wish to sell.",
     "ru": "Честных торговцев не интересуют краденые вещи. Такие предметы даже не появляются в списке товаров, которые вы можете продать.",
     "bel": "Сумленных гандляроў не цікавяць крадзеныя рэчы. Такія прадметы нават не з'яўляюцца ў спісе тавараў, якія вы можаце прадаць.",
@@ -531,7 +531,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBirthsign01",
-    "custom": "",
+    "custom": "Народжаныя пад знакам Мага надзелены падвышанай магіяй.",
     "en": "Those born under the sign of The Mage have increased Magicka.",
     "ru": "Рожденные под знаком Мага наделены повышенной магией.",
     "bel": "Народжаныя пад знакам Мага надзелены падвышанай магіяй.",
@@ -540,7 +540,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBirthsign02",
-    "custom": "",
+    "custom": "Народжаныя пад знакам Вучня надзелены падвышанай магіяй, але таксама яны ўразлівыя да яе.",
     "en": "Those born under the sign of The Apprentice have increased Magicka, but also have a weakness to it.",
     "ru": "Рожденные под знаком Ученика наделены повышенной магией, но также они уязвимы к ней.",
     "bel": "Народжаныя пад знакам Вучня надзелены падвышанай магіяй, але таксама яны ўразлівыя да яе.",
@@ -549,7 +549,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBirthsign03",
-    "custom": "",
+    "custom": "Народжаныя пад знакам Рытуалу могуць вылечваць сябе і адганяць нежыць.",
     "en": "Those born under the sign of The Ritual can heal themselves and turn the undead.",
     "ru": "Рожденные под знаком Ритуала могут исцелять себя и отгонять нежить.",
     "bel": "Народжаныя пад знакам Рытуалу могуць вылечваць сябе і адганяць нежыць.",
@@ -558,7 +558,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBirthsign04",
-    "custom": "",
+    "custom": "Народжаныя пад знакам Воіна валодаюць падвышанымі сілай і цягавітасцю.",
     "en": "Those born under the sign of The Warrior have increased Strength and Endurance.",
     "ru": "Рожденные под знаком Воина обладают повышенными силой и выносливостью.",
     "bel": "Народжаныя пад знакам Воіна валодаюць падвышанымі сілай і цягавітасцю.",
@@ -567,7 +567,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBirthsign05",
-    "custom": "",
+    "custom": "Народжаныя пад знакам Каня могуць рухацца хутчэй, чым іншыя.",
     "en": "Those born under the sign of The Steed can move faster.",
     "ru": "Рожденные под знаком Коня могут двигаться быстрее, чем другие.",
     "bel": "Народжаныя пад знакам Каня могуць рухацца хутчэй, чым іншыя.",
@@ -576,7 +576,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBirthsign06",
-    "custom": "",
+    "custom": "Народжаныя пад знакам Лэдзі валодаюць падвышанымі сілай волі і цягавітасцю.",
     "en": "Those born under the sign of The Lady have increased Willpower and Endurance.",
     "ru": "Рожденные под знаком Леди обладают повышенными силой воли и выносливостью.",
     "bel": "Народжаныя пад знакам Лэдзі валодаюць падвышанымі сілай волі і цягавітасцю.",
@@ -585,7 +585,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBirthsign07",
-    "custom": "",
+    "custom": "Народжаныя пад знакам Лорда здольныя аднаўляць сваё здароўе, але ўразлівыя да агню.",
     "en": "Those born under the sign of The Lord are more resistant to magic and physical damage.",
     "ru": "Рожденные под знаком Лорда способны восстанавливать свое здоровье, но уязвимы к огню.",
     "bel": "Народжаныя пад знакам Лорда здольныя аднаўляць сваё здароўе, але ўразлівыя да агню.",
@@ -594,7 +594,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBirthsign08",
-    "custom": "",
+    "custom": "Народжаныя пад знакам Злодзея валодаюць падвышанымі спрытам, хуткасцю і ўдачай.",
     "en": "Those born under the sign of The Thief have increased Agility, Speed, and Luck.",
     "ru": "Рожденные под знаком Вора обладают повышенными ловкостью, скоростью и удачей.",
     "bel": "Народжаныя пад знакам Злодзея валодаюць падвышанымі спрытам, хуткасцю і ўдачай.",
@@ -603,7 +603,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBirthsign09",
-    "custom": "",
+    "custom": "Народжаныя пад знакам Каханка могуць паралізаваць ворага пацалункам.",
     "en": "Those born under the sign of The Lover can paralyze others with a kiss.",
     "ru": "Рожденные под знаком Любовника могут парализовать врага поцелуем.",
     "bel": "Народжаныя пад знакам Каханка могуць паралізаваць ворага пацалункам.",
@@ -612,7 +612,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBirthsign10",
-    "custom": "",
+    "custom": "Народжаныя пад знакам Ценю могуць зрабіць сябе нябачнымі.",
     "en": "Those born under the sign of The Shadow can make themselves invisible.",
     "ru": "Рожденные под знаком Тени могут сделать себя невидимыми.",
     "bel": "Народжаныя пад знакам Ценю могуць зрабіць сябе нябачнымі.",
@@ -621,7 +621,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBirthsign11",
-    "custom": "",
+    "custom": "Народжаныя пад знакам Вежы могуць адчыняць дзверы пры дапамозе магіі і выяўляць рэчы на вялікай адлегласці, а іх здольнасць \"Вартаўнік Вежы\" дазваляе адбіваць урон, які наносяць ворагі.",
     "en": "Those born under the sign of The Tower can unlock doors magically, and the Tower Warden power reflects damage from attackers.",
     "ru": "Рожденные под знаком Башни могут открывать двери при помощи магии и обнаруживать вещи на большом расстоянии, а их способность \"Смотритель Башни\" позволяет отражать урон, наносимый врагами.",
     "bel": "Народжаныя пад знакам Вежы могуць адчыняць дзверы пры дапамозе магіі і выяўляць рэчы на вялікай адлегласці, а іх здольнасць \"Вартаўнік Вежы\" дазваляе адбіваць урон, які наносяць ворагі.",
@@ -630,7 +630,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBirthsign12",
-    "custom": "",
+    "custom": "Народжаныя пад знакам Атранаха не могуць аднаўляць сваю магію з часам, але маюць шанец паглынуць магію, накіраваную супраць іх.",
     "en": "Those born under the sign of The Atronach cannot regenerate Magicka, but have a chance of absorbing any magic cast at them.",
     "ru": "Рожденные под знаком Атронаха не могут восстанавливать свою магию со временем, но имеют шанс поглотить магию, направленную против них.",
     "bel": "Народжаныя пад знакам Атранаха не могуць аднаўляць сваю магію з часам, але маюць шанец паглынуць магію, накіраваную супраць іх.",
@@ -639,7 +639,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBirthsign13",
-    "custom": "",
+    "custom": "Народжаныя пад знакам Змяі могуць атручваць іншых коштам страты свайго запасу сіл.",
     "en": "Those born under the sign of The Serpent can poison others at a loss of their own Fatigue.",
     "ru": "Рожденные под знаком Змея могут отравлять других ценой потери своего запаса сил.",
     "bel": "Народжаныя пад знакам Змяі могуць атручваць іншых коштам страты свайго запасу сіл.",
@@ -648,7 +648,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBravil01",
-    "custom": "",
+    "custom": "Граф Рэгулус Тэрэнціус, некалі праслаўлены чэмпіён турніраў, заслужыў у свайго народа рэпутацыю п'яніцы і гультая.",
     "en": "Count Regulus Terentius, once a noted tournament champion, is widely recognized by his people as a drunken wastrel and ne'er-do-well.",
     "ru": "Граф Регулус Терентиус, некогда прославленный чемпион турниров, заслужил у своего народа репутацию пьяницы и бездельника.",
     "bel": "Граф Рэгулус Тэрэнціус, некалі праслаўлены чэмпіён турніраў, заслужыў у свайго народа рэпутацыю п'яніцы і гультая.",
@@ -657,7 +657,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBravil02",
-    "custom": "",
+    "custom": "З спрадвечных часоў, статуя Шчаслівай Пажылой Лэдзі ў Бравіле лічылася сімвалам удачы. Устаньце перад ёй, і Лэдзі, магчыма, даруе вам сваё блаславенне...",
     "en": "For as long as people have lived in Bravil, the statue of the Lucky Old Lady has been considered a symbol of good fortune. Stop by, and the Lady may grant her blessing....",
     "ru": "С незапамятных времен, статуя Счастливой Пожилой Леди в Бравиле считалась символом удачи. Встаньте перед ней, и Леди, возможно, дарует вам свое благословение...",
     "bel": "З спрадвечных часоў, статуя Шчаслівай Пажылой Лэдзі ў Бравіле лічылася сімвалам удачы. Устаньце перад ёй, і Лэдзі, магчыма, даруе вам сваё блаславенне...",
@@ -666,7 +666,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBravil03",
-    "custom": "",
+    "custom": "Начны воздух Бравіла напоўнены смярдзючымі выпараэннямі каналаў, куды спускаюць нечыстоты, і бліжэйшых балот, якія кішаць насякомымі, што разносяць хваробы.",
     "en": "Bravil's night air is damp and noisome because of the river channels that serve as Bravil's sewers, and because of the nearby swamps where insects and diseases breed in abundance.",
     "ru": "Ночной воздух Бравила наполнен зловонными испарениями каналов, куда спускают нечистоты, и близлежащих болот, изобилующих разносящими болезни насекомыми.",
     "bel": "Начны воздух Бравіла напоўнены смярдзючымі выпараэннямі каналаў, куды спускаюць нечыстоты, і бліжэйшых балот, якія кішаць насякомымі, што разносяць хваробы.",
@@ -675,7 +675,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBravil04",
-    "custom": "",
+    "custom": "Тыя, хто страціў сваю сілу, спрыт ці абаяльнасць, моляць каля алтара Дзевяці ў бравільскай капліцы Мары аб іх аднаўленні.",
     "en": "Those with damaged Strength, Agility, Personality, or other attributes pray at the Altar of the Nine at Bravil's Chapel of Mara for restoration.",
     "ru": "Те, кто потерял свою силу, ловкость или обаяние, молят у алтаря Девяти в бравильской часовне Мары об их восстановлении.",
     "bel": "Тыя, хто страціў сваю сілу, спрыт ці абаяльнасць, моляць каля алтара Дзевяці ў бравільскай капліцы Мары аб іх аднаўленні.",
@@ -684,7 +684,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBravil05",
-    "custom": "",
+    "custom": "У капліцах святары і лекары прадаюць загаворы школы аднаўлення. Яны таксама прадаюць загаворы і іншых школ, якія нясуць дабро.",
     "en": "Chapel priests and healers sell spells from the College of Restoration. From other colleges, they also offer a few select spells that benefit mankind.",
     "ru": "В часовнях священники и целители продают заклинания школы восстановления. Они также продают заклинания и других школ, несущие добро.",
     "bel": "У капліцах святары і лекары прадаюць загаворы школы аднаўлення. Яны таксама прадаюць загаворы і іншых школ, якія нясуць дабро.",
@@ -693,7 +693,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBravil06",
-    "custom": "",
+    "custom": "Сумленных гандляроў не цікавяць крадзеныя рэчы. Такія прадметы нават не з'яўляюцца ў спісе тавараў, якія вы можаце прадаць.",
     "en": "Honest merchants are not interested in stolen goods. Such items do not even appear in the list of goods you wish to sell.",
     "ru": "Честных торговцев не интересуют краденые вещи. Такие предметы даже не появляются в списке товаров, которые вы можете продать.",
     "bel": "Сумленных гандляроў не цікавяць крадзеныя рэчы. Такія прадметы нават не з'яўляюцца ў спісе тавараў, якія вы можаце прадаць.",
@@ -702,7 +702,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBravil07",
-    "custom": "",
+    "custom": "Пагаворваюць, што некаторыя члены Гільдыі злодзеяў купляюць крадзеныя рэчы. Але афіцыйныя ўлады адмаўляюць само існаванне Гільдыі злодзеяў.",
     "en": "Some say certain members of the Thieves Guild will buy stolen goods. But some officials insist the Thieves Guild doesn't even exist.",
     "ru": "Поговаривают, что некоторые члены Гильдии воров покупают краденые вещи. Но официальные власти отрицают само существование Гильдии воров.",
     "bel": "Пагаворваюць, што некаторыя члены Гільдыі злодзеяў купляюць крадзеныя рэчы. Але афіцыйныя ўлады адмаўляюць само існаванне Гільдыі злодзеяў.",
@@ -711,7 +711,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBruma01",
-    "custom": "",
+    "custom": "Графіня Нарына Карвейн набожная і паважаная як кіраўнік, яна хітрамудры палітык і дасведчаны дыпламат.",
     "en": "Countess Narina Carvain is a dutiful chapelgoer, and a respected ruler, though she is a cunning and ruthless negotiator.",
     "ru": "Графиня Нарина Карвейн набожна и уважаема как правитель, она хитроумный политик и искусный дипломат.",
     "bel": "Графіня Нарына Карвейн набожная і паважаная як кіраўнік, яна хітрамудры палітык і дасведчаны дыпламат.",
@@ -720,7 +720,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBruma02",
-    "custom": "",
+    "custom": "Пранізлівыя вятры Брумы і горны клімат прымушаюць будаваць дамы з цокальнымі паверхамі, каб зберагчы цяпло.",
     "en": "Bruma's chilly winds and alpine climate favors dwellings built partly below ground level to conserve heat.",
     "ru": "Промозглые ветра Брумы и горный климат заставляют строить дома с цокольными этажами, чтобы сберечь тепло.",
     "bel": "Пранізлівыя вятры Брумы і горны клімат прымушаюць будаваць дамы з цокальнымі паверхамі, каб зберагчы цяпло.",
@@ -729,7 +729,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBruma03",
-    "custom": "",
+    "custom": "Брума будуецца з дрэва, якое дастаўляюць з высакагорных лясоў Джерола, а сцены дамоў гэтага горада часцяком упрыгожаны разьбой у нардычным стылі.",
     "en": "Bruma builds in wood harvested from the native forests of the High Jeralls, and her houses and halls often bear decorative carved timbers in the Nordic style.",
     "ru": "Брума строится из дерева, доставляемого из высокогорных лесов Джерола, а стены домов этого города зачастую украшены резьбой в нордическом стиле.",
     "bel": "Брума будуецца з дрэва, якое дастаўляюць з высакагорных лясоў Джерола, а сцены дамоў гэтага горада часцяком упрыгожаны разьбой у нардычным стылі.",
@@ -738,7 +738,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBruma04",
-    "custom": "",
+    "custom": "Мужныя героі! Вашы здольнасці пацярпелі ад чорнай магіі? Шукайце суцяшэнне каля алтара Дзевяці ў капліцы Таласа ў Бруме! Маліцеся, і не абыдзе вас вылячэнне!",
     "en": "Noble heroes! Have your attributes been cursed by the Dark Arts? Seek comfort at the Altar of the Nine at the Bruma Chapel of Talos! Pray, and you shall be restored!",
     "ru": "Мужественные герои! Ваши способности пострадали от черной магии? Ищите утешение у алтаря Девяти в часовне Талоса в Бруме! Молитесь, и не обойдет вас исцеление!",
     "bel": "Мужныя героі! Вашы здольнасці пацярпелі ад чорнай магіі? Шукайце суцяшэнне каля алтара Дзевяці ў капліцы Таласа ў Бруме! Маліцеся, і не абыдзе вас вылячэнне!",
@@ -747,7 +747,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBruma05",
-    "custom": "",
+    "custom": "У капліцах святары і лекары прадаюць загаворы школы аднаўлення. Яны таксама прадаюць загаворы і іншых школ, якія нясуць дабро.",
     "en": "Chapel priests and healers sell spells from the College of Restoration. From other colleges, they also offer a few select spells that benefit mankind.",
     "ru": "В часовнях священники и целители продают заклинания школы восстановления. Они также продают заклинания и других школ, несущие добро.",
     "bel": "У капліцах святары і лекары прадаюць загаворы школы аднаўлення. Яны таксама прадаюць загаворы і іншых школ, якія нясуць дабро.",
@@ -756,7 +756,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBruma06",
-    "custom": "",
+    "custom": "Сумленных гандляроў не цікавяць крадзеныя рэчы. Такія прадметы нават не з'яўляюцца ў спісе тавараў, якія вы можаце прадаць.",
     "en": "Honest merchants are not interested in stolen goods. Such items do not even appear in the list of goods you wish to sell.",
     "ru": "Честных торговцев не интересуют краденые вещи. Такие предметы даже не появляются в списке товаров, которые вы можете продать.",
     "bel": "Сумленных гандляроў не цікавяць крадзеныя рэчы. Такія прадметы нават не з'яўляюцца ў спісе тавараў, якія вы можаце прадаць.",
@@ -765,7 +765,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameBruma07",
-    "custom": "",
+    "custom": "Пагаворваюць, што некаторыя члены Гільдыі злодзеяў купляюць крадзеныя рэчы. Але афіцыйныя ўлады адмаўляюць само існаванне Гільдыі злодзеяў.",
     "en": "Some say certain members of the Thieves Guild will buy stolen goods. But some officials insist the Thieves Guild doesn't even exist.",
     "ru": "Поговаривают, что некоторые члены Гильдии воров покупают краденые вещи. Но официальные власти отрицают само существование Гильдии воров.",
     "bel": "Пагаворваюць, што некаторыя члены Гільдыі злодзеяў купляюць крадзеныя рэчы. Але афіцыйныя ўлады адмаўляюць само існаванне Гільдыі злодзеяў.",
@@ -774,7 +774,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameCheydinhal01",
-    "custom": "",
+    "custom": "Найлепшых коней вы знойдзеце ў стайні \"Прыбярэжныя вараныя\" ў Чэйдынголе.",
     "en": "You'll find the best quality horses at the Black Waterside Stables in Cheydinhal.",
     "ru": "Лучших лошадей вы найдете в конюшне \"Прибрежные вороные\" в Чейдинхоле.",
     "bel": "Найлепшых коней вы знойдзеце ў стайні \"Прыбярэжныя вараныя\" ў Чэйдынголе.",
@@ -783,7 +783,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameCheydinhal02",
-    "custom": "",
+    "custom": "Пра закінуты дом ва ўсходняй частцы Чэйдынгола стараюцца не казаць, а граф адмаўляецца нават прызнаваць яго існаванне. ",
     "en": "The Abandoned House on the eastern edge of Cheydinhal is never spoken of publicly, and the Count refuses to even acknowledge its existence. ",
     "ru": "О заброшенном доме в восточной части Чейдинхола стараются не говорить, а граф отказывается даже признавать его существование.",
     "bel": "Пра закінуты дом ва ўсходняй частцы Чэйдынгола стараюцца не казаць, а граф адмаўляецца нават прызнаваць яго існаванне.",
@@ -792,7 +792,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameCheydinhal03",
-    "custom": "",
+    "custom": "Пілігрымы і падарожнікі моляцца ля алтара Дзевяці ў капліцы Аркея ў Чэйдынголе. Іх раненні будуць вылечаны, хваробы аздароўлены, а накладзеныя на іх праклёны будуць зняты.",
     "en": "Pilgrims and travelers pray at the Altar of the Nine in Cheydinhal's Chapel of Arkay. Their wounds are healed, their diseases cured, and curses upon their bodies are banished.",
     "ru": "Пилигримы и путешественники молятся у алтаря Девяти в часовне Аркея в Чейдинхоле. Их ранения будут исцелены, болезни излечены, а наложенные на них проклятия будут сняты.",
     "bel": "Пілігрымы і падарожнікі моляцца ля алтара Дзевяці ў капліцы Аркея ў Чэйдынголе. Іх раненні будуць вылечаны, хваробы аздароўлены, а накладзеныя на іх праклёны будуць зняты.",
@@ -801,7 +801,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameCheydinhal04",
-    "custom": "",
+    "custom": "У капліцах святары і лекары прадаюць загаворы школы аднаўлення. Яны таксама прадаюць загаворы і іншых школ, якія нясуць дабро.",
     "en": "Chapel priests and healers sell spells from the College of Restoration. From other colleges, they also offer a few select spells that benefit mankind.",
     "ru": "В часовнях священники и целители продают заклинания школы восстановления. Они также продают заклинания и других школ, несущие добро.",
     "bel": "У капліцах святары і лекары прадаюць загаворы школы аднаўлення. Яны таксама прадаюць загаворы і іншых школ, якія нясуць дабро.",
@@ -810,7 +810,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameCheydinhal05",
-    "custom": "",
+    "custom": "Сумленных гандляроў не цікавяць крадзеныя рэчы. Такія прадметы нават не з'яўляюцца ў спісе тавараў, якія вы можаце прадаць.",
     "en": "Honest merchants are not interested in stolen goods. Such items do not even appear in the list of goods you wish to sell.",
     "ru": "Честных торговцев не интересуют краденые вещи. Такие предметы даже не появляются в списке товаров, которые вы можете продать.",
     "bel": "Сумленных гандляроў не цікавяць крадзеныя рэчы. Такія прадметы нават не з'яўляюцца ў спісе тавараў, якія вы можаце прадаць.",
@@ -819,7 +819,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameCheydinhal06",
-    "custom": "",
+    "custom": "Пагаворваюць, што некаторыя члены Гільдыі злодзеяў купляюць крадзеныя рэчы. Але афіцыйныя ўлады адмаўляюць само існаванне Гільдыі злодзеяў.",
     "en": "Some say certain members of the Thieves Guild will buy stolen goods. But some officials insist the Thieves Guild doesn't even exist.",
     "ru": "Поговаривают, что некоторые члены Гильдии воров покупают краденые вещи. Но официальные власти отрицают само существование Гильдии воров.",
     "bel": "Пагаворваюць, што некаторыя члены Гільдыі злодзеяў купляюць крадзеныя рэчы. Але афіцыйныя ўлады адмаўляюць само існаванне Гільдыі злодзеяў.",
@@ -828,7 +828,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameChorrol01",
-    "custom": "",
+    "custom": "За гераізм, праяўлены ў Белым Праходзе, Кантус Джэрыл быў названы першым графам Карола. ",
     "en": "For his heroism at Pale Pass, Kantus Jeril was appointed the first Count of Chorrol. ",
     "ru": "За героизм, проявленный в Белом Проходе, Кантус Джерил был назван первым графом Коррола.",
     "bel": "За гераізм, праяўлены ў Белым Праходзе, Кантус Джэрыл быў названы першым графам Карола.",
@@ -837,7 +837,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameChorrol02",
-    "custom": "",
+    "custom": "Каролам кіруе графіня Арыяна Валга. Яе памерлы муж, граф Чарус, быў спадчынным графам Карола. ",
     "en": "Countess Arriana Valga is the Lady of Chorrol. However, her deceased husband, Count Charus Valga, was the hereditary Count of Chorrol. ",
     "ru": "Корролом правит графиня Арриана Валга. Ее покойный супруг, граф Чарус, был наследным графом Коррола.",
     "bel": "Каролам кіруе графіня Арыяна Валга. Яе памерлы муж, граф Чарус, быў спадчынным графам Карола.",
@@ -846,7 +846,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameChorrol03",
-    "custom": "",
+    "custom": "Сімвал Карола - Вялікі дуб. Гараджане прывыклі збірацца ля гэтага старажытнага дрэва, каб пагаварыць і абмяняцца навінамі.",
     "en": "The symbol of Chorrol is the Great Oak, an ancient tree where the townsfolk gather to share news of the day.",
     "ru": "Символ Коррола - Великий дуб. Горожане привыкли собираться у этого древнего дерева, чтобы посудачить и обменяться новостями.",
     "bel": "Сімвал Карола - Вялікі дуб. Гараджане прывыклі збірацца ля гэтага старажытнага дрэва, каб пагаварыць і абмяняцца навінамі.",
@@ -855,7 +855,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameChorrol04",
-    "custom": "",
+    "custom": "Маліцеся аб вылячэнні ран, аздараўленні хвароб і аднаўленні здольнасцяў ля алтара Дзевяці ў капліцы Стэндара ў Кароле.",
     "en": "At the Altar of the Nine in Chorrol's Chapel of Stendarr, pray and be healed, cured, and restored in all your attributes.",
     "ru": "Молитесь об исцелении ран, излечении болезней и восстановлении способностей у алтаря Девяти в часовне Стендарра в Корроле.",
     "bel": "Маліцеся аб вылячэнні ран, аздараўленні хвароб і аднаўленні здольнасцяў ля алтара Дзевяці ў капліцы Стэндара ў Кароле.",
@@ -864,7 +864,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameChorrol05",
-    "custom": "",
+    "custom": "У капліцах святары і лекары прадаюць загаворы школы аднаўлення. Яны таксама прадаюць загаворы і іншых школ, якія нясуць дабро.",
     "en": "Chapel priests and healers sell spells from the College of Restoration. From other colleges, they also offer a few select spells that benefit mankind.",
     "ru": "В часовнях священники и целители продают заклинания школы восстановления. Они также продают заклинания и других школ, несущие добро.",
     "bel": "У капліцах святары і лекары прадаюць загаворы школы аднаўлення. Яны таксама прадаюць загаворы і іншых школ, якія нясуць дабро.",
@@ -873,7 +873,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameChorrol06",
-    "custom": "",
+    "custom": "Сумленных гандляроў не цікавяць крадзеныя рэчы. Такія прадметы нават не з'яўляюцца ў спісе тавараў, якія вы можаце прадаць.",
     "en": "Honest merchants are not interested in stolen goods. Such items do not even appear in the list of goods you wish to sell.",
     "ru": "Честных торговцев не интересуют краденые вещи. Такие предметы даже не появляются в списке товаров, которые вы можете продать.",
     "bel": "Сумленных гандляроў не цікавяць крадзеныя рэчы. Такія прадметы нават не з'яўляюцца ў спісе тавараў, якія вы можаце прадаць.",
@@ -882,7 +882,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameChorrol07",
-    "custom": "",
+    "custom": "Пагаворваюць, што некаторыя члены Гільдыі злодзеяў купляюць крадзеныя рэчы. Але афіцыйныя ўлады адмаўляюць само існаванне Гільдыі злодзеяў.",
     "en": "Some say certain members of the Thieves Guild will buy stolen goods. But some officials insist the Thieves Guild doesn't even exist.",
     "ru": "Поговаривают, что некоторые члены Гильдии воров покупают краденые вещи. Но официальные власти отрицают само существование Гильдии воров.",
     "bel": "Пагаворваюць, што некаторыя члены Гільдыі злодзеяў купляюць крадзеныя рэчы. Але афіцыйныя ўлады адмаўляюць само існаванне Гільдыі злодзеяў.",
@@ -891,7 +891,7 @@
   },
   {
     "key": "ST_Descriptions/LOC_DE_InGameCombat01",
-    "custom": "",
+    "custom": "Стан вашай зброі ўплывае на нанесены ёю ўрон.",
     "en": "Broken weapons deal much less damage.",
     "ru": "Состояние вашего оружия влияет на наносимый им урон.",
     "bel": "Стан вашай зброі ўплывае на нанесены ёю ўрон.",
