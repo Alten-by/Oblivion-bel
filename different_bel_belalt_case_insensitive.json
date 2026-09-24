@@ -119566,7 +119566,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDrainStrengthLesser",
-    "custom": "",
+    "custom": "Малы посах слабасці",
     "en": "Lesser Staff of Fragility",
     "ru": "Малый посох слабости",
     "bel": "Малы посаx слабасці",
@@ -119575,7 +119575,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDrainWillpowerGreater",
-    "custom": "",
+    "custom": "Вялікі посах анархіі",
     "en": "Greater Staff of Anarchy",
     "ru": "Великий посох анархии",
     "bel": "Вялікі посаx анархіі",
@@ -119584,7 +119584,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofDrainWillpowerLesser",
-    "custom": "",
+    "custom": "Малы посах анархіі",
     "en": "Lesser Staff of Anarchy",
     "ru": "Малый посох анархии",
     "bel": "Малы посаx анархіі",
@@ -119593,7 +119593,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofFireDamageAreaGreater",
-    "custom": "",
+    "custom": "Вялікі посах вогненнага шара",
     "en": "Greater Staff of Fireball",
     "ru": "Великий посох огненного шара",
     "bel": "Вялікі посаx вогненнага шара",
@@ -119602,7 +119602,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofFireDamageAreaLesser",
-    "custom": "",
+    "custom": "Малы посах вогненнага шара",
     "en": "Lesser Staff of Fireball",
     "ru": "Малый посох огненного шара",
     "bel": "Малы посаx вогненнага шара",
@@ -119611,7 +119611,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofFireDamageGreater",
-    "custom": "",
+    "custom": "Вялікі посах агню",
     "en": "Greater Staff of Fire",
     "ru": "Великий посох огня",
     "bel": "Вялікі посаx агню",
@@ -119620,7 +119620,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofFireDamageLesser",
-    "custom": "",
+    "custom": "Малы посах агню",
     "en": "Lesser Staff of Fire",
     "ru": "Малый посох огня",
     "bel": "Малы посаx агню",
@@ -119629,7 +119629,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofFrostDamageArea",
-    "custom": "",
+    "custom": "Посах снежнай буры",
     "en": "Staff of Ice Storm",
     "ru": "Посох снежной бури",
     "bel": "Посах снежнай буры",
@@ -119638,7 +119638,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofFrostDamageAreaGreater",
-    "custom": "",
+    "custom": "Вялікі посах снежнай буры",
     "en": "Greater Staff of Ice Storm",
     "ru": "Великий посох снежной бури",
     "bel": "Вялікі посаx снежнай буры",
@@ -119647,7 +119647,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofFrostDamageAreaLesser",
-    "custom": "",
+    "custom": "Малы посах снежнай буры",
     "en": "Lesser Staff of Ice Storm",
     "ru": "Малый посох снежной бури",
     "bel": "Малы посаx снежнай буры",
@@ -119656,7 +119656,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofFrostDamageGreater",
-    "custom": "",
+    "custom": "Вялікі посах марозу",
     "en": "Greater Staff of Frost",
     "ru": "Великий посох мороза",
     "bel": "Вялікі посаx марозу",
@@ -119665,7 +119665,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofFrostDamageLesser",
-    "custom": "",
+    "custom": "Малы посах марозу",
     "en": "Lesser Staff of Frost",
     "ru": "Малый посох мороза",
     "bel": "Малы посаx марозу",
@@ -119674,7 +119674,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofHoarfrost",
-    "custom": "",
+    "custom": "Посах шэрані",
     "en": "Staff of Hoarfrost",
     "ru": "Посох изморози",
     "bel": "Посах шэрані",
@@ -119683,7 +119683,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofLegion",
-    "custom": "",
+    "custom": "Посах легіёна",
     "en": "Staff of Legion",
     "ru": "Посох легиона",
     "bel": "Посах легіёна",
@@ -119692,7 +119692,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofLightGreater",
-    "custom": "",
+    "custom": "Вялікі посах святла",
     "en": "Greater Staff of Light",
     "ru": "Великий посох света",
     "bel": "Вялікі посаx святла",
@@ -119701,7 +119701,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofLightLesser",
-    "custom": "",
+    "custom": "Малы посах святла",
     "en": "Lesser Staff of Light",
     "ru": "Малый посох света",
     "bel": "Малы посаx святла",
@@ -119710,7 +119710,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofOpenGreater",
-    "custom": "",
+    "custom": "Вялікі посах адкрыцця",
     "en": "Greater Staff of Open",
     "ru": "Великий посох открытия",
     "bel": "Вялікі посаx адкрыцця",
@@ -119719,7 +119719,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofOpenLesser",
-    "custom": "",
+    "custom": "Малы посах адкрыцця",
     "en": "Lesser Staff of Open",
     "ru": "Малый посох открытия",
     "bel": "Малы посаx адкрыцця",
@@ -119728,7 +119728,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofPacification",
-    "custom": "",
+    "custom": "Посах уміратворання",
     "en": "Staff of Pacification",
     "ru": "Посох умиротворения",
     "bel": "Посах уміратворання",
@@ -119737,7 +119737,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofParalyzeArea",
-    "custom": "",
+    "custom": "Посах паралізуючага выбліску",
     "en": "Staff of Paralyzing Burst",
     "ru": "Посох парализующей вспышки",
     "bel": "Посах паралізуючага выбліску",
@@ -119746,7 +119746,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofParalyzeAreaGreater",
-    "custom": "",
+    "custom": "Вялікі посах спынення",
     "en": "Greater Staff of Stopping",
     "ru": "Великий посох остановки",
     "bel": "Вялікі посаx спынення",
@@ -119755,7 +119755,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofParalyzeAreaLesser",
-    "custom": "",
+    "custom": "Малы посах спынення",
     "en": "Lesser Staff of Stopping",
     "ru": "Малый посох остановки",
     "bel": "Малы посаx спынення",
@@ -119764,7 +119764,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofShockDamageArea",
-    "custom": "",
+    "custom": "Посах буры",
     "en": "Staff of Storms",
     "ru": "Посох бури",
     "bel": "Посах буры",
@@ -119773,7 +119773,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofShockDamageAreaGreater",
-    "custom": "",
+    "custom": "Вялікі посах буры",
     "en": "Greater Staff of Storms",
     "ru": "Великий посох бури",
     "bel": "Вялікі посаx буры",
@@ -119782,7 +119782,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofShockDamageAreaLesser",
-    "custom": "",
+    "custom": "Малы посах буры",
     "en": "Lesser Staff of Storms",
     "ru": "Малый посох бури",
     "bel": "Малы посаx буры",
@@ -119791,7 +119791,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofShockDamageGreater",
-    "custom": "",
+    "custom": "Вялікі посах маланкі",
     "en": "Greater Staff of Lightning",
     "ru": "Великий посох молнии",
     "bel": "Вялікі посаx маланкі",
@@ -119800,7 +119800,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofShockDamageLesser",
-    "custom": "",
+    "custom": "Малы посах маланкі",
     "en": "Lesser Staff of Lightning",
     "ru": "Малый посох молнии",
     "bel": "Малы посаx маланкі",
@@ -119809,7 +119809,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofSilence",
-    "custom": "",
+    "custom": "Посах маўчання",
     "en": "Staff of Silence",
     "ru": "Посох безмолвия",
     "bel": "Посах маўчання",
@@ -119818,7 +119818,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofSilenceGreater",
-    "custom": "",
+    "custom": "Вялікі посах маўчання",
     "en": "Greater Staff of Silence",
     "ru": "Великий посох безмолвия",
     "bel": "Вялікі посаx маўчання",
@@ -119827,7 +119827,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofSilenceLesser",
-    "custom": "",
+    "custom": "Малы посах маўчання",
     "en": "Lesser Staff of Silence",
     "ru": "Малый посох безмолвия",
     "bel": "Малы посаx маўчання",
@@ -119836,7 +119836,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofSubmission",
-    "custom": "",
+    "custom": "Посах падпарадкавання",
     "en": "Staff of Submission",
     "ru": "Посох подчинения",
     "bel": "Посах падпарадкавання",
@@ -119845,7 +119845,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofTelekinesisGreater",
-    "custom": "",
+    "custom": "Вялікі посах тэлекінезу",
     "en": "Greater Staff of Telekinesis",
     "ru": "Великий посох телекинеза",
     "bel": "Вялікі посаx тэлекінезу",
@@ -119854,7 +119854,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofTelekinesisLesser",
-    "custom": "",
+    "custom": "Малы посах тэлекінезу",
     "en": "Lesser Staff of Telekinesis",
     "ru": "Малый посох телекинеза",
     "bel": "Малы посаx тэлекінезу",
@@ -119863,7 +119863,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofThunderbolts",
-    "custom": "",
+    "custom": "Посах маланкаў",
     "en": "Staff of Thunderbolts",
     "ru": "Посох молний",
     "bel": "Посах маланкаў",
@@ -119872,7 +119872,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofTurnUndeadAreaGreater",
-    "custom": "",
+    "custom": "Вялікі посах магілы",
     "en": "Greater Staff of the Grave",
     "ru": "Великий посох могилы",
     "bel": "Вялікі посаx магілы",
@@ -119881,7 +119881,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofTurnUndeadAreaLesser",
-    "custom": "",
+    "custom": "Малы посах магілы",
     "en": "Lesser Staff of the Grave",
     "ru": "Малый посох могилы",
     "bel": "Малы посаx магілы",
@@ -119890,7 +119890,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffofWithering",
-    "custom": "",
+    "custom": "Посах знямогі",
     "en": "Staff of Withering",
     "ru": "Посох иссушенности",
     "bel": "Посах знямогі",
@@ -119899,7 +119899,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StaffoftheMundane",
-    "custom": "",
+    "custom": "Земны посах",
     "en": "Staff of the Mundane",
     "ru": "Земной посох",
     "bel": "Земны посаx",
@@ -119908,7 +119908,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardAbsorbAttribAgility1Novice",
-    "custom": "",
+    "custom": "Паглынанне атрыбута: спрыт",
     "en": "Absorb Attribute: Agility",
     "ru": "Поглощение атрибута: ловкость",
     "bel": "Паглынанне атрыбута: спрыт",
@@ -119917,7 +119917,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardAbsorbAttribEndurance1Novice",
-    "custom": "",
+    "custom": "Паглынанне атрыбута: цягавітасць",
     "en": "Absorb Attribute: Endurance",
     "ru": "Поглощение атрибута: выносливость",
     "bel": "Паглынанне атрыбута: цягавітасць",
@@ -119926,7 +119926,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardAbsorbAttribIntelligence1Novice",
-    "custom": "",
+    "custom": "Паглынанне атрыбута: інтэлект",
     "en": "Absorb Attribute: Intelligence",
     "ru": "Поглощение атрибута: интеллект",
     "bel": "Паглынанне атрыбута: інтэлект",
@@ -119935,7 +119935,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardAbsorbAttribLuck1Novice",
-    "custom": "",
+    "custom": "Паглынанне атрыбута: ўдача",
     "en": "Absorb Attribute: Luck",
     "ru": "Поглощение атрибута: удача",
     "bel": "Паглынанне атрыбута: ўдача",
@@ -119944,7 +119944,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardAbsorbAttribSpeed1Novice",
-    "custom": "",
+    "custom": "Паглынанне атрыбута: хуткасць",
     "en": "Absorb Attribute: Speed",
     "ru": "Поглощение атрибута: скорость",
     "bel": "Паглынанне атрыбута: хуткасць",
@@ -119953,7 +119953,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardAbsorbAttribStrength1Novice",
-    "custom": "",
+    "custom": "Паглынанне атрыбута: сіла",
     "en": "Absorb Attribute: Strength",
     "ru": "Поглощение атрибута: сила",
     "bel": "Паглынанне атрыбута: сіла",
@@ -119962,7 +119962,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardAbsorbAttribWillpower1Novice",
-    "custom": "",
+    "custom": "Паглынанне атрыбута: сіла волі",
     "en": "Absorb Attribute: Willpower",
     "ru": "Поглощение атрибута: сила воли",
     "bel": "Паглынанне атрыбута: сіла волі",
@@ -119971,7 +119971,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardAbsorbFatigue1Novice",
-    "custom": "",
+    "custom": "Паглынанне запасу сіл",
     "en": "Absorb Fatigue",
     "ru": "Поглощение запаса сил",
     "bel": "Паглынанне запасу сіл",
@@ -119980,7 +119980,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardAbsorbHealth2Apprentice",
-    "custom": "",
+    "custom": "Выпіванне здароўя",
     "en": "Leech Health",
     "ru": "Выпивание здоровья",
     "bel": "Выпіванне здароўя",
@@ -119989,7 +119989,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardAbsorbHealth3Journeyman",
-    "custom": "",
+    "custom": "Паяданне здароўя",
     "en": "Consume Health",
     "ru": "Поедание здоровья",
     "bel": "Паяданне здароўя",
@@ -119998,7 +119998,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardAbsorbHealth4Expert",
-    "custom": "",
+    "custom": "Пажыранне здароўя",
     "en": "Devour Health",
     "ru": "Пожирание здоровья",
     "bel": "Пажыранне здароўя",
@@ -120007,7 +120007,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardAbsorbSkBlade4Expert",
-    "custom": "",
+    "custom": "Паглынанне навыку: клінкі",
     "en": "Absorb Skill: Blade",
     "ru": "Поглощение навыка: клинки",
     "bel": "Паглынанне навыку: клінкі",
@@ -120016,7 +120016,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardAbsorbSkBlock3Journeyman",
-    "custom": "",
+    "custom": "Паглынанне навыку: блакіраванне",
     "en": "Absorb Skill: Block",
     "ru": "Поглощение навыка: блокирование",
     "bel": "Паглынанне навыку: блакаванне",
@@ -120025,7 +120025,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardAbsorbSkBlunt4Expert",
-    "custom": "",
+    "custom": "Пагл. навыку: дзяўбная зброя",
     "en": "Absorb Skill: Blunt",
     "ru": "Поглощ. навыка: дробящее оружие",
     "bel": "Пагл. навыку: драбільную зброю",
@@ -120034,7 +120034,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardAbsorbSkHand2Hand2Apprentice",
-    "custom": "",
+    "custom": "Пагл. навыку: рукапашны бой",
     "en": "Absorb Skill: Hand to Hand",
     "ru": "Поглощ. навыка: рукопашный бой",
     "bel": "Пагл. навыку: рукапашны бой",
@@ -120043,7 +120043,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardAbsorbSkHeavyArmor3Journeyman",
-    "custom": "",
+    "custom": "Пагл. навыку: цяжкія даспехі",
     "en": "Absorb Skill: Heavy Armor",
     "ru": "Поглощ. навыка: тяжелые доспехи",
     "bel": "Пагл. навыку: цяжкія даспехі",
@@ -120052,7 +120052,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardAbsorbSkLightArmor2Apprentice",
-    "custom": "",
+    "custom": "Пагл. навыку: лёгкія даспехі",
     "en": "Absorb Skill: Light Armor",
     "ru": "Поглощ. навыка: легкие доспехи",
     "bel": "Пагл. навыку: лёгкія даспехі",
@@ -120061,7 +120061,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardAbsorbSkMarksman3Journeyman",
-    "custom": "",
+    "custom": "Паглынанне навыку: стралок",
     "en": "Absorb Skill: Marksman",
     "ru": "Поглощение навыка: стрелок",
     "bel": "Паглынанне навыку: стралок",
@@ -120070,7 +120070,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardAbsorbSkRestoration2Apprentice",
-    "custom": "",
+    "custom": "Пагл. навыку: аднаўленне",
     "en": "Absorb Skill: Restoration",
     "ru": "Поглощ. навыка: восстановление",
     "bel": "Пагл. навыку: аднаўленне",
@@ -120079,7 +120079,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardAbsorbSkSecurity1Novice",
-    "custom": "",
+    "custom": "Паглынанне навыку: узлом",
     "en": "Absorb Skill: Security",
     "ru": "Поглощение навыка: взлом",
     "bel": "Паглынанне навыку: узлом",
@@ -120088,7 +120088,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardAbsorbSkSneak4Expert",
-    "custom": "",
+    "custom": "Паглынанне навыку: ўтойлівасць",
     "en": "Absorb Skill: Sneak",
     "ru": "Поглощение навыка: скрытность",
     "bel": "Паглынанне навыку: ўтойванне",
@@ -120097,7 +120097,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardBoundArmor1NoviceTest",
-    "custom": "",
+    "custom": "Малыя прызваныя даспехі",
     "en": "Minor Bound Armor",
     "ru": "Малые призванные доспехи",
     "bel": "Малыя прызваныя даспехі",
@@ -120106,7 +120106,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardBoundArmor2ApprenticeTest",
-    "custom": "",
+    "custom": "Вялікія прызваныя даспехі",
     "en": "Major Bound Armor",
     "ru": "Большие призванные доспехи",
     "bel": "Вялікія прызваныя даспехі",
@@ -120115,7 +120115,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardBoundArmor3JourneymanTest",
-    "custom": "",
+    "custom": "Выдатныя прызваныя даспехі",
     "en": "Greater Bound Armor",
     "ru": "Великие призванные доспехи",
     "bel": "Выдатныя прызваныя даспехі",
@@ -120124,7 +120124,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardBoundArmor4ExpertTest",
-    "custom": "",
+    "custom": "Цудоўныя прызваныя даспехі",
     "en": "Superior Bound Armor",
     "ru": "Превосходные призванные доспехи",
     "bel": "Цудоўныя прызваныя даспехі",
@@ -120133,7 +120133,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardBoundArmorBootsNovice",
-    "custom": "",
+    "custom": "Прызваныя боты",
     "en": "Bound Boots",
     "ru": "Призванные сапоги",
     "bel": "Прызваныя боты",
@@ -120142,7 +120142,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardBoundArmorCuriassJourneyman",
-    "custom": "",
+    "custom": "Прызваная кіраса",
     "en": "Bound Cuirass",
     "ru": "Призванная кираса",
     "bel": "Прызваная кіраса",
@@ -120151,7 +120151,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardBoundArmorGauntletsNovice",
-    "custom": "",
+    "custom": "Прызваныя пальчаткі",
     "en": "Bound Gauntlets",
     "ru": "Призванные перчатки",
     "bel": "Прызваныя пальчаткі",
@@ -120160,7 +120160,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardBoundArmorGreavesApprentice",
-    "custom": "",
+    "custom": "Прызваныя понажы",
     "en": "Bound Greaves",
     "ru": "Призванные поножи",
     "bel": "Прызваныя набедраннікі",
@@ -120169,7 +120169,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardBoundArmorHelmetNovice",
-    "custom": "",
+    "custom": "Прызваны шлем",
     "en": "Bound Helmet",
     "ru": "Призванный шлем",
     "bel": "Прызваны шлем",
@@ -120178,7 +120178,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardBoundArmorShieldExpert",
-    "custom": "",
+    "custom": "Прызваны шчыт",
     "en": "Bound Shield",
     "ru": "Призванный щит",
     "bel": "Прызваны шчыт",
@@ -120187,7 +120187,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardBoundAxeApprentice",
-    "custom": "",
+    "custom": "Прызваная сякера",
     "en": "Bound War Axe",
     "ru": "Призванный топор",
     "bel": "Прызваная сякера",
@@ -120196,7 +120196,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardBoundBowJourneyman",
-    "custom": "",
+    "custom": "Прызваны лук",
     "en": "Bound Bow",
     "ru": "Призванный лук",
     "bel": "Прызваны лук",
@@ -120205,7 +120205,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardBoundDaggerNovice",
-    "custom": "",
+    "custom": "Прызваны кінжал",
     "en": "Bound Dagger",
     "ru": "Призванный кинжал",
     "bel": "Прызваны кінжал",
@@ -120214,7 +120214,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardBoundMaceJourneyman",
-    "custom": "",
+    "custom": "Прызваная булава",
     "en": "Bound Mace",
     "ru": "Призванная булава",
     "bel": "Прызваная булава",
@@ -120223,7 +120223,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardBoundSwordExpert",
-    "custom": "",
+    "custom": "Прызваны меч",
     "en": "Bound Sword",
     "ru": "Призванный меч",
     "bel": "Прызваны меч",
@@ -120232,7 +120232,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardBurden1Novice",
-    "custom": "",
+    "custom": "Абцяжарвальны дотык",
     "en": "Burdening Touch",
     "ru": "Обременяющее касание",
     "bel": "Абцяжарвальны дотык",
@@ -120241,7 +120241,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardBurden2Apprentice",
-    "custom": "",
+    "custom": "Затрымліваючы дотык",
     "en": "Hindering Touch",
     "ru": "Задерживающее касание",
     "bel": "Затрымліваючы дотык",
@@ -120250,7 +120250,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardBurden3Journeyman",
-    "custom": "",
+    "custom": "Ацяжарваючы дотык",
     "en": "Encumbering Touch",
     "ru": "Отягощающее касание",
     "bel": "Ацяжарваючы дотык",
@@ -120259,7 +120259,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardBurden4Expert",
-    "custom": "",
+    "custom": "Прыгнятаючая хватка",
     "en": "Oppressing Grasp",
     "ru": "Угнетающая хватка",
     "bel": "Прыгнятаючая хватка",
@@ -120268,7 +120268,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardCalmTarget1Novice",
-    "custom": "",
+    "custom": "Супакаенне",
     "en": "Serenity",
     "ru": "Успокоение",
     "bel": "Супакаенне",
@@ -120277,7 +120277,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardCalmTarget2Apprentice",
-    "custom": "",
+    "custom": "Уміратворэнне",
     "en": "Pacification",
     "ru": "Умиротворение",
     "bel": "Уміратворанне",
@@ -120286,7 +120286,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardCalmTouch1Novice",
-    "custom": "",
+    "custom": "Супакойваючы дотык",
     "en": "Soothing Touch",
     "ru": "Успокаивающее касание",
     "bel": "Супакойваючы дотык",
@@ -120295,7 +120295,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardCalmTouch3Journeyman",
-    "custom": "",
+    "custom": "Уціхамірваючы дотык",
     "en": "Calming Touch",
     "ru": "Усмиряющее касание",
     "bel": "Уціхамірвальны дотык",
@@ -120304,7 +120304,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardChameleon5Master",
-    "custom": "",
+    "custom": "Пакроў",
     "en": "Cloak",
     "ru": "Покров",
     "bel": "Пакроў",
@@ -120313,7 +120313,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardCharmArea3Journeyman",
-    "custom": "",
+    "custom": "Пакараючая прысутнасць",
     "en": "Enthralling Presence",
     "ru": "Покоряющее присутствие",
     "bel": "Пакараючая прысутнасць",
@@ -120322,7 +120322,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardCharmTarget1Novice",
-    "custom": "",
+    "custom": "Чароўны погляд",
     "en": "Alluring Gaze",
     "ru": "Чарующий взгляд",
     "bel": "Зачаравальны погляд",
@@ -120331,7 +120331,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardCharmTarget2Apprentice",
-    "custom": "",
+    "custom": "Зваблівыя чары",
     "en": "Seductive Charm",
     "ru": "Обольстительные чары",
     "bel": "Зваблівыя чары",
@@ -120340,7 +120340,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardCharmTarget3Journeyman",
-    "custom": "",
+    "custom": "Пакараючы голас",
     "en": "Voice of Rapture",
     "ru": "Покоряющий глас",
     "bel": "Пакараючы голас",
@@ -120349,7 +120349,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardCharmTouch1Novice",
-    "custom": "",
+    "custom": "Прыцягваючы дотык",
     "en": "Beguiling Touch",
     "ru": "Притягивающее касание",
     "bel": "Прыцягваючы дотык",
@@ -120358,7 +120358,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardCharmTouch2Apprentice",
-    "custom": "",
+    "custom": "Гіпнатызуючая хватка",
     "en": "Mesmerizing Grasp",
     "ru": "Гипнотизирующая хватка",
     "bel": "Гіпнатызуючая хватка",
@@ -120367,7 +120367,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardCommandCreature2Apprentice",
-    "custom": "",
+    "custom": "Падначаленне істоты",
     "en": "Command Creature",
     "ru": "Приказ существу",
     "bel": "Загад істоце",
@@ -120376,7 +120376,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardCommandCreature4Expert",
-    "custom": "",
+    "custom": "Дамінаванне над істотай",
     "en": "Dominate Creature",
     "ru": "Доминирование над существом",
     "bel": "Дамінаванне над істотай",
@@ -120385,7 +120385,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardCommandHuman2Apprentice",
-    "custom": "",
+    "custom": "Падначаленне гуманоіда",
     "en": "Command Humanoid",
     "ru": "Приказ гуманоиду",
     "bel": "Загад гуманоіду",
@@ -120394,7 +120394,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardCommandHuman4Expert",
-    "custom": "",
+    "custom": "Дамінаванне над гуманоідам",
     "en": "Dominate Humanoid",
     "ru": "Доминирование над гуманоидом",
     "bel": "Дамінаванне над гуманоідам",
@@ -120403,7 +120403,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardCommandingTouch2Apprentice",
-    "custom": "",
+    "custom": "Падпарадкоўваючы дотык",
     "en": "Commanding Touch",
     "ru": "Повинующее касание",
     "bel": "Паслухмяны дотык",
@@ -120412,7 +120412,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardCommandingTouch3Journeyman",
-    "custom": "",
+    "custom": "Дамінуючы дотык",
     "en": "Dominating Touch",
     "ru": "Доминирующее касание",
     "bel": "Дамінуючы дотык",
@@ -120421,7 +120421,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardCureDiseaseJourneyman",
-    "custom": "",
+    "custom": "Вылячэнне хваробы",
     "en": "Cure Disease",
     "ru": "Исцеление болезней",
     "bel": "Вылячэнне хвароб",
@@ -120430,7 +120430,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardCureParalysisApprentice",
-    "custom": "",
+    "custom": "Вылячэнне паралічу",
     "en": "Cure Paralysis",
     "ru": "Исцеление от паралича",
     "bel": "Вылячэнне ад паралічу",
@@ -120439,7 +120439,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardCurePoisonApprentice",
-    "custom": "",
+    "custom": "Вылячэнне атруты",
     "en": "Cure Poison",
     "ru": "Противоядие",
     "bel": "Проціяддзе",
@@ -120448,7 +120448,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDamageAttribAgility1Novice",
-    "custom": "",
+    "custom": "Пашкоджанне атрыбута: спрыт",
     "en": "Damage Attribute: Agility",
     "ru": "Повреждение атрибута: ловкость",
     "bel": "Пашкоджанне атрыбута: спрыт",
@@ -120457,7 +120457,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDamageAttribEndurance1Novice",
-    "custom": "",
+    "custom": "Пашкоджанне атрыбута: цягавітасць",
     "en": "Damage Attribute: Endurance",
     "ru": "Повреждение атрибута: выносливость",
     "bel": "Пашкоджанне атрыбута: цягавітасць",
@@ -120466,7 +120466,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDamageAttribIntelligence3Journeyman",
-    "custom": "",
+    "custom": "Пашкоджанне атрыбута: інтэлект",
     "en": "Damage Attribute: Intelligence",
     "ru": "Повреждение атрибута: интеллект",
     "bel": "Пашкоджанне атрыбута: інтэлект",
@@ -120475,7 +120475,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDamageAttribLuck1Novice",
-    "custom": "",
+    "custom": "Пашкоджанне атрыбуту: ўдача",
     "en": "Damage Attribute: Luck",
     "ru": "Повреждение атрибута: удача",
     "bel": "Пашкоджанне атрыбута: ўдача",
@@ -120484,7 +120484,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDamageAttribSpeed2Apprentice",
-    "custom": "",
+    "custom": "Пашкоджанне атрыбута: хуткасць",
     "en": "Damage Attribute: Speed",
     "ru": "Повреждение атрибута: скорость",
     "bel": "Пашкоджанне атрыбута: хуткасць",
@@ -120493,7 +120493,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDamageAttribStrength4Expert",
-    "custom": "",
+    "custom": "Пашкоджанне атрыбута: сіла",
     "en": "Damage Attribute: Strength",
     "ru": "Повреждение атрибута: сила",
     "bel": "Пашкоджанне атрыбута: сіла",
@@ -120502,7 +120502,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDamageAttribWillpower2Apprentice",
-    "custom": "",
+    "custom": "Пашкоджанне атрыбута: сіла волі",
     "en": "Damage Attribute: Willpower",
     "ru": "Повреждение атрибута: сила воли",
     "bel": "Пашкоджанне атрыбута: сіла волі",
@@ -120520,7 +120520,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDamageHealthTarget4Expert",
-    "custom": "",
+    "custom": "Знясільваючая страла",
     "en": "Withering Bolt",
     "ru": "Иссушающая стрела",
     "bel": "Знясільваючая страла",
@@ -120529,7 +120529,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDamageHealthTouch1Novice",
-    "custom": "",
+    "custom": "Дотык энтрапіі",
     "en": "Entropic Touch",
     "ru": "Прикосновение энтропии",
     "bel": "Дотык энтрапіі",
@@ -120538,7 +120538,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDamageHealthTouch3Journeyman",
-    "custom": "",
+    "custom": "Знясільваючы дотык",
     "en": "Withering Touch",
     "ru": "Иссушающее прикосновение",
     "bel": "Знясільваючы дотык",
@@ -120547,7 +120547,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDamageMagicka2Apprentice",
-    "custom": "",
+    "custom": "Дэградацыя магіі",
     "en": "Sever Magicka",
     "ru": "Деградация магии",
     "bel": "Дэградацыя магіі",
@@ -120556,7 +120556,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDemoralizeTarget3Journeyman",
-    "custom": "",
+    "custom": "Жахлівы голас",
     "en": "Voice of Dread",
     "ru": "Ужасающий голос",
     "bel": "Жахлівы голас",
@@ -120565,7 +120565,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDemoralizeTarget4Expert",
-    "custom": "",
+    "custom": "Жахлівы погляд",
     "en": "Fearful Gaze",
     "ru": "Ужасающий взгляд",
     "bel": "Жахлівы погляд",
@@ -120574,7 +120574,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDetectLife2Apprentice",
-    "custom": "",
+    "custom": "Вялікае выяўленне жыцця",
     "en": "Major Life Detection",
     "ru": "Большое обнаружение жизни",
     "bel": "Вялікае выяўленне жыцця",
@@ -120583,7 +120583,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDetectLife3Journeyman",
-    "custom": "",
+    "custom": "Выдатнае выяўленне жыцця",
     "en": "Greater Life Detection",
     "ru": "Великое обнаружение жизни",
     "bel": "Выдатнае выяўленне жыцця",
@@ -120592,7 +120592,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDetectLife4Expert",
-    "custom": "",
+    "custom": "Цудоўнае выяўленне жыцця",
     "en": "Superior Life Detection",
     "ru": "Превосходное обнаружение жизни",
     "bel": "Цудоўнае выяўленне жыцця",
@@ -120601,7 +120601,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDisintegrateArmor2Apprentice",
-    "custom": "",
+    "custom": "Раз'яданне даспехаў",
     "en": "Corrode Armor",
     "ru": "Разъедание доспехов",
     "bel": "Раз'яданне даспехаў",
@@ -120610,7 +120610,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDisintegrateWeapon3Journeyman",
-    "custom": "",
+    "custom": "Раз'яданне зброі",
     "en": "Corrode Weapon",
     "ru": "Разъедание оружия",
     "bel": "Раз'яданне зброі",
@@ -120619,7 +120619,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDisintegrateWeapon5Master",
-    "custom": "",
+    "custom": "Разбурэнне зброі",
     "en": "Disintegrate Weapon",
     "ru": "Разрушение оружия",
     "bel": "Разбурэнне зброі",
@@ -120628,7 +120628,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDispelSelf1Novice",
-    "custom": "",
+    "custom": "Малое рассейванне",
     "en": "Minor Dispel",
     "ru": "Малое рассеивание",
     "bel": "Малое рассейванне",
@@ -120637,7 +120637,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDispelSelf2Apprentice",
-    "custom": "",
+    "custom": "Вялікае рассейванне",
     "en": "Major Dispel",
     "ru": "Большое рассеивание",
     "bel": "Вялікае рассейванне",
@@ -120646,7 +120646,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDispelSelf3Journeyman",
-    "custom": "",
+    "custom": "Вялікае рассейванне",
     "en": "Greater Dispel",
     "ru": "Великое рассеивание",
     "bel": "Выдатнае рассейванне",
@@ -120655,7 +120655,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDispelSelf4Expert",
-    "custom": "",
+    "custom": "Цудоўнае рассейванне",
     "en": "Superior Dispel",
     "ru": "Превосходное рассеивание",
     "bel": "Цудоўнае рассейванне",
@@ -120664,7 +120664,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDispelSelf5Master",
-    "custom": "",
+    "custom": "Легендарнае рассейванне",
     "en": "Legendary Dispel",
     "ru": "Легендарное рассеивание",
     "bel": "Легендарнае рассейванне",
@@ -120673,7 +120673,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDispelTarget2Apprentice",
-    "custom": "",
+    "custom": "Рассейванне магіі на іншых",
     "en": "Dispel Other",
     "ru": "Рассеивание магии на других",
     "bel": "Рассейванне магіі на іншых",
@@ -120682,7 +120682,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDispelTarget3Journeyman",
-    "custom": "",
+    "custom": "Вялікае рассейв. магіі на іншых",
     "en": "Greater Dispel Other",
     "ru": "Великое рассеив. магии на других",
     "bel": "Выдатнае рассейв. магіі на іншых",
@@ -120691,7 +120691,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDrainAttribAgility1Novice",
-    "custom": "",
+    "custom": "Паніжэнне атрыбута: спрыт",
     "en": "Drain Attribute: Agility",
     "ru": "Понижение атрибута: ловкость",
     "bel": "Паніжэнне атрыбута: спрыт",
@@ -120700,7 +120700,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDrainAttribEndurance1Novice",
-    "custom": "",
+    "custom": "Паніжэнне атрыбута: цягавітасць",
     "en": "Drain Attribute: Endurance",
     "ru": "Понижение атрибута: выносливость",
     "bel": "Паніжэнне атрыбута: цягавітасць",
@@ -120709,7 +120709,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDrainAttribIntelligence3Journeyman",
-    "custom": "",
+    "custom": "Паніжэнне атрыбута: інтэлект",
     "en": "Drain Attribute: Intelligence",
     "ru": "Понижение атрибута: интеллект",
     "bel": "Паніжэнне атрыбута: інтэлект",
@@ -120718,7 +120718,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDrainAttribLuck1Novice",
-    "custom": "",
+    "custom": "Паніжэнне атрыбута: ўдача",
     "en": "Drain Attribute: Luck",
     "ru": "Понижение атрибута: удача",
     "bel": "Паніжэнне атрыбута: ўдача",
@@ -120727,7 +120727,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDrainAttribSpeed2Apprentice",
-    "custom": "",
+    "custom": "Паніжэнне атрыбута: хуткасць",
     "en": "Drain Attribute: Speed",
     "ru": "Понижение атрибута: скорость",
     "bel": "Паніжэнне атрыбута: хуткасць",
@@ -120736,7 +120736,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDrainAttribWillpower2Apprentice",
-    "custom": "",
+    "custom": "Паніжэнне атрыбута: сіла волі",
     "en": "Drain Attribute: Willpower",
     "ru": "Понижение атрибута: сила воли",
     "bel": "Паніжэнне атрыбута: сіла волі",
@@ -120745,7 +120745,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDrainFatigue1Novice",
-    "custom": "",
+    "custom": "Малая бяссілле",
     "en": "Minor Enervation",
     "ru": "Малое бессилие",
     "bel": "Малое бяссілле",
@@ -120754,7 +120754,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDrainFatigue2Apprentice",
-    "custom": "",
+    "custom": "Вялікае бяссілле",
     "en": "Major Enervation",
     "ru": "Большое бессилие",
     "bel": "Вялікае бяссілле",
@@ -120763,7 +120763,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDrainFatigue3Journeyman",
-    "custom": "",
+    "custom": "Жахлівае бяссілле",
     "en": "Dire Enervation",
     "ru": "Ужасное бессилие",
     "bel": "Жахлівае бяссілле",
@@ -120772,7 +120772,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDrainHealth1Novice",
-    "custom": "",
+    "custom": "Лёгкае раненне",
     "en": "Minor Wound",
     "ru": "Легкое ранение",
     "bel": "Лёгкае раненне",
@@ -120781,7 +120781,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDrainHealth2Apprentice",
-    "custom": "",
+    "custom": "Сярэдняе раненне",
     "en": "Major Wound",
     "ru": "Среднее ранение",
     "bel": "Сярэдняе раненне",
@@ -120790,7 +120790,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDrainHealth3Journeyman",
-    "custom": "",
+    "custom": "Жахлівае раненне",
     "en": "Dire Wound",
     "ru": "Ужасное ранение",
     "bel": "Жахлівае раненне",
@@ -120799,7 +120799,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDrainHealth4Expert",
-    "custom": "",
+    "custom": "Цяжкае раненне",
     "en": "Superior Wound",
     "ru": "Тяжелое ранение",
     "bel": "Цяжкае раненне",
@@ -120808,7 +120808,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDrainMagicka2Apprentice",
-    "custom": "",
+    "custom": "Паніжэнне магіі",
     "en": "Magicka Drain",
     "ru": "Понижение магии",
     "bel": "Паніжэнне магіі",
@@ -120817,7 +120817,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDrainMagicka3Journeyman",
-    "custom": "",
+    "custom": "Выдатнае паніжэнне магіі",
     "en": "Greater Magicka Drain",
     "ru": "Великое понижение магии",
     "bel": "Выдатнае паніжэнне магіі",
@@ -120826,7 +120826,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDrainMagicka4Expert",
-    "custom": "",
+    "custom": "Неверагоднае паніжэнне магіі",
     "en": "Superior Magicka Drain",
     "ru": "Невероятное понижение магии",
     "bel": "Неверагоднае паніжэнне магіі",
@@ -120835,7 +120835,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDrainMagicka5Master",
-    "custom": "",
+    "custom": "Жудаснае паніжэнне магіі",
     "en": "Legendary Magicka Drain",
     "ru": "Чудовищное понижение магии",
     "bel": "Жудаснае паніжэнне магіі",
@@ -120844,7 +120844,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDrainSkAlterationJourneyman",
-    "custom": "",
+    "custom": "Паніжэнне навыку: змена",
     "en": "Drain Skill: Alteration",
     "ru": "Понижение навыка: изменение",
     "bel": "Паніжэнне навыку: змена",
@@ -120853,7 +120853,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDrainSkBladeExpert",
-    "custom": "",
+    "custom": "Паніжэнне навыку: клінкі",
     "en": "Drain Skill: Blade",
     "ru": "Понижение навыка: клинки",
     "bel": "Паніжэнне навыку: клінкі",
@@ -120862,7 +120862,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDrainSkConjurationExpert",
-    "custom": "",
+    "custom": "Паніжэнне навыку: чарадзейства",
     "en": "Drain Skill: Conjuration",
     "ru": "Понижение навыка: колдовство",
     "bel": "Паніжэнне навыку: чарадзейства",
@@ -120871,7 +120871,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDrainSkDestructionJourneyman",
-    "custom": "",
+    "custom": "Паніжэнне навыку: разбурэнне",
     "en": "Drain Skill: Destruction",
     "ru": "Понижение навыка: разрушение",
     "bel": "Паніжэнне навыку: разбурэнне",
@@ -120880,7 +120880,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDrainSkH2HJourneyman",
-    "custom": "",
+    "custom": "Паніжэнне навыку: рукапаш. бой",
     "en": "Drain Skill: Hand to Hand",
     "ru": "Понижение навыка: рукопаш. бой",
     "bel": "Паніжэнне навыку: рукапаш. бой",
@@ -120889,7 +120889,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDrainSkHeavyArmJourneyman",
-    "custom": "",
+    "custom": "Паніжэнне навыку: цяж. даспехі",
     "en": "Drain Skill: Heavy Armor",
     "ru": "Понижение навыка: тяж. доспехи",
     "bel": "Паніжэнне навыку: цяж. даспехі",
@@ -120898,7 +120898,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDrainSkIllusionApprentice",
-    "custom": "",
+    "custom": "Паніжэнне навыку: ілюзія",
     "en": "Drain Skill: Illusion",
     "ru": "Понижение навыка: иллюзия",
     "bel": "Паніжэнне навыку: ілюзія",
@@ -120907,7 +120907,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDrainSkMarksmanApprentice",
-    "custom": "",
+    "custom": "Паніжэнне навыку: стральба",
     "en": "Drain Skill: Marksman",
     "ru": "Понижение навыка: стрельба",
     "bel": "Паніжэнне навыку: стральба",
@@ -120916,7 +120916,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardDrainSkRestorationExpert",
-    "custom": "",
+    "custom": "Паніжэнне навыку: аднаўленне",
     "en": "Drain Skill: Restoration",
     "ru": "Понижение навыка: восстановл.",
     "bel": "Паніжэнне навыку: аднаўл.",
@@ -120925,7 +120925,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFeather2Apprentice",
-    "custom": "",
+    "custom": "Аблегчанне ношы",
     "en": "Ease Burden",
     "ru": "Облегчение ноши",
     "bel": "Палягчэнне ношы",
@@ -120934,7 +120934,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFeather3Journeyman",
-    "custom": "",
+    "custom": "Памяншэнне вагі грузу",
     "en": "Lighten Load",
     "ru": "Уменьшение веса груза",
     "bel": "Змяншэнне вагі грузу",
@@ -120943,7 +120943,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFeather4Expert",
-    "custom": "",
+    "custom": "Вьючны мул",
     "en": "Pack Mule",
     "ru": "Вьючный мул",
     "bel": "Вючны мул",
@@ -120952,7 +120952,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFeather5Master",
-    "custom": "",
+    "custom": "Вьючная жывёла",
     "en": "Beast of Burden",
     "ru": "Вьючное животное",
     "bel": "Вючная жывёла",
@@ -120961,7 +120961,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFireDamageTarget1Novice",
-    "custom": "",
+    "custom": "Успышка",
     "en": "Flare",
     "ru": "Вспышка",
     "bel": "Выбліск",
@@ -120970,7 +120970,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFireDamageTarget2Apprentice",
-    "custom": "",
+    "custom": "Вогненная страла",
     "en": "Flash Bolt",
     "ru": "Огненная стрела",
     "bel": "Вогненная страла",
@@ -120979,7 +120979,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFireDamageTarget5Master",
-    "custom": "",
+    "custom": "Знішчальны выбух",
     "en": "Immolating Blast",
     "ru": "Испепеляющий взрыв",
     "bel": "Знішчальны выбух",
@@ -120988,7 +120988,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFireDamageTouch1Novice",
-    "custom": "",
+    "custom": "Апякальны дотык",
     "en": "Burning Touch",
     "ru": "Обжигающее касание",
     "bel": "Пякучы дотык",
@@ -120997,7 +120997,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFireDamageTouch2Apprentice",
-    "custom": "",
+    "custom": "Палымяны дотык",
     "en": "Flame Touch",
     "ru": "Пламенное касание",
     "bel": "Палымяны дотык",
@@ -121006,7 +121006,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFireDamageTouch3Journeyman",
-    "custom": "",
+    "custom": "Апякальная хватка",
     "en": "Searing Grasp",
     "ru": "Обжигающая хватка",
     "bel": "Пякучая хватка",
@@ -121015,7 +121015,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFireDamageTouch4Expert",
-    "custom": "",
+    "custom": "Апякальны ўдар",
     "en": "Scorching Blow",
     "ru": "Обжигающий удар",
     "bel": "Апякаючы ўдар",
@@ -121024,7 +121024,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFireShield2Apprentice",
-    "custom": "",
+    "custom": "Цеплавы шчыт",
     "en": "Heat Shell",
     "ru": "Тепловой щит",
     "bel": "Цеплавы шчыт",
@@ -121033,7 +121033,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFireShield3Journeyman",
-    "custom": "",
+    "custom": "Палымяны шчыт",
     "en": "Flame Shield",
     "ru": "Пламенный щит",
     "bel": "Палымяны шчыт",
@@ -121042,7 +121042,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFortifyAttribAgility2Apprentice",
-    "custom": "",
+    "custom": "Павышэнне спрыту",
     "en": "Fortify Agility",
     "ru": "Повышение ловкости",
     "bel": "Павышэнне спрыту",
@@ -121051,7 +121051,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFortifyAttribAgility3Journeyman",
-    "custom": "",
+    "custom": "Выдатнае павышэнне спрыту",
     "en": "Greater Fortify Agility",
     "ru": "Великое повышение ловкости",
     "bel": "Выдатнае павышэнне спрыту",
@@ -121060,7 +121060,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFortifyAttribEndurance2Apprentice",
-    "custom": "",
+    "custom": "Павышэнне цягавітасці",
     "en": "Fortify Endurance",
     "ru": "Повышение выносливости",
     "bel": "Павышэнне цягавітасці",
@@ -121069,7 +121069,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFortifyAttribEndurance3Journeyman",
-    "custom": "",
+    "custom": "Выдатнае павышэнне цягавітасці",
     "en": "Greater Fortify Endurance",
     "ru": "Великое повышение выносливости",
     "bel": "Выдатнае павышэнне цягавітасці",
@@ -121078,7 +121078,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFortifyAttribIntelligence2Apprentice",
-    "custom": "",
+    "custom": "Павышэнне інтэлекту",
     "en": "Fortify Intelligence",
     "ru": "Повышение интеллекта",
     "bel": "Павышэнне інтэлекту",
@@ -121087,7 +121087,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFortifyAttribIntelligence3Journeyman",
-    "custom": "",
+    "custom": "Выдатнае павышэнне інтэлекту",
     "en": "Greater Fortify Intelligence",
     "ru": "Великое повышение интеллекта",
     "bel": "Выдатнае павышэнне інтэлекту",
@@ -121096,7 +121096,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFortifyAttribLuck2Apprentice",
-    "custom": "",
+    "custom": "Павышэнне ўдачы",
     "en": "Fortify Luck",
     "ru": "Повышение удачи",
     "bel": "Павышэнне ўдачы",
@@ -121105,7 +121105,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFortifyAttribLuck3Journeyman",
-    "custom": "",
+    "custom": "Выдатнае павышэнне ўдачы",
     "en": "Greater Fortify Luck",
     "ru": "Великое повышение удачи",
     "bel": "Выдатнае павышэнне ўдачы",
@@ -121114,7 +121114,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFortifyAttribPersonality2Apprentice",
-    "custom": "",
+    "custom": "Павышэнне абаяння",
     "en": "Fortify Personality",
     "ru": "Повышение обаяния",
     "bel": "Павышэнне абаяння",
@@ -121123,7 +121123,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFortifyAttribPersonality3Journeyman",
-    "custom": "",
+    "custom": "Вялікае павышэнне абаяння",
     "en": "Greater Fortify Personality",
     "ru": "Великое повышение обаяния",
     "bel": "Вялікае павышэнне абаяння",
@@ -121132,7 +121132,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFortifyAttribSpeed2Apprentice",
-    "custom": "",
+    "custom": "Павышэнне хуткасці",
     "en": "Fortify Speed",
     "ru": "Повышение скорости",
     "bel": "Павышэнне хуткасці",
@@ -121141,7 +121141,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFortifyAttribSpeed3Journeyman",
-    "custom": "",
+    "custom": "Вялікае павышэнне хуткасці",
     "en": "Greater Fortify Speed",
     "ru": "Великое повышение скорости",
     "bel": "Вялікае павышэнне хуткасці",
@@ -121150,7 +121150,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFortifyAttribStrength2Apprentice",
-    "custom": "",
+    "custom": "Павышэнне сілы",
     "en": "Fortify Strength",
     "ru": "Повышение силы",
     "bel": "Павышэнне сілы",
@@ -121159,7 +121159,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFortifyAttribStrength3Journeyman",
-    "custom": "",
+    "custom": "Вялікае павышэнне сілы",
     "en": "Greater Fortify Strength",
     "ru": "Великое повышение силы",
     "bel": "Вялікае павышэнне сілы",
@@ -121168,7 +121168,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFortifyAttribWillpower2Apprentice",
-    "custom": "",
+    "custom": "Павышэнне сілы волі",
     "en": "Fortify Willpower",
     "ru": "Повышение силы воли",
     "bel": "Павышэнне сілы волі",
@@ -121177,7 +121177,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFortifyAttribWillpower3Journeyman",
-    "custom": "",
+    "custom": "Вялікае павышэнне сілы волі",
     "en": "Greater Fortify Willpower",
     "ru": "Великое повышение силы воли",
     "bel": "Вялікае павышэнне сілы волі",
@@ -121186,7 +121186,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFortifyFatigue1Novice",
-    "custom": "",
+    "custom": "Павышэнне запасу сіл",
     "en": "Fortify Fatigue",
     "ru": "Повышение запаса сил",
     "bel": "Павышэнне запасу сіл",
@@ -121195,7 +121195,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFortifyFatigue2Apprentice",
-    "custom": "",
+    "custom": "Вялікае павышэнне запасу сіл",
     "en": "Greater Fortify Fatigue",
     "ru": "Великое повышение запаса сил",
     "bel": "Вялікае павышэнне запасу сіл",
@@ -121204,7 +121204,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFortifyHealth2Apprentice",
-    "custom": "",
+    "custom": "Павышэнне здароўя",
     "en": "Fortify Health",
     "ru": "Повышение здоровья",
     "bel": "Павышэнне здароўя",
@@ -121213,7 +121213,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFortifyHealth4Expert",
-    "custom": "",
+    "custom": "Вялікае павышэнне здароўя",
     "en": "Greater Fortify Health",
     "ru": "Великое повышение здоровья",
     "bel": "Вялікае павышэнне здароўя",
@@ -121231,7 +121231,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFortifyMagicka4Expert",
-    "custom": "",
+    "custom": "Вялікае павышэнне магіі",
     "en": "Greater Fortify Magicka",
     "ru": "Великое повышение магии",
     "bel": "Вялікае павышэнне магіі",
@@ -121240,7 +121240,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFrenzyTarget2Apprentice",
-    "custom": "",
+    "custom": "Лютасць",
     "en": "Rage",
     "ru": "Ярость",
     "bel": "Лютасць",
@@ -121249,7 +121249,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFrostDamageArea3Journeyman",
-    "custom": "",
+    "custom": "Навальніца з градам",
     "en": "Hail Storm",
     "ru": "Гроза с градом",
     "bel": "Навальніца з градам",
@@ -121258,7 +121258,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFrostDamageArea4Expert",
-    "custom": "",
+    "custom": "Снежная бура",
     "en": "Ice Storm",
     "ru": "Снежная буря",
     "bel": "Снежная бура",
@@ -121267,7 +121267,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFrostDamageArea5Master",
-    "custom": "",
+    "custom": "Буран",
     "en": "Blizzard",
     "ru": "Буран",
     "bel": "Буран",
@@ -121276,7 +121276,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFrostDamageTarget1Novice",
-    "custom": "",
+    "custom": "Сняжок",
     "en": "Snowball",
     "ru": "Снежок",
     "bel": "Сняжок",
@@ -121285,7 +121285,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFrostDamageTarget3Journeyman",
-    "custom": "",
+    "custom": "Марозны болт",
     "en": "Frost Bolt",
     "ru": "Морозная стрела",
     "bel": "Марозная страла",
@@ -121294,7 +121294,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFrostDamageTarget4Expert",
-    "custom": "",
+    "custom": "Ледзяны болт",
     "en": "Ice Bolt",
     "ru": "Ледяная стрела",
     "bel": "Лядзяная страла",
@@ -121303,7 +121303,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFrostDamageTarget5Master",
-    "custom": "",
+    "custom": "Ледзяны зарад",
     "en": "Ice Blast",
     "ru": "Ледяной заряд",
     "bel": "Лядзяны зарад",
@@ -121312,7 +121312,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFrostDamageTouch3Journeyman",
-    "custom": "",
+    "custom": "Хватка зімы",
     "en": "Winter's Grasp",
     "ru": "Хватка зимы",
     "bel": "Хватка зімы",
@@ -121321,7 +121321,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFrostDamageTouch4Expert",
-    "custom": "",
+    "custom": "Арктычны ўдар",
     "en": "Arctic Blow",
     "ru": "Арктический удар",
     "bel": "Арктычны ўдар",
@@ -121330,7 +121330,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFrostShield2Apprentice",
-    "custom": "",
+    "custom": "Марозны панцыр",
     "en": "Frost Shell",
     "ru": "Морозный панцирь",
     "bel": "Марозны панцыр",
@@ -121339,7 +121339,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFrostShield3Journeyman",
-    "custom": "",
+    "custom": "Ледзяны шчыт",
     "en": "Ice Shield",
     "ru": "Ледяной щит",
     "bel": "Лядзяны шчыт",
@@ -121348,7 +121348,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardFrostShield4Expert",
-    "custom": "",
+    "custom": "Ледзяная сцяна",
     "en": "Glacial Wall",
     "ru": "Ледяная стена",
     "bel": "Лядзяная сцяна",
@@ -121357,7 +121357,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardInvisibility3Journeyman",
-    "custom": "",
+    "custom": "Гульня ценяў",
     "en": "Shadow Shape",
     "ru": "Игра теней",
     "bel": "Гульня ценяў",
@@ -121366,7 +121366,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardInvisibility4Expert",
-    "custom": "",
+    "custom": "Прывідны шпацыр",
     "en": "Ghostwalk",
     "ru": "Призрачная походка",
     "bel": "Прывідны шпацыр",
@@ -121375,7 +121375,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardLight2Apprentice",
-    "custom": "",
+    "custom": "Месячнае святло",
     "en": "Moonlight",
     "ru": "Лунный свет",
     "bel": "Месячнае святло",
@@ -121384,7 +121384,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardLight4Expert",
-    "custom": "",
+    "custom": "Святло факела",
     "en": "Torchlight",
     "ru": "Свет факела",
     "bel": "Святло факела",
@@ -121393,7 +121393,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardNightEye2Apprentice",
-    "custom": "",
+    "custom": "Вячэрняе вока",
     "en": "Eyes of Eventide",
     "ru": "Вечернее око",
     "bel": "Вечаровае вока",
@@ -121402,7 +121402,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardNightEye3Journeyman",
-    "custom": "",
+    "custom": "Паўночнае вока",
     "en": "Eyes of Midnight",
     "ru": "Полуночное око",
     "bel": "Поўначнае вока",
@@ -121411,7 +121411,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardOpen1Novice",
-    "custom": "",
+    "custom": "Адкрыць вельмі просты замок",
     "en": "Open Very Easy Lock",
     "ru": "Открыть очень простой замок",
     "bel": "Адкрыць вельмі просты замок",
@@ -121420,7 +121420,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardOpen2Apprentice",
-    "custom": "",
+    "custom": "Адкрыць просты замок",
     "en": "Open Easy Lock",
     "ru": "Открыть простой замок",
     "bel": "Адкрыць просты замок",
@@ -121429,7 +121429,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardOpen4Expert",
-    "custom": "",
+    "custom": "Адкрыць складаны замок",
     "en": "Open Hard Lock",
     "ru": "Открыть сложный замок",
     "bel": "Адкрыць складаны замок",
@@ -121438,7 +121438,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardParalyze3Journeyman",
-    "custom": "",
+    "custom": "Страта свядомасці",
     "en": "Debilitate",
     "ru": "Потеря сознания",
     "bel": "Страта прытомнасці",
@@ -121447,7 +121447,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardParalyze4Expert",
-    "custom": "",
+    "custom": "Абяздвіжванне",
     "en": "Immobilize",
     "ru": "Обездвиживание",
     "bel": "Абязрушванне",
@@ -121456,7 +121456,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardRallyTouch2Apprentice",
-    "custom": "",
+    "custom": "Дотык гераізму",
     "en": "Heroic Touch",
     "ru": "Касание героизма",
     "bel": "Дотык гераізму",
@@ -121465,7 +121465,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardReflectSpell4Expert",
-    "custom": "",
+    "custom": "Выдатн. адлюстраванне загавораў",
     "en": "Superior Spell Reflection",
     "ru": "Превосх. отражение заклинаний",
     "bel": "Выдатнае адлюстраванне заклінанняў",
@@ -121474,7 +121474,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardReflectSpell5Master",
-    "custom": "",
+    "custom": "Легендарнае адлюстраванне загавораў",
     "en": "Legendary Spell Reflection",
     "ru": "Легендарное отражение заклинаний",
     "bel": "Легендарнае адлюстраванне заклінанняў",
@@ -121483,7 +121483,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardRestoreAttribPersonality2Apprentice",
-    "custom": "",
+    "custom": "Аднаўленне абаяння",
     "en": "Restore Personality",
     "ru": "Восстановление обаяния",
     "bel": "Аднаўленне абаяння",
@@ -121492,7 +121492,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardRestoreFatigue1Novice",
-    "custom": "",
+    "custom": "Малая перадышка",
     "en": "Minor Respite",
     "ru": "Малая передышка",
     "bel": "Малая перадышка",
@@ -121501,7 +121501,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardRestoreFatigue2Apprentice",
-    "custom": "",
+    "custom": "Вялікая перадышка",
     "en": "Major Respite",
     "ru": "Большая передышка",
     "bel": "Вялікая перадышка",
@@ -121510,7 +121510,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardRestoreHealth1Novice",
-    "custom": "",
+    "custom": "Лячэнне лёгкіх раненняў",
     "en": "Heal Minor Wounds",
     "ru": "Лечение легких ранений",
     "bel": "Лекаванне лёгкіх раненняў",
@@ -121519,7 +121519,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardRestoreHealth2Apprentice",
-    "custom": "",
+    "custom": "Лекаванне сярэдніх раненняў",
     "en": "Heal Major Wounds",
     "ru": "Лечение средних ранений",
     "bel": "Лекаванне сярэдніх раненняў",
@@ -121528,7 +121528,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardRestoreHealth3Journeyman",
-    "custom": "",
+    "custom": "Лекаванне шырокіх раненняў",
     "en": "Heal Greater Wounds",
     "ru": "Лечение обширных ранений",
     "bel": "Лекаванне шырокіх раненняў",
@@ -121537,7 +121537,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardRestoreHealth4Expert",
-    "custom": "",
+    "custom": "Лекаванне цяжкіх раненняў",
     "en": "Heal Superior Wounds",
     "ru": "Лечение тяжелых ранений",
     "bel": "Лекаванне цяжкіх раненняў",
@@ -121546,7 +121546,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardRestoreHealth5Master",
-    "custom": "",
+    "custom": "Лекаванне вельмі цяжкіх раненняў",
     "en": "Heal Legendary Wounds",
     "ru": "Лечение очень тяжелых ранений",
     "bel": "Лекаванне вельмі цяжкіх раненняў",
@@ -121555,7 +121555,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardRestoreHealthTarget2Apprentice",
-    "custom": "",
+    "custom": "Аздараўленне",
     "en": "Convalescence",
     "ru": "Оздоровление",
     "bel": "Аздараўленне",
@@ -121564,7 +121564,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardRestoreHealthTarget3Journeyman",
-    "custom": "",
+    "custom": "Вялікае аздараўленне",
     "en": "Greater Convalescence",
     "ru": "Великое оздоровление",
     "bel": "Вялікае аздараўленне",
@@ -121573,7 +121573,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardRestoreHealthTarget4Expert",
-    "custom": "",
+    "custom": "Выдатнае аздараўленне",
     "en": "Superior Convalescence",
     "ru": "Превосходное оздоровление",
     "bel": "Выдатнае аздараўленне",
@@ -121582,7 +121582,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardShield1Novice",
-    "custom": "",
+    "custom": "Абарона",
     "en": "Protect",
     "ru": "Оборона",
     "bel": "Абарона",
@@ -121591,7 +121591,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardShield2Apprentice",
-    "custom": "",
+    "custom": "Засцярога",
     "en": "Defend",
     "ru": "Защита",
     "bel": "Засцярога",
@@ -121600,7 +121600,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardShield3Journeyman",
-    "custom": "",
+    "custom": "Ахоўнік",
     "en": "Guard",
     "ru": "Охрана",
     "bel": "Ахова",
@@ -121609,7 +121609,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardShieldTarget1Novice",
-    "custom": "",
+    "custom": "Абарона іншых",
     "en": "Protect Other",
     "ru": "Защита других",
     "bel": "Абарона іншых",
@@ -121618,7 +121618,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardShockDamageArea3Journeyman",
-    "custom": "",
+    "custom": "Электрычныя выбухі",
     "en": "Shocking Burst",
     "ru": "Электрические взрывы",
     "bel": "Электрычныя выбухі",
@@ -121627,7 +121627,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardShockDamageTarget3Journeyman",
-    "custom": "",
+    "custom": "Маланка",
     "en": "Lightning Bolt",
     "ru": "Молния",
     "bel": "Маланка",
@@ -121636,7 +121636,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardShockDamageTouch1Novice",
-    "custom": "",
+    "custom": "Электрычны дотык",
     "en": "Shocking Touch",
     "ru": "Электризующее касание",
     "bel": "Электрызуючы дотык",
@@ -121645,7 +121645,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardShockDamageTouch3Journeyman",
-    "custom": "",
+    "custom": "Хватка маланкі",
     "en": "Lightning Grasp",
     "ru": "Хватка молнии",
     "bel": "Хватка маланкі",
@@ -121654,7 +121654,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardShockDamageTouch4Expert",
-    "custom": "",
+    "custom": "Пляска маланкі",
     "en": "Lightning Surge",
     "ru": "Пляска молнии",
     "bel": "Танец маланкі",
@@ -121663,7 +121663,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardShockShield2Apprentice",
-    "custom": "",
+    "custom": "Электрычны панцыр",
     "en": "Electric Shell",
     "ru": "Электрический панцирь",
     "bel": "Электрычны панцыр",
@@ -121672,7 +121672,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardShockShield3Journeyman",
-    "custom": "",
+    "custom": "Шчыт маланак",
     "en": "Lightning Shield",
     "ru": "Щит молний",
     "bel": "Шчыт маланак",
@@ -121681,7 +121681,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardShockShield4Expert",
-    "custom": "",
+    "custom": "Сцяна маланак",
     "en": "Lightning Wall",
     "ru": "Стена молний",
     "bel": "Сцяна маланак",
@@ -121690,7 +121690,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardSilence4Expert",
-    "custom": "",
+    "custom": "Маўчанне",
     "en": "Mute",
     "ru": "Молчание",
     "bel": "Маўчанне",
@@ -121699,7 +121699,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardSilence5Master",
-    "custom": "",
+    "custom": "Маўчанне",
     "en": "Silence",
     "ru": "Безмолвие",
     "bel": "Бязмоўе",
@@ -121708,7 +121708,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardSoulTrap2Apprentice",
-    "custom": "",
+    "custom": "Пастка душ",
     "en": "Soul Trap",
     "ru": "Ловушка душ",
     "bel": "Пастка душ",
@@ -121717,7 +121717,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardSoulTrap3Journeyman",
-    "custom": "",
+    "custom": "Вялікая пастка душ",
     "en": "Greater Soul Trap",
     "ru": "Великая ловушка душ",
     "bel": "Вялікая пастка душ",
@@ -121726,7 +121726,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardSoulTrap4Expert",
-    "custom": "",
+    "custom": "Выдатная пастка душ",
     "en": "Superior Soul Trap",
     "ru": "Превосходная ловушка душ",
     "bel": "Выдатная пастка душ",
@@ -121735,7 +121735,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardSpellAbsorption4Expert",
-    "custom": "",
+    "custom": "Найвыш. паглынанне загавораў",
     "en": "Superior Spell Absorption",
     "ru": "Превосх. поглощение заклинаний",
     "bel": "Выдатнае паглынанне заклінанняў",
@@ -121744,7 +121744,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardSpellAbsorption5Master",
-    "custom": "",
+    "custom": "Легенд. паглынанне загавораў",
     "en": "Legendary Spell Absorption",
     "ru": "Легенд. поглощение заклинаний",
     "bel": "Легенд. паглынанне заклінанняў",
@@ -121753,7 +121753,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardSummonAtronachFlameJourneyman",
-    "custom": "",
+    "custom": "Выклік вогненнага атронаха",
     "en": "Summon Flame Atronach",
     "ru": "Вызов огненного атронаха",
     "bel": "Выклік вогненнага атронаха",
@@ -121762,7 +121762,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardSummonAtronachFrostExpert",
-    "custom": "",
+    "custom": "Выклік ледзянога атронаха",
     "en": "Summon Frost Atronach",
     "ru": "Вызов ледяного атронаха",
     "bel": "Выклік ледзянога атронаха",
@@ -121771,7 +121771,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardSummonAtronachStormMaster",
-    "custom": "",
+    "custom": "Выклік гразовага атронаха",
     "en": "Summon Storm Atronach",
     "ru": "Вызов грозового атронаха",
     "bel": "Выклік гразовага атронаха",
@@ -121780,7 +121780,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardSummonDaedrothExpert",
-    "custom": "",
+    "custom": "Выклік дэйдрота",
     "en": "Summon Daedroth",
     "ru": "Вызов дэйдрота",
     "bel": "Выклік дэйдрота",
@@ -121789,7 +121789,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardSummonDremoraJourneyman",
-    "custom": "",
+    "custom": "Выклік дрэмора",
     "en": "Summon Dremora",
     "ru": "Вызов дремора",
     "bel": "Выклік дрэмора",
@@ -121798,7 +121798,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardSummonDremoraLordMaster",
-    "custom": "",
+    "custom": "Выклік лорда дрэмора",
     "en": "Summon Dremora Lord",
     "ru": "Вызов лорда дремора",
     "bel": "Выклік лорда дрэмора",
@@ -121807,7 +121807,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardSummonGhostApprentice",
-    "custom": "",
+    "custom": "Выклік здані",
     "en": "Summon Ghost",
     "ru": "Вызов призрака",
     "bel": "Выклік прывіда",
@@ -121816,7 +121816,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardSummonLichMaster",
-    "custom": "",
+    "custom": "Выклік ліча",
     "en": "Summon Lich",
     "ru": "Вызов лича",
     "bel": "Выклік ліча",
@@ -121825,7 +121825,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardSummonScampApprentice",
-    "custom": "",
+    "custom": "Выклік скампа",
     "en": "Summon Scamp",
     "ru": "Вызов скампа",
     "bel": "Выклік скампа",
@@ -121834,7 +121834,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardSummonSkeletonApprentice",
-    "custom": "",
+    "custom": "Выклік шкілета",
     "en": "Summon Skeleton",
     "ru": "Вызов скелета",
     "bel": "Выклік шкілета",
@@ -121843,7 +121843,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardSummonSkeletonChampionExpert",
-    "custom": "",
+    "custom": "Выклік шкілета-ваяра",
     "en": "Summon Skeleton Champion",
     "ru": "Вызов скелета-воина",
     "bel": "Выклік шкілета-ваяра",
@@ -121852,7 +121852,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardSummonSkeletonGuardianJourneyman",
-    "custom": "",
+    "custom": "Выклік шкілета-ахоўніка",
     "en": "Summon Skeleton Guardian",
     "ru": "Вызов скелета-стража",
     "bel": "Выклік шкілета-ахоўніка",
@@ -121861,7 +121861,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardSummonSkeletonHeroExpert",
-    "custom": "",
+    "custom": "Выклік шкілета-героя",
     "en": "Summon Skeleton Hero",
     "ru": "Вызов скелета-героя",
     "bel": "Выклік шкілета-героя",
@@ -121870,7 +121870,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardSummonSpiderDaedraExpert",
-    "custom": "",
+    "custom": "Выклік дэйдра-павука",
     "en": "Summon Spider Daedra",
     "ru": "Вызов дэйдра-паука",
     "bel": "Выклік дэйдра-павука",
@@ -121879,7 +121879,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardSummonWraithFadedExpert",
-    "custom": "",
+    "custom": "Выклік туманнага прывіды",
     "en": "Summon Faded Wraith",
     "ru": "Вызов туманного привидения",
     "bel": "Выклік туманнага прывіды",
@@ -121888,7 +121888,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardSummonWraithGloomMaster",
-    "custom": "",
+    "custom": "Выклік цёмнага прывіды",
     "en": "Summon Gloom Wraith",
     "ru": "Вызов темного привидения",
     "bel": "Выклік цёмнага прывіды",
@@ -121897,7 +121897,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardSummonXivilaiMaster",
-    "custom": "",
+    "custom": "Выклік зівілаі",
     "en": "Summon Xivilai",
     "ru": "Вызов зивилаи",
     "bel": "Выклік зівілаі",
@@ -121906,7 +121906,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardSummonZombieApprentice",
-    "custom": "",
+    "custom": "Выклік зомбі",
     "en": "Summon Zombie",
     "ru": "Вызов зомби",
     "bel": "Выклік зомбі",
@@ -121915,7 +121915,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardSummonZombieHeadlessJourneyman",
-    "custom": "",
+    "custom": "Выклік бязгаловага зомбі",
     "en": "Summon Headless Zombie",
     "ru": "Вызов безголового зомби",
     "bel": "Выклік бязгаловага зомбі",
@@ -121924,7 +121924,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardTelekinesis2Apprentice",
-    "custom": "",
+    "custom": "Выдаленае маніпуляванне",
     "en": "Remote Manipulation",
     "ru": "Удаленное манипулирование",
     "bel": "Аддаленае маніпуляванне",
@@ -121933,7 +121933,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardTelekinesis3Journeyman",
-    "custom": "",
+    "custom": "Паранармальны рух",
     "en": "Psychic Motion",
     "ru": "Паранормальное движение",
     "bel": "Паранармальны рух",
@@ -121942,7 +121942,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardTelekinesis5Master",
-    "custom": "",
+    "custom": "Кіраванне прадметамі",
     "en": "Movement Mastery",
     "ru": "Управление предметами",
     "bel": "Кіраванне прадметамі",
@@ -121951,7 +121951,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardTurnUndead1Novice",
-    "custom": "",
+    "custom": "Адпужванне нежыці",
     "en": "Turn Undead",
     "ru": "Отпугивание нежити",
     "bel": "Адпужванне нежыці",
@@ -121960,7 +121960,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardTurnUndead2Apprentice",
-    "custom": "",
+    "custom": "Адкідванне нежыці",
     "en": "Repulse Undead",
     "ru": "Отбрасывание нежити",
     "bel": "Адкідванне нежыці",
@@ -121969,7 +121969,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardTurnUndead3Journeyman",
-    "custom": "",
+    "custom": "Адпор нежыці",
     "en": "Rebuke Undead",
     "ru": "Отпор нежити",
     "bel": "Адпор нежыці",
@@ -121978,7 +121978,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardTurnUndead4Expert",
-    "custom": "",
+    "custom": "Выгнанне нежыці",
     "en": "Dismiss Undead",
     "ru": "Изгнание нежити",
     "bel": "Выгнанне нежыці",
@@ -121987,7 +121987,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardWaterBreathing2Apprentice",
-    "custom": "",
+    "custom": "Воднае дыханне",
     "en": "Water Breathing",
     "ru": "Водное дыхание",
     "bel": "Воднае дыханне",
@@ -121996,7 +121996,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardWaterWalking2Apprentice",
-    "custom": "",
+    "custom": "Хаджэнне па моры",
     "en": "Sea Stride",
     "ru": "Хождение по морю",
     "bel": "Хаджэнне па моры",
@@ -122005,7 +122005,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardWeaknessFire2Apprentice",
-    "custom": "",
+    "custom": "Уразлівасць да агню",
     "en": "Weakness to Fire",
     "ru": "Уязвимость к огню",
     "bel": "Уразлівасць да агню",
@@ -122014,7 +122014,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardWeaknessFrost2Apprentice",
-    "custom": "",
+    "custom": "Уразлівасць да холаду",
     "en": "Weakness to Frost",
     "ru": "Уязвимость к холоду",
     "bel": "Уразлівасць да холаду",
@@ -122023,7 +122023,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardWeaknessMagicka3Journeyman",
-    "custom": "",
+    "custom": "Уразлівасць да магіі",
     "en": "Weakness to Magicka",
     "ru": "Уязвимость к магии",
     "bel": "Уразлівасць да магіі",
@@ -122032,7 +122032,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardWeaknessPoison2Apprentice",
-    "custom": "",
+    "custom": "Уразлівасць да яду",
     "en": "Weakness to Poison",
     "ru": "Уязвимость к яду",
     "bel": "Уразлівасць да яду",
@@ -122041,7 +122041,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StandardWeaknessShock2Apprentice",
-    "custom": "",
+    "custom": "Уразлівасць да электрычнасці",
     "en": "Weakness to Shock",
     "ru": "Уязвимость к электричеству",
     "bel": "Уразлівасць да электрычнасці",
@@ -122050,7 +122050,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StealNoCrime",
-    "custom": "",
+    "custom": "КрасціНеЗлачынства",
     "en": "StealNoCrime",
     "ru": "КрастьНеПреступление",
     "bel": "КрасціНеЗлачынства",
@@ -122059,7 +122059,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StealthTestDudes",
-    "custom": "",
+    "custom": "Тэст на ўтоенсць: Ахоўнікі",
     "en": "Stealth Test Guards",
     "ru": "Тест на скрытность: Охранники",
     "bel": "Тэст на ўтоенсць: Ахоўнікі",
@@ -122068,7 +122068,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SteelBlueEntolomaCap",
-    "custom": "",
+    "custom": "Капялюшык блакітнай энталомы",
     "en": "Steel-Blue Entoloma Cap",
     "ru": "Шляпка голубой энтоломы",
     "bel": "Капялюшык блакітнай энталомы",
@@ -122077,7 +122077,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SteelGauntlets",
-    "custom": "",
+    "custom": "Сталёвыя пальчаткі",
     "en": "Steel Gauntlets",
     "ru": "Стальные перчатки",
     "bel": "Сталёвыя пальчаткі",
@@ -122086,7 +122086,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_SteelGreaves",
-    "custom": "",
+    "custom": "Сталёвыя нажны",
     "en": "Steel Greaves",
     "ru": "Стальные поножи",
     "bel": "Сталёвыя нажны",
@@ -122095,7 +122095,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Steffan",
-    "custom": "",
+    "custom": "Капітан Стеффан",
     "en": "Captain Steffan",
     "ru": "Капитан Стеффан",
     "bel": "Капітан Стеффан",
@@ -122104,7 +122104,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StentheUgly",
-    "custom": "",
+    "custom": "Стен Вырадак",
     "en": "Sten the Ugly",
     "ru": "Стен Урод",
     "bel": "Стен Вырадак",
@@ -122113,7 +122113,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StinkhornCap",
-    "custom": "",
+    "custom": "Капялюшык кветкахвостніка",
     "en": "Stinkhorn Cap",
     "ru": "Шляпка цветохвостника",
     "bel": "Капялюшык кветкахвостніка",
@@ -122122,7 +122122,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StolenGoods",
-    "custom": "",
+    "custom": "Рэчыўныя доказы",
     "en": "Evidence",
     "ru": "Вещественные доказательства",
     "bel": "Рэчыўныя доказы",
@@ -122131,7 +122131,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StolenPainting",
-    "custom": "",
+    "custom": "Скрадзеная карціна",
     "en": "Stolen Painting",
     "ru": "Украденная картина",
     "bel": "Скрадзеная карціна",
@@ -122140,7 +122140,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StoneSlabVamp",
-    "custom": "",
+    "custom": "Спальнае ложа",
     "en": "Sleeping Slab",
     "ru": "Спальное ложе",
     "bel": "Спальнае ложа",
@@ -122149,7 +122149,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StoneSlabVampL",
-    "custom": "",
+    "custom": "Спальнае ложа",
     "en": "Sleeping Slab",
     "ru": "Спальное ложе",
     "bel": "Спальнае ложа",
@@ -122158,7 +122158,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StoneWallGateDoor01",
-    "custom": "",
+    "custom": "Драўляныя вароты",
     "en": "Wooden Gate",
     "ru": "Деревянные ворота",
     "bel": "Драўляныя вароты",
@@ -122176,7 +122176,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StoneWallStone01",
-    "custom": "",
+    "custom": "Абчасаны камень",
     "en": "Stone Brick",
     "ru": "Обтесанный камень",
     "bel": "Абчасаны камень",
@@ -122185,7 +122185,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StoneWallStone02",
-    "custom": "",
+    "custom": "Абчасаны камень",
     "en": "Stone Brick",
     "ru": "Обтесанный камень",
     "bel": "Абчасаны камень",
@@ -122194,7 +122194,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StoneWallStone03",
-    "custom": "",
+    "custom": "Абчасаны камень",
     "en": "Stone Brick",
     "ru": "Обтесанный камень",
     "bel": "Абчасаны камень",
@@ -122203,7 +122203,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StoneWallStone04",
-    "custom": "",
+    "custom": "Абчасаны камень",
     "en": "Stone Brick",
     "ru": "Обтесанный камень",
     "bel": "Абчасаны камень",
@@ -122212,7 +122212,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StoneWallStone05",
-    "custom": "",
+    "custom": "Абчасаны камень",
     "en": "Stone Brick",
     "ru": "Обтесанный камень",
     "bel": "Абчасаны камень",
@@ -122221,7 +122221,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StonewallShieldsKey",
-    "custom": "",
+    "custom": "Ключ ад \"Моцнага шчыта\"",
     "en": "Stonewall Shields Key",
     "ru": "Ключ от \"Крепкого щита\"",
     "bel": "Ключ ад \"Моцнага шчыта\"",
@@ -122230,7 +122230,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StoreHours",
-    "custom": "",
+    "custom": "Час працы крамы",
     "en": "Shop Hours",
     "ru": "Время работы магазина",
     "bel": "Час працы крамы",
@@ -122239,7 +122239,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StoreHoursInns",
-    "custom": "",
+    "custom": "Час працы карчмы",
     "en": "Tavern Hours",
     "ru": "Время работы таверны",
     "bel": "Час працы карчмы",
@@ -122248,7 +122248,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StorntheBurly",
-    "custom": "",
+    "custom": "Сторн Тоўсты",
     "en": "Storn the Burly",
     "ru": "Сторн Толстый",
     "bel": "Сторн Тоўсты",
@@ -122257,7 +122257,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StrangeLights",
-    "custom": "",
+    "custom": "Дзіўныя агеньчыкі",
     "en": "Strange Lights",
     "ru": "Странные огоньки",
     "bel": "Дзіўныя агеньчыкі",
@@ -122266,7 +122266,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Strawberry",
-    "custom": "",
+    "custom": "Клубніцы",
     "en": "Strawberry",
     "ru": "Земляника",
     "bel": "Суніцы",
@@ -122275,7 +122275,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StrawberryBush",
-    "custom": "",
+    "custom": "Суніцы",
     "en": "Strawberry Bush",
     "ru": "Земляника",
     "bel": "Суніцы",
@@ -122284,7 +122284,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_StuntedMagicka",
-    "custom": "",
+    "custom": "Знясіленая магія",
     "en": "Stunted Magicka",
     "ru": "Замедленная Magicka",
     "bel": "Запаволеная Magicka",
