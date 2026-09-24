@@ -133750,7 +133750,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPBlackrootLair03",
-    "custom": "",
+    "custom": "Чорнае логава - Канал",
     "en": "Blackroot Lair, Channel",
     "ru": "Черное логово - Канал",
     "bel": "Чорнае логава - Канал",
@@ -133759,7 +133759,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPBlackrootLair04",
-    "custom": "",
+    "custom": "Чорнае логава - Унутраны лагер",
     "en": "Blackroot Lair, Inner Encampment",
     "ru": "Черное логово - Внутренний лагерь",
     "bel": "Чорнае логава - Унутраны лагер",
@@ -133768,7 +133768,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPBlackrootLair05",
-    "custom": "",
+    "custom": "Чорнае логава - Тунэлі",
     "en": "Blackroot Lair, Tunnels",
     "ru": "Черное логово - Туннели",
     "bel": "Чорнае логава - Тунэлі",
@@ -133777,7 +133777,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPBlackrootLairGate01",
-    "custom": "",
+    "custom": "Разбураныя вароты",
     "en": "Rickety Gate",
     "ru": "Развалившиеся ворота",
     "bel": "Разбураныя вароты",
@@ -133786,7 +133786,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPBlackrootLairGate02",
-    "custom": "",
+    "custom": "Разбураныя вароты",
     "en": "Rickety Gate",
     "ru": "Развалившиеся ворота",
     "bel": "Разбураныя вароты",
@@ -133795,7 +133795,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPBlackrootLairGate03",
-    "custom": "",
+    "custom": "Разбураныя вароты",
     "en": "Rickety Gate",
     "ru": "Развалившиеся ворота",
     "bel": "Разбураныя вароты",
@@ -133804,7 +133804,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPBlackrootLairGate04",
-    "custom": "",
+    "custom": "Разбураныя вароты",
     "en": "Rickety Gate",
     "ru": "Развалившиеся ворота",
     "bel": "Разбураныя вароты",
@@ -133813,7 +133813,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPBlackrootLairGate05",
-    "custom": "",
+    "custom": "Разбураныя вароты",
     "en": "Rickety Gate",
     "ru": "Развалившиеся ворота",
     "bel": "Разбураныя вароты",
@@ -133822,7 +133822,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPBlackrootLairGate06",
-    "custom": "",
+    "custom": "Разбураныя вароты",
     "en": "Rickety Gate",
     "ru": "Развалившиеся ворота",
     "bel": "Разбураныя вароты",
@@ -133831,7 +133831,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPBrellach",
-    "custom": "",
+    "custom": "Пустая ячэйка",
     "en": "Dummy Cell",
     "ru": "Пустая ячейка",
     "bel": "Пустая ячэйка",
@@ -133840,7 +133840,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPBrellach01",
-    "custom": "",
+    "custom": "Брэлак - Зала гонару",
     "en": "Brellach, Hall of Honor",
     "ru": "Бреллак - Зал чести",
     "bel": "Брэлак - Зала гонару",
@@ -133849,7 +133849,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPBrellach02",
-    "custom": "",
+    "custom": "Брэлак - Зала шанавання",
     "en": "Brellach, Hall of Reverence",
     "ru": "Бреллак - Зал почитания",
     "bel": "Брэлак - Зала шанавання",
@@ -133858,7 +133858,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPBrellach03Extra",
-    "custom": "",
+    "custom": "Брэллах",
     "en": "Brellach",
     "ru": "Бреллак",
     "bel": "Брэлак",
@@ -133867,7 +133867,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPBrellach04",
-    "custom": "",
+    "custom": "Брэлак - Зала малітвы",
     "en": "Brellach, Hall of Devotion",
     "ru": "Бреллак - Зал молитвы",
     "bel": "Брэлак - Зала малітвы",
@@ -133876,7 +133876,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPBrellach05",
-    "custom": "",
+    "custom": "Брэлак - Купель адраджэння",
     "en": "Brellach, Font of Rebirth",
     "ru": "Бреллак - Купель возрождения",
     "bel": "Брэлак - Купель адраджэння",
@@ -133885,7 +133885,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPCann01",
-    "custom": "",
+    "custom": "Кэнн - Вялікая зала",
     "en": "Cann, The Great Hall",
     "ru": "Кэнн - Большой зал",
     "bel": "Кэнн - Вялікая зала",
@@ -133894,7 +133894,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPCann02",
-    "custom": "",
+    "custom": "Кэнн - Амфітэатр",
     "en": "Cann, Amphitheater",
     "ru": "Кэнн - Амфитеатр",
     "bel": "Кэнн - Амфітэатр",
@@ -133903,7 +133903,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPCann03",
-    "custom": "",
+    "custom": "Кэнн - Залы спакою",
     "en": "Cann, Halls of Tranquility",
     "ru": "Кэнн - Залы спокойствия",
     "bel": "Кэнн - Залы спакою",
@@ -133912,7 +133912,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPCann04",
-    "custom": "",
+    "custom": "Кэнн - Арэна",
     "en": "Cann, Arena",
     "ru": "Кэнн - Арена",
     "bel": "Кэнн - Арэна",
@@ -133921,7 +133921,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPCann05",
-    "custom": "",
+    "custom": "Кэнн - Арэна, ніжні паверх",
     "en": "Cann, Arena Substratum",
     "ru": "Кэнн - Арена, нижний этаж",
     "bel": "Кэнн - Арэна, ніжні паверх",
@@ -133930,7 +133930,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPCannLetter01",
-    "custom": "",
+    "custom": "Араматызаваны пергамент",
     "en": "Scented Parchment",
     "ru": "Ароматизированный пергамент",
     "bel": "Араматызаваная пергамент",
@@ -133939,7 +133939,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPCorpserotPassage01",
-    "custom": "",
+    "custom": "Гніласцёвае падзямелле",
     "en": "Corpserot Prison",
     "ru": "Гнилотворное подземелье",
     "bel": "Гніласцёвае падзямелле",
@@ -133957,7 +133957,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPCylarne01",
-    "custom": "",
+    "custom": "Цыларнэ",
     "en": "Cylarne",
     "ru": "Сайларн",
     "bel": "Сайларн",
@@ -133966,7 +133966,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPCylarne01Altar",
-    "custom": "",
+    "custom": "Сайларн - Алтар роспачы",
     "en": "Cylarne, Altar of Despair",
     "ru": "Сайларн - Алтарь отчаяния",
     "bel": "Сайларн - Алтар роспачы",
@@ -133975,7 +133975,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPCylarne02",
-    "custom": "",
+    "custom": "Сайларн - Андэрдып",
     "en": "Cylarne, Underdeep",
     "ru": "Сайларн - Андердип",
     "bel": "Сайларн - Андэрдып",
@@ -133984,7 +133984,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPDireWarren01",
-    "custom": "",
+    "custom": "Жудасныя трушчобы",
     "en": "Dire Warren",
     "ru": "Мрачный Лабиринт",
     "bel": "Змрочны Лабірынт",
@@ -133993,7 +133993,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPDireWarren02",
-    "custom": "",
+    "custom": "Змрочны Лабірынт - Падзямелле",
     "en": "Dire Warren, Subterrane",
     "ru": "Мрачный Лабиринт - Подземелье",
     "bel": "Змрочны Лабірынт - Падзямелле",
@@ -134002,7 +134002,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPDireWarrenJournal01",
-    "custom": "",
+    "custom": "Журнал Трэйліуса",
     "en": "Traelius' Journal",
     "ru": "Журнал Трейлиуса",
     "bel": "Журнал Трэйліуса",
@@ -134011,7 +134011,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPDireWarrenJournal02",
-    "custom": "",
+    "custom": "Журнал Алісы",
     "en": "Alyssa's Journal",
     "ru": "Журнал Алиссы",
     "bel": "Журнал Алісы",
@@ -134020,7 +134020,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPDunrootBurrow01",
-    "custom": "",
+    "custom": "Данруцкі Барлог",
     "en": "Dunroot Burrow",
     "ru": "Корневая нора",
     "bel": "Карнявая нара",
@@ -134029,7 +134029,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPDunrootBurrow02",
-    "custom": "",
+    "custom": "Карнявая нара - Зарослы багна",
     "en": "Dunroot Burrow, Kelp Fen",
     "ru": "Корневая нора - Заросшая топь",
     "bel": "Карнявая нара - Зарослы багна",
@@ -134038,7 +134038,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPDunrootBurrow03",
-    "custom": "",
+    "custom": "Карнявая нара - Гудучыя тунэлі",
     "en": "Dunroot Burrow, Drone Tunnels",
     "ru": "Корневая нора - Гудящие туннели",
     "bel": "Карнявая нара - Гудучыя тунэлі",
@@ -134047,7 +134047,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPDunrootBurrow04",
-    "custom": "",
+    "custom": "Карнявая нара - Ажынавыя залы",
     "en": "Dunroot Burrow, Bramble Halls",
     "ru": "Корневая нора - Ежевичные залы",
     "bel": "Карнявая нара - Ажынавыя залы",
@@ -134056,7 +134056,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPDunrootBurrow05",
-    "custom": "",
+    "custom": "Карнявая нара - Свяцілішча Дэкадансу",
     "en": "Dunroot Burrow, Sanctum of Decadence",
     "ru": "Корневая нора - Святилище Декаданса",
     "bel": "Карнявая нара - Свяцілішча Дэкадансу",
@@ -134065,7 +134065,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPEbrocca01",
-    "custom": "",
+    "custom": "Эброка - Дыскенія",
     "en": "Ebrocca, Descenia",
     "ru": "Эброкка - Дискения",
     "bel": "Эброка - Дыскенія",
@@ -134074,7 +134074,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPEbrocca02",
-    "custom": "",
+    "custom": "Эброка - Дзювейн",
     "en": "Ebrocca, Duwane",
     "ru": "Эброкка - Дювейн",
     "bel": "Эброка - Дзювейн",
@@ -134083,7 +134083,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPEbrocca03",
-    "custom": "",
+    "custom": "Эброка - Сепекра",
     "en": "Ebrocca, Sepechra",
     "ru": "Эброкка - Сепекра",
     "bel": "Эброка - Сепекра",
@@ -134092,7 +134092,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPEbrocca04",
-    "custom": "",
+    "custom": "Эброка - Масі",
     "en": "Ebrocca, Masse",
     "ru": "Эброкка - Масси",
     "bel": "Эброка - Масі",
@@ -134101,7 +134101,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPEbrocca05",
-    "custom": "",
+    "custom": "Эброка - Фіэлі",
     "en": "Ebrocca, Fiele",
     "ru": "Эброкка - Фиэли",
     "bel": "Эброка - Фіэлі",
@@ -134110,7 +134110,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPEbrocca06",
-    "custom": "",
+    "custom": "Эброка - Крэматорый",
     "en": "Ebrocca, Crematorium",
     "ru": "Эброкка - Крематорий",
     "bel": "Эброка - Крэматорый",
@@ -134119,7 +134119,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPEbroccaBody03",
-    "custom": "",
+    "custom": "Мёртвы падарожнік",
     "en": "Dead Traveler",
     "ru": "Мертвый путешественник",
     "bel": "Мёртвы падарожнік",
@@ -134128,7 +134128,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPEbroccaBook02",
-    "custom": "",
+    "custom": "Пацёрты ліст",
     "en": "Weathered Letter",
     "ru": "Потертое письмо",
     "bel": "Пацёрты ліст",
@@ -134137,7 +134137,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPEbroccaBook05",
-    "custom": "",
+    "custom": "Крэматорый. Інструкцыі",
     "en": "Crematory Instructions",
     "ru": "Крематорий. Инструкции",
     "bel": "Крэматорый. Інструкцыі",
@@ -134146,7 +134146,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPEbroccaBook06",
-    "custom": "",
+    "custom": "Кароткі журнал",
     "en": "Brief Journal",
     "ru": "Краткий журнал",
     "bel": "Кароткі журнал",
@@ -134155,7 +134155,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPEbroccaBook07",
-    "custom": "",
+    "custom": "Набросак ліста",
     "en": "Letter Draft",
     "ru": "Набросок письма",
     "bel": "Набросак ліста",
@@ -134164,7 +134164,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPEbroccaCremationUrn",
-    "custom": "",
+    "custom": "Урна для попелу",
     "en": "Crematory Urn",
     "ru": "Урна для праха",
     "bel": "Урна для попелу",
@@ -134173,7 +134173,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPEbroccaCremator01",
-    "custom": "",
+    "custom": "Брэгар Папяліцель",
     "en": "Bregor the Cremator",
     "ru": "Брегор Сжигатель",
     "bel": "Брэгар Папяліцель",
@@ -134182,7 +134182,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPEbroccaCremator02",
-    "custom": "",
+    "custom": "Брэгар Папяліцель",
     "en": "Bregor the Cremator",
     "ru": "Брегор Сжигатель",
     "bel": "Брэгар Папяліцель",
@@ -134191,7 +134191,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPEbroccaCremator03",
-    "custom": "",
+    "custom": "Брэгар Папяліцель",
     "en": "Bregor the Cremator",
     "ru": "Брегор Сжигатель",
     "bel": "Брэгар Папяліцель",
@@ -134200,7 +134200,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPEbroccaCremator04",
-    "custom": "",
+    "custom": "Брэгар Папяліцель",
     "en": "Bregor the Cremator",
     "ru": "Брегор Сжигатель",
     "bel": "Брэгар Папяліцель",
@@ -134209,7 +134209,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPEbroccaCrematoryButton",
-    "custom": "",
+    "custom": "Актываваць печ Крэматорыя",
     "en": "Activate Crematory Furnace",
     "ru": "Активировать печь Крематория",
     "bel": "Актываваць печ Крэматорыя",
@@ -134218,7 +134218,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPEbroccaCrematoryRetort",
-    "custom": "",
+    "custom": "Рэторта для крэмавання",
     "en": "Crematory Retort",
     "ru": "Реторта для кремирования",
     "bel": "Рэторта для крэмавання",
@@ -134227,7 +134227,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPEbroccaKey",
-    "custom": "",
+    "custom": "Ключ ад Эброка Сепекры",
     "en": "Ebrocca Sepechra Key",
     "ru": "Ключ от Эброкка Сепекры",
     "bel": "Ключ ад Эброка Сепекры",
@@ -134236,7 +134236,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPEbroccaKey02",
-    "custom": "",
+    "custom": "Ключ ад Эброка Дыскеніі",
     "en": "Ebrocca Descenia Key",
     "ru": "Ключ от Эброкка Дискении",
     "bel": "Ключ ад Эброка Дыскеніі",
@@ -134245,7 +134245,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPEbroccaWife",
-    "custom": "",
+    "custom": "Згнілы труп",
     "en": "Rotten Corpse",
     "ru": "Сгнивший труп",
     "bel": "Згнілы труп",
@@ -134254,7 +134254,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPFain01",
-    "custom": "",
+    "custom": "Фэйн",
     "en": "Fain",
     "ru": "Фейн",
     "bel": "Фейн",
@@ -134263,7 +134263,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPFainScroll01",
-    "custom": "",
+    "custom": "Гіуб, Уладар Ямы",
     "en": "Gyub, Lord of the Pit",
     "ru": "Гиуб, Властитель Ямы",
     "bel": "Гіуб, Уладар Ямы",
@@ -134272,7 +134272,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPFetidGrove01",
-    "custom": "",
+    "custom": "Смярдзючы Гай",
     "en": "Fetid Grove",
     "ru": "Пахучая роща",
     "bel": "Пахкая гай",
@@ -134281,7 +134281,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPFetidGrove02",
-    "custom": "",
+    "custom": "Пахкая гай - Лагер",
     "en": "Fetid Grove, Encampment",
     "ru": "Пахучая роща - Лагерь",
     "bel": "Пахкая гай - Лагер",
@@ -134290,7 +134290,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPGardens",
-    "custom": "",
+    "custom": "Пустая ячэйка",
     "en": "Dummy Cell",
     "ru": "Заглушка",
     "bel": "Заглушка",
@@ -134299,7 +134299,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPGardens01",
-    "custom": "",
+    "custom": "Сады Плоці і Костак",
     "en": "Gardens of Flesh and Bone",
     "ru": "Сады Костей и Плоти",
     "bel": "Сады Костак і Плоці",
@@ -134308,7 +134308,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPGardens03",
-    "custom": "",
+    "custom": "Басейн Крывавых слёз",
     "en": "Natatorium of Wound Bled Tears",
     "ru": "Бассейн Кровавых слез",
     "bel": "Басейн Крывавых слёз",
@@ -134317,7 +134317,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPGardens04",
-    "custom": "",
+    "custom": "Карпускулярная кансерваторыя",
     "en": "Conservatorium Corpusculum",
     "ru": "Корпускулярная консерватория",
     "bel": "Карпускулярная кансерваторыя",
@@ -134326,7 +134326,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPGardens05",
-    "custom": "",
+    "custom": "Каверны Шорахаў",
     "en": "Caverns of Susurration",
     "ru": "Каверны Шорохов",
     "bel": "Каверны Шорахаў",
@@ -134344,7 +134344,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPGloomstonePassage01",
-    "custom": "",
+    "custom": "Крыніца",
     "en": "The Fountainhead",
     "ru": "Источник",
     "bel": "Крыніца",
@@ -134353,7 +134353,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPGloomstonePassage02",
-    "custom": "",
+    "custom": "Крыніца - Басейн Маніі",
     "en": "The Fountainhead, Pool of Mania",
     "ru": "Источник - Бассейн Мании",
     "bel": "Крыніца - Басейн Маніі",
@@ -134362,7 +134362,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPGloomstonePassage03",
-    "custom": "",
+    "custom": "Крыніца - Басейн Дэменцыі",
     "en": "The Fountainhead, Pool of Dementia",
     "ru": "Источник - Бассейн Деменции",
     "bel": "Крыніца - Басейн Дэменцыі",
@@ -134371,7 +134371,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPGloomstonePassage04",
-    "custom": "",
+    "custom": "Крыніца - Ачаг дэлірыю",
     "en": "The Fountainhead, Nursery of Delerium",
     "ru": "Источник - Очаг делирия",
     "bel": "Крыніца - Ачаг дэлірыя",
@@ -134380,7 +134380,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPHowlingHalls",
-    "custom": "",
+    "custom": "Пустая ячэйка",
     "en": "Dummy Cell",
     "ru": "Пустышка",
     "bel": "Пустышка",
@@ -134389,7 +134389,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPHowlingHalls01",
-    "custom": "",
+    "custom": "Стоўгненыя Чартогі - Фае",
     "en": "Howling Halls, Narthex",
     "ru": "Стонущие Чертоги - Фойе",
     "bel": "Стоўгненыя Чартогі - Фае",
@@ -134398,7 +134398,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPHowlingHalls02",
-    "custom": "",
+    "custom": "Стоўгненыя Чартогі - Залы сходаў",
     "en": "Howling Halls, Congregation Chambers",
     "ru": "Стонущие Чертоги - Залы собраний",
     "bel": "Стоўгненыя Чартогі - Залы сходаў",
@@ -134407,7 +134407,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPHowlingHalls03",
-    "custom": "",
+    "custom": "Стоўгненыя Чартогі - Вестыбюль",
     "en": "Howling Halls, Antechamber",
     "ru": "Стонущие Чертоги - Вестибюль",
     "bel": "Стоўгненыя Чартогі - Вестыбюль",
@@ -134416,7 +134416,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPHowlingHalls04",
-    "custom": "",
+    "custom": "Выючыя Залы",
     "en": "The Howling Halls",
     "ru": "Стонущие Чертоги",
     "bel": "Стоўгненыя Чартогі",
@@ -134425,7 +134425,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPHowlingHalls05",
-    "custom": "",
+    "custom": "Выючыя Залы",
     "en": "The Howling Halls",
     "ru": "Стонущие Чертоги",
     "bel": "Стоўгненыя Чартогі",
@@ -134434,7 +134434,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPKnifepointHollow01",
-    "custom": "",
+    "custom": "Вострая Лагчына",
     "en": "Knifepoint Hollow",
     "ru": "Ножевая нора",
     "bel": "Нажавая нара",
@@ -134443,7 +134443,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPKnifepointHollow02new",
-    "custom": "",
+    "custom": "Нажавая нара - Алтар",
     "en": "Knifepoint Hollow, Chantry",
     "ru": "Ножевая нора - Алтарь",
     "bel": "Нажавая нара - Алтар",
@@ -134452,7 +134452,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPKnotCustomSECreatureElytraMania1",
-    "custom": "",
+    "custom": "Элітра-дзіцяня",
     "en": "Elytra Hatchling",
     "ru": "Элитра-детеныш",
     "bel": "Элітра-дзіцяня",
@@ -134461,7 +134461,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPKnotCustomSECreatureElytraMania2",
-    "custom": "",
+    "custom": "Элітра-труцень",
     "en": "Elytra Drone",
     "ru": "Элитра-трутень",
     "bel": "Элітра-труцень",
@@ -134470,7 +134470,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPKnotCustomSECreatureElytraMania3",
-    "custom": "",
+    "custom": "Элітра-салдат",
     "en": "Elytra Soldier",
     "ru": "Элитра-солдат",
     "bel": "Элітра-салдат",
@@ -134479,7 +134479,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPKnotCustomSECreatureElytraMania4",
-    "custom": "",
+    "custom": "Элітра-правадыр",
     "en": "Elytra Noble",
     "ru": "Элитра-вожак",
     "bel": "Элітра-важак",
@@ -134488,7 +134488,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPKnotCustomSECreatureElytraMania5",
-    "custom": "",
+    "custom": "Элітра-матка",
     "en": "Elytra Matron",
     "ru": "Элитра-матка",
     "bel": "Элітра-матка",
@@ -134497,7 +134497,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPKnotCustomSECreatureElytraMania5Boss",
-    "custom": "",
+    "custom": "Элітра-матка",
     "en": "Elytra Matron",
     "ru": "Элитра-матка",
     "bel": "Элітра-матка",
@@ -134515,7 +134515,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPKnotCustomSECreatureGrummiteDementia2",
-    "custom": "",
+    "custom": "Граміт - баец",
     "en": "Grummite Beater",
     "ru": "Граммит - боец",
     "bel": "Граміт - баец",
@@ -134524,7 +134524,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPKnotCustomSECreatureGrummiteDementia3",
-    "custom": "",
+    "custom": "Граміт - кат",
     "en": "Grummite Torturer",
     "ru": "Граммит - палач",
     "bel": "Граміт - кат",
@@ -134533,7 +134533,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPKnotCustomSECreatureGrummiteDementia4",
-    "custom": "",
+    "custom": "Граміт - мучыцель",
     "en": "Grummite Painbringer",
     "ru": "Граммит - мучитель",
     "bel": "Граміт - мучыцель",
@@ -134542,7 +134542,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPKnotCustomSECreatureGrummiteDementia5",
-    "custom": "",
+    "custom": "Граміт - забойца",
     "en": "Grummite Deathdealer",
     "ru": "Граммит - убийца",
     "bel": "Граміт - забойца",
@@ -134551,7 +134551,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPKnotCustomSECreatureGrummiteMagusDementia1",
-    "custom": "",
+    "custom": "Юны граміт-магус",
     "en": "Grummite Magus Whelp",
     "ru": "Юный граммит-магус",
     "bel": "Юны граміт-магус",
@@ -134560,7 +134560,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPKnotCustomSECreatureGrummiteMagusDementia2",
-    "custom": "",
+    "custom": "Граміт-магус - баец",
     "en": "Grummite Magus Beater",
     "ru": "Граммит-магус - боец",
     "bel": "Граміт-магус - баец",
@@ -134569,7 +134569,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPKnotCustomSECreatureGrummiteMagusDementia3",
-    "custom": "",
+    "custom": "Граміт-магус - кат",
     "en": "Grummite Magus Torturer",
     "ru": "Граммит-магус - палач",
     "bel": "Граміт-магус - кат",
@@ -134578,7 +134578,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPKnotCustomSECreatureGrummiteMagusDementia4",
-    "custom": "",
+    "custom": "Граміт-магус - мучыцель",
     "en": "Grummite Magus Painbringer",
     "ru": "Граммит-магус - мучитель",
     "bel": "Граміт-магус - мучыцель",
@@ -134587,7 +134587,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPKnotCustomSECreatureGrummiteMagusDementia5",
-    "custom": "",
+    "custom": "Граміт-магус - забойца",
     "en": "Grummite Magus Deathdealer",
     "ru": "Граммит-магус - убийца",
     "bel": "Граміт-магус - забойца",
@@ -134596,7 +134596,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPKnotboneChamber01",
-    "custom": "",
+    "custom": "Палата Вузлаватага Косці",
     "en": "Knotbone Chamber",
     "ru": "Костяной Нарост -  Зал",
     "bel": "Касцяны Нарост - Зала",
@@ -134605,7 +134605,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPKnotboneChamber02",
-    "custom": "",
+    "custom": "Касцяны Нарост - Катлавіна",
     "en": "Knotbone Cavities",
     "ru": "Костяной Нарост -  Котловина",
     "bel": "Касцяны Нарост - Катлавіна",
@@ -134614,7 +134614,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPKnotboneChamber03",
-    "custom": "",
+    "custom": "Касцяны нарост - Стык",
     "en": "Knotbone Juncture",
     "ru": "Костяной нарост -  Стык",
     "bel": "Касцяны нарост - Стык",
@@ -134623,7 +134623,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPKnotboneChamber04",
-    "custom": "",
+    "custom": "Касцяны Нарост - Падземныя хады",
     "en": "Knotbone Pipes",
     "ru": "Костяной Нарост -  Подземные ходы",
     "bel": "Касцяны Нарост - Падземныя хады",
@@ -134632,7 +134632,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPKnotboneChamber04b",
-    "custom": "",
+    "custom": "Касцяны Нарост - Руіны",
     "en": "Knotbone Ruins",
     "ru": "Костяной Нарост -  Руины",
     "bel": "Касцяны Нарост - Руіны",
@@ -134641,7 +134641,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPKnotboneChamber05",
-    "custom": "",
+    "custom": "Касцяны Нарост - Пагрэб",
     "en": "Knotbone Cellar",
     "ru": "Костяной Нарост - Погреб",
     "bel": "Касцяны Нарост - Пагрэб",
@@ -134650,7 +134650,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPKnottyBramble01",
-    "custom": "",
+    "custom": "Калючы ажына",
     "en": "Knotty Bramble",
     "ru": "Ежевичный Куст",
     "bel": "Ажынавы Куст",
@@ -134659,7 +134659,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPKnottyBramble02",
-    "custom": "",
+    "custom": "Ажынавы Куст - Згубленая крыпта",
     "en": "Knotty Bramble, Lost Crypt",
     "ru": "Ежевичный Куст - Затерянная крипта",
     "bel": "Ажынавы Куст - Згубленая крыпта",
@@ -134668,7 +134668,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPKnottyBramble03",
-    "custom": "",
+    "custom": "Ажынавы Куст - Гадавальнік",
     "en": "Knotty Bramble, Hatchery",
     "ru": "Ежевичный Куст - Питомник",
     "bel": "Ажынавы Куст - Гадавальнік",
@@ -134677,7 +134677,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPMilchar",
-    "custom": "",
+    "custom": "Пустая ячэйка",
     "en": "Dummy Cell",
     "ru": "Заглушка",
     "bel": "Заглушка",
@@ -134686,7 +134686,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPMilchar01",
-    "custom": "",
+    "custom": "Мількар - Нексус",
     "en": "Milchar, Nexus",
     "ru": "Милькар - Нексус",
     "bel": "Мількар - Нексус",
@@ -134695,7 +134695,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPMilchar02a",
-    "custom": "",
+    "custom": "Мількар - Т'ерас",
     "en": "Milchar, Tieras",
     "ru": "Милькар - Тьерас",
     "bel": "Мількар - Т'ерас",
@@ -134704,7 +134704,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPMilchar02aSub",
-    "custom": "",
+    "custom": "Мількар - Збор",
     "en": "Milchar, Chatterhall",
     "ru": "Милькар - Собрание",
     "bel": "Мількар - Збор",
@@ -134713,7 +134713,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPMilchar02b",
-    "custom": "",
+    "custom": "Мількар - Зетрэм",
     "en": "Milchar, Xetrem",
     "ru": "Милькар - Зетрем",
     "bel": "Мількар - Зетрэм",
@@ -134722,7 +134722,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPMilchar02c",
-    "custom": "",
+    "custom": "Мількар - Суфлекс",
     "en": "Milchar, Sufflex",
     "ru": "Милькар - Суффлекс",
     "bel": "Мількар - Суфлекс",
@@ -134731,7 +134731,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPMilchar03",
-    "custom": "",
+    "custom": "Гай Адлюстравання",
     "en": "Grove of Reflection",
     "ru": "Роща Отражения",
     "bel": "Гай Адлюстравання",
@@ -134740,7 +134740,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPPinnacle",
-    "custom": "",
+    "custom": "Пустая ячэйка",
     "en": "Dummy Cell",
     "ru": "Пустышка",
     "bel": "Пустышка",
@@ -134749,7 +134749,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPPinnacleRock01",
-    "custom": "",
+    "custom": "Востраканцовы абрыў - Зала гонару",
     "en": "Pinnacle Rock, Hall of Honor",
     "ru": "Остроконечный утес - Зал чести",
     "bel": "Востраканцовы абрыў - Зала гонару",
@@ -134758,7 +134758,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPPinnacleRock02",
-    "custom": "",
+    "custom": "Востраканцовы абрыў - Зала шанавання",
     "en": "Pinnacle Rock, Hall of Reverence",
     "ru": "Остроконечный утес - Зал почитания",
     "bel": "Востраканцовы абрыў - Зала шанавання",
@@ -134767,7 +134767,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPPinnacleRock03Extra",
-    "custom": "",
+    "custom": "Вяршыня Скалы",
     "en": "Pinnacle Rock",
     "ru": "Остроконечный утес",
     "bel": "Востраканцовы абрыў",
@@ -134776,7 +134776,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPPinnacleRock04",
-    "custom": "",
+    "custom": "Востраканцовы абрыў - Зала малітвы",
     "en": "Pinnacle Rock, Hall of Devotion",
     "ru": "Остроконечный утес - Зал молитвы",
     "bel": "Востраканцовы абрыў - Зала малітвы",
@@ -134785,7 +134785,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPPinnacleRock05",
-    "custom": "",
+    "custom": "Востраканцовы абрыў - Купель адраджэння",
     "en": "Pinnacle Rock, Font of Rebirth",
     "ru": "Остроконечный утес - Купель возрождения",
     "bel": "Востраканцовы абрыў - Купель адраджэння",
@@ -134794,7 +134794,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPPrisonTest01",
-    "custom": "",
+    "custom": "Турэмнае Выпрабаванне",
     "en": "Prison Test",
     "ru": "Тюремное Испытание",
     "bel": "Турэмнае Выпрабаванне",
@@ -134803,7 +134803,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPRottenDen01",
-    "custom": "",
+    "custom": "Жахлівае логава - Засідка",
     "en": "Rotten Den, Deadfall",
     "ru": "Ужасное логово - Западня",
     "bel": "Жахлівае логава - Засідка",
@@ -134812,7 +134812,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPRottenDen02",
-    "custom": "",
+    "custom": "Жахлівае логава - Бездань",
     "en": "Rotten Den, Precipice",
     "ru": "Ужасное логово - Пропасть",
     "bel": "Жахлівае логава - Бездань",
@@ -134821,7 +134821,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPRottenDen03",
-    "custom": "",
+    "custom": "Жахлівае логава - Свяцілішча",
     "en": "Rotten Den, Sanctum",
     "ru": "Ужасное логово - Святилище",
     "bel": "Жахлівае логава - Свяцілішча",
@@ -134830,7 +134830,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPRottenDen04",
-    "custom": "",
+    "custom": "Жахлівае логава - Нара",
     "en": "Rotten Den, Hollow",
     "ru": "Ужасное логово - Нора",
     "bel": "Жахлівае логава - Нара",
@@ -134839,7 +134839,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPRottenDen05",
-    "custom": "",
+    "custom": "Жахлівае логава - Лагер",
     "en": "Rotten Den, Encampment",
     "ru": "Ужасное логово - Лагерь",
     "bel": "Жахлівае логава - Лагер",
@@ -134848,7 +134848,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPSwampgasHole01",
-    "custom": "",
+    "custom": "Балотны Газ - Расколіна",
     "en": "Swampgas Chasm",
     "ru": "Болотный Газ - Расщелина",
     "bel": "Балотны Газ - Расколіна",
@@ -134857,7 +134857,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPSwampgasHole02",
-    "custom": "",
+    "custom": "Балотны Газ - Норы",
     "en": "Swampgas Burrows",
     "ru": "Болотный Газ - Норы",
     "bel": "Балотны Газ - Норы",
@@ -134866,7 +134866,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPSwampgasHole03",
-    "custom": "",
+    "custom": "Балотны Газ - Глыбіні",
     "en": "Swampgas Depths",
     "ru": "Болотный Газ - Глубины",
     "bel": "Балотны Газ - Глыбіні",
@@ -134875,7 +134875,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPTestJeffB",
-    "custom": "",
+    "custom": "Зедыліян",
     "en": "Xedilian",
     "ru": "Зедилиан",
     "bel": "Зедыліян",
@@ -134884,7 +134884,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPTestMikeR",
-    "custom": "",
+    "custom": "Выпрабавальная Камера Бясконцага Пакуты",
     "en": "Test Cell of Endless Suffering",
     "ru": "Испытательная Камера Бесконечного Страдания",
     "bel": "Выпрабавальная Камера Бясконцага Пакуты",
@@ -134893,7 +134893,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPVitharn",
-    "custom": "",
+    "custom": "Пустая ячэйка",
     "en": "Dummy Cell",
     "ru": "Пустая ячейка",
     "bel": "Пустая ячэйка",
@@ -134902,7 +134902,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPVitharn01",
-    "custom": "",
+    "custom": "Вайтарн - Адстойнік",
     "en": "Vitharn Sump",
     "ru": "Вайтарн - Отстойник",
     "bel": "Вайтарн - Адстойнік",
@@ -134911,7 +134911,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPVitharn02",
-    "custom": "",
+    "custom": "Вайтарн - Рэзервуар",
     "en": "Vitharn Reservoir",
     "ru": "Вайтарн - Резервуар",
     "bel": "Вайтарн - Рэзервуар",
@@ -134920,7 +134920,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPVitharn03",
-    "custom": "",
+    "custom": "Вайтарн - Аплот",
     "en": "Vitharn Keep",
     "ru": "Вайтарн - Оплот",
     "bel": "Вайтарн - Аплот",
@@ -134929,7 +134929,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPVitharn04",
-    "custom": "",
+    "custom": "Вайтарн - Маўзалей",
     "en": "Vitharn's Mausoleum",
     "ru": "Вайтарн - Мавзолей",
     "bel": "Вайтарн - Маўзалей",
@@ -134938,7 +134938,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPVitharn05",
-    "custom": "",
+    "custom": "Вітарн",
     "en": "Vitharn",
     "ru": "Вайтарн",
     "bel": "Вайтарн",
@@ -134947,7 +134947,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPXaselm01",
-    "custom": "",
+    "custom": "Зазельм",
     "en": "Xaselm",
     "ru": "Зазельм",
     "bel": "Зазельм",
@@ -134956,7 +134956,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPXaselm02",
-    "custom": "",
+    "custom": "Зазельм - Лабараторыя",
     "en": "Xaselm, Experiment Chambers",
     "ru": "Зазельм - Лаборатория",
     "bel": "Зазельм - Лабараторыя",
@@ -134965,7 +134965,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPXaselm03",
-    "custom": "",
+    "custom": "Зазельм - Трупная яма",
     "en": "Xaselm, Corpse Pit",
     "ru": "Зазельм - Трупная яма",
     "bel": "Зазельм - Трупная яма",
@@ -134974,7 +134974,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPXaselm04",
-    "custom": "",
+    "custom": "Зазельм - Цэнтр вівісекцыі",
     "en": "Xaselm, Sanctum of Vivisection",
     "ru": "Зазельм - Центр вивисекции",
     "bel": "Зазельм - Цэнтр вівісекцыі",
@@ -134983,7 +134983,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPXaselm05",
-    "custom": "",
+    "custom": "Зазельм",
     "en": "Xaselm",
     "ru": "Зазельм",
     "bel": "Зазельм",
@@ -134992,7 +134992,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPXavara01",
-    "custom": "",
+    "custom": "Зейвара",
     "en": "Xavara",
     "ru": "Зейвара",
     "bel": "Зейвара",
@@ -135001,7 +135001,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPXeddefen",
-    "custom": "",
+    "custom": "Вучэбная Камера Кедэфена",
     "en": "Xeddefen Dummy Cell",
     "ru": "Муляж ячейки Xeddefen",
     "bel": "Муляж ячэйкі Xeddefen",
@@ -135010,7 +135010,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPXeddefen01",
-    "custom": "",
+    "custom": "Зеддэфен",
     "en": "Xeddefen",
     "ru": "Зеддефен",
     "bel": "Зеддэфен",
@@ -135019,7 +135019,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPXeddefen02",
-    "custom": "",
+    "custom": "Зеддэфен - Царква",
     "en": "Xeddefen, Fane",
     "ru": "Зеддефен - Церковь",
     "bel": "Зеддэфен - Царква",
@@ -135028,7 +135028,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPXeddefen03",
-    "custom": "",
+    "custom": "Зеддэфен - Вялікая зала",
     "en": "Xeddefen, Great Chamber",
     "ru": "Зеддефен - Большой зал",
     "bel": "Зеддэфен - Вялікая зала",
@@ -135037,7 +135037,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPXeddefen04",
-    "custom": "",
+    "custom": "Зеддэфен - Фелес",
     "en": "Xeddefen, Felles",
     "ru": "Зеддефен - Феллес",
     "bel": "Зеддэфен - Фелес",
@@ -135046,7 +135046,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPXeddefen05",
-    "custom": "",
+    "custom": "Зеддэфен - Фалес",
     "en": "Xeddefen, Fales",
     "ru": "Зеддефен - Фалес",
     "bel": "Зеддэфен - Фалес",
@@ -135055,7 +135055,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPXeddefenDestroyed01",
-    "custom": "",
+    "custom": "Зеддэфен - Руіны",
     "en": "Xeddefen, Ruins",
     "ru": "Зеддефен - Руины",
     "bel": "Зеддэфен - Руіны",
@@ -135064,7 +135064,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPXeddefenRearDestroyed",
-    "custom": "",
+    "custom": "Зеддэфен - Фалес",
     "en": "Xeddefen, Fales",
     "ru": "Зеддефен - Фалес",
     "bel": "Зеддэфен - Фалес",
@@ -135073,7 +135073,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPXedilian01",
-    "custom": "",
+    "custom": "Зедыліян",
     "en": "Xedilian",
     "ru": "Зедилиан",
     "bel": "Зедыліян",
@@ -135082,7 +135082,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPXedilian02",
-    "custom": "",
+    "custom": "Зедыліян - Залы суда",
     "en": "Xedilian, Halls of Judgment",
     "ru": "Зедилиан - Залы суда",
     "bel": "Зедыліян - Залы суда",
@@ -135091,7 +135091,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPXedilian03",
-    "custom": "",
+    "custom": "Зедыліян",
     "en": "Xedilian",
     "ru": "Зедилиан",
     "bel": "Зедыліян",
@@ -135100,7 +135100,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPXedilianWarehouse",
-    "custom": "",
+    "custom": "Зедыліян",
     "en": "Xedilian",
     "ru": "Зедилиан",
     "bel": "Зедыліян",
@@ -135109,7 +135109,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPXiditte01",
-    "custom": "",
+    "custom": "Зідытта",
     "en": "Xiditte",
     "ru": "Зидитта",
     "bel": "Зідытта",
@@ -135118,7 +135118,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPXiditte02",
-    "custom": "",
+    "custom": "Зідытта - Катакомбы",
     "en": "Xiditte, Catacombs",
     "ru": "Зидитта - Катакомбы",
     "bel": "Зідытта - Катакомбы",
@@ -135127,7 +135127,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPXiditteArbiterLog",
-    "custom": "",
+    "custom": "Запісы суддзі",
     "en": "Arbiter's Log",
     "ru": "Записи судьи",
     "bel": "Запісы суддзі",
@@ -135136,7 +135136,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPXirethard01",
-    "custom": "",
+    "custom": "Зірэтард",
     "en": "Xirethard",
     "ru": "Зиретард",
     "bel": "Зірэтард",
@@ -135145,7 +135145,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPXirethard02",
-    "custom": "",
+    "custom": "Зірэтард - Глыбіні",
     "en": "Xirethard, Depths",
     "ru": "Зиретард - Глубины",
     "bel": "Зірэтард - Глыбіні",
@@ -135154,7 +135154,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPXirethard03",
-    "custom": "",
+    "custom": "Зірэтард - Падзямелле",
     "en": "Xirethard, Subterrane",
     "ru": "Зиретард - Подземелье",
     "bel": "Зірэтард - Падзямелле",
@@ -135163,7 +135163,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPXirethard04",
-    "custom": "",
+    "custom": "Зірэтард",
     "en": "Xirethard",
     "ru": "Зиретард",
     "bel": "Зірэтард",
@@ -135172,7 +135172,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XPXirethard05",
-    "custom": "",
+    "custom": "Зірэтард",
     "en": "Xirethard",
     "ru": "Зиретард",
     "bel": "Зірэтард",
@@ -135181,7 +135181,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XXXDELETEME",
-    "custom": "",
+    "custom": "\"Брына Крос\"",
     "en": "Brina Cross",
     "ru": "\"Брина Кросс\"",
     "bel": "\"Брына Крос\"",
@@ -135190,7 +135190,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XXXMiscarcand05",
-    "custom": "",
+    "custom": "Міскарканд - Сховішча Велкіндскага каменя",
     "en": "Miscarcand Welkynd Stone Room",
     "ru": "Мискарканд - Хранилище Велкиндского камня",
     "bel": "Міскарканд - Сховішча Вялкиндскага каменя",
@@ -135199,7 +135199,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XXXRANDOMCave01",
-    "custom": "",
+    "custom": "Пячора змрочных раўнін",
     "en": "Bleak Flats Cave",
     "ru": "Пещера Унылая Равнина",
     "bel": "Пячора Змрочная Раўніна",
@@ -135208,7 +135208,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Xaselm",
-    "custom": "",
+    "custom": "Зазельм",
     "en": "Xaselm",
     "ru": "Хазелм",
     "bel": "Хазелм",
@@ -135217,7 +135217,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_XaselmSecretEntrance",
-    "custom": "",
+    "custom": "Сакрэтны Уваход у Ксасэлм",
     "en": "Xaselm Secret Entrance",
     "ru": "Тайный вход в Xaselm",
     "bel": "Тайны ўваход у Xaselm",
@@ -135226,7 +135226,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Xavara",
-    "custom": "",
+    "custom": "Хавара",
     "en": "Xavara",
     "ru": "Хавара",
     "bel": "Хавара",
@@ -135235,7 +135235,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Xeddefen",
-    "custom": "",
+    "custom": "Кседдэфен",
     "en": "Xeddefen",
     "ru": "Кседдефен",
     "bel": "Кседдэфен",
@@ -135244,7 +135244,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Xedilian",
-    "custom": "",
+    "custom": "Зедыліян",
     "en": "Xedilian",
     "ru": "Кседилиан",
     "bel": "Кседыліян",
@@ -135253,7 +135253,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Xiditte",
-    "custom": "",
+    "custom": "Ксідытте",
     "en": "Xiditte",
     "ru": "Ксидиттe",
     "bel": "Ксідыттe",
@@ -135262,7 +135262,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Xirethard",
-    "custom": "",
+    "custom": "Ксайрэтард",
     "en": "Xirethard",
     "ru": "Ксайретард",
     "bel": "Ксайрэтард",
@@ -135271,7 +135271,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_YellowTickCave",
-    "custom": "",
+    "custom": "Пячора Жоўты Кляшч",
     "en": "Yellow Tick Cave",
     "ru": "Пещера Желтый Клещ",
     "bel": "Пячора Жоўты Кляшч",
@@ -135280,7 +135280,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_YellowTickCave02",
-    "custom": "",
+    "custom": "Жоўты Кляшч - Хады",
     "en": "Yellow Tick Hollows",
     "ru": "Желтый Клещ - Ходы",
     "bel": "Жоўты Кляшч - Хады",
@@ -135289,7 +135289,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Yield",
-    "custom": "",
+    "custom": "Паступіцца",
     "en": "Yield",
     "ru": "Уступить",
     "bel": "Паступіцца",
@@ -135298,7 +135298,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_YieldTopic",
-    "custom": "",
+    "custom": "Паступацца",
     "en": "Yield",
     "ru": "Уступать",
     "bel": "Паступацца",
@@ -135307,7 +135307,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Yushi",
-    "custom": "",
+    "custom": "Йушы",
     "en": "Yushi",
     "ru": "Йуши",
     "bel": "Йушы",
@@ -135316,7 +135316,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_YvaraChannitte",
-    "custom": "",
+    "custom": "Івара Чаннітта",
     "en": "Yvara Channitte",
     "ru": "Ивара Чаннитта",
     "bel": "Івара Чаннітта",
@@ -135325,7 +135325,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Z001",
-    "custom": "",
+    "custom": "Выклік прывіда Руфіё",
     "en": "Summon Rufio's Ghost",
     "ru": "Вызов призрака Руфио",
     "bel": "Выклік здані Руфіё",
@@ -135334,7 +135334,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Z002",
-    "custom": "",
+    "custom": "Выклік вартаўніка продкаў",
     "en": "Summon Ancestor Guardian",
     "ru": "Вызов стража предков",
     "bel": "Выклік вартаўніка продкаў",
@@ -135343,7 +135343,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Z003",
-    "custom": "",
+    "custom": "Выклік павучка",
     "en": "Summon Spiderling",
     "ru": "Вызов паучка",
     "bel": "Выклік павучка",
@@ -135352,7 +135352,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Z004",
-    "custom": "",
+    "custom": "Выклік атронаха з плоці",
     "en": "Summon Flesh Atronach",
     "ru": "Вызов атронаха из плоти",
     "bel": "Выклік атронаха з плоці",
@@ -135361,7 +135361,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Z006",
-    "custom": "",
+    "custom": "Выклік пражэрлівага алчучага",
     "en": "Summon Gluttonous Hunger",
     "ru": "Вызов прожорливого алчущего",
     "bel": "Выклік пражэрлівага алчучага",
@@ -135370,7 +135370,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Z007",
-    "custom": "",
+    "custom": "Выклік згаладнелага алчучага",
     "en": "Summon Ravenous Hunger",
     "ru": "Вызов изголодавшегося алчущего",
     "bel": "Выклік згаладнелага алчучага",
@@ -135379,7 +135379,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Z008",
-    "custom": "",
+    "custom": "Выклік ненасытнага алчучага",
     "en": "Summon Voracious Hunger",
     "ru": "Вызов ненасытного алчущего",
     "bel": "Выклік ненасытнага алчучага",
@@ -135388,7 +135388,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Z009",
-    "custom": "",
+    "custom": "Выклік цёмнага спакусніка",
     "en": "Summon Dark Seducer",
     "ru": "Вызов темного соблазнителя",
     "bel": "Выклік цёмнага спакусніка",
@@ -135397,7 +135397,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Z011",
-    "custom": "",
+    "custom": "Выклік Ваббы",
     "en": "Wabba Summon",
     "ru": "Вызов Вабба",
     "bel": "Выклік Ваббы",
@@ -135406,7 +135406,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Z012",
-    "custom": "",
+    "custom": "Выклік слабага гармідару",
     "en": "Summon Decrepit Shambles",
     "ru": "Вызов слабого кавардака",
     "bel": "Выклік слабога кавардака",
@@ -135415,7 +135415,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Z013",
-    "custom": "",
+    "custom": "Выклік гармідару",
     "en": "Summon Shambles",
     "ru": "Вызов кавардака",
     "bel": "Выклік кавардака",
@@ -135424,7 +135424,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Z014",
-    "custom": "",
+    "custom": "Выклік шырокага гармідару",
     "en": "Summon Replete Shambles",
     "ru": "Вызов обширного кавардака",
     "bel": "Выклік вялікага кавардака",
@@ -135433,7 +135433,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Z015",
-    "custom": "",
+    "custom": "Выклік алчучага",
     "en": "Summon Hunger",
     "ru": "Вызов алчущего",
     "bel": "Выклік алчучага",
@@ -135442,7 +135442,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Z016",
-    "custom": "",
+    "custom": "Выклік скалечанага атронаха з плоці",
     "en": "Summon Mangled Flesh Atronach",
     "ru": "Вызов увечного атронаха из плоти",
     "bel": "Выклік скалечанага атронаха з плоці",
@@ -135451,7 +135451,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Z017",
-    "custom": "",
+    "custom": "Выклік парванага атронаха",
     "en": "Summon Torn Flesh Atronach",
     "ru": "Вызов порванного атронаха",
     "bel": "Выклік парванага атронаха",
@@ -135460,7 +135460,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Z018",
-    "custom": "",
+    "custom": "Выклік прастрочанага атронаха",
     "en": "Summon Stitched Flesh Atronach",
     "ru": "Вызов простроченного атронаха",
     "bel": "Выклік прастрочанага атронаха",
@@ -135469,7 +135469,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Z019",
-    "custom": "",
+    "custom": "Выклік сшытага атронаха з плоці",
     "en": "Summon Sewn Flesh Atronach",
     "ru": "Вызов сшитого атронаха из плоти",
     "bel": "Выклік сшытага атронаха з плоці",
@@ -135478,7 +135478,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ZDAE",
-    "custom": "",
+    "custom": "Выклік дэйдрота",
     "en": "Summon Daedroth",
     "ru": "Вызов дэйдрота",
     "bel": "Выклік дэйдрота",
@@ -135487,7 +135487,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ZDRE",
-    "custom": "",
+    "custom": "Выклік дрэмора",
     "en": "Summon Dremora",
     "ru": "Вызов дремора",
     "bel": "Выклік дрэмора",
@@ -135496,7 +135496,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ZDRL",
-    "custom": "",
+    "custom": "Выклік лорда дрэмора",
     "en": "Summon Dremora Lord",
     "ru": "Вызов лорда дремора",
     "bel": "Выклік лорда дрэмора",
@@ -135505,7 +135505,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ZFIA",
-    "custom": "",
+    "custom": "Выклік вогненнага атронаха",
     "en": "Summon Flame Atronach",
     "ru": "Вызов огненного атронаха",
     "bel": "Выклік вогненнага атронаха",
@@ -135514,7 +135514,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ZFRA",
-    "custom": "",
+    "custom": "Выклік ледзянога атронаха",
     "en": "Summon Frost Atronach",
     "ru": "Вызов ледяного атронаха",
     "bel": "Выклік ледзянога атронаха",
@@ -135523,7 +135523,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ZHDZ",
-    "custom": "",
+    "custom": "Выклік бязгаловага зомбі",
     "en": "Summon Headless Zombie",
     "ru": "Вызов безголового зомби",
     "bel": "Выклік бязгаловага зомбі",
@@ -135532,7 +135532,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ZLIC",
-    "custom": "",
+    "custom": "Выклік ліча",
     "en": "Summon Lich",
     "ru": "Вызов лича",
     "bel": "Выклік ліча",
@@ -135541,7 +135541,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ZSCA",
-    "custom": "",
+    "custom": "Выклік скампа",
     "en": "Summon Scamp",
     "ru": "Вызов скампа",
     "bel": "Выклік скампа",
@@ -135550,7 +135550,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ZSKA",
-    "custom": "",
+    "custom": "Выклік шкілета-ахоўніка",
     "en": "Summon Skeleton Guardian",
     "ru": "Вызов скелета-стража",
     "bel": "Выклік шкілета-вартаўніка",
@@ -135559,7 +135559,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ZSKC",
-    "custom": "",
+    "custom": "Выклік шкілета-ваяра",
     "en": "Summon Skeleton Champion",
     "ru": "Вызов скелета-воина",
     "bel": "Выклік шкілета-ваяра",
@@ -135568,7 +135568,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ZSKE",
-    "custom": "",
+    "custom": "Выклік шкілета",
     "en": "Summon Skeleton",
     "ru": "Вызов скелета",
     "bel": "Выклік шкілета",
@@ -135577,7 +135577,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ZSKH",
-    "custom": "",
+    "custom": "Выклік шкілета-героя",
     "en": "Summon Skeleton Hero",
     "ru": "Вызов скелета-героя",
     "bel": "Выклік шкілета-героя",
@@ -135586,7 +135586,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ZSPD",
-    "custom": "",
+    "custom": "Выклік дэйдра-павука",
     "en": "Summon Spider Daedra",
     "ru": "Вызов дэйдра-паука",
     "bel": "Выклік дэйдра-павука",
@@ -135595,7 +135595,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ZSTA",
-    "custom": "",
+    "custom": "Выклік гразовага атронаха",
     "en": "Summon Storm Atronach",
     "ru": "Вызов грозового атронаха",
     "bel": "Выклік гразовага атронаха",
@@ -135604,7 +135604,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ZWRA",
-    "custom": "",
+    "custom": "Выклік туманнага прывіды",
     "en": "Summon Faded Wraith",
     "ru": "Вызов туманного привидения",
     "bel": "Выклік туманнага прывіда",
@@ -135613,7 +135613,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ZWRL",
-    "custom": "",
+    "custom": "Выклік цёмнага прывіды",
     "en": "Summon Gloom Wraith",
     "ru": "Вызов темного привидения",
     "bel": "Выклік цёмнага прывіда",
@@ -135622,7 +135622,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ZXIV",
-    "custom": "",
+    "custom": "Выклік зівілаі",
     "en": "Summon Xivilai",
     "ru": "Вызов зивилаи",
     "bel": "Выклік зівілаі",
@@ -135631,7 +135631,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ZZOM",
-    "custom": "",
+    "custom": "Выклік зомбі",
     "en": "Summon Zombie",
     "ru": "Вызов зомби",
     "bel": "Выклік зомбі",
@@ -135640,7 +135640,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Zabhila",
-    "custom": "",
+    "custom": "Забхіла",
     "en": "Zabhila",
     "ru": "Забхила",
     "bel": "Забхіла",
@@ -135649,7 +135649,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Zahrasha",
-    "custom": "",
+    "custom": "Зараша",
     "en": "Zahrasha",
     "ru": "Зараша",
     "bel": "Зараша",
@@ -135658,7 +135658,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ZahrashaDead",
-    "custom": "",
+    "custom": "Зараша",
     "en": "Zahrasha",
     "ru": "Зараша",
     "bel": "Зараша",
@@ -135667,7 +135667,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_aaaObeisanceToken",
-    "custom": "",
+    "custom": "aaaObeisanceToken",
     "en": "aaaObeisanceToken",
     "ru": "ПочтительноеПоклонение aaaObeisanceToken",
     "bel": "ПаважліваеПакланенне aaaObeisanceToken",
@@ -135676,7 +135676,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_aaaPreachToken",
-    "custom": "",
+    "custom": "aaaPreachToken",
     "en": "aaaPreachToken",
     "ru": "жетоныaaaPreachToken",
     "bel": "жэтоныaaaPreachToken",
@@ -135685,7 +135685,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_advancementFG",
-    "custom": "",
+    "custom": "Павышэнне",
     "en": "Advancement",
     "ru": "Повышение",
     "bel": "Павышэнне",
@@ -135694,7 +135694,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_avmafrenagaia",
-    "custom": "",
+    "custom": "ав мафр нагайа",
     "en": "av mafre nagaia",
     "ru": "ав мафр нагайа",
     "bel": "ав мафр нагайа",
@@ -135703,7 +135703,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_avmolaganyammis",
-    "custom": "",
+    "custom": "ав молаг анійамміс",
     "en": "av molag anyammis",
     "ru": "ав молаг анийаммис",
     "bel": "ав молаг анійамміс",
@@ -135712,7 +135712,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_breakins",
-    "custom": "",
+    "custom": "Рабаванні",
     "en": "Break-ins",
     "ru": "Ограбления",
     "bel": "Рабаванні",
@@ -135721,7 +135721,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_causingtrouble",
-    "custom": "",
+    "custom": "Задзіракі ствараюць праблемы",
     "en": "Causing trouble",
     "ru": "Дебоширы создают проблемы",
     "bel": "Задзіракі ствараюць праблемы",
@@ -135730,7 +135730,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_closedborders",
-    "custom": "",
+    "custom": "Закрытыя межы",
     "en": "Closed borders",
     "ru": "Закрытые границы.",
     "bel": "Закрытыя межы.",
@@ -135739,7 +135739,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_closethegates",
-    "custom": "",
+    "custom": "Зачыніце брамы",
     "en": "Close the gates",
     "ru": "Закройте ворота.",
     "bel": "Зачыніце вароты.",
@@ -135748,7 +135748,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_clues",
-    "custom": "",
+    "custom": "Доказы",
     "en": "Clues",
     "ru": "Улики",
     "bel": "Доказы",
@@ -135757,7 +135757,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_confidence",
-    "custom": "",
+    "custom": "Упэўненасць",
     "en": "Confidence",
     "ru": "Секретность",
     "bel": "Сакрэтнасць",
@@ -135766,7 +135766,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_defaulted",
-    "custom": "",
+    "custom": "Не выканаў абавязацельствы",
     "en": "Defaulted",
     "ru": "Не выполнил обязательства",
     "bel": "Не выканаў абавязацельствы",
@@ -135775,7 +135775,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_duties",
-    "custom": "",
+    "custom": "Абавязкі",
     "en": "Duties",
     "ru": "Задания",
     "bel": "Заданні",
@@ -135784,7 +135784,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_enchOrcishGreavesResistParalysis",
-    "custom": "",
+    "custom": "Нагавіцы нястрымнасці",
     "en": "Greaves of the Unstoppable",
     "ru": "Поножи неостановимости",
     "bel": "Нагавіцы нястрымнасці",
@@ -135793,7 +135793,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_eyeArgonian",
-    "custom": "",
+    "custom": "Аргоніанін",
     "en": "Argonian",
     "ru": "Аргонианские",
     "bel": "Аргоніанскія",
@@ -135802,7 +135802,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_eyeBrown",
-    "custom": "",
+    "custom": "Карыя",
     "en": "Brown",
     "ru": "Карие",
     "bel": "Карыя",
@@ -135811,7 +135811,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_eyeDarkElf",
-    "custom": "",
+    "custom": "Цёмны эльф",
     "en": "Dark Elf",
     "ru": "Темного эльфа",
     "bel": "Цёмнага эльфа",
@@ -135820,7 +135820,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_eyeDefault",
-    "custom": "",
+    "custom": "Блакітныя",
     "en": "Blue",
     "ru": "Голубые",
     "bel": "Блакітныя",
@@ -135829,7 +135829,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_eyeDremora",
-    "custom": "",
+    "custom": "Вока Дрэморы",
     "en": "eyeDremora",
     "ru": "Око Дреморы",
     "bel": "Вока Дрэморы",
@@ -135838,7 +135838,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_eyeGreen",
-    "custom": "",
+    "custom": "Зялёныя",
     "en": "Green",
     "ru": "Зеленые",
     "bel": "Зялёныя",
@@ -135847,7 +135847,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_eyeKhajiit",
-    "custom": "",
+    "custom": "Каджыт",
     "en": "Khajiit",
     "ru": "Каджитские",
     "bel": "Каджыцкія",
@@ -135856,7 +135856,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_eyeOrc",
-    "custom": "",
+    "custom": "Орк",
     "en": "Orc",
     "ru": "Орочьи",
     "bel": "Орачыя",
@@ -135865,7 +135865,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_eyeOrdered",
-    "custom": "",
+    "custom": "Загад",
     "en": "Order",
     "ru": "Глаза упорядоченного",
     "bel": "Вочы ўпарадкаванага",
@@ -135874,7 +135874,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_eyeReanimate",
-    "custom": "",
+    "custom": "Вочы ажыўленага",
     "en": "Reanimate Eyes",
     "ru": "Глаза оживленного",
     "bel": "Вочы ажыўленага",
@@ -135883,7 +135883,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_eyeVampire",
-    "custom": "",
+    "custom": "Вочны вампір",
     "en": "eyeVampire",
     "ru": "Глазной вампир",
     "bel": "Вочны вампір",
@@ -135892,7 +135892,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_fairwarning",
-    "custom": "",
+    "custom": "Справядлівае папярэджанне",
     "en": "Fair warning",
     "ru": "Справедливое предупреждение.",
     "bel": "Справядлівае папярэджанне.",
@@ -135901,7 +135901,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_forkofhorripilation",
-    "custom": "",
+    "custom": "Відэлец Шкатулкі",
     "en": "The Fork of Horripilation",
     "ru": "Вилка Щекотки",
     "bel": "Відэлец Шчокаткі",
@@ -135910,7 +135910,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_groBakCamp",
-    "custom": "",
+    "custom": "Лагер гро-Бакаў",
     "en": "gro-Bak Camp",
     "ru": "Лагерь гро-Баков",
     "bel": "Лагер гро-Бакаў",
@@ -135919,7 +135919,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_heirloom",
-    "custom": "",
+    "custom": "Фамільная каштоўнасць",
     "en": "Heirloom",
     "ru": "Фамильная драгоценность",
     "bel": "Фамільная каштоўнасць",
@@ -135928,7 +135928,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_infiltrate",
-    "custom": "",
+    "custom": "Інфільтрацыя",
     "en": "Infiltrate",
     "ru": "Проникновение",
     "bel": "Прадзёр",
@@ -135937,7 +135937,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_inscriptionGoAhead",
-    "custom": "",
+    "custom": "Давай. Скончы сваю думку.",
     "en": "Go ahead. Finish your thought.",
     "ru": "Давай. Закончи свою мысль.",
     "bel": "Давай. Скончы сваю думку.",
@@ -135946,7 +135946,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_inscriptionWarning",
-    "custom": "",
+    "custom": "Я ведаю пра Хэймона Харт-Кінга. Працягвайце.",
     "en": "I know about Haymon Hart-King. Go ahead.",
     "ru": "Я знаю о Haymon Hart-King. Валяй.",
     "bel": "Я ведаю пра Haymon Hart-King. Давай.",
@@ -135955,7 +135955,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_jobs",
-    "custom": "",
+    "custom": "Праца для Гільдыі байцоў",
     "en": "Fighters Guild Jobs",
     "ru": "Работа для Гильдии бойцов",
     "bel": "Праца для Гільдыі байцоў",
@@ -135964,7 +135964,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_jointheBlackwoodCompany",
-    "custom": "",
+    "custom": "Далучыцца да \"Чорнага лесу\"",
     "en": "Join the Blackwood Company",
     "ru": "Присоединиться к  \"Черному лесу\"",
     "bel": "Далучыцца да \"Чорнага лесу\"",
@@ -135973,7 +135973,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_jointheFightersGuild",
-    "custom": "",
+    "custom": "Уступ у Гільдыю байцоў",
     "en": "Join the Fighters Guild",
     "ru": "Вступление в Гильдию бойцов",
     "bel": "Уступленне ў Гільдыю байцоў",
@@ -135982,7 +135982,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_jointheMagesGuild",
-    "custom": "",
+    "custom": "Уступленне ў Гільдыю магаў",
     "en": "Join the Mages Guild",
     "ru": "Вступление в Гильдию магов",
     "bel": "Уступленне ў Гільдыю магаў",
@@ -135991,7 +135991,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_jointheNineDivines",
-    "custom": "",
+    "custom": "Далучайцеся да Дзевяці Багоў",
     "en": "Join the Nine Divines",
     "ru": "Присоединяйся к Девяти Божествам.",
     "bel": "Далучайся да Дзевяці Багоў.",
@@ -136000,7 +136000,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_journal",
-    "custom": "",
+    "custom": "Дзённік",
     "en": "journal",
     "ru": "Дневник",
     "bel": "Дзённік",
@@ -136009,7 +136009,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_knightDontLook",
-    "custom": "",
+    "custom": "Ты не падобная на рыцара.",
     "en": "You don't look like a knight.",
     "ru": "Ты не похожа на рыцаря.",
     "bel": "Ты не падобная на рыцара.",
@@ -136018,7 +136018,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_kvatchBrokenGateDoor01",
-    "custom": "",
+    "custom": "Разбітыя вароты",
     "en": "Broken Gate",
     "ru": "Разбитые ворота",
     "bel": "Разбітыя вароты",
@@ -136027,7 +136027,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_lightthedragonfires",
-    "custom": "",
+    "custom": "Запаліць Драконавы агні",
     "en": "Light the dragonfires",
     "ru": "Зажечь Драконьи огни",
     "bel": "Запаліць Драконавы агні",
@@ -136036,7 +136036,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_lockeddoorinLeyawiinDungeon",
-    "custom": "",
+    "custom": "Замкнёныя дзверы ў падзямеллі Лейавііна",
     "en": "Locked door in Leyawiin Dungeon",
     "ru": "Запертая дверь в Leyawiin Dungeon",
     "bel": "Замкнёныя дзверы ў Leyawiin Dungeon",
@@ -136045,7 +136045,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_lostheir",
-    "custom": "",
+    "custom": "Ты – згублены спадчыннік!",
     "en": "You are the lost heir!",
     "ru": "Ты – потерянный наследник!",
     "bel": "Ты – згублены спадчыннік!",
@@ -136054,7 +136054,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_lostheirCloudRuler",
-    "custom": "",
+    "custom": "Раскажыце пра Храм Хмарнага Валадара.",
     "en": "Tell about Cloud Ruler Temple.",
     "ru": "Расскажи о Cloud Ruler Temple.",
     "bel": "Раскажы пра Cloud Ruler Temple.",
@@ -136063,7 +136063,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_lostheirExplain",
-    "custom": "",
+    "custom": "Растлумачце пра крызіс Аблівіяна.",
     "en": "Explain about Oblivion crisis.",
     "ru": "Объясни про кризис Oblivion.",
     "bel": "Растлумач пра крызіс Oblivion.",
@@ -136072,7 +136072,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_lostheirJauffreBaurus",
-    "custom": "",
+    "custom": "Раскажыце пра Джофры і Баўруса.",
     "en": "Tell about Jauffre and Baurus.",
     "ru": "Расскажи о Jauffre и Baurus.",
     "bel": "Раскажы пра Jauffre і Baurus.",
@@ -136081,7 +136081,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_magicalgate",
-    "custom": "",
+    "custom": "Чароўныя вароты",
     "en": "magical gate",
     "ru": "Волшебные врата",
     "bel": "Чароўныя вароты",
@@ -136090,7 +136090,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_magickaloria",
-    "custom": "",
+    "custom": "мэджыка лорыя",
     "en": "magicka loria",
     "ru": "мэджика лориа",
     "bel": "мэджыка лорыя",
@@ -136099,7 +136099,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_magickasila",
-    "custom": "",
+    "custom": "мэджыка сіла",
     "en": "magicka sila",
     "ru": "мэджика сила",
     "bel": "мэджыка сіла",
@@ -136108,7 +136108,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ms40melisandenothanks",
-    "custom": "",
+    "custom": "Не думаю.",
     "en": "I don't think so.",
     "ru": "Меня это не устраивает.",
     "bel": "Мяне гэта не задавальняе.",
@@ -136117,7 +136117,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ogres",
-    "custom": "",
+    "custom": "Огры",
     "en": "Ogres",
     "ru": "Огры",
     "bel": "Огры",
@@ -136126,7 +136126,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_paralyzed",
-    "custom": "",
+    "custom": "Паралізаваны",
     "en": "Paralyzed",
     "ru": "Парализован.",
     "bel": "Паралізаваны.",
@@ -136135,7 +136135,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_placeholder",
-    "custom": "",
+    "custom": "Запаўняльнік",
     "en": "placeholder",
     "ru": "Заполнитель",
     "bel": "Запаўняльнік",
@@ -136144,7 +136144,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_poisonedknifetopic",
-    "custom": "",
+    "custom": "Атручаны нож",
     "en": "Poisoned knife",
     "ru": "Отравленный нож",
     "bel": "Атручаны нож",
@@ -136261,7 +136261,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_sAttributeDescAgility_LEVEL0_F",
-    "custom": "",
+    "custom": "Уплывае на колькасць <RT_BlueMed>шкоды</>, якую вы наносіце <RT_BlueMed>Кінжаламі, Кароткімі мячамі і Лукамі</>. Нязначна павялічвае вашу <RT_BlueMed>максімальную стомленасць</> і вызначае, як хутка вы <RT_BlueMed>аднаўляеце стомленасць</>.",
     "en": "Affects the amount of <RT_BlueMed>damage</> you deal with <RT_BlueMed>Daggers, Shortswords and Bows</>. Slightly increases your <RT_BlueMed>maximum Fatigue</> and defines how quickly you <RT_BlueMed>regenerate Fatigue</>.",
     "ru": "Влияет на вашу способность уклоняться и сохранять равновесие, на ваш запас сил, на урон при стрельбе из лука. Отвечает за навыки: взлом, скрытность и стрельба.",
     "bel": "Уплывае на вашу здольнасць ухіляцца і захоўваць раўнавагу, на ваш запас сіл, на ўрон пры стральбе з лука. Адказвае за навыкі: узлом, скрытнасць і стральба.",
@@ -136396,7 +136396,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_sCombatDescription_LEVEL0_F",
-    "custom": "",
+    "custom": "Дазваляе вам хутка прагрэсаваць пры выкарыстанні наступных навыкаў: збройнік, атлетыка, клінкі, блакаванне, драбільную зброю, рукапашны бой, цяжкія даспехі.",
     "en": "Allows you to progress more quickly in these skills as you use them: Armorer, Athletics, Blade, Block, Blunt, Hand to Hand, Heavy Armor.",
     "ru": "Позволяет вам быстро прогрессировать при использовании следующих навыков: оружейник, атлетика, клинки, блокирование, дробящее оружие, рукопашный бой, тяжелые доспехи.",
     "bel": "Дазваляе вам хутка прагрэсаваць пры выкарыстанні наступных навыкаў: збройнік, атлетыка, клінкі, блакаванне, драбільную зброю, рукапашны бой, цяжкія даспехі.",
@@ -136738,7 +136738,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_sMagicDescription_LEVEL0_F",
-    "custom": "",
+    "custom": "Дазваляе вам хутка прагрэсаваць пры выкарыстанні наступных навыкаў: алхімія, змяненне, чарадзейства, разбурэнне, ілюзія, містыцызм, аднаўленне.",
     "en": "Allows you to progress more quickly in these skills as you use them: Alchemy, Alteration, Conjuration, Destruction, Illusion, Mysticism, Restoration.",
     "ru": "Позволяет вам быстро прогрессировать при использовании следующих навыков: алхимия, изменение, колдовство, разрушение, иллюзия, мистицизм, восстановление.",
     "bel": "Дазваляе вам хутка прагрэсаваць пры выкарыстанні наступных навыкаў: алхімія, змяненне, чарадзейства, разбурэнне, ілюзія, містыцызм, аднаўленне.",
@@ -137017,7 +137017,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_sStealthDescription_LEVEL0_F",
-    "custom": "",
+    "custom": "Дазваляе вам хутка прагрэсаваць пры выкарыстанні наступных навыкаў: акрабатыка, лёгкая браня, стральба, гандаль, узлом, скрытнасць, красамоўства.",
     "en": "Allows you to progress more quickly in these skills as you use them: Acrobatics, Light Armor, Marksman, Mercantile, Security, Sneak, Speechcraft.",
     "ru": "Позволяет вам быстро прогрессировать при использовании следующих навыков: акробатика, легкие доспехи, стрельба, торговля, взлом, скрытность, красноречие.",
     "bel": "Дазваляе вам хутка прагрэсаваць пры выкарыстанні наступных навыкаў: акрабатыка, лёгкая браня, стральба, гандаль, узлом, скрытнасць, красамоўства.",
