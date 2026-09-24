@@ -4033,7 +4033,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryDescription_Staves",
-    "custom": "",
+    "custom": "Даведайцеся пра кіі і як імі правільна валодаць.",
     "en": "Learn about staves and how to properly wield them.",
     "ru": "Узнайте о посохах и как ими правильно владеть.",
     "bel": "Даведайцеся пра кіі і як імі правільна валодаць.",
@@ -4041,7 +4041,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryDescription_StealthSkills",
-    "custom": "",
+    "custom": "Даведайцеся пра навыкі, звязаныя з утойлівасцю, і звязаныя з імі бонусы.",
     "en": "Learn about stealth-related Skills and their associated perks.",
     "ru": "Узнайте о связанных со скрытностью Skills и соответствующих им perks.",
     "bel": "Даведайцеся аб звязаных са ўтоенасцю Skills і адпаведных ім perks.",
@@ -4049,7 +4049,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryDescription_Swimming",
-    "custom": "",
+    "custom": "Навучыцеся плаваць, змагацца і выжываць пад вадой.",
     "en": "Learn how to swim, fight and survive underwater.",
     "ru": "Научитесь плавать, сражаться и выживать под водой.",
     "bel": "Навучыцеся плаваць, змагацца і выжываць пад вадой.",
@@ -4057,7 +4057,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryDescription_TargetHealth&Name",
-    "custom": "",
+    "custom": "У кожнай істоты ёсць сваё імя і здароўе.<lf>Даведайцеся, дзе на гэта паглядзець.",
     "en": "Every being has their own name and health.<lf>Learn where to take a look at it.",
     "ru": "У каждого существа есть своё имя и здоровье.<lf>Узнайте, где на это посмотреть.",
     "bel": "У кожнай істоты ёсць сваё імя і здароўе.<lf>Даведайцеся, дзе на гэта паглядзець.",
@@ -4065,7 +4065,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryDescription_Trainers",
-    "custom": "",
+    "custom": "Даведайцеся, да каго звярнуцца, каб навучыць вашыя навыкі.",
     "en": "Learn who to seek to train your Skills.",
     "ru": "Узнайте, к кому обратиться, чтобы прокачать свои Skills.",
     "bel": "Даведайцеся, да каго звярнуцца, каб прапампаваць свае Skills.",
@@ -4073,7 +4073,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryDescription_Trespassing",
-    "custom": "",
+    "custom": "Даведайцеся, як вызначыць, куды вам нельга заходзіць.",
     "en": "Learn how to detect where you are not allowed to go.",
     "ru": "Узнайте, как определить, куда вам нельзя заходить.",
     "bel": "Даведайцеся, як вызначыць, куды вам нельга заходзіць.",
@@ -4081,7 +4081,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryDescription_Vitals",
-    "custom": "",
+    "custom": "Даведайцеся, як працуюць Здароўе, Магія і Запас Сіл, і як іх павялічыць.",
     "en": "Learn how Health, Magicka and Fatigue work and how to increase them.",
     "ru": "Узнайте, как работают Здоровье, Магия и Запас Сил, и как их увеличить.",
     "bel": "Даведайцеся, як працуюць Здароўе, Магія і Запас Сіл, і як іх павялічыць.",
@@ -4089,7 +4089,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryDescription_Yielding",
-    "custom": "",
+    "custom": "Саступленне дазваляе вам мірна скончыць бой з саюзнікам.<lf>Даведайцеся, як ініцыяваць заканчэнне бою.",
     "en": "Yielding allows you to peacefully end a fight against an ally.<lf>Learn how to initiate the end of the combat.",
     "ru": "Yielding allows you to peacefully end a fight against an ally.<lf>Learn how to initiate the end of the combat.",
     "bel": "Yielding allows you to peacefully end a fight against an ally.<lf>Learn how to initiate the end of the combat.",
@@ -4097,7 +4097,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_ActiveEffects",
-    "custom": "",
+    "custom": "Актыўныя Эфекты",
     "en": "Active Effects",
     "ru": "Активные Эффекты",
     "bel": "Актыўныя Эфекты",
@@ -4105,7 +4105,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_AdditionalContent",
-    "custom": "",
+    "custom": "Дадатковы кантэнт",
     "en": "Additional Content",
     "ru": "Дополнительный контент",
     "bel": "Дадатковы кантэнт",
@@ -4113,7 +4113,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Alchemy",
-    "custom": "",
+    "custom": "Алхімія",
     "en": "Alchemy",
     "ru": "Алхимия",
     "bel": "Алхімія",
@@ -4121,7 +4121,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Armor",
-    "custom": "",
+    "custom": "Броня",
     "en": "Armors",
     "ru": "Броня",
     "bel": "Броня",
@@ -4129,7 +4129,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Attributes",
-    "custom": "",
+    "custom": "Атрыбуты",
     "en": "Attributes",
     "ru": "Атрибуты",
     "bel": "Атрыбуты",
@@ -4137,7 +4137,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Bartering",
-    "custom": "",
+    "custom": "Гандаль",
     "en": "Bartering",
     "ru": "Торговля",
     "bel": "Гандаль",
@@ -4145,7 +4145,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_BasicMovement+Jump",
-    "custom": "",
+    "custom": "Асноўныя рухі і скачкі",
     "en": "Moving Around",
     "ru": "Основные движения и прыжки",
     "bel": "Асноўныя рухі і скачкі",
@@ -4153,7 +4153,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Blocking",
-    "custom": "",
+    "custom": "Блакаванне",
     "en": "Blocking",
     "ru": "Блокирование",
     "bel": "Блакаванне",
@@ -4161,7 +4161,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Blocking&FatigueManagement",
-    "custom": "",
+    "custom": "Кіраванне стомленасцю.",
     "en": "Managing Fatigue",
     "ru": "Управление усталостью.",
     "bel": "Кіраванне стомленасцю.",
@@ -4169,7 +4169,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Clairvoyance",
-    "custom": "",
+    "custom": "Яснабачанне",
     "en": "Clairvoyance",
     "ru": "Ясновидение",
     "bel": "Яснабачанне",
@@ -4177,7 +4177,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_CombatSkills",
-    "custom": "",
+    "custom": "Баявыя навыкі",
     "en": "Combat Skills",
     "ru": "Боевые навыки",
     "bel": "Баявыя навыкі",
@@ -4185,7 +4185,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Compass",
-    "custom": "",
+    "custom": "Компас",
     "en": "Compass",
     "ru": "Компас",
     "bel": "Компас",
@@ -4193,7 +4193,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Crimes",
-    "custom": "",
+    "custom": "Злачынствы",
     "en": "Crimes",
     "ru": "Преступления",
     "bel": "Злачынствы",
@@ -4201,7 +4201,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_CrosshairIcons",
-    "custom": "",
+    "custom": "Прыцэльныя значкі",
     "en": "Crosshair Icons",
     "ru": "Crosshair Icons",
     "bel": "Crosshair Icons",
@@ -4209,7 +4209,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Dialogue",
-    "custom": "",
+    "custom": "Дыялог",
     "en": "Dialogue",
     "ru": "Диалог",
     "bel": "Дыялог",
@@ -4217,7 +4217,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Diseases",
-    "custom": "",
+    "custom": "Хваробы",
     "en": "Diseases",
     "ru": "Болезни",
     "bel": "Хваробы",
@@ -4225,7 +4225,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Dodging",
-    "custom": "",
+    "custom": "Ухіленне",
     "en": "Dodging",
     "ru": "Уклонение",
     "bel": "Ухіленне",
@@ -4233,7 +4233,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Enchanting",
-    "custom": "",
+    "custom": "Зачараванне",
     "en": "Enchanting",
     "ru": "Очаровательно",
     "bel": "Зачараванне",
@@ -4241,7 +4241,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_EnchantingWithSigilStones",
-    "custom": "",
+    "custom": "Зачараванне Камянямі Сігілаў",
     "en": "Enchanting with Sigil Stones",
     "ru": "Зачарование Камнями Cигилов",
     "bel": "Зачараванне Камянямі Сігілаў",
@@ -4249,7 +4249,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Encumbrance",
-    "custom": "",
+    "custom": "Нагрузка",
     "en": "Encumbrance",
     "ru": "Нагрузка",
     "bel": "Нагрузка",
@@ -4257,7 +4257,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Fame&Infamy",
-    "custom": "",
+    "custom": "Слава і ганьба.",
     "en": "Fame & Infamy",
     "ru": "Слава и бесчестие.",
     "bel": "Слава і ганьба.",
@@ -4265,7 +4265,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Fencing",
-    "custom": "",
+    "custom": "Фехтаванне",
     "en": "Fencing",
     "ru": "Фехтование",
     "bel": "Фехтаванне",
@@ -4273,7 +4273,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Greater&LesserPowers",
-    "custom": "",
+    "custom": "Вялікія і малыя дзяржавы",
     "en": "Greater & Lesser Powers",
     "ru": "Великие и малые державы",
     "bel": "Вялікія і малыя дзяржавы",
@@ -4281,7 +4281,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Guilds",
-    "custom": "",
+    "custom": "Гільдыі",
     "en": "Guilds",
     "ru": "Гильдии",
     "bel": "Гільдыі",
@@ -4289,7 +4289,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Haggling",
-    "custom": "",
+    "custom": "Гандаль",
     "en": "Haggling",
     "ru": "Торговля",
     "bel": "Гандаль",
@@ -4297,7 +4297,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Horses",
-    "custom": "",
+    "custom": "Верхавая язда",
     "en": "Riding Horses",
     "ru": "Верховая езда",
     "bel": "Верхавая язда",
@@ -4305,7 +4305,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_IncreasingYourAttributes",
-    "custom": "",
+    "custom": "Павышэнне Вашых Характарыстык",
     "en": "Increasing Your Attributes",
     "ru": "Повышение Ваших Характеристик",
     "bel": "Павышэнне Вашых Характарыстык",
@@ -4313,7 +4313,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_InfoBox",
-    "custom": "",
+    "custom": "Інфабокс",
     "en": "Info Box",
     "ru": "Инфобокс",
     "bel": "Інфабокс",
@@ -4321,7 +4321,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Ingredients",
-    "custom": "",
+    "custom": "Інгрэдыенты",
     "en": "Ingredients",
     "ru": "Ингредиенты",
     "bel": "Інгрэдыенты",
@@ -4329,7 +4329,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_ItemDurability",
-    "custom": "",
+    "custom": "Трываласць",
     "en": "Durability",
     "ru": "Прочность",
     "bel": "Трываласць",
@@ -4337,7 +4337,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Jail",
-    "custom": "",
+    "custom": "Турма",
     "en": "Jail",
     "ru": "Тюрьма",
     "bel": "Турма",
@@ -4345,7 +4345,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_LevelingUp",
-    "custom": "",
+    "custom": "Павышэнне ўзроўню",
     "en": "Leveling Up",
     "ru": "Повышение уровня",
     "bel": "Павышэнне ўзроўню",
@@ -4353,7 +4353,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Lockpicking",
-    "custom": "",
+    "custom": "Узлом замкоў",
     "en": "Lockpicking",
     "ru": "Взлом замков",
     "bel": "Узлом замкоў",
@@ -4361,7 +4361,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_MagicItems",
-    "custom": "",
+    "custom": "Магічныя Рэчы",
     "en": "Magic Items",
     "ru": "Magic Items",
     "bel": "Magic Items",
@@ -4369,7 +4369,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_MagicSkills",
-    "custom": "",
+    "custom": "Магічныя навыкі",
     "en": "Magic Skills",
     "ru": "Магические навыки",
     "bel": "Магічныя навыкі",
@@ -4377,7 +4377,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Major&MinorSkills",
-    "custom": "",
+    "custom": "Асноўныя і другарадныя навыкі.",
     "en": "Major & Minor Skills",
     "ru": "Основные и второстепенные навыки.",
     "bel": "Асноўныя і другарадныя навыкі.",
@@ -4385,7 +4385,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_MarklessLocations",
-    "custom": "",
+    "custom": "Незначныя лакацыі",
     "en": "Minor Locations",
     "ru": "Незначительные локации",
     "bel": "Незначныя лакацыі",
@@ -4393,7 +4393,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_MeleeAndHand-To-HandWeapons",
-    "custom": "",
+    "custom": "Зброя і рукапашны бой",
     "en": "Weapons & Hand-to-Hand",
     "ru": "Оружие и рукопашный бой",
     "bel": "Зброя і рукапашны бой",
@@ -4401,7 +4401,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_MeleeAttacks",
-    "custom": "",
+    "custom": "Атакі блізкага бою",
     "en": "Melee Attacks",
     "ru": "Melee Attacks",
     "bel": "Melee Attacks",
@@ -4409,7 +4409,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Notifications",
-    "custom": "",
+    "custom": "Апавяшчэнні",
     "en": "Notifications",
     "ru": "Уведомления",
     "bel": "Апавяшчэнні",
@@ -4417,7 +4417,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Persuasion",
-    "custom": "",
+    "custom": "Угаворванне",
     "en": "Persuading",
     "ru": "Уговаривая",
     "bel": "Угаворванне",
@@ -4425,7 +4425,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Pickpocketing",
-    "custom": "",
+    "custom": "Кішэнны крадзеж",
     "en": "Pickpocketing",
     "ru": "Карманная кража",
     "bel": "Кішэнны крадзеж",
@@ -4433,7 +4433,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_PurchasingSpells",
-    "custom": "",
+    "custom": "Купля загавораў",
     "en": "Purchasing Spells",
     "ru": "Покупка заклинаний",
     "bel": "Купля загавораў",
@@ -4441,7 +4441,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_RangedAttacks",
-    "custom": "",
+    "custom": "Атака - Далёкі бой",
     "en": "Attacking - Ranged",
     "ru": "Атака - Дальний бой",
     "bel": "Атака - Далёкі бой",
@@ -4449,7 +4449,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_SchoolOfAlteration",
-    "custom": "",
+    "custom": "Школа Змены",
     "en": "School of Alteration",
     "ru": "Школа Изменения",
     "bel": "Школа Змены",
@@ -4457,7 +4457,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_SchoolOfConjuration",
-    "custom": "",
+    "custom": "Школа Вядзьмарства",
     "en": "School of Conjuration",
     "ru": "Школа Колдовства",
     "bel": "Школа Вядзьмарства",
@@ -4465,7 +4465,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_SchoolOfDestruction",
-    "custom": "",
+    "custom": "Школа Разбурэння",
     "en": "School of Destruction",
     "ru": "Школа Разрушения",
     "bel": "Школа Разбурэння",
@@ -4473,7 +4473,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_SchoolOfIllusion",
-    "custom": "",
+    "custom": "Школа Ілюзій",
     "en": "School of Illusion",
     "ru": "Школа Иллюзий",
     "bel": "Школа Ілюзій",
@@ -4481,7 +4481,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_SchoolOfMysticism",
-    "custom": "",
+    "custom": "Школа містыцызму",
     "en": "School of Mysticism",
     "ru": "Школа мистицизма",
     "bel": "Школа містыцызму",
@@ -4489,7 +4489,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_SchoolOfRestoration",
-    "custom": "",
+    "custom": "Школа Аднаўлення",
     "en": "School of Restoration",
     "ru": "Школа Восстановления",
     "bel": "Школа Аднаўлення",
@@ -4497,7 +4497,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_ShieldBashing",
-    "custom": "",
+    "custom": "Удар шчытом",
     "en": "Shield Bashing",
     "ru": "Удар щитом",
     "bel": "Удар шчытом",
@@ -4505,7 +4505,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Sneaking",
-    "custom": "",
+    "custom": "Падкраданне",
     "en": "Sneaking",
     "ru": "Подкрадывание",
     "bel": "Падкраданне",
@@ -4513,7 +4513,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_SoulTrapping",
-    "custom": "",
+    "custom": "Злаўленне душ",
     "en": "Trapping Souls",
     "ru": "Поимка душ",
     "bel": "Злаўленне душ",
@@ -4521,7 +4521,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_SpellCasting",
-    "custom": "",
+    "custom": "Выкарыстанне загавораў",
     "en": "Casting Spells",
     "ru": "Использование заклинаний",
     "bel": "Выкарыстанне загавораў",
@@ -4529,7 +4529,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_SpellEffectiveness",
-    "custom": "",
+    "custom": "Эфектыўнасць загавораў",
     "en": "Spell Effectiveness",
     "ru": "Эффективность заклинаний",
     "bel": "Эфектыўнасць загавораў",
@@ -4537,7 +4537,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Spellcrafting",
-    "custom": "",
+    "custom": "Стварэнне загавораў",
     "en": "Spellmaking",
     "ru": "Создание заклинаний",
     "bel": "Стварэнне загавораў",
@@ -4545,7 +4545,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Sprinting",
-    "custom": "",
+    "custom": "Бег",
     "en": "Sprinting",
     "ru": "Бег",
     "bel": "Бег",
@@ -4553,7 +4553,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Staves",
-    "custom": "",
+    "custom": "Кіі",
     "en": "Staves",
     "ru": "Посохи",
     "bel": "Кіі",
@@ -4561,7 +4561,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_StealthSkills",
-    "custom": "",
+    "custom": "Навыкі ўтоенасці",
     "en": "Stealth Skills",
     "ru": "Навыки скрытности",
     "bel": "Навыкі ўтоенасці",
@@ -4569,7 +4569,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Swimming",
-    "custom": "",
+    "custom": "Плаванне",
     "en": "Swimming",
     "ru": "Плавание",
     "bel": "Плаванне",
@@ -4577,7 +4577,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_TargetHealth&Name",
-    "custom": "",
+    "custom": "Мэта: Здароўе і Імя",
     "en": "Target Health And Name",
     "ru": "Цель: Здоровье и Имя",
     "bel": "Мэта: Здароўе і Імя",
@@ -4585,7 +4585,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Trainers",
-    "custom": "",
+    "custom": "Трэнеры",
     "en": "Trainers",
     "ru": "Тренеры",
     "bel": "Трэнеры",
@@ -4593,7 +4593,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Trespassing",
-    "custom": "",
+    "custom": "Нарушэнне межаў",
     "en": "Trespassing",
     "ru": "Нарушение границ",
     "bel": "Нарушэнне межаў",
@@ -4601,7 +4601,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Vitals",
-    "custom": "",
+    "custom": "Жыццёвыя паказчыкі",
     "en": "Vitals",
     "ru": "Жизненные показатели",
     "bel": "Жыццёвыя паказчыкі",
@@ -4609,7 +4609,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_EntryTitle_Yielding",
-    "custom": "",
+    "custom": "Падпарадкаванне",
     "en": "Yielding",
     "ru": "Yielding",
     "bel": "Yielding",
@@ -4617,7 +4617,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Help_Title_Tutorials",
-    "custom": "",
+    "custom": "Навучанне",
     "en": "Tutorials",
     "ru": "Обучение",
     "bel": "Навучанне",
@@ -4625,7 +4625,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_ArmorPart_Boots",
-    "custom": "",
+    "custom": "Боты",
     "en": "Boots",
     "ru": "Ботинки",
     "bel": "Боты",
@@ -4633,7 +4633,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_ArmorPart_Cuirass",
-    "custom": "",
+    "custom": "Кіраса",
     "en": "Cuirass",
     "ru": "Кираса",
     "bel": "Кіраса",
@@ -4641,7 +4641,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_ArmorPart_Gauntless",
-    "custom": "",
+    "custom": "Нарукаўнікі",
     "en": "Gauntlets",
     "ru": "Наручи",
     "bel": "Нарукаўнікі",
@@ -4649,7 +4649,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_ArmorPart_Greaves",
-    "custom": "",
+    "custom": "Нагавіцы",
     "en": "Greaves",
     "ru": "Поножи",
     "bel": "Нагавіцы",
@@ -4657,7 +4657,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_ArmorPart_Headgear",
-    "custom": "",
+    "custom": "Галаўны ўбор",
     "en": "Headgear",
     "ru": "Головной убор",
     "bel": "Галаўны ўбор",
@@ -4665,7 +4665,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_BodyText_DestroyedOnUse",
-    "custom": "",
+    "custom": "Знішчаецца пры выкарыстанні.",
     "en": "Destroyed On Use",
     "ru": "Уничтожается при использовании.",
     "bel": "Знішчаецца пры выкарыстанні.",
@@ -4673,7 +4673,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_BodyText_Empty",
-    "custom": "",
+    "custom": "Пуста",
     "en": "Empty",
     "ru": "Пусто",
     "bel": "Пуста",
@@ -4681,7 +4681,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_BookType_Book",
-    "custom": "",
+    "custom": "Кніга",
     "en": "Book",
     "ru": "Книга",
     "bel": "Кніга",
@@ -4689,7 +4689,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_BookType_Note",
-    "custom": "",
+    "custom": "Увага",
     "en": "Note",
     "ru": "Внимание",
     "bel": "Увага",
@@ -4697,7 +4697,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_BookType_SkillBook",
-    "custom": "",
+    "custom": "Кніга ўменняў",
     "en": "Skill Book",
     "ru": "Книга умений",
     "bel": "Кніга ўменняў",
@@ -4705,7 +4705,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_BookType_SpellScroll",
-    "custom": "",
+    "custom": "Скрутак загавораў",
     "en": "Spell Scroll",
     "ru": "Свиток заклинаний",
     "bel": "Скрутак загавораў",
@@ -4713,7 +4713,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_Button_AbsorbPower",
-    "custom": "",
+    "custom": "Паглынуць сілу",
     "en": "Absorb Power",
     "ru": "Поглотить силу",
     "bel": "Паглынуць сілу",
@@ -4721,7 +4721,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_Button_Consume",
-    "custom": "",
+    "custom": "З'есці",
     "en": "Consume",
     "ru": "Съесть",
     "bel": "З'есці",
@@ -4729,7 +4729,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_Button_CreatePotion",
-    "custom": "",
+    "custom": "Стварыць зелле",
     "en": "Create Potion",
     "ru": "Создать зелье",
     "bel": "Стварыць зелле",
@@ -4737,7 +4737,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_Button_EnchantGear",
-    "custom": "",
+    "custom": "Зачараваць рыштунак",
     "en": "Enchant Gear",
     "ru": "Зачаровать Снаряжение",
     "bel": "Зачараваць рыштунак",
@@ -4745,7 +4745,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_Button_Equip",
-    "custom": "",
+    "custom": "Экіпіраваць",
     "en": "Equip",
     "ru": "Экипировать",
     "bel": "Экіпіраваць",
@@ -4753,7 +4753,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_Button_Read",
-    "custom": "",
+    "custom": "Прачытаць",
     "en": "Read",
     "ru": "Прочитать",
     "bel": "Прачытаць",
@@ -4761,7 +4761,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_Button_RechargeAllWeapons",
-    "custom": "",
+    "custom": "Перазарадзіць усю зброю.",
     "en": "Recharge All Weapons",
     "ru": "Перезарядить всё оружие.",
     "bel": "Перазарадзіць усю зброю.",
@@ -4769,7 +4769,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_Button_RechargeWeapon",
-    "custom": "",
+    "custom": "Перазарадзіць зброю",
     "en": "Recharge Weapon",
     "ru": "Перезарядить оружие",
     "bel": "Перазарадзіць зброю",
@@ -4777,7 +4777,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_Button_RepairGear",
-    "custom": "",
+    "custom": "Рамантаваць рыштунак",
     "en": "Repair Gear",
     "ru": "Ремонтировать снаряжение",
     "bel": "Рамантаваць рыштунак",
@@ -4785,7 +4785,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_ClothPart_Amulet",
-    "custom": "",
+    "custom": "Амулет",
     "en": "Amulet",
     "ru": "Амулет",
     "bel": "Амулет",
@@ -4793,7 +4793,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_ClothPart_Hood",
-    "custom": "",
+    "custom": "Капюшон",
     "en": "Hood",
     "ru": "Капюшон",
     "bel": "Капюшон",
@@ -4801,7 +4801,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_ClothPart_LeftRing",
-    "custom": "",
+    "custom": "Пярсцёнак",
     "en": "Ring",
     "ru": "Кольцо",
     "bel": "Пярсцёнак",
@@ -4809,7 +4809,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_ClothPart_Pant",
-    "custom": "",
+    "custom": "Штаны",
     "en": "Pant",
     "ru": "Штаны",
     "bel": "Штаны",
@@ -4817,7 +4817,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_ClothPart_RightRing",
-    "custom": "",
+    "custom": "Пярсцёнак",
     "en": "Ring",
     "ru": "Кольцо",
     "bel": "Пярсцёнак",
@@ -4825,7 +4825,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_Inventory_ClothPart_Robe",
-    "custom": "",
+    "custom": "Мантыя",
     "en": "Robe",
     "ru": "Мантия",
     "bel": "Мантыя",
