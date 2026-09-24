@@ -79,6 +79,19 @@
 `ST_HardcodedContent/LOC_HC_EffectItemList_sMagicCostliestEffectSkillOf` —
 прабел у пачатку/канцы не супадае з `en` (гл. п.5 вышэй).
 
+## Крок 2 (`same_bel_belalt_case_insensitive.json`) — заўвагі
+
+Усе 6493 пустыя запісы запоўнены скрыптам (гл. PROGRESS.md). `validate.py`
+дадаткова паказвае 21 «памылку» лацінкі — гэта тэхнічныя ID распрацоўшчыкаў
+і лацінскія ўласныя назвы (маркі віна, коды NPC/DLC), скапіраваныя
+verbatim з `bel`/`bel_alt` (там `bel == bel_alt`, механічны выпадак не
+чапаўся): `BattlehornWineBarrelA/C/E` (маркі віна "Frostdew Blanc" і інш.),
+`Book2CommonShortLifeUrielSeptim` (рымская лічба "VII"), `Dark05Convo`,
+`Dark09Speech`, `FGC06GoblinFaction`, `NDConvSysImperialFNPC`,
+`NDEmilNPC1`, `NDUmarilVoiceNPC`, `NQDSkingrad`, `SE09Ceremony`,
+`SEBookSixteenAccordsofMadnessV6/V9/V12` (рымскія лічбы), `SEYngvarFaction`,
+`TestErik`, `lyndacarter` — усе тэхнічныя, не гульнявы тэкст. Не патрабуе праўкі.
+
 ## Не патрабуе праўкі (ілжывыя спрацоўванні `validate.py`, пакінуты для даведкі)
 
 - Лацінская літара `x` як лічбавы плэйсхолдэр (напр. `"x damage!"` →

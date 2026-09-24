@@ -166,7 +166,7 @@
 |---|---|---|
 | of Order | Парадку | custom |
 | of Cataclysm | Катаклізму | выбар |
-| of the Crusader | крыжаносца | выбар |
+| of the Crusader | Крыжака | custom (пацверджана 25× у filled custom: "Пальчаткі/Понажы/... Крыжака") |
 | Sword | Меч | выбар |
 | Longsword | Доўгі меч | выбар |
 | Claymore | Клеймара | выбар |
