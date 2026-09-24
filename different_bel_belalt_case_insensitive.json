@@ -29890,7 +29890,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DisBlackHeartBlight",
-    "custom": "",
+    "custom": "Чорнае сэрца",
     "en": "Black-Heart Blight",
     "ru": "Черное сердце",
     "bel": "Чорнае сэрца",
@@ -29899,7 +29899,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DisBrownRot",
-    "custom": "",
+    "custom": "Бурая гніль",
     "en": "Brown Rot",
     "ru": "Бурая гниль",
     "bel": "Бурая гніль",
@@ -29908,7 +29908,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DisChanthraxBlight",
-    "custom": "",
+    "custom": "Чантраксавы сып",
     "en": "Chanthrax Blight",
     "ru": "Чантраксовая сыпь",
     "bel": "Чантраксавы сып",
@@ -29917,7 +29917,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DisChills",
-    "custom": "",
+    "custom": "Прастуда",
     "en": "Chills",
     "ru": "Простуда",
     "bel": "Прастуда",
@@ -29926,7 +29926,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DisCollywobbles",
-    "custom": "",
+    "custom": "Расстройства страўніка",
     "en": "Collywobbles",
     "ru": "Расстройство желудка",
     "bel": "Расстройства страўніка",
@@ -29935,7 +29935,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DisDampworm",
-    "custom": "",
+    "custom": "Вільготны чарвяк",
     "en": "Dampworm",
     "ru": "Червь",
     "bel": "Чарвяк",
@@ -29944,7 +29944,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DisDroops",
-    "custom": "",
+    "custom": "Знясіленне",
     "en": "Droops",
     "ru": "Изнеможение",
     "bel": "Знясіленне",
@@ -29953,7 +29953,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DisGreensport",
-    "custom": "",
+    "custom": "Зялёныя спрэчкі",
     "en": "Greenspore",
     "ru": "Зеленые споры",
     "bel": "Зялёныя спрэчкі",
@@ -29962,7 +29962,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DisHelljoint",
-    "custom": "",
+    "custom": "Пякельная падагра",
     "en": "Helljoint",
     "ru": "Адская подагра",
     "bel": "Пякельная падагра",
@@ -29971,7 +29971,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DisRatBoneBreak",
-    "custom": "",
+    "custom": "Косткаламная ліхаманка",
     "en": "Bone Break Fever",
     "ru": "Костоломная лихорадка",
     "bel": "Косткаламная ліхаманка",
@@ -29980,7 +29980,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DisRatBrainRot",
-    "custom": "",
+    "custom": "Заум",
     "en": "Brain Rot",
     "ru": "Заумь",
     "bel": "Заум",
@@ -29989,7 +29989,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DisRatFeebleLimb",
-    "custom": "",
+    "custom": "Нямоглыя канцавіны",
     "en": "Feeble Limb",
     "ru": "Немощные конечности",
     "bel": "Нямоглыя канцавіны",
@@ -29998,7 +29998,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DisRatRedRage",
-    "custom": "",
+    "custom": "Чырвоная лютасць",
     "en": "Red Rage",
     "ru": "Красное бешенство",
     "bel": "Чырвоны шаленства",
@@ -30007,7 +30007,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DisRatShakes",
-    "custom": "",
+    "custom": "Дрыжыкі",
     "en": "Shakes",
     "ru": "Озноб",
     "bel": "Дрыжыкі",
@@ -30016,7 +30016,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DisRatWitlessPox",
-    "custom": "",
+    "custom": "Знясіленне мозгу",
     "en": "Witless Pox",
     "ru": "Иссушение мозга",
     "bel": "Знясіленне мозгу",
@@ -30025,7 +30025,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DisRattles",
-    "custom": "",
+    "custom": "Хрыпунец",
     "en": "Rattles",
     "ru": "Хрипунец",
     "bel": "Хрыпунец",
@@ -30034,7 +30034,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DisRockjoint",
-    "custom": "",
+    "custom": "Каменная падагра",
     "en": "Rockjoint",
     "ru": "Каменная подагра",
     "bel": "Каменная падагра",
@@ -30043,7 +30043,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DisRustChancre",
-    "custom": "",
+    "custom": "Іржавыя плямы",
     "en": "Rust Chancre",
     "ru": "Ржавые пятна",
     "bel": "Іржавыя плямы",
@@ -30052,7 +30052,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DisSerpiginousDementia",
-    "custom": "",
+    "custom": "Змяіная дэменцыя",
     "en": "Serpiginous Dementia",
     "ru": "Ползучее слабоумие",
     "bel": "Паўзучае прыдуркаватасць",
@@ -30061,7 +30061,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DisTickleBritch",
-    "custom": "",
+    "custom": "Короста",
     "en": "Ticklebritch",
     "ru": "Чесотка",
     "bel": "Короста",
@@ -30070,7 +30070,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DisWitbane",
-    "custom": "",
+    "custom": "Разрэджванне мозгу",
     "en": "Witbane",
     "ru": "Разжижение мозга",
     "bel": "Разрэджванне мозгу",
@@ -30079,7 +30079,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DisWither",
-    "custom": "",
+    "custom": "Высушванне",
     "en": "Wither",
     "ru": "Иссушение",
     "bel": "Высушванне",
@@ -30088,7 +30088,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DisZombieDread",
-    "custom": "",
+    "custom": "Астральныя пары",
     "en": "Astral Vapors",
     "ru": "Астральные пары",
     "bel": "Астральныя пары",
@@ -30097,7 +30097,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Disease",
-    "custom": "",
+    "custom": "Прывітанні гульцу пры хваробе",
     "en": "Hellos to player when diseased",
     "ru": "Приветствия игроку при болезни",
     "bel": "Прывітанні гульцу пры хваробе",
@@ -30106,7 +30106,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DiveRock",
-    "custom": "",
+    "custom": "Уцёс для нырання",
     "en": "Dive Rock",
     "ru": "Утёс для ныряния",
     "bel": "Уцёс для нырання",
@@ -30115,7 +30115,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DiveRockHorror",
-    "custom": "",
+    "custom": "Удурфрукт-матрона",
     "en": "Uderfrykte Matron",
     "ru": "Удурфрукт-матрона",
     "bel": "Удурфрукт-матрона",
@@ -30124,7 +30124,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DivineEleganceKey",
-    "custom": "",
+    "custom": "Ключ ад \"Боскай элегантнасці\"",
     "en": "Divine Elegance Key",
     "ru": "Ключ от \"Бож. элегантности\"",
     "bel": "Ключ ад \"Бож. элегантнасці\"",
@@ -30133,7 +30133,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DivineGuidance",
-    "custom": "",
+    "custom": "Боскае кіраўніцтва",
     "en": "Divine Guidance",
     "ru": "Божественное руководство.",
     "bel": "Боскае кіраўніцтва.",
@@ -30142,7 +30142,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DivineGuidanceAkatosh",
-    "custom": "",
+    "custom": "Я павінен пагаварыць з Акатошам.",
     "en": "I must speak to Akatosh.",
     "ru": "Я должен поговорить с Akatosh.",
     "bel": "Я павінен пагаварыць з Akatosh.",
@@ -30151,7 +30151,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DivineGuidanceClosed",
-    "custom": "",
+    "custom": "Я ўжо зачыніў вароты.",
     "en": "I already closed the gate.",
     "ru": "Я уже закрыл ворота.",
     "bel": "Я ўжо зачыніў вароты.",
@@ -30160,7 +30160,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DivineGuidanceDoubt",
-    "custom": "",
+    "custom": "Ды ты гэта проста выдумляеш.",
     "en": "You're just making this up.",
     "ru": "Да ты это просто выдумываешь.",
     "bel": "Ды ты гэта проста выдумляеш.",
@@ -30169,7 +30169,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DivineGuidanceIlav",
-    "custom": "",
+    "custom": "Ілва Дралгонер мяне паслала.",
     "en": "Ilva Dralgoner sent me.",
     "ru": "Меня прислала Ilva Dralgoner.",
     "bel": "Мяне прыслала Ilva Dralgoner.",
@@ -30178,7 +30178,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DivineGuidanceSent",
-    "custom": "",
+    "custom": "Жофрэ мяне паслаў.",
     "en": "Jauffre sent me.",
     "ru": "Жоффре меня послал.",
     "bel": "Жофрэ мяне паслаў.",
@@ -30187,7 +30187,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DivineGuidanceSure",
-    "custom": "",
+    "custom": "Я паступлю, як вы прапануеце.",
     "en": "I'll do as you suggest.",
     "ru": "Я поступлю, как вы предлагаете.",
     "bel": "Я паступлю, як вы прапануеце.",
@@ -30196,7 +30196,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DivineGuidanceWillClose",
-    "custom": "",
+    "custom": "Я зачыню вароты.",
     "en": "I will close the gate.",
     "ru": "Я закрою ворота.",
     "bel": "Я зачыню вароты.",
@@ -30205,7 +30205,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DogCheydinhalFG",
-    "custom": "",
+    "custom": "Клансі",
     "en": "Clancy",
     "ru": "Кланси",
     "bel": "Клансі",
@@ -30214,7 +30214,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DogCheydinhalGanredhels02",
-    "custom": "",
+    "custom": "Месяц",
     "en": "Luna",
     "ru": "Луна",
     "bel": "Месяц",
@@ -30223,7 +30223,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DomicaRedwort",
-    "custom": "",
+    "custom": "Даміка Рэдворт",
     "en": "Domica Redwort",
     "ru": "Домика редворт",
     "bel": "Домік Рэдворт",
@@ -30232,7 +30232,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DontonFaction_LEVEL1_F",
-    "custom": "",
+    "custom": "Вялікая Мамачка",
     "en": "Big Mama",
     "ru": "Большая Мамочка",
     "bel": "Вялікая Мамачка",
@@ -30241,7 +30241,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DoomedMine",
-    "custom": "",
+    "custom": "Жахлівая шахта",
     "en": "Doomed Mine",
     "ru": "Страшная шахта",
     "bel": "Жахлівая шахта",
@@ -30250,7 +30250,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Doomstone01Lady",
-    "custom": "",
+    "custom": "Камень Лэдзі",
     "en": "Lady Stone",
     "ru": "Камень Леди",
     "bel": "Камень Лэдзі",
@@ -30259,7 +30259,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Doomstone01Lord",
-    "custom": "",
+    "custom": "Камень Лорда",
     "en": "Lord Stone",
     "ru": "Камень Лорда",
     "bel": "Камень Лорда",
@@ -30268,7 +30268,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Doomstone01Lover",
-    "custom": "",
+    "custom": "Камень Каханка",
     "en": "Lover Stone",
     "ru": "Камень Любовника",
     "bel": "Камень Каханка",
@@ -30277,7 +30277,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Doomstone01Ritual",
-    "custom": "",
+    "custom": "Камень Рытуалу",
     "en": "Ritual Stone",
     "ru": "Камень Ритуала",
     "bel": "Камень Рытуалу",
@@ -30286,7 +30286,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Doomstone01Serpent",
-    "custom": "",
+    "custom": "Камень Змяі",
     "en": "Serpent Stone",
     "ru": "Камень Змея",
     "bel": "Камень Змяі",
@@ -30295,7 +30295,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Doomstone01Shadow",
-    "custom": "",
+    "custom": "Камень Ценю",
     "en": "Shadow Stone",
     "ru": "Камень Тени",
     "bel": "Камень Ценю",
@@ -30304,7 +30304,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Doomstone02Jone",
-    "custom": "",
+    "custom": "Камень Джоўн",
     "en": "Jone Stone",
     "ru": "Камень Джоун",
     "bel": "Камень Джоўн",
@@ -30313,7 +30313,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Doomstone04Jode",
-    "custom": "",
+    "custom": "Камень Джоўд",
     "en": "Jode Stone",
     "ru": "Камень Джоуд",
     "bel": "Камень Джоўд",
@@ -30322,7 +30322,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Doomstone05Sithian",
-    "custom": "",
+    "custom": "Сітыянскі камень",
     "en": "Sithian Stone",
     "ru": "Ситианский камень",
     "bel": "Сітыянскі камень",
@@ -30331,7 +30331,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Doomstone08Dragon",
-    "custom": "",
+    "custom": "Камень Цмока",
     "en": "Dragon Stone",
     "ru": "Камень Дракона",
     "bel": "Камень Цмока",
@@ -30340,7 +30340,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DoomstoneAetherius",
-    "custom": "",
+    "custom": "Брама Этэрыуса",
     "en": "Gates of Aetherius",
     "ru": "Врата Этериуса",
     "bel": "Брама Этэрыуса",
@@ -30349,7 +30349,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DoomstoneAtronach",
-    "custom": "",
+    "custom": "Чароўная крыніца",
     "en": "Arcane Well",
     "ru": "Волшебный источник",
     "bel": "Чароўная крыніца",
@@ -30358,7 +30358,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DoomstoneDragon",
-    "custom": "",
+    "custom": "Сон Цмока",
     "en": "Dragon Dream",
     "ru": "Сон Дракона",
     "bel": "Сон Цмока",
@@ -30367,7 +30367,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DoomstoneJode",
-    "custom": "",
+    "custom": "Кроў Джоўд",
     "en": "Jode's Blood",
     "ru": "Кровь Джоуд",
     "bel": "Кроў Джоўд",
@@ -30376,7 +30376,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DoomstoneJone",
-    "custom": "",
+    "custom": "Цень Джоўн",
     "en": "Jone's Shadow",
     "ru": "Тень Джоун",
     "bel": "Цень Джоўн",
@@ -30385,7 +30385,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DoomstoneLady",
-    "custom": "",
+    "custom": "Апека Лэдзі",
     "en": "Lady's Warding",
     "ru": "Опека Леди",
     "bel": "Апека Лэдзі",
@@ -30394,7 +30394,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DoomstoneLord",
-    "custom": "",
+    "custom": "Луска Ісміра",
     "en": "Ysmir's Scales",
     "ru": "Чешуя Исмира",
     "bel": "Луска Ісміра",
@@ -30403,7 +30403,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DoomstoneLover",
-    "custom": "",
+    "custom": "Жытло Каханка",
     "en": "Lover's Bower",
     "ru": "Обитель Любовника",
     "bel": "Жытло Каханка",
@@ -30412,7 +30412,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DoomstoneMage",
-    "custom": "",
+    "custom": "Плынь магіі",
     "en": "Magicka Manifold",
     "ru": "Поток магии",
     "bel": "Плынь магіі",
@@ -30421,7 +30421,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DoomstoneMagnus",
-    "custom": "",
+    "custom": "Нітка Магнуса",
     "en": "Skein of Magnus",
     "ru": "Пряжа Магнуса",
     "bel": "Нітка Магнуса",
@@ -30430,7 +30430,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DoomstoneRitualMarasMercy",
-    "custom": "",
+    "custom": "Міласэрнасць Мары",
     "en": "Mara's Mercy",
     "ru": "Милосердие Мары",
     "bel": "Міласэрнасць Мары",
@@ -30439,7 +30439,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DoomstoneShadow",
-    "custom": "",
+    "custom": "Месяцовы кіпцюр",
     "en": "Fingernail Moon",
     "ru": "Лунный коготь",
     "bel": "Месяцовы кіпцюр",
@@ -30448,7 +30448,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DoomstoneSithian",
-    "custom": "",
+    "custom": "Сітыянская сетка",
     "en": "Sithian Web",
     "ru": "Ситианская сеть",
     "bel": "Сітыянская сетка",
@@ -30457,7 +30457,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DoomstoneSteed",
-    "custom": "",
+    "custom": "Шаленая скачка",
     "en": "Hellride",
     "ru": "Бешеная скачка",
     "bel": "Шаленая скачка",
@@ -30466,7 +30466,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DoomstoneThief",
-    "custom": "",
+    "custom": "Трук махляра",
     "en": "Cheater's Nip",
     "ru": "Трюк мошенника",
     "bel": "Трук махляра",
@@ -30475,7 +30475,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DoortoCyrodiil",
-    "custom": "",
+    "custom": "Брама ў Сайрадыіл",
     "en": "Door to Cyrodiil",
     "ru": "Врата в Cyrodiil",
     "bel": "Брама ў Cyrodiil",
@@ -30484,7 +30484,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DoranFamilyFaction",
-    "custom": "",
+    "custom": "Сям'я Даранаў DoranFamilyFaction",
     "en": "DoranFamilyFaction",
     "ru": "Семейство Доранов DoranFamilyFaction",
     "bel": "Сям'я Даранаў DoranFamilyFaction",
@@ -30493,7 +30493,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DovesiDran",
-    "custom": "",
+    "custom": "Давесі Дран",
     "en": "Dovesi Dran",
     "ru": "Довеси Дран",
     "bel": "Давесі Дран",
@@ -30502,7 +30502,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DovesiDranTopic",
-    "custom": "",
+    "custom": "Давесі Дран",
     "en": "Dovesi Dran",
     "ru": "Довеси Дран",
     "bel": "Давесі Дран",
@@ -30511,7 +30511,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DovynArenFaction",
-    "custom": "",
+    "custom": "Фракцыя Довіна Арэна",
     "en": "Dovyn Aren Faction",
     "ru": "Фракция Dovyn Aren",
     "bel": "Фракцыя Dovyn Aren",
@@ -30520,7 +30520,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DraconianMadstoneTopic",
-    "custom": "",
+    "custom": "Цмокавы камень",
     "en": "Draconian Madstone",
     "ru": "Драконий камень",
     "bel": "Цмокавы камень",
@@ -30529,7 +30529,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DraconisFamilyFaction",
-    "custom": "",
+    "custom": "Фракцыя сям'і Драконіс",
     "en": "Draconis Family Faction",
     "ru": "Фракция Семейства Draconis",
     "bel": "Фракцыя Сям'і Draconis",
@@ -30538,7 +30538,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DragonclawRock",
-    "custom": "",
+    "custom": "Цмокавы Уцёс",
     "en": "Dragonclaw Rock",
     "ru": "Драконий Утёс",
     "bel": "Цмокавы Уцёс",
@@ -30547,7 +30547,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DragonfiresTopic",
-    "custom": "",
+    "custom": "Цмокавае святло",
     "en": "Dragonfires",
     "ru": "Драконьи огни",
     "bel": "Цмокавае святло",
@@ -30556,7 +30556,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DragonsTongue",
-    "custom": "",
+    "custom": "Мова цмока",
     "en": "Dragon's Tongue",
     "ru": "Язык дракона",
     "bel": "Мова цмока",
@@ -30565,7 +30565,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DragonsTonguePlant",
-    "custom": "",
+    "custom": "Расліна Мова цмока",
     "en": "Dragon's Tongue Plant",
     "ru": "Язык дракона",
     "bel": "Мова цмока",
@@ -30574,7 +30574,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Drakelowe",
-    "custom": "",
+    "custom": "Дрэйклоў",
     "en": "Drakelowe",
     "ru": "Дрейклоу",
     "bel": "Дрэйклоў",
@@ -30583,7 +30583,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DrakeloweFarm",
-    "custom": "",
+    "custom": "Дрэйклоў",
     "en": "Drakelowe",
     "ru": "Дрейклоу",
     "bel": "Дрэйклоў",
@@ -30592,7 +30592,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DrakeloweFarmBasement",
-    "custom": "",
+    "custom": "Дрэйклоў — падвал",
     "en": "Drakelowe Basement",
     "ru": "Дрейклоу - Подвал",
     "bel": "Дрэйклоў - Падвал",
@@ -30601,7 +30601,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DrakeloweFarmCOPY0000",
-    "custom": "",
+    "custom": "Дрэйклоў",
     "en": "Drakelowe",
     "ru": "Дрейклоу",
     "bel": "Дрэйклоў",
@@ -30610,7 +30610,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DrakeloweRegion",
-    "custom": "",
+    "custom": "Дрэйклоў",
     "en": "Drakelowe",
     "ru": "Дрейклоу",
     "bel": "Дрэйклоў",
@@ -30619,7 +30619,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DraloraAthram",
-    "custom": "",
+    "custom": "Дралора Атрам",
     "en": "Dralora Athram",
     "ru": "Дралора Атрам",
     "bel": "Дралора Атрам",
@@ -30628,7 +30628,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DraranaThelis",
-    "custom": "",
+    "custom": "Дранара Тэліс",
     "en": "Drarana Thelis",
     "ru": "Дранара Телис",
     "bel": "Дранара Тэліс",
@@ -30826,7 +30826,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DrawerTopClutterMiddle01",
-    "custom": "",
+    "custom": "Скрыня",
     "en": "Drawer",
     "ru": "Ящик",
     "bel": "Скрыня",
@@ -30835,7 +30835,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DrawerTopVendorSmithArmor",
-    "custom": "",
+    "custom": "Скрыня",
     "en": "Drawer",
     "ru": "Ящик",
     "bel": "Скрыня",
@@ -30853,7 +30853,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DreamHub",
-    "custom": "",
+    "custom": "Мроі Хенанцьера",
     "en": "Henantier's Dream",
     "ru": "Грезы Хенантьера",
     "bel": "Мроі Хенанцьера",
@@ -30862,7 +30862,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DreamWorld",
-    "custom": "",
+    "custom": "Выпрабаванне рашучасці",
     "en": "Test of Resolve",
     "ru": "Испытание решимости",
     "bel": "Выпрабаванне рашучасці",
@@ -30871,7 +30871,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DreamWorld02",
-    "custom": "",
+    "custom": "Грот мужнасці",
     "en": "Grotto of Courage",
     "ru": "Грот мужества",
     "bel": "Грот мужнасці",
@@ -30880,7 +30880,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DreamofCourage",
-    "custom": "",
+    "custom": "Выпрабаванне мужнасці",
     "en": "Test of Courage",
     "ru": "Испытание мужества",
     "bel": "Выпрабаванне мужнасці",
@@ -30889,7 +30889,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DreamofPatience",
-    "custom": "",
+    "custom": "Выпрабаванне цярпення",
     "en": "Test of Patience",
     "ru": "Испытание терпения",
     "bel": "Выпрабаванне цярпення",
@@ -30898,7 +30898,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DreamofPerception",
-    "custom": "",
+    "custom": "Выпрабаванне ўспрымання",
     "en": "Test of Perception",
     "ru": "Испытание восприятия",
     "bel": "Выпрабаванне ўспрымання",
@@ -30907,7 +30907,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DreamwalkCamp",
-    "custom": "",
+    "custom": "Лагер \"Снахаджэнне\"",
     "en": "Dreamwalk Camp",
     "ru": "Лагерь \"Dreamwalk\"",
     "bel": "Лагер \"Dreamwalk\"",
@@ -30916,7 +30916,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DreetLai",
-    "custom": "",
+    "custom": "Дрыт-Лэ",
     "en": "Dreet-Lai",
     "ru": "Дрит-Лэ",
     "bel": "Дрыт-Лэ",
@@ -30925,7 +30925,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DrelsTheran",
-    "custom": "",
+    "custom": "Дрэлс Тэран",
     "en": "Drels Theran",
     "ru": "Дрелс Теран",
     "bel": "Дрэлс Тэран",
@@ -30934,7 +30934,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora0ChurlBoots",
-    "custom": "",
+    "custom": "Боты дрэмора-керла",
     "en": "Dremora Churl Boots",
     "ru": "Сапоги дремора-керла",
     "bel": "Боты дрэмора-керла",
@@ -30943,7 +30943,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora0ChurlCuirass",
-    "custom": "",
+    "custom": "Кіраса дрэмора-керла",
     "en": "Dremora Churl Cuirass",
     "ru": "Кираса дремора-керла",
     "bel": "Кіраса дрэмора-керла",
@@ -30952,7 +30952,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora0ChurlGreaves",
-    "custom": "",
+    "custom": "Нажныя латы дрэмора-керла",
     "en": "Dremora Churl Greaves",
     "ru": "Поножи дремора-керла",
     "bel": "Нажныя латы дрэмора-керла",
@@ -31051,7 +31051,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora0ChurlRobe",
-    "custom": "",
+    "custom": "Адзенне дрэмора-керла",
     "en": "Dremora Churl Robe",
     "ru": "Роба дремора-керла",
     "bel": "Адзенне дрэмора-керла",
@@ -31060,7 +31060,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora1CaitiffBoots",
-    "custom": "",
+    "custom": "Боты дрэмора-кайтыфа",
     "en": "Dremora Caitiff Boots",
     "ru": "Сапоги дремора-кайтифа",
     "bel": "Боты дрэмора-кайтыфа",
@@ -31069,7 +31069,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora1CaitiffCuirass",
-    "custom": "",
+    "custom": "Кіраса дрэмора-кайтыфа",
     "en": "Dremora Caitiff Cuirass",
     "ru": "Кираса дремора-кайтифа",
     "bel": "Кіраса дрэмора-кайтыфа",
@@ -31078,7 +31078,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora1CaitiffGreaves",
-    "custom": "",
+    "custom": "Нажныя латы дрэмора-кайтыфа",
     "en": "Dremora Caitiff Greaves",
     "ru": "Поножи дремора-кайтиффа",
     "bel": "Нажныя латы дрэмора-кайтыфа",
@@ -31087,7 +31087,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora1CaitiffHelmet",
-    "custom": "",
+    "custom": "Шлем дрэмора-кайтыфа",
     "en": "Dremora Caitiff Helmet",
     "ru": "Шлем дремора-кайтиффа",
     "bel": "Шлем дрэмора-кайтыфа",
@@ -31186,7 +31186,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora1CaitiffRobe",
-    "custom": "",
+    "custom": "Адзенне дрэмора-кайтыфа",
     "en": "Dremora Caitiff Robe",
     "ru": "Роба дремора-кайтифа",
     "bel": "Адзенне дрэмора-кайтыфа",
@@ -31195,7 +31195,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora1CaitiffShield",
-    "custom": "",
+    "custom": "Шчыт дрэмора-кайтыфа",
     "en": "Dremora Caitiff Shield",
     "ru": "Щит дремора кайтифа",
     "bel": "Шчыт дрэмора кайтыфа",
@@ -31204,7 +31204,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora2KynvalBoots",
-    "custom": "",
+    "custom": "Боты дрэмора-кінвала",
     "en": "Dremora Kynval Boots",
     "ru": "Сапоги дремора-кинвала",
     "bel": "Боты дрэмора-кінвала",
@@ -31213,7 +31213,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora2KynvalCuirass",
-    "custom": "",
+    "custom": "Кіраса дрэмора-кінвала",
     "en": "Dremora Kynval Cuirass",
     "ru": "Кираса дремора-кинвала",
     "bel": "Кіраса дрэмора-кінвала",
@@ -31222,7 +31222,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora2KynvalGreaves",
-    "custom": "",
+    "custom": "Нажныя латы дрэмора-кінвала",
     "en": "Dremora Kynval Greaves",
     "ru": "Поножи дремора-кинвала",
     "bel": "Нажныя латы дрэмора-кінвала",
@@ -31231,7 +31231,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora2KynvalHelmet",
-    "custom": "",
+    "custom": "Шлем дрэмора-кінвала",
     "en": "Dremora Kynval Helmet",
     "ru": "Шлем дремора-кинвала",
     "bel": "Шлем дрэмора-кінвала",
@@ -31330,7 +31330,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora2KynvalRobe",
-    "custom": "",
+    "custom": "Адзенне дрэмора-кінвала",
     "en": "Dremora Kynval Robe",
     "ru": "Роба дремора-кинвала",
     "bel": "Адзенне дрэмора-кінвала",
@@ -31339,7 +31339,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora3KynreeveBoots",
-    "custom": "",
+    "custom": "Боты дрэмора-кінрыва",
     "en": "Dremora Kynreeve Boots",
     "ru": "Сапоги дремора-кинрива",
     "bel": "Боты дрэмора-кінрыва",
@@ -31348,7 +31348,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora3KynreeveCuirass",
-    "custom": "",
+    "custom": "Кіраса дрэмора-кінрыва",
     "en": "Dremora Kynreeve Cuirass",
     "ru": "Кираса дремора-кинрива",
     "bel": "Кіраса дрэмора-кінрыва",
@@ -31357,7 +31357,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora3KynreeveGreaves",
-    "custom": "",
+    "custom": "Нажныя латы дрэмора-кінрыва",
     "en": "Dremora Kynreeve Greaves",
     "ru": "Поножи дремора-кинрива",
     "bel": "Нажныя латы дрэмора-кінрыва",
@@ -31366,7 +31366,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora3KynreeveHelmet",
-    "custom": "",
+    "custom": "Шлем дрэмора-кінрыва",
     "en": "Dremora Kynreeve Helmet",
     "ru": "Шлем дремора-кинрива",
     "bel": "Шлем дрэмора-кінрыва",
@@ -31375,7 +31375,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora3KynreeveMage",
-    "custom": "",
+    "custom": "Дрэмора-кінрыў",
     "en": "Dremora Kynreeve",
     "ru": "Дремора-кинрив",
     "bel": "Дрэмора-кінрыў",
@@ -31384,7 +31384,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora3KynreeveMageNOSUMMON",
-    "custom": "",
+    "custom": "Дрэмора-кінрыў",
     "en": "Dremora Kynreeve",
     "ru": "Дремора-кинрив",
     "bel": "Дрэмора-кінрыў",
@@ -31393,7 +31393,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora3KynreeveMelee1",
-    "custom": "",
+    "custom": "Дрэмора-кінрыў",
     "en": "Dremora Kynreeve",
     "ru": "Дремора-кинрив",
     "bel": "Дрэмора-кінрыў",
@@ -31402,7 +31402,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora3KynreeveMelee2",
-    "custom": "",
+    "custom": "Дрэмора-кінрыў",
     "en": "Dremora Kynreeve",
     "ru": "Дремора-кинрив",
     "bel": "Дрэмора-кінрыў",
@@ -31411,7 +31411,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora3KynreeveMelee3",
-    "custom": "",
+    "custom": "Дрэмора-кінрыў",
     "en": "Dremora Kynreeve",
     "ru": "Дремора-кинрив",
     "bel": "Дрэмора-кінрыў",
@@ -31420,7 +31420,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora3KynreeveMeleeNOSUMMON",
-    "custom": "",
+    "custom": "Дрэмора-кінрыў",
     "en": "Dremora Kynreeve",
     "ru": "Дремора-кинрив",
     "bel": "Дрэмора-кінрыў",
@@ -31429,7 +31429,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora3KynreeveMissile1",
-    "custom": "",
+    "custom": "Дрэмора-кінрыў",
     "en": "Dremora Kynreeve",
     "ru": "Дремора-кинрив",
     "bel": "Дрэмора-кінрыў",
@@ -31438,7 +31438,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora3KynreeveMissile2",
-    "custom": "",
+    "custom": "Дрэмора-кінрыў",
     "en": "Dremora Kynreeve",
     "ru": "Дремора-кинрив",
     "bel": "Дрэмора-кінрыў",
@@ -31447,7 +31447,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora3KynreeveMissile3",
-    "custom": "",
+    "custom": "Дрэмора-кінрыў",
     "en": "Dremora Kynreeve",
     "ru": "Дремора-кинрив",
     "bel": "Дрэмора-кінрыў",
@@ -31456,7 +31456,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora3KynreeveMissileNOSUMMON",
-    "custom": "",
+    "custom": "Дрэмора-кінрыў",
     "en": "Dremora Kynreeve",
     "ru": "Дремора-кинрив",
     "bel": "Дрэмора-кінрыў",
@@ -31465,7 +31465,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora3KynreeveRobe",
-    "custom": "",
+    "custom": "Адзенне дрэмора-кінрыва",
     "en": "Dremora Kynreeve Robe",
     "ru": "Роба дремора-кинрива",
     "bel": "Адзенне дрэмора-кінрыва",
@@ -31474,7 +31474,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora4KynmarcherBoots",
-    "custom": "",
+    "custom": "Боты дрэмора-кінмаршэра",
     "en": "Dremora Kynmarcher Boots",
     "ru": "Сапоги дремора-кинмаршера",
     "bel": "Боты дрэмора-кінмаршэра",
@@ -31483,7 +31483,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora4KynmarcherCuirass",
-    "custom": "",
+    "custom": "Кіраса дрэмора-кінмаршэра",
     "en": "Dremora Kynmarcher Cuirass",
     "ru": "Кираса дремора-кинмаршера",
     "bel": "Кіраса дрэмора-кінмаршэра",
@@ -31492,7 +31492,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora4KynmarcherGreaves",
-    "custom": "",
+    "custom": "Нажныя латы дрэмора-кінмаршэра",
     "en": "Dremora Kynmarcher Greaves",
     "ru": "Поножи дремора-кинмаршера",
     "bel": "Нажныя латы дрэмора-кінмаршэра",
@@ -31501,7 +31501,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora4KynmarcherHelmet",
-    "custom": "",
+    "custom": "Шлем дрэмора-кінмаршэра",
     "en": "Dremora Kynmarcher Helmet",
     "ru": "Шлем дремора-кинмаршера",
     "bel": "Шлем дрэмора-кінмаршэра",
@@ -31510,7 +31510,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora4KynmarcherMage",
-    "custom": "",
+    "custom": "Дрэмора-кінмаршэр",
     "en": "Dremora Kynmarcher",
     "ru": "Дремора-кинмаршер",
     "bel": "Дрэмора-кінмаршэр",
@@ -31519,7 +31519,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora4KynmarcherMageNOSUMMON",
-    "custom": "",
+    "custom": "Дрэмора-кінмаршэр",
     "en": "Dremora Kynmarcher",
     "ru": "Дремора-кинмаршер",
     "bel": "Дрэмора-кінмаршэр",
@@ -31528,7 +31528,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora4KynmarcherMelee1",
-    "custom": "",
+    "custom": "Дрэмора-кінмаршэр",
     "en": "Dremora Kynmarcher",
     "ru": "Дремора-кинмаршер",
     "bel": "Дрэмора-кінмаршэр",
@@ -31537,7 +31537,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora4KynmarcherMelee2",
-    "custom": "",
+    "custom": "Дрэмора-кінмаршэр",
     "en": "Dremora Kynmarcher",
     "ru": "Дремора-кинмаршер",
     "bel": "Дрэмора-кінмаршэр",
@@ -31546,7 +31546,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora4KynmarcherMelee3",
-    "custom": "",
+    "custom": "Дрэмора-кінмаршэр",
     "en": "Dremora Kynmarcher",
     "ru": "Дремора-кинмаршер",
     "bel": "Дрэмора-кінмаршэр",
@@ -31555,7 +31555,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora4KynmarcherMeleeNOSUMMON",
-    "custom": "",
+    "custom": "Дрэмора-кінмаршэр",
     "en": "Dremora Kynmarcher",
     "ru": "Дремора-кинмаршер",
     "bel": "Дрэмора-кінмаршэр",
@@ -31564,7 +31564,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora4KynmarcherMissile1",
-    "custom": "",
+    "custom": "Дрэмора-кінмаршэр",
     "en": "Dremora Kynmarcher",
     "ru": "Дремора-кинмаршер",
     "bel": "Дрэмора-кінмаршэр",
@@ -31573,7 +31573,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora4KynmarcherMissile2",
-    "custom": "",
+    "custom": "Дрэмора-кінмаршэр",
     "en": "Dremora Kynmarcher",
     "ru": "Дремора-кинмаршер",
     "bel": "Дрэмора-кінмаршэр",
@@ -31582,7 +31582,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora4KynmarcherMissile3",
-    "custom": "",
+    "custom": "Дрэмора-кінмаршэр",
     "en": "Dremora Kynmarcher",
     "ru": "Дремора-кинмаршер",
     "bel": "Дрэмора-кінмаршэр",
@@ -31591,7 +31591,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora4KynmarcherMissileNOSUMMON",
-    "custom": "",
+    "custom": "Дрэмора-кінмаршэр",
     "en": "Dremora Kynmarcher",
     "ru": "Дремора-кинмаршер",
     "bel": "Дрэмора-кінмаршэр",
@@ -31600,7 +31600,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora4KynmarcherRobe",
-    "custom": "",
+    "custom": "Адзенне дрэмора-кінмаршэра",
     "en": "Dremora Kynmarcher Robe",
     "ru": "Роба дремора-кинмаршера",
     "bel": "Адзенне дрэмора-кінмаршэра",
@@ -31609,7 +31609,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora5MarkynazBoots",
-    "custom": "",
+    "custom": "Боты дрэмора-маркіназа",
     "en": "Dremora Markynaz Boots",
     "ru": "Сапоги дремора-маркиназа",
     "bel": "Боты дрэмора-маркіназа",
@@ -31618,7 +31618,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora5MarkynazCuirass",
-    "custom": "",
+    "custom": "Кіраса дрэмора-маркіназа",
     "en": "Dremora Markynaz Cuirass",
     "ru": "Кираса дремора-маркиназа",
     "bel": "Кіраса дрэмора-маркіназа",
@@ -31627,7 +31627,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora5MarkynazGreaves",
-    "custom": "",
+    "custom": "Нажныя латы дрэмора-маркіназа",
     "en": "Dremora Markynaz Greaves",
     "ru": "Поножи дремора-маркиназа",
     "bel": "Нажныя латы дрэмора-маркіназа",
@@ -31636,7 +31636,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora5MarkynazHelmet",
-    "custom": "",
+    "custom": "Шлем дрэмора-маркіназа",
     "en": "Dremora Kynmarcher Helmet",
     "ru": "Шлем дремора-маркиназа",
     "bel": "Шлем дрэмора-маркіназа",
@@ -31735,7 +31735,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora5MarkynazRobe",
-    "custom": "",
+    "custom": "Адзенне дрэмора-маркіназа",
     "en": "Dremora Markynaz Robe",
     "ru": "Роба дремора-маркиназа",
     "bel": "Адзенне дрэмора-маркіназа",
@@ -31744,7 +31744,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora6ValkynazMage",
-    "custom": "",
+    "custom": "Дрэмора-валкіназ",
     "en": "Dremora Valkynaz",
     "ru": "Дремора-валкиназ",
     "bel": "Дрэмора-валкіназ",
@@ -31753,7 +31753,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora6ValkynazMageNOSUMMON",
-    "custom": "",
+    "custom": "Дрэмора-валкіназ",
     "en": "Dremora Valkynaz",
     "ru": "Дремора-валкиназ",
     "bel": "Дрэмора-валкіназ",
@@ -31762,7 +31762,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora6ValkynazMelee1",
-    "custom": "",
+    "custom": "Дрэмора-валкіназ",
     "en": "Dremora Valkynaz",
     "ru": "Дремора-валкиназ",
     "bel": "Дрэмора-валкіназ",
@@ -31771,7 +31771,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora6ValkynazMelee2",
-    "custom": "",
+    "custom": "Дрэмора-валкіназ",
     "en": "Dremora Valkynaz",
     "ru": "Дремора-валкиназ",
     "bel": "Дрэмора-валкіназ",
@@ -31780,7 +31780,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora6ValkynazMelee3",
-    "custom": "",
+    "custom": "Дрэмора-валкіназ",
     "en": "Dremora Valkynaz",
     "ru": "Дремора-валкиназ",
     "bel": "Дрэмора-валкіназ",
@@ -31789,7 +31789,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora6ValkynazMeleeNOSUMMON",
-    "custom": "",
+    "custom": "Дрэмора-валкіназ",
     "en": "Dremora Valkynaz",
     "ru": "Дремора-валкиназ",
     "bel": "Дрэмора-валкіназ",
@@ -31798,7 +31798,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora6ValkynazMissile1",
-    "custom": "",
+    "custom": "Дрэмора-валкіназ",
     "en": "Dremora Valkynaz",
     "ru": "Дремора-валкиназ",
     "bel": "Дрэмора-валкіназ",
@@ -31807,7 +31807,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora6ValkynazMissile2",
-    "custom": "",
+    "custom": "Дрэмора-валкіназ",
     "en": "Dremora Valkynaz",
     "ru": "Дремора-валкиназ",
     "bel": "Дрэмора-валкіназ",
@@ -31816,7 +31816,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora6ValkynazMissile3",
-    "custom": "",
+    "custom": "Дрэмора-валкіназ",
     "en": "Dremora Valkynaz",
     "ru": "Дремора-валкиназ",
     "bel": "Дрэмора-валкіназ",
@@ -31825,7 +31825,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora6ValkynazMissileNOSUMMON",
-    "custom": "",
+    "custom": "Дрэмора-валкіназ",
     "en": "Dremora Valkynaz",
     "ru": "Дремора-валкиназ",
     "bel": "Дрэмора-валкіназ",
@@ -31834,7 +31834,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Dremora6ValkynazRobe",
-    "custom": "",
+    "custom": "Адзенне дрэмора-валкіназа",
     "en": "Dremora Valkynaz Robe",
     "ru": "Роба дремора-валкиназа",
     "bel": "Адзенне дрэмора-валкіназа",
@@ -31843,7 +31843,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraArrow1Field",
-    "custom": "",
+    "custom": "Дрэморская страла",
     "en": "Dremora Field Arrow",
     "ru": "Дреморская стрела",
     "bel": "Дрэморская страла",
@@ -31852,7 +31852,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraArrow2Broadhead",
-    "custom": "",
+    "custom": "Дрэморская шырокая страла",
     "en": "Dremora Broadhead Arrow",
     "ru": "Дреморская широкая стрела",
     "bel": "Дрэморская шырокая страла",
@@ -31861,7 +31861,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraArrow3Barbed",
-    "custom": "",
+    "custom": "Дрэморская страла з зазубрынамі",
     "en": "Dremora Barbed Arrow",
     "ru": "Дреморская стрела с зазубринами",
     "bel": "Дрэморская страла з зазубрынамі",
@@ -31870,7 +31870,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraBossHatredKeeper01",
-    "custom": "",
+    "custom": "Дрэмора — вартаўнік Нянавісці",
     "en": "Dremora Hatred Keeper",
     "ru": "Дремора - хранитель Ненависти",
     "bel": "Дрэмора - вартаўнік Нянавісці",
@@ -31879,7 +31879,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraBossHatredKeeper02",
-    "custom": "",
+    "custom": "Дрэмора — вартаўнік Нянавісці",
     "en": "Dremora Hatred Keeper",
     "ru": "Дремора - хранитель Ненависти",
     "bel": "Дрэмора - вартаўнік Нянавісці",
@@ -31888,7 +31888,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraBow1Light",
-    "custom": "",
+    "custom": "Дрэморскі лёгкі лук",
     "en": "Dremora Light Bow",
     "ru": "Дреморский легкий лук",
     "bel": "Дрэморскі лёгкі лук",
@@ -31897,7 +31897,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraBow2Normal",
-    "custom": "",
+    "custom": "Дрэморскі лук",
     "en": "Dremora Bow",
     "ru": "Дреморский лук",
     "bel": "Дрэморскі лук",
@@ -31906,7 +31906,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraBow3Heavy",
-    "custom": "",
+    "custom": "Дрэморскі цяжкі лук",
     "en": "Dremora Heavy Bow",
     "ru": "Дреморский тяжелый лук",
     "bel": "Дрэморскі цяжкі лук",
@@ -31915,7 +31915,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraClaymore",
-    "custom": "",
+    "custom": "Дрэморская клеймора",
     "en": "Dremora Claymore",
     "ru": "Дреморская клеймора",
     "bel": "Дрэморская клеймора",
@@ -31924,7 +31924,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraClaymoreEnchAbsorbHealth",
-    "custom": "",
+    "custom": "Адплата крыві",
     "en": "Retaliation of Blood",
     "ru": "Возмездие крови",
     "bel": "Адплата крыві",
@@ -31933,7 +31933,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraClaymoreEnchAbsorbMagicka",
-    "custom": "",
+    "custom": "Адплата духу",
     "en": "Retaliation of Spirit",
     "ru": "Возмездие духа",
     "bel": "Адплата духу",
@@ -31942,7 +31942,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraClaymoreEnchDmgAgi",
-    "custom": "",
+    "custom": "Пакаранне сквапнасці",
     "en": "Retribution of Rapacity",
     "ru": "Кара жадности",
     "bel": "Пакаранне сквапнасці",
@@ -31951,7 +31951,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraClaymoreEnchDmgHealthAndDmgMagicka",
-    "custom": "",
+    "custom": "Пакаранне здрады",
     "en": "Retribution of Treachery",
     "ru": "Кара предательства",
     "bel": "Пакаранне здрады",
@@ -31960,7 +31960,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraClaymoreEnchDmgPer",
-    "custom": "",
+    "custom": "Пакаранне крывадушнасці",
     "en": "Retribution of Hypocrisy",
     "ru": "Кара лицемерия",
     "bel": "Пакаранне крывадушнасці",
@@ -31969,7 +31969,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraClaymoreEnchDmgStr",
-    "custom": "",
+    "custom": "Пакаранне агрэсіі",
     "en": "Retribution of Aggression",
     "ru": "Кара агрессии",
     "bel": "Пакаранне агрэсіі",
@@ -31978,7 +31978,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraClaymoreEnchDmgWil",
-    "custom": "",
+    "custom": "Пакаранне ганарыстасці",
     "en": "Retribution of Hubris",
     "ru": "Кара гордыни",
     "bel": "Пакаранне ганарыстасці",
@@ -31987,7 +31987,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraClaymoreEnchDrainHvyArmAndDrainLitArm",
-    "custom": "",
+    "custom": "Пакаранне баязлівасці",
     "en": "Retribution of Cowardness",
     "ru": "Кара трусости",
     "bel": "Пакаранне баязлівасці",
@@ -31996,7 +31996,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraClaymoreEnchWeakFireAndFireDmg",
-    "custom": "",
+    "custom": "Абдымкі Забыцця",
     "en": "Oblivion's Embrace",
     "ru": "Объятия Обливиона",
     "bel": "Абдымкі Забыцця",
@@ -32005,7 +32005,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraFaction",
-    "custom": "",
+    "custom": "Кін",
     "en": "Kyn",
     "ru": "Кина",
     "bel": "Кіна",
@@ -32014,7 +32014,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraFaction_LEVEL0_F",
-    "custom": "",
+    "custom": "Керл",
     "en": "Churl",
     "ru": "Чурбан",
     "bel": "Кеп",
@@ -32023,7 +32023,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraFaction_LEVEL0_M",
-    "custom": "",
+    "custom": "Керл",
     "en": "Churl",
     "ru": "Хам",
     "bel": "Хам",
@@ -32032,7 +32032,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraFaction_LEVEL1_F",
-    "custom": "",
+    "custom": "Кайтыф",
     "en": "Caitiff",
     "ru": "Изгой",
     "bel": "Выгнанец",
@@ -32041,7 +32041,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraFaction_LEVEL1_M",
-    "custom": "",
+    "custom": "Кайтыф",
     "en": "Caitiff",
     "ru": "Презренный",
     "bel": "Пагарджаны",
@@ -32050,7 +32050,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraFaction_LEVEL2_F",
-    "custom": "",
+    "custom": "Кінвал",
     "en": "Kynval",
     "ru": "Кюнвал",
     "bel": "Кюнвал",
@@ -32059,7 +32059,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraFaction_LEVEL2_M",
-    "custom": "",
+    "custom": "Кінвал",
     "en": "Kynval",
     "ru": "Кынвал",
     "bel": "Кынвал",
@@ -32068,7 +32068,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraFaction_LEVEL3_F",
-    "custom": "",
+    "custom": "Кінрыў",
     "en": "Kynreeve",
     "ru": "Киндрив",
     "bel": "Кіндрыў",
@@ -32077,7 +32077,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraFaction_LEVEL3_M",
-    "custom": "",
+    "custom": "Кінрыў",
     "en": "Kynreeve",
     "ru": "Кинрив",
     "bel": "Кінрыў",
@@ -32086,7 +32086,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraHairB",
-    "custom": "",
+    "custom": "Валасы дрэмора B",
     "en": "DremoraHairB",
     "ru": "Волосы ДремораB",
     "bel": "Валасы ДрэмораB",
@@ -32095,7 +32095,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraHairLord",
-    "custom": "",
+    "custom": "Валасы лорда дрэмора",
     "en": "DremoraHairLord",
     "ru": "Повелитель волос дремора",
     "bel": "Уладар валасоў дрэмора",
@@ -32104,7 +32104,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraLongSword",
-    "custom": "",
+    "custom": "Дрэморскі доўгі меч",
     "en": "Dremora Longsword",
     "ru": "Дреморский длинный меч",
     "bel": "Дрэморскі доўгі меч",
@@ -32113,7 +32113,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraLongSwordEncDrainBladeAndDrainBlunt",
-    "custom": "",
+    "custom": "Пакута злосці",
     "en": "Penance of Animosity",
     "ru": "Епитимья злобы",
     "bel": "Пакута злосці",
@@ -32122,7 +32122,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraLongSwordEnchDrainAgiAndDrainSpe",
-    "custom": "",
+    "custom": "Пакута крадзяжу",
     "en": "Penance of Larceny",
     "ru": "Епитимья воровства",
     "bel": "Пакута крадзяжу",
@@ -32131,7 +32131,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraLongSwordEnchDrainHealthAndDrainMagicka",
-    "custom": "",
+    "custom": "Пакута здрады",
     "en": "Penance of Faithlessness",
     "ru": "Епитимья измены",
     "bel": "Пакута здрады",
@@ -32140,7 +32140,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraLongSwordEnchDrainPerAndDrainLuc",
-    "custom": "",
+    "custom": "Пакута падману",
     "en": "Penance of Deception",
     "ru": "Епитимья обмана",
     "bel": "Пакута падману",
@@ -32149,7 +32149,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraLongSwordEnchDrainStrAndDrainEnd",
-    "custom": "",
+    "custom": "Пакута нянавісці",
     "en": "Penance of Hatred",
     "ru": "Епитимья ненависти",
     "bel": "Пакута нянавісці",
@@ -32158,7 +32158,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraLongSwordEnchDrainWilAndDrainInt",
-    "custom": "",
+    "custom": "Пакута ганарыстасці",
     "en": "Penance of Pride",
     "ru": "Епитимья гордыни",
     "bel": "Пакута ганарыстасці",
@@ -32167,7 +32167,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraLongSwordEnchWeakFire",
-    "custom": "",
+    "custom": "Жар грэшнасці",
     "en": "Heat of Sinfulness",
     "ru": "Жар греховности",
     "bel": "Жар грэшнасці",
@@ -32176,7 +32176,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraLongSwordEnchWeakFireAndFireDmg",
-    "custom": "",
+    "custom": "Ласка Забыцця",
     "en": "Oblivion's Caress",
     "ru": "Ласка Обливиона",
     "bel": "Ласка Забыцця",
@@ -32185,7 +32185,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraMace",
-    "custom": "",
+    "custom": "Дрэморская булава",
     "en": "Dremora Mace",
     "ru": "Дреморская булава",
     "bel": "Дрэморская булава",
@@ -32194,7 +32194,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraMaceEnchBurden",
-    "custom": "",
+    "custom": "Цяжар віны",
     "en": "Weight of Guilt",
     "ru": "Тяжесть вины",
     "bel": "Цяжар віны",
@@ -32203,7 +32203,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraMaceEnchDrainAgi",
-    "custom": "",
+    "custom": "Ноша таямніцы",
     "en": "Burden of Secrecy",
     "ru": "Ноша тайны",
     "bel": "Ноша таямніцы",
@@ -32212,7 +32212,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraMaceEnchDrainFatigue",
-    "custom": "",
+    "custom": "Ноша граху",
     "en": "Burden of Sin",
     "ru": "Ноша греха",
     "bel": "Ноша граху",
@@ -32221,7 +32221,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraMaceEnchDrainHealth",
-    "custom": "",
+    "custom": "Ноша плоці",
     "en": "Burden of Flesh",
     "ru": "Ноша плоти",
     "bel": "Ноша плоці",
@@ -32230,7 +32230,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraMaceEnchDrainMagicka",
-    "custom": "",
+    "custom": "Ноша агнастыцызму",
     "en": "Burden of Agnosticism",
     "ru": "Ноша агностицизма",
     "bel": "Ноша агнастыцызму",
@@ -32239,7 +32239,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraMaceEnchDrainStr",
-    "custom": "",
+    "custom": "Ноша гневу",
     "en": "Burden of Anger",
     "ru": "Ноша гнева",
     "bel": "Ноша гневу",
@@ -32248,7 +32248,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraMaceEnchDrainWil",
-    "custom": "",
+    "custom": "Ноша самаўзвышэння",
     "en": "Burden of Arrogance",
     "ru": "Ноша высокомерия",
     "bel": "Ноша самаўзвышэння",
@@ -32257,7 +32257,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraMaceEnchFireDmg",
-    "custom": "",
+    "custom": "Дар полымя",
     "en": "Gift of Flame",
     "ru": "Дар пламени",
     "bel": "Дар полымя",
@@ -32266,7 +32266,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraMaceEnchLightAndDrainIllusion",
-    "custom": "",
+    "custom": "Выяўленне граху",
     "en": "Revealer of Iniquity",
     "ru": "Обнаружение греха",
     "bel": "Выяўленне граху",
@@ -32275,7 +32275,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DremoraMageClass",
-    "custom": "",
+    "custom": "Дрэмора-маг",
     "en": "Dremora Mage",
     "ru": "Дремора-маг",
     "bel": "Дрэмора-маг",
@@ -32284,7 +32284,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DreughWax",
-    "custom": "",
+    "custom": "Дрэугскі воск",
     "en": "Dreugh Wax",
     "ru": "Дреугский воск",
     "bel": "Дрэугскі воск",
@@ -32293,7 +32293,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DrinkArgonianBloodwine",
-    "custom": "",
+    "custom": "Аргоніанскае крывавае віно",
     "en": "Argonian Bloodwine",
     "ru": "Аргонианское Кровавое вино",
     "bel": "Аргоніанскае Крывавае віно",
@@ -32302,7 +32302,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DrinkColovianBattleCry",
-    "custom": "",
+    "custom": "Калавіянскі баявы кліч",
     "en": "Colovian Battlecry",
     "ru": "Боевой клич коловианцев",
     "bel": "Баявы кліч калавіянцаў",
@@ -32311,7 +32311,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DrinkFrostdewBlanc",
-    "custom": "",
+    "custom": "Марозная раса Блан",
     "en": "Frostdew Blanc",
     "ru": "Ледяная Белизна",
     "bel": "Ледзяная Белізна",
@@ -32320,7 +32320,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DrinkJulianosFirebelly",
-    "custom": "",
+    "custom": "Джуліянас Агнябрухі",
     "en": "Julianos Firebelly",
     "ru": "Жулианос Огненное Брюхо",
     "bel": "Жуліанос Вогненнае Бруха",
@@ -32329,7 +32329,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DrinkNumbskinMead",
-    "custom": "",
+    "custom": "Мёд «Здранцвенне скуры»",
     "en": "Numbskin Mead",
     "ru": "Медовуха «Олух Царя Небесного»",
     "bel": "Мядовуха «Алух Цара Нябеснага»",
@@ -32338,7 +32338,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DrinkStumblefootsReserve",
-    "custom": "",
+    "custom": "Запаведнік Стамблфута",
     "en": "Stumblefoot's Reserve",
     "ru": "Заповедник Стамблфута",
     "bel": "Запаведнік Стамблфута",
@@ -32347,7 +32347,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DrinkWine1SurilieGood",
-    "custom": "",
+    "custom": "Віно братоў Сурылі",
     "en": "Surilie Brothers Wine",
     "ru": "Вино братьев Сурили",
     "bel": "Віно братоў Сурылі",
@@ -32356,7 +32356,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DrinkWine2TamikaGood",
-    "custom": "",
+    "custom": "Віно Заходняга Вельда Тамікі",
     "en": "Tamika's West Weald Wine",
     "ru": "Вино Западного вельда Тамики",
     "bel": "Віно Заходняга Вельда Тамікі",
@@ -32365,7 +32365,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DrinkWine3SurilieBetter",
-    "custom": "",
+    "custom": "Віно братоў Сурылі 415 года",
     "en": "Surilie Brothers Vintage 415",
     "ru": "Вино Братьев Сурили 415 года",
     "bel": "Віно Братоў Сурылі 415 года",
@@ -32374,7 +32374,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DrinkWine4TamikaBetter",
-    "custom": "",
+    "custom": "Віно Тамікі 415 года",
     "en": "Tamika Vintage 415",
     "ru": "Вино Тамики 415 года",
     "bel": "Віно Тамікі 415 года",
@@ -32383,7 +32383,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DrinkWine5SurilieBest",
-    "custom": "",
+    "custom": "Віно братоў Сурылі 399 года",
     "en": "Surilie Brothers Vintage 399",
     "ru": "Вино Братьев Сурили 399 года",
     "bel": "Віно Братоў Сурылі 399 года",
@@ -32392,7 +32392,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DrinkWine6TamikaBest",
-    "custom": "",
+    "custom": "Віно Тамікі 399 года",
     "en": "Tamika Vintage 399",
     "ru": "Вино Тамики 399 года",
     "bel": "Віно Тамікі 399 года",
@@ -32401,7 +32401,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DroNahrah",
-    "custom": "",
+    "custom": "Дро'Нара",
     "en": "Dro'Nahrahe",
     "ru": "Дро'Нара",
     "bel": "Дро'Нара",
@@ -32410,7 +32410,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DrofahrFaction",
-    "custom": "",
+    "custom": "Фракцыя Дро'фар",
     "en": "Dro'fahr Faction",
     "ru": "Фракция Dro'fahr",
     "bel": "Фракцыя Dro'fahr",
@@ -32419,7 +32419,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Druja",
-    "custom": "",
+    "custom": "Дружа",
     "en": "Druja",
     "ru": "Дружа",
     "bel": "Дружа",
@@ -32428,7 +32428,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DryadSaddlePolyporeCap",
-    "custom": "",
+    "custom": "Шапка лускаватага трутавіка",
     "en": "Dryad Saddle Polypore Cap",
     "ru": "Шляпка чешуйчатого трутовика",
     "bel": "Шапка лускаватага трутавіка",
@@ -32437,7 +32437,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DulfishgroOrum",
-    "custom": "",
+    "custom": "Далфіш гро-Орум",
     "en": "Dulfish gro-Orum",
     "ru": "Далфиш гро-Орум",
     "bel": "Далфіш гро-Орум",
@@ -32446,7 +32446,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DulgroShug",
-    "custom": "",
+    "custom": "Дул гро-Шаг",
     "en": "Dul gro-Shug",
     "ru": "Дул гро-Шаг",
     "bel": "Дул гро-Шаг",
@@ -32455,7 +32455,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DulgroShugFaction",
-    "custom": "",
+    "custom": "Фракцыя Дула гро-Шага",
     "en": "DulgroShug Faction",
     "ru": "Фракция DulgroShug",
     "bel": "Фракцыя DulgroShug",
@@ -32464,7 +32464,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DulgroShugsHouseKey",
-    "custom": "",
+    "custom": "Ключ Дула гро-Шага",
     "en": "Dul gro-Shug's Key",
     "ru": "Ключ Дула гро-Шага",
     "bel": "Ключ Дула гро-Шага",
@@ -32473,7 +32473,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DumaniaJirich",
-    "custom": "",
+    "custom": "Думанія Джырыч",
     "en": "Dumania Jirich",
     "ru": "Думания Джирих",
     "bel": "Думкі Джырыха",
@@ -32482,7 +32482,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DunbarrowCove",
-    "custom": "",
+    "custom": "Данбараўская бухта",
     "en": "Dunbarrow Cove",
     "ru": "Бухта Данбарроу",
     "bel": "Бухта Данбараў",
@@ -32662,7 +32662,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungConjurerChestAlyied01",
-    "custom": "",
+    "custom": "Айлейдскі куфар",
     "en": "Ayleid Coffer",
     "ru": "Айлейдский сундук",
     "bel": "Айлейдскі куфар",
@@ -32671,7 +32671,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungConjurerChestAlyied02",
-    "custom": "",
+    "custom": "Айлейдскі каўчэг",
     "en": "Ayleid Reliquary",
     "ru": "Айлейдский ковчег",
     "bel": "Айлейдскі каўчэг",
@@ -32770,7 +32770,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungMarauderBossChestAlyied01",
-    "custom": "",
+    "custom": "Айлейдскі куфар",
     "en": "Ayleid Coffer",
     "ru": "Айлейдский сундук",
     "bel": "Айлейдскі куфар",
@@ -32779,7 +32779,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungMarauderBossChestAlyied02",
-    "custom": "",
+    "custom": "Айлейдскі каўчэг",
     "en": "Ayleid Reliquary",
     "ru": "Айлейдский ковчег",
     "bel": "Айлейдскі каўчэг",
@@ -32851,7 +32851,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungMythEnemyBossChestAlyied01",
-    "custom": "",
+    "custom": "Айлейдскі куфар",
     "en": "Ayleid Coffer",
     "ru": "Айлейдский сундук",
     "bel": "Айлейдскі куфар",
@@ -32860,7 +32860,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungMythEnemyBossChestAlyied02",
-    "custom": "",
+    "custom": "Айлейдскі каўчэг",
     "en": "Ayleid Reliquary",
     "ru": "Айлейдский ковчег",
     "bel": "Айлейдскі каўчэг",
@@ -32959,7 +32959,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungNecroBossChestAlyied01",
-    "custom": "",
+    "custom": "Айлейдскі куфар",
     "en": "Ayleid Coffer",
     "ru": "Айлейдский сундук",
     "bel": "Айлейдскі куфар",
@@ -32968,7 +32968,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungNecroBossChestAlyied02",
-    "custom": "",
+    "custom": "Айлейдскі каўчэг",
     "en": "Ayleid Reliquary",
     "ru": "Айлейдский ковчег",
     "bel": "Айлейдскі каўчэг",
@@ -33040,7 +33040,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungOblivionBagOfBones",
-    "custom": "",
+    "custom": "Мясісты кокан",
     "en": "Fleshy Pod",
     "ru": "Мясистый кокон",
     "bel": "Мясісты кокан",
@@ -33049,7 +33049,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungOblivionBossClawExt02",
-    "custom": "",
+    "custom": "Мясісты кокан",
     "en": "Fleshy Pod",
     "ru": "Мясистый кокон",
     "bel": "Мясісты кокан",
@@ -33058,7 +33058,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungOblivionBossClawInt01",
-    "custom": "",
+    "custom": "Пакараны",
     "en": "The Punished",
     "ru": "Наказанный",
     "bel": "Пакараны",
@@ -33067,7 +33067,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungOblivionBossSack01",
-    "custom": "",
+    "custom": "Мясісты кокан",
     "en": "Fleshy Pod",
     "ru": "Мясистый кокон",
     "bel": "Мясісты кокан",
@@ -33076,7 +33076,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungOblivionBossSack02",
-    "custom": "",
+    "custom": "Мясісты кокан",
     "en": "Fleshy Pod",
     "ru": "Мясистый кокон",
     "bel": "Мясісты кокан",
@@ -33085,7 +33085,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungOblivionClawExt01",
-    "custom": "",
+    "custom": "Мясісты кокан",
     "en": "Fleshy Pod",
     "ru": "Мясистый кокон",
     "bel": "Мясісты кокан",
@@ -33094,7 +33094,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungOblivionClawExt02",
-    "custom": "",
+    "custom": "Мясісты кокан",
     "en": "Fleshy Pod",
     "ru": "Мясистый кокон",
     "bel": "Мясісты кокан",
@@ -33103,7 +33103,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungOblivionClawExt03",
-    "custom": "",
+    "custom": "Мясісты кокан",
     "en": "Fleshy Pod",
     "ru": "Мясистый кокон",
     "bel": "Мясісты кокан",
@@ -33112,7 +33112,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungOblivionClawInt01",
-    "custom": "",
+    "custom": "Пакараны",
     "en": "The Punished",
     "ru": "Наказанный",
     "bel": "Пакараны",
@@ -33121,7 +33121,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungOblivionClawInt02",
-    "custom": "",
+    "custom": "Пакараны",
     "en": "The Punished",
     "ru": "Наказанный",
     "bel": "Пакараны",
@@ -33130,7 +33130,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungOblivionClawIntHealing",
-    "custom": "",
+    "custom": "Пакараны",
     "en": "The Punished",
     "ru": "Наказанный",
     "bel": "Пакараны",
@@ -33139,7 +33139,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungOblivionClawRD002A",
-    "custom": "",
+    "custom": "Забаронены",
     "en": "The Forbidden",
     "ru": "Запретный",
     "bel": "Забаронены",
@@ -33148,7 +33148,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungOblivionClawRD002B",
-    "custom": "",
+    "custom": "Забаронены",
     "en": "The Forbidden",
     "ru": "Запретный",
     "bel": "Забаронены",
@@ -33157,7 +33157,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungOblivionSackGround01",
-    "custom": "",
+    "custom": "Мясісты кокан",
     "en": "Fleshy Pod",
     "ru": "Мясистый кокон",
     "bel": "Мясісты кокан",
@@ -33166,7 +33166,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungOblivionSackHanging01",
-    "custom": "",
+    "custom": "Мясісты кокан",
     "en": "Fleshy Pod",
     "ru": "Мясистый кокон",
     "bel": "Мясісты кокан",
@@ -33175,7 +33175,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungOblivionSackHanging02Healing",
-    "custom": "",
+    "custom": "Мясісты кокан",
     "en": "Fleshy Pod",
     "ru": "Мясистый кокон",
     "bel": "Мясісты кокан",
@@ -33202,7 +33202,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungTombBossChestAlyied01",
-    "custom": "",
+    "custom": "Айлейдскі куфар",
     "en": "Ayleid Coffer",
     "ru": "Айлейдский сундук",
     "bel": "Айлейдскі куфар",
@@ -33211,7 +33211,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungTombBossChestAlyied02",
-    "custom": "",
+    "custom": "Айлейдскі каўчэг",
     "en": "Ayleid Reliquary",
     "ru": "Айлейдский ковчег",
     "bel": "Айлейдскі каўчэг",
@@ -33283,7 +33283,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungVampireBossChestAlyied01",
-    "custom": "",
+    "custom": "Айлейдскі куфар",
     "en": "Ayleid Coffer",
     "ru": "Айлейдский сундук",
     "bel": "Айлейдскі куфар",
@@ -33292,7 +33292,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DungVampireBossChestAlyied02",
-    "custom": "",
+    "custom": "Айлейдскі каўчэг",
     "en": "Ayleid Reliquary",
     "ru": "Айлейдский ковчег",
     "bel": "Айлейдскі каўчэг",
@@ -33364,7 +33364,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DunrootBurrow",
-    "custom": "",
+    "custom": "Данруцкі Барлог",
     "en": "Dunroot Burrow",
     "ru": "Данрутский Барлог",
     "bel": "Данруцкі Барлог",
@@ -33373,7 +33373,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DwarvenBoots",
-    "custom": "",
+    "custom": "Двэмерскія боты",
     "en": "Dwarven Boots",
     "ru": "Двемерские сапоги",
     "bel": "Двэмерскія боты",
@@ -33382,7 +33382,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DwarvenCuirass",
-    "custom": "",
+    "custom": "Двэмерскі кірас",
     "en": "Dwarven Cuirass",
     "ru": "Двемерская кираса",
     "bel": "Двэмерскі кірас",
@@ -33391,7 +33391,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DwarvenGauntlets",
-    "custom": "",
+    "custom": "Двэмерскія пальчаткі",
     "en": "Dwarven Gauntlets",
     "ru": "Двемерские перчатки",
     "bel": "Двэмерскія пальчаткі",
@@ -33400,7 +33400,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DwarvenGreaves",
-    "custom": "",
+    "custom": "Двэмерскія нагавіцы",
     "en": "Dwarven Greaves",
     "ru": "Двемерские поножи",
     "bel": "Двэмерскія нагавіцы",
@@ -33409,7 +33409,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DwarvenHelmet",
-    "custom": "",
+    "custom": "Дзвемерскі шлем",
     "en": "Dwarven Helmet",
     "ru": "Двемерский шлем",
     "bel": "Двэмерскі шлем",
@@ -33418,7 +33418,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DwarvenShield",
-    "custom": "",
+    "custom": "Дзвемерскі шчыт",
     "en": "Dwarven Shield",
     "ru": "Двемерский щит",
     "bel": "Двэмерскі шчыт",
@@ -33427,7 +33427,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DynariAmnis",
-    "custom": "",
+    "custom": "Дунары Амніс",
     "en": "Dynari Amnis",
     "ru": "Дунари Амнис",
     "bel": "Дунары Амніс",
@@ -33436,7 +33436,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DynariAmnisKey",
-    "custom": "",
+    "custom": "Ключ Дунары Амніс",
     "en": "Dynari Amnis' Key",
     "ru": "Ключ Дунари Амнис",
     "bel": "Ключ Дунары Амніс",
@@ -33445,7 +33445,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_DzonotCave02",
-    "custom": "",
+    "custom": "Дзонот — галоўная пячора",
     "en": "Dzonot Main Cavern",
     "ru": "Дзонот - Главная пещера",
     "bel": "Дзонот - Галоўная пячора",
@@ -33454,7 +33454,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_E3",
-    "custom": "",
+    "custom": "Дэманстрацыйная версія задання для E3",
     "en": "E3 Demo quest",
     "ru": "Демонстрационная версия задания для E3",
     "bel": "Дэманстрацыйная версія задання для E3",
@@ -33463,7 +33463,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_E3DaedrothBreath",
-    "custom": "",
+    "custom": "Ядавіты пар",
     "en": "Venemous Vapors",
     "ru": "Ядовитый пар",
     "bel": "Ядавіты пар",
@@ -33472,7 +33472,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_E3DaedrothKillArcher",
-    "custom": "",
+    "custom": "Ядавіты пар",
     "en": "Venemous Vapors",
     "ru": "Ядовитый пар",
     "bel": "Ядавіты пар",
@@ -33490,7 +33490,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_E3Horse",
-    "custom": "",
+    "custom": "Вараны конь",
     "en": "Black Horse",
     "ru": "Вороная лошадь",
     "bel": "Вараная конь",
@@ -33499,7 +33499,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_E3KvatchArcherFall01",
-    "custom": "",
+    "custom": "Імперскі легіянер",
     "en": "Imperial Legionnaire",
     "ru": "Имперский легионер",
     "bel": "Імперскі легіянер",
@@ -33508,7 +33508,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_E3KvatchCaptain01",
-    "custom": "",
+    "custom": "Капітан Імперскага легіёна",
     "en": "Imperial Legion Captain",
     "ru": "Капитан Имперского легиона",
     "bel": "Капітан Імперскага легіёна",
@@ -33544,7 +33544,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_E3KvatchSoldierALERT02",
-    "custom": "",
+    "custom": "Імперскі легіянер",
     "en": "Imperial Legionnaire",
     "ru": "Имперский легионер",
     "bel": "Імперскі легіянер",
@@ -33553,7 +33553,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_E3KvatchSoldierArcher02",
-    "custom": "",
+    "custom": "Імперскі легіянер",
     "en": "Imperial Legionnaire",
     "ru": "Имперский легионер",
     "bel": "Імперскі легіянер",
@@ -33562,7 +33562,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_E3KvatchStartSoldier",
-    "custom": "",
+    "custom": "Імперскі легіянер",
     "en": "Imperial Legionnaire",
     "ru": "Имперский легионер",
     "bel": "Імперскі легіянер",
@@ -33571,7 +33571,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Earana",
-    "custom": "",
+    "custom": "Ірана",
     "en": "Earana",
     "ru": "Ирана",
     "bel": "Ірана",
@@ -33580,7 +33580,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EaranaTopic",
-    "custom": "",
+    "custom": "Ірана",
     "en": "Earana",
     "ru": "Ирана",
     "bel": "Ірана",
@@ -33589,7 +33589,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EbonyBoots",
-    "custom": "",
+    "custom": "Эбанітавыя боты",
     "en": "Ebony Boots",
     "ru": "Эбонитовые сапоги",
     "bel": "Эбанітавыя боты",
@@ -33598,7 +33598,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EbonyCuirass",
-    "custom": "",
+    "custom": "Эбанітавы кірас",
     "en": "Ebony Cuirass",
     "ru": "Эбонитовая кираса",
     "bel": "Эбанітавы кірас",
@@ -33607,7 +33607,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EbonyGauntlets",
-    "custom": "",
+    "custom": "Эбанітавыя пальчаткі",
     "en": "Ebony Gauntlets",
     "ru": "Эбонитовые перчатки",
     "bel": "Эбанітавыя пальчаткі",
@@ -33616,7 +33616,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EbonyGreaves",
-    "custom": "",
+    "custom": "Эбанітавыя нагавіцы",
     "en": "Ebony Greaves",
     "ru": "Эбонитовые поножи",
     "bel": "Эбанітавыя нагавіцы",
@@ -33625,7 +33625,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EbonyHelmet",
-    "custom": "",
+    "custom": "Эбанітавы шлем",
     "en": "Ebony Helmet",
     "ru": "Эбонитовый шлем",
     "bel": "Эбанітавы шлем",
@@ -33634,7 +33634,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EbonyShield",
-    "custom": "",
+    "custom": "Эбанітавы шчыт",
     "en": "Ebony Shield",
     "ru": "Эбонитовый щит",
     "bel": "Эбанітавы шчыт",
@@ -33643,7 +33643,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EchoCave",
-    "custom": "",
+    "custom": "Пячора Рэха",
     "en": "Echo Cave",
     "ru": "Пещера Эхо",
     "bel": "Пячора Рэха",
@@ -33652,7 +33652,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EchoCave02",
-    "custom": "",
+    "custom": "Рэха — праходы",
     "en": "Echo Passages",
     "ru": "Эхо - Проходы",
     "bel": "Рэха - Праходы",
@@ -33661,7 +33661,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EchoCave03",
-    "custom": "",
+    "custom": "Рэха — пакой некраманта",
     "en": "Echo Necromancer's Chamber",
     "ru": "Эхо - Чертог некроманта",
     "bel": "Рэха - Пакой некраманта",
@@ -33670,7 +33670,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EchoCaveKey",
-    "custom": "",
+    "custom": "Ключ ад пячоры Рэха",
     "en": "Echo Cave Key",
     "ru": "Ключ от пещеры Эхо",
     "bel": "Ключ ад пячоры Рэха",
@@ -33679,7 +33679,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EchoMine",
-    "custom": "",
+    "custom": "Шахта Рэха",
     "en": "Echo Mine",
     "ru": "Шахта Эхо",
     "bel": "Шахта Рэха",
@@ -33688,7 +33688,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EdgarsDiscountSpellsKey",
-    "custom": "",
+    "custom": "Ключ ад заклінанняў Эдгара",
     "en": "Edgar's Discount Spells",
     "ru": "Ключ от Заклинаний Эдгара",
     "bel": "Ключ ад Заклінанняў Эдгара",
@@ -33697,7 +33697,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EduardDenile",
-    "custom": "",
+    "custom": "Эдуард Дзеніль",
     "en": "Eduard Denile",
     "ru": "Эдуард Дениль",
     "bel": "Эдуард Дзеніль",
@@ -33706,7 +33706,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_EduardRetiene",
-    "custom": "",
+    "custom": "Эдуард Рэцьен",
     "en": "Eduard Retiene",
     "ru": "Эдуард Ретьен",
     "bel": "Эдуард Рэцьен",
@@ -33715,7 +33715,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Eilonwy",
-    "custom": "",
+    "custom": "Эйлонві",
     "en": "Eilonwy",
     "ru": "Эйлонви",
     "bel": "Эйлонві",
@@ -33724,7 +33724,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Eitar",
-    "custom": "",
+    "custom": "Айтар",
     "en": "Eitar",
     "ru": "Айтар",
     "bel": "Айтар",
@@ -33733,7 +33733,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ElanteTOPIC",
-    "custom": "",
+    "custom": "Эланта Алінорская",
     "en": "Elante of Alinor",
     "ru": "Эланта Алинорская",
     "bel": "Эланта Алінорская",
@@ -33742,7 +33742,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ElanteofAlinor",
-    "custom": "",
+    "custom": "Эланта Алінорская",
     "en": "Elante of Alinor",
     "ru": "Эланта Алинорская",
     "bel": "Эланта Алінорская",
@@ -33751,7 +33751,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ElderCouncilTopic",
-    "custom": "",
+    "custom": "Рада старэйшын",
     "en": "Elder Council",
     "ru": "Совет Старейшин",
     "bel": "Рада Старейшын",
@@ -33760,7 +33760,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_Eletta",
-    "custom": "",
+    "custom": "Элета",
     "en": "Eletta",
     "ru": "Элетта",
     "bel": "Элета",
@@ -33769,7 +33769,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ElfBraid",
-    "custom": "",
+    "custom": "Коскі",
     "en": "Wind Braids",
     "ru": "Косички",
     "bel": "Коскі",
@@ -33778,7 +33778,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ElfCupCap",
-    "custom": "",
+    "custom": "Шапачка саркосціфы",
     "en": "Elf Cup Cap",
     "ru": "Шляпка саркосцифы",
     "bel": "Шапачка саркосціфы",
@@ -33787,7 +33787,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ElfPonytail",
-    "custom": "",
+    "custom": "Прысабраныя",
     "en": "Windbound",
     "ru": "Присобранные",
     "bel": "Прысабраныя",
@@ -33796,7 +33796,7 @@
   },
   {
     "key": "ST_FullNames/LOC_FN_ElixirofExploration",
-    "custom": "",
+    "custom": "Эліксір даследавання",
     "en": "Elixir of Exploration",
     "ru": "Эликсир исследования",
     "bel": "Эліксір даследавання",
